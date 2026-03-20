@@ -1,0 +1,918 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always
+ by my co-host, Kyle Helson. Thank you, everybody, for listening as always, and please subscribe
+ to the podcast wherever you're listening to it. If you have not yet, if you want to give
+ us an iTunes rating or a rating on whatever platform you're listening on, that would be
+ really wonderful, and the most wonderful thing would be to share this podcast if you enjoy
+ it. And remember that we're ad-free, so if you want to donate and support the podcast,
+ you can do so at empiricalcycling.com slash donate. We have the show notes for this episode
+ up on the website, empiricalcycling.com, and for all coaching and consultation inquiries,
+ questions, and comments, you can email empiricalcycling at gmail.com. We also have a little bit of
+ merch at empiricalcyclingpodcast.threadless.com. And as a follow-up, after this episode goes
+ up, we're going to be doing a listener questions episode on VO2 Max next. And so I'm going
+ to put up a listener questions thread on Reddit Velo for the questions, or you can email me
+ again at empiricalcycling at gmail.com.
+ So we have been kind of building up to this episode. It's going to be on training your
+ VO2 Max and ways to modify your training, your interval specifically, your workouts
+ on how and why I think we should do certain things. So Kyle, some thoughts on VO2 Max
+ maybe so far, as well as kind of what we see as typical VO2 Max training strategies.
+ So hopefully, if you've listened to the previous
+ few episodes, you have a good concept now of what VO2 Max is and how your body is actually
+ delivering that VO2 to your working muscles. I think what is probably the most common
+ traditional VO2 Max training that people think of is like five by five, this pretty cookie cutter.
+ 20, 125% of FTP for five minutes, five times in a row with some amount of rest in between. And
+ that's going to be our VO2 Max bread and butter workout. I think you can find analogous workouts
+ in other sport modalities as well. Okay. And so what about the effectiveness
+ of those workouts or maybe the perceived hardness or easiness of them?
+ I think that varies. I know some people like just dread VO2 work because it's going to be super,
+ super hard. And they think it's mentally much more taxing than a sweet spot workout, for example.
+ But then I always remember myself when I was doing endurance training that I thought those
+ five by five workouts were like super easy. And I was not really breathing that hard throughout
+ the workout. And like, I would even find myself like, I don't know, I don't know, I don't know,
+ I would even find myself like, oh, if it was supposed to be like, say you're doing like a
+ group workout or whatever, because it's early season for collegiate and it's supposed to be
+ 120%, 125%, whatever. I would find myself upping it because I felt like it wasn't hard enough. So
+ I would just up the intensity to something that was actually a little bit harder even,
+ but I was like, I, you know, maybe I'm just good at this thing. So whatever.
+ Yeah. So I think, I think there's a sort of range of reactions that you get. Whereas like,
+ the reactions you get to a standard sweet spot tempo type workout are pretty much the same for
+ everyone. Yeah. And that's actually one of those things kind of borne out by the data.
+ What this episode is about, I kind of want to start it out with a quote that I read
+ in a paper recently by David Montero and Carson Lunby. And I read this and I was like,
+ yeah, that's me. That's me in a nutshell. That's everything I'm trying to do. So it goes like
+ this. The ultimate goal of any area of physiology is to discover the fundamentals of how a given
+ function works, thus empowering to modify outcomes as desired. That is a good quote. I like that.
+ But yeah, this is my entire approach in a nutshell, really. It's my coaching philosophy.
+ And that's the idea behind this podcast, you know, to give all of you lovely listeners
+ the knowledge to inform your training decisions, which is also why I know there's no such thing as
+ miracle intervals. Sick of hearing about miracle intervals. There are no silver bullets. Yeah. But
+ having said that, this podcast today assumes that you've listened to at least the last two,
+ if not the last five now, Whatstock episodes. We're going to be referencing the studies and
+ their conclusions or talking about things like stroke volume and blood volume, diastolic filling
+ and preload, eccentric hypertrophy, diffusion gradients, and kind of assume that you know
+ what's up. But don't let that stop you yet, though.
+ You can still listen to this episode for the tips and get a pretty good understanding, but
+ here's a very quick primer. So the terms that we're going to use a lot are preload. This is
+ the amount of blood that fills the heart during diastole. Afterload is the resistance faced when
+ the heart contracts to push blood into the lungs and body. So more preload, more blood filling
+ before it contracts, means more heart stroke volume because of something called the Frank
+ Starling Law, where the more the heart is filled, the more blood is filled. So the more blood is
+ filled, the harder it contracts to empty it to the same amount or just about. The enlargement of
+ the heart to increase its maximum volume and stroke volume is known as eccentric hypertrophy.
+ And so when it comes to things like VO2 max, blood volume, peripheral adaptation,
+ like mitochondrial density and whatnot, these are all kind of, you know, they can be short-term
+ gains and, you know, long-term improvements like a VO2 difference. And the, what we've really come
+ to the conclusion of in the last couple episodes is that to physiologically improve your VO2 max
+ in the long-term, to really improve your number one long-term limiter, we need to focus on heart
+ stroke volume by focusing on cardiac preload, here we go with the terms, to induce eccentric
+ hypertrophy and not afterload, which will give us concentric adaptations. I mean, they're,
+ according to the level of knowledge we have now, they're fine, but it's just not what we're after
+ for long-term VO2 max improvements. So it's not like you have to like avoid lifting in case your
+ heart gets too thick. It's, it doesn't seem like it's like that. And we could have just done one
+ episode and stated all that in a little more detail. But I have learned to never take it for
+ granted that someone will just believe something that I say. You know, likewise, we could have
+ also just given you a short list of tips on how to improve your VO2 max intervals and just said,
+ good luck. But in my experiences,
+ as a coach, answering everyone's questions about why really helps improve training outcomes and
+ adherence to protocols and, you know, even ideas for improvements or how to individualize the
+ training when people understand the point of it and establishing the why is what we spent the last
+ five episodes setting up. I, I always really liked this approach that you have coming from
+ different sports, different sporting backgrounds. I feel like, especially when you're a lot younger,
+ you're, you're just told to like do the workout. I mean, I, I understand it's a little bit different
+ when you're, um, so you're in a team setting, like I was a swimmer for years. So you're not just
+ working with one athlete, one-on-one you're working with 30, 40, maybe 50 at one time.
+ And you're trying to prescribe a few different workouts to a bunch of different people. And,
+ and, and so you definitely have less time, even though you're training 20 hours a week and you
+ get FaceTime with the coach the whole time, you don't have as much time to like explain why you're
+ doing it. And so I think that's a really good approach. I think that's a really good approach.
+ the things you're doing. Um, and depending on the type of person you are, you may just be like,
+ all right, coach, like, you know, they say jump, you say how high, or you could be like
+ middle of the worker. This is stupid. Why am I doing this? I'm just gonna, I'm just gonna slack
+ off for the, for the second half. Cause this is dumb. I don't understand why I'm doing this.
+ So, um, I fully support that, that notion that having a better understanding of the physiology
+ or the reasoning behind what you're doing supports the training and supports your,
+ um, long-term development as a, as a athlete, as an athlete.
+ Yeah. And I definitely noticed there is a spectrum, uh, uh, there is a spread
+ of that in athletes where, you know, uh, some of the athletes are very inquisitive.
+ And I love that by the way. Um, they ask a lot of questions. Why are we doing this? How does this
+ work? Um, and you know, sometimes the answer is, I don't know, or I'll have to look up more on that
+ or, um, you know, or that's where we get ideas for individualizing the training even further. Um,
+ or there's people who just say, okay, cool. Just tell me what to do and I'll do it. And without
+ question, they do it, uh, which is also not optimal because, you know, you don't get that
+ much feedback. Um, and you want to, uh, you know, most coaches I think want to really make
+ the training fun as, um, or as fun as it is useful. Um, uh, yeah. Yeah. So
+ let's get this next thing out of the way first, because I'm sure this is something
+ uh, I, I actually don't think we've addressed this yet in the last five plus hours of talking.
+ Um, what are VO2 max intervals good for anyway? So VO2 max is the ability to move O2 to muscles.
+ And it's the volume of oxygen that you can move to your muscles. That is the ultimate limiter of
+ O2 utilization. If you can move it, you can use it and you can feel free to quote me on that.
+ So at the end of this episode, we'll,
+ get into some thoughts on the long-term interplay between like heart stroke volume and muscular
+ adaptations and stuff like that. If you're confused about why, you know, utilization in
+ the muscles is not the real long-term limiter of VO2 max, I refer you to Watts doc number 20 on
+ AVO2 difference. Um, and so while FTP itself, I'm sure some of you are thinking maybe a better
+ performance indicator, um, it's more highly correlated with, uh, better results in cycling.
+ Um, you cannot have a high
+ FTP without having a high VO2 max, like you'll never have an FTP higher than your VO2 max due to
+ various factors that we'll discuss in another episode drink. Uh, it'll probably never get much
+ higher than like 85% for most athletes. And some athletes I think are even lucky to be
+ taking a sniff at like 80%. Like I was one of those athletes for sure.
+ Oh yeah, for sure. Yeah, me too. Um, so VO2 max is necessary.
+ But not sufficient for high level endurance performance. Um, and necessary, but not
+ sufficient is something that you hear in a lot of areas of science. Uh, and you know,
+ the first person I heard say this is Andy Coggan, but I'm sure he heard somebody say
+ something very similar. Um, probably Ed Coyle thinking about it now. Um, but anyway, so this
+ is why VO2 max training is called raising the roof. If your FTP is 85, um, 86 per second,
+ of VO2 max hammering more FTP intervals for another year might get you like a half a percent
+ or 1.5 Watts on a 300 watt FTP. But that's, yeah, it's not much for a year of work,
+ but if you can add 10 Watts to your VO2 max on three or four weeks of training, then you get
+ to add way more than one and a half Watts to your FTP. And this is the part of the equation. Um,
+ and I plan for athletes who are developing versus those who are already at their peak
+ and kind of figuring out what's worth the time and the energy. So today we're going to go over
+ ways that you can improve your VO2 max intervals. Any interval set is my goal. Um, really, uh, with
+ the goal of improving your long-term fitness ceiling. And we're going to talk a little bit
+ about, you know, long-term short-term, uh, underlying things of VO2 max and stuff like that.
+ Um, so I'm not going to give you,
+ the exact prescriptions that I give my athletes because they vary anyway. Uh, but you know,
+ kind of like the, uh, FTP training episode, you'll definitely get a sense of how I operate
+ and don't get me wrong. There's still a couple of things I'm holding back. I'm not going to
+ give everything away. Um, but as usual, I will attempt to convey an understanding of how I apply
+ my understanding of physiology to the workouts that greatly increases their effectiveness.
+ Um, and also don't get me wrong. These adjustments are probably going to hurt,
+ uh, good. Yeah. But in awful and wonderful ways that are not pointless,
+ you and I make jokes about this all the time, but there's this very, uh, very American, um,
+ sporting and, or exercising philosophy of, or just work philosophy, just work philosophy in general
+ of, of if you're, you're doing something and it's not working out, you're not succeeding. You should
+ just work harder or the idea that a, an activity or a workout or an exercise is good for you because
+ it's hard and because it sucks while you're doing it. And I think that, um, this, this drives me
+ nuts sometimes. Cause like you have this, you have this thing of like, Oh, we're just going to
+ out, we're just going to outwork the other countries. We're just going to outwork the
+ other teams, whatever. Um, and that's like not a universally useful strategy. Um,
+ I don't know if it's a cultural American thing, but like, I think of Rocky, right. Where you have
+ this training montage of Rocky, like running in the, in the woods, dragging logs and stuff,
+ like punching beef carcasses. Yeah. Like, like punching, punching frozen, frozen beef carcasses
+ and stuff. And you're just like, America loves the, the like the hardworking underdog. Yeah.
+ Hardworking underdog. Who's, you know, packing his own lunch and stuff. Um, and then you even find
+ these sorts of things are pervasive through like big time, professional sports. These narratives
+ of just like going to work really hard, blah, blah, blah. Um, yeah. If you put your mind to it,
+ you can do anything. Yeah. And it's true to some extent, like hard work is good, but like,
+ if you're going to spend time doing something, hopefully it's more than just hard and it's
+ actually beneficial. Like, uh, just because a workout is hard, doesn't make it useful. Like
+ I can go out and do, you know, I can put on a,
+ a 400 pound vest and, and, and climb stairs, but like, is that, and that's going to be hard,
+ but is that going to make me a better cyclist? Yeah. Like you don't have to finish every session
+ totally dead. Uh, and that's one of the things that we're going to talk about actually in, um,
+ in periodizing, uh, well, we'll talk a little bit about periodizing this kind of work, but in terms
+ of, um, in terms of managing the fatigue of these intervals, we're definitely going to talk about
+ that because I am, I've been doing a lot of, I've been doing a lot of, I've been doing a lot of
+ this on the podcast, probably more than several times, um, that I'm extremely conscious of how
+ hard I make people work. And I don't ever want it to be gratuitous. I want it to have a point.
+ This is all to say that there's a point, uh, to my methodology here. And, um, and we're going to
+ talk a lot in detail about, uh, how I find myself differing from a lot of the typical, uh, VO2max
+ prescriptions. So everything that we're going to talk about today is targeted directly at
+ increasing diastolic filling volume to increase eccentric hypertrophy through preload.
+ And we're going to actually get to a cool study on that very shortly. So if you're not sure what
+ any of that means, like I said, please listen to the last couple of Wattstock episodes and they all
+ go into this in very great depth. Um, and these are also targeted at trained athletes. So if you
+ hit a plateau that, hello, this is for you. Um, but despite that, uh, I've still gone straight for
+ this type of stuff with, uh, VO2max on people who are relatively new to training, obviously not on
+ day one, uh, you know, when they're ready, um, and, you know, we're gradually introducing this,
+ you know, this level of workload. Um, but it's, I find it's been a very good decision
+ in the longterm because people develop much, much faster. And we'll talk a little more about
+ that. So the first thing I want everybody to get into their head when thinking about VO2max
+ intervals is to ignore power and only kind of, uh, pay attention to heart rate. And we'll get
+ into a little bit on why. Um, so for instance, like FTP intervals assigned as a certain percentage
+ of FTP, uh, these are varyingly effective or not effective. And in my experience,
+ they are more often not effective. Um, because the better your sprint or one minute power,
+ um, the more tie your VO2max intervals to your FTP is a bad move. I mean, cause VO2 is not
+ linked to power output per se. Like there's no such thing as VO2max power. And by this
+ particularly, I mean, there's not like one number associated with, I'm going to ride at this level
+ of power and I'm going to be at a hundred percent VO2max. It doesn't work like that. Obviously
+ those of you who are reading a lot of the training literature out there know that there's a range of
+ powers that can elicit VO2max. Um, but the other thing here is that if your FTP is at some percentage
+ of VO2max, then obviously your VO2max is at some percentage of your FTP, right? Um, yes, but only
+ when we look at liters per minute, like only when we look at things in terms of direct VO2, um, do
+ this relationship. So when we look at power, the relationship between power output and VO2 in liter
+ per minute changes with time. And we saw this in Wattstock 18 and 19, while talking about,
+ you know, ramp test lengths, changing your, what people find as their quote unquote VO2max power.
+ So for instance, in Wattstock number 19, we talked about how a study, um, did a three minute effort,
+ uh, one S steady state, and they hit a hundred percent VO2max,
+ kind of right at the end, or the subject started with an all out sprint and they were barely
+ pedaling at the end at like 200 Watts. And they were at a hundred percent VO2max for like half of
+ that. Um, and by the way, this is the cover art for Wattstock number 19. So you can check out that
+ graph right there. Um, what about the slow component and VO2 and heart rate drift to a
+ hundred percent VO2max? Um, I personally avoid this approach to intervals because you can hit
+ heart rate max without hitting a hundred percent VO2max or a hundred percent VO2max.
+ You can hit a hundred percent diastolic filling volume and vice versa. So there's a lot of stuff
+ going on under the hood that we actually cannot measure without some specialized equipment.
+ So this is, uh, this is actually part of the reasoning behind the approach that I have is
+ because we don't know certain things. And so in my approach, it's best to just go with what I am
+ absolutely certain will affect your eccentric hypertrophy as opposed to things that we're
+ pretty sure, but we may not know.
+ We'll, we'll see in a little bit. Um, so the relationship between heart rate and VO2 is better,
+ but not great. And, you know, we'll see a study on this in a little bit. Um, and my training
+ strategies to kind of take care of these concerns, but here's an overview. So heart rate can change
+ based on things like hydration, which affects blood volume, which affects preload or caffeine,
+ autonomic stimulation, or hypedness. Uh, how hyped are you? How amped up are you for this workout? Um,
+ heat, sleep, um, even if you're not in the right state of mind, you're not in the right state of mind.
+ Um, even fatigue from previous intervals in the same session, or even in the same interval are
+ going to affect this. Um, so for instance, in the Adami study referenced in Wattstock 18 shows the
+ test group, um, reaching an average VO2 max, uh, uptake in the 32nd ramp stages, but with a heart
+ rate, five BPM lower than in all the subsequent tests. So they actually, so they only hit one
+ 83, uh, peak heart rate versus one 88 for the rest of the tests where they, where they did
+ longer ramps. So this is what I'm talking about with the fatigue of the same interval. So that
+ can affect your heart rate as well. Uh, so blood volume, um, we have a reference in the show notes,
+ not going to get into this. Um, but there's a, uh, study by Montero, um, study does, uh,
+ six weeks of endurance training on relative, relatively new people. Um, and all of the
+ improvements, including stroke volume are a hundred percent explained by blood volume
+ tangent and went away when phlebotomized. Uh, so they did all that hard work for nothing.
+ So long-term effects in blood volume also affects heart rate. As we saw in the coil study that
+ actually bridged the last two episodes together. So all of this is to say that heart rate is better
+ correlated with VO2 max than power, but not tight enough that we can say, for instance, if you don't
+ hit max heart rate, you weren't at VO2 max or vice versa. We can also not say for sure you hit max
+ heart rate. So you were dead.
+ Definitely a VO2 max, which is just not the case. So this is not an issue. If your philosophy is
+ different than mine in which you are looking for more time at 90 to 95% VO2 max or heart rate,
+ which is fine, but that's not my approach. And again, uh, we're going to explain why in a minute.
+ Um, and also we cannot say for sure that a given heart rate, and this is the most important thing
+ means a given stroke volume. So we're going to get into that in just a second, but the conclusion
+ is that if we just say, all right, a hundred percent or 95% VO2 max, or perhaps heart rate max
+ or something like that, or assign a power value, these are all emergent phenomena of multiple
+ intertwined physiological systems. And that's the thing that we've been teasing apart and all of the
+ episodes setting up this episode. Yeah, that makes sense. You kind of did a quick tour of a lot of
+ things we've talked about last couple of last three episodes, but then also kind of bring it back to the
+ idea that trying to measure the amount of VO2 max stimulus that you're getting just based off of
+ power or heart rate numbers is, you know, iffy at best. Yeah. Or as we're going to see in just a
+ second, VO2, if we are looking at increasing heart stroke volume in the longterm, we want
+ to increase diastolic filling volume. And we can not say for sure that a certain VO2
+ is related to diastolic filling volume. So, all right, this brings us to our first tip.
+ Tip number one, increase your cadence. Interesting. If you take only one thing from this podcast,
+ take this, and that's why I'm putting this first. So the study is called cycling cadence alters
+ exercise hemodynamics. If you thought you could get a straight workout tips episode without diving
+ into a great paper, you would of course be wrong. So,
+ what are you new here? Uh, for the, for the new listeners, uh, thank you for listening. And yes,
+ we are always like this. This study took seven trained men with an average VO2 max of 70.5 plus
+ or minus 3.6 milliliters per minute per kilogram. So very well-trained people. They had these
+ subjects pedal at 200 Watts, but they had them do it at different cadences, 70, 90, and 110 RPM.
+ And the investigators,
+ measured all the fun stuff, stroke volume, a VO2 difference across the body, uh, heart rate,
+ cardiac output, that's Q, um, you know, product of stroke volume and heart rate, uh, systolic and
+ diastolic blood pressure, systemic vascular resistance, um, MAP divided by Q if you're
+ interested and VO2. So we have three trials of pedaling at 200 Watts at three different cadences.
+ So heart rate for all these three trials, um, at 70, 90, and 110 RPM, uh,
+ varied. So it was, um, 161, 163, and 169 BPM average for these three trials. So we see the
+ heart rate going up with increasing cadence, right? And I think a lot of people will be able
+ to anecdotally confirm that kind of, uh, result as well. Yeah, definitely. Um, and now let's think
+ about why. So VO2 increased through these for the same power output. So the oxygen required
+ out the same power output changes with your cadence and increases with the cadence. So at 70,
+ 90, and 110 RPM, it required 3.2, 3.4, and 3.7 liters a minute average respectively. So, um,
+ these all have very small error bars by the way, and they all have significant differences between
+ them. So cardiac output for these cadences, low to high, 18.2, 21, and 24.5 liters a minute.
+ That's pretty big. It's very big. And all you're doing is adding 40 RPM and you get to,
+ you know, you're increasing your stroke volume by six liters a minute. It's huge. Yeah. So depending
+ on how you want to do that number, that's either 30% or 25%, depending on how you're, you're going
+ to say it is it is 18, 18 is either 25% less than 24 and a half or 24 and a half is 33% more than 18.2
+ liters. Trust your math. Um, all right. So now check this out. The systemic vascular resistance
+ went down a little bit with increasing cadence as well. So that means less resistance to blood flow,
+ but probably more interestingly, AVO2 difference went down. So this is across the heart, like the
+ some difference in the muscles. Um, so why did AVO2 difference decrease as VO2 increased? So the
+ authors don't go into this, but my educated guess for AVO2 difference is higher cardiac output at
+ the same O2 requirement means the time component of the O2 diffusion, please refer to what stock
+ number 20 for this goes down. But since the flux of hemoglobin through capillary beds is much higher,
+ the relative amount of O2 required per liter of blood is
+ lower. So the Delta of concentration difference can stay a little higher as well. This also
+ explains the part of the increased VO2 difference, uh, a little bit too, because the convective flux
+ of hemoglobin is higher and capillaries are always operating at a much larger pressure Delta,
+ you know, using smaller, uh, using smaller motor units. So lower force for higher cadence,
+ obviously that contract more frequently and 60% more frequent contractions.
+ Um, you know, between 70 and 110 RPM requires more energy to move the legs in space and even more
+ energy is like mass goes up. Sorry, sprinters, but also the protein, uh, circa S E R C A needs to spend
+ a lot more energy because it's the one that mops up the calcium ions from inside the muscle cells
+ and brings them back into the sarcoplasmic reticulum. So you need to spend a lot more
+ energy to counteract that entropy again, refer to what stock number 20. All right. So the VO2
+ increase in and of itself is probably a good enough reason to increase cadence since for the
+ same power output and you're using smaller motor units to do, to, you know, do a little decreasing
+ of peripheral fatigue, uh, we can actually increase VO2. And if that's our blunt instrument
+ way of measuring effectiveness of intervals, uh, we can increase their effectiveness just by
+ increasing cadence. So if you want to work at a little higher percentage of VO2, increase your
+ cadence. And if you want to work at a little higher percentage of VO2, increase your cadence.
+ And in terms of the fatigue, believe me and the people I coach, um, that the fatigue really does
+ add up doing these intervals and I avoid it anywhere I can. So I've had more than one person
+ say to me in just the last month alone that they felt like if they had been doing the same intervals
+ at normal cadence, they would be completely wrecked. And the higher cadence allowed them to
+ keep pushing on the intervals. You know, once they got used to,
+ you know, pedaling at a higher frequency.
+ One thing I, I find interesting about this is that I always found, especially when I was doing
+ more VO2 intervals as opposed to never, um, that I was definitely one of the more of the type of
+ person who wanted to do them at a little bit lower cadence. Like I find myself being more of a,
+ generally a higher cadence rider. Like if I want to cruise around, I'm more like over 90, 95,
+ something like that.
+ Um, and I always found that like, oh, if I was going to do like hard three,
+ five minute intervals that I would like drop the cadence a little bit to like mid eighties or
+ something. Um, yeah, this is really, really common actually. Yeah. Um, and you know, the,
+ the thing that I've talked to a lot of people about with this is that they're saying, I feel
+ like I cannot generate any power at higher cadences. And the answer is you can't like,
+ you just cannot, but you know, despite the fact that your power output is lower,
+ I said, don't think about power output with VO2 because we can get better adaptations by increasing
+ the cadence, even if your power output drops a little bit. And I'm going to tell you why. So
+ if we think back and look at these slightly different heart rates, um, for these three
+ cadences from, you know, 161 BPM at 70 RPM, cardiac output at 18.2 liters per second,
+ and let's go right to the one 10, uh, at 169 BPM, putting out 24.5 liters a minute.
+ So does this mean that stroke volume changed or not?
+ Well, if you remember what happened at the last episode,
+ yeah, uh, yeah, this was one of the hints from the last episode, um, about decreasing cadence,
+ decreasing, uh, cardiac, uh, return by the muscle pump mechanism. So what happened is,
+ stroke volume increased. So at 70 RPM, stroke volume was 114 milliliters a minute
+ at 90 RPM. Stroke volume was 130 milliliters a minute at 110 RPM. We're at 145 milliliters a
+ minute. Wow. Yeah, this is awesome. So let's compare this about 8 BPM. Let's call it 10 BPM
+ to be generous and compare it to the increase.
+ In stroke volume in the heart rate study from last episode, in this here cadence study,
+ we're seeing about a 30 milliliter increase in stroke volume from 161 to 169 BPM. Let's just
+ call it 160 to 170 or about 15 milliliters of increase per, um, per 20 RPM in the heart rate
+ study in the trained subjects, an increase in power output that raised heart rate from 160 to
+ 170 BPM only increased stroke volume by five.
+ Milliliters on average, or 30% of what we see by only changing the cadence without changing the
+ power. Interesting. Yeah. So we get to increase stroke volume by 15 milliliters and only increase
+ heart rate about four or 5 BPM by adding 20 RPM to cadence. That is extremely noteworthy because
+ remember what we're after. We're after diastolic filling. You're after the stimulus in the heart
+ muscle. Exactly. Self. Yeah. And so we're after diastolic filling. We're after diastolic filling.
+ So how and why does cadence so effectively increase stroke volume? We just mentioned this
+ a second ago. So remember, uh, the, what I just, what we just talked about now and last episode,
+ especially the muscle pump and this being one of the determinants of cardiac preload. Um, and so,
+ yeah, so we definitely talked about, uh, potentially lower cadences, you know, on like
+ cobbled sectors and whatnot, uh, reducing it, but here's how that works in, you know, increasing
+ cadence, increasing the muscle pump effectively.
+ Muscle contraction squeezes veins and these veins have one way valves and this squeezing increases,
+ uh, the venous blood return to the heart and increases preload volume. And so why is preload
+ volume important? Because of the Frank styling law. So the more your heart stretches, the harder
+ it pumps. But we saw last episode that the untrained heart reaches a plateau and in the
+ trained, the heart apparently does not. Uh, yeah. Right. And so because of that, it's easy to induce
+ the untrained where you just add plasma volume and stroke volume increases. And then at a certain
+ point, you've got that plateau, right? Um, and then, you know, just working above that plateau,
+ you are working at your max diastolic filling volume. And so we are sure that just working
+ pretty hard, high heart rates, you know, high, uh, high power output, high O2 or high VO2,
+ you are going to almost definitely be getting some adaptation here because, you know, you're
+ working at your max filling volume. Like, of course, you're going to be getting some adaptation
+ you're trying to stretch your heart. But we saw in the coil study on plasma infusion of trained
+ subjects that they did find a max stroke volume, right? So infusing lost plasma in the detrained
+ brought back stroke volume and some VO2 max, but in the trained plasma infusion and increasing
+ blood volume, which normally increases stroke volume, you know, it resulted in no increase
+ in VO2 max or stroke volume. So they apparently maxed it out.
+ Hmm. Your body naturally was, was already on top of it.
+ Exactly. So my operating principle that's helped me successfully improve, uh, VO2 max and people
+ who thought they're, they might have no more room for improvements, you know, we're working on this
+ and we're working on inducing as much preload as possible. Um, you know,
+ with a combination of the muscle pump and everything else we're going to talk about
+ in this episode. Um, and so that not only will increasing cadence increase O2 required for
+ the same power output, it, you know, will increase your stroke volume, which means it's much more
+ likely that our intervals are causing the adaptation that we want to our primary long-term
+ limiter of stroke volume. So the additional VO2 and the muscle pump, you know, may hopefully,
+ um, expose a stroke volume plateau in some athletes, the same way that plasma volume
+ infusion seemed to in the coil study with the trained athletes and working over this plateau.
+ If it's there means that we are sure the heart will be generating eccentric hypertrophy stimulation
+ and more than it would be doing with more standard intervals. And, you know, think about this. We
+ haven't talked about this in muscles, uh, skeletal muscles specifically yet, but we cannot
+ eccentrically load the heart muscle the same way we can load skeletal muscle. Right. So you can
+ lower 300 pounds on one leg, for instance, but that doesn't mean that you can't load the heart muscle
+ back up. It doesn't change the fact that you can only bring 150 pounds back up, you know, because
+ you can just load more weights and you can lower more and more weights because that's how, uh, you
+ know, skeletal muscle can work eccentrically. We can lower a lot of weight successfully, but we
+ can't bring it back up. But with the heart, we cannot pile on more plates. Right. Literally
+ our only mechanism to induce eccentric hypertrophy is more preload. And that's why I've
+ got higher cadence as the first and most important tip here. It's interesting. Cause I, this is a
+ little bit of a tangent, but I remember long, long time ago, um, way before I was doing any of this,
+ you know, uh, reading a question on, um, uh, on Reddit, someone said, well, okay. So if,
+ if exercise, you know, the government says you're supposed to get a certain amount of
+ cardiovascular exercise per week. Like why does, why,
+ what is it about exercise that makes it effective beyond just your heart rate going up? Like why
+ can't you just take a drug that like elevates your heart rate for 20 minutes, four times a day,
+ four times a week or whatever, and get the same benefits. And like, they were clearly missing all
+ of this. In addition to the fact that if you just sit there with an elevated heart rate,
+ you're not actually utilizing more, like your muscles aren't doing anything. But, um, I, I,
+ you know, there's so much complexity to some of this of what your body is actually doing
+ when, and just looking at heart rate or power or something is simplifying and stripping away a lot
+ of those, um, those nuances there. Right. And that brings me back, of course, to the quote that we
+ started off this episode with is when you understand what's going on underneath, you know,
+ how to manipulate things in order to cause whatever adaptation you want. Right. Yep. And so
+ with, uh, with the increase in cadence, uh,
+ um, we actually have some more general benefits, you know, especially we get to use smaller motor
+ units and, you know, we've talked a little bit about this, but we haven't gone too in depth with
+ it yet. Obviously learning to be comfortable while spinning faster is good for, you know,
+ a track rider or being in a crit where, you know, it's easier to accelerate from a hundred RPM than
+ it is from 60. Um, and we're also improving VO two max that we absolutely need to work on for
+ long-term adaptations, of course. But honestly, um,
+ you know, like we said, you're not going to be able to put out quite as much power at higher
+ cadence, but that's okay. The VO two max and the stroke volume improvements that you're going to
+ get in the longterm are well worth it. But if we want to keep pushing stroke volume and cardiac
+ output, there are additional things to do to increase the aerobicness and the cardiacness
+ of our intervals. So tip number two is to ignore power and go,
+ max. So we talked a little bit about this already. So I think one of the biggest mistakes
+ that anyone makes with VO two max work is assigning a power target. And we're going to,
+ don't worry. It's not that simple. Um, so hold on, let's get through this.
+ Why? Because of what we mentioned, the relationship between power time and O2 uptake. So I find that
+ there are two types of athletes who have issues with usual power assignments, people with a ton
+ of anaerobic capacity, and people with a lot of anaerobic capacity, and people with a lot of
+ FTP relative to VO two max, or people with no anaerobic capacity. So let's think about why. So
+ if you have a lot of anaerobic capacity or quote unquote FTP headroom, like your FTP is at like 70,
+ 75% of your VO two max, it can take so long to get up to a decent amount of O2 uptake that you need
+ to do 30, 40 minutes of intervals above FTP before you start breathing hard enough. And that is a ton
+ of kilojoules.
+ Yeah. And I I've seen this with a lot of people too. Um, and people like five by five, try 10 by
+ five, not kidding. Like four by eight, five by eight. Um, let's kind of look at the dynamics of
+ this. So as you start writing VO two, you know, it may only get to like 90, 95%. It's hard to tell
+ without measuring directly. Um, you know, especially without, you know, knowing diastolic
+ filling volume, we cannot be sure where you're at with these.
+ All right. So the, the, the big problem with all of this, I think is that it can take a long time
+ to get to sufficient, uh, cardiac stress with preload, um, while doing these longer steady
+ state intervals or just more of them. So like when I was starting out and I got these given to me
+ like five by five minutes with two and a half, five minute, 10 minute rest, whatever it was,
+ I would barely feel the first two lip, like breathing through my nose. The middle one
+ kind of started getting hard. And the last one,
+ I noticed myself starting to breathe hard, but really it's no big deal. And my coach was like,
+ oh, you just got 25 minutes at VO two max. I'm like, I did. I, I thought it was a max
+ breathing harder than that. Um, and so like I had a 280 watt FTP, um, and getting intervals
+ assigned to like 330 Watts. But what I found later, you know, training myself is that my
+ intervals were actually my five minute intervals were at like 370 to 400 Watts to really effectively
+ train my VO two max.
+ Uh, which as someone with both low FTP relapse to VO two max and a large anaerobic capacity was
+ actually a pretty standard VO two max workout for me. And that's going max. On the other hand,
+ if you have low FTP headroom or you're fatigued, then you can have a hard time holding onto power.
+ You know, in, in one way that's good since as you fatigue, you know,
+ your power is going to drop, but you can still be at or near a hundred percent VO two max.
+ And you know, cardiac stress and preload as the power drops, as we saw in the sprint and hold
+ versus steady state, uh, you know, cover art that we mentioned before, or if what we're looking at
+ is, you know, too excessive fatigue, you can actually be too tired to elicit high VO two
+ or high, high cardiac stress. If you are having trouble holding onto your intervals,
+ it's bad because people get discouraged from not hitting their power targets. Right. And so when,
+ if you just kept pedaling and accepted, not quite holding a power target,
+ you'd be getting in good training anyway. You know, you feel like you're pushing hard
+ and you're breathing hard, your heart rates way up. Um, and you know, especially with the breathing,
+ if you feel like you're gasping fish on a boat, like you were doing it, right. You're pushing
+ hard enough. And when you cannot get to that point anymore, now you're too tired to keep going.
+ That's interesting. Cause I feel like in, um, training and racing with a power meter, uh, Andy
+ Hogan talks about how, you know, if you start to miss by you miss your power target by a certain
+ amount, you should pack it up and go home. Well, those, there are two authors on that book. I
+ remind you. Um, and I know that Andy is somebody who shares my philosophy here on going max for
+ VO two max stuff. Okay. Um, I think power targets can actually be okay in two conditions. So if
+ you're relatively untrained, obviously they're going to be fine. Um, or you're gonna have to do
+ a lot of them, like 40 to 50 minutes. Um, and then you're going to have to do a lot of them.
+ And honestly, it's unsustainable in the long run. And, um, you know, one or two of you out there,
+ uh, maybe, maybe 10 of you listeners, um, saw one of my Instagram stories, uh, at empirical cycling,
+ by the way, go give me a follow if you want, where I put up a VO two max block for one of my athletes
+ and extremely advanced athlete. And everybody was going, how could somebody do that much work?
+ And the answer is by following the principles that I'm laying out here. Um, you know, normally you
+ can't do that many workouts in a week and go, that's impossible. And yet he crushed it. He did
+ great. Um, but if you're an athlete, by the way, who seems to respond to just about anything and
+ you never really find yourself having a performance plateau, you just keep getting better and better
+ and better. Um, well, everybody's jealous of you, by the way, but even so, uh, I train these people
+ too. I train people who seem to respond to everything. And what I find is that by, you
+ know, doing max, these two things alone, I find we can make more improvements in less time. Even
+ people who think they've got a plateau, we can still find improvements and we can find them in
+ less time and reduce overall fatigue. So now instead of taking like a whole race season to
+ reach peak condition, which in a lot of my consults, I've seen very frequently, and then
+ you can keep making improvements after your season's over when, you know, you reach your peak
+ fitness and then you can push a little bit beyond. I think that's a waste of time. So when we can get
+ to peak fitness, we can make improvements. And I think that's a waste of time. So when we can get
+ to peak fitness and build past that several times a year by, you know, really focusing on stress and
+ really working in that recovery. Um, I think it's really a lot better in the long run to kind of
+ have this approach as opposed to the, you know, take forever to kind of, you know, build you up
+ approach. I think that, that in general, if you think about it that way, you're, you're actually
+ going to get in more stimulus throughout the whole year, as opposed to, um, that is exactly
+ 100% right. As, as opposed to not, I don't have a good, I don't have a good, as opposed to doing
+ less work, not doing it as effectively. I would say I should take that back as opposed to doing
+ the same amount of work and getting less stimulus out of it. Yeah. What is the physiologic benefit
+ of going max and not being beholden to a power target? So I like this approach because first of
+ all, you're going max at a higher percentage of VO2 max, and this is the crucial part preload.
+ If you're going max, I usually don't assign more than 20 to 25 minutes of intervals.
+ Um, you know, sometimes 15 is as well, um, because, you know, doing 20 minutes of intervals
+ worth of work can add up to like 12 to 15 minutes of time at max preload. So I just
+ looked at a totally random set of VO2s from someone in the last couple of months, and they spent 15
+ minutes in their top three BPM, nice and steady. This was five by four minutes, max intervals,
+ high cadence. And, you know, if it's only the super max preload that ends up inducing adaptation
+ that we only find at really, really top heart rates with, you know, good diastolic filling
+ volume that we know we're getting from the high cadence, we might be seeing five to seven minutes
+ of effective preload, as opposed to maybe a handful of seconds, or maybe up to a minute or two when
+ less effective intervals.
+ And we're going to go through some examples of what I find to be less effective intervals, uh,
+ later on in this episode. And if you have read the title of this episode, you know, where this is
+ going. Um, so anyway, so remember, this is not a hard start. Um, you know, this is a start hard
+ and keep going hard, no matter what the Watts say. And, you know, don't like start hard,
+ then go to a target power. Um, you know, because,
+ you know, the VO two is going to drop if you don't keep it max.
+ Yeah. You got to peg that perceived exertion basically. Right. To just like, yeah. And so
+ grueling. Oh yeah. 11 out of 10. Yeah, pretty much. But you know, it's not start with a full
+ sprint. Don't do that. Yeah. Um, you know, the pacing is kind of hard to get or it can be hard
+ to get at first, but honestly, after like two intervals, you're going to nail it.
+ I promise. Um, so I generally advise people to start about 20 to 30% harder than you think you
+ can hold the power for the duration, maybe a bit more for the sprinters. Um, but not with a balls
+ to the wall sprint and, you know, do this per interval. So, you know, start 20 to 30% harder
+ than you think you can hold just for that interval and then shut your eyes and think of England.
+ So hang on, your power is going to fade. Your breathing is going to max out. And at some point
+ you will be done.
+ Um, and your power is going to fade through the intervals for the most part, unless you're, uh,
+ unless you're really, really good. Um, but that's okay. Cause remember power's not linked to VO2
+ that tightly with this approach, it should take you one to maybe one and a half minutes to get
+ up to about the right heart rate and, you know, obviously diastolic filling volume.
+ And if you come off the throttle a little bit, then you're going to come away from what I think
+ of the adaptive zone of preload. And that's obviously not as good, uh, according to my
+ philosophy here. Um, so the max approach though, requires careful consideration of your recovery,
+ how many intervals you can do in a day, in a week, in a month, in a year. Uh, and these are
+ questions that we will get to not this episode. Um, cause that's another very large discussion
+ about annual planning. My third tip is to shorten your recovery intervals. This is kind of like
+ high intensity training, but only sort of.
+ So let's, uh, let's talk about this. So shortening your recovery intervals means that you have less
+ time to reset your cells to a resting state, which means less clearing out of metabolic byproducts,
+ not lactate, uh, and stuff like that. Um, but generally speaking, um, this is a better approach
+ when you're not going to really go max. Um, if you're just doing like steady state intervals,
+ it's better to, uh, you know, this is one of the better approaches because, um,
+ you know, when you perform your next interval, you're going to have a little less anaerobic
+ contribution, uh, you know, whether you want to call it reconstitution of W prime or DFRC or
+ anaerobic capacity or whatever. The downside of this is that you may not be able to get enough
+ recovery time to pedal hard enough. And we just, we just talked about this briefly for a second.
+ So you need to think about, uh, you need to think about the balance between how hard you're going
+ and your recovery interval. Um, so what I usually advise my athletes to do is to start with
+ shorter rests and then add more recovery time. If you think you need it to go hard enough for
+ your next interval. And this is, this is really just like a part of my coaching approach in
+ general is, you know, especially when people understand what they're doing and what they're
+ going for, then I find that, you know, with a 90, 95% of the time, you know, everybody,
+ 99% of the time, everybody's going to nail this. Um, and if you want to think about this in like
+ physiology, one-on-one terms,
+ you're not going to get past the EPOC, the excess post-exercise oxygen consumption.
+ So you kind of start in a little bit of deficit. And this is kind of the way that the HIT intervals
+ work kind of, um, which was in one of our first episodes, by the way, talking about this before
+ I decided, you know, to truly nerd out. All right. Tip number four, assessing your intervals,
+ looking for a heart rate range after the fact and not during, and also don't have a heart rate
+ max number in mind. So the biggest number you've seen could easily have been on a hot day after no
+ sleep and nine espresso shots. And you, and it's your fourth day of training. Um, and you know,
+ if you see that heart rate again, while you're informed, it's probably bad. So what I usually
+ advise is to look for an approximate heart rate plateau where, so if somebody's max on their
+ BPM, uh, I think I was actually looking at a workout for this, but you know, they're going
+ to start out with a rapid increase to like 179, 180, 181, 182 BPM before increasing gradually.
+ And this is about how I look at knowing if we're in the right zone. Um, the gradual increase
+ doesn't really come into my, come into my thinking. Um, it kind of does, but you know,
+ like I said before, we're not really sure where the diastolic filling volume is and where it
+ where the max is. So we're just looking for max. Right. And so, um, so I'm not looking for like
+ 90% and this was my training philosophy based obviously on the physiology. Um, I want to create
+ max diastolic filling volume for as much preload stretch as possible. Um, now when you're doing
+ intervals, uh, this, this is feedback that I request my athletes all the time. I say,
+ pay attention to your breathing. So if I see something kind of funky with the heart rate,
+ I say, you know, was your breathing maxed out on this interval? Your heart rate didn't get as high
+ as I thought it might. And they say, yes. I go, all right. It's probably pretty good though. Uh,
+ probably a decent interval, maybe not the best, but probably decent. So I say, pay attention to
+ your breathing. Um, so if it's for you or someone you're coaching, like, like I said before,
+ if you're gasping like a fish in a boat, then you probably nailed it. And it's not comfortable.
+ Yeah. And if you're out there and you are somebody who,
+ thinks that doing your intervals at like a blank percentage of VO2 max feels too easy,
+ that's because it is. So go harder, pay attention to your breathing. Um, tip number five,
+ change interval durations. So this is part of the, uh, part of the athlete individualization aspect
+ of training VO2 max. So if you can't pedal long enough to match, you know, the interval lengths
+ that you've given yourself, shorten them.
+ You know, like if you can't pedal hard for like six, seven, eight minutes,
+ don't pedal that hard for that long. Uh, I have athletes where this is the case. So like,
+ I would say that two minutes is the shortest VO2 max interval I would assign since it'll still
+ take a minute, bit over a minute to get to the right O2 uptake and preload. So we just do more
+ shorter intervals. On the other hand, if you seem to be able to pedal long enough and hard enough,
+ keeping intervals longer, I think is the way to go.
+ I have a few athletes where we keep intervals four minutes and over and others where we keep
+ it four minutes and under, and that's just a totally arbitrary spot. Doesn't have to exactly
+ divide up that way. Um, but you know, for some folks will also start long and get shorter as
+ the fatigue of training VO2 max, uh, starts to increase. Um, you know, there's a lot of ways to
+ do it and everybody needs something a little different. And this is one of the things that
+ I do with the athletes that I train is I, you know, obviously, you know, extreme individualization.
+ I don't do any cookie cutter training plans. Cause I don't know what you specifically need.
+ I think that's a good point too. Like the, the five by five standard cookie cutter thing is like a
+ good place to start, but then, you know, you have to figure out what is a better or more,
+ like there's something to be said here for like workouts being accomplishable.
+ Like, you know, if it's five by eight or something like that, and you physically can't get through it,
+ and like, you're not getting anything out of the workout because you're not doing it a hundred
+ percent. Yeah. So like a five by five minute interval, you know, we could have done this
+ episode. We could, we could title it like, what's so special about five by five, five by five is
+ like two by 20 for FTP. It's like the, like a fine middle of the road VO2 max workout.
+ You know what, no matter how you do it, you can look at the factors kind of surrounding the effort,
+ you know, according to, you know, the previous tips and stuff and change interval
+ lengths to make sure that someone is optimizing their time at max preload. So for instance,
+ one of my athletes where we always keep the intervals under four minutes, usually like two
+ to three and a half minutes, um, longer than that. What I find is that he actually has trepidation
+ about hammering that long. He's totally capable of doing it if he wants to, but every time he
+ does a five minute interval or longer, his heart rate, and yes, with the high cadence,
+ um, you know, we'll get maybe a total of what I assess as 90 seconds per interval,
+ really challenging his preload. So for 20 minutes of work, 25 minutes of work, he'll get six minutes
+ of interval time here. And to me, that's not worth it. But if I look at a three and a half
+ minute arrow from him, he's got more than two minutes in the right area.
+ Huh? So he'll only need to do three of these intervals to,
+ you know, effectively have the same stimulus as four by five or five by five.
+ Why do more when you can do less time? Like, like it's fun to brag about how many hours you
+ slog away at the, on the bike or whatever, but like sometimes when you're real people with real
+ lives, like if you can get your workout done in an hour and 10 minutes, instead of an hour and a
+ half, like that's kind of nice. Yeah. It's very nice. And you know, the thing is with him, like
+ if we, you know, go for 20 minutes of work by three and a half minute intervals, you know,
+ he's still going to be in that like 10 to, you know, 10 to 15 minutes of effective,
+ uh, stimulus range as opposed to like, you know, doing 20 minutes of work intervals at five
+ minutes where he's still only gets like six minutes. But this is why I don't use HIT high
+ intensity interval type training to improve VO2 max and already trained athletes. We kind of
+ addressed it in the HIT episode, uh, from way back in the day. Um, but you know, I listened
+ to it again and honestly, I was pretty hand wavy. Um, I was not satisfied even when we
+ were recording it with the explanation. Um, because I honestly, I didn't know how much
+ detail to add in or especially how to effectively communicate it. But I think I do now. So
+ HIT training has several definitions, uh, by some doing like a five minute all out interval
+ constitutes this mode of training. But what I'm really talking about here, and I'm going to use
+ HIT training to mean intermittent intervals, like 15, 15, 40, 50, 40 twenties,
+ 30, 15s, et cetera, et cetera. Um, you know, in order to train VO2 max, obviously there are
+ other benefits to this type of training and don't get me wrong. I definitely assign this type of
+ training to my athletes. Anybody will tell you, I definitely do, but I never assigned them to
+ improve VO2 max unless someone is basically untrained and it's kind of fun. Kind of fun.
+ But what I really use these intervals for in another episode. So most people trot out Ronstadt
+ studies, um, you know, to say these intervals are effective for VO2 max. So let's do the same.
+ And I'm going to do my best. I'm being honest here. I'm going to do my best to try to put it
+ in the best possible light. And after really digging into these studies, it's kind of hard
+ from where I sit now to do that. So, um, so when I tell you why I think a lot of these studies are
+ disingenuous or a gross misinterpretation of data at best, or not understood by their authors at
+ worst, you see exactly what I mean. And, you know, this is not to say that Ronstadt's not a smart
+ person. Um, there's definitely studies with the name Ronstadt on it that I really like, and I
+ think have great methodology and such. This is not one of them. I think the first time I saw an
+ HIT study, like the one we're going to talk about now, um, you know, I was honestly thrilled and I
+ implementing it with my athletes immediately with the intention of improving people's VO2 max
+ until I really dug into them. And, you know, the one we're going to talk about, you know, today
+ and the one, uh, you know, from 2014, I think, um, is, you know, about the same place. So we're
+ going to talk about the 2020 study called superior performance improvements in elite cyclists
+ following short intervals versus effort matched long intervals training. As in the introduction,
+ the authors note that energy matched intervals, quote, artificially constrains the training in a
+ manner not representative of how athletes may perform their trainings in real life, unquote,
+ which I agree with. And that was one of my criticisms of, you know, of, um, any work
+ matched studies. All right. So the 2020 Ronstadt study took 18 male road and cross country
+ mountain bike cyclists from the national level, right? So if
+ you look at the data, you can see that they did a very high average VO2 max. Um, and what they did
+ was they did effort matched 30 fifteens versus four by five minutes steady state, right? So RPE
+ 17.5, that's the effort matching. And we see a VO2 max increase in the 30 fifteens and not in the
+ four by five minute. We see more power at four millimole of blood lactate in the, uh, in the, uh,
+ TIT group. And we did not see any improvements in the steady state interval group. So on the
+ surface, this looks great. Yeah. Let's start digging the tests. They did ramp test increased
+ 25 Watts per minute until fatigue. So who knows how long that took, uh, potentially too long. So
+ this is our first source of potential error. And I referenced you to the, um, to the VO2 max ramp,
+ uh, test episode that we did previously. They also did a 20 minute test.
+ At self-chosen cadence and they had blood lactate measured every four minutes. Cool training
+ protocol, the SIT and the LIT. So they did the short interval group. That's 30 fifteens and the
+ long interval group. That's four by five minutes. So long interval group did four by five minutes,
+ two and a half minute recovery. So total work time, 20 minutes, total recovery time,
+ seven and a half minutes, the short interval group, the HIT group did 30 fifteens, 30 seconds on 15
+ seconds off for three by nine and a half minutes with three minute recoveries.
+ For a total work time of 19 and a half minutes and 15 minutes of recovery time. So they've got
+ double the recovery time, the distribution of training time and zone between these two groups
+ during the test study. Um, they were matched for before the test study. So that that's fine.
+ Um, lots of endurance training, kind of low intensity stuff in the study.
+ They're a low intensity zone is 60 to 82% of peak heart rate, middle intensity zone,
+ of 82 to 87% of peak heart rate, high intensity zone over 87% of peak heart rate. Stop right there.
+ So my first problem here is that this is not individualized at all, which is obviously a
+ problem with a lot of studies. And sometimes at doing this, the, doing the averaging works and
+ that's great. Sometimes we want to see individual results. We do see that in this study, but
+ we're not individualizing for heart rate. And we know that for a lot of people, heart rates are a
+ little different.
+ Um, so I'm, I looked at a random athlete who hits his max heart rate at about 190 BPM during a five
+ minute test, but the same guy sustains 90% of that doing FTP work at 170 BPM.
+ And I don't think FTP work really actually constitutes high intensity training, right?
+ So his last FTP test, 58 minutes at 172 BPM, right? I mean, it's hard work, but this actually
+ to me is the first place where this study starts getting disingenuous. Um, and it's because this
+ classification of heart rate ranges, uh, is not individualized. First of all, and second of all,
+ um, you know, I don't know if they did this on purpose, how they set these zones,
+ but, um, but it means that what somebody can actually be doing as threshold or sub threshold,
+ which we all know is a lot easier than going over the threshold can actually get misclassified as
+ high intensity training. So, um, I don't know if they did this on purpose, how they set these zones,
+ and this is something that we're going to take a look at in just a minute when we look at the
+ actual work rates. So the study's conclusion, the short interval group improved a bunch of stuff.
+ Long interval group did not. So let's look at table one of the study number of HIT sessions
+ per week, number of training sessions, like both the long intervals, five, uh, four by five minutes
+ and the 30 fifteens. So they averaged 8.8, 8.9 sessions a week for the short intervals and
+ the long intervals. That's fine. Uh, average RPE 17.6 out of 20 on the Borg scale. I don't know why
+ they can't just use one to 10, like everybody else. All right. So the mean, the average power
+ of the SIT, the short intervals was 441 Watts for the work intervals. That's just for the 30 seconds
+ on long interval training group. They averaged 338 Watts. All right. So not so bad. So obviously
+ you'd go, you know,
+ you go harder intermittently. You're going to be able to work harder. You get a little bit of rest.
+ That makes sense. If anyone has done 30 thirties, 20 forties, whatever, you'll probably notice that
+ like you hit pretty high averages, um, for the, for those. Yeah, definitely. Cause you get a little
+ time to recover to, you know, hammer anaerobically or whatever it is. Um, however you want to explain
+ it. These actually work out to, for the, um, for the 30 fifteens, they work out to 94% plus or minus
+ seven percent of the, uh, W max, the highest value of the ramp test, but the four by five minutes works
+ out to 79 plus or minus 7% for the four by five group. Right. So let's think about this for a second
+ in elite cyclists. If we take the ramp test at face value, since we don't actually know the VO two, uh,
+ so these athletes were working at 72% of VO two max on average for elite cyclists. It's very safe to say
+ this is under threshold. Are you kidding me? No, but it's effort matched. Nobody trains like this.
+ Nobody does FTP work or under FTP work and goes, I'm working on my VO two max.
+ I wonder too, if like the, the subjects while they're doing this, they're like,
+ this isn't hard. Well, see, it's effort matched. You see?
+ Yeah. So, so the group that was working over threshold seemed to increase their VO two max.
+ And in fact did where the other rising, yeah. Where the other group did not no shit. Um,
+ so the change in the short interval group, the 30 fifteens, um, for VO two, it increased by 0.13
+ per minute. The other group saw an average change of 0.05 liters per minute, or a little less than half of that 30,
+ 15 group. The change was statistically significant and the other group, it was not. So the standard deviation of the
+ first group was 0.3 liters a minute. The second group was 0.5 liters a minute. And this, you know, these standard
+ deviations affect the statistical analysis and, you know, the effect size of magnitude of improvement.
+ Was, you know, 0.2 for the, uh, for the 30 fifteens. Right. No kidding. Yeah. Um, all right. Let's look at the 20 minute power and the power output at blood lactate, uh, four millimole. All right. So obviously this is something else that bugs me, the lactate thing. Um, but here we go. Tell us how you really feel. I, I will in a second before the intervention, the groups had been doing a couple of weeks of low intensity training, as we mentioned.
+ This is enough in itself to shift the short-term adaptations in substrate metabolism and buffering capacity and things like that. So when you're working intermittently over threshold versus working just below it, so that's what the 30 fifteens and the four by fives were doing. Um, the 30 fifteens, you not only develop the ability to like buffer acidity and maintain a higher anaerobic work rate, you're kind of training that a little bit, you know, but you're also training larger motor units.
+ Um, and when you're working at like FTP ish, let's just call it FTP to be generous. It's four by five minutes is not long enough to like do anything. So I would expect basically no increased motor unit recruitment. So when you go do your 20 minute test, you're in the same spot that you were before, but the 30 fifteens group, you know, they were accessing these larger motor units and they had a little better training there. And so this could, you know, explain not only the, uh,
+ the VO two max increase, uh, through an, uh, an increased a VO two difference. Um, you know, especially if the larger motor units are a little more aerobically trained, right? The 20 minute test result also. Um, so the actual average in the 30 fifteens group went from 343 to 358 Watts. Um, just about no change in the other group. So, okay. First of all, you know, you're not at VO two max for this whole test, right?
+ So a 0.1 liter per minute improvement in your VO two max or 0.13, let's call it 0.15 is not going to explain a 15 watt difference in 20 minute time trial time or time trial Watts at best. If we assume that they're at VO two max and they're making, you know, 62 Watts per liter of, uh, Oh two, um, meaning a 0.1 liters per minute increases six Watts. Where's the other nine Watts from their 20 minute test?
+ Time trial went up 15 Watts. Where are the other Watts from?
+ Hmm. Where else capacity? Yeah. So this can partly explain the increase in W max. Um, I mean the interim capacity increase, uh, you know, interim capacity, W prime, FRC, whatever you want to call it. Um, look at, uh, what's doc number 18, where we discuss rank test protocols, but, um, it also makes sense for the 20 minute time trial. And this is why, you know, with the 20 minute test, you can quote unquote teach to the test.
+ You can do a bunch of anaerobic work and see improvements in your 20 minute test immediately. And it's not long-term actual aerobic improvements. It's polish. And now let's look at power at four millimole. So when we do things like over under intervals, we produce a good amount of lactate and lactate does indeed seem to induce some genetic changes. I mean, well, it better the body needs to use what's around for fuel and lactate is a good fuel. It's a half combustion.
+ Right. So we need to develop the ability to use the lactate as a fuel in our muscles and obviously in the rest of our body too, like heart and blah, blah, blah. So what happened here is that probably at the same power output, more lactate is being utilized by the 30, 15 group, but it doesn't say anything about your threshold or anything like that. It just means that at the same work rate, you are using more lactate.
+ And that's the only thing that we can for sure say about that. So the, the other source of error on, you know, power output at four millimole is blood volume. Obviously it was not measured in this study. That would be great, but they didn't. So, um, this is also another likely candidate to be the source for VO2 max improvements, right? So having more blood volume,
+ Um, you know, you're going to have more preload in the heart, like we saw in the coil study where giving somebody a little more blood volume when they do, um, or it will give them some extra VO2 max. And this is something that, um, that happens with high intensity training is, you know, your, um, you know, your blood pressure is going to lower and lower and lower, and this is going to induce a larger increase in blood volume.
+ That FTP can help you a little bit with, um, with VO2 max is not only you'll, uh, you know, improve your muscular ability to increase your AVO2 difference, but you are also going to be working for a long time at a somewhat low blood pressure. And, you know, you're going to build a little bit more until your body is like, oh, okay, we need a little bit more. Uh, and this is going to increase your VO2 max more blood volume. This is the other thing about the blood volume. So more blood volume means the
+ same absolute amount of lactate produced is more dilute. Yeah. And remember that blood lactate is
+ measured in millimolar or millimoles per liter. So if you increase the denominator, you're going to
+ see the apps, the actual number go down. Right. I think one thing to point out, but all of these
+ things is some of these things are not necessarily bad. Like this adaptation to using lactate as fuel
+ is a good benefit. Like that is a positive adaptation that your body is making,
+ to these high intensity intervals. And, you know, that's, but that's not what the study was looking
+ at, but that is something that the study sort of confirms. Yeah. And, you know, looking at,
+ to me, looking at blood, uh, blood lactate values like this is another exercise physiology 101 type
+ analysis. Like we can go so much deeper and we're not, um, it's kind of suggested in the intro
+ of this paper that this is comparing the way that athletes actually train, but it's really not.
+ If it were the four by five would have been harder intervals,
+ but these are straw man intervals. They're like a fluffy, comfortable version of an interval.
+ You know, it's easy to knock down, you know, it's there. It's a sham. It looks okay enough
+ to scare off a lot of people from further analysis and digging deeper.
+ But, you know, this study does not in any way at all in any universe prove that 30, 15s are superior.
+ What we're trying to say is that the study, while it had good intentions, it wants to,
+ it wants to do good things. Like you want to look at how people actually train, what are,
+ what are types, very common types of intervals and see what is better, uh, you know, method A or
+ method B. It's an admirable goal. And I think that's a, that's a positive study out, uh, study
+ premise. But I think as you've pointed out, there were several flaws in the methodology and not the
+ way they set up the two training protocols for the two different groups of subjects.
+ You could repeat this study or attempt to improve upon the study by addressing
+ several of these things. Um, and that might be interesting. That might actually be a very
+ worthwhile activity. This study on its own, isn't like the, the nail in the coffin of,
+ you know, five by five minute intervals for VO2 max training.
+ No, not at all. And this is actually one of the problems
+ that with, uh, effort matched, you know, this study started out by talking about,
+ you know, the work matched approach is probably not the best. So we're going to go for effort
+ matched. Right. And so the, um, so what everybody I've argued with this about says is that, you
+ know, if we can get more improvements in VO2 max from doing 30 fifteens, as opposed to four by
+ fives, and it feels the same to the athlete, then I'd rather do that. And my answer is,
+ like, what I'm trying to say, like the effort matching was, uh, is a source of error the same
+ way that, you know, witnesses in court cases can be unreliable. You know, your memory can be
+ unreliable. You know, the worst thing that you've experienced and the worst thing somebody else has
+ experienced can be vastly different, but to you, they're still both the 17 out of 20 in the badness
+ of experience. Yeah. I think that's a good, that's a good point. Like, um, there is some,
+ just like with anything else, there is some tuning and some training in using,
+ um, RPE for exercise, just like anything else. Like someone who's brand new probably thinks a
+ 15 out of 20 is way different than someone who's like a seasoned veteran. Oh yeah, definitely. Um,
+ now that we're standing here in the ruins of the Ronstadt study, what are we left with?
+ Pedal harder, pedal harder. There's a little bit of that. Well, my, my reasoning here,
+ intermittent intervals don't present enough time at high enough preload to cause adaptations
+ in the well-trained. All right. So this is now, this is our discussion section on the Ronstadt
+ study. Um, it may work for sports that have a large amount of preload already, like cross-country
+ skiing. Um, you know, where we may have some wiggle room in like what we might call adaptive
+ preload intensities. As you know, we kind of discussed this in the last episode with a little
+ bit of, you know, comparative physiology between sports. Um, and this by the way,
+ is exactly what we were talking about in the HIT episode, when we said that the
+ Tabata style intermittent maximal or, you know, very high over VO2 max kind of thing, uh, or the
+ sub-maximal training versus, you know, that as they did in the Tabata study, um, you know, it
+ doesn't target the true limits of physiology in well-trained individuals. So in that episode,
+ we talked about randodine receptor fragmentation, calcium leak, leading to aerobic adaptation
+ in people who are untrained, but it doesn't happen in the trained. Calcium leak, by the
+ way, can be seen by the muscle as, hey, we're still contracting, keep adapting. Um, but it
+ doesn't happen in trained people. So that's not what's happening in the Ronstadt paper here. So
+ if I look at two sets of intervals by the same athlete, so same guy doing three by eight minutes
+ of HIT work. So 30 second work intervals versus a four by five minute VO2 max workout, right?
+ For each 30 second work interval during the HIT work, um, he was going max for every one of
+ these, by the way. So a hundred percent all out every 30 seconds. Um, he only got about 10 to 15
+ seconds at what I would call maximal adaptable heart rate. If we just pretend that he was at
+ max diastolic filling volume, right? And let's put these intervals in the best cardiac adaptation
+ light as possible. So let's say for, uh, 15 seconds for every 30 seconds of work, he's going to provide,
+ uh, we're going to provide him a maximum cardiac stimulus for eccentric hypertrophy.
+ But if we look at four by five minutes of VO2 max work, the way I assign the intervals,
+ um, I'm actually going to nix the first interval. I'm going to completely discount it because he
+ actually was having some trepidation about going that hard, but he nailed it on the second,
+ third, and fourth intervals of five minutes. So now we've got three by eight minutes. We've
+ got 24 minutes of HIT work versus three by five minutes of actual VO2 max work.
+ You said four by five or three by five?
+ Three, three, well, three by five, because we're not counting the first one.
+ Oh, sorry. Yeah, yeah, sorry.
+ Yeah. So we're nixing that first one. So we've now got intervals, just two, three, and four that we're looking at. So 15 minutes here. So he got 10 minutes at his highest heart rate values at high cadence, right? So he, he actually just went straight to max and it just stayed there, plateaued, um, you know, and, you know, he was doing high cadence. So we know he's got high preload. So we know he's got 10 minutes.
+ 10 minutes out of those last, um, out of those last three intervals where I'm sure he's generating really good cardiac stimulus for eccentric hypertrophy to increase his very long-term VO2 max, because as we've established in the last five episodes, it's stroke volume. That's it. So HIT intervals, his 30-second work intervals, um, we have eight of them times, uh, times 15 seconds for each 30-second work interval times three.
+ Which means six minutes of cardiac adaptive, uh, stress.
+ At the most.
+ Yeah. And that's being generous. Um, also let's look at work rate if we want to do work matched, right? So steady intervals, we're at a hundred kilojoules each. And these are in relatively small motor units. Average pedal force for these is around 200 newtons. And, you know, we can expect him to be getting into some larger motor units with the fatigue. That's fine. Um, the HIT intervals cost a hundred kilojoules.
+ Yeah. So the five minute expenditure in these was actually comparable to the, uh, to the regular VO2s, a little over a hundred kilojoules. Um, but much higher pedal force. So he's using much larger motor units, which, uh, we haven't discussed this in the podcast. I don't think, um, take a longer time to recover than smaller motor units because smaller motor units, you use them when you're walking.
+ You use them just pedaling around. Like these are really well-trained.
+ Larger motor units are less well-trained. They get access less. They have less, uh, training stimulus in them. So the average pedal force for the HIT intervals started around 500 newtons for each work interval and faded to 200 newtons. So the entire work interval is over the same, uh, it's over the force, uh, the average force for the VO2 max intervals.
+ And so what this really means is that we have to hammer harder on larger motor units and spend more energy on longer intervals to get as much, um, uh, eccentric, uh, hypertrophic stress on the heart.
+ Interesting. So back to this, you know, sort of efficiency argument about, you know, using a, using a kilojoules, uh, in a smart way and also making sure that you're, you're doing work that's actually.
+ Going to give you the stimulus that you want, as opposed to burning these extra 50 kilojoules per bout, if you will.
+ Yeah. And you know, and he had those intervals assigned for not VO2 max work. That was not what we were working on in that. Like, I mean, anyway, but you know, we should actually go to the original Tabata study that compared high intensity work against one hour at 70% VO2 max.
+ Yeah.
+ An hour.
+ Sorry.
+ Just solid, solid sweet spot tempo workout.
+ Yeah. Sweet spot to FTP work, depending on the athlete might be tempo. We'll see, but we're going to call it sweet spot kind of FTP work. Um, and what they found was that the, um, the Tabata intervals anaerobic capacity went up 28% and VO2 max went up seven plus or minus one, um, milliliters per minute per kilogram.
+ So these are not highly endurance trained, right? These are team sports athletes for the most part, one swimmer, probably short distance. Um, and there was no anaerobic capacity improvement in the 70% VO2 max group, but VO2 max went up nearly the same amount, five plus or minus three, as opposed to seven plus or minus one. Um, so there's a wider spread of responses. Um, you know, like we said, these are not endurance trained people.
+ So VO2 max, now that we know more about it, now that we spent five hours leading up to all this, well, six now, we know that VO2 max could be increasing from any number of mechanisms, but the most likely candidate is plasma volume and blood volume. And in another episode, one day, we're going to look at how this gets regulated and talk a lot about kidneys. Cause I love kidney function. Um, it's mostly going to be for me cause I love kidney function. Um, but hopefully you all get something out of that. Um, so all of this is going to be about kidney function.
+ Also in the, uh, in the HIT episode, we looked at the Tabata study plus another study where folks did three by 20 minutes at FTP, actually FTP versus HIIT intervals. And what they looked at was ultimate gene expression, but not impact on system physiology. And so, so they didn't say, you know, these intervals increased their VO2 max by this, whatever. Um, they were looking at genetic expression and they found very similar levels of genetic expression saying, you know,
+ we might be able to, you know, do something with this in terms of whole muscle, uh, genetic expression, physiology. That's cool. I genuinely do think that's cool. And Ron's dad had people doing 30 fifteens versus four by five minutes at 70% VO2 max. These are seriously straw man intervals. They're just built up to be knocked down. They're, they're an absolute sham. And, you know, other studies that compare these two things, you know, I like those other two studies. I liked the Tabata study.
+ I like the study with, uh, HIIT versus three by 20 FTP. Those are good studies. Those are things we should be talking about. We should not be talking about this Ron's dad paper. You know, comparing this Ron's dad paper to the Tabata study, Tabata really gave the, uh, the endurance training stuff a really good shake an hour at 70% VO2 max, you know, three by 20 at FTP. Now that is a good training protocol. That is a good training protocol.
+ That is two apples to apples or like, you know, apples to pears comparison. What Ron's dad has done is taken an apple and compared it to a ball of cotton. So I've had people do some of these protocols, honestly, with the intention of them improving feed to max. I, this was a while ago now, but, um, you know, looking at those power and heart rate values, um, you know, they really only get you to like 90% of max heart rate for some well-trained athletes and not for that much time either.
+ And in the end, these intervals improve these athletes anaerobic capacity and, you know, not their VO2 max by any stretch of the imagination. Um, in terms of adaptation, if we could just assume, you know, diastolic filling volume goes hand in hand with heart rate and power and VO2 or whatever. Um, but we also cannot be, um, but the thing is we still cannot be sure if we will get enough
+ preload adaptation for eccentric hypertrophy because we can't be sure what amount of max preload volume is enough to get adaptation. You know, if you're plateaued aerobically, you know, I'm certain that you need to work your stroke volume harder. Right. And assuming that people are on a spectrum for stimulus and adaptation, which obviously they are, um, the thing is I want to work with the strategy that is going to get me
+ as much adaptation as much as possible with as, um, you know, I want to be sure that we're going to adapt. That's what I'm saying. I want to be absolutely certain that the intervals I assign are going to lead to somebody getting fitter in some way or another.
+ appear quickly but then also kind of plateau in their usefulness whereas working on actual
+ heart rate physiology for lack of a better term is like a much more long-term beneficial useful
+ what am i trying to say you're like you're spending your time trying to promote a
+ component of physiology that will better enable more better training in the future
+ like if you just focus on plasma volume as an example we saw that that usefulness tapers off
+ in after you reach the point that you're no longer considered untrained or recreationally
+ active or whatever you want to put it whereas um you know working on these these heart muscle
+ adaptations help enable future good training quality training
+ yeah exactly and this is actually one of the reasons that um you know early in this episode
+ i called vo2 max just regular vo2 you know kind of a blunt instrument like a very crude measurement
+ because we want to know what's going on under the hood of that measurement we want to know
+ you know what's going on deeper in the physiology um and you know it's this is my opinion very much
+ my opinion but if somebody pays me to make them faster and we go through like a month
+ maybe two of trying to improve you to max and you know we don't see any adaptation all right cool
+ that was how many hours how many kill jewels and no result because we learned that you actually
+ have to work harder and now you're going to do intervals that we could have just done in the
+ first place i i'm not about that i'm not yeah um you know we go right to the heart of the matter
+ that was not an intended pun uh that's a good one though um whatever is going to induce max
+ adaptation or what we're sure is going to induce adaptation is going to induce max adaptation
+ um that you could possibly accomplish and recover from that is my first choice but you know this
+ actually brings into light kind of short and long-term training strategies because a lot of
+ people look at the fic equation and they think that you know peripheral adaptations might lead
+ to a big vo2 max improvement but you know goes up quickly to a certain point and then apply those
+ and this is the kind of thing that takes years to accomplish with tons of high quality training and
+ this is where my you know all training is base training
+ thesis applies because you know we saw in the vo2 difference study that um and you know really
+ through all these last episodes is that peripheral adaptations are not a big factor in long-term
+ vo2 max improvements and it's obviously heart stroke volume you know even uh like a five percent
+ increase or a ten percent increase in vo2 difference is not going to make nearly as much
+ of a dent in your vo2 max improvements as increasing your heart
+ stroke volume but you know with this short and long-term interplay though with like blood volume
+ like it that might be why going from endurance to intensity may be a good long-term training
+ strategy because threshold sub-threshold all the way down to like just puttering around
+ kind of kind of uh you know what i mean um that will increase your blood volume your muscle
+ capillarity your vascular capacity for uh for blood volume and this in itself can increase
+ vo2 max and stroke volume as we saw in the coil study and you know you can increase your blood
+ usually then a performance plateau means it's time to go straight for heart stroke volume
+ but as you go through training you know it won't last forever so that's what we really get when
+ you know you're kind of aerobically tapped out and this is why like forever base training doesn't
+ work you know somebody it's like i'm gonna ride you know 30 hours a week all year maybe i'll take
+ off the holidays um you know that's why this kind of training you know on paper it says
+ endurance training will increase vo2 max ftp training will increase vo2 max but it doesn't
+ work forever because you never eccentrically stress your heart enough by doing that intensity
+ and you know as we saw in the avio to difference episode like a 10 improvement in utilization
+ um you know maybe into like the low 90 range is nothing compared to long-term potential
+ of increasing heart stroke volume um it is a factor if you're one of the best in the world
+ and you need to get that last half a percent both out of your avio to difference and your stroke
+ volume yeah absolutely then when i you know when i do consults for people at that level
+ it's very much part of the discussion but for average athletes stroke volume is the really
+ big thing and for developing athletes too so when you hear people talking about you know keeping up
+ someone's volume to keep their view to max up what they're really talking about is maintaining
+ their vascular capacitance and blood volume most of all
+ and that's what's going to maintain their heart stroke volume because of the frank's darling law
+ this kind of circles back a little bit to your idea that cookie cutter training plans aren't
+ the best because depending on where you are and depending on what your goals are and how
+ your training history you may have to do a different type of minerals than the other person
+ and that's fine that's that's totally fine there's no silver bullets like we said before and and and
+ if um you know working with somebody who you know we're absolutely sure has
+ maxed out their you know stroke volume and all sorts of you know whatever else you know the
+ training strategy shifts for the long term and you know i've actually had uh some athletes come to me
+ who you know do like long endurance rides all the time and you know they think that they're
+ tapped out on their like ftp and their view to max like oh maybe i can gain five or ten watts
+ they figured oh i'm riding you know 20 30 hours a week all the time i'm tapped out and that's
+ not the case at all and what about the people who seem to adapt to anything i mean i've definitely
+ worked with these athletes too it's obviously still working with a lot of them um and this
+ approach that i have here of going straight for preload adaptations i still think is the right
+ development strategy even if you seem to respond to anything as opposed to doing the typical three
+ to five minute steady power intervals because you're you know like we talked about you're going
+ to get fitter faster and you're going to be able to go past your previous levels of fitness
+ and you're going to have you know a nice up and down through the season
+ um do you have any uh any other thoughts before we wrap this up
+ um no i think i think we covered it and hopefully i think people can see now the connection between
+ what vo2 vo2 max is physiologically and what kind of exercises actually improve those
+ qualities um as opposed to just thinking ah
+ five uh like gonna go do five by five again gonna find a five minute hill gonna you know
+ etc etc etc yeah and again i mean i'm i'm putting this out there because
+ you know this is what i find works the best and if you don't agree with me honestly i think that's
+ fine uh my last thought here i guess is that one of my big issues in a lot of exercise physiology
+ obviously not everything but it's the fact that everybody's looking at one number
+ ftp vo2 max later per minute whatever it is these are phenomena that emerge from complex
+ underlying intertwined systems and without looking at the underlying physiology the system's
+ physiology or assessing the impact of a certain type of training on the various components of
+ the physiology hopefully people now understand a little bit more about what vo2 max is and why
+ certain types of vo2 max training may be more effective than others
+ actually now feel empowered to go out and try some of these things too like um try working on
+ you know a different style of vo2 max training than you've done in the past and you can probably
+ see for yourself if your if your power and that sort of traditional sort of three to eight minutes
+ goes up after doing a new type of intervals or maybe it doesn't or maybe or maybe it doesn't
+ and you try something else and that's it
+ what this is all about really all right so i hope everybody enjoyed these last couple episodes and
+ we have one more to go on vo2 max that is your questions so send your questions to empirical
+ cycling at gmail.com if you have any coaching inquiries we would be happy to help you work on
+ your vo2 max and whatever else you've got going on so again um thank you for listening uh everybody
+ as always and please subscribe to the podcast and share it with a friend especially if you
+ have a friend who may need some help in their vo2 max training and and so
+ if you want to support the podcast you can make a donation at empiricalcycling.com
+ slash donate we have the show notes up on the website for all of these studies referenced
+ and the previous studies referenced are up in the previous episode notes um and for coaching
+ and consultation inquiries and questions or comments you can send an email to empiricalcycling
+ at gmail.com so thanks everybody we'll see you next episode thanks everyone
+ Thank you.

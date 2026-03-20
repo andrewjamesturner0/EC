@@ -1,0 +1,25 @@
+[2026-03-11 19:05:17] === Transcription run started ===
+[2026-03-11 19:05:17] Input dir: episodes_test/
+[2026-03-11 19:05:17] Output dir: transcripts/
+[2026-03-11 19:05:17] Parallel workers: 4 (6 CPU threads each)
+[2026-03-11 19:05:17] Retranscribe mode: ON
+[2026-03-11 19:05:17] Found 4 audio files
+[2026-03-11 19:05:21] RETRANSCRIBE: 1949321231-empiricalcyclingpodcast-watts-doc-51-the-complicated-relationship-between-performance-and-phenotype (skipping temp=0, starting at temp=0.4 -mc 0)
+[2026-03-11 19:05:21] RETRANSCRIBE: 1216529890-empiricalcyclingpodcast-perspectives-8-why-its-hard-to-rest-with-patrick-rest (skipping temp=0, starting at temp=0.4 -mc 0)
+[2026-03-11 19:05:23] RETRANSCRIBE: 2168476551-empiricalcyclingpodcast-ten-minute-tips-63-the-best-and-worst-ways-to-test-ftp (skipping temp=0, starting at temp=0.4 -mc 0)
+[2026-03-11 19:05:25] RETRANSCRIBE: 1370242147-empiricalcyclingpodcast-watts-doc-40-endurance-adaptation-is-not-substrate-oxidation (skipping temp=0, starting at temp=0.4 -mc 0)
+[2026-03-11 19:11:17] RETRY OK: 1949321231-empiricalcyclingpodcast-watts-doc-51-the-complicated-relationship-between-performance-and-phenotype (temp=0.2 clean, max consecutive repeats: 2)
+[2026-03-11 19:11:17] OK: 1949321231-empiricalcyclingpodcast-watts-doc-51-the-complicated-relationship-between-performance-and-phenotype (temp=0.2)
+[2026-03-11 19:11:18] RETRY OK: 1216529890-empiricalcyclingpodcast-perspectives-8-why-its-hard-to-rest-with-patrick-rest (temp=0.2 clean, max consecutive repeats: 2)
+[2026-03-11 19:11:18] OK: 1216529890-empiricalcyclingpodcast-perspectives-8-why-its-hard-to-rest-with-patrick-rest (temp=0.2)
+[2026-03-11 19:13:23] RETRY OK: 2168476551-empiricalcyclingpodcast-ten-minute-tips-63-the-best-and-worst-ways-to-test-ftp (temp=0.2 clean, max consecutive repeats: 1)
+[2026-03-11 19:13:23] OK: 2168476551-empiricalcyclingpodcast-ten-minute-tips-63-the-best-and-worst-ways-to-test-ftp (temp=0.2)
+[2026-03-11 19:14:15] RETRY OK: 1370242147-empiricalcyclingpodcast-watts-doc-40-endurance-adaptation-is-not-substrate-oxidation (temp=0.2 clean, max consecutive repeats: 2)
+[2026-03-11 19:14:15] OK: 1370242147-empiricalcyclingpodcast-watts-doc-40-endurance-adaptation-is-not-substrate-oxidation (temp=0.2)
+[2026-03-11 19:14:15] === Transcription run finished ===
+[2026-03-11 19:14:15] Total: 4 files
+[2026-03-11 19:14:15] Transcribed: 1
+[2026-03-11 19:14:15] Skipped: 0
+[2026-03-11 19:14:15] Failed: 0
+[2026-03-11 19:14:15] Retried (corruption detected): 4
+[2026-03-11 19:14:15] Time: 0h 8m

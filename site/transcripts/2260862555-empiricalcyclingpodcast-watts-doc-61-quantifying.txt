@@ -1,0 +1,867 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined once again by Kyle Helsin.
+ Thank you, everybody, for listening. If you are new here, we love having you.
+ And if you like the podcast and want to subscribe because you're enjoying it, please do so.
+ And if you are a returning listener, well, then, well, you know the drill probably.
+ So we'll get through this real quick before we get to the meat and potatoes today.
+ If you're looking for a coach, you can always support the podcast by reaching out for coaching or a consultation,
+ circlecycling at gmail.com. And we are into the new year and we are really happy to take on a
+ couple more clients for the upcoming year. And of course, we're always taking on clients. So
+ you can reach out to us and just get a conversation started. If you'd like to hang
+ on to the reins of training yourself and you want to do a consultation, we are happy to help you out
+ and give you the tools to plan and adjust your own training. We can also look at your files and all
+ of that. We have negotiable rates for students and neopros, and you can also support the podcast in
+ a variety of ways. You probably all know how to do this. A nice rating wherever you listen to
+ podcasts and sharing the podcast goes a long way. Thank you so much for all the kind word of mouth
+ lately. And also Instagram. We are always taking Instagram questions on the weekend for a regular
+ training MA. And it's also usually where I would ask questions for the podcast. But I think we're
+ not going to do any podcast questions today for this one because I think the answers are pretty
+ obvious and it's probably going to go a little long as it is. So we also have a question submission
+ form up at the top of the podcast. So if you'd like to ask a question, you can do that. And we
+ have a link to the podcast homepage up on the website. All right. Ready? Good. Diminishing
+ returns on training. This is something that I was actually thought that we would never have data for.
+ I was like, there's going to be no way anybody's got a data set big enough that we can actually
+ see diminishing returns in real time. Kyle, I've told you about this study. We have a huge data set
+ that discusses diminishing returns. And so,
+ you know, what kind of, what's your experience on diminishing returns? Because you've done a variety
+ of sports and, and, you know, you've probably experienced this a couple of times yourself.
+ It's interesting. You sent me, you sent me a couple of the figures from this originally. And I was,
+ the first thing I thought of is when I was in high school swimming, I remember taking all the events
+ that I would, I swam and over the course of each season and then multiple seasons together, you
+ the events right and you could see your improvement yeah and like with swimming it's it's such a
+ quantitative sport right you can easily calculate weekly yardage time times for events all this
+ stuff and so you can plot that pretty easily even back in the early aughts um and the you know sort
+ of the improvement is definitely not linear forever unfortunately and you know especially
+ when you're working with the same coach for years and you know doing similar training and you're
+ working on that training philosophy and things like that and obviously through high school it
+ can be different because you're you're growing and you're improving so rapidly but then eventually
+ you do reach some sort of plateau ish and you start to see that that rate of improvement slow
+ down and that was like one of the first things i thought of um when you showed me those things
+ then a lot of times right people
+ if they continue to do that sport in college they get a new place they have a an increase in volume
+ or a change in training style or both or whatever and so they see another learn how to eat they start
+ sleeping enough exactly yeah well maybe maybe not they at least or the other opposite way they start
+ getting slower yeah yeah but you you you oftentimes see another large more rapid maybe not linear but
+ a bigger improvement and then that slowly starts to diminish as well right and then you kind of find
+ that new plateau or whatever after that and and and hopefully that doesn't happen immediately like
+ within a year but you know um it's always interesting to see for such for things that
+ are so qualitative or quantitative and not just qualitative like you know time trials on the track
+ or even even even just doing a 40k time trial if you have a local 40k tt courses and like that you
+ do it all the time and and you can see improvement over time or lack thereof unfortunately yeah and
+ actually that's one of the things that we're going to do later in this podcast is we're going to take
+ a couple um you know anecdata as it were from my personal uh data set from the some of the clients
+ that i've worked with for a long time and a little bit for myself and we're going to basically do a
+ pretty rudimentary modeling on the diminishing returns we're just going to see it in action and
+ it's not like anything where you need any really complex stuff like you can literally plot this in
+ excel or google
+ sheets or whatever and uh and just like run different models on it like you know there's uh
+ you know there's linear and obviously with these types of uh growth curves we're looking at
+ something that's like mostly linear so linear is actually not a bad fit um but it doesn't best fit
+ the curve and so we're going to see you know like natural log or um you know uh like um different
+ other types of growth models are going to better fit the data um but we're looking for
+ because you know i could have made this podcast at any time if that were going to be the thing that
+ i that we relied on to say here's this principle um so we're actually going to start out this
+ episode with the longest data set i think i've ever seen in training that's not like an nhanes
+ data set uh and so you know we're going to use this data set and the paper and analyzing this
+ data set from probably one of the brightest statistical minds alive today in terms of uh you
+ know in the sports world anyway and we're going to use it to validate some concepts and we're going
+ to make some reasonable assumptions but we will call out when they are definitely assumptions and
+ everybody knows i'm pretty um i'm pretty conservative and skeptical on a lot of this
+ stuff so if i if i say that i think we can rely on this data and i think that we need to call this
+ assumptions then you know i i i think that's probably one of the more or one of going to be
+ one of the less outlandish takes on this data set i could say i could be a little more bullish on
+ things but i think if i think folks know that i'm not that way already um so we'll also then talk
+ about how to apply these findings to our own training and you all can do similar data modeling
+ that i've done and it's and i'll kind of walk through my method uh as we get into this and so
+ you can actually plot your own uh diminishing returns as it were and you can actually see them
+ live in action and you can actually see them in action and you can actually see them live in action
+ well not live they're in the past but do we need to dwell on the past sometimes we do in order to
+ discuss the future so we'll get into that and we're also going to have to talk about strength
+ training a bit because the data set is on strength training i don't know that we've got a a robust
+ enough data set with a large enough sample size anywhere in endurance training that i know of
+ and it's also like incredibly incredibly well controlled so well why don't we just get into it
+ the paper is called long-term time course of strength adaptation to minimal dose resistance
+ training through retrospective longitudinal growth modeling the primary author is james steel
+ and i have a large amount of respect for him and he's um if you don't follow him on instagram well
+ it's a lot of cats but also a lot of stats stuff so if you're interested in that kind of stuff um
+ worth a follow i think but definitely probably follow him more on somewhere like google scholar
+ or like research gate um because that's the that's where the juicy stuff is um
+ so he got access to a very large data set from a chain of gyms in the netherlands
+ and they have 14 690 participants and they have it's this is a very very consistent data and this
+ is the longest
+ that's a crazy high number oh wow all right their longest participant data was 352 weeks or 6.8
+ years and the population is 60 female and the average age is 48 plus or minus 11 years
+ and so the training was always done supervised and logged by the trainers and also very
+ standardized we have just one session a week
+ there's no music there's no mirrors you do six exercises i know it's it's kind of wild but
+ check this out you do this this is why i said it's so well controlled because like mirrors for
+ checking your own form or whatever none of that no music so like you can't get the hyped up thing so
+ six exercises leg press chest press pull down abdominal flexion back extension hip abduction
+ and hip adduction and they did they were done roughly in that order um they only did their
+ analysis for leg press chest press and pull down all exercises were done as one set only one
+ always done to momentary failure so if you're doing this exercise and you're you're halfway
+ through your rep and just stops and you drop it cool you're done that's momentary failure
+ and if the reps and they always did uh
+ four to six reps and only ever four to six reps um it's because they can't i just i struggle to count
+ past that number oftentimes yeah eight ten oh it's so hard yeah yeah i've only got so many
+ fingers on oh i should be able to okay yeah uh oh yeah when the rep range was exceeded in a session
+ um they would continue to momentary failure and then they would progress the load for the next
+ session and then they would progress the load for the next session and then they would progress the
+ And all of the eccentric and concentric portions of the lifts were done in the 8 to 10 second range, which if you're familiar with the strength training literature is on the outside of like, you know, this is kind of similar to a 1 to 2 second eccentric concentric, you know, when it's all kind of equated in the end for time under tension.
+ And outcomes are roughly similar too. So, so basically it would take 16 to 20 seconds for like a total rep, meaning that they would spend like, you know, two minutes or something like that in one set.
+ Like if you're doing agonizing, yeah. Imagine doing 10 seconds, 10 seconds. Like if you're doing six reps, 10 seconds, concentric and eccentric, you're doing 20 seconds per rep, six, like there you go.
+ They also.
+ Avoided.
+ Deloading the muscles by no lockouts.
+ So like you couldn't lock it out and then like rest for a second and then keep going.
+ So.
+ Very, very, very clean set of variables taken care of.
+ And if they've got trainers watching everything and make sure these people do it in this certain way.
+ The other thing that's cool about this.
+ James Steele is part of a movement to make more data available. So if you really want to,
+ you can go look at all of the data and all of the code that they have in their supplementary
+ materials. And I've dug into quite a bit of it. And it's fascinating to look at.
+ So the analysis they did was a mixed effects growth modeling. And if you don't know what that
+ is, don't worry about it. But you can think of growth modeling as like a log or a natural log
+ curve or something like that. And the strength for each exercise was the dependent variable.
+ And you can go through the methods section on your own. My level of stats, I can understand it,
+ but I don't think I'm going to explain it that well. So I'm not even going to try.
+ But go through the paper. It's actually not that hard to read if you've got a pretty
+ rudimentary understanding of stats. The short version is that they
+ plotted the data and they plotted the data. And they plotted the data. And they plotted the data.
+ They plotted a log linear model. So this is where they had the y-axis of strength loads
+ and the x-axis of time. They did this log transformed. And this is basically a way to
+ diagnose a growth curve, like a log curve. Because when you log transform your x-axis,
+ suddenly what looks like a curve going out to a plateau becomes linear.
+ And so now, instead of like 10, 20, 30 on the x-axis, the grid lines are 10 to the 1,
+ 10 to the 2, 10 to the 3. So it'd be like 10, 100, 1,000. And in many natural phenomena,
+ Kyle, as you well know, the log transformation turns this linear. And that actually makes it
+ easier to visualize, not only visualize, but do a lot of math on something linear rather than
+ something like logarithmic, right? Yeah. And I think if you're,
+ a lot of times, at least I have done this, if you are trying to fit something that's logarithmic,
+ a lot of times it's easier to take the log, have it be linear, fit it in linear space, and then
+ undo the log later rather than do like non-linear fit.
+ Yeah. And it stays valid that whole time. It's actually really cool. It's a technique that's
+ used commonly. My wife's an epidemiologist, and she uses this all the time to log transform data.
+ So if you want to do this yourself,
+ you can. If you turn your power curve into kilojoules burned, and then you log transform the
+ time, you'll see three distinct areas that roughly look linear. And that's kind of what I'm talking
+ about. And you can kind of see this in the power curve if you're looking at log seconds,
+ kind of like WKO5 does. If you can turn that into kilojoules burned, and then you're going to see
+ these three areas, and you can actually fit a line to each. And the one that's in the middle between
+ like two, three minutes and like 20, 30 minutes, that is kind of the critical power valid line.
+ So, and there's obviously a lot of publications on that kind of thing. So we don't have to go
+ too far into that. So let's see what happened. Did they find this growth curve that they were
+ looking at? The answer is, of course, yes. This is exactly what they found.
+ The untransformed model looks like a log or a natural log or something like that,
+ there's a bunch of different functions that can, you know, so that can basically model this kind of
+ growth curve. It doesn't have to be a log or a natural log, but we're going to just pretend it
+ is for now. And the, so they log transformed the time and it's, which is super simple because
+ they've got one session per week. And so it's really nice, a nice linear fit. Once they log
+ transform time, they go, wow, this is straight as an arrow. This is awesome. The actual growth curves
+ between exercises. So remember chest press, leg press, and pull down the actual growth curves
+ between each and their derivative slopes, obviously are a little different with the leg press showing
+ the fastest rate of growth and then pull down and then chest press. And my personal supposition is
+ that this correlates with the amount of muscle mass involved, because if you imagine larger
+ muscle mass engaged for the same percentage relative growth means more total muscle growth,
+ and then hence strength improvements. And they actually, turns out after I thought about this,
+ as I was reading through, they actually did this for me, which is very nice of them. It's in figure
+ four, they looked at improvement as a percentage of baseline loads. And they're similar across all
+ three exercises. And they, they show, you know, similar growth curves as a percentage. So cool.
+ Now we've got this established that yes, indeed, over a very, very, very long time, we have these
+ growth curves. And so what can we do with curves like this? Kyle, actually, I'm very curious,
+ like, what's the most common application you have for something like this?
+ Oh, man, I think it would depend on what's the worst answer. Sorry.
+ You know, I think I'm setting myself up here. But have you ever looked at the,
+ where the log changes from like, if you if you zoom out on a big log curve, like you'll see as you go on
+ to like one or kind of depending on how the equation set up, but you go into one, like it
+ dives down to basically infinity real fast, right? So have you ever looked at kind of the inflection
+ point of these things before they kind of get up and get to the plateau? Yeah, I think a lot of
+ times people will refer to that as like the knee or something, you want to look where this this this
+ change happens. You know, for example, there's a pretty common, I would say pretty common
+ application is something like, like one over F noise, where this is not exactly the same,
+ but it can look some things can look like this, where, you know, it's one over F being like,
+ the amplitude of the noise is inversely proportional to the frequency. And so there'll
+ be a linear section, and then it'll roll off into flat, this is probably getting into
+ well, for the audio nerds out there who, who understand that kind of stuff, like, you know,
+ from is my audio engineer. Yeah. And it happens in electronics as well. But you'll instead of
+ instead of dealing with that, you know, as to you can sort of split it into two separate regimes,
+ like you can either be on the more linear part, or more towards the flatter part. And you look for
+ that knee. And a lot of times that is logarithmic in like, when you plot it versus right. And so,
+ so like, this is one of the things that they did in this paper, too. You also could have just said
+ yes, I use that.
+ Okay, so yeah, so they they plotted these, what you call a knee, they call a change point here.
+ And so this is kind of what we can think about here is, this is where we run out of new gains.
+ And, you know, after this, you know, knee or what they call the change point after this levels off,
+ you know, you can kind of expect slower growth. And so, like, if you think about this in a way,
+ like, the slope is going to be, you know, you're going to be able to, you know, you're going to
+ itself might be, early on might be one. So if you go over to the right one unit, you'll go up
+ one unit. So you might go over to the right one week, like in the strength study, and you might
+ go up like 10 kilos might be a unit or something like that. Well, that'd be a lot. A kilo.
+ Or- 10 kilos in a week. All right.
+ Yeah. And so if you are like far out, kind of far out to the right on this curve,
+ you might go over one unit of a week, but you might only go up 0.1 or 0.01 units instead.
+ And so this is kind of the nature of the diminishing returns here. And the paper,
+ they wanted to find an easy way to assess the difference in the individual shape of the growth
+ curve. And so what they did was they took the first derivative of the curves. They took everybody's
+ individual curve and they did a DDX of the curve. And basically if you do this for like a, if you
+ know your-
+ Everybody remembers this is their calc one. And for those of you who haven't had it,
+ if you take the first derivative of a function like natural log of X, you end up with one over
+ X, which looks like a hyperbola. And this is much easier to find an inflection point for,
+ because it's a lot sharper when you do this, when you look at this derivative. And so they looked at
+ where this happened for a variety of people, and they plotted it by density in figure three.
+ If you want to go-
+ If you want to go look at this paper, once you kind of understand the stats behind it,
+ everything is super self-explanatory. So in figure three, they looked at a random sample
+ of a thousand participants. Imagine if you could just randomly grab a thousand people without
+ bootstrapping. How awesome is that? A thousand people with over two years of data, just randomly.
+ Cycling studies could never.
+ Right? And they found the week, because it's one session per week, they found the week where this
+ change point occurred. Then they plotted the distribution of change points. And it looks
+ like a strongly right skew distribution. So the quote unquote bell of the curve is on the left
+ side, and the tail kind of feathers out to the right, where it's like long that way. So the start
+ of the change points began almost immediately. So some people like plateaued real quick. And
+ the, you know, and they're plotting like density peaks, like what is, you know,
+ like they're kind of binning by week, like how many people are in each thing. And so the meet,
+ the mode of this, like the most number of people is 31 weeks for the leg press,
+ 26 for chest press and 27 for pull down. So that's like, you know, between 20, you know,
+ 26 and 31 weeks for the most number of people is when they started to get the slowdown. But
+ for some people, so for some lucky bastards, the change point,
+ goes out past 250 weeks or five years. I would say too, like for people who are thinking that
+ maybe they're one of those lucky people who get five years, if you're only going to get one session
+ a week, like most people are probably going to do more than one session a week. So you may accelerate
+ that happening. Yeah. And I think most people who have done strength training, like they would say,
+ yeah, like for sure. If I'm strength training twice a week and I'm doing two squat ish pattern exercise,
+ like I'm doing squat and I'm doing leg press. Yeah. I plat, I kind of plateau. I stopped putting
+ on so much weight quickly after three, four weeks. Like I'm sure, I'm sure that this happens. And like,
+ this is like six months, uh, about six months. Um, and, but there's a lot of individual variation.
+ There's also a lot of reasons that the individual variation could occur. And so we'll, we'll talk
+ about that kind of a little bit more in depth next WOSOC episode. Um, but cause we're going to,
+ as usual, we're going to throw a lot
+ of monkey wrenches in everything. So, um, sorry about that, but I, these monkey wrenches are
+ necessary, I think in, in interpreting your own data. So I'm super excited for this episode
+ and I'm, I'm extra excited for the next one too. So, yeah, I will say too, like for people who've
+ done like starting strength or five by five or whatever, like it's a similar thing where like
+ early on you can add like 10 pounds of workout per lift. And then it's like, Oh, five pounds of
+ workout. And then it's like, Oh, I'm going to do this. And then it's like, Oh, I'm going to do this.
+ Oh, maybe two and a half pounds of workout. Yeah. And then you start Googling, can I put a two and a
+ half on one side and not the other? Yeah. Um, you're buying, if you buy these big two inch
+ diameter, uh, like fender washers, they're like, uh, I want to say they're like, Oh, like the
+ tiniest, the tiniest little change plates. You can slide those on. Yeah. Yeah. Tape, uh, like a
+ silver dollar on the side of one of the plates. There you go. Um, all right.
+ So the next thing that they did in this study was they looked at effect sizes. And so in a lot
+ of studies where we look at effect sizes and we've discussed effect size recently on the podcast too,
+ where effect size is the magnitude of change as a proportion of the standard deviation,
+ right? So like if you have an effect size of one, by the way, that's pretty large in a study like
+ this. Um, you know, if you want to convert a standard, uh, sorry, an effect size of one,
+ you want to go check out what is the, uh, standard deviation,
+ the standard deviation of the units. So if we're looking at like, uh, you know, things are plus or
+ minus, I don't know, 10 kilos. So standard deviation of, of one or effect, sorry, an effect
+ size of one means the standard deviation of one means that, you know, the real world units of
+ improvement for this effect size would be 10 kilos. Um, and so here they looked at magnitude
+ of effect size for strength improvements over the first 12 weeks and then beyond.
+ And so for the first 12 weeks, the effect sizes are
+ like press 0.86, it's pretty big chest press 0.58 and pull down 0.77. So pretty large effect sizes
+ for strength training for sure. Uh, and you know, what's the strength training history of a lot of
+ these folks? Not really sure. Also their average age is like mid forties. So, um, you can definitely
+ get stronger, put on muscle in your forties. Uh, and the question is really like, would it have
+ changed if people were in their twenties? That's a good question. We're not really sure. Um, but I
+ think that this is a really, really good question. Um, and so I think that this is a really, really
+ cool way to think about the data because if you zoom in on figure three, you can actually see the
+ weekly effect size. Like they, they've got these little windows, like a little inset. Um, and you
+ know, for just leg press, uh, you know, week two, the effect size is, uh, 0.25 and week four is 0.1
+ roughly, you know, week six is like 0.07 already. Um, and that's the population average. Yeah.
+ For this random sample. But, um, you know, if you want to rescale this as an improvement from
+ baseline after year one, you see they're looking at 30 to 50% improvements. And by year six, they
+ were at like 50 to 60% improvement from their baseline. So, you know, we're looking like,
+ that's a pretty stark example of like, this is the diminishing returns that you can expect from
+ these strength training things. Um, and we're almost at the end here. So one more thing I really
+ liked. Oh, almost.
+ Almost at the end of looking at this paper, we're going to spend a long time discussing the
+ implications. Um, because they were worried that weaker individuals might've actually dropped out
+ leading to some survivorship bias. They refit the model for only people with, um, you know,
+ less than two years of data and the growth rates still agree with the quote unquote survivors,
+ uh, beyond 12 weeks. Uh, and so they don't really actually have,
+ um, uh, a case that there's any real survivorship bias because kind of the early stuff all looks
+ about the same on the population average. So, um, although personally, well, in the paper,
+ they were like in case weaker individuals dropped out. Right. And I, I don't know if it's necessarily
+ that, um, but I would actually expect that it's just that some people may have dropped out.
+ What I would expect is they, they start up at this gym and they don't see progress as quickly as they
+ wanted to. And so I would expect that they would drop out. And so I would expect that they would
+ see progress as quickly as they wanted to. And so I would expect that they would drop out. And so I would
+ think that people with slower improvements, which would correlate with a lower baseline strength,
+ possibly, uh, would, you know, would probably go off, man, I only, I'm not getting stronger than
+ the rate that I want. So I'm going to get out of here. So, but they don't see that either,
+ uh, based on this data. So, um, no survivorship bias in this data. And so that's part, another
+ reason that I think this makes it really useful data set. It's interesting. Cause I wonder,
+ you know, I just want to know what the, um, was there an incentive structure for these folks? Like
+ were they, you know, were they, I, yeah, I just, I would love to know more. Obviously they're not
+ going to tell you that because if they, anyway, yeah, it'd be super interesting to see the
+ psychology if they'd been interviewing the people on the way. That's a good point. Yeah, I agree.
+ Um, but you know, we can't do everything in one study. So it's actually not if you had thousands
+ of people. Yeah. I mean, and that's, that's one of the cool things is like they logged everything.
+ This is awesome. Um, anyway, so this paper is not perfect. There are some shortcomings here.
+ Obviously it's nobody's fault necessarily, but, um, you know, like kind of like you mentioned
+ one session a week is not exactly optimized quote unquote for getting, you know, the most rapid
+ improvements that you possibly could. You might typically see people doing like two, three sets per
+ exercise for like two exercises on a muscle group. That's like a pretty typical strength and hypertrophy
+ regimen in the gym. And so we don't see that. And especially for strength training, but also for
+ endurance training, there's a dose dependent response and there are diminishing returns with
+ that according to like recent metadata, especially in the strength world. So one of the things that
+ again, link going the other way of this pendulum, having one session a week with one set,
+ you're going to presumably get a full recovery from the quote unquote dose of the strength training.
+ That they did. Um, and you might even expect that if they did two or three sessions per week,
+ uh, and you know, then we might have to worry about really diminishing returns after that.
+ And it's, and, but the question is, would we see it after 30 sets? Would we see it after 30 workouts?
+ Uh, what's the relationship there? Because now all this stuff gets muddy and, you know, for people
+ who saw their plateau start as late as like, you know, 250 workouts, would we see them instead?
+ Would this be 250?
+ sets? Would this be 250 training sessions? It's really, really hard to say. Is there a
+ nonlinear relationship with that? So maybe it would have happened if they did two sets twice
+ a week instead of 250 weeks to plateau. What's the nonlinear improvement on this? It might have
+ been like 160 weeks or something like that. So it's really hard to say because we only had this
+ one data set, but it's so well controlled that I'm kind of okay with it. With every study,
+ you're always like, oh, the first, you know, I don't think anyone has ever finished a study or
+ an experiment or whatever and gone, all right, that's it. I could think of no way we could
+ improve upon this if we were to start again. Yeah. And like, and I don't think that when
+ this gym set this up that way, I'm not sure. I have absolutely no idea, but I would not think that
+ that's the way it would work. I don't think that that's the way it would work. I don't think that
+ that's the way it would work. I don't think that that's the way it would work. I don't think that
+ that's the way it would work. I don't think that that's the way it would work. I don't think that
+ they would ever assume that this would be used in a training study or they might've done things a
+ little differently. So yeah, anyway, overall, you know, the ecological validity, I would say that
+ the ecological validity argument could go both ways where, you know, most people going to the
+ gym to do strength training are not going to train like this. On the other hand, thousands
+ of people went to this gym and trained exactly like this. So, you know, I don't think that's
+ the way it would work. I don't know. It seems pretty ecologically valid to me because this is
+ what a bunch of people did and it wasn't in a study. So it's just, yeah, like I said, I want
+ to know what, how they, a lot more, I have questions. Anyway, it's fine. I have questions
+ too, but I also have questions about, you know, certain color theory gyms. What are they called?
+ It doesn't matter. Anyway. So, okay. So we've laid down some foundational principles and a
+ couple of guardrails here. We've kind of established diminishing returns, established shape of the curves and
+ how we diagnose these types of things. And now let's start extrapolating or let's not even
+ extrapolate. Let's see if we can do run similar data analysis to them to find this in cycling.
+ Because, you know, one of the things that I thought was really interesting was when I downloaded
+ the data from this paper and I was looking at it and looking at some of the individual response
+ curves, because they've got a bunch in there.
+ They look very similar to cycling data. It really does. Like there's, it's kind of messy. You know,
+ there's like long plateaus and little spurts here and there. And sometimes it's pretty, you know,
+ consistent through a while, but you kind of see the same general shape. And once we average it
+ out into a platonic ideal of curve, you know, you get a really nice smooth curve, but, you know,
+ in reality, it's kind of messy. And so when we're thinking about transferring this over to a
+ cycling and wondering how well can we find data, I went through a couple of my data sets
+ with some of the clients that I've worked with for a long time. And the first place I went,
+ because I know this guy's data in and out, and I worked with him for five years. And, you know,
+ we had a lot of success working together. And so what I decided to do to look at diminishing returns
+ FTP, because everybody wants to know about this. So I looked at baseline and then what was his kind
+ of FTP per year? And so then, then I kind of, I graphed it and we'll, we'll kind of go through
+ this. So baseline FTP is 280 Watts year one that we're working together. We get them to three 25.
+ Damn. Yeah. 45 Watts. Pretty good. But also like that's his, that's his baseline, you know,
+ that's like kind of noodling around.
+ Like it's not like he was training for five years before we started working together. Like this was
+ somebody pretty new. And that's one of the reasons that this is a good data set to work from.
+ Okay. Year one, three 25 off of baseline two 80 year two, three 50 year three, three 75,
+ year four, three 90 year five, 400. It doesn't five Watts in a year. Yeah. It doesn't 10 Watts
+ in a year. So it's like 45, 25, 25, 15, 10. And when I run a model on this, the best fit is the growth
+ model, a power series specifically rather than linear. I mean, duh. And we're total improvement
+ is 42% above baseline. I mean, this is like just N equals one. And if I log transform the X axis,
+ it goes straight line. Um, and one of the other considerations here, that's not in the,
+ in the steel and colleagues paper is what happens after a layoff, because we've all seen this too,
+ where we take two, three weeks, mid season break or between season break. And then we get back on
+ the bike and we start noodling and we're like, Oh boy, I have not fit. And then you realize, okay,
+ I got a couple of months to train up for race season again. So I'm going to be okay. And then
+ you see a similar pattern where you are not back to baseline necessarily. Oftentimes, if you've
+ kind of fall back a little bit and then you're trying to, then you kind of train up to where
+ you've been, then you get a little further. And so I wanted to look at this, um, you know,
+ in terms of cycling data, but you know, in terms of strength training data, there's actually a
+ couple of studies on this where people take a couple of weeks off and they lose muscle and
+ strength. Then they get back to training. And after a few weeks, they get kind of right back
+ to where they were. It's like, it's like they never left. Um, and you kind of just like rejoined
+ the old curve, that old long-term curve. And then you kind of get back to where you were.
+ After a couple of weeks, I wanted to see, you know, is, does this pattern hold or is it like,
+ you know, maybe we're linear when we're looking at in a season. And so I just grabbed one of his
+ seasons. I just picked the middle one year three, and I broke it up into four three-month blocks.
+ And I just grabbed his FTP his from each of those three months blocks. So his baseline was 320 Watts,
+ so now he's back to, if you recall correctly, that was his best from year two was 350 Watts.
+ So it took three months to kind of go from off the couch to back to his best from the previous year
+ in quarter two, he got up to 362 Watts. We can call it three 60, but three 62 is a nice
+ middle point between, and that was actually the number between quarter two and quarter three,
+ quarter three, three 75.
+ And then quarter four also three 75. So loses some fitness three months later, back to where he was
+ three months later, he's we've kind of moved him past where he was and then he's racing and stuff.
+ So we kind of maintains kind of expecting. So when we plot this and we fit a model,
+ the linear fit are is 0.93 growth model 0.98.
+ And of course you've got four points that are roughly linear in there. So, you know, linear is
+ not going to be the worst, but it's going to be the worst. So I'm going to go with that.
+ But, you know, it basically looks like one of these growth models. So for me, at least, you know,
+ on paper and, you know, and intuitively, you know, we're looking at the same exact pattern here of
+ diminishing returns, not only year on year, but also within a season. And, you know, again,
+ log transform this time axis on the yearly FTPs and it goes linear pretty quickly. So
+ and, you know, I, in my head, I always call this level of experimental data,
+ the myth busters level of experimental data. If you've never seen the show, go watch it. It's a,
+ it's the zeitgeist of millennial nerds. So, but we can call this a case study, you know,
+ like maybe, or even a, well, in a second, we'll make it a case series, but anyway, Kyle, sorry.
+ No, I mean, I think, yeah, it's like, it's not,
+ it's totally an anecdote, but it's not, it's not, not an anecdote. It's, it's a,
+ not, not an anecdote. Yeah. It's one experimental intervention, not even, it's a retrospective
+ analysis. And so of like a real world, this is what happened. And also like, not everybody,
+ you know, improves this much, I think. And so I think, I know. So like, it's a good example of
+ somebody who I worked with from, you know, from a kind of a low-income family, you know,
+ brought them up to a much higher level. And I've, I've worked with a bunch of folks where this is
+ kind of the case, not, not a ton, obviously, like how often do you get somebody who's kind of got
+ really, really high potential who starts kind of off, off the couch or off kind of noodling.
+ And, you know, not every, every, any coach will tell you that most of your clients aren't like
+ that, but when you find them, I found, you know, probably, I don't know, 10 at this point where,
+ you know, we kind of make good on their promise. It's first of all, it's, it's rewarding. It's also
+ norm. And it's also a really good fodder for this exact kind of modeling. It's not just a case study,
+ I guess we can call it a best case study because, and also I know his data is really clean. We had
+ a long working relationship. And so to turn this into a case series, I looked at a couple other
+ people who I've worked with for a long time, some of them from kind of baseline, some of them from
+ a little later. And like one person I looked at baseline was two and a half years old. And I
+ got a lot of feedback from them. And I was like, Oh, this is a good case study. And I was like, Oh,
+ this is a good case study. And I was like, Oh, this is a good case study. And I was like, Oh,
+ this is a good case study. And I was like, Oh, this is a good case study. And I was like, Oh,
+ we got him up to 200, sorry, 360 Watts. So a 25% improvement over baseline. And he's still
+ improving about 10 Watts a year, which is kind of about what I would expect. Another long-term
+ client, she started at 200 Watts. We've got her up to 250 Watts over five years. So 25% over baseline,
+ still improving at about 10 Watts a year again. But also she's a little unusual because she had
+ a couple of years as grad student and, you know, really kind of basically like not good for her.
+ And so I would, I want to like get rid of those two years and say, we got a 50, we got this
+ improvement over three years or something like that. But, you know, it was actually five years.
+ And this is kind of the real world of coaching is sometimes people have sky high life stress and
+ just, they're not recovering. And like, what can you do besides shepherd them through those times
+ and strike while the iron's hot when all that stress goes away. But my other case study here
+ was my sprint.
+ And, and I looked at my old sprint data and I went and I saw two distinct growth curves.
+ The first one from kind of baseline to when I started to strength train. So like starting in
+ 09 and going up to 2015, that was kind of like the first growth curve. My sprint went from a thousand
+ to 1500 Watts of 50% improvement. And then another growth curve from 2015, like late 2015, I started
+ doing proper strength training and actually, you know, I was like, I'm going to do a lot of strength
+ trying to improve my sprint up to 2020 when I got injured and life went topsy-turvy,
+ like it did for a lot of us. And I saw a 45% improvement in the second bit with the same
+ kind of shape of the curve, but the limiter there was muscle mass and not like just learning to
+ sprint. And so I won't take you through the rundown of all the numbers and conversions of
+ effect sizes and all methods that Steele did, but basically the pattern holds for not only year
+ after year, but also after season breaks. So I would call this a fairly well-established pattern
+ in the cycling world. And I think I probably could have just said that. And most people
+ would intuitively go, yeah, yeah, I got it. But I wanted to come with some extra data,
+ if that makes any sense. Having real numbers, quantitative figures like that to back up your
+ real numbers. Yeah. I mean, I think that's a really good point. I think that's a really good
+ experience is nice just because you think like, oh, am I the only person this is happening to?
+ Like all of my peers, they're just getting faster and faster constantly all the time.
+ But that's not the case. It's just, you don't, you're not looking at their numbers, right? Like
+ even your teammates or whatever, you're not necessarily looking at their numbers going,
+ oh man, they're always, they're definitely improving faster than I am. And it's like,
+ no, this is kind of, I won't say exactly a universal experience, but it is a pretty widely
+ very common experience. Yeah. And also I think that, and this is more kind of my experience,
+ but you know, it seems to me like there's kind of, there's kind of two factors that play there too.
+ And this is another reason that people should probably not compare themselves to others
+ necessarily, just compare it to yourself. And one of this is that some people start with a higher
+ baseline level than others. Like my baseline level fitness is like, you know,
+ my FTP off the couch is probably like what, 150 Watts maybe. And at my all time best,
+ it was like at 300 after a couple of years of hard training, like, okay, that's pretty normal.
+ I'd say that's, that's, that's great. Okay. So what? And I also had a pretty slow response to
+ aerobic training. Like I had, I, it was a slog for me and I've worked with some people where they,
+ their FTP just shoots up like a weed and you just, you can't, you can't stop them from improving.
+ Even if you're a beginner, you can't stop them from improving. You can't stop them from improving.
+ Even if you try, you could play the worst training in the world and they would still get better.
+ Okay. You could plan training that they wouldn't get better on, but you know what I mean? So,
+ and so like somebody's individual growth curve and where they start, like these are two different
+ things. And so like, and so yeah, where somebody starts and their rate of improvement, they don't
+ also, to me, just, just speculation here. I don't have any hard data to support this besides my
+ experience, but to me, these two things are not necessarily right. And so I think it's a good
+ way to start. I think it's a good way to start. I think it's a good way to start. I think it's a good
+ way to start. I think it's a good way to start. I think it's a good way to start. I think it's a good
+ way to start. I think it's a good way to start. I think it's a good way to start. I think it's a good
+ because I've worked with people who start with a really high baseline level and they have slow,
+ but steady improvements. And I've worked with people who have a low baseline level who have very quick
+ improvements, but then stop very quickly. Or even people who start with a low baseline level,
+ and then they just have pretty decent improvements and pretty decent improvements year on year.
+ So my first example back there is a good example of that where, you know, pretty good, but not
+ amazing baseline level and gets up to a really, really high level of fitness, I would say. So,
+ right. Now we've got this pattern established. Now, what do we do with this information?
+ Well, the answer is a lot. So let's start with, since we were just talking about scientific
+ literature, let's talk about more scientific literature. And let's consider the setup of a
+ you've got to read the methods. And also a lot of studies don't have the information published
+ about where they, where and how they kind of get their, their, their subjects. But oftentimes
+ you'll see people, endurance athletes coming in after an off season break.
+ And then they do about three to four weeks of like getting to know you training again,
+ usually a lot of endurance, a little bit of strength training, a couple light efforts,
+ pretty common to do that. And then we're going to divide them into two groups and we're going to
+ give them two different training interventions. One of these interventions leads to improvements
+ at about, let's say twice the rate of the other over the course of, I don't know, four to six
+ week or eight week training intervention or something like that. And we're going to assume,
+ and I don't have a great study because a lot of studies have confounders that I would rather have
+ controlled for. So we're going to, this is a, this is a make-believe, this is a, what do you call it?
+ This is a thought experiment example. And we're going to pretend that everything is controlled
+ for and that we are indeed seeing that one intervention leads to provably faster aerobic
+ improvements than the other. Now, knowing what we know about dose response curves and growth curves,
+ is it reasonable to say that,
+ over the very long term, we're talking like a year or something like that,
+ will one of these lead to better improvements than the other?
+ Or is it more reasonable to say that the early growth curve
+ yields more rapid results than the other, or the rate of going up the early growth curve
+ is faster than any other, right? So we're talking about if we add, like, like in that,
+ the strength study, if we had people doing two sets or going to the gym twice a week for one set each,
+ how would that have changed the, um, the response rate? Would that have linearly doubled
+ somebody's strength improvement? So we would have seen a set of, you know, change point for
+ what was it like press was like 31 weeks instead of 31, would we have seen 15 and a half?
+ Hard to say, maybe. Yeah. But the, but like the, the, the bigger question is not necessarily that even,
+ but it's, is this, is one of these going to meaningfully raise the asymptote that you approach?
+ So by doing one intervention, is your long-term potential going to be better than the other?
+ Or are you just changing the rate at which you go up the,
+ early part of the growth curve? Yeah. My, my supposition is that there's no free lunch and
+ you're not gonna, you're not, um, you're not gonna just, oh, you know, doctors hate him for
+ this one weird trick. If you just, if you just train more, more is more. I mean, more is more
+ to a point, but it's not, you know, you can't, you can't do that forever.
+ Right. And like, that's one of the other questions is like, is this part of the intervention or is
+ this inherent in a person? Um, and you know, and individualizing training like that, well, we'll,
+ we're going to go deep into that one. And I think in the next Watts doc, so that's gonna be fun.
+ Um, but at least to me, the answer on this question is the latter. What I think, what, but we don't
+ have any studies to really prove this either way, but my, my thoughts are that we are really only
+ response on the early slope of the growth curve, but it's not that we are necessarily going to have
+ a meaningfully higher asymptote over the medium or long-term like months to years. Agreed. Yeah.
+ But that's my supposition. I, one could make the case the other way. And I would
+ have a hard time arguing other than like in my coaching experience, it's this one way.
+ Yeah. I think that at least, you know, there,
+ there's also the other factor, like we mentioned very early on is that here, you know,
+ we know with very high likelihood that people were fully recovered by the time they have another
+ session. They better be. They better be. And there is always that question of like, oh, early on,
+ you know, do you, can you skip or can you spread out your rest weeks early on in the super linear
+ phase when you're just getting all these new gains? Because, you know, I think that's, I think
+ you know, especially for strength training, like you can't really dig that deep of a hole if you're
+ squatting, you know, a third of your body weight for reps or something. Right. But once you're
+ squatting two times your body weight for reps, like the hole that you can dig is just so much
+ deeper. And so not taking rest weeks is really dumb, but early on, like, could you just blast
+ through not taking rest weeks for a while and still be recovered because you're just not, you're,
+ you're not going to be able to do that. Right. And yeah, and this is kind of exactly the implication
+ here is that adding stimulus adds fatigue as well. And we're going to dig into a lot more on that a
+ little bit later, because right now I want to kind of stay in the pocket on, on, you know,
+ imagining the setup of these studies. So like the context of where you're at on your growth curve,
+ like in a season is going to make a big difference in the setup and interpretation of a study,
+ because when you've got a study on, uh, like, you know,
+ well-trained endurance athletes, uh, if you are way far out on the right side of the limb of the
+ growth curve, um, you know, you might be making 5% growth a year or less. And, you know, if you
+ model that as what a change you would expect over 12 weeks, you might be looking at a change of 0.1%
+ a week thereabouts and over 12 weeks, that's going to be a 1.2% change. And, you know, you're, uh,
+ you know, presuming that you're on the far right side of that in-season growth curve. Therefore you
+ would need a, you know, a little bit of time to, you know, get a little bit of time to, you know,
+ pretty large sample size to reliably and realistically detect that change. Uh, and so,
+ yeah, noise is pretty high. Yeah. A lot, a lot of noise. So, um, you know, you could run,
+ go ahead and run that through a, through a sample size calculator and tell me what number you get
+ and tell me if it even has three digits. Um, so, uh, and I think that this is actually another
+ reason to lean more on meta-analyses than individual studies. Uh,
+ as you might expect, because when you pull together a whole bunch of people, you're more
+ likely to find a meaningful effect size. And although a lot of the time it's, it's, it's,
+ it's pretty small. Um, and so the other thing I think that we're up against here,
+ that's a difference between strength training and endurance training, especially for competitive
+ cycling. There's a lot more physiologic variables that you have to account for in cycling because in
+ resistance training, there's like two outcomes of interest strength. How much weight can you move
+ in a given exercise and size? How much bigger is the muscle getting the relationship between these
+ two things is pretty straightforward, especially over long-term outcomes. I know blah, blah, blah,
+ short term. I've, I've, I've seen all the studies. I understand it long-term. The two are fairly well
+ correlated. Um, and we therefore have pretty reasonable assumptions that things that improve
+ strength and size,
+ better over the short term will probably be things that improve strength and size over the very long
+ term, but it still is an assumption. We have, there's no real data to suggest that, you know,
+ things that improve strength better in the short term will yield in the longterm. Like this,
+ this one study, we've got like one particular training methodology. Now, if they did,
+ you know, half of those, um, you know, that rep speed,
+ they did two sets instead for same time under tension, but they have seen the same thing over
+ long-term. Maybe it's hard to say. We don't really know. And that's the kind of thing I'm
+ talking about because now if you did everything as like, I don't know, let's call it what's, what's,
+ what are people talking about these days? Lengthened bias training. Sure. Um, and I, I, I,
+ I like some length of bias training definitely, but does that, you know, because you find a
+ meaningful improvement in, you know, untrained or moderately trained people who like triple their
+ volume in, you know, a six week study, does this necessarily mean it's going to apply to somebody
+ super well strength trained? We assume so, but we're not really sure. On the other hand,
+ in endurance training, we've got multiple factors that lead to performance improvements because in
+ strength training, like I just said, there's basically one, how big are you getting and how
+ much does that mean? You, how much more does that mean? You can lift, um, to, to extraordinarily
+ simplify it. On the other hand, we've got
+ multiple factors that lead to performance improvements. We've got central factors,
+ stroke volume, blood volume, capillary density. Um, we've got peripheral factors,
+ muscular endurance, fiber type, anaerobic capacity, and all the things that influence
+ anaerobic capacity. Um, and studies also don't really control for these things too well because
+ a lot of the time you get various parallel adaptations. And so like if, and this can also
+ yield unrealistic expectations. Like if you have two children, you're going to have to do a lot of
+ training interventions and one improves performance, but you know, the VO two max or the MLSS doesn't
+ really change that much, but the performance goes up a little bit more than you would expect.
+ Okay. Probably anaerobic capacity. Did they measure that? Probably not. And so, um, so if you dig deep
+ into these studies, you often see that the R squared values, what's, you know, which is like
+ how much of the outcome variable can be explained by, um, one of these things that you measured
+ usually is on the order of like only explaining 15 to 40% of the physiologic, um, performance outcome.
+ And so you like, you know, just even basic literature interpretation means that you cannot
+ lean too hard on this stuff. You can say, yeah, sure. This is a factor, but this is not really
+ strong. And I think we actually speaking of the devil 0.4 was like the R squared for a lot of,
+ um, a lot of the stuff that we looked at.
+ In the durability podcast, that was the last Wattstock. And so, so it's a pretty kind of
+ common ceiling. And like, if you see something that's like 0.7, 0.8 for an R squared value in
+ physiology, you're like, holy shit, they really, they either asked the wrong question. They set
+ this all up wrong or they really, really, really found something. And there are definitely cases
+ of both. Uh, so you've got to kind of be careful of how you interpret the literature. Um, but
+ you know, if you're looking at the far left side of the growth curve, like early season, even for
+ trained athletes, um, you know, I would say they are typically not differentiating between these
+ factors. And so, you know, same thing happens in training. Imagine early season, you start doing
+ FTP efforts and you go, wow, training FTP at FTP raises my FTP. Good luck doing that six months
+ straight. Uh, and trying to raise your FTP because you are definitely going to find that if I just
+ hammer this one thing, my FTP only goes up to a certain point and I can extend my TTE, but that
+ does not necessarily mean my FTP is going up. If I can do, you know, if I do 75 minutes worth time
+ in zone, I do five by 15. Cool. That's awesome. That's, that's really, really good. Does that
+ necessarily mean my FTP is actually like way higher because I can do my FTP for so long? It's not necessarily. And so,
+ this is the kind of variables that we have to control for because, you know, like I said,
+ especially in cycling, if you think that FTP training, if you make that bet that just training
+ your FTP over the very, very long term is going to be the thing that improves your FTP, you are going
+ to hit a plateau. And this of course means that, well, everybody knows now we've got to train harder.
+ Now we've got to do some VO2 max work in order to kind of raise the roof as it were. Uh, and that's,
+ I think, pretty common knowledge.
+ I think it's a good example. And to illustrate the point a little further, uh, let's, let's, um, there are these studies out there, but let's mock up a fake study where we have, let's say, trained participants or even, uh, coming in from an off season or untrained participants who haven't trained before. And we have people do threshold training and we have them do sprint interval training and we have them do like four to six weeks or something like that. And we do a bunch of lab tests. We do ramp tests. We do
+ VO2 max tests and we do the lactate thing. And we find that they have roughly equivalent outcomes. Now let's say we also add a performance test. And what would we actually expect from a performance test? We would expect that the sprint interval training would probably lead to slightly better improvements in a, a wind gate test, like a 30 second kind of like max effort sprint test. And we would also find probably that threshold training is probably going to lead to slightly better
+ improvements in like a 30 minute time trial, because now we have specificity on our side too. Uh, and not every study will, uh, do performance outcome measures like that. But, you know, that's one of the reasons that I would usually wait the performance stuff a little more highly than with the lab measures, because to actually drive the point home again, that if you decide that one of these looks superior to the other based on certain
+ outcome measures, you might conclude that, you know, like, Oh, like either FTP training or sprint training, either one is going to be better for me in the longterm, or they're going to be the same once you become well-trained. I think anybody who's trained knows that that's not a bet that you should take. And so this is really to illustrate that because of the crossover stimuli in, uh, in endurance type training, and also in terms of training that goes over and under,
+ threshold where the physiology, the physiology gets a little more complex than just like, can you move the weight or not? Um, you know, we have to really, uh, be careful about not getting too bullish with deciding that something that affects the early growth curve is going to affect the later growth curve because like, let's say you do put all your eggs in the basket of sprint interval training, or in terms of threshold training, because you either enjoy it, or it's a little more race specific for you.
+ I mean, if you really wanted to bet that it's going to improve you the best in the longterm, I mean, at some point, sprint intervals are not going to actually stimulate, stimulate your VO2 max sufficiently. You actually need to work at higher oxygen uptakes for longer in order to improve that. The point here is that in the short term, on the early part of the growth curve, multiple stimuli are happening. Sprint interval training, threshold training is usually sufficient to, you know,
+ raise VO2 max to a certain degree, but at a certain point you need it to raise VO2 max more. And depending on how you set up the intervals, you might even get equivalent VO2 max improvement from like threshold or sprint intervals with like actual VO2 max intervals. So this, you know, this is one of the reasons that we've, again, really have to be careful because in strength training, it's like, can you move the weight or not? We are really dealing with one stimulus. It's not like, uh, well kind of two, like strength and hypertrophy, but there's a big crossover
+ in between the two, even though, uh, you know, I've said like rule of thumb is kind of for an endurance training podcast. I think this is a totally sufficient rule of thumb is like, you kind of cut it off at like five or six reps below five or six reps, more strength over that little more hypertrophy, even though in reality, there's like a very large level of crossover there. Uh, we don't really need to think too deeply about it, but, um, it's, it does illustrate the point you're, you can either lift the weight or not. And, you know, in our strength training, uh,
+ study, you know, we're looking at one set and they are basically doing the equivalent of like strength and hypertrophy type work. And they're looking at like, what is, you know, what is the specific outcome that they're looking at? It's the improvement in performance of that one variable of the one type of training that they are doing. So it's, it's very, very, very, uh, narrow in terms of focus where in cycling, um, you know, kind of by the necessity of, uh,
+ the overlapping physiology we have, we have multiple foci really.
+ Yeah. We, before we started recording, we, we, I made the joke of like, what if we did two by 20 once a week and a thousand people that are two by 20 once a week and just keep doing that until, you know, I don't know, 300 interventions. Ooh, what if, um, that'd be an interesting thing. I don't think we're going to have a lot of people do that, but Hey, if there's a gym out there,
+ let me know. We can do a study. That'd be awesome. Um, anyway, you have to make, you have to buy a gym, like an old warehouse somewhere near you. You can start up your own training facility with strength training. I think it's pretty easy to make an extrapolation about the superiority of a training intervention from early growth to late growth in the curve. Um, I think if we can prove two things, one, that the two interventions are
+ affecting the physiologic variable of interest on the left side of the growth curve, kind of pre change point, and that the interventions are capable of moving the needle in the longterm post change point. So this is, this is kind of the point about thinking about FTP as a, as a training stimulus on the left side of that change point for FTP training, you are going to, sure, you're going to raise FTP on the right side of that. You know, you might hammer FTP intervals
+ for a year, twice a week, and you might see like what five, 10 Watts of improvement, maybe. I mean,
+ that's, that's a real world example I'm thinking of where, um, I consulted with somebody who said,
+ you know, I've been hammering threshold work. Uh, and this was like, this was, this was a long
+ time ago. I think our listeners are a little more, uh, you know, they're, they're pretty well
+ versed in this kind of stuff, but he was like, yeah, I've doing just threshold training,
+ trying to raise my threshold. And I, you know, I saw some pretty good improvements over the last
+ year. I got about, you know, I got about five Watts of improvement. I was like,
+ Oh, have you heard, have you met our, our, our best friend VO2 max training? Have you like,
+ when's the last time he did the five minute intervals? He was like, ah, you know,
+ FTP training raises FTP. It did early on and it's doing it now. And I was like, yeah, at,
+ at what rate? And so the, you know, because we've got various factors, we've got central
+ and peripheral factors and other things that kind of tie the two together. We've,
+ we've basically got multiple growth curves that we can think about that are, that are
+ stimulated by different types of training. I mean, this is why we can do take untrained or,
+ or moderately trained people, recreational athletes and have them do sprint interval
+ training and have them raise everything. But that also stops at a certain point. And so the way I,
+ I kind of, my, my mental heuristic here is not necessarily that, that, you know, we got to just
+ kind of go, ah, screw it all. I don't,
+ I don't care. This is all too complicated to me. It's like, we've got different ways to stimulate
+ aerobic potential, like different bottlenecks of aerobic performance. And each one kind of has its
+ own growth curve in a way, you know, central and peripheral is an easy way to think about it,
+ like cardiac and muscular factors. It'd be interesting to like, with those,
+ um, you know, you could, I would say the, the comparison there is all,
+ it's also like for people who are trying to get stronger in the gym, like you said,
+ limiter is muscle mass. That's somewhat analogous to be like, oh, the limiter here is VO two max.
+ If you're just, you know, you can hammer sets of, you know, heavy leg press sets of three to five
+ for a really, really long time. And eventually you'll reach some plateau because you just don't
+ have enough muscle mass to keep pushing more weight and likewise.
+ Yeah. And that's when just keep adding more hypertrophy sets will kind of start moving the
+ needle.
+ Again, this also comes down to like, what, what timeframe do you want your improvements in?
+ Cause if you want to put on muscle mass faster, you have to increase the volume load that you're
+ doing, uh, on the target muscles. Uh, but you know, if, you know, according to this,
+ like if you do one set of like four to six long, long eccentrics and concentrics,
+ you can move the needle over a very long time, but it's not fast enough for some people.
+ And then of course, there comes the opposite factor where if you actually do two sets of
+ too much, you try to get there too fast. Like, you know, now you're dealing with fatigue. It's,
+ you know, you can be like one of those weight class athletes. You're you, if you're kind of
+ capped at like, I don't know, what is it like 81 or 83 kilos or something like that. And your squat
+ is whatever kilos, you know, year after year, you might find like a handful of kilos here and a
+ handful of kilos there. But if you let yourself gain like five kilos of pure muscle, you're going
+ to go straight past those old PRS. And so that's the difference between like a, the muscle mass
+ and a skill in a strength sport. And I kind of think of something similar in, uh, you know,
+ in cycling, but we've kind of got different stimuli. Uh, and I, I guess we could think of
+ strength and it's, uh, you know, the skill of strength and hypertrophy is kind of being different
+ stimuli, but they're also tightly related in strength training. Sorry. Was that where you
+ were going? Yeah. Yeah. Yeah. It's like, it's, it's similar, but not the same, right? A lot of
+ you know, they're not a match, but they rhyme. So to me, I think if you really want to prove
+ that a train, especially for trained cyclists or trained athletes, if you really want to prove
+ that a training intervention meaningfully improves an aspect of fitness and trained athletes,
+ I have a couple of things that I would really want to see, and it's going to be basically
+ impossible. So we've, we've kind of got to make educated guesses here. Um, number one,
+ I would like to see a training intervention that is meaningful to fitness and trained athletes.
+ I would want to see people doing the training intervention post change point in their season
+ for whatever the variable is, whether it's like threshold or VO two max, or for looking at sprints,
+ we want to look at sprints and, you know, assuming that kind of comes up a little bit. Um, and you
+ know, like for FTP, I would want to see them basically about as fit as they had been the
+ previous year. Like in my example, my quarterly example, uh, where he kind of got back from 320
+ years to three 50. And then, you know, you do the training intervention and you're like,
+ training intervention with all relevant variables accounted for what I was doing with him. And what
+ I would do with anybody is, you know, you kind of get back to that old best, you go, okay,
+ we got to raise the VO two max. Now we do some VO two max training, and then we kind of blah,
+ blah, blah. And then, you know, I've talked about this on the podcast a lot before, so
+ you guys don't need to hear it again. Um, but this is where I think understanding the bottlenecks
+ makes a big difference. Understanding what aspect of
+ physiology is your current limiter and how much is something going to realistically be a stimulus for
+ it? Because early on FTP training is a fine stimulus for VO two max. And so was a lot of
+ other types of, of training interventions, but the absolute intensity makes a difference with
+ VO two max training. The duration makes a difference with endurance training. And so
+ when you frame it like this, um, you, in a study with trained
+ athletes, you also need to have sufficient numbers in a study to defect or sorry, to defect,
+ to detect relatively small changes. And once you do that, then I would be fully convinced
+ that a training intervention is superior to another in trained athletes for whatever variable
+ outcome that you're looking for. And oftentimes people are looking for a threshold and aerobic
+ capacity via two max and stuff like that. So until then I reserve the right to be a little skeptical
+ about that. So I think that's a good thing. And I think that's a good thing. And I think that's a good thing.
+ I think that's a good thing. I think that's a good thing. I think that's a good thing. I think that's a good thing.
+ I think that's a good thing. I think that's a good thing. I think that's a good thing. I think that's a good thing.
+ I think that's a good thing. I think that's a good thing. I think that's a good thing. I think that's a good thing.
+ I think that's a good thing. I think that's a good thing. I think that's a good thing. I think that's a good thing.
+ However, that's really hard to do, obviously, because I mean, yeah, especially once you get to pro
+ Conti level or above, you know, they're, you know, you're getting paid to ride your bike and nobody's
+ going to want you to take a couple of weeks off in April or June to go do a training study that may or
+ may not make you more fit and is definitely going to make you tired. And then you've got to get back
+ into races. Like nobody's going to say yes to that. And even, even like good amateurs oftentimes are
+ going to say no to training interventions like that. Like I've coached a couple of people who
+ have been, you know, they live near universities, they work at universities and people want them to
+ do training studies. And they asked me, Hey, should I do this study? Here's the protocol.
+ And I'm looking at it in season. I'm going, yeah, that makes sense. Do that because you know,
+ these, this data is really valuable or more oftentimes it's,
+ I don't think this training study is going to be what you need at this point in order to like,
+ I'm not sure this is going to help your fitness at all. And we're really trying to,
+ you know, get you a Conti win or something like that. Like we're trying to get you to win a 1.1
+ or whatever. And when that's, those are the stakes and you frame it like that to somebody, you go,
+ yeah, I really want to get as much quality training in as possible. And I, and you know,
+ my A race is kind of in the middle of this training intervention. This doesn't make any
+ sense to do. So that's the kind of thing that you're up against.
+ And so I, I, I wish that were not the case in the cycling world. Um, so if you are out there
+ and somebody asks you to be part of a training study and like you're an amateur, please go be
+ part of it in season, because this is really, really valuable data for researchers to have.
+ And it's really valuable for us trying to find what works best because right now it's a combination
+ of, well, at least for me, it's a combination of what's in the literature, but also what's my
+ coaching experience. And you can help advance
+ knowledge. That's actually, I think that's nice. That's a good way to spin it.
+ I like it. Yeah, that's good. Yeah. Um, and we're going to start framing things positively. So I
+ feel like I've been like low key black pilling people for the last like 30 minutes. And I don't
+ mean to be doing that deliberately. Like there's, um, I just want, I just want to raise caution.
+ That's all. Uh, and you know, and when you think about things like this, I mean, it kind of,
+ if you look at all the studies I've had on,
+ on the podcast, like, I mean, there's a lot that are probably well known that we,
+ that you would think I would discuss. And I haven't, one of the reasons is either I'm
+ planning to in the future or I, it doesn't really satisfy my personal requirements for
+ saying that this is going to work for trained athletes. Um, and that's just me being a dick
+ really. So, um, all right, let's frame these things more positively. What
+ can we really take away from all of this and apply it to our own expectations of improvement?
+ So with a training plan designed for maximal return on investment, we're going to presume
+ good recovery hygiene. We're probably going to end up seeing a couple of things. Number one,
+ we might see the people get frustrated with slow year on year improvements after seeing
+ fast gains early on. Cause we all miss those Halstein on days of new gains. Um, or we might
+ see somebody,
+ with an actual personal shape of their growth curve where they plateau somewhat quickly and
+ have a hard time getting beyond that. And it's pretty slow and it's different for everybody.
+ Uh, and there's also off bike stuff that matters to like stimulus and recovery and things like
+ that. So we'll get into that in a sec. Some well-trained people may actually have a slow
+ overall growth curve than others. And they, and you know, you might take one to two years to see
+ 10 Watts of improvement and someone else may need only six to 12 months to see 10 Watts of improvement.
+ of improvement. It really depends on the person and kind of how much is 10 watts in terms of a
+ percentage improvement over where you're at now. That also makes a big difference because if you
+ are a very small person with 180 watt FTP, seeing an 18 watt improvement is 10%. That's big. But if
+ you are a person who's at 400 watt FTP, 18% improvement is like half that. So it's not as
+ big an ask, especially kind of depending on where you are on your personal growth curve.
+ If you started at 380 watts, I've got a couple of clients who did that. And believe me,
+ the numbers they can get to are wild. If you started at 380 watts and your next season,
+ you're at 400 and you say, I want to get my FTP to 420.
+ Next season, I'm like, okay, that's reasonable. If you're at 220 watts, like one of the development
+ people I'm working with, we started at like 210, 220. And for this year, the goal was 240 to 50
+ watts FTP. And we got there, which is great. Doesn't always happen, but she's early enough
+ in her training where I knew that that would be a reasonable goal. In a couple of years,
+ seeing that same improvement, not like...
+ I'm going to be like, we're going to be happy to see five or 10, right? So having reasonable
+ expectations, kind of plotting out your improvements year after year can give you
+ pretty good expectations for if everything falls into place really well, what might you expect?
+ And I think in some ways, some people might find this discouraging. I honestly find it freeing
+ because if you see the 10 watts that you are,
+ kind of expecting if everything goes well, top marks, like no notes,
+ cash your chips and get out. You did it. Good job.
+ Yeah, yeah. No, and that's a good point too, just generally like, what is it? Like comparison is a
+ thief of joy. If you think you're expecting that you're going to get a 70 watt improvement and you
+ only get 10, you're going to be pissed. But if 10 is the goal and you know that's achievable and you
+ do it, you're like, sweet. I get to like...
+ Check that box off. Like I did it.
+ Yeah. And one of the other things, like I think I mentioned earlier,
+ when I looked at the individual data from the steel paper, the actual data was messy
+ and it looks a lot like cycling data in that respect. And especially if you smooth out the
+ long-term cycling data a little bit, very, very, very, very similar. And so I think
+ knowing and understanding that things are messy and sometimes you're going to have great years
+ and sometimes you might not have great years doesn't mean you've got to hang up your wheels.
+ It just means that, especially if you've got like an off-bike limitation, that might be a factor.
+ But also you might actually be at your genetic limit, but I'd say for most amateurs it's unlikely,
+ right? Because... Okay, so let's think about diagnosing. Like,
+ what is my limitation on my personal improvement? What's my limitation on the rate of my growth curve?
+ Number one, we've obviously got genetics, your ultimate potential, the top of the heap,
+ your apex of your performance. In the very, very, very long-term, we are up against the limits of
+ human physiology, your human physiology, whatever that might be for your VO2 max,
+ for your muscular endurance, and everything else. So I think that's a really good question. And I think
+ that's a really good question. And I think that's a really good question. And I think that's a really good question.
+ that might cause a bottleneck in your performance. And that's presuming you can provide maximum
+ quality stimulus and recover from it for years. And I think the reality is that there's a lot of
+ reasons that someone's improvements don't follow an expected pattern of growth over months or years
+ as smoothly as you would expect. And I think most amateurs who are listening to this will go,
+ yeah, believe me, I know. And so,
+ I think most amateurs are up against both sides of the stimulus and the recovery limitations rather
+ than their true genetic potential. You might need more stimulus, but you also need more recovery
+ on the other side of that because training harder digs the hole deeper. And then you've got to be in
+ a permissive environment with your recovery. And also, if you are recovering perfectly
+ and you try to increase the stimulus even more, that might be a little more than you can actually
+ just recover from it, period. And so, okay, that's not the right choice for you. I mean, it's a dynamic
+ equilibrium between stimulus and recovery. So, really, diagnosing your true genetic plateau
+ is more a diagnosis of exclusion of other factors. You cross everything out that might be limiting
+ your stimulus and recovery. You train for five or 10 years. Okay, now we might say you're genetically
+ limited. But even when you're in a situation where you're not, you're not going to be able to do that.
+ When people come to me who think that they are at this point, I'm crass enough to try a couple
+ things. Hey, let's try something else. Let's see if we can move the needle anyway.
+ I think, too, we've talked about that a lot. But yeah, if you were to construct the perfect study,
+ you'd be able to sequester these people away and fully control all these other variables
+ that you just can't when you're a real person with a real life and job and responsibility.
+ All you do is make a Sparta of cycling. Okay. You become independently wealthy so you can
+ support these people for as long, you know, so they don't have anything else to worry about
+ during these interventions. No, I'm good. I like what I'm doing.
+ All right. So, I think understanding where you are on your growth curve can also help you plan
+ a season. Like I said earlier, like this can be freeing because if you get a big FTP boost,
+ after a few months, like let's say you gained 30 watts of FTP last year and you gained 30
+ watts of FTP this year. Oh my God. Like this. Holy smokes. Yeah. Yeah. What more could you ask for?
+ Well, number one, you can expect that you're probably not going to get the same thing again
+ next year. And it also means that if you try to keep pushing for more aerobic fitness,
+ based on your rate of improvements, like year on year, that may be more than enough. And if
+ you try to keep pushing, you may not find much, or you may find that you are kind of going off the
+ deep end of overtraining. And in which case, when you get those aerobic improvements, cool. Now it's
+ time to get ready to race. You've got a lot of other stuff that you can work on. There's a lot
+ of other stuff that can be worked on. Not every, I mean, most people have like more than just one
+ weakness, right? So, go start working on those other things and maintain that level of fitness.
+ And that can be a huge relief for somebody's season. Like if I've, like when I'm working with
+ people and they're like, oh, I'm going to do this. I'm going to do this. I'm going to do this. I'm
+ going to do this. And I see, you know, and I'm kind of doing the math in my head of, okay, last
+ season, we got this many watts. Previous season, we got this many watts. All right. This season,
+ we got 15 watts. Okay. That's, that's awesome. If we might see another five watts over the next
+ couple of weeks with, you know, continued recovery from the aerobic work, but like,
+ that's probably going to be it. And, you know, when I tell somebody, hey, I think, I think we're
+ good. This is what we got. Time to get ready to race and look at the timing. It's time to get
+ ready to race. You know, I, there's, there's no better feeling than that than tell somebody goal
+ in a time to move on. And so I think the other thing is with unintended or intended and extended
+ time off, like let's say you get sick for two weeks, you've got a two week vacation. So you
+ basically have a, a mid season off season break. Now here is where most of our studies in the
+ people, uh, you know, coming back in the early part of that growth curve,
+ people who are on that early part of the growth curve, just in their careers, they're like,
+ you know, moderately trained or they're recreational. Um, which one of these led
+ to the fastest performance improvements? I need them right now. I gotta, I gotta race
+ in a month and a half and I want to, I'm just going to know, Hey, I mean, if you've got energy
+ and you're, you're actually recovered from whatever it was keeping you off the bike.
+ I mean, what's stopping you? I mean, at the worst you go, okay, this is, I'm overdoing it a little
+ bit. I'm going to rest a little bit and pull back. And like, you're still going to get some fitness
+ on the other side of that. I'm not saying to like, get off the couch and like smash yourself
+ silly five days a week. But if you were like, I want to do some, you know, high intensity training,
+ I want to do some sprint interval training. Um, I want to do some kind of intermittent efforts,
+ like, you know, to work on a little bit of aerobic capacity and some more anaerobic capacity. I got
+ races coming up. Hey, yeah.
+ Yeah.
+ How many studies have we seen kind of show those types of improvements a ton. So I think that
+ understanding that you will also kind of basically meet your old long-term growth curve is a good
+ understanding to have. Um, and Hey, maybe even you take that time off and you rest up a little
+ bit and you see some improvements based on where you were previously. That is a good way to
+ diagnose that you were probably over
+ doing it or under recovering a little bit previously before your time off. So all these things can be part of your situation. And there's really no amazing way I can diagnose somebody from here, but I hope I've given folks enough tools where they can start to diagnose things themselves and set up good expectations. Cause understanding all this stuff means that, you know, you take two weeks off the bike. It's definitely not the end of the world. You're going to catch back up. Don't worry about it.
+ Sorry to the folks who are looking for a super actionable takeaway from this aside from that breaks are good and not the end of the world. And that also, you know, your lived experience of like, Hey, this, this feels like I'm not getting, uh, getting back, you know, getting the same out of these workouts that I keep doing and keep hammering into the ground. Like what's wrong with me? Like, it's not, it's not, it's nothing wrong with you.
+ Yeah. And I think that's, that's one of the things that I really wanted to do with this episode is help people frame their expectations. Um, and also understand that if you are not making improvements that you feel like you should, you know, have an honest assessment about your recovery environment or maybe even your stimulus more often than recovery and, um, everything should fall into place or if not, well, here's where I plug it. You can always reach out for a consult empiricalcyclingatgmail.com.
+ Reach out for coaching. Uh, you guys all know how to support the pod. I don't have to tell you about that again. Uh, go follow me on Instagram for some Q and A's, uh, empirical cycling and, uh, thanks. We'll see you next time.
+ Yeah. See ya.

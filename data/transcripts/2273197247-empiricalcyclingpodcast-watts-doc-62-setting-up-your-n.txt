@@ -1,0 +1,1411 @@
+ Welcome to the Empirical Cycling Podcast.
+ I'm your host, Kolie Moore.
+ Today, we're once again joined by Kyle Helsin.
+ I want to thank everybody for listening.
+ If you're new here, please consider subscribing to the podcast
+ so you can hear new episodes as they come out.
+ And if you are a returning listener, thank you so much for coming back.
+ If you are interested in any of our services,
+ that's a good way to support the podcast.
+ Reaching out for coaching at empiricalcycling.gmail.com.
+ We only do one-on-one.
+ It's a great way to invest in your own future,
+ but also if you want to support the podcast,
+ again, that's another good way to do that.
+ We also do consultations where you can keep coaching yourself
+ and you'll talk to me or one of our other good coaches
+ and we will give you the tools to plan and adjust your own training.
+ And for all of that, we have negotiable rates for students and neopros.
+ And also for consultations,
+ since this question gets asked a couple of times,
+ yes, they are completely anonymous,
+ especially if you ask me to kind of keep it on the download.
+ We can definitely do that.
+ So if you are not looking for any of that kind of stuff,
+ the show will always remain ad-free.
+ And if you want to support it any other way,
+ word of mouth, sharing the podcast always goes a long way.
+ Thank you so much for all of that.
+ And if you want to go give me a follow on Instagram,
+ weekend Q&A about training up in the Instagram stories
+ and another question submission form up on the podcast website up at the top.
+ So today, let's talk about N equals one training
+ because we've said this for years,
+ but we've never really dug into the,
+ I guess the scientific philosophy behind this kind of thing.
+ Like what is the experimental setup look like, right?
+ Because if you didn't experiment with one data point,
+ I think in a recent episode,
+ we called this the myth busters level of data
+ where we run something once and you go, okay, cool.
+ And, you know, sometimes the myth busters,
+ they would run it a couple of times to get a small distribution,
+ but, you know, it's very, very different
+ than the experimental setup we see with multiple trials
+ in the scientific literature.
+ When we're always talking about, oh, we got N equals one,
+ we got a case study.
+ Okay, well, it's not really great, it's an anecdote.
+ It's not evidence, right?
+ And so let's start with you, Kyle, on this.
+ What's your experience being an N equals one experiment
+ with training and how does that differ from setups
+ of experiments that you do when your actual job
+ is an actual scientist?
+ - Oh, yeah, I would say, first off,
+ you know, I think anyone who's ever tried to train themselves
+ or been like, you know, I remember when I started cycling,
+ you're like, oh, I have done other sports before.
+ I know a little bit about this whole training thing.
+ Let me just try to cobble something together
+ between things that you read online or books
+ or other resources, friends, anecdotes, what have you, right?
+ And even if you wanna be scientific about it, you know,
+ like keep a training log, which is, you know, famously,
+ I think people,
+ have probably had a lab class or two in their lifetime
+ where you had to keep a lab notebook and take good notes
+ and remember these things because, you know,
+ and it may not necessarily be pen and paper notebooks,
+ totally understand it's 2026.
+ Oh God, it's 2026.
+ - Yeah, I think a lot more iPads in the lab these days.
+ - Or like OneNote or something like that,
+ where it's then shareable and searchable,
+ or maybe you do more on the, so this is random tangent,
+ maybe you do more software aside and you use like Notion
+ or Monday or whatever.
+ They're one of these things, anyway, regardless,
+ you wanna keep, you know, decent notes.
+ And, you know, people had training notebooks
+ and things like that for a long, long time
+ all across many different sports.
+ And especially for cycling,
+ it can be really easy to quantify these things
+ because you have a power meter and you have a head unit
+ and you can download software
+ that will help you do all these things.
+ But even still, like if you're gonna run an experiment
+ with real, you know, for, I almost said real science,
+ which sounds a little insulting,
+ but you're typically gonna have a lot more control
+ and a lot more thought and preparation will go into something
+ than deciding that this training block, you know,
+ I'm gonna try to do high volume.
+ So I'm going to pull out all the stops, telework,
+ and try to get in 26 hours a week on the train.
+ - Take all my PTO this week, yeah.
+ - Exactly, exactly.
+ And, you know, see where I look in three weeks.
+ And while I'm not saying that there's anything wrong
+ with that, lots of people I'm sure have tried this.
+ Embarking on an endeavor like that is somewhat different
+ than embarking on like, you know,
+ a multimillion dollar science experiment
+ where you would have well-defined control groups
+ or well-defined, you know, different tests
+ that you're going to run, the analysis,
+ and, you know, I guess quantification,
+ quantization of results and the metrics
+ that you're looking for would be pretty well defined
+ beforehand, you know, famously, you know,
+ for a lot of particle physics experiments, for example,
+ they will run data analysis on simulated data
+ and develop all of their analysis pipelines
+ on simulated data first before they ever run it on real data
+ so that they don't bias the development
+ of their data analysis techniques by when they're looking,
+ using real data and trick themselves into like, you know,
+ confirming or denying something based on the real data, right?
+ - I didn't know they did that, that's awesome.
+ - Yeah, or they'll, you know,
+ they'll run all of these things blind
+ and then they'll unblind it and crank the real data through.
+ So stuff like that, where, you know,
+ you have a lot more considerations for what,
+ what systematic effects are there going to be?
+ Like if you decide to do this brand new training block
+ around Thanksgiving and Christmas, like you're going to have
+ to, you should probably consider that
+ as like a big systematic effect where if you run it in,
+ like May or something like that,
+ when you're not going to be traveling
+ and you're not going to be losing all these,
+ this time to, you know, flights across the country
+ to visit your relatives for Thanksgiving and Christmas
+ and New Year's and what have you, right?
+ Like that's very different.
+ Like, or think about it when they, you know,
+ you hear about experiments on live animals, right?
+ Like all the, all of the data,
+ the days and weeks after the time change
+ and the fall and the spring, they have to throw out, right?
+ Because animals can't be a fucking clock.
+ Like all of a sudden an hour has shifted
+ and now you're feeding them and seeing them
+ and interacting with them on a completely different time,
+ timeline, not completely different,
+ but a different timeline than they've been used to
+ for the last six months.
+ And so now you have to throw all that data away, right?
+ Yeah.
+ So all of these things were like, you know,
+ if you miss an hour of sleep here and there,
+ and because your, your, your life gets busy and,
+ and you know, you have to work late or something like that,
+ or you got to pick the kids up
+ or they had a recital this week or whatever,
+ are you going to throw out that data from your training?
+ Like, oh, I can't consider this week
+ because we had extra stuff.
+ And whether I'm evaluating whether this,
+ this training works for me or not, you know,
+ this is a really busy week.
+ Just ignore it, you know?
+ Yeah, yeah, right.
+ And I think that that's one of the,
+ the environmental factors,
+ the off-bike factors are definitely a big part
+ of contextualizing training.
+ And so, so that's kind of what this podcast
+ is going to get at.
+ How do you factor in all of these things
+ and more into making your N equals one experiment,
+ a true, as true of a truly scientific experiment
+ as you could possibly make it.
+ And it's, it's simultaneously,
+ I think a little more complicated than you might expect,
+ but also a lot simpler than you might expect too.
+ So at the core of it, it is really simple.
+ And if you've been listening to the podcast for a while,
+ you know that we're probably going to boil it down
+ to a couple of the basic training principles that you've,
+ that we've probably been talking about for either months
+ or years at this point.
+ But I think that contextualizing them in a different manner,
+ this is going to hopefully help everybody figure out
+ why you're doing this and how that this will better inform
+ your data to allow you to make better training decisions
+ when you are analyzing what kind of training
+ you're responding to.
+ And, and a lot of this stuff historically comes
+ from some ideas that people respond differently
+ to the same types of training.
+ And there's a bunch of papers in the scientific literature
+ about this, but also it's,
+ it was prevalent in the, in the training, I don't know,
+ zeitgeist from like 10, 15 years ago that I remember.
+ And so a new paper from the strength training world came out
+ and, you know, kind of like our diminishing returns data,
+ a podcast a couple of weeks ago,
+ this is going to be somewhat similar in that we're going to
+ do a parallel strength training to cycling,
+ but in, not in terms of the data analytics
+ or anything like that,
+ but this is going to be in terms of the experimental setup.
+ And so, and so this is going to help us determine
+ inter-individual response, right?
+ So what is inter-individual response?
+ It means people having different responses
+ to the same training.
+ And said differently, the idea is about people needing
+ fundamentally different training to achieve the same,
+ training response and it's cycling.
+ The dichotomy here is usually volume versus intensity.
+ And so we might see this, you know,
+ individual response data in a study or something like that.
+ Like, let's say we are looking at individual response data
+ in an intervention group.
+ Eight out of 10 people go up a little,
+ one goes way up and one person goes way down.
+ It's tempting to say that the one person who went way down is a
+ non-responder or in fact got worse.
+ Non-responder we would think might kind of go across, right?
+ Okay, it didn't get better, it didn't get worse, but okay.
+ This person doing this training is going to make them worse
+ is what we might be tempted to, I know if that's you,
+ if you've ever been part of a training study
+ and you are the person that got worse, you're like, oh shit.
+ I'm never going to do that training protocol again, but.
+ That's when they give you a really big gift card
+ for compensation, like, ooh, we're really sorry.
+ $30 to Amazon, ooh, thank you.
+ Yeah.
+ It's also tempting to say that the person who went way up
+ was a super responder to that type of training
+ and that both of these people should stick
+ to what the study says they're best at,
+ especially if it's a crossover
+ and we see them doing two different types of trials.
+ And we're actually about to look at a paper
+ like that right away.
+ So, but we're going to look at this paper,
+ but I want you to keep in mind that,
+ that as we go through this paper and after we get out,
+ out of talking about this paper,
+ keep in mind that the experimental setup here
+ is just our jumping off point.
+ And it's a little more complicated than you might think.
+ And we're going to talk about why.
+ So our first paper is called inter-individual variability
+ and the adaptive responses to endurance
+ and sprint interval training, a randomized crossover study.
+ So this is from a Bonafiglia and colleagues.
+ I'm, I trust I'm mispronouncing that correctly.
+ There will be a lot of that in this episode.
+ So they took 21 recreationally active adults
+ and they defined it as less
+ than three hours of activity a week.
+ They had 12 women and nine men.
+ They trained four times a week for three weeks
+ with a three month washout between interventions
+ where they returned to their habitual activity,
+ which is to say not much.
+ And they're true.
+ They did two training interventions.
+ They were randomized to one.
+ Then they did the other as they went through the other way,
+ three months later, they,
+ either did 30 minutes of endurance at 65% VO2 peak,
+ or they did eight by 20 seconds sprints at 170% VO2 peak
+ with 10 minutes or sorry, not 10 minutes, 10 second rests.
+ So it's a pretty high intensity training protocol.
+ So they got randomized to one group or the other.
+ They did one intervention after the three months,
+ wash up, blah, blah, blah.
+ Sorry, I just said that.
+ They measured VO2 peak and quote unquote lactate threshold.
+ So power at four millimole,
+ which is frequently seen in the literature.
+ I think everybody knows it's not my favorite measure
+ of threshold, but it is a measure of threshold.
+ And it's going to be good enough for our purposes here.
+ But one of the things I like about this paper
+ that sets us up for our subsequent discussion is that
+ in a bonus experiment,
+ they looked at what they call typical error for VO2 peak,
+ where they took eight people, separate people,
+ not involved in the training study. They took eight people,
+ eight other people, and they brought them into the lab
+ twice a week to repeat their VO2 peak lactate threshold
+ and sub-max heart rate tests.
+ And their sub-max heart rate test that they did in this paper
+ was they just took what is your heart rate
+ at the third stage of the RAMP test,
+ which is for these folks is about 156 Watts they report.
+ And what they're trying to do is they're trying to,
+ you know, get a sense of day-to-day variation
+ with two samples for each metric.
+ And so by doing this, they conclude, and I would, you know,
+ I generally agree that any change outside of the range of
+ variation here that they see is going to be a true
+ physiologic response rather than a measurement error or any
+ kind of day-to-day variability. Does, does that make sense,
+ Kyle? Did I set that up right?
+ - I think so. Yeah. I mean, it, it, it, what they're trying to
+ measure is kind of, it's both a little abstract,
+ but also like requires a little bit, it's, it's more than just
+ like, Oh, is this training good or not? Right.
+ Like I feel like a lot of the studies we normally read are
+ like, Oh, did this, was this training comparable or better
+ than either some traditional thing? Like they, you know,
+ they just continued to bang out zone two and never go any
+ harder. Or is this better than like what, you know,
+ what they're normally doing, which is nothing.
+ - Right. Yeah. And so that's one of the reasons that,
+ that we have control groups is because if the control group,
+ you know, kind of goes up or down based on the, you know,
+ this kind of average amount and the experimental group also
+ does then, okay, well, you know, we can compare them,
+ but really there's a bunch of noise here that we're not
+ accounting for. And that's what they're trying to do here is,
+ is figure out how much noise do we have in these metrics of
+ the VO2 peak, the lactate threshold,
+ and the sub max heart rate.
+ And I will dig way, way,
+ way more into all this stuff in a little bit,
+ but basically what they did at the end with this information
+ was they, once they had the,
+ the Delta of pre to post for each individual for,
+ for VO2 peak and lactate threshold between their sprint and
+ endurance interval training, they were able to, with this,
+ this additional parallel experiment,
+ get a sense of how much error do we probably have between
+ measurement error and day-to-day variability where outside of
+ this range, we can say that this is a true response.
+ And inside of this range, probably no response.
+ This is just measurement or day-to-day variability or
+ measurement error. And so if you look in the paper,
+ we're looking at one of their figures,
+ I forgot to include the number of the figure I oh,
+ it's three. Yeah, sorry. Three, a and B figure three.
+ What we're looking at is on the X axis,
+ we have the change in VO2 peak or the change in lactate threshold.
+ Oh, sorry. And on the Y axis, they have it, they have it both.
+ So change the VO2 peak for the endurance training versus changing VO2 peak for
+ the sprint training. And they have the same thing for lactate.
+ Threshold for, for three B it's a change in lactate threshold,
+ the Delta in Watts for the folks who did endurance training versus the change in
+ lactate threshold for the sprint training individuals.
+ And they don't have the individuals kind of like parallel between
+ the two.
+ So you can't see who's VO2 max and who's like the threshold
+ changed concurrently. Like they don't have it like labeled individual A, B,
+ C, D, or anything like that. But it's just a bunch of,
+ of, of circles. And so like, for instance I'm,
+ if I look at any one of these things, I I'll just pick a random person.
+ And this person they're changing VO2 peak and milliliters per minute
+ went up by about, I don't know, what's that up?
+ Like 125, maybe, maybe 200 milliliters per minute,
+ but they got maybe
+ a hundred change VO2 peak from the endurance training.
+ And the gray squares Kyle,
+ why don't you try to describe this? I'm not sure I'm doing a good job.
+ Yeah. So I guess there's, they've highlighted,
+ they've shaded regions on the plots of
+ areas basically where either it looks like where people either
+ stayed basically the same to within measurement error or got worse. Oh God.
+ Where there's, there's a couple of folks who right on the edge of of getting
+ worse.
+ So they kind of guide the eye of like, you know,
+ you, you, okay, so plot a, I'll, I'll do this one at a time.
+ Plot a is the, the VO2 peak. And so that has,
+ why don't you pick an outlier either the person that is the super far upper left
+ or this, or the,
+ the far right. Yeah. So the far upper left person,
+ um, the change that in the VO2 peak at the end,
+ unfortunately is, um, minus two 50,
+ but they started because, because they're in the upper far left, that means they,
+ they started, uh,
+ at the zero. This is a relative change. Yeah. Yeah. So they started in,
+ you know, some,
+ I know we don't, we don't know what the absolute number is.
+ We just have the change. Yeah. Yeah. From, from their baseline. Um,
+ but they, they lost 250 milliliters per minute, basically,
+ um, on the, um, on the endurance training.
+ Yeah. And they gained 200, uh, sorry,
+ 600, 25. Yeah. On the sprint interval training,
+ which is, which is impressive. Um,
+ and so you might imagine mo mo more people are clustered around the middle,
+ either of like similar gains sort of from both or, you know,
+ slightly worse gains from one or slightly worse than the other, but,
+ but still generally positive.
+ There's a lot of folks who had generally positive gains for either. Um,
+ and then there's another outlier who barely gained any, like within,
+ it looks like with basically within what they,
+ the study authors,
+ the authors would call no change on the sprint training,
+ but then gained a thousand,
+ basically a full liter per minute of VO two peak from the endurance training.
+ Yeah.
+ Yeah. And, and our gross metrics for this, by the way,
+ our general correlation, our value is 0.14.
+ So it's pretty much like no correlation anywhere.
+ Yeah. It's right. And they, they threw up a, uh, like, uh,
+ a line in the middle too, where you're like that, that line is random.
+ That is not a trend line at all.
+ Right. And so, um, and so like, that's,
+ that's the kind of data that a lot of, uh,
+ folks have thought kind of shows individual variability in response to
+ training.
+ Like this one person should stick to just doing endurance training to
+ improve their VO two max. Uh,
+ and this other person should stick to doing sprint training and narrow the
+ twain shall meet. Like you stay away from sprint training.
+ It's so bad for you. You stay away from endurance training.
+ It's so bad for you.
+ Um, and it's funny.
+ He's calling any training bad, like it's bad for you.
+ Like, is it like force feeding you bacon cheeseburgers bad feeling?
+ Like, you know, anyway, sorry.
+ Not at the moment.
+ If you're a bacon cheeseburger kind of person like me, it's true.
+ Um, yeah, uh, well, my, my cholesterol levels say I should avoid those kinds
+ of things. So I do these days, but, um,
+ right. So this, this sprint training is you sprinting to a Wendy's to eat.
+ Yeah. Just like in college. All right. Um, yeah. So I think that, um,
+ that because this is all over the map and, and by the way,
+ I'm going to include this in the show notes. Uh, and I will,
+ I may also make this the cover art. So if you are looking at, uh,
+ the cover art, like in your car or whatever, um, or anywhere like this is,
+ I think that might be, don't look at it while you're driving. Yeah.
+ Don't look at it while you're driving. But like in my car, like, you know,
+ the, the infotainment screen, it'll show the cover art looking at if I'm
+ listening to a podcast. So if you can see that out of the corner of your eye,
+ don't stare at it, please, unless you're parked, that's fine. Um, so yeah.
+ So like what the figure's trying to get at here is that some people respond
+ pretty well to both, some people not very well to either,
+ and some dramatically better to one and not the other. And, um,
+ let's, because this is a Wattstock and, um,
+ I am, I am nothing if not a skeptic,
+ let's start to dig into some of this data and let's start to see if this can
+ really hold up for concluding that some of these people respond
+ uniquely to one of these things or the other. Uh,
+ so to quote the paper quote RPE reported immediately
+ following each sprint interval training session was significantly related with
+ the magnitude of change in VO two peak induced by sprint interval training.
+ Uh, they have our value of 0.5 and P value of less than 0.05. Uh,
+ so unquote, by the way. So let's remember that they're training protocol,
+ eight by 20 seconds at 170% VO two peak with 10 second rests.
+ Now, if you've got somebody like you or me, Kyle,
+ we've got good peak power and we've got good anaerobic capacity,
+ like off the couch, we just have these things. Um,
+ and that training protocol,
+ Paul is probably not going to be that tough for folks like you and me.
+ Yeah. Yeah. You, yeah. You could imagine if you,
+ uh, what's a one 70 trying to ballpark this. Yeah. Like that's,
+ you know, it's above maybe what you would do for VO two max in intervals,
+ baby, but it's not,
+ it's not by a lot and it's not even as hard as like that Tabata,
+ like original Tabata prescribed, uh, protocol.
+ Yeah. So, um,
+ and I think that what this is really demonstrating is that some variables and
+ this is, this is not to, to, um, you know,
+ like call foul on the authors or anything like that.
+ This is a pretty standard training setup,
+ but I think that for our purposes, when applying this into the real world,
+ some variables need to be better controlled for in some studies or when you're
+ trying to apply it from a study,
+ to regular people or when you're trying to make this work in the real world,
+ like I want to use this protocol based on this result,
+ but how do I actually individualize it for somebody?
+ Because individualizing these things takes a lot more time,
+ takes a lot more money and it takes a lot more, uh, analytic power.
+ And it's just something that a lot of studies are not equipped to do.
+ And so we actually have to piece together a bunch of studies if we're going to
+ make any, um, any real,
+ real world conclusions that that will really stand up to scrutiny.
+ And so I think that one of the things that we can definitely say when we're
+ trying to interpret this study in terms of individual variability,
+ that we can say that based on the,
+ this information about the RPE and the change in VO two peak and, uh,
+ what we know about anaerobic capacity and all that stuff,
+ we can say that there's variability in individuals in response to this
+ protocol,
+ this time through for this cohort of people.
+ And I think that that's really the best way to conclude from this paper and
+ trying to extrapolate beyond that. I think, uh,
+ I think we'd be getting a little bit beyond what the data is really telling us
+ in terms of truly individualizing or determining if there is really individual
+ response, uh, as we'll see in a little bit, because from a coaching perspective,
+ I think that you would be daft to anchor things to VO two peak or VO two max,
+ the same way that you would be daft to anchor everything to, to FTP.
+ Yeah. Yeah. And I think, you know, we've talked about this before too.
+ Like there are so many different ways, you know,
+ protocols or whatever that you can come up with and, and these,
+ these things being so, you know, like we said, like it,
+ you pick numbers like 170, maybe for 66.6,
+ 6% of the population,
+ 170% of VO two peak would put them into this desired sort of sprint interval
+ range. But that means for another 34% of people,
+ which is not a small fraction, um,
+ it's just not actually providing the intensity that they would need to actually
+ call it sprint interval training, right. Or whatever, like, um, and so
+ if they had adjusted that slightly, then maybe you could, to be a number that,
+ that changed instead of being 100%, 170% of VO two peak for everyone. It was,
+ it was adjusted slightly so that maybe the RPE was the same or whatever,
+ that you might be able to do more extrapolation about sprint interval training
+ generally.
+ Yeah. Cause like, cause imagine you and me doing this protocol way back in the
+ day. Like, um, I, like when we were in shape, you know, for both of us,
+ this would probably look like doing 22nd efforts somewhere around like 700
+ something Watts.
+ Um, right. And you know, when we wouldn't, when you and I sat down and did like
+ 30 thirties, like five minutes, full gas, like that first effort, you know,
+ like that's eight, 900 Watts for 30 seconds. And that's like a nine out of 10
+ effort. And then, you know, I'll go down from there, but you know, this, you know,
+ for this, this protocol, it would get tough for us, but it would probably not be as
+ tough as it would be for other folks. Um, and so it's something that we really
+ need to individualize because understanding how the dose is standardized makes a big
+ difference in the long run. Um, and similarly for the endurance training, 30 minutes at 65%
+ VO two peak. I mean, for some folks, you know, uh, they may need to be higher or longer to
+ standardize a dose because of a couple of factors like what's your FTP relative to your VO two
+ peak or how much non-daily exercise activities you get, because if you have a lot of steps, but
+ that doesn't count quite for, uh, you know, exercise activity, but if your step count is
+ pretty high, you get a decent amount of activity and that can also influence the, um, you know,
+ your, your factor or how you respond to this type of, uh, exercise program.
+ Yeah. Yeah. I think for some, for some folks who are naturally much more endurance gifted than I
+ am like 30 minutes, that could basically be warmup pace, you know, not, not, not like zone zero,
+ like recovery.
+ But like, that is something that you could do if you're for 30 minutes and then going to go into
+ really hard intervals. Like this is something that would be like, uh, not something you would
+ be super worried about being a high number, you know, high amount of TSS or stress or whatever,
+ however you want to quantify it. Right. Like, yeah. Yeah. And so one of the things that we
+ really need to think about here is like, how do we standardize the dose? Um, and that matters a lot.
+ Individuals respond because if we, and it's also like, it's difficult to like really standardize a
+ unit dose. Um, so like with, uh, you know, with, with protocols like this, this is one of the
+ things that, that the scientific literature in, in exercise training has shifted on more recently
+ is like individualizing thresholds a little better instead of randomly picking a, whatever
+ percentage of VO two max or VO two peak. Um, and so things aren't getting better, but you know,
+ things like anaerobic capacity are still not really being standardized for, uh, because it's,
+ it's easier and faster. And on average, on average, I think that that's where experiments
+ like this are fine. Like on average, do people respond better to this or that? Well, what's the
+ dose? Like how, what's our minimum exercise recommendations going to be for the general
+ public? Uh, this is where individualizing it for an endurance athlete, somebody who's really
+ competitive. This is where those kinds of things, you know, need to be, uh, take a lot of other
+ factors in. Uh, and so one of the things that we can say with all of this stuff is that there are
+ additional factors that, uh, confound the results. Um, which means like a confounder is, um, I don't
+ know if we've ever really dug into this in the podcast before, but in causal inference,
+ confounders are things that are like, yeah, but what if in a parallel world, what if this
+ other thing happened? Or, uh, this, uh, it's, it's that what if thing where you can raise very
+ reasonable doubts about some protocol. And at some point in the future, you've got to control for
+ that and figure out this really did have a, an influence or this did not have an influence.
+ And so controlling for confounders is difficult, especially when we're doing N equals one training
+ interventions, because we cannot run experiments in the same person in parallel worlds at the same
+ time. Cause you know, like you were saying before, if you're running, uh, if you're trying
+ to this new training protocol over the holidays, when you're training adherence is low and your
+ sleep is kind of mid and you know, you got sick from travel or whatever, like that kind of stuff
+ are, it'll confound how you interpret your results. Oh, I ran this other protocol in the spring when
+ everything was smooth and I got a great response from that. So I'm a responder to this, but not
+ this. We can't really say that for sure.
+ And so, um, so anyway, so want to, yeah, sorry, go ahead. Oh, I just think that, um, it's also,
+ it's also very, you can imagine it's pretty, uh, risky or like it's, um, making you, you're making
+ a lot of assumptions. If you're going to say this one sprint interval protocol, or this one endurance
+ protocol didn't work for me, therefore all of them don't work. Um, you know, you can, you know,
+ an analogy would be like, Oh, like I, you know, you did squats, right. And they didn't, they didn't
+ drive up your, your, your P max. So then all sorts of quad exercises must never help your P max or
+ something, you know, something like that, which is like silly, right? Like, um, you know, you may,
+ you may not get along with squats because you have weird hip anatomy or femur to,
+ to torso length ratios are all weird. So you're, I, yeah, I've recently found out I have long femurs
+ and that's why squats are harder for me than they are for you. Um, right. Exactly. It's also much
+ more of a glute exercise for me. Like I've got to put my heels up on some serious, uh, things in
+ order to get enough knee flexion in a squat pattern. Yeah. So, but that doesn't mean that
+ like no knee flexion exercises are going to be good for you, right. Your sprint power, right?
+ Like surely some, one of them, one of the many ways, like just like,
+ one of the many ways you can do endurance training, right. You know, like if, yeah,
+ maybe, maybe this one protocol, which is just 30 minutes a day, didn't yield great results,
+ but maybe you actually need 60 minutes a day at 65% of VO two peak before you get, you know,
+ that minimum effective dose for you. And then this, this study won't tell you if, if, if 30
+ minutes is not enough, but maybe 40 is right. Yeah. And papers have done that too, by the way.
+ They've taken a pretty standardized dose and if people didn't respond, they would just have them
+ do more. And at some point they, they, yeah, they started seeing responses from everybody and it's,
+ and you know, we can't say exactly why, but, um, you know, we can, we could speculate forever
+ about this, but I think that one of the, um, cause we, we gotta keep this rolling. Uh, otherwise we
+ could dig into these details forever. Um, one of the things that we could probably say from all of
+ this is that it's, it's, it would be difficult to say that somebody is always going to respond
+ to the same way that they saw in this paper. Like if we ran this experiment again with these same
+ people, either at the same time in a parallel universe or like the next year, how would their
+ responses have changed? And that's a, what if that we cannot really answer? Uh, and let's dig into
+ on why it's, why we can't really use individual participant data. We kind of already got a little
+ bit into these reasons, but let's put some formal terms on that because we have another great paper
+ here from, Oh boy. Scherzanowski Smith. Oh boy. I'm so sorry. If you're, if ever you listen to
+ this podcast, tell me how do I pronounce your name? Um, all of our, our Polish,
+ our friends need to tell us how to pronounce this name. Yeah. My, my, my Polish uncle would
+ be very upset at me right now. Actually, he would probably enjoy this. He'd probably laugh and tell
+ me how to do it right. Um, this paper is called variability and exercise physiology can capturing
+ intra individual variation help better understand true inter individual responses. And so they're
+ here in this paper walking through what we're up against and how future studies can implement
+ approaches to capture
+ true individual training responses to different training programs, uh, without benignly
+ misinterpreting, uh, what they call gross variability as true individual response.
+ Uh, and so the paper is conceptual. There's no experiments tied to anything here, but
+ walking through it, I think is going to statistically demonstrate what we're really up against in terms
+ of pulling out these individual training responses from this data. And, and, and, you know, the
+ dangers of over-interpreting them. And it's not long and it's also not math heavy. So I actually
+ think it's a good read for anybody who's interested. And I know we've got a ton of
+ coaches who listen to the podcast. So I do suggest you go read this paper. And there's a couple other
+ papers that it references in the reference, this one that are all good reading. So this has been
+ one of my favorite areas of the literature for the last couple of years is the kind of statistical
+ analysis side of it. So they start with intra-individual variation, which is within
+ subject or day-to-day variation. So this is the variation we would see in one person when doing
+ the same thing over and over and over again, like max power in a ramp test. If we did it 10 times
+ with sufficient days in between, what's the change going to be from day to day? We can actually make
+ a normal distribution of this kind of stuff, which is cool. If we have enough
+ data, we can actually make a normal distribution of this kind of stuff, which is cool. If we have
+ enough data. A control group's individual level data is a perfect example of this. They did
+ nothing, but the post-test results are not identical to the pre-test. It's like they're
+ not straight across the board for all of them. People are both up, they're down. The average
+ stays about the same, but it really demonstrates data that's not identical to the pre-test.
+ within subject variability.
+ I think another way to think about this is some days, right, when you're doing your sweet spot
+ intervals or VO2 max, like you're, you know, it might feel a tick harder or might feel a tick
+ easier. And, you know, you would, or if you're, you're riding to RPE, that would say, let me back
+ up. If you're riding to a prescribed wattage, some days it's going to feel a little bit easier
+ or a little bit harder. Or if you're riding to a prescribed RPE, you're going to feel a little bit
+ easier. And some days it's going to be a little bit higher, a little bit lower. And you can
+ imagine if you, if you had to do an FTP test on one of those days or a ramp test where everything
+ feels a little bit harder, you might crap out a little bit sooner. And if you're on one of the
+ days where you're like kind of feeling good and you got a little bit extra sleep or whatever,
+ and you might be able to push a little bit harder, but that doesn't necessarily mean that like,
+ oh, you had a, a, a massive change in your VO2 peak or whatever from like 72 hours apart.
+ Right. Yeah. Yeah. I mean, this is pretty common when I see people
+ are like, oh dude, I stuffed myself so much last night. Uh, and I'm like, oh, well you might have
+ some good intervals tomorrow. And it's like, holy shit. I had great intervals. Uh, yeah,
+ you stuffed yourself last night. That's great. So yeah. Yeah. That extra plate of pasta really
+ helps. Sometimes it really does. Um, so what does all this day-to-day variability imply about
+ intra-individual variation in response to a training program? Because not only do we have
+ a training program, but in the outcome measurement and whatever outcome is of interest, like VO2 peak
+ or lactate threshold or whatever, um, there's variability among response individually. Right.
+ I think it's pretty intuitive for folks. Some people respond better than others, but we have
+ to tease apart what we would consider true response to the training, um, with like assuming
+ no measurement error and assuming no day-to-day variability.
+ So if we had a hundred percent reliability between, uh, like, you know, ramp tests,
+ you know, VO2 peak and peak power and all that stuff. Like if somebody did that 10 times,
+ uh, fresh and got the exact same result to the watt and to the milliliter per minute per kilogram.
+ Be crazy. Yeah. We can say that, you know, what we measure
+ from pre to post is a hundred percent because of the training intervention. But we statistically
+ cannot do that because of the noise. And so the big idea here is that if we can statistically
+ account for within subject variation, what we could think about as like the control group
+ variability, we would get the true individual response to training.
+ And this is when we have multiple subjects, we get true inter-individual between people
+ responses to training. Uh, but because of two people do the same training intervention and one improves a
+ bit and the other gets a bit worse, knowing that people vary test to test, we could not actually
+ say that due to the various sources of noise, they had a true difference in response. And so like our
+ person who gained a ton of power from the sprint interval training and not, and, you know, got
+ worse from the endurance training we were talking about earlier, you know, that they could have been
+ on a bad day. They could actually have larger variability in that person day-to-day than,
+ than, you know,
+ the authors, uh, saw from their other eight people and, uh, where they ran that parallel, uh,
+ experiment. And if they had, instead of doing two tests, maybe they had done three or four,
+ maybe they would have found a wider range of variability. And so that gray box would have
+ gotten a little bigger. Uh, it's, it's really hard to say. Um, but the authors of this paper,
+ anyway, the conceptual one here, uh, they explained the sources of this noise. And so we've got three
+ big ones that they dig into.
+ First is measurement error, like your power meter plus or minus 2% on average, right? That's
+ pretty easy to think about. And the power meters are usually have a better, better, uh, standard,
+ uh, better, better error. Um, it's smaller error than a lot of lab devices. Um, sorry to spoil
+ anybody, anybody's conception. If they think that your, you know, typical metabolic cart is like
+ within like, you know, a half a percent,
+ it's bigger than your power meter error. And I've actually consulted with some physiologists for
+ teams and, and I'm like, which one of these has better, uh, has, is a smaller error. And they're
+ like, oh yeah, you're right. Okay. So that's the first one measurement error. Uh, but they also
+ talk about biological error. And I think this is kind of funny the way they put it. Biological error
+ is the, we could call this the off bike factor.
+ That affect day-to-day performance, like stress, sleep, nutrition, that kind of stuff.
+ So you're going to start calling your, like people are going to start calling their kids
+ biological errors. Well, uh, that is a joke that, that has been made. Yeah. Um,
+ I was told that was my mother's favorite biological error. Yeah. Um, okay. Finally,
+ biological variation, uh, which they describe as the true
+ change in the measured outcome from training or detraining. Uh, and so this can also be,
+ I would say that this can be affected by what I'm personally, the paper doesn't call it this,
+ but I'm personally going to call this chronic biological error, where if, you know, if the
+ entire time that you've been in this training study, you've also had a hell week at work and
+ you've been pulling 60, 70 hours, you're probably not going to respond very well to that training
+ protocol, even if under normal circumstances you would have. And, and, and, and, and, and, and,
+ that, that, um, biological error, that day-to-day influence on your variability, like this kind of
+ stuff can pile up over time. Right. And so conceptually from a long-term perspective,
+ we can think about that, but, uh, the paper doesn't really dig into that. So I'm, I'm making
+ a, a, a coaching inference here. Um, and so these are the three big reasons the paper talks about
+ that really muddies the waters. When we see a measurement change, measurement error,
+ chronic and acute life factors,
+ and true response to training, which means that in our previous study, when we saw someone's,
+ uh, VO two peak or four millimole power drop after a training intervention, it's not necessarily
+ clear that they got less fit during the training could have been job stress, poor sleep nutrition.
+ Maybe they missed lunch in that test day, lab equipment, noise, you know, maybe, you know,
+ like your power meter gives you, tells you that you're doing a thousand watts for 20 minutes,
+ like right before it dies. It could have had one of those days, probably,
+ they would have thrown out that data likely. But, um, so in order to really capture
+ intra individual variation, the authors note that, uh, things need to actually be repeated
+ in order to discern the normal variability. Uh, and the sprint versus nurse training study,
+ we just looked at, they did this with their parallel study on the two repeated measurements.
+ Um, but what they really couldn't control for is the quote unquote biological error.
+ Um, but what they really couldn't control for is the quote unquote biological error.
+ Um, but what they really couldn't control for is the quote unquote biological error.
+ Um, but what they really couldn't control for is the quote unquote biological error.
+ Yeah. I think another thing to consider, right. If, if there wasn't so much noise in measurements and,
+ and studying, especially studying humans, there's tons of noise that you can't control. Like
+ we wouldn't always be saying like, oh man, this is kind of a small group. It'd be great if it was
+ bigger. Right. But the whole, one of the reasons that we want large, large, both experimental and
+ control groups is to try to get rid of some of this noise and average it out.
+ Right. So that if those two outliers we talked about from the previous paper,
+ if you only had four people, right. And two of them are now like on these extreme corners of
+ this spot, that's like, it's not great for, for you trying to, to say anything meaningful. Right.
+ So you would have a great R value. Yeah. Yeah. You would, you would want to have, um, enough.
+ So enough people, for example. So if you did just throw out those outliers and just not consider them
+ at all, that that would not be an appreciable faction of your, uh, of your group. And even,
+ even for that previous paper, like it's not, it's not, it's not like it's a third of them,
+ but it's not like they had a hundred people in that study. There's no way you can get, you know.
+ Yeah. Right. And so, um, and so, you know, you're kind of getting to the next point here,
+ which is that because so many factors unintentionally muddy the water of what
+ we're actually seeing in terms of individual measurements, uh, you know, their consistency,
+ what we really do need is more robust methods of detecting true intervention, individual differences
+ than we usually see in the literature. And so here's, here's how I personally think about this.
+ We're kind of, we're kind of beyond the paper at this point. Um, I think about breaking out the
+ individual test measurements of each person pre and post training intervention is the same as
+ reducing our statistical power from N is greater than one to N equals one. And how would you, how
+ much would you want to rely on a, on a study of just N equals one when we're looking at a training
+ intervention? I mean, this is the idea, right? But in the scientific literature, we would say,
+ this is a case study. This is an anecdote. This is not large numbers. This is not, we're looking
+ at this on a population level. And so like, um, here, here's actually, here's a, for instance,
+ I remember seeing a talk a long time ago, it's probably 10 years ago now,
+ where they looked at individual response to some, I think it was like some environmental
+ thing of, it was like altitude or heat or whatever. And they're looking at the individual
+ responses. And one person was a clearly an outlier. They went way, way, way, way, way up.
+ And the guy was talking about, you know, I want to know if I've got somebody like this
+ and I completely agree. You want to know if you've got somebody who responds super well to that, but
+ what are the odds that that person is actually that much of an outlier
+ versus that could have been a measurement error or their pre-test,
+ was horrible. It was something like that. And so that's why we need more data points,
+ uh, for an N equals one study. So we have to turn an N equals one of you,
+ the training person into something with better and more robust, um, methods to detect
+ what is your normal variation? And is this training intervention actually working?
+ Um, so we really need measurements that are less susceptible to the fluctuations that we discussed.
+ And, um, and we really need to apply a methodology that can make a statistically robust individual
+ training response measurement. And yes, in case you're wondering, um, we're going to talk about
+ some recommendations for this and yes, we have, we do this at empirical cycling and we've done this
+ for a very, very long time. And I, it's not even, I would say not that anybody's asking, but I'll
+ ask the question. Um, and it's not necessarily because I consciously did this. Uh, it's because
+ subconsciously I've, you know, as you train, you're always trying to control for these sources
+ of variability. And, and I think a lot of people out there listening to this are going to go,
+ oh yeah, I do that too. Uh, so I, and I don't think it's, you know, I'm special or anything
+ like that. I think this is something that people intuitively get to. So what on earth can we do
+ about all of this?
+ to clean up our individual level data and make better inferences on individual training response.
+ So the paper suggests that one thing, um, you could do is repeated tests during the training
+ intervention, track the change of training response over time, as well as the day-to-day
+ variation. So for instance, in the endurance versus sprint interval training study in the one person
+ who's via two peak went up a thousand milliliters with endurance, but not with sprint interval
+ training, which was,
+ within the lines of no change, you would have seen that creep up over time. So that way you would not
+ only have multiple measures to get a more robust data set and kind of see the day-to-day variation.
+ You would also have a sense of if things are trending up.
+ And if somebody had like a bad test day, like biological error, stress, nutrition, like that,
+ that baseline test, if they were just getting over food poisoning, it's like, oh, I got to show
+ up to the lab tomorrow, but I also just pissed my shit all night. Then you're, you're probably not
+ going to have a good trial. And, you know, you might've really tanked your VO2 max test. And then
+ suddenly it looks like you gained a thousand milliliters a minute. And in reality, you just
+ had a bad baseline test. So it's, you would have seen that by the second, uh, you know, test of,
+ um, you know, if they had done several tests throughout the training, right. Uh, and so,
+ yeah, you might get another, oh yeah, sorry. Go ahead. Go ahead. Another thing, if you think
+ about this about like, you know, multiple tests, whatever, like if you're, while you're training
+ a pretty good feedback onto whether you're getting better, regardless of what the test says is like,
+ do things feel easier? Like, are you doing the same protocol or whatever? And, you know,
+ for the same prescribed power, for example, and does it feel like a little bit easier? Not
+ and maybe after three weeks, it's not enough, but maybe after six weeks, it is enough where you
+ noticeably easier than the first time I tried. Right. And that's why having some kind of
+ standardization of what you're doing helps a lot, because if you do, uh, you know, your FTP efforts,
+ uh, at, you know, let's say you start them out at a hundred percent, then you do them at,
+ you know, 95%, then you do 97% and then you do 90% and you 85%, like, you don't know if
+ you're getting better because you haven't repeated this, the first thing at a hundred percent before
+ and you go back and maybe you've gotten better. Maybe you haven't,
+ uh, am I actually getting better? Am I not? Maybe one of those was a bad day and you are getting
+ better and you haven't seen it. But if you stuck at that one intensity level, you would have seen
+ the progression over time. And, you know, I think that's something we've harped on in the podcast
+ a lot over time. And so it's probably not a surprise to anybody, but the utility of that
+ to track your response to training is huge. And I think that the idea of fitting a curve
+ to your response over time is,
+ um, pretty intuitive to a lot of cyclists who have a lot of data analytics at their disposal.
+ Um, you know, look at the diminishing returns, uh, look at any of those papers that we talked
+ about. I actually think we only talked about one, but look at that paper from the steel and,
+ you know, he's fitted a response curves. And I would be shocked if, you know, of the thousands
+ of listens that we've had to that podcast, if somebody hasn't already done this to their own
+ data, if you have, by the way, reach out, I want to hear about it. Um, yeah. So,
+ you know, this doesn't solve our issues, but number one, it's definitely a good way to train.
+ And I do coach people similarly when possible, although it, um, in some ways it can take a more
+ advanced athlete to kind of give feedback. Uh, but that's something I'm also coaching people on,
+ uh, because like you said, if something's feeling easier, I want somebody to be able to really sense
+ that and let me know, okay, maybe next time for the year FTP efforts, try five or 10 Watts higher
+ and see what happens. Maybe it feels too hard. Okay. Back it down.
+ Um, we'll just focus on TTE or, you know, maybe it feels great and you do the same time as you
+ did before, but you're a couple of Watts higher. Great. Also a good success. These things are all
+ good to know. And so it can take, um, it can take a lot of the guesswork out of, I'm going to train
+ for three, six, eight weeks, and then I'm going to test and hope I got better. Cause I don't know
+ if I did it in the, in the interim during training, it's so much better to have more data
+ points about your capacity while you are training. And this is one of the big reasons why,
+ um, and the paper also suggests to further clean up individual level data.
+ Uh, they discuss standardizing the training dose since obviously training response is non-linear
+ with increasing exercise intensity. We just talked about, you know, sprint interval training
+ protocol, a hundred percent VO two peak. I mean, and actually what are, what would our VO two peak
+ have been from a ramp test? I'm curious because I was thinking about it in terms of like,
+ what proportion of our five minute power would it be? Uh, which is a bad moderate proxy for a VO
+ two max power. So who knows what it would have been, but you know, sprint power and aerobic
+ capacity, they go unaccounted for often. And, you know, we can easily come up with other examples
+ like FTP is a different percentage of VO two max. And, you know, so standardizing by percentage of
+ this paper, figure two looks at VO two peak from a separate training intervention where they 10
+ individuals did a graded exercise test, a ramp test three different times. And they actually
+ have a decent amount of variability. Like the spread between the low and the high for these
+ folks is something like five, six milliliters per kilogram per minute. And oftentimes they've
+ got two of these are clustered together. And one is like an outlier.
+ And when you pull this out to, um, you know, if you're looking at a three to five, uh, range for
+ milliliters per minute per kilogram, once you pull it out to, you know, just milliliters per minute,
+ uh, it gets a little wider, the number gets bigger. And so, um, so some of the papers that
+ we've seen where they're looking at VO two max going up, you know, 1.5 to like two or three
+ milliliters per minute per kilogram and saying that that's a, that's a great result. Look,
+ this program over this program. I mean, it's within some noise. Like I'm, this is one of the
+ reasons that I'm skeptical of seeing these small responses and saying that this one thing is
+ vastly superior. Um, so this is one of the other reasons that I I've always been kind of skeptical
+ about small results like that. Yeah. Yeah. I think it's, it's tempting, especially if you're, um,
+ you know, number go up, uh, like you all, you always want to see, you can, you can be maybe
+ too optimistic, um, by even small positive results because of course we want to see positive results,
+ right? So like you can place a lot of, um, hope and belief and like, Oh, it's a, it's an
+ improvement. It's small, but it's, it's a, it's an improvement that must be, you know,
+ yeah. And as, as N gets larger, you can see smaller improvements, like more statistically reliably,
+ but you know, if you're looking at 10 people, um, I am less skeptical of that and I'm, I'm much more,
+ uh, you know, we're much more able to focus on larger changes, um, where maybe somebody's, uh,
+ ramp test power gets a lot bigger, right? And the VO2 max doesn't get that much bigger and you can
+ go, well, you know, the VO2 max change isn't going to explain that much change in the ramp test peak
+ power going up so much. So therefore it must be interoperable capacity, but they didn't test that.
+ So we've got to make
+ that inference, although we can't say for an absolute certainty, but that's the kind of thing
+ where, you know, if w when somebody says like, Oh, my VO2 max went up two milliliters per minute
+ per kilogram over this training intervention. Cause I went into the lab twice. My first thought
+ is, did it really? It's like, if your power, if your FTP goes up five Watts from 300, 305 Watts,
+ did it really go up? If you've got 2% error in your power meter, right?
+ So anyway, um, day-to-day other, uh, other thing here, other thing here is like, like, um,
+ you know, if you're, you know, using N equals one, like you want to see, you hope that all
+ training interventions yield improvement, right? Like it would be like, we said that one person
+ who got worse, there's two, there's two people, one of whom got worse when they were doing the
+ other thing.
+ Um, you would hope that, and this is even harder to tell, like, is, is this training going to yield
+ improvements faster than this other training? And that can be very hard. Cause then you have
+ to have a much longer, cause now you're not looking just at improvement, but like rate of
+ improvement, which gets much harder to tease out. If you're just taking tests sort of intermittently
+ or, or, you know, every three weeks, six weeks, 12 weeks, whatever, have you, um, that can be
+ really hard to tease out. My wife, the epidemiologist,
+ uh, has, has instilled a, uh, had her original epidemiology professor
+ instill a, a deep skepticism of hazard ratios for this exact reason.
+ Yeah. Yeah. Yeah. It's super. Cause you're like, yeah, I'm improving good. Like you should be
+ improving, but like, you know, hopefully you're not, I won't say wasting your time, but hopefully
+ you're being efficient and effective with your time. Right. Like, um, well, and this is one of
+ the things that, where we talked about in the last watch stock, thinking about diminishing
+ returns is you've also got to understand where you are in that curve. And if you're very far out,
+ you may need to give yourself a lot more time to actually see if you're responding to the
+ training intervention a lot. Because if you are like just off the couch, like we said,
+ you'll see a faster response curve, but is that representative of, does that change your ceiling
+ over time? And the answer is like, clearly we don't know. We can assume things, but we don't
+ really know based on the data that we have now. And actually one of the things that we are working on,
+ and some of our other coaches, uh, we are actually going to try to dig into our data sets, um, like of
+ our, of our clients data and see if we can tease out any of these factors. Uh, so that will probably
+ be a very, very long time in the making, obviously, but we're working on it and just feed it all into
+ grok and ask it what it thinks. Uh, no, I, I, okay. This is just an aside. I may cut this from
+ the podcast. If you hear it, uh, know that, um, I want an internal debate against myself or I
+ lost it, I guess. Um, I consider training data to be PHI and it, before it gets analyzed, I am going
+ to completely anonymize it because I don't want it to be traceable to any individual. Um, so, you
+ know, get rid of GPS data, get rid of elevation data, all that kind of stuff, get rid of like all
+ like scramble all file names and things like that. Um, and so I don't think that, uh, I'm never going
+ to send somebody's data file anywhere without their explicit permission, because it would be
+ the same to me as like sending somebody's medical records somewhere. Um, anyway.
+ Yeah. I also just don't trust feeding large quantities of data to any of these.
+ Also that. All right. Let's see if that makes it in. Anyway, let's move on. Um, so we, I think
+ do need to go through this rigmarole into determining one person's true response. And if it
+ is true, um, you know, we're going to, eventually we're going to tease out the variability and get
+ to a real comparison about how two people respond differently. You know, if we get rid of my noise,
+ we get rid of your noise, we control for all of that. We're going to see, uh, you know,
+ and we standardize the dose and all of that. Now we're going to see, do I respond better to this
+ training protocol than you do and vice versa. Uh, and that's when we can start getting into true,
+ uh, inter individual, uh,
+ response to training. Um, you know, we need to be pretty certain that changes in the outcome
+ that we see are true change. And so, um, you know, the, the paper uses something, uh, you know,
+ kind of looks at VO two max and variability day-to-day stuff, um, as an example of like
+ learning effect as well on untrained people, someone often gets a higher VO two peak on
+ their second or third attempt without a training intervention.
+ Um, so like within crossover designs where two people or where two groups of people do two
+ interventions without a washout or sorry, even with a washout, um, if more people randomly do
+ one intervention first, it can change the results of the second intervention
+ and thus the comparison of interventions. And so especially in untrained participants or in
+ moderately trained people, this can actually be a pretty big issue. Um, but in trained people,
+ not so much, maybe except early in season, I would say that this is probably a factor as well,
+ but this is where you, if you do two parallel arms for an intervention, you don't have to worry
+ about that crossover effect and the learning effect. So, but your, your, uh, and it gets
+ smaller when you do that. So there's pluses and minuses to both things. And so to really
+ ascertain the difference between two people's response to training, um, we also have to account
+ for off-bike stressors.
+ And so if you pick up me and Matthew Vanderpoel off the couch and you give us both the same
+ training program, I know I had to make it ridiculous. Uh, you are almost certainly going
+ to see his response be much greater than mine in any measure, no matter how you pick your measurement.
+ He's probably going to blow me out of the water. I mean, he would anyway, but especially in this
+ case, however, if he's barely sleeping, he's barely eating, he's got a lot of life stress for
+ whatever reason.
+ He's winning too many bike races, very stressful. Um, then we may actually have the same training
+ response. I mean, imagine that world, Jesus. So, um, cause I think what I'm getting at here is
+ that, uh, I think there's a tacit assumption from all of us, myself included that, you know,
+ from the literature, we're always going to get someone's true response under ideal conditions,
+ or at least close to it without considering,
+ that off bike stressors that can affect us. And so, or at least close to it. Right. Um, and
+ I mean, on, on, uh, on a forum recently, I actually saw somebody said, uh, you know, I,
+ I'm doing this, this training study and my V I, I was sick going into this via two max
+ test. And I was like, you know, this is exactly the kind of thing that doesn't show up in the
+ paper. And I think that this is one of the reasons that relying on,
+ on statistical tests based on group average and standard deviation to have some decent idea of
+ whether a training stimulus causes a meaningful difference in training response. I mean, with two
+ groups large enough, this is thanks to my wife again for learning me up on epidemiology. Um,
+ we can presume that there are the same number of people having trouble sleeping,
+ eating enough. Some people double the training interventions at home that has
+ happened. I mean, they're not follow instructions. Yes. Uh, no, no, I haven't been doing any extra at
+ home. No, I'm, I'm only barely dragging my ass into this final test because, uh, yeah, I just
+ finals. Sure. Uh, it's not because I've been doing this exact same thing at home,
+ like three times as much. Right. Um, so in causal inference,
+ this is the principle of exchangeability sometimes called symmetry, where the groups
+ should be symmetrical in terms of the, the, the participants in, in the things that would influence
+ the outcomes. And so exchangeability means that, um, you could swap two individuals from the two
+ groups and it's not going to change the averages. It's not going to meaningfully change the outcomes.
+ Now, if you've got two groups of two and you've got you and me and like Vanderpoll and Wout,
+ we are, these two groups are not exchangeable.
+ Like, yeah, you would have to deliberately put me with one of those guys and you with one of those
+ guys. And now we've got slightly better balanced groups, but they're still not perfectly balanced.
+ And so this is why a group of highly trained cyclists is not exchangeable with untrained
+ people because of the expected response. The interventions is going to be different. And,
+ you know, the learning effects, like for ramp tests, like we just said, it's going to be
+ different. And so one cannot realistically be the control for the other. And so we
+ can see how small samples can unintentionally and randomly violate exchangeability and create
+ a significant difference when a quote unquote true result might actually not lead to a true
+ difference here. And that's at the group level when we have enough data to avoid sampling variants
+ and avoid all these other sources of variability to kind of wash it all out. You know, like if
+ you're looking at an epidemiology study, I once asked my wife, I was like, you know, you've got a,
+ looking at a group of 300 people here. Like, is that, do you consider that small or big? She was
+ like, oh, dude, it's so small. I was like, you are so lucky. So the paper does note also
+ that you can repeat the same training intervention in the participants
+ along with repeated outcome tests, like doing multiple VO2 peak tests along the way.
+ And our next and last paper in this episode is actually going to do this.
+ And this is, this is one of the reasons I wanted to do this episode now, because somebody finally
+ did this protocol and I'm so stoked about it. And we're going to call this the, the repeated
+ intervention where we'll go into detail in a second, but from a coaching perspective, I think
+ it's the one that's most relevant to us. So let's, do you have any other thoughts before we truly
+ dive in here? No, no. Cool. All right. So how do we do an N equals one experiment? Really?
+ Uh, and this is going to be in the scientific literature, but we're going to parallel this to
+ like coaching and our true coaching N equals one in a second. So the title of this, the effect of
+ resistance training volume on individual level skeletal muscle adaptations, a novel replicated
+ within participant unilateral trial. Um, note that as of this recording, this is a preprint
+ from Zach Robinson and his colleagues. And so we're not going to really dig too hard into the results,
+ because they're, you know, under peer review, as far as I know, I couldn't find a published
+ version here anywhere, but we are going to dig into the conceptual setup of the study design,
+ which I think is great. Um, so like I said, this is a strength training study
+ where similar to the cycling world, there's some debate about whether there's individualization
+ of volume and for strength training, that means higher low in terms of sets per week
+ for best response. And the thought being that some people might be quote unquote,
+ low volume responders and the others are quote unquote, low volume responders.
+ And so in order to figure this out, they took 16 recreationally trained participants.
+ And that means they had greater than two years of strength training twice per week, 11 men and five
+ women. They did two interventions, 11 weeks long, each six to eight weeks wash out in between where
+ they returned to their habitual training. And for the training, they did two sets a week,
+ or, uh, they did twice a week training separated by at least 72 hours. So like they did like
+ Monday, Thursday, every week, something like that, the participants either did low volume,
+ which is eight sets a week or high volume, 16 sets a week spread across these two sessions
+ on the unilateral leg press. Hey, very relatable to cyclists. Right. And the, I bet that was
+ a stupid question is eight sets. Is that per leg or is that per leg because they randomized
+ by leg. So they didn't actually have 16 samples. They had 32 samples. So it's pretty robust. Um,
+ and that's, that's one of the cool things about this is that it's, it's, it's hard to do this in
+ the cycling world. Um, cause you can't really, I guess you could cycle on one leg versus the
+ other, but it's, it's hard to do. It's weird. Um, but what's unique about this training
+ intervention with the strength here is that they did it instead of a regular crossover to
+ design. They did what I think about as like double randomization where in both instances,
+ they were randomized. And the proper term for this is independent replication. This means that
+ there was a chance that the same leg would do high volume both times or low volume both times
+ or alternate high and low volume or low and high volume.
+ That must be a funny protocol to receive. Like, okay, left leg, I'm doing what?
+ Wait, right leg, I'm doing something else.
+ Yeah.
+ Right.
+ Okay.
+ And so I, I mean, I think that the great thing about this is it controls for so many
+ of the things that we've just been talking about learning effects, you know, between
+ washouts, um, or if there's any kind of, um, you know, like especially high to high variability,
+ low to low variability.
+ You know, if you get stronger or your muscle grows more in this one, is it going, is it more likely
+ to do it the same in the other training response? Are you going to see a little bit in one or none
+ in the other? Like, this is the kind of thing where they will answer these questions by this
+ setup. And it's, it's very difficult to do otherwise. Uh, and you know, it's statistically,
+ I mean, the authors themselves say that, you know, they're way, way, way deeper in stats than I am,
+ obviously, but, you know, but you know, their conclusion is like, you know, we can't really
+ truly conclude anything.
+ Different about blah, blah, blah. Like we can't really do anything, but, but conceptually,
+ we think that this is very much a step in the right direction. And I would agree with them.
+ Um, so with this setup, they can look at the magnitude of the responses. So how much did
+ the muscles grow, the reliability of the responses. So that's correlation between
+ the replicated interventions and the agreement, which is the differences between replicated
+ interventions. So don't worry about reliability versus agreement. Uh,
+ we, for our purposes, we really don't need to get into the weeds on that stuff. Um, so
+ what we're going to do is we're just going to skip over all of that. Uh, and we're, what we're going
+ to do is we're going to look at the conceptually, the intervention largely solves the statistical
+ problems that we face when we turn a multi-subject trial with two, with just two measurements into
+ N equals one. Like we get rid of our control groups, right? We get rid of, you know, how,
+ how much noise do we know that we have?
+ It gets, it, it solves for a lot of those issues. And so we can also see that this would be very
+ difficult to do in the cycling scenarios. We could split protocols like easily, but it's really hard
+ to do with VO two maxes. VO two maxes is a central factor and we don't have two hearts. Um, do any
+ animals have two hearts? I don't think they do. Maybe an octopus somewhere. I don't know. Who
+ knows? They've got multiple brains. Why not have multiple hearts? Um, so they also did this
+ intervention. They also did within intervention testing.
+ We talked about kind of testing as you go along to see that the response. So in order to maintain,
+ they had the two reps and reserve standard. Um, and they were doing sets of eight to 12 at weeks
+ one, four, and 11, they went to zero RIR in four sets and they used lift velocity to establish
+ a reliable two RIR velocity. Uh, and they also started with one rep max testing on those weeks.
+ And then they did their zero RIR sets based on that, based on approximate percentage of one rep max.
+ So they have regular performance baselines in order to see progress as it occurs. They do all the fun
+ stuff that we mentioned before. And so their primary outcomes, they looked at vastus lateralis
+ cross-section and unilateral one rep max. And conceptually, this is what a true quote unquote,
+ is their individual training response set up requires. So if anyone's curious, what did they
+ find? I'm not going to go into, like I said, not going to go into a ton of details on this paper.
+ Um, it's, it is actually very
+ theory and concept heavy, but it's worth a read. It's not that out of the realm of most,
+ if you've been listening to the show for a while, I think you can get through it. Uh, and, and actually
+ like genuinely get something from this paper. Um, it'll be linked up in the show notes. So
+ also a bunch of meatheads on the author list. Actually. Yeah. It's like, like imagine, um,
+ imagine like Bruce Banner as the Hulk, but we'll like with his glasses still on. Um, and so to quote
+ quote, despite observing clear gross variability across all outcomes, we failed to reveal irrefutable
+ evidence of true inter response, inter individual response variability unquote. So plainly said,
+ they found that the individual variation was a little too great to detect if some individuals
+ actually had better hypertrophy with lower or higher volumes, but they found that some people
+ seemed to,
+ they responded generally better than others. And they also found that overall, when they aggregated
+ all the data, more volume always seemed to lead to, uh, not always, but let's just say more volume
+ seemed to lead to greater improvements across the board. I mean, this makes sense, right? Can,
+ right. Let's, oh yeah, sorry. Go ahead. Oh, I think, yeah, I think that's one of those.
+ It's sort of funny because they, they spent a bunch of time and money to determine that like
+ volume is important, but you know, like sometimes sometimes these things, it's good to, it's good to,
+ you know, it's good to have the data, even though, you know, some people would say,
+ why did you have to do that experiment? I thought, I think everybody already knows this, but
+ we've been over this in the podcast before. It's always worth doing the experiment.
+ Yeah. And I also think that like, if for example, they found that that wasn't the case and it
+ suggested that like doing less volume yielded better results, you'd be like, I don't know if
+ what they did was correct.
+ Well, cause that would be an unintuitive result based on all of the other, you know, the, the
+ mountain of other literature that we have on training volumes and hypertrophy. And especially,
+ you know, some of the recent meta-analyses on this stuff. And in addition, like there was a great
+ Stronger by Science article on it too, that followed up. And I mean, if, if after reading
+ all of that, you're still skeptical, I mean, I don't know what I can do to help you there.
+ Um, but, uh, I think that when we,
+ when we kind of dig into what's happening on a cellular level,
+ this might make a little more sense because I think that, and it'll also make sense in terms of
+ why some people feel like they respond better to lower than higher volumes of strength training
+ and endurance training and all that stuff. So let's put this all into context and hopefully
+ we can clear the air. And by that, I mean, we're not going to clear the air at all because I know
+ how these things go. Um,
+ greater activation of your cellular hypertrophy signals must occur as we provide more stimulus
+ because it would be silly for mine to stop transducing the signal altogether at some point
+ or even sillier to start becoming deactivated or down-regulate the stimulus as I add more stimulus
+ where somebody else's like yours might get more activated, but with like diminishing returns,
+ as we actually might expect. Um,
+ like on a genetic level, it makes very, very little sense when you think about
+ how similar people are to each other. Um, and just because I think more seems to be more with
+ hypertrophy and all sorts of endurance training as well, that does not mean that it's the right
+ course of action for every individual. Because in my opinion, what's usually happening
+ is not that somebody's body operates on a different set of
+ metabolic, biological, genetic rules than somebody else's. But it's that they're probably just not
+ recovering from a certain amount of training done in a certain period of time. And I think that this
+ is where I've got to put on my coaching experience hat. And I've been doing this for over a decade
+ now, the consistency and the intensity that someone can perform in a four to 12 week block
+ is not the same as what someone can do continuously for months or years on end.
+ And I mean, we saw from the last Wattstock, you know, the mentioned returns, you know, they didn't,
+ even though the returns diminished doesn't mean that the returns were not there. They were just
+ slow. And so in training, and that was a minimum dose paper, by the way, or a protocol we could say.
+ Uh, and so in training sustainable beats, burning the candle at both ends, unless your goal is like
+ 12 weeks away. And, uh, I want to perform my absolute best. And I don't care if I'd never
+ ride a bike again after that. Some people might be like, you know, I want to ride a bike again.
+ But then again, you're still playing with fire because you might go right off the cliff
+ at week 10 out of 12, you know? So I think that, that understanding that
+ my genetics versus somebody else's are probably not that different. Maybe the level of the signal
+ transduced is different or whatever down regulates these signals in terms of endurance adaptation,
+ um, or strength adaptation, like might be different from somebody else's on some
+ level of magnitude. But I don't necessarily think that the signals themselves are going to be
+ different because that would really imply that I had some really strange genetic stuff going on
+ where, you know, compared to the population average, which maybe once in a while that
+ happens. Sure. But is it likely, I mean, we'd have to really do a lot of digging to find out.
+ Well, and that's one of those things where that's why you want large study
+ populations, right? Because if you do happen to get someone,
+ like that in your group and you only have six people, then that's a large fraction of your,
+ like your, uh, your data, that's going to be like, yeah, maybe, maybe less riding makes me faster.
+ Right. And so, I mean, that's where that's, you know, the kind of art versus the science of
+ coaching, uh, as a billion people have said before, I think that that's probably a good
+ way to think about it. I mean, and art, by the way, I think maybe we
+ need to, um, characterize maybe a little differently. Cause I hear that phrase a lot,
+ but maybe we should think about it as the, you know, what does the data say versus what does
+ our experience say? Um, because I think that, you know, the old idea that people may respond
+ differently to different training or even not at all. I personally don't think that this is really
+ a thing as much as it's been played up to be at some points in history. And I think a lot of people
+ think that, um, I'm, I'm not too worried about kind of tackling that thing, but, you know, in
+ addition to sources of variation that we discussed above and that were generally controlled for in
+ that Robinson study, um, they may or may also, they may or may not be detected because of the
+ protocol used or the group used or the, the outcomes measured. So if like we talked about
+ dosing standardization, you know, if you were anchored to FTP or VO2 max, where people were
+ people vary with percentage of FTP of VO2 max or anaerobic capacity or sprint power or something
+ like that. Like if, if you and me doing, you know, three minute VO2 intervals at 120% FTP,
+ like we're snoozing through that stuff. That's not a good stimulus. Good. That's a good example,
+ right? Outcome measures, VO2 peak, ramp tests with lactate, et cetera. These indirectly measure
+ what's supposed to be trained. And so like you can get higher ramp test values with better
+ anaerobic capacity, but no VO2 max change, very little VO2 max change. So like we talked
+ about. And so even outcome measures that have greater variability than others,
+ lactate testing has a lot of variability compared to power output. Um, and so, you know, we've got
+ a, we have to think about, you know, um, standardizing dosing and having good outcome
+ measures, um, as, uh, you know, in order to really also see if, you know, an N equals one training
+ change. Yeah. I think that's, that's good. Like you need to have and have those things defined
+ ahead of time. Yes. Don't develop metrics on the fly. Uh, that's not a good, that's a good way to,
+ it's a good way to, you know, get to a result that you like, but it is not necessarily a good
+ way to objectively determine whether something, uh, worked or not. Yeah. Like this is,
+ this is one of the things I tell people I work with all the time is like, if I, you know, if I
+ see something wrong, I'm not just going to come to you. I'm going to come to you with like all the
+ data that I have. And sometimes it's that I have a feeling about something based on my experience.
+ And I'll tell you, it's just my experience and you can tell me I'm wrong and that's fine.
+ But if I have data, I'm going to share data. Um, and we're going to talk about if that data can
+ really show what, what we think is going on. And sometimes yes, sometimes no. And, uh, I mean,
+ that's just, that's just part of having amounts of data available. Right.
+ Um, but I, okay, sorry, getting back to this. Um, once we get beyond normal issues that people
+ have with training, like nutrition, individualizing targets, I still personally think that there's no
+ such thing as a unique responder where somebody is actually just going to respond to sprint
+ training and not to endurance training. Uh, like in a lot of ways, I think that that this is a dose
+ and, and, uh, outcome measurement kind of difference maker.
+ And a lot of the time. So, um, the, cause the physiologic limiters that people have
+ seem to be universal enough that we don't really need to be concerned. I don't think about which
+ training someone's doing because the physiology that's targeted by different training types
+ should realistically be about the same between people. And when we have overlap in what can be
+ trained, we've got to control for that. Right. And so the dose, you know,
+ the, the needed dose or the, or the sustainable dose or whatever we're looking at and the magnitude
+ of response is really where I think people do vary, uh, and their ability to recover from all
+ of it. Because like I said, the alternative is that someone's genetic makeup is so dramatically
+ different from other humans and mammals. I mean, it's, they can have a whole study on themselves
+ just because they're so weird. Yeah. Right. Yeah. And, and in theory, it would be unlikely
+ that that would not have other effects, um, on your physiology. Uh, so I, I think that the most
+ parsimonious explanation is that when somebody is not responding or seeming to not respond to
+ a training intervention, you know, like if you only respond to high volume, low intensity,
+ your friend seems to only respond to low volume, high intensity, et cetera, et cetera.
+ To me, I think that it's more likely that, um, you know, there's a
+ specific limiter in somebody's training, uh, uh, targets for their physiology where that,
+ that, or maybe it's their recovery. Maybe it's their psychology around the training,
+ maybe it's the nutrition and, you know, their, you know, the recovery environment and how much
+ that's accommodating because, you know, like why I've harped on a couple episodes recently,
+ like, where are you in your season and what is your physiologic bottleneck? Like these things
+ seem to make a difference because, and to quote the, uh, the author of the last paper,
+ Robinson, um, I've heard him say that, um, he says, he says this about resistance training that
+ all differences in outcomes in resistance training research is just dose and disguise.
+ And I think that we could easily parallel that with endurance training. Differences are often
+ just dose and disguise. Especially if you're just this, you know, you're this, uh, N equals one type
+ and, you know, like I said, they kind of, they try to kind of try to do that with the,
+ the left, right leg and high volume with high volume again, or low volume, low volume again,
+ like, um, all if you're, if, especially if the last time you did X, Y, Z training was
+ years ago or something like being able to compare, like whether you were the same sort of
+ athlete, you know, it completely ignores training history and all these things.
+ It's really hard to tease out. I can't imagine. Um,
+ you know, being like, yes, it is directly comparable. My training and status as,
+ as a brand new cyclist, you know, 15 years ago versus now. And so I can, I tried this sort of
+ training 15 years ago. It didn't really work. So by whatever metric, it didn't really work. And so
+ I think that that definitely holds true today. Yeah. Um, yeah. So how do we, how do we really
+ apply this? Like, let's, uh,
+ start to, uh, uh, you know, set up some suggestions and guidelines on how to make an N equals one
+ individualized training experiment. So I think long-time listeners are, like I said, are going
+ to be familiar with a couple of these things. Uh, you know, I've got scientific training,
+ I've been coaching for a long time. And I think without realizing it, a lot of us
+ operate like this, um, and I've advised like this. So, uh, let's dig into it. Number one,
+ control your dose. Like we just said a couple of times, but it bears repeating because once you
+ get to a certain point where you're able to control your dose, you're going to be able to
+ control your dose. You're going to be able to control your dose. Um, where appropriate,
+ you know, understanding also if intensity or duration is a better driver of the stimulus
+ you're looking for, you will be able to control your dose and individually see how much dose do I
+ need to move the needle. And especially if you are getting more frequent, quote unquote, test
+ values, testing in quotes, because it's not true testing the way that sometimes, uh, like an FTP
+ test might feel like a final exam. You don't want that level of control. You want to be able to
+ control that level of stress going into it. Right. So overall working closer to your physiologic
+ limit for intervals, whether it's duration or intensity and knowing what is going to be a good
+ driver for stimulus and what's going to be a good driver for measuring the stimulus. So with
+ threshold type training, more time is always good. VO two's anaerobic sprint type training,
+ the intensity is the stimulus. So you generally want to see what's going up over time. Um, and
+ you know, you can threshold, you can see a little bit of that early on, especially
+ but you know, we don't have to dig into that too far, but when you think about controlling the dose
+ and, you know, kind of working closer to your capacity more often, you can see improvements
+ happen as you train, as opposed to flying blind for four to eight weeks and then finding out that
+ something's off. You know, the old adage that testing is training and training is testing is
+ stupidly true. Um, and it's worth finding your limits and training on something of a regular
+ basis, not daily, mind you, not daily and be no, no to Ben a, I think that's what that stands for.
+ Right. Take note, whatever it's it's Latin something. Um, and when you do all this,
+ you can watch your training efficacy. How effective is your training dose? Um, also don't
+ measure performance proxies.
+ Measure performance. If you're, if the models like Trenton models that you're using, like, um,
+ you know, like a WQ five intervals, all that stuff, lab tests. And like, if, if, you know,
+ the models are not fed well, or the, um, or the protocols are not standardized enough, yada, yada,
+ you know, non specific markers of performance, things that are correlated, but not, you know,
+ 100% related to your performance, which is your performance is a hundred percent related to your
+ performance. These other things, TSS normalized power, critical power, WK five model intervals,
+ model lab tests. You know, these things are not your performance. Your performance is your
+ performance lab tests were only invented or were only ever proxies for performance. And we're never
+ supposed to substitute for performance themselves. They are not the gold standard
+ performance should be the gold standard in my opinion. Um, so if you're getting a lab test done,
+ protocol matters. You need to know how the test procedure is implemented and interpreted and how
+ it may potentially over or underestimate your performance and why, and then maybe save your
+ money. Um, in general, but especially when we account for protocols and interpretations,
+ lab tests tend to have greater error and day-to-day variability than your performance,
+ uh, tends to as well, especially in a rested state anyway. Um, and this leads to,
+ um, picking appropriate performance benchmarks, because if you're going to do a gravel race
+ or a road race, and you want to hit that last five minute Hill at the end, hard,
+ your fresh five minute power is, is like, it's an okay benchmark, but it's not a great benchmark,
+ nor is your FTP. These things only correlate with what you can do at the end of a race like that.
+ And, you know, look into the durability episode. Like you sure you need five minute power to have
+ good five minute power, but how much does it drop? That's a good question.
+ Now, if you're racing mountain bike or cyclocross or those kinds of effort, uh, those kinds of
+ things, uh, maybe crits or, well, maybe not crits, but you know, if you're not used to putting down
+ power with mixed grip conditions, like off-road performance on the road will also correlate,
+ but it will not be directly predictive of your performance. I've coached a couple of people who
+ can put down great power on the road. And as soon as there's dirt, even if it's smooth,
+ the power output goes down. Yes. With the same power,
+ so, um, so make sure that your testing can differentiate about whether something is
+ improving. Um, you know, you're like anaerobic capacity versus aerobic capacity too, you know,
+ for picking performance benchmarks. If you're, you know, if you are just using five minute power
+ as your VO two max, if you do a bunch of anaerobic power stuff, you can go, Oh, my five minute power
+ went up. I've got to max one up. That may not actually be the case. And so finally,
+ understand the variation in your performance. If you think for instance, that your FTP varies a lot
+ as you train by like, let's say more than five or 10 Watts, then it's more likely to mean that
+ you're consistently carrying fatigue or under recovering. You're like, man, some days it's 250
+ Watts and some days it's 230 Watts. I you're 230 watt days. I'd say you're probably underperforming
+ quite a bit. Um, cause physiologically, you're probably underperforming quite a bit.
+ Physiologically, FTP really doesn't shift that much. It's fatigue that masks it really.
+ And so with other efforts that require freshness, like one minute sprint power, um,
+ you know, you may not want to compare your best ever numbers to the stuff that you're going to do
+ in training on a daily basis. Like if your best ever one minute is like 600 Watts and, you know,
+ in training, you're getting, you're starting out at like 500. You're like, Oh man, I'm so off.
+ Like don't taper down. So you can see that 600 again, if you're training, like see that 500
+ Watts go up to five 2550, like et cetera, et cetera. So yeah. You know, compare your previous
+ workouts and previous progressions. And so knowing contextually, if your sprint power is better when
+ you've just had a week off the bike, like, you know, maybe don't compare your current sprint
+ in your training. If it's pretty consistent, you're feeling okay. Don't compare that to your
+ best ever. Um, and so if you can make all of these check marks,
+ and things are going well, I would say it's very likely that you've also got all of your
+ off-bike factors also taken care of. Yeah. Yeah. I think it it's, it sort of like what you said
+ there just comes back to sort of this more holistic approach of, you know, you're, you're
+ not just this one number from the power meter or whatever your, your, your chosen metric,
+ maybe it's not power meter, right? Maybe it's time up some, some KLM,
+ because you want to, you want to win this climb and this race or whatever. But, um, you know,
+ there are lots of information going to decisions and, and, and planning out what you're going to
+ do for a season and a training block or what have you. Yeah. Um, yeah. And so now what do we do
+ if things are not going so well, let's get into biological error. I know my mother listens. I'm,
+ I'm kidding. My, I love you. Um, so what do we, what about when things are not going well?
+ Now we have assessment of change over time in terms of training and detraining. Um, and chances
+ are, I think if you've got enough time to ride and hit all the basics of training, overall hours,
+ FTP, V8 to max race specific needs, and you're monitoring the right performance outputs and
+ inputs, you should see steady progress with your training. But again, know where you are in your
+ season and your, and in your entire training arc, like listen to watch lock 61. If you haven't,
+ it goes into the kind of modeling diminishing returns. We talked about that a little bit earlier,
+ talk about some real world examples from my clients and myself. Uh, and, and also contextualize
+ yourself with, I don't think you can call yourself a non-responder if you've already responded.
+ If you're way out on that growth curve, you're like, man, my, I, I got 20 watts of FTP doing
+ this training in February and now it's June. I'm doing it again. I'm not seeing anything.
+ I'm not, I'm a non-responder. Yeah. You,
+ you already done, got your responding. Yeah. Yeah. You know, when I, uh, I said this,
+ you know, before we were, we were chatting, but like, you know, it's, it, it's really hard to,
+ to prove a negative, like, oh, this will never work for me. This won't work again. Like this
+ won't ever, this training, uh, it won't ever work for, it worked once, but never again for me.
+ Like, I don't know if that's true. Um, yeah. So just be careful with the, the sort of sweeping
+ statement.
+ Yeah. Yeah, for sure. Yeah. I mean, this is, this is one of the reasons that I always say it depends
+ or it's context dependent and stuff like that, because at least to me that, you know, especially
+ if you're considering whether or not you're a responder or a non-responder, I mean, I,
+ I think that the biggest factor about responder versus non-responders is this it's whether you
+ are responded already. Um, because I think if you give yourself enough time for a training folks to
+ take hold and you also don't overstay, you're welcome with any particular focus and you rest
+ sufficiently, you're going to be fine. And if something stops working, assess your progress
+ in light of whether you're likely to be experiencing diminishing returns. Are you experiencing diminished
+ returns? Call your doctor today. Um, right, right, right. And so if something like off the bike has
+ changed, stress is ramped up to change your diet recently, and maybe it's not working or maybe you
+ are dieting and, oh, I got to cut down some intensity sessions, that kind of stuff. Like
+ make a plan of action.
+ And move on. You know, like if, if like you've gained 10 Watts of FTP a year for the last three
+ years and you got that bump this year, you can try more, but like, don't expect more based on
+ your history. Um, and in terms of like differential diagnosis here, it's, it's genuinely difficult to
+ tease apart off bike factors, daily variation and training plan efficacy. You know, are you
+ getting a sufficient dose? Are you recovering? Uh, because there's so much overlap between a
+ bike and off bike, you know, finding a weakness in all of this stuff really requires an assessment of
+ your training history, training methods, and off bike factors. And diagnosing what's going wrong
+ is a process of exclusion rather than inclusion. And so if you're not sure if things are going well
+ or not, you know, start implementing some of these suggestions that we had above to monitor
+ your progress more deliberately. And, and I will also mention, because, um, I know there's a couple
+ of folks listening to this who are very, very, very well-trained. Sometimes you may need to
+ err on the side of more rest than more stimulus. So be careful with that because that is also a
+ part of the whole factor. Like, like we said in the last couple episodes, dynamic equilibrium
+ between your training inputs and your recovery. So you really do need to have more than a single
+ data point to understand your progress. And, you know, in order, and that's what you need in order
+ to determine the true N equals one training experiment and cut through the noise. And
+ that's what we're trying to do here. We're trying to make sure that the noise is just a part of life,
+ but we can, we can actually control it better than maybe you might think kind of based on how,
+ how we've set up this episode. Yeah. Yeah. Yeah. Less people think that we're saying this is
+ impossible. It's not impossible. It's definitely not impossible. Don't, don't, don't come away
+ thinking like, oh, there's no way to tell. And I'll, I'll just forever be randomly walking my
+ way through. Yeah. Like I said at the start, it's, it'll sound a little complicated,
+ and all of that can maybe, it may sound complicated, but it's genuinely actually simple.
+ And when we've harped on it on the podcast for a lot, a lot of years now. So if you've been
+ listening for a while, new listeners, if you haven't dug into the back catalog, I do suggest
+ you do that. Um, don't, I'm sorry for the quality and like the first 10, 20 episodes, but you know,
+ we were getting started, uh, but there, there's some good stuff in there too. And so we've talked
+ about this for a long time. So if you are an old, old hat listener, then,
+ a lot of this is going to, you're going to go, oh yeah, I know this. I know this good context.
+ Cool. I got it. Um, and so my, you know, my coaching hat here, um, my, my over a decade
+ of coaching and consulting experience now, um, here's, here's where my personal opinion and my
+ kind of my personal Bayesian analysis comes in where I think everybody responds to training.
+ I think, and I do think that some people have a genuinely larger response,
+ than others, but we should not conflate the idea of non-responders, which I think some people are
+ going to think, oh, I'm not a responder here. Um, we shouldn't conflate that for whether or not
+ there's a heterogeneous response magnitude. Um, where some people, I really do think we do respond
+ better than others. So I've, I've trained people who do kind of, they're not great at the training
+ consistency. And yet I'm like, holy crap, look at the, look at the results they're getting. Um,
+ and yeah, I think,
+ I remember this, you know, this did, uh, maybe 10 years ago, over 10 years ago, the book,
+ the sports gene came out, right? This guy, he had, he's an author. He'd, he'd run, uh, I think D one
+ track and cross country at Columbia. And he always started to wonder like, you know, me and my
+ teammates were doing the same workouts. And yet some of us are getting, you know, are running NCAA
+ qualifying times and some of the rest of us. And, you know, he was kind of lumped himself into the,
+ you know,
+ lesser performing group on the team. And I think that is one of the things that sent him down this
+ rabbit hole of writing this book of figuring out like, you know, it's not that he wasn't working
+ hard and doing workouts. It's just that like for the same workouts and the same training and the
+ same training program, especially when you're running on a big collegiate team where you don't
+ have necessarily as much time and bandwidth to individualize the training for every individual
+ person, you know, why do some people get better faster than others? Yeah. And, and, and I think
+ also, especially for amateurs, amateurs, I think are typically up against some proportion of number
+ one, needing a better recovery, but also needing more dose, which is like, it's, it's an impossible
+ situation. Yeah, exactly. Yeah. So, yeah. But if I train more, I sleep less. Yeah. And, and my
+ family gets angry at me for not being around as much. I'm being always on the bike like that,
+ that is a non-significant amount of stress too. So, um, and so I also find, and I'm,
+ I'm sorry for this. Um, this is my personal opinion. I find that not all the time, but
+ oftentimes some amateurs will confuse being gifted for work ethic because, you know, this isn't like
+ learning math. Obviously some people are better at learning math than others, but I think,
+ I think most people can get to a pretty good proficiency with math.
+ Your personal response to the highest quality of training,
+ you can work as hard as you want. Some people, some of us are just not going to get as far as we
+ would like compared to like, Oh, my cat, one friend only trained six hours a week and I trained 15
+ hours a week. So I should be faster. I, I have trained really well and I did it for a while
+ and I was never, ever going to be as fast as some of my friends were on the couch.
+ Right. Yeah. Um, yeah, I think you,
+ right. You remember you've told the anecdote or ever write about like Bradley Wiggins, like first
+ youth coaches are thinking he's like the world's greatest coach. And you're like, well, no, like
+ Brad Wiggins at 13 was going to get fast regardless. And I've worked with people like that too, where
+ especially early in my coaching career, I found people who were just so good. And I was like,
+ maybe I'm not the worst. Of course that was my perspective. Maybe I'm not the worst at this,
+ self-doubt, a lot of self-doubt on my end. Um,
+ and I think, uh, there were points definitely where I was like, yeah, I'm pretty good at this
+ person won a national championship. We got this person qualified for this, like, you know,
+ qualify somebody for the Olympics and went on to do some good stuff there. Like, you know, they've,
+ there've been some good moments, but I also have to realize that, you know, when I
+ sit down at training peaks every day and I look at the training people are doing, I'm like,
+ it's humbling. Let's put it that way. Like there there's good wins and any
+ coach will tell you this, like, it doesn't, you get your ass handed to you a lot. Um,
+ because you, you, you just keep trying and trying and trying, but especially when you're working
+ with amateurs, that, that proportion of, of dose and recovery is really hard to work with. And,
+ you know, we do our best, but it's, it's humbling being a coach. I would say more often than not,
+ way more often than not. Um, and so, and so, yeah, I think that,
+ I think that, um, generally speaking for a given intervention, the fundamental physiology will
+ respond the same, the same way, but I think the magnitude of response will be different and
+ nobody's really entirely sure why that happens. Um, but I do think that how people respond
+ should be the same. I don't think that there's, there's truly anything like a unique responder
+ where this person only responds to volume. This person only responds to sprint interval training.
+ It hinges more on kind of what we've been talking about,
+ this episode in the last couple episodes. So, yeah. Yeah. So it would be interesting.
+ Oh yeah. Sorry. Go ahead. Oh, you know, it would be interesting, right? If you could
+ somehow manage to get enough resources to get like a hundred people for a study,
+ sequester them away, try to control all the variables, you know, make sure the sample size
+ was had tons of different people with different backgrounds and all these sorts of different
+ things. So you could try to make sure that it cross cuts and all this stuff. It'd be, you know,
+ it'd be interesting. Yeah. I mean, it'd be interesting. Yeah. I mean, if you're, if you're
+ able to do that, if you're able to do that, if you're able to do that, if you're able to do that,
+ if you're able to do that, if you're able to do that, if you're able to do that, if you're able
+ to do that, if you're able to do that, if you're able to do that, if you're able to do that,
+ then, then we can talk. Sounds great. Oh yeah. Uh, all right. We'll get like four people to sign
+ up for that one. Yeah. Maybe. And then three will drop out. Um, yeah. So bullet points here
+ to really run your training as true and equals one without being able to track forking multiple
+ worlds. But Kyle, you're a physicist. Can, can you, we get the, some multiple worlds phenomena going
+ on here? Um, you've seen quantum manium, right? No. Um, come on ant man. Anyway. Yeah. I, oh,
+ I've, I'll have Marvel stuff. I haven't, I haven't seen my stuff for years. Oh, come on. Uh, sorry.
+ Um, Iron Man and the R right though. That was pretty great. Uh, all right. So, um,
+ understand and control your dose. What is your training supposed to improve?
+ Figure out what you're supposed to look at to track. If it's improving,
+ adjust your training to track progress without formal testing.
+ Testing is training and training is testing. After all understand and control measuring your
+ performance and not proxies with things that actually reflect your goal. Understand day-to-day
+ variation and the contributors to the fatigue that primarily influences day-to-day variation.
+ Suss out your training response and contextualize,
+ realize it with your response history, training history, and your recovery environment and compare
+ yourself to yourself and not others. And when in doubt, you can always reach out to empirical
+ cycling. That was a good, that was a good transition for coaching. I'm not, I'm not,
+ not saying that was bad. I was like, Oh wow.
+ Oh, that's my best and worst transition ever. Sorry about that folks. Yeah. Anyway,
+ reach out if you're interested in coaching or consultations,
+ happy to help you implement any of these things. Uh, we implemented ourselves. This is a big way
+ of how we coach again, negotiable rates for students and near pros. Um, so email me empirical
+ cycling at gmail.com. Go follow me up on Instagram at empirical cycling, ask a question and all the
+ usual places. Do you guys know the drill? Thank you so much for listening and we'll see you next
+ time. See ya.

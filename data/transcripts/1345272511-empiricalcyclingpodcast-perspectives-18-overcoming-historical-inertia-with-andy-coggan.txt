@@ -1,0 +1,1276 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Our usual co-host Kyle
+ has the day off today because, of course, we have a podcast guest. And boy, do we have a guest. I
+ know why you're tuning in. So before we get to that, I'm going to ask, of course, that you
+ please subscribe to the podcast wherever you listen to your podcasts. And if you haven't yet
+ given us a five-star rating and you think we deserve it, please give us one. We really,
+ really appreciate that. We have quite a few now. It goes a long way. And of course,
+ also going a long way to helping the podcast is going to be sharing it with your friends,
+ with a couple of kind words, or also sharing it on a forum. And when we see that, we really,
+ really appreciate it. It doesn't cost you any money to do that kind of stuff. But if you do
+ have a couple of bucks you would like to send our way, you can send it to empiricalcycling.com
+ slash donate for a couple of donation options. And of course, if you have any coaching or
+ consultation inquiries, that is the ultimate Patreon for us because we don't actually have
+ one. So if you have any questions, please feel free to email us at empiricalcycling.com.
+ If you want to hire us to coach you, or you want to hire us for a consultation,
+ now's a good time to do it. Getting ready for next year, wrapping up the previous year.
+ Our time is your time. We can talk about training concepts. We can look at your files.
+ We can help you plan out the next season. We can help you figure out strengths and limiters and
+ race strategies and all kinds of stuff. We are here to help you. So reach out empiricalcycling
+ at gmail.com, of course. And of course, if you have any questions or comments,
+ shoot me an email to the same address. And of course,
+ we've got the show notes up on the website at empiricalcycling.com. We do have a couple notes
+ from today. We talk about a couple of papers and we've got links to all that kind of stuff.
+ And of course, we almost got to listener questions in this episode. Listener questions asked up on
+ the Instagram that is at empiricalcycling, of course. And so we've got the weekend AMAs up
+ in the Instagram stories. And during the week, whenever we record, I usually ask people to ask
+ us additional questions on that kind of stuff. So we get to listener questions.
+ And Andy and I talked for about an hour 45 and we didn't quite get to any listener questions.
+ It was on the list, but he had to run and he was already so generous with his time. I didn't want
+ to try to take up any more, but he is also such a nice guy. He volunteered to do another podcast.
+ He volunteered for it. I didn't ask him for it. So Andy Coggan, thank you so much for being so
+ generous with your time and being such a good conversationalist. I had a great time talking with
+ you. And you know what? I think we touch on a lot of stuff in this podcast that I think a lot of
+ people have been curious about with Andy over the last couple of years. His social media presence,
+ he's well aware of his online persona and all that kind of stuff. We touch on that. Well,
+ we kind of do a little more than touch on it. We kind of go deep into his social media presence
+ or lack of it these days. And we, you know, talk about his motivations for his,
+ we talk about his, some of his previous research. We don't quite get into his current stuff on
+ beetroot juice, although we are going to talk about it next time. I have a bunch of stuff that
+ we never quite got to from this episode because each topic, you know, it really, really went to
+ a lot of different areas. And, you know, we do talk about, you know, the hour and FTP as a concept
+ and thresholds and all that kind of stuff. You know, we also go into VLA max and its utility or
+ not, as it were.
+ Um, and we, you know, we talk about the history of exercise physiology. He's written a couple
+ chapters in books on exactly that. And, um, you know, I think this was, um, probably every podcast
+ I say is probably one of my favorite conversations I've ever had, but, um, you know, it's Andy Coggin.
+ So, uh, it's, it's hard to top and, um, all right. I know you're sick of me rambling already. So am
+ I. So, um, without any further ado, let us, let's get right into this interview and I will see you
+ on the other side.
+ How are you doing? By the way, congratulations. That's a, that was a great chapter, um, on the
+ history of exercise metabolism. I thought it was fantastic reading.
+ Oh, thanks. Uh, yeah, that, uh, yeah, I know Glenn Connell, Glenn McConnell going way back.
+ Originally he had asked Dave Costell to write that chapter and Dave said yes. Then he decided
+ he didn't have the energy and then he said no. So I seem to have become the go-to guy
+ because I had gray hair.
+ Uh, but I'd previously written a much lengthier chapter on the history of exercise metabolism for,
+ uh, Charles Tipton's book. And so it's a bit of a struggle. It's like, how do you write the same
+ history and not, uh, plagiarize yourself? You've signed copyright to the original publisher.
+ Was that the, was that the 2014 reference that came up a couple of times?
+ Uh, yes. Um, let's see if it shows up.
+ Oh, yeah, it's a really cool book. And, uh, actually that's one of the figures that I've
+ always loved. I use it in my chapter and then I was thrilled when they put it on the cover.
+ Oh man. Yeah. Oh, that's so great.
+ So it's much lengthier and I had to figure out, okay, how do I condense all of this down
+ and say it a different way? And I had fun with the, uh, the military analogies in there, right?
+ Yeah. Um, well, cause I think, I think the history of exercise physiology is something,
+ I've always been fascinated by, like I've, I've read, um, you know, the autobiography from Hans
+ Krebs. I've read, um, uh, Herzog's reflections in muscle physiology and stuff like that. And,
+ um, I, I love all those, uh, well, I wouldn't even say they're old manuscripts. Um, but I think
+ there's, there's a, um, uh, you know, 10,000 foot view that happens when you write about,
+ you know, the research instead of the research itself. Um, do you have a 10,000 foot view
+ of your own research that maybe you'd want to turn into a book someday? Cause I'd read it.
+ No, actually that's probably one of my, uh, my weaknesses, my personality trait as I tend to be,
+ uh, narrow and hyperly focused. It gets me into trouble. I dive deep into, you know,
+ writing a paper and I assume that, you know, readers will have the necessary background and
+ then they don't. And, you know, my bad for not realizing that, et cetera.
+ Um, well, I think, I think actually that, that sounds familiar in a lot of ways because, um,
+ like I've, I started this podcast as a, um, you know, kind of an advertisement for,
+ you know, my coaching services. Um, and it, it forces me to engage the audience in a way that
+ I cannot assume that they have a certain level of background knowledge. And, you know, we've
+ gotten into like glycolysis and we've gone into beta oxidation, you know, we've gone into the
+ I've got people who tell me that they listen to the, listen to the podcast episodes several times.
+ Like just, it's like a biochem lecture and I'm surprised that they're interested, but I,
+ I think it's great because I think in a lot of ways, um, you know, it does show that there is
+ a hunger for this kind of education at least. Um, have you found the same over the years?
+ Yeah, there definitely is. Uh, there aren't many places out there, unfortunately, that are doing a
+ And of course that's just a practical reality. There aren't very many people who are
+ both, uh, you know, knowledgeable on a topic and paid and willing to engage with the public
+ and can do so in a good manner. Uh, but speaking of podcasts again, Glenn McConnell, he is now a
+ professor emeritus from Victoria university, and he's decided to start a podcast. Really?
+ It's called, uh, inside exercise, but he's going around and interviewing,
+ uh, exercise physiologists and kind of giving an insider's view of the field.
+ And, uh, it's only started, I think the first, I was his first guest and he only
+ launched it, I don't know, six weeks ago, two months ago or whatever. He's got a long list
+ of names signed up for it. So it might be something that you would find interesting.
+ Oh, absolutely. I mean, uh, cause I think a lot of the, a lot of the training podcasts out there,
+ um, they don't want to go as deep. I think,
+ because you get a lot broader of an audience that way. And I'd rather make myself happy
+ and have fewer people listen. Uh, like my, my last interview episodes doing terribly. It also
+ like only half went up to platforms. I don't know what happened, more technological shenanigans,
+ I guess. Um, but I thought it was my favorite interview I've, I had ever done up to, up to
+ this point. Although I, to be honest, I was so nervous about you coming on because, you know,
+ you've been, you've, you know, you've been this like giant looming over the cycling training
+ world for such a long time. Um, man behind the curtain. Yeah. You're the man behind the curtain.
+ I like being the man behind the curtain. Although, you know, I think if we, um, you know, if we dig
+ into like the old slow Twitch forums and, you know, the old wattage forum and everything, um,
+ you know, there, there was a, you know, a long in-depth look at the man behind the curtain
+ back in those days. Yeah. I remember back in the, you know, rec sport triathlon and rec bicycle racing
+ the web. So, uh, you know, I'm a man with an opinion, no doubt. Um, the interesting thing is
+ how that's led the world at large to have a very distorted view of me. You know, I get people who
+ assume I'm either an applied sports scientist or, uh, I won't say worse, but, uh, more incorrectly
+ that I'm a coach. No offense taken. Yeah. I mean, well, it's a worse mistake on their part. Um,
+ but I always described myself as an exercise physiologist. And then within that context,
+ since I spent the vast majority of my career on soft money in medical schools, uh, chasing NIH
+ dollars, I've stood out. I've written many more grants than I have papers and very little of my
+ research, uh, directly hits upon sports performance. So everything I've put forth into the world is
+ a hobbyist. Right. And then people just think that I'm, you know, who do you coach? Like nobody.
+ I mean, that was, um, I, I record the intros and outros for these episodes, uh, separately. And
+ that was one of the things I was going to mention is that you are distinctly not a coach. Um, cause
+ I remember, uh, back in the WKO four days, which is how, um, you know, right when I started coaching,
+ I was a little late for the WKO three stuff. But, um, I remember you, um, you know, you were telling
+ a story about your wife, uh, as a pursuiter and doing a couple different, you know, training
+ things. And, you know, you would, you would distinctly mentioned, I am not a coach. I am
+ not training her like, um, but I think, um, well, I do want to ask you about that a little later.
+ Cause I, I think that's a fascinating story, but I think, um, I think one of the things that, um,
+ where was I going with this? Hold on one second. I have not had
+ enough coffee today. Let's see. Um, oh yeah. Um, you know, I, I think a lot of people might
+ be forgiven for mistaking you for being a coach because, you know, you've built so many tools that,
+ you know, cyclists of all levels use to train. So, you know, it, I mean, I thought you were a
+ coach at first too, uh, until I heard that you weren't. And then I, you know, started reading
+ your research and I was like, oh, okay. So, um, you know, do you think that being,
+ not a coach helped you develop tools like, you know, CTL and TSB and FTP and things like that?
+ No, not necessarily. Uh, you know, I've, I've been studying exercise physiology since 1976
+ and I started riding a bike in 1974 and racing in 75. So I was a cyclist before I was an exercise
+ physiotherapist. Uh, while I have never had any desire to coach people or any experience coaching
+ people, uh, I obviously though have, you know, deep roots in cycling. So, you know, it, I've,
+ I've been asked a couple of times to consult in the world of rowing and assist people get up to
+ speed with rowing power and, you know, develop tools.
+ And this kind of stuff. And I found it quite challenging because I'm not a rower. Yeah. So I,
+ so I couldn't, uh, intuitively and personally relate to things. Whereas in cycling, uh, I do
+ have the, the cycling background. And so the applications there are, you know, come far more
+ naturally to me. Um, I mean, have you ever wanted to, um, you know, to, to write more on the, you
+ know, kind of training physiology, you know, crossover, like how to bridge the two.
+ Not, uh, especially, um, you know, one of the things about like, even our, our training and
+ racing with a power meter, this was an idea of Hunter Allen's. He says, we should write a book.
+ We were at a, uh, USA cycling coaching webinar seminar in person, actually, uh, in Boston and
+ Hunter and I were sharing a hotel room and he's like, you know, we should write a book. And that's
+ a great idea. Great idea. Great idea.
+ We grabbed the laptop. We mapped out the, uh, outline of the book, you know, ideas are flying
+ left, right, and center very quickly. But then it took a couple of years before it finally found a
+ home. And then it actually became the work of writing the book, which just makes the publishers
+ a bunch of money. So my only contributions to any additions of our book were, uh, all the ideas
+ and then like recycling blog,
+ posts or lengthy answers I'd put into web forums or that kind of thing. I did very little writing,
+ which is why Hunter is the first author on all the books. Um, I mean, writing, you know,
+ writing on anything is, uh, it's work and I've got plenty of writing already to do. Um,
+ I just sent you a copy of my C CV and you'll, you'll see in there, um, I've written far more
+ grants than I have papers. Um, and I've written far more grants than I have papers. Um, and I've
+ And while the success rate on the grants is, uh, reasonably good, um, it still means you've written
+ an awful lot of grants that don't get funded. Yeah. And, you know, an NIH grant, it's like,
+ well, you got to generate maybe, you know, 13 pages of actual text. And then it ends up being
+ padded out with all of the government forms, et cetera, to being 150 page grant. So many months
+ to put it together and it's, you know, you're drilling dry holes. So,
+ uh, the notion of writing a book to make a publisher money. Yeah. Not so much.
+ Um, I mean, you know, we could at least, uh, or, well, you could at least
+ publish it yourself electronically. And, um, you know, that seems to be the route that a lot of
+ people are going. I've bought a lot of books that look really, really interesting. Um, you know,
+ on all sorts of exercise topics. And, uh, I'd say like one in five, it was like probably,
+ you know, worth getting, but I think that's kind of what a publisher can weed out a little bit
+ sometimes. Right. When, when Hunter and I, uh, wrote that book, we contemplated just self-publishing
+ something, uh, obviously, you know, you could sell it for less and make more money, but ultimately
+ we decided that, you know, doing it the traditional route was best because, uh, it would give a
+ broader platform, get the word out about it. And, uh, Renee Hardeen was our editor on the first and
+ second edition.
+ And for the second edition, especially she did a fantastic job because Hunter and I have very
+ disparate writing styles. And then she had to somehow weave those together so that, you know,
+ when you're reading the text, you don't come to a screeching halt and say, okay, that was the part
+ that Hunter wrote. Now, clearly this is the part that Coggin wrote. Yeah. So she, she did a fantastic
+ job. I think she did too, because after having read so many of your research papers, I can kind
+ of tell that she did a great job. I think she did a really good job. I think she did a great job. I
+ think she did a really good job. I think she did a really good job. I think she did a really good job.
+ to be about your style. Um, and you know, and that's the kind of thing of like, you know,
+ reading, I don't know, Supreme court justices. I hear people can do that kind of thing, figure out
+ their writing style, but like, yeah, she did a great job. Cause the first time I read that back
+ in, I don't know, 2008 or something like that, uh, I couldn't tell. Um, but you know, um, on the
+ subject of education, actually, I was curious, um, you know, if, uh, if you were Hunter maybe
+ thought that, um, you know, if the book had been published, you know, you could have written a
+ published, you know, like in 2015, instead of, you know, way back when it was, um, you know,
+ would you have done more like follow-up education with it? Kind of the way that Tim does with WKO
+ Hunter might have, you know, I had, I never had any desire to
+ have an alternative career to academia. Uh, so, you know, there are things beyond
+ the message and the medium at play that maybe wouldn't have made that possible. But, uh, I mean,
+ Hunter certainly, uh, one year in particular, I think he told me he spent 250 years, 250 days on
+ the road giving talks. And a lot of it was, you know, people were familiar with Hunter Allen,
+ the cycling coach, because he wrote the book. Um, so it didn't come out necessarily in a, you know,
+ news or videos or, you know, but he was, he was certainly attempting to educate the entire world
+ via multiple, uh, avenues. Yeah. Um, how do you feel about how a lot of the, cause I know that,
+ you know, you've talked a lot about how, you know, training levels were, you know, descriptive,
+ not prescriptive and, you know, no definitions of FTP, like the wording in the book, like,
+ did you anticipate any,
+ any misinterpretation of that? And cause I, I went back and I looked in the third edition,
+ which I haven't read thoroughly, but I looked at a couple of key spots and I was wondering if some
+ of the phrasing had changed and it hadn't, um, had you thought about maybe, uh, adjusting some
+ of the language to, you know, match things like TTE and whatnot? Uh, there was some of that in the
+ third edition to try and, uh, address people's misconceptions. You know, a lot of the
+ misinterpretations were, you know, a handful of individuals who are, uh, vociferous on the web and,
+ you know, they like to find somebody to attack. And of course, if you're prominent, you're going to
+ end up with detractors. Um, a lot of the misconception as well is it's, you know,
+ uh, really, I think reflects the success of the ideas or their penetration.
+ It's like everybody wants to jump on the FTP bandwagon and attract athletes,
+ to coach because they present themselves as being, you know, on top of the latest and the greatest,
+ but in the process they distort the message. And then, you know, somebody else picks it up from
+ them. And the first, you know, it's like, it's like the party game where you tell a story and
+ it goes around the circle. By the time it comes back to you, it's completely altered, you know?
+ So in some cases it's been people who have ulterior motives. And in other cases, it's simply because
+ it's second, third, fourth, fifth, you know, ninth hand, whatever. I mean, uh, as examples of that,
+ I was, I was just before we met here, I was, uh, came across an article on, uh, was it Zwift
+ Insider or something where they referred to me as sort of the grandfather of FTP.
+ I mean, they're familiar with FTP, but you know, they came into the sport later and they're not
+ really entirely certain where the idea originated. And so, you know, I think it's, it's, it's, it's
+ they can't necessarily track down the history. So they want to tip their hat and give me credit,
+ but they don't want to be wrong. So they sort of, right. And then also currently, uh, on a web
+ forum on slow Twitch forum, um, there's a thread that somebody started where the title is along
+ the lines is power from a 40 KTT, a valid estimate of FTP. I mean, that was the original basis of it.
+ So it just shows you how much, you know, as time goes on, the message gets watered down,
+ changed, et cetera. Well, I think also there's just so much information out there for people to
+ read. And, you know, a lot of it is not, you know, the original, um, derivations of this kind
+ of thing, because, you know, you and coil were using like MLSS or basically FTP. And a lot of
+ your studies, like, you know, way back in the day, power. Yeah. Yeah. Yeah. And, and, and, and,
+ and I, I, I went back and I was thinking like, oh, obviously this is where FTP came from.
+ I always laugh when people say, you know, FTP isn't real. It's like FTP existed ever before I,
+ you know, pinned a label on it. And in fact, that was the reason FTP had to be, or was
+ coined really it's a, it's a pedagogical construct. How do you explain to coaches and athletes,
+ you know, concepts related to exercise physiology? They've all heard of lactate threshold. Well,
+ there's, you know, 20 plus definitions of lactate threshold in the scientific literature.
+ The scientists themselves can't agree exactly how to define it. Yeah. And then that information
+ gets distorted as it, what makes its way out to the practitioners, the coaches and athletes,
+ what they intuitively know is there's a certain kind of fuzzy line. If I cross,
+ that line, I know my time is limited and then the gorilla is going to jump on my back.
+ But if I stay below that, I'm okay. So I've heard people refer to this as coaches threshold,
+ right? Well, that happens, that happens to correspond to, you know, maximal lactate,
+ steady state, maximal metabolic, steady state, any of a million different terms in the scientific
+ literature. Whereas many of the definitions of lactate threshold are, you know, the first
+ increase in blood lactate, a significant increase in blood lactate, a significant increase in blood
+ lower intensity. So you have athletes going to the laboratory and they're told their lactate
+ threshold is 170 Watts and they know they can do 220 Watts for a 40 KTT and they're left scratching
+ their heads. Right. Yeah. So my attempt to solve that problem was to tell people, forget about
+ lactate. We got power. Let's just focus on the power data, you know, and try and express these
+ ideas in terms and words.
+ You know, that you can relate to sort of thing. Yeah. No, I, I, I a hundred percent agree. And I,
+ I mean, in some ways I would actually argue that FTP is more real than, than a concept like even
+ critical power. Well, that's I'm baiting you with that one to be fair. I think you're baiting me
+ with a lot of stuff. I saw a post just today, people are going, well, you know, FTP isn't
+ physiological, like critical power. It's like, okay.
+ You're expressing performance under some conditions in terms of a power output in Watts.
+ The exact value you get depends upon the particulars of how you do the testing.
+ Why is CP real and FTP is not, especially since CP is FTP. Right.
+ Yeah. I mean, fundamentally they're, they're looking for the same concept. Yeah. And CP has
+ kind of evolved. CP has been evolved by people like pool and Andy Jones to try and be what FTP
+ has always been. Right. Yeah. Yeah. Well, I mean, I kind of view FTP as like this overarching
+ umbrella. And then under that you could find, you know, critical power, maximum lactate,
+ steady state, you know, ventilatory threshold, the nurse break point, you know, et cetera, more
+ science.
+ Science E detailed concepts, but as they are more rigorously constrained, they also like start to
+ separate from each other. Yeah. You say critical power. It's like, well, okay. Now classically,
+ that means you got to do multiple tests. You got to apply a mathematical model. What mathematical
+ model? What derivative model? What derivative model? What derivative model? What derivative
+ of tests, blah, blah, blah, blah, blah. Whereas FTP is a broader, more overarching concept.
+ Yeah. We used to, on the Waters list, we used to have pithy power proverbs.
+ I remember those. Yeah. The joke, the behind the scenes joke was we were going to come up with a
+ 365 page book with pithy power proverbs, one for every day of the year. It's going to sit
+ on your toilet tank. So when you're using the restroom on your board, you pump through there,
+ right? But one of the pithy power proverbs, and it's kind of deep, but I like analogies.
+ It comes back to how you define FTP. It's not exactly 60 minutes. It never has been exactly
+ 60 minutes, right? So squiggle for approximately, squiggle 40 kilometer power or one hour,
+ squiggle one hour power is the FTP as S is the sigma. You've got a population out there.
+ It has a variance. You can't sample every member of the population. Therefore,
+ you never know the variance. You can only estimate it, right? From a sample. Well,
+ you never know FTP, but there are lots of ways that you can get a good estimate.
+ Yeah.
+ Because it's-
+ It's a concept.
+ I mean, it's so convenient too that we have power. I would actually say that
+ it's the concept that exercise physiology had been looking for for so long, ever since the,
+ you know, pretty much the, you know, probably since Hill has all looking for, you know,
+ what's this threshold over which we fatigue faster and under which we fatigue slower.
+ And, and even being-
+ And even beyond that, application of all kinds of knowledge from exercise physiology,
+ at least in the, in the world of cycling where power is fairly easy to measure.
+ Yeah. The invention, development of the power meter SRM by Uli Schrober really opened the
+ gateway there. And of course that was their tagline back, you know, they'd have the SRM
+ van out in Colorado, SRM, we make your bike a mobile ergometer.
+ Yeah.
+ That's great.
+ And it wasn't, it was really, I got a chance to use an SRM courtesy of my friend, Jim Martin in
+ 1995. And about at the time, an SRM cost as much as a good racing bike. So I loved it,
+ the idea of having the data, but I couldn't justify the cost. And then PowerTap came out
+ a year or two later, and I was a, they called it pilot user, beta tester for them. And that's my,
+ that's my entry into the power-based training world.
+ Do you think that other sports will, you know, will find a revolution in training if, if, and when
+ they're all able to measure power?
+ I made very depending upon the sport. I've was a consultant for the stride foot pod.
+ And the, in it, my interest in that was, uh, and to make a play on SRMs tagline and as Steve McGregor
+ kind of put it, stride could claim, you know, we make your body a mobile biomechanics lab. Now the
+ guys behind that are, uh, two, uh, you know, very successful scientists, electrical engineers, who,
+ uh, get the research funding from national science foundation. And, but they're also runners and they
+ said, well, how can we apply our knowledge out there? In their case, their knowledge is in
+ microelectronics and, you know, low energy consumption. That's kind of thing. And they
+ tried for many years to sell a foot pod that turned you into a mobile or mobile biomechanics
+ lab. And the problem was that your average runner, you know, you're not going to be able to run a
+ run or had a hard time wrapping their mind around it. And then they looked around and they said,
+ boy, power is really catching on in the cycling world. We can calculate running power. What if
+ we presented one number power? Um, but running is a sport where the environment is
+ for competition is generally a bit more narrow than in cycling.
+ I described something like cycling or cross-country skiing is like free range activities. You go
+ up hills, you go down mountains and all kinds of weather, et cetera. Whereas, you know, distance
+ runners don't care about sprinting. Sprinters don't care about running long distances. A cyclist
+ often has to do both. Um, and if you want to do a structured workout, uh, as a runner, well, I can
+ go to the track and I can run in circles with a stopwatch. So I don't think running is necessarily
+ going to be revolutionary.
+ Do you think that, um, cycling was ripe for it because of the variety, um, you know, the free
+ range-ness, uh, of, you know, and the variety of, you know, races, like, you know, we've got a
+ sprint, we've got, uh, you know, accelerate repeatedly. We've got to go for hours or, you
+ know, four minutes. Yeah, I think so. Uh, my, my son's a swimmer. And so I started thinking about
+ similarities and differences across various sports. And, you know, even as a cyclist myself, I had no
+ exposure to track cycling until I, or limited exposure to track cycling. It's not that popular.
+ There aren't as many velodromes around until I met my wife. And then you kind of realize that if all
+ you ever do is road cycling or gravel or mountain bike or something like that, it's like going to
+ the Olympics and, you know, only watching the marathon on the road and not going into the
+ stadium to watch the track and field events. You know, you really need the, uh, track cycling all
+ and BMX all the way out to grand tours to kind of get the entire span.
+ Uh, yeah. At the same time, we have so many different events in cycling. A lot of different
+ body types can be successful. And then you have drafting, which means even in the same race,
+ right. Whereas if you line everybody up for the marathon, you know, there's not going to be very
+ many people who are 200 pounds at the pointy end of the field. Right. Um, so I think cycling is,
+ uh, I don't know if it was ripe for it, but, uh, it certainly means that there's, uh,
+ a broad swath, uh, of applications or potential. Yeah. Um, um, let's see, what do I want to ask you
+ next? Cause I have a, I have a lot of really, um, kind of related things here. Um, actually I think
+ a lot of people are going to want me to ask you, um, on the about an hour thing. I'm sure you've
+ tackled this a thousand times. So I apologize for asking you one more. Um, you know, when I think
+ you say about an hour,
+ a lot of people figure like 55 to 65 minutes, something like that, that kind of range. But,
+ you know, like, you know, if we're talking like a 40 K time trial, um, like, uh, like our very
+ own coach, Corey Lockwood just broke the national record under 45 minutes for 40 K. So like, you
+ know, I, and I, I also think that on, in that respect, like, um, you know, um, that I think
+ that's where, you know, further education, you know, with WKO five has actually,
+ uh, done a lot more to like retroactively, you know, help and be like, oh, look, see,
+ and he was kind of right all along, um, as, as you so frequently have been.
+ Yeah. Um, you know, my, uh, as, as you mentioned earlier, doing my, uh, dissertation with Ed
+ Coyle, who's very interested in performance, we obviously did a lot of lactate testing and
+ performance testing and looking at determinants of performance, you know, uh, et cetera. So that
+ was my background.
+ And, you know, back in the day, I had probably read every English language article there was
+ on lactate threshold. Um, so that was my perspective on things. And I've always viewed,
+ you know, FTP as, you know, a functional surrogate for something like maximal lactate
+ steady state. And in a endurance trained individual, maximal lactate steady states
+ and intensity that can be maintained for, you know, 40 to 70.
+ 70 minutes, you know, um, on average, you can go back and pull various studies, et cetera,
+ but it does seem that the fitter you are, the longer you can maintain it. If you're an untrained
+ individual, perhaps only 30 minutes, but FTP is for competitive cyclists, trained individuals,
+ right? So we know we're going to be shading toward the long end of that duration. Then you sit there
+ and you look at the shape of the exercise intensity, duration relationship, and it's,
+ you know, a very,
+ shallow slope. So if you're talking about the difference between 45 minutes for, you know,
+ the new national TT record or a cat four who takes an hour and five to do, uh, his, you know,
+ state 40 K TT, um, the difference is a few percent in terms of the power output.
+ Is that why in WKO five, we have a log scale so we can actually see it a lot better.
+ That was actually, uh, Kevin Williams and Hunter Allen,
+ when they were developing what evolved into the original WKO software, uh, that I met Hunter and
+ Kevin at a, uh, USA cycling, the very first meeting on power-based training in Philadelphia.
+ Uh, I was one of the speakers along with, uh, Dean Golich and, um,
+ um, who is behind scratch labs.
+ Oh, Alan Lynn.
+ Alan Lynn. We were the three speakers. Hunter was there because he saw power-based training
+ as the coming thing and had athletes who'd gotten power taps, wanted to know more about it.
+ Kevin was one of the athletes he was coaching who had a power tap. So they literally went away
+ at the lunch break and said, okay, this is Hunter's thinking, right? Um, Chris Carmichael
+ is the guy who coached Lance. Joe Friel wrote the book. We're going to be the people who write the
+ software on a paper napkin at lunch, literally. And then, you know, went away from the meeting.
+ And then a few, uh, you know, a few weeks or maybe several months later, I get an email from
+ Hunter and they've got a few questions and they gradually started sharing, you know, Excel
+ spreadsheets and, uh, pulled me in. So it's Hunter's fault. It sucked me into this whole thing.
+ But one of the early things they decided totally independently was, uh, if we throw time on a log
+ axis, it helps better.
+ Reveal the detail, uh, at shorter durations. Now it's, uh, you know, AV Hill did that, you know,
+ way back in the twenties or thirties or whatever. So you can find plots from his classic papers that
+ show the same thing, but, uh, Hunter and Kevin independently came to the same conclusion.
+ Yeah. I mean, it does though. It ends up being, you know, the average person that's all they've
+ ever seen. Right. And they don't understand log plots. And so they think that your power goes
+ this. It's like, look, there's an option. Just click linear scale. It really goes kind of like
+ this. Yeah. You know? Yeah. It really does look like just that large, just hyperbola like from
+ which is the critic. One of the critical power models is to assume a rectangular hyperbola.
+ Yeah. But that model has evolved so much. Um, and I don't want to, you know, give away all
+ the references for the, you know, the WKO five model, but, um, you know, it, it evolved so much
+ into something that really well, um, you know, mimics the, the human power curve. And then,
+ you know, especially with cycling, but I assume most sports are similar. Um, and then, you know,
+ you really just made it fit the data so well. Um, and it's, it's, uh, it's just been such an
+ invaluable tool for coaching. And I don't think, um, like I could still coach really well without
+ it, but it makes, you know, tracking fitness, um, so much easier. Yeah. And this was a point I made
+ any of the USA Cycling seminars where I was, you know, giving the ex-phys 101 talk and trying to
+ bring people up to speed, I was telling coaches, you know, you might think you really need to know
+ a lot about exercise physiology to be a good coach, but the reality is you don't. As long as,
+ you know, if you're walking in other people's footsteps with respect to the training aspect,
+ and as a coach, you have to be, you know, a psychologist, you have to be a planner,
+ you have to be a bike fitter, you wear so many hats, you could be a highly successful coach
+ without ever having, you know, really deep understanding of exercise physiology.
+ Now, if you want to stay on top of the most recent literature, or if you want to, you know,
+ go beyond the tried and true, then the more you know about exercise physiology, the better.
+ But yeah, at the end of the day, you know,
+ make more power.
+ I mean, I think getting into exercise physiology, I think a lot of people
+ think it's either necessary, or they're looking for shortcuts with the training.
+ And the deeper I go into it, and you know, I'm only, I only graduated, you know, school,
+ you know, in like 2014. So I'm not even as into it as long as you are. And even I'm going,
+ you don't need to know all this stuff. You can really like, you don't need to bridge,
+ the gap between all the physics, all the literature and training methods. But once in a
+ while, you know, we find something that's, you know, oh, wow, I didn't know this. So
+ is this applicable to training? Yes. Like, well, like when you tweeted my, my article about
+ you're training too hard for criteriums showing the aerobic resynthesis of creatine phosphate.
+ I think a lot of people started taking me seriously that day. So thank you for that,
+ by the way. It shows that your, your opinion still has a lot of weight, but,
+ actually, now that I think about it, where have your tweets gone?
+ I went looking for that the other day, and it was, it was, do you tweet and delete?
+ I have stepped away from the internet due to
+ too many stalkers and call it changing job responsibilities. So again, I spent the vast
+ majority of my career,
+ in medical school setting. I was fortunate enough to be a finalist for the Doc Councilman
+ Sports Science Award from, you know, USA, US Olympic Committee. If I had won the award,
+ I would have had, you know, lunch with President Bush at the time, right? So nice honor, right?
+ And I am very grateful to Sam Callen for nominating me. At the time, though, I was working for WashU,
+ and they would have not,
+ chaired one iota. I'm a PhD in a clinical environment. The only thing I'm good for,
+ I mean, they're not going to let me teach doctors, right? If I were in the basic science department,
+ yes. But if you're in a clinical department, no. The only thing I'm good for is writing grants and
+ generating indirect cost monies. So I, you know, I can do my professional thing, and then I can run
+ my mouth on the web on the side. And, you know, it's kind of like different worlds, right? Yeah.
+ But then when I came here to IUPUI, you know, you start finding, you know, students in your
+ classes that know of you from your online presence, et cetera. And it starts getting a little too
+ close to home. So I figured the safest thing would be to just shut all of that down.
+ So you didn't shut it down necessarily because, you know, it was becoming a pain in the ass to
+ argue with so many trolls online. Or, you know, and also I'm sure there were a lot of people who
+ you know, nice folks out there too. Or was that part of it? Do you think like,
+ oh, like this is an easy excuse to just step away? Yeah. Yeah. You burn out arguing with the trolls,
+ I guess. Didn't take me that long. You do have some endurance. Yeah. You did it.
+ But yeah, 30, 40. I don't know what that says about me.
+ Yeah. But it was more of a pragmatic than an emotional decision, I would say. That makes
+ sense. There wasn't, there wasn't really any upside to, you know, continuing to maintain
+ a presence online. Yeah. So. Yeah. Do you think there's, do you think there's value in it in,
+ you know, for some exercise physiologists? Like I can't, yeah,
+ I can barely go like three clicks without seeing Steven Seiler or Keith Barr and, you know, not to
+ say that that's a bad thing. Cause I, I really like what the kind of stuff they put out. You
+ know, do you see that as a benefit or a detriment or? Well, the, the, the younger folk, and now see
+ I'm aging myself. They truly believe in the importance of a social media presence as a
+ scientist. There are data out there to suggest that, you know, papers that get tweeted more,
+ get cited more, et cetera. There, if you go to the American
+ College of Sports Medicine meetings, they'll run separate talks clinics on, you know, how to handle
+ this as a young person. But if you view the analogy is often presented, you know, science is
+ this great big edifice and a single paper is simply a brick in that edifice. And maybe it's
+ the keystone of an archway. And maybe it's, you know, the paper you published is, you know,
+ part of the foundation of something that never was built. Right. That's for history to judge.
+ So as a scientist, I simply want to do the best work that I can, you know, pay the bills,
+ scratch my intellectual itch, be proud of what I've contributed and, you know, let time decide
+ whether it was valuable or not valuable. Well, lucky for you, you've written that
+ history a couple of times now. And in that, in that, uh, well, in that context,
+ you know, tweeting about your research, you know, uh, giving Ted talks. I mean,
+ the, the, it varies with country as well, but as you know, the system here in the U S is built
+ around NIH dollars. And, uh, the only person I know who is a highly successful NIH funded
+ scientist who also maintains a very prominent web presence is Mike Joyner.
+ But that's because this is a guy who must have boundless energy. Right. Yeah.
+ So, and then, you know, again, coupled with the fact that most of my career has been in the med
+ school setting, uh, it's all about, you know, getting funding. So I look at my own CV and it's
+ like, ah, okay, great. You published some papers, but the thing that, uh, I'm most proud of actually
+ is I did my job. I met the job expectations by staying funded. Um,
+ cause that's what I needed to do, what I had to do, what I was expected to do.
+ Um, and it's the, the saying in the medical school environment is an NIH dollar is worth $2.
+ It's one, it's $1 to spend. And then it's $1, a prestige kind of thing.
+ Oh yeah.
+ And so being in the, being in the medical school world, like being at Wash U, you know,
+ one of the top medical schools in the world, it's like, did I ever interact with anybody
+ with a IQ of less than 120? Um, and you're around,
+ really smart people all the time. They walk in the door and they have their wall with their 23
+ Nobel prize winners or whatever. Um, and it's like, okay, I know my place. I'm just somebody
+ off studying exercise cause I got interested in high school. Uh, but swimming with the sharks,
+ you got to survive. I'm proud that I survived. Um, I mean, no easy feat for sure. Um, I mean,
+ I, I, back when I was in school, um, I was, um,
+ you know, I was, um, in, uh, in class, my, my biochem two class was with Hans Kornberg
+ and I, you know, just, uh, just a huge intellect and just a massive presence. And I was, I'm like
+ in awe of this guy day one. I'm like, Oh my God, I'm so excited. Um, and I thought, man, I want to,
+ I want to do research like this guy. Then I asked one of my professors, like, what's it like to do
+ this? And they explained the whole thing. And I was like, uh, I, I think I'm just going to be a
+ lab rat or I'm just going to keep riding my bike or I don't think this is for me.
+ It's a tough world. Yeah. If research were easy, everybody'd be doing it. True. Yes. Yeah. I mean,
+ I mean the best that, you know, us coaches have is like, you know, we can get a, we can get a
+ Moxie or we can get a VO two master and do our own little experiments on does this training
+ intervention work better than this one? Um, and I think that, yeah, that's, that is interesting
+ how, you know, technology is evolving things, the stuff that the people back in the, you know,
+ the early part of the 20th century had to spend.
+ You know, days and hours to collect the data. And nowadays you have basically the Star Trek
+ tricorder and you hold it up and you get it instantaneously. Um, doesn't mean we're any
+ smarter now. We just have, you know, more convenient tools. We can go faster. The other
+ thing that I think that many people don't appreciate is how much variation there is
+ from one country to another. Uh, you know, there are very few people I know, uh, in exercise physiology,
+ in a medical school setting, just because of the way things are, uh, structured and
+ there's very little funding to do true applied sports science type research. Whereas, uh,
+ in the heyday of the Australian Institute of sport, you had people like, uh, Louise
+ Burke, John Holly, John Holly, you know, Dave Martin, et cetera, getting funding from the
+ Australian government in order to study elite athletes, try and win Olympic medals. Um,
+ the Canadian funding system, it's a more, I mean, your ideas matter and the importance of your
+ ideas matter, but your pedigree also matters. So if you're, you know, if you trained in the right
+ labs and once you get on the bandwagon, you know, you're still on the bandwagon. Um, so, and then
+ Europe is different as well. So I think, uh, you know, everybody has to operate within the
+ this information doesn't necessarily realize, uh, how the world revolves.
+ Yeah. I mean, yeah, the world of cycling coaching is, is, is very different from the academic world.
+ And I think that's a good thing sometimes. And I think also that's a bad thing sometimes,
+ uh, because, you know, you can, you can do some great advertising and put some
+ really weird ideas out there and people are going to go, Oh, cool. I'll spend money on that.
+ This is going to be the secret that gets me from, uh, you know, 250 watt cat four to a
+ 450 watt world to our pro. Right. For sure. VLA max. No, wait, no, you said it.
+ Let the record show that I only plan to say it.
+ Um, well, so I was actually going to ask you a bit more about the history of exercise physiology.
+ But I think now that we brought up VLA max, why don't we just dig into this one?
+ Um, okay. Do you, all right, here's the obvious question and then we'll go deeper. Do you think
+ that VLA max has an effect on your FTP? No.
+ See, I, you've heard, you're having the same thoughts. I am like fiber type and
+ got it. Glycolytic enzyme activity, blah, blah, blah, blah, blah. Yeah. Um, uh, well, as you know,
+ VLA max is presented as the corollary to VO two max, the anaerobic equivalent of VO two max.
+ Yeah. In theory, there is some,
+ there is a, there is a maximal rate of lactate accumulation, maximal rate of glycogenolosis or
+ glycolysis that you can, uh, uh, hit, generate, achieve or whatever. And the balance of that and
+ your, uh, aerobic abilities dictates your maximal metabolic steady state. Um, yeah, obviously, uh,
+ muscle fiber type distribution, uh, via its impact upon your inherent, uh,
+ glycolytic glycogenolytic enzyme activities and mitochondrial respiratory capacity was going to
+ correlate with, you know, maximal sustainable intensity, but VLA max itself isn't really a
+ thing as you know, I'm telling you stuff you already know, right? Well, it's so infrequently
+ put out on social media and, you know, uh, and you know, they've got, um, I don't want to talk
+ too much out of school, but like there are backdoor deals that they have with folks to like,
+ oh, don't talk about us, you know? So I, I have a free platform. I can't get fired
+ except on my, my coaching clients. So I can say whatever I want.
+ The, uh, I actually gave an exam to my students last night and this was one of the bonus questions,
+ um, was about VLA max, uh, to see if they could see the limitations to the idea. Um,
+ there are pragmatic issues. Okay. You, you know, did a 15 second sprint and you measured lactate,
+ you know,
+ before and you know, when it peaked afterwards and you make assumptions about the volume of
+ distribution of lactate and you divide by 15 to calculate a rate. Well, if those assumptions are
+ wrong, your rate is off, et cetera. But the bigger issue I have is really more of the core concept.
+ And this is summed up in my pithy power proverb that I've seen you try to correct my grammar,
+ but I like mine better. Um, and that is that lactate production doesn't blow. It sucks.
+ As you said, it's actually, it is sucked. Yeah. Right. But to say that it sucks resonates more
+ with people. I think it does. Cause it's got that same balance like VO two max VLA max, you know,
+ it's catchy. Yeah. But, but the reality is, I mean, if you think about it practically, right. Um,
+ as I always tell students, muscle is a unique tissue in that it can increase its demand for ATP,
+ you know, a hundred, maybe a thousand,
+ in milliseconds. And therefore, we have to have robust, redundant mechanisms for resupplying ATP
+ or the muscle is going to go into rigor. And in point of fact, it's very difficult to demonstrate
+ any significant decline in ATP levels in skeletal muscle. From the 1920s, when everybody realized
+ that ATP was the source of energy-driving muscle contraction, A.V. Hill, circa World War II,
+ issued his challenge to biochemists saying, okay, we all agree this is true, but nobody's actually
+ demonstrated ATP being used. And it wasn't until Kane and Davies in the 50s were able to poison
+ creatine kinase with iodoacetate that they were able to demonstrate a decrease in ATP.
+ So these robust, redundant systems actually do a fantastic,
+ fantastic job of defending our ATP levels. They have to. Okay. Well, what if you truly did hit
+ your maximum rate of lactate production? I mean, you wouldn't be providing ATP and your ATP levels
+ would plummet, right? Yeah. That doesn't happen. Therefore, there has to be some reserve, right?
+ I have looked back. Larry Spreet,
+ who was a professor at the University of Missouri at the time, was a professor at the University of
+ Missouri at the time. And he was a professor at the University of Missouri at the time. And he
+ was a professor at the University of Missouri at the time. And he was a professor at the University
+ of Missouri at the time. And he was a professor at the University of Missouri at the time. And he
+ was a professor at the University of Missouri at the time. And he was a professor at the University
+ of Missouri at the time. And he was a professor at the University of Missouri at the time. And he
+ was a professor at the University of Missouri at the time. And he was a professor at the University of
+ Missouri at the time. And he was a professor at the University of Missouri at the time. And he was a professor at the
+ University of Missouri at the time. And he was a professor at the University of Missouri at the time. And he was a professor at the
+ the size of the pipes it's determined by the suction from below right so the more rapidly
+ you hydrolyze atp the more rapidly you'll make lactate so if you have a lot of fast twitch fibers
+ your vla max will be higher right yeah so but again lactate production doesn't blow it sucks
+ it is sucked right right because so the core concept of vla max is wrong so why not just
+ measure somebody's 15 second sprint power and be done with it you know you don't have to wrap it
+ in this uh pseudo-scientific concepts and you know confuse people unless you want to try and
+ make money off the idea um i mean i i honestly cannot blame people for that i mean yeah um well
+ why don't we um well
+ because i think the order of operations here is actually critical because i've i don't think i've
+ actually been through this on my podcast i i was just recently interviewed for somebody else's and
+ he asked me the same question you know i went through the whole thing so um so let's start with
+ um muscle contraction happens or actually let's start with like uh the signal for muscle
+ contraction and the the steps to make lactate and then where um you know and then um i i guess i
+ guess i guess i don't know why um you know you can change how quickly you make lactate
+ and how that's not going to really affect your threshold yeah um
+ where to begin all right so uh depolarization of the alpha motor neuron releases acetylcholine
+ which diffuses across the synaptic cleft leads to depolarization of the muscle cell membrane
+ sarcolemma that wave of depolarization of the muscle cell membrane leads to depolarization of
+ the muscle cell membrane and that wave of depolarization spreads over the sarcolemma
+ down the t-tubules where the uh there is an electrical to mechanical to electrical
+ signal transduction uh activation of the dihydropyridine receptor basically punches
+ its next door neighbor the ryanidine receptor ryanidine receptor opens releases calcium into
+ the cell there's a spike in calcium which signals muscle contraction uh in the process though it also
+ activates pathways of atp production so via for example calcium activates uh glycogen phosphorylase
+ it also activates enzymes of the tca cycle but you don't make atp unless you need atp so
+ uh if you could go in and you know control the
+ system you wouldn't have ongoing lactate production because you're not going to stockpile a bunch of atp
+ right so so the rate of phosphocreatine hydrolysis and the rate of glycogenolysis glycolysis and the
+ rate of aerobic atp production are all intimately linked to the rate of atp utilization right it's
+ demand it's based on the rate of demand and if we do something i this is my example
+ if we like if we just sprint a little harder uh like if we do like um you know like a muscle
+ activation exercise like we do a heavy squat and then you know a few minutes later we go do a sprint
+ for more power we have now increased our rate of lactate production and we haven't changed anything
+ metabolically right right enzyme activities haven't changed you just turned them on more
+ because you needed more atp yeah and i i saw an experiment uh where they isolated all the enzymes
+ of glycolysis and they measured the ex vivo maximum rate of glycolysis and they measured the
+ maximal rate of lactate production and we will never get we'd need a 20 000 watt sprint to even
+ get close to something like that well like i said digging around you know of course measuring uh
+ enzyme activities ex vivo and trying to estimate their true in vitro activity in vivo activity is
+ a challenge like i said i found one paper from larry spreet where he was calculating
+ that perhaps during you know small muscle mass exercise you were using you know 85 percent of
+ your capacity yeah but that still means you have a 15 percent reserve rate of glycolysis
+ um and again small muscle mass not large muscle mass yeah so um so at okay here's here's the next
+ follow-up question is because when we look at the vla max model at ftp at threshold that maximal
+ lactate steady state um it's it always shows a hundred percent carbohydrate utilization is this
+ true no right so why is it yeah you probably don't have a hundred percent carbohydrate utilization
+ you know uh
+ necessarily even at vo2 max and then outside the construct of uh whole body exercise in
+ rat muscle for example you know if you take a rat muscle and you stimulate it to contract maximally
+ what percentage of a whole body vo2 max is it operating at it's like we don't know but it's
+ you know it's chewing through atp as quickly as it possibly can right yeah uh again larry spreet
+ has done studies back in the day where even in those circumstances you do see some utilization
+ of intramuscular triglycerides um so it's you know it's unlikely that it's ever going to be a
+ hundred point zero zero zero percent i mean you can certainly you know bias things heavily toward
+ carbohydrate or heavily toward fat by you know defining the exercise conditions um but uh again
+ even at vo2 max you're not necessarily a hundred point zero zero percent and of course most people's
+ sustainable exercise conditions are not necessarily a hundred point zero zero percent
+ and of course most people's sustainable exercise intensity is you know well below
+ average cyclist probably about 80 of their vo2 max um yeah well and i at one of our last podcasts
+ where we did the real technical in-depth stuff um one of the things that we were looking at was
+ the many things that limit tte um and one of them i said was uh you know fuel utilization because if
+ you're using carbohydrates your you know glycogen stores at a lower rate because you're using more
+ fats you should have a lot of fat in your body and you should have a lot of fat in your body
+ longer tte and one of the things that i've actually been surprised about because you mentioned this
+ earlier about being well trained and having a probably having a longer tte because i've seen
+ you know some of my clients have gone like you know 80 83 minutes is the longest one i've seen
+ um i've been the shortest one i've ever seen 30 minutes and i violated the uh the one millimole
+ uh thing for mlss i was actually at two millimole or something like that because i
+ do no aerobic training i just sprint um and one of the things that i've seen in world
+ tour power data is really short ttes and which has actually shocked me because i i expected
+ them to be really long based on what you had mentioned and what like you know dean gollich
+ had mentioned um and i've seen them around like 35 minutes 40 minutes when i was expecting like
+ 60 70 yeah the i developed the wko4 model which they've now altered uh in the i like the four
+ by the way yeah well statistically i think i know what they changed in five and statistically
+ four is a better model um sorry tim he knows he knows um i i view there's the concept of time to
+ exhaustion at maximal metabolic steady state right and then there is the parameter in the wko
+ mathematical modeling right there's sort of two different things
+ um or the parameter in the model is an attempt to operationalize the concept you know how do we
+ estimate um but i really view tte in that model is more of a fitting parameter it's uh it's call
+ it if you will it's a fudge factor that makes the model fit better right einstein's done the same
+ can't blame you and and it isn't necessarily uh reliable
+ um but i really view tte in that model as more of a fitting parameter it's uh it's call it if you
+ estimate of your true time to exhaustion and that's why if you go back to the original webinars
+ that i did and if you had a version of wko4 in the first six months or so that it was out
+ the program did not report tte i remember that yeah because i i didn't trust it right um and then
+ the powers that be decided that reporting tte was a good thing and so the program was changed and
+ puts the number out there right but i wouldn't necessarily you know put a lot of faith you know
+ collect a bunch of cyclists take their spontaneous power data plug them into the model take their
+ tte's estimated from the model now bring them into the laboratory and have them you know ride
+ at the mftp power output as long as they can i wouldn't necessarily put a lot of faith in that
+ so i wouldn't necessarily expect a really good correlation so you think it's more of like a uh
+ you know based just based on the data that they have and rather than an actual physiological
+ capacity that certainly is a driver you know i mean if the hunter allen popularized the 20 minute
+ test and therefore you often see a drop off in people's power duration data and therefore the
+ model says oh your time to exhaustion is somewhere just beyond 20 minutes right yes i see it all the
+ time it's a function of what you've done you know
+ yeah um now with all with all that said uh it is true that the fitter you are the longer you can
+ maintain maximal metabolic steady state that was evident you know when i first
+ grew up you know in coils lab and then more recently there was a paper just published where
+ they uh they're talking explicitly about tte and ftp and these
+ concepts and they took a bunch of cyclists of differing ability and did what i described and
+ on average time to exhaustion is longer in the the fitter cyclists than in the less fit cyclists
+ and it's around how long it would take most people to ride 40k like so yeah i was right after all you
+ know i mean this it's i'm i'm joking everybody um no he brushed the dirt off his shoulder you
+ know i mean it's the nose on your face kind of knowledge if you're have been steeped in exercise
+ physiology as long as i have been you know yeah well one of the real world things that i see in
+ coaching that i didn't expect when i first started thinking about tte and ftp and via to max and all
+ that is um a lot of the time i'll see like tte go out before we get an ftp bump and a lot of the
+ time you know if somebody's tte is too long and you know they're doing thresholds and they're
+ like two by 40 is where they start um you know it's like oh this is ridiculous so you got to
+ raise the roof and then tte shortens i mean would you expect a relationship like that based on what
+ you're aware of it's hard to separate those observations from you know how coaching is
+ prescribed and what people actually do i mean your your power duration data are a description of the
+ best that you've ever done which isn't necessarily the best that you can do right right so if you are
+ uh trying to you know push up ftp from below and people are often prescribing longer and longer
+ efforts well it's going to drag that parameter out and then finally the person has a breakthrough or
+ they have a race or whatever and then all of a sudden they push the curve up um and it isn't
+ necessarily changes in their physiology it's more what they've actually done and how they've
+ extracted those parameters using a mathematical model um the other sort of consideration though is
+ that you know time to exhaustion how long you can sustain something versus how hard you can go
+ could have different physiological determinants one of the points i always make you know many
+ people are interested what causes fatigue you know i'd
+ beat it into my undergraduate's head you know the answer to that question is fatigue is always
+ multifactorial that's you know it's not just one thing so it's like okay well what what determines
+ how long you can go at maximal metabolic steady state you know your muscle glycogen concentration
+ your bulk muscle glycogen concentration is only going to drop by you know 50 it's only going to
+ drop by roughly half uh so you can't really say that glycogen depletion is a cause of fatigue
+ but it could be that you know the initially recruited type one fibers the ones that you
+ like to use the most they might become glycogen depleted right yeah and then you know as they start
+ to drop out or being used less frequently because they're not living up to the demands placed upon
+ them your central nervous system starts recruiting you know higher heneman size threshold motor units
+ working your way up and maybe at the end you're recruiting fast twitch fibers that you don't use
+ very often and they're not very aerobically trained and then they fatigue due to uh you know
+ changes in high energy phosphate levels or whatever um so you know and then it's like okay
+ well i trained and as a result of training i store more glycogen you know um you know there's
+ so many different factors in this
+ time window of performance that influence it that uh how long you can go and how hard you can go
+ at least potentially have different determinants um so it's it depends like everything else
+ that was sam callen's always complaint you know you ask an exercise physiologist a question it's
+ like well their answer is always well it depends and that's you know that's the reality i was like
+ i have i'm teaching a graduate exercise physiology course right now
+ um all master students my one doctoral student in there and i kind of warned them that okay all
+ things you learned in undergrad uh you know many of them came from within our own program
+ we lied to you we painted it as very black and white and the reality is it's more complicated
+ so you know hold on to your hats folks this is where it's going to go i'll throw one at you
+ uh mitchell's chemo osmotic theory right won the nobel prize for working out how mitochondria
+ came across a recent paper where there's an entire parallel system to the cytochromes
+ that are involved in pumping potassium across the inter mitochondrial membrane
+ and the concentration gradient for potassium is so much larger than for hydrogen ions the
+ argument of these biochemists is that it's actually the potassium gradient that's primarily
+ responsible for driving atp synthesis not the proton gradient
+ mitchell won the nobel prize for working that out right we all learned it we all understand it
+ it's textbook level knowledge and then guess what it might be more complicated yeah i thought the
+ last piece of the puzzle was which way do the do the hydrogen ions go around complex five like do
+ they go the short way or do they go the long way i thought that was the last piece of the puzzle
+ no i'll send you that paper it's a group that apparently has been working on this idea for a
+ while and i'm going to send you that paper and i'm going to send you that paper and i'm going to
+ uh it has like an accompanying uh there's another group that claimed that they'd already discovered
+ the idea and then there's a response to that lengthy letter to the editor saying no the only
+ thing your original idea and our current hypothesis have in common is that they both involve potassium
+ and hydrogen um so there's actually three papers that you can read together interesting your spare
+ time yeah well i mean because it's i mean i've i got to brush up on my physics and
+ all that stuff but like you know it seems like a a larger just electrical gradient
+ might help with the driving of i don't know i gotta read something like that like that
+ another example of that uh near and dear to my own research and one that i've
+ sort of awoken to more recently have you heard of the super relaxed state of myosin
+ uh no i've done okay so in resting skeletal muscle most of the myosin cross bridges are
+ laid all the way back against the filament itself you know with the heads following a helical
+ every 43 nanometers etc this is the so-called super relaxed state of myosin but uh when you put
+ tension on the myosin filament they move away from the center of that myosin filament yeah
+ in proportion to the tension that's placed upon them this is referred to as mechanosensing
+ yeah you may have heard that term yeah so when you go and you know you talk about
+ it's calcium release we turn on the thin filament well it's really more like muscle is off
+ so the thin filament is not activated and myosin is in its super relaxed state then calcium
+ actually moves the thin filament from the off state to like the ready state
+ of muscle as a whole right and then the myosin filament itself has to turn on
+ and in resting muscle there may only be you know one or two percent of cross bridges that are not
+ in the super relaxed state but they're actually bound to myosin and they may sorry bound to actin
+ and they may serve as uh sentinels so that if the filaments start to slide past one another
+ it puts tension on the myosin filament and therefore you start recruiting more and more
+ cross bridges in proportion to the force that's needed mechanosensing interesting
+ it's hypothesized that this evolved as a way of uh conserving energy
+ and muscle has this enormous capability to alter its metabolic rate if you turn
+ on your muscle all the time you know you can shiver and warm yourself up on a cold day or
+ if you unfortunately have the wrong genes and you undergo surgery you have a bad reaction to
+ anesthesia you can have malignant hyperthermia that kills you because you're hydrolyzing atp too
+ rapidly in your muscles right so we we need to keep the muscle turned off except when we want
+ to turn it on right so it's been proposed that this super relaxed state evolved to serve that
+ need wow i have got to uh
+ update my thought process because i was just thinking of costumers the whole time like
+ everybody else yeah it's uh now okay how do we apply that to coaching theory that was my next
+ question uh actually let me ask you a question that has that may or may not have more applicability
+ to regular coaching theory is why does ftp occur uh ultimately you need to balance uh
+ atp utilization with atp production and that atp production uh is i'll say most safely derived
+ from aerobic pathways right uh if you increase atp demand too much and you cannot meet it with
+ aerobic atp production then you get additional uh you've got to increase the amount of atp that's
+ you know exponential stimulation of glycogenolysis etc which leads to the accumulation of lactate
+ yeah and lactate itself's not necessarily a cause of fatigue uh but uh protons associated with
+ lactate production may play a role it's also it's such an intricate web again what i was trying to
+ my students in this grad class you know we think of these three energy systems but they are so
+ intertwined
+ that you know they're all three start right at the onset of exercise and you know if you suck too hard
+ you're going to lower your phosphocreatine stores more you're going to activate glycogenolysis more
+ if it's uh prolonged exercise you know maybe you'll run out of glycogen as a result
+ but if you're instead talking about i'm going as hard as i can and i want to go a little bit
+ harder right i wanted to you know i tried to break the 50 plus
+ uh record at moriarity you know um i was on it till the turnaround and then realized that
+ i had to tailwind um so it's like okay i gotta go harder well why can't i go harder because i
+ start sucking atp too rapidly and i alter high energy phosphate levels the energetic state of
+ the cell a little bit of adp starts to develop adp then you know inhibits every atp ace and i
+ got to back back down again but ultimately it's a matter of balancing you know
+ aerobic atp production to eight uh atp demand yeah more mitochondria good thing more capillaries
+ good thing right do you think that there's uh like a central governor kind of uh role in something
+ like that that is one area that uh our understanding of fatigue is certainly
+ expanded you know even back when i was doing my dissertation where we were looking at hypoglycemia
+ as a cause of fatigue we would discuss the role of uh the central nervous system and we attempt
+ to get at that we were doing uh you know integrated emg activity early and then at the point of fatigue
+ and at the point of fatigue your cadence is lower so we'd have to have people drop their cadence
+ early and it got to be too much of an add-on to the core of my dissertation so we dropped it um
+ the the saying i had back then aside from you know fatigue is always multifactorial
+ is that on the borg scale fatigue is when your perceived exertion hits 18.
+ right yeah you're you're trying to generate as much central motor drive as you possibly can
+ in order to continue in the context of all sorts of noxious peripheral feedback right noxious and
+ you know if uh if somebody is at the point of fatigue and you suddenly you know flash a thousand
+ dollars at them they might be able to keep going for another 30 45 seconds right because they were
+ able to raise central motor drive a little bit more yeah so that so the notion that high
+ levels of central motor drive are needed has been around for you know how long it's been since i did
+ my dissertation or before what what has changed is now we have all sorts of tools transcranial
+ magnetic stimulation etc to try and tear the system apart and it does seem that uh
+ there are you know multiple steps in the chain that at the intensity you maintain for a 40 ktt
+ that are all tending to fail you know in exercise physiology
+ and exercise physiologists we think a lot about the muscle the motor control people think all
+ about the brain and like never the twain shall meet right but you know if you do a a wingate test
+ yeah it's you know let's think about the muscle you know but uh clearly there can be central
+ issues and it's not so much again it's not it's not that central motor drive decreases
+ it's more that central motor drive doesn't increase enough to be able to keep going yeah
+ there's there's a again now probably two decades old but i think it was neil nels
+ secker s-e-c-h-e-r uh wrote a kind of editorial paper on it and i think the title is something
+ like exercise begins and ends in the brain i mean interesting yeah yeah voluntary exercise requires
+ the central nervous system we have to choose to exercise right yeah we can't hook everybody up
+ to a car battery every experiment right yeah yeah um so it's always been there but it's often you
+ know maybe slighted in terms of the attention that's devoted to it i mean i think that um
+ that is actually something that i've um i've been using in coaching a lot lately is um you know in
+ the description of like what you know something like you know lt1 or lt2 should feel like
+ you know i tell them like this should feel here you should not feel yourself needing to concentrate
+ harder to push harder stuff like that to bring it back is this intra-thread duality but uh you were
+ you were uh asking about application of power to other sports and i was saying that being a being
+ a cyclist made it easier for me because i could intuitively relate to uh power data etc uh my
+ original contribution was the power-based training levels triggered by a chance
+ conversation on the uh infield at uh t-town with uh john fairhule um and so it's like okay i'm
+ going to construct power-based training levels one of the things i came across was um chris
+ boardman's coach uh peter keens has had his training uh levels and associated with those
+ were verbal descriptions and i could read the verbal descriptions and i could
+ really relate to his training levels and so i i borrowed the idea of a verbal description
+ from peter keen and i adopted stole the word levels because he described them as levels
+ and you know another pithy power proverb right they're called levels and not zones for a reason
+ you know people are they're into zone-based training oh i got to keep my power in a certain
+ zone oh i'm coming to the base of the hill i better go slower oh i can't go out of the
+ zone too i better get off and walk i might burst my little nascent capillaries you know
+ and if you train like that it's like you become a triathlete right you're a diesel this is not how
+ to ride a bike all you do is you make your training less specific um so it's like okay
+ how do we get people not to think about zones i know let's call them levels well that's sort of
+ like inventing another definition of a of a way to you know interpret a lactate curve from a ramp
+ test yeah you know i mean because i
+ could i can easily see why you know people would uh misinterpret that over the years as as intending
+ to it be descriptive and the number of people where i tell them like you know like pay attention
+ to your rpe like i most of the training i give people now is more rpe based than power based
+ uh except for around threshold um it seems to work super super well because it keeps people
+ really in touch with their legs um instead of like oh what is the what what is the motor
+ learning algorithm tell me i should do today at what percentage of the time do i need to do that
+ what percentage of ftp should i xyz you know in uh in the context of like the performance manager
+ and tss and trimp are you familiar with session rpe uh yes so carl foster's idea for the benefit
+ of your audience carl foster's idea for you know let's say team sports or whatever is 30 minutes
+ after the practice of the workout you ask the the question posed to the athlete by their mom say is
+ honey how was your workout and they rate it on a 10 point scale like the 10 point borg scale
+ multiply it by a duration session rpe um i've often thought that that would be a very useful
+ paradigm to use uh in that you know for for if you want to prescribe but even to collect that
+ sort of data on your athletes and you know look at that in the context of their power because
+ if the power is abnormally low for the perceived effort or if the perceived effort is abnormally
+ high for the power well it's in a red flag and then it's like okay so do you have a fight with
+ your girlfriend uh didn't sleep last night you know what's been going on with you right yeah
+ yeah 100 i mean well since training peaks implemented rpe and the emojis although i
+ i have some older clients who are like i don't know what to do with the emojis i'm like
+ fine leave it just do the rpe i've never used uh i've never used training peaks um
+ but we did talk about in the original wko uh days before wko4 even that there's that should
+ be part of the program is you know to collect that data yeah well we we have it now and it is
+ super super valuable uh like between that heart rate power um you know and and athlete comments
+ like that's you know i tell people like you you shouldn't overemphasize any one thing like
+ you know people overemphasizing like oh what was my lactate value today i'm like don't you don't
+ have to ride with a lactate meter
+ you
+ you're not peter attia or how do you pronounce his name i know i'm not
+ measure my lactate every single workout
+ um uh oh what was i about to ask you um well actually speaking okay so speaking of
+ misinterpretations um do you have any of your work that you think has been over misinterpreted
+ and you you know is there a record that you want to correct or have people generally been
+ fairly understanding of things
+ you
+ oh well you know everyone's a critic so i wouldn't say they've been generally understanding of things
+ um is there is there uh a particularly common myth um you know the fact that people think that
+ ftp is 60 minute power while it demonstrates you know a lack of understanding i don't
+ know if it necessarily uh has a huge impact on the actual application of the idea so i don't know if
+ that would be one um we talked about you know tte um i'm going to volunteer one from uh one of my
+ very favorite papers uh which was which was you and ed coyle and uh two other authors who i've
+ always forget um are we talking science are we talking about hobby uh take take your pick we can
+ do okay because you're bringing up papers so now we're talking science oh oh i'm all all your work
+ everything you've done oh uh in the scientific realm back in 1992 we published the uh second
+ ever paper to utilize 31 uh phosphorus magnetic resonance spectroscopy to look at muscle metabolism
+ in the context of aging
+ and that has been mined that area has been mined repeatedly and yet you know some scientists who
+ work in that area have worked in that area for the last 10 even 15 years never cite our original
+ paper so yeah it's typical science it's complaining people don't cite you right um so that one that
+ one i think is under appreciated uh but that's not the only one that uh that first comes to mind
+ um because i because i always
+ think about this because i've read so much great research from the 70s 80s and 90s and you know
+ your name is on probably 25 30 percent of those papers um you know how much stuff do you see these
+ days where you think we did that already we know we've got we've got we did this paper that nobody
+ pays attention to a lot of it yeah um you started off by by talking about the chapter i wrote with
+ dave costell i was always a fan of uh history i was always a fan of uh history i was always a fan of
+ my dissertation was based on class experiments by christiansen and hansen that were published
+ they weren't published in until 1939 but they were actually done in the 1920s
+ and they were published in german uh looking at you know role of carbohydrate and carbohydrate
+ diets and hypoglycemia and fatigue it's a series like six papers uh classic studies so in the
+ carbohydrate feeding world everybody used to cite them including ed coyle my phd student who was a
+ phd mentor and i felt as a phd student it's like if i'm going to base my dissertation on these ideas
+ that you've told me about i'd kind of like want to read the papers myself right right yeah um and
+ so i started haunting the archival library at the university of texas and i delved into the
+ old literature you know reading av hills papers etc to the point that it had these big movable
+ stacks right and you weren't supposed to go back there because you might get crushed but the
+ back where they were where they were so i could pull down dusty old journals um so i asked ed if
+ we could get somebody to translate these papers from german and he wouldn't pay for it so i paid
+ a german graduate student to translate them for me and then i gave ed and john ivy and a couple
+ other faculty members uh copies of that translation that was my christmas gift to them and it turns
+ out that they misunderstood the experimental design and it was it was back to that telephone
+ game
+ yeah right they'd never read the original papers and they didn't understand it so i'm always yeah
+ we're looping back on the conversation here it's like always consult the original source
+ yeah right well because the history uh you know i i find exercise physiology and and cycling to be
+ you know both things where tradition and history has a large deal of inertia um you know and like
+ you know the uci is mandating you know the bikes have to look like this the double triangle
+ design you can't have your socks this high because you know i mean imagine if they everybody
+ used to wear knee socks like now it would be like you can't have a sock below this level you know
+ yeah um you go back and you can find patents from the 1880s on disc wheels made out of wood
+ yeah there is no there are no new ideas under the sun but yeah i do think there's a lot to be said
+ for uh you know knowing what has been done before and that requires reading widely and you know
+ going back you know
+ nowadays we get so lazy because we can call it journals electronically yeah this was uh you know
+ i had i had a lot of fun writing the original chapter for uh tipton's book that then led to
+ this subsequent chapter in part because it gave me excuse to indulge my interest in the history of
+ the field in part because it was a totally different style of writing to write a history
+ versus writing a scientific paper yeah but even i learned things in the process uh until i did that
+ i didn't realize so there was controversy
+ prior to 1900 as to whether muscle could only use carbohydrate or could use both carbohydrate and fat
+ um eventually it kind of settled down to by you know the 20s or 30s everybody's like yeah okay it
+ can use a mixture of the two fuels um but what fat is being oxidized people did not know that
+ free fatty acids or non-esterified fatty acids existed back then right they thought it was all
+ ketone bodies for a bit yep yeah that was what i did not know uh so ketones had their brief uh moment
+ in the sun from uh like 1932 to you know the post world war ii nuclear era when people started doing
+ studies with 14c fatty acids they finally realized that they weren't simply an artifact of
+ lipid extraction from plasma or tissue but they were a real thing
+ yeah for a while they're ketones people thought ketones were but you wouldn't know that they're
+ resurgence yeah exogenously right exogenous yeah yeah yeah muscle loves muscle loves ketones it
+ will oxidize and the heart they love ketones that will oxidize so simply just stuff them right in
+ there like oh they're just okay but they're just normally not that many of them around right right
+ so yeah because why why would there be if the if you've got those endogenously like you're
+ probably very hungry yeah yeah um uh you know did you ever see um speaking of strange historical
+ things have you ever seen some of the early schematics for how people thought um you know uh
+ you know just basic uh energy metabolism happened because this was in the the first tome of the uh
+ hans krebs uh uh biography it was like the original like oh we know we know these like five or six
+ different chemicals and they were arranged in this way these these guys think they're arranged this
+ way these guys think that the liver does this and you know it's like now knowing what we know now
+ looking back it's like oh
+ wow this is weird but like you know like looking at how they did experiments and um just you know
+ how they could detect things like i you know even though now we look back and i think you know we
+ think oh man i mean it's so simple now the people who came before us weren't stupid no they just
+ didn't have the tools that we have you know uh there's there's uh in the notion of whether or
+ not muscle uses intramuscular triglycerides something that was also controversial for 100
+ million years ago there's a paper by uh lifson where they attempted to measure fatty acid uh
+ uptake across the muscle could detect it in some animals that they tested not in others
+ and then they discussed how we can't rule out the possibility that you had basically
+ simultaneous uptake and release yeah they didn't have the tools to measure it but they
+ recognized it was a possibility yeah people came along with isotopic tracers and sure enough you
+ have simultaneous uptake and release going on right well that's one interpretation of such things
+ but i've seen i've seen some interesting interpretations of lactate you know uptake
+ and release well yeah lactate's a different one so now you're getting into something
+ uh i have probably i'll lay claim to the only person in the world who has actually
+ accurately quantified lactate kinetics across muscle uh during exercise
+ the problem with lactate is that it's produced intracellularly and it equilibrates rapidly but
+ not instantaneously with pyruvate right and we can't infuse our tracer directly into the cell
+ so this ends up confounding the issues when i was in bob wolf's lab they developed a
+ a steady state compartmental model to try and tease apart lactate and pyruvate kinetics
+ and it's simple algebra to solve it you need arterial concentration and and tracer activity
+ or enrichment if it's stabilized to venous and tissue and flow and it's uh like a mirror image
+ of lactate and pyruvate on each other and every interconnecting arrow you can deduce the rate from
+ these measurements uh what there weren't a lot of applications to it this is driven more by innate
+ velocity and you know wolf's brilliance really because he's a very bright guy um but uh very
+ quickly others there wolf probably mostly realized that the same concepts could be applied to amino
+ acid metabolism yeah and all of the research suddenly shifted look at amino acid protein
+ metabolism and this is where stew phillips who's in canada kevin tipton recently deceased but spent
+ much of his career in scotland uh arnie ferrando uh etc all of what you're seeing here is a
+ you consider you know some of the world's experts in exercise and protein metabolism
+ they were all postdocs there at the time when i was on the faculty and so all of the research
+ that they were doing shifted to applying this model but it originated with lactate and pyruvate
+ so i uh was trying to apply it get funded to use it and did you know one experiment
+ one participant right so i have a case study where we have teased those apart
+ brooks brooks is about the only one who i was about to ask you about brooks
+ yeah you're pushing buttons again i didn't mean to i remember i emailed you a long time ago
+ asking about something similar and you said by the way check out i think it was a kent
+ solon critique of that i read it and i went oh my god that letter to the editor to which brooks
+ never responded because there is no response and it comes back to the fact that you can't
+ transport and simple exchange except using this steady state model um and i don't think it's
+ something that brooks even understands you know i mean i didn't say it but but i'll say it i mean
+ you look at the scientific literature as a whole step outside the context of exercise you'll find
+ very few people who use lactate tracer in kinetic studies and that's because yes you can make
+ measurements yes you can get numbers but because of these issues nobody really knows what they
+ mean and therefore because they don't know what they mean they don't measure it right yeah brooks
+ is the only one who's you know willing to walk out onto that uh plank you know well i mean i think it
+ also shows uh you know how much historical inertia there is because you know brooks is um you know
+ i've i've got what that was that my my shelf i used to have a bunch of books right here but
+ my shelf fell because there were too many and now they're all on the floor but i was about to pull
+ out uh the the um that exercise physiology tome of like that brooks is one of the three authors on
+ um and you know obviously he's you know he's such a smart guy and he knows so much but
+ um you know the the lactate shuttle concept like the different ways that it can be interpreted
+ um you know i think um even now it shows how much historical inertia there can be
+ around things that you know just i saw i saw a reference and you know like
+ let's think of uh you know the glucose fatty acid cycle named after somebody right the warburg effect
+ named after somebody it was uh you know the heisenberg uncertainty principle named after
+ somebody that's probably a better analogy there was the the somebody effect and the the claim was
+ that it's far easier to get an idea established in science than it is to uh you know the uh
+ establish it when it's wrong and then you know you see it it's like it's so true um i'll rant and
+ you know working now we're working with dietary nitrate uh beetroot juice dietary nitrate
+ improves muscle contractile function andy jones is uh the first person wasn't the first person
+ to actually study it in the context of exercise but he jumped on the bandwagon with both feet
+ really hard right so his twitter handle is andy beetroot right yeah yeah i've seen that one he
+ wrote a speculative
+ review article for exercise and sports science reviews hypothesizing that dietary nitrate
+ specifically benefits or targets type 2 fibers um and you know it was a it's a plausible hypothesis
+ i wouldn't say it's a strong hypothesis the problem is that it's my problem with it is that
+ it's clearly not proven right and yet if you go and read the scientific literature this is a known
+ fact right it's like no it's a high
+ hypothesis and it's still a hypothesis yeah um because i remember um one of my athletes uh was
+ uh was tested um last year sometime and um you know she uh the doping control guy said you know
+ looked at the urine sample and was like oh you're the only person here who's like not taking beetroot
+ juice oh really yeah um so um uh who's on your mount rushmore of exercise physiology
+ and uh you're not allowed to put yourself there not that i think you would but we'll let history
+ decide uh how many do people do i have to list uh you get you get four i get four okay i haven't
+ been around much for a while huh uh john hollisie um what is it with you podcast folks you always
+ like asking these questions glenn mcconnell did this with the inside exercise and stumped me as
+ well um
+ um
+ "all right actually well in that case uh because i mean i think i understand can i put myself up
+ there oh you said i couldn't yeah well because i think you know it's like i i used to be a musician
+ and a recording engineer and so if you ask me like who are my favorite musicians or my favorite
+ bands i would really really struggle um like it would be like miles davis and rolling stones i
+ mean you know it's just too many yeah yeah it's too way too many um so who do you think is the
+ who are you really enthusiastic about as a uh uh you know a current working exercise physiologist
+ i've always been interested in mechanisms and i've always been specifically interested in
+ the human response to exercise uh so i and i've always been interested in more you know metabolic
+ response to exercise uh so i and i've always been interested in more you know metabolic response to exercise so i and i've always been interested in more you know metabolic
+ more you know metabolic response to exercise uh so i and i've always been interested in more you know metabolic
+ more you know metabolic response to exercise uh so i and i've always been interested in more you know metabolic
+ more you know metabolic response to exercise uh so i and i've always been interested in more you know metabolic
+ more you know metabolic response to exercise uh so i and i've always been interested in more you know metabolic
+ more you know metabolic response to exercise uh so i and i've always been interested in more you know metabolic
+ more you know metabolic response to exercise uh so i and i've always been interested in more you know metabolic
+ muscle function than say cardiovascular or
+ muscle function than say cardiovascular or
+ muscle function than say cardiovascular or environmental
+ muscle function than say cardiovascular or environmental
+ cardiovascular or environmental so in that context would be people who
+ so in that context would be people who
+ so in that context would be people who are
+ are
+ are really trying to go after mechanisms
+ really trying to go after mechanisms
+ really trying to go after mechanisms uh in those areas
+ uh in those areas
+ uh in those areas i feel the same way by the way i have the
+ i feel the same way by the way i have the
+ i feel the same way by the way i have the same enthusiasm
+ same enthusiasm
+ same enthusiasm yeah but you know there's there's so many
+ yeah but you know there's there's so many
+ yeah but you know there's there's so many young up-and-comers uh bright people
+ young up-and-comers uh bright people
+ young up-and-comers uh bright people and i
+ tell a story about the the late john
+ tell a story about the the late john
+ tell a story about the the late john holozy
+ holozy
+ holozy um who trained a hundred more than 100
+ um who trained a hundred more than 100
+ um who trained a hundred more than 100 postdocs just you know looms over the
+ postdocs just you know looms over the
+ postdocs just you know looms over the field of exercise physiology and i was
+ field of exercise physiology and i was
+ field of exercise physiology and i was fortunate to be one of his uh
+ fortunate to be one of his uh
+ fortunate to be one of his uh trainees but there was one time where
+ trainees but there was one time where
+ trainees but there was one time where he proposed that we do a particular
+ he proposed that we do a particular
+ he proposed that we do a particular study and i'm telling him john i i think
+ study and i'm telling him john i i think
+ study and i'm telling him john i i think you've already done that one haven't you
+ you've already done that one haven't you
+ you've already done that one haven't you and you're thinking like is this guy
+ and you're thinking like is this guy
+ and you're thinking like is this guy losing it um and he used to keep all the
+ losing it um and he used to keep all the
+ losing it um and he used to keep all the you know the physical
+ you know the physical
+ you know the physical the reprints back before computers in a
+ the reprints back before computers in a
+ the reprints back before computers in a three-ring bind right three-ring binders
+ the reprints back before computers in a three-ring binders and you know uh
+ and you know uh
+ and you know uh sleeves and this kind of thing and he was
+ sleeves and this kind of thing and he was
+ sleeves and this kind of thing and he was very slow moving fellow he pulls
+ very slow moving fellow he pulls
+ very slow moving fellow he pulls down he's like leafing through his 300
+ down he's like leafing through his 300
+ down he's like leafing through his 300 papers one by one
+ papers one by one
+ papers one by one can't find that paper anywhere uh it
+ can't find that paper anywhere uh it
+ can't find that paper anywhere uh it turns out it was something that uh
+ turns out it was something that uh
+ turns out it was something that uh jim hagberg who had been his right-hand
+ jim hagberg who had been his right-hand
+ jim hagberg who had been his right-hand man for a decade plus had done
+ man for a decade plus had done
+ man for a decade plus had done and john wisely realizing for jim to
+ and john wisely realizing for jim to
+ and john wisely realizing for jim to advance in his career
+ advance in his career
+ advance in his career jim needed to publish without john's name
+ jim needed to publish without john's name
+ jim needed to publish without john's name on stuff
+ on stuff
+ on stuff and so i associated it with you know
+ and so i associated it with you know
+ and so i associated it with you know washu applied physiology but john's name
+ washu applied physiology but john's name
+ washu applied physiology but john's name wasn't actually on it so john had
+ wasn't actually on it so john had
+ wasn't actually on it so john had forgotten about it
+ forgotten about it
+ forgotten about it but then you know he's kind of like caught
+ but then you know he's kind of like caught
+ but then you know he's kind of like caught out he's embarrassed and his
+ out he's embarrassed and his
+ out he's embarrassed and his comeback was something like well
+ comeback was something like well
+ comeback was something like well i can either
+ i can either
+ i can either i can either read the literature or i can
+ i can either read the literature or i can
+ i can either read the literature or i can write the literature
+ write the literature
+ write the literature but i can't do both
+ but i can't do both
+ but i can't do both so i am not john holsey my
+ so i am not john holsey my
+ so i am not john holsey my accomplishments you know uh
+ accomplishments you know uh
+ accomplishments you know uh are infinitesimal compared to his
+ are infinitesimal compared to his
+ are infinitesimal compared to his accomplishments but i can relate to
+ accomplishments but i can relate to
+ accomplishments but i can relate to the um
+ the um
+ the um eyes on the prize focus
+ eyes on the prize focus
+ eyes on the prize focus in that you know i've got a research
+ in that you know i've got a research
+ in that you know i've got a research coordinator who i have to fund i have my
+ coordinator who i have to fund i have my
+ coordinator who i have to fund i have my summer salary i have to fund i have
+ summer salary i have to fund i have
+ summer salary i have to fund i have graduate students i want to pay their
+ graduate students i want to pay their
+ graduate students i want to pay their stipends i am you know
+ stipends i am you know
+ stipends i am you know hyper focused on
+ hyper focused on
+ hyper focused on advancing my own work and getting the
+ advancing my own work and getting the grants that you know keep everything
+ grants that you know keep everything
+ grants that you know keep everything still going
+ still going
+ still going and i don't have a lot of time to
+ and i don't have a lot of time to
+ and i don't have a lot of time to indulge in what other people are doing
+ indulge in what other people are doing
+ indulge in what other people are doing um
+ um
+ um there was a time uh before i was at
+ there was a time uh before i was at
+ there was a time uh before i was at university of texas medical branch i was
+ university of texas medical branch i was
+ university of texas medical branch i was visiting
+ visiting
+ visiting uh i think my physician was
+ uh i think my physician was
+ uh i think my physician was already been offered to me but i was
+ already been offered to me but i was
+ already been offered to me but i was visiting they were also interviewing a
+ visiting they were also interviewing a
+ visiting they were also interviewing a new head for the gerontology center and
+ new head for the gerontology center and
+ new head for the gerontology center and so i'm sitting there with john with bob
+ so i'm sitting there with john with bob
+ so i'm sitting there with john with bob wolf and bob wolf is looking through
+ wolf and bob wolf is looking through
+ wolf and bob wolf is looking through this fellow's cv and he comes across a
+ this fellow's cv and he comes across a
+ this fellow's cv and he comes across a paper that bob's name was on along with
+ paper that bob's name was on along with
+ paper that bob's name was on along with this potential head of the gerontology
+ this potential head of the gerontology
+ this potential head of the gerontology center and then he's turning to his
+ center and then he's turning to his
+ center and then he's turning to his head i could lose track
+ head i could lose track
+ head i could lose track it's like yeah i'm not there i'm
+ it's like yeah i'm not there i'm
+ it's like yeah i'm not there i'm nowhere close to that but at the same
+ nowhere close to that but at the same
+ nowhere close to that but at the same time you think about it it's like you
+ time you think about it it's like you
+ time you think about it it's like you know bob is so busy with what he's
+ know bob is so busy with what he's
+ know bob is so busy with what he's doing
+ doing
+ doing now he can't worry about
+ now he can't worry about
+ now he can't worry about he can't worry about what other people are
+ he can't worry about what other people are
+ he can't worry about what other people are doing he can't even keep track of
+ doing he can't even keep track of
+ doing he can't even keep track of what he's done
+ what he's done
+ what he's done because you're so focused on what you're
+ because you're so focused on what you're
+ because you're so focused on what you're doing now yeah you have to be you know
+ doing now yeah you have to be you know
+ doing now yeah you have to be you know i think that's a good thing for for
+ i think that's a good thing for for
+ i think that's a good thing for for people though to be so involved in what
+ people though to be so involved in what
+ people though to be so involved in what they're doing that they kind of forget
+ they're doing that they kind of forget
+ they're doing that they kind of forget everything else it's like i like i'm so
+ everything else it's like i like i'm so
+ everything else it's like i like i'm so involved in coaching and you know doing
+ involved in coaching and you know doing
+ involved in coaching and you know doing the podcast that i have very little time
+ the podcast that i have very little time
+ the podcast that i have very little time people ask me like oh what's your
+ people ask me like oh what's your
+ people ask me like oh what's your favorite podcast i'm like
+ favorite podcast i'm like
+ favorite podcast i'm like this one on cars it's like i don't
+ this one on cars it's like i don't
+ this one on cars it's like i don't i don't really have the time and energy to
+ i don't really have the time and energy to
+ i don't really have the time and energy to to really
+ to really
+ to really you know delve into that kind of stuff
+ you know delve into that kind of stuff
+ you know delve into that kind of stuff right so like if if you had a written
+ right so like if if you had a written
+ right so like if if you had a written transcript of this
+ transcript of this
+ transcript of this yeah i wouldn't watch the video yeah i
+ yeah i wouldn't watch the video yeah i
+ yeah i wouldn't watch the video yeah i do i don't have the patience for any
+ do i don't have the patience for any
+ do i don't have the patience for any video um the only exception might be a
+ video um the only exception might be a
+ video um the only exception might be a well done like home repair video
+ well done like home repair video
+ well done like home repair video we actually actually physically see well
+ we actually actually physically see well
+ we actually actually physically see well where is that screw that i need to turn
+ where is that screw that i need to turn
+ to replace the part, to fix my washer, you know, and of course there's a million of those out there
+ and most of them are really low quality. That's the only time I ever look at a video. Otherwise
+ it's like, I'd rather read it. Okay. So unfortunately after that, Andy had to go,
+ we had kind of reached our time limit. He had stuff to do. Um, and, um, you know, uh, he's,
+ uh, already been in touch. Uh, we're already, uh, scheduling the second part of this. We're going to,
+ uh, talk about more stuff that I want to talk about. And, uh, we're going to answer your
+ questions of course. So check out Instagram empirical cycling. That's where I'm going to
+ be asking for questions for Andy. And of course I'm going to have to call them down a little bit,
+ just a little bit. Sorry, everybody, uh, obviously in, and I cannot go short on anything. So, um,
+ that's okay. I think it's better that way. So, um, you know, if you have any coaching
+ or consultation inquiries, please reach out to me directly empiricalcyclingatgmail.com.
+ Um, that is our ultimate Patreon of course, but if you want to donate a couple of bucks,
+ empiricalcycling.com.
+ You should donate and up on the same website, we have some show notes. We've got some references,
+ et cetera, et cetera. And, um, thanks everybody for the ratings. Thanks everybody for sharing
+ the podcast and thank you all for listening and we'll see you next time. Later.

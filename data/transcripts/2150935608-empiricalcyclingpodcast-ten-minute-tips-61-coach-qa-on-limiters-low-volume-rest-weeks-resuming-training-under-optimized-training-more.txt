@@ -1,0 +1,952 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, and today we are joined by a roundtable of empirical cycling coaches to answer your listener questions on in-depth questions that you guys want to hear us discuss.
+ And so before we get into that, if you're new here, please consider subscribing to the podcast if you like what you're hearing especially.
+ And if you're a returning listener, we really appreciate having you back.
+ And if you would like to reach out for a coaching or consultation inquiry, please shoot me an email at empiricalcycling at gmail.com or head over to the website.
+ We got a contact list up there. If you want to support the podcast, that's really the ultimate way to do that, especially as we roll into the fall and we are usually getting a ton of coaching inquiries about this time.
+ So if you want to get ahead of the rush, please shoot me an email sooner than later.
+ If you would like to support the show because we are completely ad-free, you can always go to empiricalcycling.com slash donate to kick us a donation.
+ Keep the lights on over here.
+ And if you would like to ask a question for our coaches in future episodes or if you would like to participate in the weekend training AMAs that I do up on Instagram, go give me a follow over there.
+ And I also have a new submission form up on the website under the podcast tabs.
+ So if you'd like to ask a question at the podcast and I don't have a form up on Instagram, go over to empiricalcycling.com and head over to the podcast page and you will see a Google Sheets form to ask a question.
+ So please feel free to go ask a question over there.
+ And that will be our kind of, you know, our off hours question submission form.
+ So.
+ For now, we have with our coach roundtable, we've got Megan, Gidaminas, Alex and Erica and myself, of course.
+ And I want to thank everybody for submitting all of their very excellent questions.
+ And to start with, I want us to get into our most in-depth question right away.
+ And that's going to be on how do we determine someone's limiters?
+ So in coaching parlance, this is what we call gap analysis.
+ So what does the event need or what does this person need?
+ What are their goals and where are they at now?
+ And how do we determine someone's limiters?
+ How do we bridge that gap?
+ So who wants to start with determining your limiters gap analysis?
+ Alex, thanks for volunteering.
+ Yeah.
+ Well, I mean, I think this is a great place where, you know, just looking at a simple power curve can really tell us a lot of information.
+ I mean, it's probably what we look at the most as coaches.
+ And so, like.
+ It's kind of like an easy first place to start when looking at, you know, where is power consistently falling short or where do we need at least more data?
+ And then going from there and maybe doing some testing at those as those points where we don't have where your power numbers are falling short of where the model is predicting.
+ And then, like, for example, if you weren't able to hit the numbers that the curve is predicting, that could show a point where we need to train more or focus more attention.
+ But again, I think just looking at your power curve, which even if you don't have like some fancy software, like you could pretty much easily do for free.
+ I think that's where I would at least begin.
+ Yeah.
+ And one of the other things that I always think about when determining limiters is oftentimes most people have the same limiters.
+ We need more room capacity.
+ It's going to be a big one for a lot of people.
+ So that was a pretty easy one.
+ And I think there's a question.
+ I think there's a question that I see bandied about a lot on forums and such where people are wondering, should I work on my threshold or should I work on my VO2 max?
+ And I think in a lot of ways, if you have a question about which to work on, just doing both is usually the approach I would recommend.
+ But I don't know.
+ What's everybody's thoughts on this one specifically?
+ Like, how do you see it discussed oftentimes for those of you who are forum denizens like myself?
+ You're right that people always think that the FTP is the limiter, at least most of the time.
+ I haven't yet met anyone who is totally happy with FTP.
+ Everyone would like to see 1020 watts more before the A race.
+ But in terms of FTP and VO2 max work, I would think where you are relative to your A race right now, because if your A race is in three weeks,
+ I mean, should we really do VO2 max work at this point?
+ Probably not. It's not likely to move the needle.
+ Unless your A race is a pursuit. In which case. Yeah. Yeah. Yeah.
+ And I would add that power curves are cool, but also the features that allow you to compare your power curve to other people's power curve are really useful with providing power curves.
+ In context, because oftentimes people, well, everyone knows that you need four watts per kilo FTP to even consider cat five racing, but for other ranges of the power curve, like what's good, one minute power was good.
+ Five minute power. And like few people know, especially like four hour power, et cetera.
+ So all the intervals, all the software, like in tools, ICU, training peaks, whatever.
+ Help.
+ WKL5.
+ Yeah. That's what the real nodes. Yeah. Help you with the context and evaluating. But I think power curve analysis is always the easy one. The easy part.
+ There's a lot of limiters that we can understand or learn about from the race feedback where the person, the athlete is not feeling confident.
+ feeling confident or the patterns they see in the races where they constantly get dropped under
+ similar circumstances, for example. Yeah. Um, and actually that's a really good thought on
+ using, uh, athlete feedback because that's a lot of the way that I do it, especially if,
+ well, this is one of the big reasons I usually suggest people don't just have like one event per
+ year because having at least one or two leading up so we can kind of assess where your proper race
+ fitness is at, or maybe it's a nutrition thing, or maybe it's a nerves thing. We can address that
+ before, you know, you get to the event where you really, really want to do well. Um, Megan,
+ what are your thoughts over here on determining limiters? Uh, I don't know. I was just kind of
+ thinking outside the box, like not in terms of power, but a lot of people want to raise their
+ FTP, but like, like,
+ I've said before, I think to a lot of people, like, are you even like drafting good enough?
+ Like if you're giving like a bike length or two, like in a crit or like, you know,
+ not staying in the draft, going through corners and stuff, like all that can add up like super
+ duper quick or like breaking way too hard into corners and being like, Oh, I just don't have
+ enough top end to like punch out of the corners like everyone else. Um, I think these things kind
+ of like make people think that they're limiters or something that they're not. Um, so like, yeah,
+ sure. Yeah.
+ Sure. We could, you know, try to like make your FRC better, your sprint power better or whatnot,
+ raise FTP. But if you're still going to draft like crap, then like, you know, you're only going to
+ get so far. So I think that's something to also consider, which, you know, asking a friend that
+ you trust in a race, like, Hey, how am I doing? How's my drafting? Or like, if you have a GoPro,
+ that's always really nice. Send it to your coach. Be like, okay. Like, do you see anything weird?
+ Cause a lot of times we, you know, it's easy to miss things,
+ when it's just like our normal. So I don't know something else to consider.
+ No, that's a, that's actually a great thought. Uh, and I usually think of that one and I didn't
+ this week and I'm over here going, damn, that's so smart. I wish I had thought of that.
+ The first time that I feel like I take other people's suggestions, they don't take mine.
+ Um, I mean, but you, you're so right though. Like when people send us GoPro footage of their
+ races and we watch within like three corners, we've got a list of 10 things for them to do.
+ to work on usually. Especially if they feel like, man, I'm just getting dropped. I don't know,
+ everything's going well. Especially if we're looking at their numbers going, I don't know,
+ these look okay. Yeah, a lot of the time it's a skill issue. And maybe you come from a part of
+ the world or a part of the country here in the US where fields are small and you don't have a lot
+ of experience with those big races. And I know in the women's categories, this is a big issue too,
+ where you might race like five to 15 people and then suddenly you get really good and you go to
+ Gila and now you're in a field of like 80. Yeah, I will say, I think for women that is an issue.
+ They're kind of getting stuck in the back and it's more of an issue of they don't know how to
+ move up, not like an FTP thing. I don't know. It can be a confidence thing too.
+ Yeah. Your first couple of races in Europe, was that just racing on another planet?
+ Yeah. I was like,
+ I was like, how do people even move up? I don't understand. There's nowhere to go up the sides
+ because US racing is just like wide open highway. Like, oh, I'll just go up in the sides because
+ I have all these watts to spare. And in Europe, it's like, no, no, no. You're going to have to
+ figure out how to maneuver through the washing machine effect and making sure that you stay
+ forward. And it's just a whole nother thing that you have to figure out. And it's useful once you
+ go back to US racing. It's just, you didn't really need to do that.
+ In the US races as much, I would say.
+ Yeah. Erica, what's your experience with that? Because you've done a lot of racing in both.
+ And what was your experience coming up with that kind of stuff too?
+ With positioning.
+ Yeah. Positioning and like, you know, the difference between racing in the US and Europe
+ and, you know, when you were kind of coming up to the categories.
+ Yeah. When I first started racing road bikes, it was like, what, 2006? So there was like no one,
+ there's no one there in Pennsylvania. There's like three women. And like, we were usually combined
+ with like a master's men category. So learning that, like it was impossible. And it's still a
+ problem. Like you were saying, you know, it's like, I have a lot of athletes that are like
+ talented and want to move forward. But like, we're just trying to practice race craft,
+ like race skill. And there's not a field big enough to practice that. I just did tons of
+ repetition, like tons of crit, like all crit racing for a very long time. And like, that was
+ just a really good practice. Like this didn't work and this did, and you just keep going and going.
+ You know, Kolie mentioning, like, it's good to have more than one.
+ More than one race on your calendar. I think it's just a great opportunity to practice. I think like
+ for limiter stuff, if you, you, I think a really basic first way to think about it is like, what do
+ you like and what don't you like? And it's oftentimes like the things that you really don't
+ like that like might be a limiter. And then I think looking at the course profile, if you have a
+ specific event, there's probably some sort of technical feature elevation that's going to be
+ the part of the race. If it's not like, you know, it's going to be like, you know, it's going to be
+ like navigating within the Peloton and it's like the feature of the course, it could be a long
+ climb. Not that you always want to coach exactly to like how long the climb is and when it falls,
+ but like, I think that sometimes that might be a useful consideration as like a limiter.
+ Oh yeah. Especially for pacing. Definitely. Um, and this is something that, uh, you know,
+ that I use with people who don't even have any kind of thing like that. It's like,
+ if you're just not used to racing crits, um, you know, I'm going to have you do repeated accelerations.
+ Just so you kind of get used to that thing. Even if I know somebody physiologically can do it,
+ if they're not used to it, just knowing, you know, how hard you can bite into those pedals,
+ like when you first start accelerating and like, you know, how, how do you shift gears? How do you,
+ what cadence do you is best for you at speed? Like, you know, these kinds of things could come
+ with experience. Uh, and I think that all this stuff points to a bunch of limiters that are just
+ not in the power curve. Uh, like, you know, skills, like you were saying, um, you know, using race
+ feedback, but also, you know, you're not going to be able to do it. You're not going to be able to
+ do it. So, um, you know, there are things like, uh, like endurance slash durability slash what
+ are the other buzzwords about it? Um, uh, resilience or something that are not in the power curve
+ that we, uh, need to consider as well. And also like, you know, repeated short efforts,
+ you know, it all just looks like average power at the end, right? Like if somebody does like 30,
+ 30s for however long, um, then there's really no better way to measure it than to just like, look at that
+ workout, Megan. So I had another thought because you were going on about like the cadence and
+ whatnot. Um, I think sometimes people do like focus on like just what the power meter says a
+ little too much. And I've been working with some of my athletes on this. Um, like if you are in a
+ race, most of the time, it's not great to, you know, come out of a corner or hit a really hard
+ punchy bit. And like, if you're doing like mountain bike or cross or whatever in a super low cadence,
+ like, you know, your cranks not going,
+ but you're putting all this power to the power meter, it says, Oh, big number. And you're like,
+ yay. Like, but it's not like real world, like applicable, like your bike's not going anywhere.
+ And that's why, you know, I try to like get people to like focus on their cadence because it does
+ make quite a big difference. I think, especially like saving your legs in a crit, if you're going
+ hard over and over, you know, typically people feel better if they're doing that, like high
+ cadence spin up rather than just like mashing big motor units every time out of a corner. Um,
+ so yeah, I don't know. I think that's something to think about. Like on paper, you might say,
+ Oh, that's not a limiter, but then like you get out into a race and you cramp or whatever.
+ Yeah. Yeah. Alex, what's up?
+ Yeah. It just makes me think about, um, how also limiters are just so determined by what your goals
+ are and like what sort of racing or not racing you're doing. Um, which kind of also segues into,
+ I mean, I mean, another question we'll get to, which is like training for fitness versus racing,
+ but, um, like maybe a
+ limiter you have isn't really something you even need to work on because it's like something you'll
+ never need to utilize, for example, like sprinting or something. So I think like, yeah, always like,
+ or not always, but like often using what your goals are, what you're trying to ultimately
+ do on the bike is a good way to like help you really narrow down like what you should be,
+ uh, focusing on as far as limiters go.
+ Yeah. And you know what all this makes me think of also is I've had this conversation probably five or six
+ times in the last like two months where, um, you know, I'm working with somebody, I'm, I'm, I think
+ half of these were coaching clients of mine and half of them were in consultations where people
+ were saying like, I just don't have enough power to like make separation from the group. And I want
+ to, I want to attack, I want to get away. I need to be in a small move. Um, that's my best chance
+ of winning. And, um, you know, that's another limiter also where the ROI,
+ it really needs to be considered. So if you are, you know, if you're a, like a, a, uh, a person of
+ smaller stature, let's say, um, if you don't have a lot of muscle mass and you know, you don't have
+ a big sprint and you're really good going uphill, but you are like in Midwest, you race a lot of
+ flat crits or something like that. And you're like, man, I, I just need some more to, to, you
+ know, get separation and TT away from folks. Like, you know, you can work on your timing, but like
+ we are going to pack a bunch of muscle on you and do a bunch of strength training and do a bunch of
+ sprint work. Like what is the potential improvement in that? Like, is that really going to solve all
+ of your problems? And, and, and also like is being heavier for you, is that going to help? Because if
+ you go to your goal races and it requires a lot of going uphill, like you have now reduced your
+ ability to go uphill, which was your strength previously. And so, you know, looking at limiters,
+ does not always mean you have to address the limiters. Uh, cause one of the things that I
+ tell people who are looking for more sprint power is like, don't make the move, just follow them.
+ There's nothing in the rule book that says you have to like eat away from everybody alone.
+ I mean, it's nice, but like, you don't have to, you can do a three ups like group or, you know,
+ um, and you know, then you're suddenly on the podium regardless of how your final sprint goes.
+ Like, and that's better than you would have been in a 30 person bunch sprint. So that was,
+ that's always one of my other considerations is just, is it worth it to really address this
+ limiter versus like, what are you good at and what's going to be your best path to success
+ going forward? Especially if you're somebody who has, you know, good ambitions going,
+ going forward. Like if you're kind of a local racer and like you only race Chris and you're
+ only ever going to race crits, like, okay, yeah, sure. That's not even a question. Like,
+ let's work on that sprint. Um, otherwise, you know, it's really kind of a question of like,
+ what's the opportunity cost going to be? Any other thoughts there or shall we move on to some of these
+ other excellent topics? I did want to address one real quick. Somebody, uh, somebody asked for less
+ depth, please. Uh, the answer is no. Um, that is not what we do. So if anybody wants us to get less
+ deep into topics, I'm really sorry. This is just how we like to do it. Um, let's talk about,
+ uh, training for fitness versus racing. So where are we at with training for fitness versus
+ racing? Cause I think it may help to define fitness first. Like, are we talking about,
+ I just want the most FTP possible. I want to be healthy. Um, I just like riding my bike and I just
+ want to do it better than my friends. Like, what are we talking about? I just want to be healthy.
+ What are we talking about with fitness, uh, versus racing? So racing is obviously performance,
+ um, oriented. So get a meanest. Why don't you start us off?
+ The way I see most people define fitness is seeing some number go up. Usually it's the FTP, but
+ it can be anything. It can be this five second power. Uh, uh, it can be one hour power,
+ 90 minute power, whatever. Uh, when I have one of those fitness clients, uh, I some, and I schedule
+ a speed spot, a threshold workouts for them. Sometimes I take a look and see if it's possible
+ to set a new 90 minute PB. That's always a nice sort of thing to achieve. So, um, yeah, I think,
+ uh, fitness based training is just seeing the number go up for fun most of the time, which adds
+ a lot of flexibility when it comes to planning, um, workouts planning the season, because one of
+ the hardest things in coaching is making sure someone has great legs on a very, very specific
+ day, because it doesn't matter. They set all the PBs in April and they are fading in June already
+ when the A races in July, not to call anybody out at the tour. That's what I usually do. Uh,
+ I mean, you would not believe, well, actually you would, uh, how many people I, I consult with
+ where that that's exactly something that happens. And I think part of the, part of the fitness arc,
+ we could call it is that in the spring, when you're seeing that fitness improving rapidly,
+ everybody wants to keep going. I just want to see this number keep going up. So I'm going to keep
+ doing this thing. So I'm going to keep doing this thing. I'm going to keep doing this thing.
+ And you don't realize that you have been basically training to the edge of your body's ability to
+ recover for four months at this point. And now it's starting to break down and you're like,
+ and then it comes to like June, July, you reach out to me, Hey, what's going on with my fitness?
+ And like, you need to rest, you need to reset a little bit. Uh, and part of like a race schedule,
+ um, you know, a competitive schedule helps with like changing focus. Okay. At this point, we don't
+ expect fitness to be as good as it used to be. So I'm going to keep doing this. I'm going to keep
+ improving or like this aspect of fitness, maybe it's time to work on race efforts. And like, then
+ we got to work on racing and we've got a lot of stuff to work on with that. And so there's always
+ stuff to work on that kind of takes us away from seeing, you know, fitness improvement in
+ perpetuity or, you know, hoping that that could happen. Right. Um, oh yeah. Sorry. Do you have a
+ question? So, uh, yeah, I think the main difference is that training for fitness provides you with so
+ much more flexibility, uh, than trainings for specific races. Uh, but even if you're training
+ for fitness, uh, I always suggest people try to come up with some sort of goal, even if it's not
+ a race, uh, it can be something as simple as a 400 watt FTP. Yeah, that'd be,
+ pretty neat. Uh, but more realistic goal for someone casual kind of casual might be something
+ like 200 K under three hours, for example, uh, because there's only so much that the numbers can
+ keep going up. And if you do a goal like this sort of invent your own race kind of thing, uh,
+ it's just engaging fun to do something. I don't know, real as in, well, so it's way less abstract
+ than, uh, my 125 minute power curve and top by three words. Uh, I mean, you can tell your coworkers,
+ anyone who's willing to listen to you did a hundred K in less than three hours. And they'll think that
+ you are really sick and peak.
+ human performance uh and that's what are you gonna raise the tour yeah exactly um i mean and this
+ actually gets to uh a topic that i think we've covered on the podcast before i certainly remember
+ writing uh like i i do a monthly email for all of our clients and uh one of the ones that i did like
+ oh god i don't know like a six months a year ago something like that was like exercise versus
+ training and if you're training for fitness to me this is more like exercise where just like
+ whatever's fun is you know a viable option like today you don't feel like riding you want to hit
+ the gym instead great go do that you want to go on a hike instead cool do that um you know especially
+ if fun is part of your uh you know part of the priorities you have in you know in exercise then
+ like yeah and this is uh this is and you know i think this this is uh also a good um a good example
+ of you know
+ the timelines to expect uh like kind of like we had mentioned before megan what's up
+ um i just i randomly had this come to my brain but i was thinking like for the people that like
+ race quite a lot i think this question kind of takes on a different meaning because like
+ a lot of people like think that they can do it all at once like all of the racing
+ and like get all of the power curve gains and like boost ftp to 400 watts and all that and like
+ like if you're doing a lot of the things that you're doing you're doing a lot of the things that
+ you are racing a lot like training per se kind of does take a back seat because a lot of it is just
+ like recovering make sure you're not overdoing everything and you know you probably won't be
+ doing as many of like your structured ftp workouts and you're definitely probably not going to be
+ throwing in a bunch of vo2 max all-out workouts like into your big packed racing calendar so like
+ i think like the timing of each of those like there's a time for like the training
+ for fitness and a time for the racing they often don't really intermix like i mean depending on how
+ packed your race schedule is i just see a lot of folks like you know if they're racing they are
+ like really racing every race i could fit in there i guess um but yeah so i don't know that makes any
+ sense no no it makes it makes a lot of sense and because like i think that i think one of the most
+ fun things i enjoy about doing podcasts like this is seeing the way that everybody interprets the
+ question a little differently uh and you know you're interpreting it like like if you are racing
+ like there's a time for building fitness versus a time for like maintaining fitness and you know
+ and you know i've i coached you through some really grueling race schedules and i remember
+ you just being like i just need an endurance ride my legs are so crap right now unless i get this
+ yeah like i guess for me there came a point where i'm like i've i've done so much racing it's like
+ my endurance i feel like has just gone out the window like i'm so sharp it's almost like i've
+ i'm leaning towards like crit crit racer mentality where it's like all i can do is just noodle around
+ and sprint and then i'm after an hour i just want to like do nothing i don't know i just feel like
+ i needed that like endurance and ftp back of my legs to feel like me again um but yeah i don't
+ know like i like the racing demands and like just training demands are so different right like i
+ mean that's why you have this whole you know period of like your off-season building building building
+ like january february and then you start like you know getting ready for the races and it's like
+ you shift into this whole different world like a lot of people are like oh my god how do you do so
+ much racing it's like well after i race i take like four days off and then you know ride a little
+ and then i race again and then i take four days off and like i think people would be shocked to
+ know how much like rest i was actually taking yeah which is not training oh yeah for sure and
+ it's necessary um and i you know then that even gets to the point where i'm like i'm not going to
+ go to that race and they're like oh thank god i i didn't want to spend the money and you know go to
+ that on that long car ride anyway uh and you know that can be that can be really nice too um alex
+ i was about to alex is is doing the uh i got something to say in our recording platform but
+ i was going to call on you anyway because you've done a lot of this stuff you've done a lot of this
+ yourself so what are your thoughts here well honestly what mostly came to mind is like you
+ know i was thinking about the athletes that i have that don't race and they're typically
+ people who like to ride bikes and it's kind of like their main way of staying fit and um
+ and kind of like a main outlet but it's like they want to be i think of kind of fitness in this
+ sense as like people who want to be capable of like maybe showing up to like a um a casual group
+ rider or a ride with friends or like maybe they want to do a centerline or something like that
+ occasionally um but they you know just want to generally feel good on the bike and feel like um
+ yeah kind of generally capable and so i think for yeah for a lot of time strapped people who have
+ full-time jobs stuff like that this is kind of their focus you know they don't really care about
+ racing so um and so i think for these people it's like a little bit more of like a generalized or
+ broader almost like kitchen sink approach um where it's like maybe we're working on a little bit of
+ everything and i think it's kind of like a little bit more of like a generalizer broader almost like
+ think given that we don't need to get specific like we don't need to work on any race specificity
+ or kind of any specificity in general it's like yeah there's a lot more that can be done there
+ um there's a lot more flexibility um so in that sense i would say like one doesn't necessarily
+ have to worry about getting super specific with anything and i would say it's more like what feels
+ in some ways what feels like the most interesting or fun to work on um and kind of starting that as
+ like a yeah how do you a way to start your approach is to how you approach training yeah
+ actually i was just thinking about one of your long-standing clients and i was just thinking
+ about like how how actually fun it must be be like all right it's summertime let's get you on
+ some long rides in the weekend and in winter time all right you know a couple swift races get in
+ the gym like you know it's there and there's like
+ you know a couple of races get in the gym like you know it's there and there's like
+ you know you're not you're not heading towards anywhere but like wherever the wind takes you
+ you know um megan what's up i was just gonna add like i guess for a lot of those people it seems
+ like almost their life kind of dictates what's gonna be put where into the schedule like you
+ know they have a change in their job and it's for the better and you're like okay well like let's
+ hit it hard you're like not working as much or you're not as stressed for this period like we
+ could you know
+ kind of sharpen things up or try to move the needle somewhere whether it's like ftp or like
+ lifting or whatnot so i don't know i guess in that sense like you know maybe you're like
+ just training for fun and for fitness for like most of the year and if you do find that period
+ of time maybe you get a babysitter or something then you can like you know have more time and
+ less stress to like do like harder workouts and stuff yeah for sure um erica we haven't heard from
+ you on this one yet
+ yeah yeah i mean i think um yeah i think like i agree with everyone's comments it's like i think
+ when i think about like training for fitness um or training for racing it's just like what's what
+ the specificity of it like training for racing you need to be you know super specific to the
+ goals and demands of the event and then training for fitness i think we like flow in and out of
+ that throughout a whole year it's like okay sometimes we're just maintaining some amount of
+ fitness um you know just like you guys were saying it's like to be able to go do a mountain bike
+ ride or like ride with your friends or if you don't know what event you may want to do in the
+ future if you have control of your race schedule just having the ability to like okay in a month
+ or probably hopefully two months i want to do this event and then we can say like okay cool we're
+ starting from like a place of some amount of fitness like let's look at the event and then
+ build towards that um and it then it's not like oh gosh like we don't we need to we need much more
+ time to prepare for the event and then we can do it and then we can do it and then we can do it and
+ maybe unforeseen events um but yeah i think one is just like a little bit more casual laid back
+ it's more free there's more flexibility i think mentally it can take a lot less energy and then
+ the other is a bit more focused and like um time limited and like a little bit a little bit more
+ pressure i guess you could say yeah and i i think and i think that there's ironically enough i think
+ that there's in some ways more freedom that comes with having a deadline
+ uh because it it really it focuses you and and it like it puts up um it puts up guardrails
+ then you're like free to do whatever in those guardrails but i think and i've i've personally
+ always had this trouble as a coach it's like when somebody doesn't race oh god where do we go what
+ do we do it's like they're the choices are too much that it's like paralyzing in some ways um
+ and that's just the me problem like you know the rest of you are
+ clearly way better at that than i am um and that's one of the reasons that i tend not to take people
+ who don't race unless they're like super cool and i'm like this is gonna be really fun um in which
+ case that's awesome but you know just just all cards on the table that's like one of my weaknesses
+ as a coach for sure um although speaking of you mentioned you know um time crunched kind of things
+ we had a good question about time crunched athletes and rest weeks so
+ people want to know and i've seen this asked a couple times should we take rest weeks as a time
+ crunched athlete so we may want to consider something between like i don't know four to
+ eight hours and then like maybe eight to twelve or fifteen hours and then you know kind of thinking
+ about it in that way maybe i don't know alex what are your thoughts here yeah um and i'd say
+ you know this made me think of kind of athletes i was mentioning before where it's just like
+ we're not racing and and just like maybe athletes in the five to ten hour a week
+ riding range and um yeah for these athletes i mean i have one and we've kind of like
+ i and this almost sounds bad saying this but i i rarely give her a rest week because typically
+ maybe she goes on vacation or there's some life stuff that gets in the way but it's like
+ we don't really need to those
+ take a rest week themselves known anyway totally um and i'd say at the most like with an other
+ athlete um who is like yeah doesn't have a ton of time i think what we've done is um keeping
+ volume essentially the same but just no intensity and um easy recovery rides maybe just sticking to
+ like easy endurance um but if we were to take i would say cut or like do less volume or even
+ yeah just super easy recovery rides it's like i don't want to say he loses the fitness that we
+ gained but i just it wouldn't help us um it wouldn't get him any fitter and it's not going
+ to have him recover any better so um yeah no i i i'm fully with you on that and actually i'm a i'm
+ a low volume athlete these days myself um i do probably 10 hours a week in the gym right now
+ but i also do like six on the bike
+ and most of that on the bike stuff is like the easiest noodling you've ever seen and it's like
+ mostly for health and i on the bike i don't take rest weeks i absolutely take rest weeks in the gym
+ like on the bike or rest week for me is like it doesn't exist because i i physically don't need it
+ uh and i think that that's one of the things a lot of people are wondering though is like
+ you know should i should i because usually you hear certain things on like tapering or resting
+ like you've got to you know decrease the intensity of the bike and you're like oh my god i'm not going to
+ ride this week like it'll like like you said i would expect somebody to lose fitness like that
+ um and so yeah uh why don't we go to erica on this one yeah i think so like kind of dependent
+ of the person what's like if they're off the bike stress is like extremely high or they're doing a
+ lot of international travel for work and yet they are still time crunching and they're not
+ at some point like some rest weeks you might just be like we just we need to rest you just need to
+ go home and sleep um but of course like you're saying it's like well they're so limited and
+ they're training it's like well then how do we build off of that i think sometimes full rest full
+ full like where you actually need to recover from you know flying back and forth to europe
+ um for work meetings uh but then other times i think like using the volume keeping volume on those
+ like rest weeks
+ um but kind of eliminating the intensity is a direction i would probably tend to go provided
+ that they're sleeping enough in their time crunch state to like support some amount of recovery
+ yeah and also for people doing international flights i've heard that dubai has an excellent
+ gym behind the security checkpoint so if you want to go hit the spin bike there and lift some weights
+ it's apparently like the best place to do a layover um uh let's see get aminas
+ rest weeks for time crunched athletes i really like the saying that uh people are short on time
+ uh also short on recovery uh because all the low volume people i'm working with i would absolutely
+ love to write more but for some of them five hours a week is the most that their families
+ are willing to tolerate uh fans you know they have young kids they have busy busy
+ schedules whatever so even if five hours of riding is not that much it takes a lot of mental cognitive
+ energy to fit in those five hours a week into the busy lives so i think uh i definitely schedule
+ rest weeks for time crunch people but then but the emphasis is on uh not stressing about trying
+ to fit in right now and i think that's a good thing i think that's a good thing i think that's a good thing
+ right so what i often do is uh leave the calendar empty and say you know what let's aim for three
+ 30 60 minute rides this week whenever you have time if you can do only two that's fine the goal is
+ you know to rest mentally first and foremost yeah and i i usually also tell people in that
+ situation to take that time to catch up on all the things that they've been missing um you know
+ family stuff or life stuff or you just really want to go to that restaurant or you really just
+ wanted to sit down and eat apples and a block of cheese uh it sounds like a pretty good rest week
+ to me um and you know doing that all that kind of stuff um so megan what are your thoughts here
+ uh yeah i don't know i feel like i usually come up with the people that just the rest weeks kind
+ of fit themselves into the calendar and it's almost like you almost didn't even have to like
+ it's nice when people tell you things in advance if they have like trips or whatever but like
+ i feel like a lot of those time crunch athletes do end up getting sick a lot and that kind of
+ becomes like you know their rest week and maybe you don't hit it hard right after they were sick
+ because that you know isn't the most optimal rest but like you know a rest week might just be like
+ getting some endurance back in the legs or something you know they they don't need more
+ time off the bike but they can't quite hit intervals so just kind of like keeping all the
+ text in mind and like maybe just dialing things back but not like reducing the volume because
+ it's yeah it's hard to reduce the volume if it's like five hours six hours a week because it's
+ that's not much yeah for sure and i think that um i think that in a way there's there's also um
+ something implicit in this question which is should i drop the intensity like if you are and
+ honestly if you really only have the energy generally speaking to ride hard like once a week
+ and this is usually not our coaching clientele almost never in fact but if you are somebody who
+ has the energy to ride hard like once a week like it's just like a saturday or sunday and otherwise
+ you just kind of you've you're busy with family you're busy with work and you're just kind of
+ spinning in that kind of instance i'm usually not going to be like you should definitely rest it's
+ like the need for rest will make itself known in a lot of ways that'll come up as like lethargy or
+ you know um
+ you're getting sick like the kids always bringing diseases home from daycare or whatnot like
+ that is so so so common and like i i remember distinctly this year uh one of my clients who's
+ you know low moderate volume uh who's always got some like you know always getting sick or like
+ work stuff whatever he i remember him putting it into training peaks like yeah man i think i could
+ use a rest week and i look back and i'm like you know what this is the first time in like
+ six months that you've had like a good solid like four or five weeks of training in a row
+ and usually something's come up by now and so you know with you i'm just like not usually looking
+ for do we need a rest week yet it's like if you need a rest week like we're gonna take it but
+ i'm just happy that we got enough consistent training where you need a rest week
+ that is like a big win for somebody with all those kind of life stressors so speaking of
+ getting sick why don't we talk about resuming training after a break this is probably
+ the most perennial question i get on the weekend amas on instagram uh and i think
+ i don't know why it's because to me it seems obvious but it's also like that that bias i
+ have of having done this for so long uh it seems obvious to me but it's i guess it's not obvious
+ to a lot of people and this is you know definitely my ignorance showing things but i think it's
+ entirely so why don't we discuss coming back from training after a break like
+ let's actually let's start with does it make a difference if you were sick or busy or
+ we're on vacation and are fully relaxed does anybody think that makes a difference
+ megan you're nodding go ahead
+ oh uh well yes there's
+ a big difference between if you're just like lying on a beach relaxing or at your house taking
+ lots of naps and um compared to if you're like i don't know some people go on vacation and they're
+ like walking around all day they literally are always just like i am so exhausted from you know
+ the flight or whatever like you feel it i mean like yeah like you're you might think like oh
+ it's been a while since i did any kind of hard riding or anything like i'm ready to get back
+ i feel like you still need to have that kind of like mental freshness of like you know you have
+ to like want to get back on the bike and if you're exhausted from whatever you were doing like you
+ know that's probably like not the time to like start hitting it hard again so i don't know i
+ think it makes a difference no that's a really good observation that i had never put together
+ before but i think you are absolutely correct in that i think a lot of people who don't have a ton
+ of stressors in their life and they're usually training pretty easily like you know 12 to
+ 15 hours a week let's say uh or more you know having that week off the bike and having a bunch
+ of stuff to do and walking around like that's not a skill that those people typically have
+ you know it's like if you are super busy and you're super stressed
+ dealing with that kind of stuff like it's second nature at this point um so
+ yeah i would expect uh actually you know what forget what i think uh let's move to
+ what do you think about this one um i think it's really important to be patient when coming back
+ the most common mistake i see people do is that uh they assume that they can do exact same workouts
+ after a month of the bike or mostly of the bike like they did before the break or i assume they
+ had the same f2p
+ i ever so i always tell people to take it very easy and let the words come back to them uh uh do
+ all the i uh well do all the workouts by feel uh if someone's doing f2p workout the first f2p workout
+ in possibly months for example i don't even prescribe target power just ride at what feels
+ like f2p it's probably going to be 20 30 watts lower doesn't matter
+ the previous f2p will come back um so yeah i think patience is the most important thing
+ yeah actually that's that's my canned answer for people on instagram because you know i got to keep
+ it short unlike here uh oh yeah so if you're if you want us less death go follow me on instagram
+ um but uh reorient is what i tell people to do um because i think a lot of the time the question is
+ like well if i was doing 2x20 at this power like two weeks ago before i got sick or my vacation or
+ whatever should i just do that again should i try to aim for the same thing and the answer is
+ absolutely not uh reorient yourself in where your fitness is at now and then start making some
+ decisions about like maybe i'm a fitness is really good maybe i needed that break uh that should tell
+ you a lot about how hard you were training before um or on the other hand if uh you know you're like
+ man a lot of fitness which would be more common um then yeah it'll come back quick uh erica
+ yeah i i guess um i was thinking of like shorter break duration um like maybe like a week or week
+ and a half um or two weeks but usually like at least coming back into it um i always like to
+ program like some endurance riding just like endurance riding get back on the bike and feel
+ good and then i will probably ask for like some shorter high intensity almost like an opener to
+ a race just to like feel good get some confidence i think sometimes people will do like they'll come
+ back they'll get on the bike they'll immediately try to do the last kind of workout they were
+ doing maybe they're doing like hard vo2s and they're like today's the day um and i think you
+ can lose confidence with that it's like oh gosh my fitness is all gone and i feel terrible it's
+ like well i think you just don't feel that good because you had two weeks off the bike
+ so i think just like taking a few days easing into it um but i do like your guys ideas with
+ like if it's a long extended break like a month like using a bit of rpe and like feeling it out
+ and and really having patience um but i was i was more on the track of a shorter a shorter break in
+ which case it's just like we can get back to it fairly quickly but give yourself a few days
+ no i think that that's probably more the real spirit of the question because i know a lot of
+ people um are out for months uh which certainly happens i mean by no stretch of the imagination
+ does that not happen but i think i think mostly people are like i got a little cold
+ you know i had a fever i had food poisoning uh i had a couple stressful days at work how do i get
+ back to it and yeah it's like you know just just you know your reorientation and and kind of getting
+ back to it will be shorter the less time you had off the bike um and in a lot of ways like especially
+ if it's just a couple days like you said erica it it should be it should be pretty quick and it
+ shouldn't be that it shouldn't be that rough of a re-entry uh alex yeah where my mind went with
+ this question was kind of like probably the most important thing i think about it is like
+ what's the most common you know structured breaks that we see so like a mid-season break
+ and then maybe like an end of season break um and so with the mid-season
+ um i would usually like mentally prepare for maybe like i don't know two or three weeks maybe say a
+ block of training depending to get back to like where you were pre pre um break like let's say
+ your break was like a week that's i think that's kind of what i would think to look at um and
+ then i think you know that would probably look like week one um getting riding volume back up to
+ previous levels and then you're adding like you know intensity the next like week or two to that
+ kind of building up to um being able to race again so um but yeah like the the break will
+ be necessary you will lose a bit of fitness but then we'll build back up um and you'll be as fit
+ if not fitter the idea would be you'll be a bit fitter than you would be if you're not fitter
+ before the break which is why the break is necessary um and then i'd say for end of season
+ maybe a week or two of like little to no riding something like that um and i think that's where
+ you go from there is a bit dictated by uh what your off-season goals are how much time you have
+ in your off-season maybe you're going to get into the gym eventually maybe you know you need
+ something working on something specific but i would say that's going to be like a slower
+ typically re-entry um for people who live in the mid-season and i think that's going to be
+ i think often the uh fall months are like um making the most use of good weather and daylight
+ while it's around so um i like to kind of really ease back into the riding with very little pressure
+ and focus just on volume fun rides stuff like that um yeah and actually speaking of the the fall thing
+ uh that reminded me of one of the mistakes that i've made as a coach because somebody who coached
+ which was like coming off of a race season you know the weather's perfect uh do you want to keep
+ training and um and i've i've done this with a couple people where they absolutely should not
+ have kept training i've done it with myself too like the weather's nice i'm just going to keep
+ going and see how much more fitness i can gain um when in reality like you got to take the pressure
+ off like you said you've got to just do some easy riding and just enjoy the weather without really
+ like reaching for fitness
+ because um to and i feel like i say this all the time but i probably haven't done the podcast that
+ much where you will be trying to grab that fitness so hard it slips out of your hands
+ uh where you really need a break at the end of that season um the other thing
+ that i think um one of you said probably all of you um said in some way was you know the
+ order of operations to getting back to higher intensities and one of the
+ things that uh i remember from biology was this phrase um ontogeny recapitulates phylogeny
+ which makes exercise are wide um it it's they're fancy words to say that an organism's development
+ reflects its evolutionary history and it's like it's it's true in some ways but it's it's really
+ not true in the strictest sense but that's the phrase i think of whenever i think of getting
+ back to fitness of like take take the training that you did to get to your level of fitness
+ and shorten it so if you took three four months of like this order of operations of training like
+ base training some tempo sweet spots some vo2s some higher intensity like do that but just take
+ like two or three weeks to get back to it if you really had some time off and you want to or kind
+ of need to get back into more fitness a little more quickly um so hopefully that wasn't too nerdy
+ for people uh i think it should be
+ fine though um so i wanted to move on to the next topic which is how do you make the most of big
+ training weeks so this is kind of the opposite problem of rest weeks or unplanned breaks and
+ whatnot it's like you've got a break in your schedule in your work schedule maybe the family's
+ going on a vacation and you have a week to do as much riding as you want how do you make the most of
+ it yeah this it's always so exciting when athletes are like i got a break or like they get to go
+ summer fun like you know i don't know they go to a little training camp um it's awesome and so i
+ always you know if we have time to plan ahead for this um we need to train to be fit enough to train
+ a lot during your week um so i think really just like trying to build as much fitness as possible
+ so when we lead into this week of like i can do huge hours like you have the capacity to do huge
+ hours in your week so i think it's really important to have that capacity to do huge hours in your
+ in a productive way so that's usually like the first thing i think about is like okay this is
+ like a target for me to like build fitness as much that we can so when they go there like we can do
+ some big big days um that's the first thing i think about yeah um so let me ask you this question of
+ how many hours would you recommend somebody do when they have infinite time to train
+ because i've got a i've got a rule of thumb in my head about this but i
+ don't really have any kind of strict guidelines i just know what i've had people do before because
+ based on my experience it seemed about right so if somebody is uh like let's say if somebody's
+ typically doing like 10 hours how many hours would you have them do on one of these weeks
+ erica let's start with you on this one since you were just talking yeah i guess if the week that
+ they go are they just like is it new roads to them and are they just riding endurance like big
+ endurance rides or are they just like doing like a lot of endurance like big endurance rides
+ or are you also trying to do it's up to you coach um i would say uh you know i think like
+ if they're only ever doing 10 hours to push it maybe to like 15 to 16 hours but i guess
+ that depends like what the train looks like like where they're staying um the athlete themselves
+ like how well they respond so i feel like there's a lot of ifs in my mind it's like a
+ hypothetical yeah do they have racing coming up like shortly after this do they need to do efforts
+ recovery time after yeah or did or were you just sick for two weeks now you've got a week vacation
+ where you can ride your bike as much as you want how do you do that yeah and i think you can make
+ it if you're really experimenting with bigger hours um you could just like look every day like
+ how do you feel how do you feel today and it's like i mean maybe we have a target of 15 hours
+ this week and that's something that is a big week for them maybe they get to 13 hours and they're
+ like i'm cooked
+ it's like okay well like let's just do it had too much fun on the climbs sorry yeah um alex
+ what are your thoughts here yeah maybe this potentially slightly controversial but i would
+ i would say you could almost as a rule a general rule of thumb and obviously it depends say like
+ double uh what you're normally doing so for example if you train 10 hours on average
+ and i'm again i'm thinking kind of your normal average joe person who's like
+ works full time and let's say they get a week they get a week off and they're like i'm gonna
+ go ride for a week and we're usually doing 10 i would say well maybe shoot for up to 20 hours
+ with the caveat being like we're just we're just focusing on volume um i think if there's a there's
+ a um i would say you could add in intensity like but you would have to make sure that you can
+ recover from that afterwards so like for a 10 hour ride you could add in intensity but you would have to
+ 10 hour a week athlete doing 20 hours plus intensity they will probably be so wrecked after
+ that that it's like the amount we'll have to recover from that is just not doable given they
+ work full time etc so in that case i'd be like shoot for 20 hours a week of um just volume um
+ and i would say for any time strapped athlete who is training under 10 hours like that is going to
+ be where the biggest bang for your buck they're just doing the higher volume and not doing any
+ intensity um
+ and yeah i don't know i i'm curious what y'all think of that because i'm thinking
+ honestly if i had a 15 hour a week athlete i think they could do 30 hours just a big volume and
+ probably recover from that fine you know obvious maybe above 30 hours not really
+ recommended for normal people but that's kind of my hot take
+ yeah get a minute so i'm curious to hear your take on this
+ uh i agree with alex uh i think
+ and for context you have written ridiculous volume also yourself so you know what this is like
+ i i i thought i did but then i uh i got to know james and i don't feel that way anymore um
+ but yeah i think uh people can often surprise themselves by how much volume they can do once
+ you know they don't have to work and maybe they're in a different environment so they don't have to
+ think about data
+ they can just focus on writing so i would totally not be surprised if someone can go from 10 hours to 20. uh but my main advice if someone wants to do that uh you know do serious hours like 20 25 hours a week as do all the shopping everything before you start the big volume week do all the shopping everything before you start the big volume week
+ you really don't want to finish six hour ride and then have to do grocery shopping
+ and how do you while you're hungry and i don't know if other people can relate but
+ my brain's really messed up where um if i come back home from a really big ride i'm really hungry i
+ should eat but the fridge is empty because i didn't plan accordingly my brain decides that
+ going for going to a grocery shop is not what the
+ energy will not work the effort so i just sit on the sofa and do nothing and
+ and it gets even worse it keeps getting worse uh yeah so yeah definitely do do all the planning
+ before you start the big volume week buy a lot of food lots of lots of food um you know
+ a lot of ice cream as well uh that's the secret uh different flavors of ice cream uh explore
+ explore the ice cream aisle of your local supermarket and if you travel for a big volume
+ week that's even better because you might find new flavors of ice cream that you didn't have
+ available to you previously that's the secret because the person who has this question was
+ asking about should they do like lt1 rides view two max intervals i feel like that's really missing
+ the point you should the point is really
+ you should have met my grandmother she was also very ice cream oriented uh i would love to see her
+ and you going on a ride together i was not ice cream oriented uh until you started recommending
+ people eat ice cream uh when they need to get back on track and that's when i started eating
+ a lot of ice cream i'm not sure if you're sponsored by big ice cream or not at this point
+ i would absolutely take a ben and jerry sponsorship because um
+ i need fish food in my life like like i need air um so um i actually do still recommend especially
+ when people are kind of feeling behind um they're feeling a little off motivation's a little low uh
+ and you know maybe maybe they haven't been eating enough or something like that i'm not even sure
+ um i put i will actually put a pint of ice cream into their training piece
+ and it seems to work wonders uh and so i think also it's like you know it's it's a motivational food it's very nutrient dense well not i mean and as much as there's new it's it's energy dense okay a lot of nutrients in the post ice cream um but it's uh it's i would say for cyclists uh ice cream is probably one of the unheralded superfoods that exist and i'm so glad that you've brought that to light uh megan i want to hear your thoughts before i kind of share my thoughts on this
+ well my gut's a little upset about all this ice cream talk but i i kind of prefer cereal i won't lie because it's i don't know it to me it feels like cereal like you could pour like one bowl three bowls five bowls and it just like it's the same amount of cereal really like in my stomach like that's what it feels like and so i would always after a long ride have like a giant bowl of cereal serving as a box right
+ right and then you can have dinner after that um yeah that's your pre-dinner snack but um yeah the food's important like make sure you're stocked up like so that when you're done with your ride you've just you can just sit on the couch walk to the kitchen sit on the couch walk to the kitchen repeat um but yeah i would say for like i kind of depends because i think like i split it into like does this person want to just do volume like
+ let's just see how much we can do and maybe we double the volume for that week and it's just endurance maybe a couple recovery days in there or like do we try to keep some of the workouts in um and then maybe like go like 150 of what they usually do it's like 10 hours to like 15 ish something give or take um but yeah like i think it just kind of depends on what the person wants to do like you know do they really like need those workouts in their legs for whatever reason
+ or is like it a fine time to just focus on the volume so i don't know um i feel like it's just kind of depending on how i'm feeling in the moment if i was gonna like plan something out yeah i mean because because kind of vibing with what the person's got going on in their life how you know their recovery habits are especially is probably one of the the key considerations that's uh that you're probably kind of hinting at yeah i mean like i don't
+ know like if some like i think you had said like if this person's like just got a week they're going back to their full-time job after that week like maybe just focus on the volume because if you just if you're doing workouts and increasing volume a little bit might be like too hard for them to recover and they just might get more out of just doing volume um so i don't know yeah i think the average person doing like 10 12 hours is probably not the right person to suddenly do like a 25 hour week with like vo2 doubles uh yeah it sounds like the wrong approach
+ um but i um i am i'm actually between you and alex in terms of my volume recommendations so i think i think the average person doing uh doing 10 hours a week can probably do 150 to 200 of their normal volume um and i think if somebody's typically doing like 15 stretching to 30 might be a lot but i would say probably looking at like 22 to 25 would be kind of in the the right ballpark um but
+ um my favorite thing to do with these types of uh these types of weeks is to besides like you know the obvious of is this person need to like get fit for racing right now do we need to like keep some intervals in here or uh what motivates this person do they just want to go climb a bunch of stuff and it's going to be you know kind of a lot of like more tempo we kind of volume so a lot of like harder ish climbing you know between the you know maybe 20 minutes to 90 minutes
+ kind of climbs um you know if it's going to be like that i'm going to err on the shorter side of volume but my really biggest considerations with this is in the recovery department like everybody's already hinted at um and i think what we haven't touched on yet because in the way that we coach it's implicit but for the people that we don't coach i think pacing is a huge factor here um and so if you are going to do one of those climbing vacations those climbing big volume weeks and you're riding a lot of tempo um i
+ don't want to see a 10-hour person go to 20 or 25 i would say 10 hours of like normal kind of endurance riding you know maybe maybe you're one of megan's neighbors out in the midwest and and it's a lot of flat cornfields and um and suddenly you go to mallorca and it's just like up and down and up and down and up and down um all that up is like it's it's a little harder than your normal like endurance riding like the pace is kind of dictated by the terrain in some ways and so that's where i would especially go with a
+ little lower volume knowing that the intensity is going to be a little higher the the energy expenditure is going to be a little higher uh and otherwise i typically will say like yeah if if it's not going to be one of those kind of climbing things and especially if somebody's super well trained like they're used to doing 15 hours a week and they're pretty strong i'd say like yeah maybe we'll do one or two interval days maybe you try to go uh you know get a kom qom on one of these mountains and um
+ you know kind of play it by ear which day that is whatever day your legs are feeling good um alex
+ yeah i just wanted to add really quick because i think everyone's basically said you know what
+ needs to be said on this topic but i think this is a good a really great area where like coaches
+ can help so much because like i think these like nitty-gritty determinations we're talking about
+ really are best made by yeah someone who's really observed uh the athlete a lot so like
+ like i've had athletes specifically ones in new york city
+ specifically who have been doing uh the amount of training intensity you would normally see
+ like in the winter for example so lower lower volume um because they're indoors um you know
+ go to let's say california or arizona and do like a really big week with climbing with you know
+ they're riding in a group so they're like sprinting each other being stupid and like
+ that has worked out and that has been actually quite pivotal in their preparation for racing
+ so you know it always comes back to it always depends and um this is why kind of yeah like a
+ coach's uh perspective can really be super instrumental in what what's going to be too
+ much and what's too little and all these things yeah and especially if you know somebody's going
+ to be doing one of those team camps it's all going to be stupid riding every minute it's
+ going to be a little too hard and they're going to get back racked and you just expect that but
+ like i think if you recover from that and you prepare something you're going to be able to
+ somebody well for it um like eric was saying like yeah that can be they be definitely a really
+ pivotal moment in you know kind of sharpening up and you know really cementing your fitness for
+ the season um all right uh we are at an hour and 10 ish so why don't we just do uh we got like we
+ got maybe four more but let's do like two maybe three let's see how long these take um what are
+ some common under optimization
+ what should people be more optimizing that they don't
+ so if nobody's got any ideas i have a couple ideas all right erica what's up um
+ like maybe when you're approaching like a very specific key training session for the week like
+ mentally engaging with it like i think sometimes people go and like do hard efforts and they sort
+ of like show up and they're like oh i'm not going to do that i'm going to do that i'm going to do
+ shut off their mind a bit just try to like block it out and get through it's just gonna hurt it's
+ gonna suck i gotta get over with close my eyes and just try to power through but i think sometimes
+ like really focusing on the effort like what does my cadence look like how is my power production
+ going like what is my breathe like what is happening with my breathing right now or like
+ how does this feel like this is vo2 and it hurts but like it's gonna hurt in a race or your event
+ and to like engage with that experience and be like okay i'm feeling this i recognize like
+ what this is like so when you are feeling that in a race you're not like oh god like
+ this hurts so much it's like well you know i've experienced this in training and i think also
+ just for power production like you might surprise yourself to get a bit like more watts out if you're
+ like really mentally in it you're really trying your best and it doesn't have to look like you
+ know thrashing around or like you know going to a dark place but that's like being engaged like
+ be there with it and that and that might be a very small like change of focus that might
+ you might get a lot more out of it yeah actually um that reminds me of one of my cues and strength
+ training like whenever i'm like lifting weights with somebody uh and we're like lifting together
+ one of the things i always tell people especially as they get to the end of their set
+ is if it hurts more you should go slower like the harder that effort is like the closer you
+ are getting to failure the more it benefits you to lean into that pain and just enjoy it just be
+ like this is these are the reps that are going to make me my money and so i'm i'm really going to
+ focus on it and i'm going to be present for it and it's it's it's in a lot of ways it's difficult to
+ do um and that's something where qualitatively i would want to know how engaged somebody is with
+ those hard efforts because i think i think on average most people don't have a hard time
+ you know being engaged for those but i think i think there are definitely a lot of cases where
+ like people are trying to just get it over with and kind of like do the bare minimum or
+ rather than like you know really being present for um for that for whatever it is like and i'd say
+ that this especially happens with like the stuff where the intensity rewards uh rewards you on the
+ other side like sprints vo2s like hill reps um that kind of stuff uh and and even like with time
+ trials um you know megan you you're an experienced tt-er um you know what that's like kind of going
+ into the pain cave
+ um
+, terrible wouldn't recommend actually i don't know i feel like there's a whole different level
+ in a tt versus like the training like the training for me has always been so so so hard and i don't
+ i don't know if it's just the adrenaline or what but that's where i felt like getting like
+ tts like going to my local tt helped a lot for like preparing for tts because it's just so hard
+ to get yourself in that mental capacity as if you're in a race like there's a
+ there's a lot of people that are like i don't know i don't know i don't know i don't know
+ there's a gap there for me yeah um but back to the original question what are some common
+ under optimizations oh can i answer that i was hoping you would okay i was trying to segue it
+ very so i was thinking what came to mind is a lot of people i feel like some of their biggest issues
+ is like oh like i you know i got busy today and i didn't have like access to food or like i skipped
+ my lunch or whatever and i was like i'm gonna go to the gym and i'm gonna go to the gym and i'm gonna
+ go to the gym and i'm gonna go to the gym and i'm gonna go to the gym and i'm gonna go to the gym and
+ to me it's just it seems so easy to just like put a couple granola bars in your backpack or your
+ pocket or like whatever like something easy you know and that's something that's not gonna spoil
+ like maybe not a banana like just a laura bar like an emergency snack you can keep at the office that
+ you don't have to worry about spoiling you know in your cupboard or on your desk or whatever and
+ i feel like that's such an easy thing to make sure that like you have a better chance of succeeding
+ in your workout later if you are doing a workout later in the day or just for like a week or so
+ for recovery if you did your workout in the morning and like you just know you have that
+ snack there if you need it because like i don't know that's just like so important for me like to
+ not go like you know six seven hours without eating anything like most people really like
+ struggle with that once they get on their workout because they're already so behind like you are not
+ going to catch up by the time you get to your workout if you skipped lunch like it's just not
+ going to happen yeah and i think actually that runs counter to the general health recommendations
+ where like intermittent fasting like looks totally fine like i was just uh i was just looking at a
+ paper the other day about uh like strength and hypertrophy improvements uh for intermittent
+ fasting versus like not and they were roughly equivalent but like these people are not
+ spending huge amounts of energy on the bike and that makes a it seems to make a really really
+ big difference in recovery day to day and it seems to make a big difference in kind of long-term
+ adaptations and also just like your health in general because being in a you know a long-term
+ what would amount to be eventually like a several thousand calorie deficit during your day that's not
+ helping your body recover from what you did in the morning if you like worked out in the morning
+ especially yeah and um i have never had an athlete be like i didn't eat all day and i had the best
+ workout of my life this evening like that has never happened i can't imagine it happening in
+ the future i don't care if a paper said that fasting is great like did it really go over your
+ endurance athlete training for xyz well and in those cases the literature is is very much on your
+ side with this stuff where like carrying that that deficit is really bad so um yeah because this is
+ the first place my mind went to was nutrition and recovery is what a lot of people under optimize and
+ and i i think that that may be counterintuitive in a lot of ways because i think that a lot of
+ people are really dialing in their recovery and in a lot of ways i think i think people are
+ grabbing onto very specific areas of recovery and ignoring others it's like you're focusing
+ on the marginal when you could be really getting the macro um and like sleep quality is probably a
+ big one like i think um during this recent heat wave it happened a lot when it happened to me too
+ where people were
+ sleeping kind of bad because of the extra heat and humidity um so europe experienced this northern
+ u.s experienced this and like and everybody had a couple bad workouts and it's not like you know
+ it's not the end of the world to like go today didn't feel great and sleep amazing but like the
+ watts were okay um but you know i think
+ if you had seen that coming i didn't i didn't hear about it until it was pretty
+ much over i was like oh yeah it's been really warm here because i'm not plugged into the news
+ i would have been like oh i gotta crank the ac like way down at night to to kind of account for
+ the extra you know temperature outside etc etc um megan sorry oh i was just gonna add to the sleep
+ like if you're traveling as a racer bring earplugs and bring an eye mask for sleeping because you
+ don't want to be kept up by people just doing dumb stuff and a neck pillow you want to have a
+ that's also good for planes yeah for sure but i was i was thinking just like in terms of like
+ sleeping when everyone's like up being loud and you're exhausted you want to go to bed but yeah
+ neck pillow too yeah for sure alex
+ yeah i really agree with what everyone has said so far um honestly the thing that's
+ that came to my mind and it's almost more broadly like what can athletes do better um
+ i guess yeah seeing the what's the saying seeing the forest for the trees yeah more um and not being
+ so mentally hung up on individual workouts um because i've seen individual workouts maybe go
+ subpar um and especially this time of year with like you're saying high heat days it's easy for
+ like people not to hit watts that they should be hitting and then it kind of like
+ just kind of like you know you're not doing it right you're not doing it right you're not doing
+ it right you're not doing it right you're not doing it right you're not doing it right you're not doing it right
+ shakes their whole confidence for everything like oh my god i've lost all my fitness
+ i'm gonna do bad at the race this weekend everything has just like fallen apart all
+ progress is ruined etc um so i think a good optimization is um looking at training in a
+ much more macro level so whether that's just the whole training block in general or the whole season
+ so how are things going how are things trending um and then also just like
+ optimizing or like building durability as far as like your mental state goes in workouts and just
+ knowing okay like some workouts are gonna go not so great and that's like really okay and part of it
+ and i can't be you know at my best at all times um because i think just yeah long term just having
+ a better mental state as far as your training goes and like being happier on the bike is just
+ gonna like make everything more sustainable and more enjoyable um yeah
+ yeah um get a meanness i'm curious what you uh have to say on this one uh i totally agree with
+ alex um recently i went down the rabbit hole of steve magnus content uh his blog his youtube his
+ podcast his books and his waterfall of media he's he's i don't know he's in every form of media
+ yeah i think the word you're looking for is prolific yeah that's an understatement uh and
+ i totally agree with what alex said because i think um our listeners are very prone to
+ obsessing with the training plan with the details like i've seen so many people ask questions like
+ did i execute these vo2 max intervals the right way the scientific way the empirical way
+ whatever uh but i think a lot of people neglect the mental state or worse have unrealistic expectations of i don't know unrealistic ideas of how to handle training you know from the mental perspective because people have this outdated
+ uh view of toughness of being able to bulldoze through everything
+ day after day week after week season after season that doesn't really work that way even if you have
+ the perfect training plan in theory you will will inevitably have doubts uh about you know what's the
+ point of doing this or how to maintain this obsession and it is an obsession for us how to keep
+ that obsession healthy uh sustainable in the long term so i think these questions
+ uh matter a lot in training in keeping that uh training sustainable in the long term and i think
+ that's definitely under optimized for a lot of people yeah and i i would say like the you know
+ in addition to the obvious ones about like sleep and recovery and whatnot i think the real under
+ optimization is in listening to qualitative feedback like like for yourself
+ and i think i think we as coaches like we are always bugging our athletes about that kind of
+ stuff like hey can we see some workout comments um how you feeling uh how's how's all the off the
+ off bike stuff doing i see you recorded a high stress and poor sleep and training peaks like
+ everything okay uh you know we're asking for that stuff but i think people who are self-coached are
+ not asking for that stuff and when i consult with people this is one of the things that i'd say we
+ cover probably like a year or two ago and i think it's a good thing that we're asking for that stuff
+ like 20 to 40 percent of the time is like is really using those actually okay more than half
+ more than half the time we really think about different ways to use qualitative feedback to
+ to help gauge how you should approach training like and recovery um because i think um like i
+ remember i was talking to one guy and he said that his his family history was in from a really
+ hot place so he was like i should probably keep my keep my room like pretty warm like keep my
+ apartment pretty warm like especially at night and i was like no wonder you're not sleeping well
+ like pretty much everybody does better in a cooler room it's easier to sleep in a room that's too
+ cold and too hot uh that's fairly universal um and i know that if you act if you live in like
+ sub-saharan africa or something like that like like you know maybe 75 degrees is freezing to
+ you and i get that like i get the relativeness of it but like i don't know if i'm going to be
+ you know relatively cool to and and this is somebody who lived in in a northern climate
+ where that kind of temperature is like a warm day you know um and so it's like stuff like that where
+ you are it's like you are under optimizing by leaning into the over optimizing
+ like you're trying to overthink something and so you are ignoring
+ things that should just on their own tell you okay maybe this isn't the right way to approach this
+ like i'd say um i'd say sometimes i've talked to people who have planned their nutrition the way i
+ suggest not planning their nutrition like i get my bmr estimated or i get it measured and then i
+ add in my bike kilojoules and maybe i'll budget in another like 10 for daily activity and like i'm
+ done but like i'm really hungry but like oh those are my calories it's fine it's like no you're
+ hungry that is your body telling you like you have over you have you've under optimized your
+ subjective feedback by over optimizing your body telling you like you have over you have
+ over optimizing your objective metrics um so any other thoughts on that or should we go to our last
+ topic for today okay cool last question is why don't sporadic intervals work if you are hitting
+ the same time and zone and i i like this question because this is one of the questions i had for one
+ of the questions i had for one of the questions i had for one of the questions i had for one of the
+ questions i had for one of the questions i had for one of the questions i had for one of the questions i
+ can do that not a problem megan just wondering if i can consider my ftp 300 watts if i do two minutes
+ of 300 here take a 10 minute break to noodle around and do two minutes 300 watts there another 10
+ minute it doesn't feel that hard when you do that right yeah no all right 300 watt ftp perfect uh
+ how about 400 you could do five ten seconds like that and it's
+ yeah i think i could do that yeah that'd be perfect yeah i don't know that's kind of where
+ my brain goes with that one um like i think it is important to like you know not think about time
+ and zone as much as like also like making those intervals longer like if you can like okay you've
+ done eight minute ftp intervals let's try for 10 let's try for 12 let's try for 15 etc etc like
+ i don't know i don't see how else you can really progress unless you are
+ lengthening those intervals yeah and actually that's one of the reasons that i go straight to
+ vo2 is it like you need to put your body into a certain state and this is one of the downsides of
+ having those labels on the power zones you know we've talked about this a lot in um on the podcast
+ before but like you know if if riding for you know a
+ minute or two intermittently you know in the quote-unquote vo2 max zone is going to increase
+ your vo2 max like you know when you're super untrained yeah okay sure but if you are very
+ well trained like you have to get your body into a physiologic state and so there's an implicit
+ assumption that you are doing that when you look at these power zones even though we know now that
+ you know they're actually a lot wider than that um but it's um but when we do the what's it called
+ uh reductio ad absurdum right the uh the reduction to absurdity um i think that's the
+ latin name for it anyway um when we do that we can actually see that you know there is kind of um
+ you know kind of a minimum effective time for certain things right um alex
+ yeah i mean i guess kind of how i was interpreting this question is like you know
+ you know can you interpret this question as like you know can you interpret this question as like
+ intervals that are performed kind of just at random or sporadically through a ride be as
+ effective as intervals performed you know consecutively for example like 4 by 15 with
+ like 10 minutes rest you know why is one better or like why is one not as good and i think the
+ argument can be made that like let's say intervals mixed in throughout a ride sporadically that add
+ up to a total amount of time and zone let's say 60 minutes they can be arguably as effective as
+ you know 4 by 15 done in a row but i think it's not that's not necessarily the problem it's more
+ that perhaps then um the time and zone is being progressed past that 60 minutes like maybe your
+ ride you're every time you're doing these intervals you're only hitting the same time and
+ zone so of course you're not going to progress or see fitness gains if you're hitting the same
+ amount and or potentially you're training at too low of a wattage for that amount of time or too
+ high of a wattage for that amount of time and so you're not going to be able to do that
+ so i think again i think um the sporadic type can be useful and i prescribe them i think we all kind
+ of do in some form um it's fun and it's fun yeah there's a lot of utility there but um
+ it needs to be yeah more optimized i'd say typically and progressed yeah um erica
+ yeah this reminds me of like group rides like this is kind of that like you can look at time and zone
+ after a hard group ride and be like okay yeah you can you collect it some amount of time um and i
+ think you know if you ride group rides you ride some endurance you're generally going to have
+ some amount of fitness from that but you're probably going to plateau at some point um and i
+ think also like if you want to kind of track and see the progression of your fitness like one we
+ need to like keep the intervals consistent so we can like see like are you improving your law
+ production at this time duration and then like can you do more of it so it's very hard to track if
+ they're like very sporadic as well so like i think that's also kind of a problem um yeah yeah no i
+ totally agree and and you know as um you know from my background that's one of my first thoughts is i
+ want to control my variables and i want to make sure that the we are seeing we're seeing training
+ track fitness uh without like having to test constantly um because that's actually one of
+ the things that i do less recently um you know last couple years is testing people uh because
+ in a lot of ways like if we know that the fitness is improving why do i need to see that 20 minute
+ test i'd rather you save that energy for race day um and so having good uh structure for your
+ training is an easy way to do that but also not everybody wants like super structured training
+ and i think that in some ways it is most certainly possible we're not definitely not saying it's not
+ it's certainly possible to do that but i think that's a good way to do that because it's a good
+ way to do that because it's a good way to do that because it's a good way to do that because it's a
+ to train sporadically like this in such a way that the things that you want to improve all improve
+ it's it's certainly not impossible um i think in some ways though that it's if we do the
+ the absurd reduction we do get to a point where we are starting to miss actually putting your
+ body into a certain physiologic state to actually drive those adaptations it's like you know do you
+ absolutely have to do progressive tte work with threshold and sweet spot in order to see improvements
+ and endurance then like no absolutely not however if you are time crunched is it probably the most
+ effective way and the easiest way to to make and track improvements yeah sure like why add a bunch
+ of other variables to your to your analysis um get a meet us i'm curious what you are
+ going to think on this one yeah i totally agree with what you said i think um especially i
+ think about controlling the variables because i think the structured training is effective well it can be effective when done right not because there is some magic in hitting two by twenty precisely at hundred percent hundred point zero percent ftp it's because there is a reason and thinking and some sort of method behind the training so if it doesn't go well or you don't see the improvements that you expect
+ uh you have tools to address uh you have tools you know for changing the workouts changing your training but if it's all kind of random it can be fun it can work to some extent but once it stops working uh you don't really have there's nothing to change there's nothing to address because it's just pretty random yeah i mean um and i think that
+ in a um in a lot of ways like i've i've also seen this bandied about in like strength training circles like do you need to track your training and in a lot of ways like it in some ways a lot of ways um yeah a lot of ways i think that there's a parallels between the two between like endurance training and strength training and i i do love making these parallels because in in in strength training it's easy like did the did the weight go up and down the way that you wanted it to yes no it's it's like it's pretty
+ black and white in almost all instances um and so i think that like if you're like power lifting and the goal is to like see that number on the bar go up and up and up and up like you know you'd better track your training because otherwise like what are you going to do like you go to your power lifting neat and you're like what are you going to put on the bar you're like i'm not really sure i don't know what i did last time but like if you are training for muscle growth if like if you're out there for hypertrophy
+ like all you have to do is like get the muscle group roughly to failure and you have succeeded
+ and as long as you know that you're recovering well like it it almost doesn't matter that you're
+ tracking it but if you watch the weight over time like the numbers should be going up sure
+ with you know small performance variations and i think that that draws a parallel with
+ what is the real driver of the adaptation like is it intensity is it duration is it some combination
+ of the two and then you're like oh my god i'm not sure i'm not sure i'm not sure i'm not sure i'm not sure
+ is it something that's like sub max but you want to repeat it like there's a lot of different
+ aspects of fitness where we could really dig in and and say like yeah something like hot laps is
+ a great idea or some for some reason like maybe hot laps is a horrible idea for what we're trying
+ to do alex yeah i guess that's the one thing i want to add and kind of go off what you're saying
+ it's like i think some of the worst uh training like offenses we've had in the last couple of
+ years is like you know like the biggest we see or the biggest traps people fall into is just
+ kind of randomly riding hard you know during all their rides or most of their rides and like you
+ you must be on your velo also and looking at okay i'm not gonna i'm gonna i'm gonna ride easy monday
+ and i do a hard ride tuesday what's a hard ride i'm just gonna go out and ride hard i've literally
+ done that that was like my first year of training for sure and that's a lot of people's place a lot
+ year or two but um i think in general what it's usually you're seeing is like accumulated fatigue
+ for not much to show for it and just because you're tired at the end or you went hard a bunch
+ doesn't mean you're getting necessarily stronger and it can i think in the long term be the opposite
+ so i think that's kind of i would say my and probably our like general um why we wouldn't
+ say sporadic hard riding is uh good and you know it's a common um trapping i think people fall into
+ and i would say too sometimes when i see like maybe off the shelf training plans
+ when i look at the workouts i'm like oh this just looks
+ kind of like random hard riding every week and there's again not like a focus or a progression
+ to anything so um again just coming back to like it should fit there can be hard riding but it
+ should fit into some sort of progression um in larger context yeah there should be a logical
+ framework to it um and i think that's the way that i would just uh like if you because one of the
+ workouts is uh it is like this kind of hot lap kind of thing where you know kind of randomly
+ riding hard is kind of the point but it is still something that i'm going to track like i'm going
+ to want you to do roughly the same route um or something you can extend a little bit pretty
+ easily like you go an extra i don't know two three five k next time instead of you know 60k you do 65k
+ and you kind of do it as fast as you can we're going to track normalized power we're going to
+ track uh your actual speed
+ maybe we'll kind of check air density and double check on that like oh you were wearing a skin suit
+ today and it's aero helmet instead of like your regular stuff like okay maybe okay that's cheating
+ normalized power looks the same so maybe you need to eat a little more maybe you're a little
+ fatigued like what's going on um and so like we can certainly track that kind of stuff if we keep
+ everything else roughly the same and this is like and this is also one of the issues just to kind of
+ go on a slight tangent that that anybody would have comparing
+ two different races like if you were comparing a crit with a 30 second hill to a flat four corner
+ crit like the normalized power is going to be very very different depending on kind of how the race
+ plays out uh and so cyclocross race is very much the same thing a lot of people in cyclocross races
+ are like man my normalized power was dog shit like what is going on it's like you never pedaled
+ longer than like 15 seconds like the normalized power algorithm is not going to pick that up
+ and so we've got other ways to analyze that but
+ you're going to have to do a lot of things like you're going to have to do a lot of things like
+ you're going to have to do a lot of things like you're going to have to do a lot of things like
+ um but it's like still especially in like a cross thing context or even cross-country mountain bike
+ short track especially it's it's very hard to compare two different races and two different
+ courses because of stuff like that and so it's kind of like did you do this race last year that's
+ probably the best place to a b your fitness uh right now uh and that's one of the things that
+ you're up against with these kind of random rides it's like if you plan effectively you can certainly
+ do them but like you're not going to be able to do them if you're not going to be able to do them
+ you know going we've gone way off the original question at this point
+ um i want to thank all of our coaches for showing up to our meeting uh getting me this alex erica
+ and megan and if anybody is wanting to work with any of our very fine coaches these four or any of
+ the others please shoot me an email at carefulcycling at gmail.com that is uh one of the
+ great ways to support the podcast and especially if you would like to get coaching for next year
+ or you just want to help us want us to help you kind of land the planes for the rest of the
+ season or if you got cross coming up uh that is a really good time to get started with coaching
+ right now um so empiricalcycling at gmail.com or if you want to consult with us i'm happy to help
+ you coach yourself in that way we'll give you the tools to plan and adjust your own training and if
+ you would like to uh oh i forgot to ask earlier give us a five-star review uh wherever you listen
+ to podcasts goes a long way and if you'd like to share the podcast especially that goes a long way
+ too thank you for all of that recently and instagram if you want to ask a question for the podcast we
+ will see you on the next one
+ next time

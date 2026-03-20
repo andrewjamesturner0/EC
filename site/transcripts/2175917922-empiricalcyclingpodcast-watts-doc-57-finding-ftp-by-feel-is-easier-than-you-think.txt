@@ -1,0 +1,1218 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Culley Moore, and today we are joined by Kyle Helsin once again, and I want to thank everybody for listening as usual.
+ And if you're new here, of course, consider subscribing if you like what you're hearing.
+ And if you are a returning listener, we love having you back and you want to support the show, you can always reach out for coaching.
+ It's mid-late September right now, so coaching inquiries are rolling in. It's that time of year.
+ So if you want to get in on the action, shoot me an email, empiricalcycling at gmail.com or head over to the website at empiricalcycling.com and head over to the contact page.
+ And you can look up information about our coaches and all that other good stuff.
+ And we do remote coaching and we coach people from all over the world, amateur racers doing gravel all the way up to pro road racers and mountain bike athletes doing world's cops and stuff like that.
+ So we do it all. So if you're interested, please reach out to empiricalcycling at gmail.com.
+ And of course, if you are not interested in that, we can always consult with you.
+ If you'd like to keep the reins yourself and keep self-coaching, we can help you out with that, help you formulate a plan, get some guidance and all that good stuff.
+ We can look at your old files, talk race strategy, you know, the whole gamut.
+ So we're available for that as well. So please feel free to reach out.
+ And of course, the free way to support the show is to share the podcast anywhere you feel like it's worth sharing.
+ I mentioned it to a friend, share on a forum, all of that stuff is great.
+ And also five stars and a nice review goes a long way.
+ And if you want to kick us a couple bucks in.
+ Anyway, keep the lights on over here for hosting fees and whatnot.
+ You can do so at empiricalcycling.com slash donate.
+ And all of the way up on the Instagram, up in these stories, weekend AMAs.
+ I've got a couple of questions left to answer for this weekend.
+ I was a little busy watching F1 this morning.
+ It was a great day for Williams.
+ But, you know, if I'll get to the rest of those shortly.
+ And so if you'd like to ask a question in the off hours,
+ we have a new podcast.
+ So if you have a question, form up on the website at the top of the podcast page.
+ So and we're probably going to answer a bunch of those on our our one million listens episode that is going to be coming up in a couple of weeks.
+ So that's what we got going on.
+ That's how you can follow us and support us.
+ And so without further ado, even though there's usually more ado today, there's not.
+ I have been talking to a lot of folks who have been saying that they are newcomers to the podcast.
+ So for everybody who has just started listening in the last couple episodes, welcome.
+ We love having you.
+ And I've been making media like writing articles and all sorts of stuff for almost the entire time I've been coaching, which is now 10 plus years, almost 11.
+ And I think a lot of people don't know.
+ I mean, a lot of people do know.
+ But for those of you who are new, I have my own threshold test.
+ And in fact, it's.
+ It is pretty basic.
+ A lot of people like it and refer to it, which is nice.
+ And so if you are curious about the basis of that, that's kind of what this episode is about.
+ And it's it's actually a case of convergent evolution where two things kind of evolve on their own and then meet in the middle and go, oh, it's like eyes.
+ Eyes have evolved like 14, 15 times.
+ Right.
+ In terms of the entire scope of.
+ Of evolution on planet Earth.
+ So kind of like that.
+ And so I remember a couple either months ago, maybe a year or two ago now, our coach Fabiano, who's an excellent coach, he published an article on the Training Peaks blog about RPE.
+ And after that, I had never done this before.
+ And I but I thought somebody has to have tried to find threshold by RPE in the literature.
+ And there's not a.
+ Ton.
+ But there are certainly a couple.
+ And we are going to dig into a couple of those articles today.
+ So but I wanted to start with a preface, Kyle.
+ So it's been a little while since you've done like a proper threshold test, but it's not like but you have certainly done threshold efforts in the last few months at least.
+ So so it's not like you are unfamiliar with this stuff.
+ And I've done the same, but it's like, you know, there's no there's no testing.
+ You've been at this long enough.
+ I haven't had this long enough.
+ Like, we don't need to test.
+ We can just go right at threshold.
+ And I, you know, I can find mine within about five minutes, maybe as short as three, but I feel like I need a little longer.
+ So five big number.
+ So where are you at with this in terms of, you know, RPE and FTP and maybe versus like other methods of testing?
+ And and, you know, because part of what we're going to get into with our preface here is we're going to talk about like modeling and measurements before we get into this literature.
+ I think that I had.
+ I had.
+ I had.
+ I had a.
+ An additional semi, I would say, unfair advantage, maybe not typical advantage where because I came from swimming and we did both my club team and my college team, we did a lot of intervals where you'd also be taking heart rate and then kind of did some heart rate based training and things like that.
+ So I feel like through that as well, you kind of develop just this.
+ Sensation or this this kind of.
+ I don't know, personal knowledge of of what it feels like to be at threshold, which is super helpful, obviously, in swimming, because there is no.
+ Power meter or I even think today it's certainly 20 years ago there wasn't a swimming power meter.
+ I think there still isn't a great one today.
+ You could imagine.
+ Yeah, that's what I've heard.
+ Yeah, it's it's you can you can imagine configuring something with like, I don't know, some sort of fan and you drag.
+ Something anyway.
+ And we would have like a zone heart rate zone based chart.
+ And then after a while, like you're just like, oh, yeah, I'm like doing this pace.
+ I'm at this effort.
+ Like, I don't have to stop and take my heart rate every, you know, for 10 seconds and multiple.
+ Well, a lot of times you just take it for six seconds, which isn't the most accurate test either, but you just add a zero, you know.
+ But it's but it certainly saves time versus taking it for like 30 and then multiplying by two.
+ Right, right, right.
+ Exactly.
+ So.
+ Some error in there, too.
+ But yeah, eventually you got to the point where you released.
+ I got to the point where I didn't need to do that for heart rate.
+ Like, oh, we're going to be in this zone or I think they were they were done by color, which I thought was sort of funny because it was like, you know, like eight different some some number of colors.
+ It's like too many and a bunch of the ones in the very far ends.
+ You never really use like you never really assign.
+ You just read to like purple and ultraviolet.
+ It's like, are we really synesthetes here?
+ Exactly.
+ And like, do you assign zones for warm up?
+ Like, no, you're just like.
+ There is no time constraint on the warm up.
+ You just like do the warm up.
+ And when, you know, they especially once you're at least in high school or something, your coach probably assumes that you are mature enough to manage to do warm up and do it in a reasonable fashion.
+ Although that may not universally be the case, but certainly by college.
+ And then, yeah, you would you would have these zone based swim sets.
+ And when I started cycling.
+ I found that really quickly.
+ There was a pretty easy map from whatever our heart rate based zones from swimming were to heart rate based or effort RPE based or power based zones for cycling because it's it's still an aerobic sport.
+ You know, you're like, oh, it's weird.
+ It's kind of the same kind of different.
+ Like, sure.
+ They each different sport has its own little twist on it.
+ But at the core, they're they're trying to get at the same thing, you know, roughly like endurance pace, tempo.
+ We pace.
+ We pace up to threshold and then like more like VO2 maxi pace.
+ Right.
+ And then beyond that.
+ Yeah.
+ It's like sprint pace.
+ OK, well, that's kind of silly to sign a zone.
+ But, you know, some people try.
+ Yeah.
+ The the severe exercise domain, as it were.
+ So, yeah.
+ So what are your what are your thoughts on like on like modeling FTP, like measuring FTP?
+ Because because you and I.
+ Are also unusual.
+ And I wouldn't.
+ And in this case, it's not an advantage.
+ You know, I guess having having a history of exercise is an advantage to kind of honing in your RPE when you start.
+ But, you know, when you and I do like, let's say, 20 minute tests or like if we did like a critical power test, like it would drastically overestimate our FTPs.
+ Like my 20 minute test would always put me in like the you know, I was always at like 90 percent of my 20 minute test for FTP.
+ Rather than like the you know, what one might expect.
+ Like 95 percent average.
+ Yeah.
+ Yeah, I think there too.
+ And we've mentioned this before on the pod.
+ It's like those those numbers that they're they're hitting the middle of the bell curve.
+ And so if you happen to be not the middle, call it 30 percent of the population, then those numbers probably need to be adjusted slightly.
+ And it may be close enough where if you're prescribing more in zones that you don't have to worry about as much.
+ But if you think, oh, my FTP is exactly.
+ Ninety five percent like, well, at a certain level, does it matter plus or minus five watts in either direction?
+ No, no, you're you're absolutely right about that.
+ I mean, there is a certain degree of tolerance where we expect some error, like at the at the minimum amount we expect, like power meter error.
+ Like, do we know if 200 watts is truly 200 watts or is it really 200?
+ And five or maybe your calibrations often it's actually 215.
+ Yeah.
+ And yeah, power meters claim one percent, two percent, half percent accuracy or something like that.
+ But that's assuming you're doing it correct.
+ You're calibrating and they're freshly calibrated.
+ You don't have any other things going on.
+ But even to that level, like, you know, is two percent really you think about a two percent on 200 watts is is is like a low enough amount that if.
+ You're staring at that number, the like three second average, like holding it to two percent is actually kind of difficult.
+ Yeah, it is, especially outside.
+ I think, you know, inside it's pretty easy, even though it's not perfect.
+ And then erg mode makes it like just it's just like like you're tracing out a graph on on like a calculator is what it looks like.
+ So I think because I've been doing a lot of thinking about this lately and some of the stuff I've been reading has inspired me.
+ To kind of make this podcast.
+ But but I really wanted to talk about models and measurements first before we really get into these papers, because I think I think we've had a I think we've had a disconnect somewhere.
+ And I don't necessarily think that this is purposeful or ignorant on anybody's part.
+ And I know I've certainly been a victim of it.
+ And I I well, I think for me, it's part of it's been ignorance for sure.
+ I think a lot of the time, you know, we we switch up the phenomenon for the measurement.
+ And what do I mean by that?
+ So I like intuitively I was actually just thinking about this when you were saying earlier about having swimming as a background.
+ But like I think anybody who's gone on a hike who's like walked up a mountain for longer than or a hill for longer than like five or ten minutes, you intuitively like get to that point where, oh, God, I got to slow down.
+ Like, yeah, my heartbeat is beating.
+ My heart's beating out of my chest.
+ I'm breathing really hard and I can't even see the top.
+ And every time I think I can see the top, it's not actually.
+ And so I really got to slow this pace down to something sustainable, because if the top were like right there.
+ OK, sure, I can I can I can tough this out, but I don't know where the top is.
+ What am I doing?
+ I got to slow down.
+ So I think anybody who's had like any experience like that or you've gone on a hike.
+ You're on a walk with like a really fast walker when you've not been a slow walker.
+ Maybe you're a little out of shape and you're like you're like, whoa, whoa, whoa, slow down.
+ I think a lot of cyclists experience this when they walk around town with their partners like for dinner or something like that after a long ride or after a gym session.
+ Just like like, sweetie, hold on, sweetie.
+ You're hurting me.
+ And and it's something intuitive is my point.
+ And I think.
+ Yeah, sorry.
+ Yeah, I the last summer.
+ My wife and I had this experience because we were in Ecuador and we went to Cotopaxi, which is a very tall volcano.
+ And you're able to drive up to like a parking lot and then hike up like probably about half a mile, maybe a kilometer up to like in linear distance up like 800 feet or 900 feet up to the base camp where people stay to if they're going to summit.
+ And it peaks out.
+ And it peaks out at like.
+ I think base base camps like for teen.
+ Now it's over 14,000, almost 15,000 feet.
+ And the walk and it is it is just a sandy like volcanic sand hill.
+ And so, yeah, like you said, you find this like what is the pace that I can just a there's no air here.
+ Who took all the air?
+ B, it's not switchback.
+ So it's just like just straight up.
+ Oh, my God.
+ It was just like a ramp.
+ And so you like really quickly settle into the pace of like, what can I just like chunk out?
+ You know, like how slow can you just like take one step, one step, one step.
+ I imagine you're like you feel like you're plotting.
+ Yes.
+ Yeah, you're plotting and it's sandy.
+ So your foot shifts backwards every time you pick up the other foot.
+ Sorry.
+ Yeah.
+ No.
+ And like you said, like everyone, you know, they a lot like an hour and a half or something for everyone.
+ Everyone to do this.
+ And, you know, like you said, immediately everyone settles into like what pace can they just chunk out on their own?
+ Yeah.
+ And so I think it's I think it's an intuitive thing, right?
+ Like a lot of people really kind of get this intuitively because I think if we didn't, you know, we'd have a lot more people lying on the ground like on the side of hiking trails.
+ Just gasping.
+ Yeah.
+ And it's something to like.
+ It is.
+ It was funny because there was there was someone in our group who I think she had just that summer.
+ She just run like a marathon or something like that.
+ So she's like pretty good shape and just immediately just plows ahead of everyone else.
+ And you're like, ah, yes.
+ Look like she found that her, you know, pace up this hill is definitely faster than everyone else.
+ Shocking.
+ Yeah.
+ And I think, too, if you imagine that you are a, you know, sort of like a.
+ I think one of those kind of maybe annoying arguments, but like you're an ancient creature of any kind, not even just a human, like probably figuring out what level is a sustainable work rate for you to to get things done is probably pretty useful for survival.
+ Yeah.
+ And I think that probably most creatures have some sort of innate ability to to figure this out, maybe except cats, because there's no in between.
+ I've never seen a cat jog for a while.
+ You know, it's true.
+ It's like cats are light switches.
+ They're on or off.
+ So I think I think that, you know, intuitively we kind of get that there's a pace at which we can maintain it more indefinitely.
+ And there's there's also a pace where, you know, I think stream ends.
+ There's a pace where, you know, if we start sprinting, then we kind of get that it's not going to last long.
+ And so there's this big disconnect between exercise intensities.
+ And because the the rate at which we fatigue is not.
+ Linear, you know, if like, you know, if we just think about some basic power numbers, like let's say the average per the average, like, you know, 100, 155 ish, 70 kilo male has like, you know, a thousand pound or a thousand watt sprint for like five or 10 seconds.
+ And, you know, 250 watt FTP, something like that.
+ Like there's there's a pretty big, pretty big gap in terms of how long you can hold something that's like just, you know, four times that.
+ It's not like you.
+ Can go from like, you know, 250 watts for 40 minutes and you can do 500 watts for 20 minutes.
+ You know, like that doesn't exist.
+ Like we fatigue a lot faster.
+ And and so kind of intuitively, I think most people, well, all people definitely understand that.
+ But when we are a little more experienced with longer duration efforts, we intuitively understand that there's a line where we fatigue faster above it and slower below it.
+ We'll still fatigue either way.
+ But the rate is quite different.
+ And the feedback that we get from our body is also quite different.
+ And so to kind of characterize this, if you want to think visually about this, because that always helps me.
+ If we look at our power curve, but we don't look at it on a log time scale, because most power curves are log time.
+ If you put it just linear time and you just zoom way out, it's going to look roughly like a hyperbola almost.
+ Because if you zoom in on the on that kind of that that curve part.
+ It looks kind of like a hyperbola.
+ But if you try to fit one, you're going to miss the left side and you're going to miss the right side as well.
+ So if we zoom in on this area, it kind of looks like the curve that we would get with like a critical power test.
+ We can make a certain range of it fit pretty well.
+ Right. So as as we've said before, with like critical power, there's a valid domain where the curve fits really well.
+ But.
+ If we look to the left and to the right, we're going to see that the curve does not actually fit that well.
+ And if you want to take it to logical extremes, like if we assume that the model is our physiology and your critical power is like, let's say it's 200 watts.
+ If you do 201 watts, you're going to fatigue at some point.
+ But if you do two hundred ninety nine watts, according to the model, you can do that literally indefinitely.
+ Yeah, we've talked about the critical power before.
+ How like.
+ So some of it is the classic like, you know, all models are wrong.
+ Some models are useful.
+ But you're you make some assumptions.
+ And yes, it is definitely possible to violate those assumptions, like with what he called normalized power and things that we talked about that before.
+ But, you know, the you you take them.
+ You need to be careful about the domain in which you're applying the model.
+ Like you said, if you know you can you can come up with some abusive thing like one watt below, which again may not be measurable if you have a 300 watt FTP.
+ Is your power meter able to measure two hundred ninety nine watts versus three hundred?
+ And so it's you get to one of the situations where I think if if you take it as a people take it as a law of nature instead of as a model.
+ Yeah, actually, I remember I had a chemistry professor once.
+ Who said we were talking about it was some reaction where the it was best described as like at the natural log of whatever.
+ And he was like, you know, I behaves like this because that's the definition of the natural log.
+ And I was like, no, this this is this describes things that we could see in physical phenomena.
+ I think it was like the rate at which like gas is equilibrated or something like that through like an opening or something like that.
+ Because.
+ I remember thinking, oh, early on, you've got this massive pressure because you've got all this gas built up in this small area when you release it.
+ You know, as it equilibrates like, you know, there's more on both sides.
+ It was something like that.
+ And I was like, we could easily explain this with like basic physical phenomena.
+ It's not because this is the mathematical definition of X.
+ And I I I bugged him about it.
+ And he was like, no, it's the mathematical definition.
+ That's all there is to it.
+ And I was like, I think you're missing the reality for the model.
+ And and that's one of the things that I think that we're kind of getting at as the subtext for today is like you, you know, you have to you have to not forget your observation.
+ And that's what one of the reasons that I like WKO five and WKO four before it, because it uses the best and most updated model of human performance from the scientific.
+ And that's one of the reasons that I like WKO five and WKO four before it, because it uses the best and most updated model of human performance from the scientific.
+ And that's one of the reasons that I like WKO five and WKO four before it, because it uses the best and most updated model of human performance from the scientific.
+ And that's one of the reasons that I like WKO five and WKO four before it, because it uses the best and most updated model of human performance from the scientific.
+ And that's one of the reasons that I like WKO five and WKO four before it, because it uses the best and most updated model of human performance from the scientific.
+ And when you plug in as few as two points into the model or up to possibly infinite points, you have something that's meant to represent reality, but it's only capable of representing a fraction of reality's extremely large scope.
+ Like critical power is never going to really capture like, you know, the limit that we have.
+ That's like peak power.
+ It's like it critical power, like the hyperbole, it does suggest that peak power is potentially infinite.
+ Yeah.
+ At 0.0000001 seconds, you know.
+ Yeah.
+ Yeah.
+ You've got enough watts, enough watts there to like collide protons and find Higgs bosons and whatnot.
+ Yeah, exactly.
+ Exactly.
+ Like the, it, it's sort of, you know, if you ever looked at the, the critical power curve like that, it can be asymptotic and you're like, ah, yes.
+ Like famously there.
+ Things like that in nature that you're like, ah, yes, that's not physical.
+ Like that it's good over a certain range.
+ And then that was a whole like quantum mechanics thing, right?
+ Like the ultraviolet catastrophe.
+ Um, so, which again, great, great band name.
+ If anyone wants to come up with a, um, I don't think I've ever heard anything from, maybe it is a band name already.
+ We should go find out.
+ Maybe it is.
+ Yeah.
+ Yeah.
+ Yeah.
+ But I, I, I wanted to say another thing too.
+ Like, like the other thing you can potentially do is like, you can trick yourself that like this model works so well because like you take all of the data that you have, you pump it into the model.
+ And so you get the fitting parameters and then you take one of those data points and you plot it on the thing.
+ Like, look, that data point that I use to make this fit fits great.
+ Right.
+ But the, the actual validation is if you take data that wasn't included in that fit and then see if it works.
+ Um, uh, like if it actually works in the model or otherwise you're just like cherry picking, you know?
+ Yeah.
+ And it's also, it's also one of those things where if you have certain data in the lab, you assume, and you make the assumption that all data looks like that.
+ It's like, well, in a lab, you're trying to control conditions and, you know, and, and I think in exercise physiology and in cycling, like the, the person is roughly the same in the lab as they are outside of the lab.
+ And in some ways, like labs are actually better for performance.
+ Um, depending on how your mindset is going into it.
+ Uh, but, um, you know, to, to your point, the, um, the phenomenon that you measure in the lab is only based on the data points that you have.
+ And which is one of the reasons that, you know, as much as I've, uh, I've kind of politely, you know, given shit to some people who's like PhDs come from like describing training data.
+ Like that's a very necessary part of science is to like look at field data that we have.
+ It's not.
+ It's not on a, like a nicely calibrated Monarch ergometer, but at the same time, it's like, it's going to be close enough and it's more ecologically valid than a lot of the measurements that we're going to get in a lab.
+ And so when we think about FTP tests in this light, um, all FTP tests are models of reality to some degree.
+ And they are representing.
+ That this threshold that we're all intuitively aware of, you know, this faster or slower fatigue at above and below FTP, uh, it's representing them by some other means.
+ So even with power data, even if you just look at perfect power data, you know, the power data is still a representation of the actual performance.
+ The actual performance is what you did on the day.
+ Uh, and so, um, so something like the 20 minute test is a really good example of this.
+ 95% of 20 minute power is meant to a.
+ Approximate your FTP.
+ But again, this is also a model meant to represent reality.
+ And sometimes it doesn't.
+ Um, and listen to 10 minute tips.
+ Number 63.
+ If you want some hard data, uh, Rory and I went kind of deep on FTP tests, uh, pros and cons and whatnot.
+ Um, and you know, one of the biggest problems, well, it's not really a problem.
+ It's, it's a problem if you forget the limitation of the test.
+ Um, cause the problem is not the test itself, really.
+ It's just a model and the models don't have intention.
+ They just are like the biggest problem is in the interpretation of the model.
+ Like the quantity represented by the model becomes the new reality.
+ So if you think that FTP is defined as 95% of 20 minutes, you've, you are victim to this fallacy.
+ Uh, I don't know.
+ There's probably a proper name for this fallacy.
+ I have no idea what it is.
+ Um, I probably should have looked it up before we started recording, but, uh, I didn't think about it until this.
+ Moment.
+ So, uh, maybe somebody will slide into my DMS and let me know about that.
+ Um, but the, um, in other words, we've let the models quantity be defined as the phenomenon when in reality, the model can only approximate the phenomenon, this, this threshold of performance.
+ And so some models are going to get it closer than others.
+ And some models are going to have much.
+ Less error than others.
+ Um, so like if we take a physics class thought experiment, Kyle, I'm sure you're familiar with these.
+ So our test is now a sphere in a frictionless vacuum.
+ So my favorite.
+ Yeah.
+ Imagine an absolutely ideal test that gets you within 0.5 Watts of your true FTP.
+ You're going to still have at least 2% power meter error at best.
+ And that's assuming it's even calibrated properly.
+ Right.
+ So like, so we can see.
+ That there's.
+ That, you know, we, there's issues with the interpretation.
+ And if you hang on to the model as being the thing, you know, you have forgotten.
+ What you're really trying to observe in the first place.
+ And I mean, at least with empirical cycling, this is the way that we coach is, you know, my standard is we got to be within 10 Watts.
+ And if we're not sure we're going to go low.
+ Cause it's way better to be a little low than a little high.
+ Even though this is a little low.
+ This is still a model, but at least to me, this is like a more accurate model.
+ So do you have any thoughts on this, Kyle?
+ Do you guys have anything in physics?
+ That's kind of like this.
+ Um, well, I would say the, maybe the name for this, it's it, the model would be more phenomenological.
+ Like in, um, in, in science, in physics, especially a lot of times you, you have the privilege of, and I've talked about this before of having a better, deeper understanding of I can crank through a model.
+ Of, you know, I don't know, nuclear decays or proton proton collisions or, or conditions in the early universe.
+ And I can get those to fully account for the things that we know exist and then compare those to reality.
+ Whereas for physiology and the human body and everything, there are so many variables and those things are so complex that even with amazing supercomputers or a God don't say AI, but like the, the, um, you know, there's a lot of things that we can do.
+ Yeah.
+ Yeah.
+ Yeah.
+ Yeah.
+ Yeah.
+ stuff like that. Oh, bootstrapping. Oh, that's a fun one. If somebody is moderately versed in
+ physics and you're not aware of bootstrapping, go check that out. My spare time these days,
+ I'm reading about bootstrapping, imputation, and what was the last one? Equivalence testing. So
+ those are all fun. So speaking of phenomena, one of the things that I think has happened over time
+ is the metaphor I came up with is we've thrown a boomerang and it came back off the mark.
+ Oh, interesting. Yeah. It's like we have gone from phenomenon, we've gone out some distance
+ to the model, then the model comes back to the phenomenon and it's not always going to get back
+ right where we started. It's not going to precisely measure the phenomenon that we are trying to
+ observe. And when the phenomenon becomes defined by the model,
+ and the model is more often wrong than it is right, we get really, really screwed. And we're
+ going to look at some data on that today. Not to say that they don't have their place. All models
+ are useful, right? But they don't have intention. Some models are useful. Some models are useful.
+ Who was that who said that? George Box? George Box? Shove it. Because yeah, sometimes the model
+ fits perfectly. I mean, in some cases, right? Like I'm sure there's a lot of people who are
+ like, 95% of 20 minutes has worked perfectly for me and it has my whole life. Keep doing that by
+ all means, but you have to know that it works for you. And if it doesn't work for you, you also have
+ to understand that at least for you, that model has a limitation. So we are trying to measure
+ something that we can both see, we can measure it with power meters, and we can also feel it by RPE.
+ And so we, the athletes,
+ are the origin of this phenomenon, which is why we observed it in the first place.
+ We, as the origin point of this thing, have a good deal of agency here, and we cannot let the
+ abstraction define the observation. This is the boomerang coming back in the wrong spot.
+ And so since the beginning, and this is part of why I called it empirical cycling, because
+ I care very much about what we can empirically observe. Like that is the starting and ending
+ point for me in coaching. Feel free to reach out. We are taking athletes, by the way, if you are
+ jiving with this. Sorry about that. But yeah, like I want the tests that we use to be compatible with
+ everyone's physiology, because I was quite frankly tired of wasting time,
+ mine and my athletes, especially the athletes' time and energy, on getting FTP tests, doing FTP tests
+ that don't always nail this thing that we can easily observe and feel. So the thing that we
+ want to measure, we can just do, which is awesome. And it's also like, not only that, it's such a
+ change in your physiologic state. It's such a change in your physiology. It's such a change in
+ your physiology. It's such a change in your physiology. It's such a change in your physiology.
+ Well, we'll kind of talk about this, but our coach Fabiano, who I mentioned before, he's a very,
+ very bright guy, MD, PhD, excellent coach. He likes to say that the brain is an excellent,
+ quote unquote, master gland, which sounds dirtier than it is. But it's the integrator of all of our
+ body's systems, muscles, cardiovascular, respiratory, et cetera, et cetera. And somebody named
+ Gunnar Borg felt the exact same way. Oh, Mr. Borg. Mr. Borg, yeah. And we'll get into Borg in a second.
+ But in his paper called Psychophysical Bases of Perceived Exertion, which I'll link in the show
+ notes, published 1982. Good year, by the way. I'm also vintage 1982. He's talking about models that
+ are not to be taken literally. And he, in this very paper, among others,
+ he reminds us that the six to 20 scale is started out as a parallel to heart rate.
+ You know, it's like 60 being your resting, 200 being your peak approximately. But even he says
+ it was not intended to be taken too literally. And I'm quoting, quote, not intended to be taken
+ too literally, unquote. But you can guess what happened since then. Kyle, guess what happened
+ since then? People take it as gospel.
+ Oh. It is the word. Sorry, I led the witness on that one. That was too easy.
+ Any other thoughts before we get into our first paper here?
+ I think that if you imagine that it's, you know, again, it's like people are very different. And
+ even our lived experiences tell us that just sort of in the same way that one size fits all things,
+ don't necessarily fit all people. Like hats with our friend who's got a small head.
+ Yeah. And stuff like that. So it's a nice idea that this would be universally true,
+ but we know people exist on a bell curve, like height. Like you remember as a kid,
+ you used to get told like, oh, you're X percentile in height.
+ Yeah. It was never a good percentile.
+ Yeah. Or they would tell you things like, oh, we predict that you're going to be X, Y, Z tall. And
+ that's just very phenomenological of, oh, someone who was this height at this age, on average,
+ they came out to be this height as adults. Right. And you're like, eh.
+ Yeah. On average.
+ Yeah. And I don't think anyone was, hopefully not like, oh man, you know, the doctor told me
+ in fourth grade, I was going to be this tall and I didn't turn out to be that tall. And now I'm all
+ upset.
+ It's sort of like if you, like, it's sort of like, um, if, uh, if like a teacher says like,
+ wow, you've got a lot of potential. And then I'm very sorry to my third grade teacher. I mean,
+ look where I'm at now. It's just, she'd be so disappointed.
+ Sad.
+ So, yeah. And so I think, yeah, you just got to be careful with some of that stuff of, of like,
+ yeah, it it's, it'll, it'll be close, but to, to, to assume that, you know,
+ that it is the one, the one true reality is, um, a potential pain point for a lot of people,
+ especially new people learning. Um, because a lot of other sports don't have this. And so you find
+ this, some people find this very attractive, this, um, yeah. Although I gotta say in my coaching
+ experience, um, and partly it's because I've been coaching threshold tests and stuff like that for
+ a long time as a coach, but I do find that people who have like any history of physical activity,
+ can nail it pretty much the first time. Uh, and actually they're typically better at pacing FTP
+ tests than people who have a bunch of preconceived notions, which is not to, not to, uh, you know,
+ not to poke too much fun of people with preconceived notions. I happen to identify
+ as a people with preconceived notions, but it's, um, it's just one of those things where I think
+ if you go into it with certain expectations about like what your threshold is, what you want it
+ to be, that's going to be hard because you've got to get out of your own goddamn head in order to do
+ this test, right. You've got to actually be in touch with your legs. And, um, and you know,
+ there's a bunch of, um, you know, and some people have a harder time than this with others for
+ various reasons. And I've certainly worked with a lot of folks like that and we can do,
+ we can take different approaches to threshold testing. So this isn't like going to be a
+ hundred thousand percent universal, but you know, the huge majority of people, this works really,
+ really well. So the first paper that we're going to talk about today is called
+ anorexia.
+ An aerobic threshold determination in cycle ergometer from rating of perceived exertion.
+ And you can tell by it's calling it anaerobic thresholds. You can kind of tell what era it's
+ from. Um, but it's a good paper nonetheless. And we'll talk about the upsides and downsides like
+ usual. So they had 19 physically active young men that these are not experienced cyclists.
+ They had to do a three minute step test. They started at 60 Watts and they added 30 Watts per
+ step. And they told the, uh,
+ participants we're looking for RPE, uh, of 13 to 14. This is, this is easily one of the biggest
+ complaints about the Borg RPE scale is it's not intuitive. Um, it starts at like five. Yeah. It
+ starts at like six, five is like you're, you're sleeping. Four is like you're in a coma. Three is
+ like you're dead. Two is like you're rotting. One is like, yeah, you were just particles,
+ uh, something like that. Um, so, uh,
+ they, uh, they had 13 to 14 be quote slightly tiring exercise. And in the literature, they were
+ looking at other papers. Um, a lot of which I have read at this point now. So, uh, I've done too much
+ reading on this. Um, it's associated with lactate threshold versus RPE 15 to 16, which is quote,
+ very tiring exercise, which is not associated with threshold in the literature. And so their
+ threshold, their RPE threshold,
+ in this paper was defined as below 15 out of 20. And one of the, uh, one of the things about this
+ paper that's, uh, that we'll talk about in a second is, you know, with 30 watt steps, you're
+ not going to get that granular result. Imagine a ramp test, like 30 watt jumps. Yeah. And honestly,
+ like it's, it's fairly typical, um, 30 watt steps. Like I, I more often see like 15 watt steps, uh,
+ for really, really well-trained people. If you want to get it over with quicker, you'll, you know,
+ ramp at a certain, you know, Watts per kilo or something like that. Um, but anyway, the, one of
+ the things I like about this paper, the best is they instructed the participants to use a quote,
+ unquote, a memory anchor to recall exercise performed at their lowest possible intensity,
+ which they call a seven to eight. So, you know, sauntering through the grocery store,
+ maximum intensity is 19 to 20 and moderate is 13 to 14. So that's a memory anchor.
+ And they did the ramp test. They had visual determination of lactate threshold by two
+ different investigators. Um, so that way they had, you know, they had disagreements, blah,
+ blah, blah. You can read the paper. Then they did a, um, they had a linear correlation between RPE
+ and threshold and lactate threshold when they finally ended up comparing the two. Cause there's
+ no other steps like this. We've done it. We, this is the study is done. And so now we're going to
+ look at, we'll plot RPE threshold, lactate threshold, R equals 0.88. That's a pretty
+ tight correlation. Yeah. So what's, what's a point it is. So like, like a huge majority of
+ the variation here is attributable to, um, you know, just those two factors that you're looking
+ at. So they, um, and what they mentioned in the, in the papers that what was novel in the study
+ is that they actually tested the agreement between the two things, rather than just saying
+ there's no difference, which usually what happens is like, uh, in this era for stats, people would
+ do a, a T test and they would get a P value and they would say, okay, well, we've got P of 0.1.
+ Okay. These things are the same.
+ Now, statistically, this is not how you measure things being the same. Um, yeah, like I said,
+ I've been reading into, uh, reading into equivalence tests. So it's, it's, it's a
+ slightly different way to set things up. Um, but I think we can, we can look at the bland Altman
+ plot here. Uh, and what they, and also they have a, in figure two of this paper, they have a
+ comparison of the threshold RPE 13 to 14 with lactate threshold, like the dots of the individual
+ participants. Um, and they have a comparison of the threshold RPE 13 to 14 with lactate threshold,
+ and they also have it versus RPE 15 to 16. And they have really good agreement between the two.
+ And then when they look at the bland Altman plot, they have a zero bias. So the averages of the two
+ are the same and they have a plus or minus 30 Watts limits of agreement. How big were those
+ steps again? So what I weird, that's how, yeah, it's strange how that happens when you set things
+ up like that. Um, and don't worry, we're going to talk about that in a little bit. But, um, I think
+ we'll take a look at another paper in a second that kind of writes this wrong, but this is the
+ big problem I have with this study really is that 30 Watts steps have like no granularity
+ comparatively. And so if your FTP is like one 65, you get to like the one 50 step and you're like,
+ yeah, this is fine. Then you get to one eight and you're like, what happened? Um, so yeah. So this
+ is why we have plus or minus 30 Watts lip for a limit of agreement in the bland Altman plot. Um,
+ and so I also don't love the lactate step test, even though it's ubiquitous, um, steps durations
+ have a big influence on where one finds that turn point for lactate and also like the lactate values
+ themselves that you measure. And there's been plenty of studies that look at just this in the
+ literature, go find them if you want. They're easy to find on PubMed or Google scholar or whatever.
+ Um, but what I do like about this study, it shows that anchoring that, sorry,
+ anchoring your RPE to your experience is a very useful tool. Like in strength training,
+ we have things like one rep max and reps in reserve. Like, like nobody's doing enough reps
+ of like bench press where, where you're going, okay, this is my bench press threshold.
+ Even pushups are not, are not, are not light enough for most people to do that. Right. Like,
+ yeah, like, yeah, yeah. Find a put, find some really, really light, well-trained gymnast.
+ Who can like do, you can find your pushup threshold at a certain rate of pushups,
+ like doing one, like one per second, but you can sustain that for 40 minutes or something like that.
+ I imagine there's something like that for someone somewhere, but in endurance training
+ and, uh, and racing, et cetera, et cetera, we have two thresholds that we can use to anchor our scale
+ because we can feel these thresholds, right? Like you can feel your first threshold. You can feel
+ your second threshold FTP. And so, so FTP relative to your first threshold, like these are different
+ too. And so this can sometimes create a problem if depending on how you want to define it. Right.
+ So like, and, and the RPE scale also is not linear. So your RPE scale is not quite one-to-one with
+ power. Uh, and so like, let's say your first threshold is 50%.
+ Of FTP, you might give that the same RPE value as somebody whose first threshold is at 75% of FTP at
+ that first threshold. Um, and also your FTP relative to a 10 out of 10 sprint, like my FTP relative to
+ my 10 out of 10 sprint is so much lower than for most people, because I'm a good sprinter.
+ And Kyle is the same for you. Um, but we can just choose these thresholds to be our anchor points.
+ And so, and so that's like, that's a big part of one of the reasons.
+ I like the studies is the, the lesson that we have in anchoring is very, very, very useful. Right.
+ Yeah, for sure. So I think, I think too, like, yeah, that's how, like, I don't know, you want to,
+ the first step for any, any model, um, or any sort of way you're trying to represent reality is
+ making sure it like has something that, I mean, anchor is a good word, but it's like some part of
+ it is definitely rooted and, you know, uh, accurate and reflects lived experience or perform or current
+ performance or things like that. Right. You know, yeah. Maybe sort of goes without saying.
+ Yeah. I mean, and this is like one of the reasons that we, in, in our coaching, we want so much
+ feedback from our clients and when they're not giving it to us, like, you know, especially for
+ me, if I don't hear from somebody and they're doing the workouts, but I'm not seeing any,
+ any comments or like feedback, I'm like, um,
+ are you dying with this? Was it easy? I need to know because it really informs how I approach
+ things as a coach. And so, um, and so like going back to my FTP test, uh, you know, my FTP test
+ uses RPE, but like, if you look at the test themselves, I'll link in the show notes, um,
+ you know, uh, you are, you at least have a time goal first. And if you've got, if you are not
+ plugged into your RPE shooting, you're not going to be able to do that. And so, um, I think that's
+ the time goal. Like, oh, do I think I can maintain this for 40 minutes? Something like that.
+ That is a great place to start. And, you know, like I mentioned in the other podcast, uh, with
+ Rory, the, um, you know, the progression I had with my, with the FTP test that I wrote were all
+ about, you know, I probably should have put this in the article, uh, but I didn't want it to be
+ too long or complicated, but you're basically training your brain to feel out that threshold.
+ And so, you know,
+ when you finally have that threshold and you can nail it, and most people can pretty easily,
+ you can anchor your RPE to your physiologic state. If you want to call it a 10, you can call it a 10.
+ If you want to like your 10 out of 13, you know, somebody's special threshold RPE scale, like,
+ you know, my, my endurance pace riding is like a 3.4. No, it's 3.14. There we go.
+ And my threshold base riding is a 10. I just want to call it a 10. And so my sprint is like a 13.
+ Um, you can make that scale if you want, but you know, commonly we just call it a seven out of 10
+ at, at FTP. Um, and a couple of the coaching cues I use to help dial in this RPE to like anchor
+ everything for you is that if you're doing this test and you want to poke the ceiling,
+ like, Hey, is this all the Watts I have? If you go up 10 Watts, your legs should feel like the
+ difficulty went up disproportionately.
+ Compared to if you went 10 Watts lower. So if you're at 200 Watts and you go to two 10, you go,
+ Whoa, two 10 is feeling like a little bit, a little dicey, but you go to one night and you're like,
+ Oh, I could do this all day. This is so great. Like you're probably in that range and that's
+ plus or minus 20 Watts, which is pretty tight. Um, and we can refine it further, but that's a
+ pretty good start. And so if, you know, if that's you, I would go, all right, 200 Watts.
+ Uh, another thing to watch for is your breathing. If it goes ragged, your,
+ going too hard and you have been for a few minutes. And so there's a couple more things
+ along those lines, but this is all anchoring, like anchoring your RPE in your actual physical
+ experience, riding around threshold. Um, and so the paper just used memories of exertion levels
+ with simple descriptors and they got it pretty damn right. You know? So your intuitive understanding
+ of this stuff is pretty good.
+ Yeah. I think everyone's, if you've ever tried to ride up, you know, do a hill that's longer than
+ you know, five minutes, at least 10, you know, you potentially even longer, you've all had that
+ experience of like, Oh, you're in a pace and you're settled in and you're like, Oh, I think
+ it'd go a little bit harder. And you like click it down like one cog harder. And you're like, Oh no,
+ this is not like, um, that's sort of that jump of like, Oh, this is, I, you know, you think the
+ first couple 30 seconds, maybe a minute, you're like, Oh, this is, I could think I could do this.
+ Isn't so bad. And then a minute or two, you're like, Oh, no,
+ no, this is actually not that good. I need to go back down easier or at least lower the cadence
+ or do something to modulate that effort level. Yeah. So now let's talk about our second paper
+ here. And this will be the last one for today. And this paper actually fixes all the issues I
+ had with the first one. I wanted to include the first one because of the anchoring thing that I
+ think is going to be super useful to a lot of people. But this one compares RPE to critical
+ power to maximal lactate steady state testing. And so the title of it, critical power testing
+ or self-selected cycling, which one is the better predictor of maximal metabolic steady state?
+ So they had 13 participants, nine men, four women who quote, cycled regularly at high intensities.
+ So they didn't have a
+ definition of like well-trained cyclists or anything like that. These are just people who
+ regularly rode their bikes pretty hard. That was all the definition we have for them.
+ So they went through a pretty big battery of tests. They started with a VO2 max slash VO2
+ peak test. They're looking for VO2 max and respiratory compensation point and just
+ gathering preliminary data. Then they did a bunch more tests. They did five tests to determine
+ critical power. They did this between one and 20 minutes. And they did TTE tests. So time to
+ exhaustion tests at 80, 95, and 110% of VO2 peak power. And then they chose the other two tests to
+ get good coverage of the one to 20 minute range. So they had a five parameter critical power model.
+ So if you want to talk accuracy, this is pretty damn good, especially compared to a lot of
+ literature. They then did a bunch more tests to determine critical power. And then they did a bunch
+ one to two RPE tests for 30 minutes. So the participants had to ride as hard as they could
+ for 30 minutes. If they chose an intensity where they couldn't, they would come back and try it
+ again. And they did this with zero feedback whatsoever to the participants other than,
+ do you want us to set this power higher or lower? And they could change the power that they were
+ riding at by as little as one watt.
+ So they could get pretty, pretty, pretty precise with this.
+ That's really, yeah, that's pretty good.
+ Yeah. And they also, while they were doing this, they measured lactate.
+ And so then they used these lactate values to decide,
+ so for the RPE test, they did lactate and they used those values to decide
+ where to start people for the maximal lactate steady state tests. And so they did one to two
+ proper MLSS tests. And they did one to two proper MLSS tests. And so they did one to two proper MLSS
+ tests based on the RPE tests. And they, you know, if you, so they defined MLSS as no more than a
+ one millimolar increase between minutes 10 and 30. So if you increase by like 1.2,
+ they would bring you down like five or 10 Watts and be like, all right, let's try that again.
+ Okay, good. Nailed it. And if they only saw like, you know, 0.7 increase, then they would go,
+ okay, we're going to try to get you up like 10, 15 Watts or something like that
+ until they kind of found the right range. And then they picked the lower one.
+ And usually these are pretty granular tests. You can get them pretty accurate within like,
+ you know, five, 10 Watts, something like that. So it was a pretty comprehensive testing.
+ And other than I personally prefer, yeah, the duration, well, we'll talk about my kind of
+ in a second. But for the most part, this is a really good study. So for the results, the MLSS
+ test and the RPE test, they did a pretty comprehensive testing. And they did one to two
+ tests had identical distributions, identical averages, identical standard deviations,
+ 233 plus or minus 42, 233 plus or minus 41. That's it. Pretty good. Critical power test
+ averaged 20 watts higher for everybody. So it was 253 plus or minus 44 watts for the groups.
+ So the standard deviations here though, they don't tell the full story. They just tell the spread
+ of MLSS, RPE, and critical power through the population. So they also looked at the
+ Bland-Altman plots to look for agreement. And they show the same, they show a plus or minus 20 watt
+ range, but they have a plus 20 watt bias for critical power. So on average, critical power
+ overestimated people's MLSS by 20 watts. If you look at figure one in this paper though,
+ we have two outliers in the Bland-Altman plot where MLSS bias is 20 watts higher on the plot
+ than everyone else's. The other 11 people, and this is comparing MLSS versus RPE threshold,
+ 11 people nailed it within 10 watts. Yeah, pretty impressive. And they had two people where they
+ were like 20 watts high. So regardless, every single one of them, every single one of them,
+ everyone completed the 30 minute TT efforts just fine because that was the requirement
+ to complete the test successfully. And the two outliers here most likely had a lactate rise that
+ was a little out of their MLSS definition, more than one millimolar rise between minutes 10 and 30.
+ So that's it. This is pretty, pretty, pretty tight. So some of the things that I'm not the
+ biggest fan of in this study,
+ is I wish they had opened it up to longer efforts because 30 minutes is on the short side for TTE at
+ threshold. But if they're keeping it to MLSS, in theory, people should be able to maintain that
+ exact pace somewhere between 30 and like 60, 70 minutes. And so for average people, I'd say
+ you're probably looking at a range between like 30 to 45, maybe up to 50. Maybe one or two beyond
+ that.
+ So I think that this possibly had an influence on the lactate values, which might be why if we had
+ opened it up, you probably would have seen even tighter correlation. I mean, opened up the test
+ length from 30 minutes to more. Yeah. And I remember we've talked about this before too,
+ with like lactate testing of if your steps are short and then you're taking the lactate, like
+ how quickly are you actually producing it? And is that sample that you're taking like
+ actually representative of that?
+ Yeah.
+ Effort level or are you still on the ramp up to the new, you know, concentration?
+ Yeah. Cause there's a, there's a, when you like start, let's say you go from zero watts to you
+ start riding at like sweet spot or something like your blood lactate values are going to
+ bump for the first couple of minutes, then they're going to come back down.
+ And that really just says that your, you know, your anaerobic metabolism is kind of covering
+ the spread while your aerobic metabolism starts to get up to speed. That's all that's really
+ happening.
+ Um, and it's, it's not, it doesn't even happen as slowly as the level of lactate values. Like they
+ come up like initially, but then, you know, your heart rate comes up, your aerobic system starts to
+ work. Like your lactate values will come down slowly. Um, but that doesn't necessarily mean
+ that like your, your aerobic system is coming up slowly in case anybody was curious about that. So,
+ um, also my other real kind of eyebrow raised at the study is I really want to see individual data.
+ The bland Altman plots are not quite individual data. So, uh, what a bland Altman plot is,
+ is you're looking at the difference between the averages and the differences. So those two plotted
+ against each other. So the two values of average, like, so let's say, um, let's say if you've got
+ two very close ones, this is how you, you measure bias is if, um, if MLSS testing has me at 200 watts
+ and I, I'm not sure if I'm going to be able to measure bias, I'm going to measure bias. I'm going
+ to measure bias. So if I am at an I I've RPE have decided at 210 watts, your average will be 205
+ watts, but the difference is going to be 10 watts. And so your 205 goes on your X axis and your 10
+ watts goes on your Y axis. And so you have, you know, and so that's, that's a pretty tight
+ correlation, uh, all things considered. And, and that was actually for an average in the study was
+ actually like pretty typical or less. Um, and this is compared to a lot of things. This is
+ really tight agreement. Now, if we like, let's say looked at critical power versus MLSS and they're
+ further away, you would have like 240 versus 200 watts. So at 220 watts average on the X axis,
+ so you would have two 20, but above it, you would have 40 watts on the Y axis. And that's like also
+ a not atypical value here. Um, and so when all tests are kind of at least 20 watts different,
+ like this is when you start to get bias. Um, and that's kind of what this plot measures. So we kind
+ of have some individual data, but we kind of don't, if you look at the, like the Y values of
+ the differences between the two, right? Yeah. The previous study, big chunks,
+ 10 watts is still, I mean, depending on where you are, 10 watts still may be a pretty big jump,
+ but for a lot of people, that's less than 10%. You know, it's like in the five that's in the few
+ percent range of your FTP, for example. Right. So that's kind of like we talked before that's
+ within maybe power meter error or how good you can actually, if you've got a climb, that's not just a
+ swift climb, like how good can you actually hold yourself there? And, and you know, if you're
+ really outside with some Hills and some wind and stuff like that's pretty good. I'd be impressed
+ if someone could like, like be within 10 Watts on like every single outdoor interval, you know,
+ I've, I've got clients who do that. You know, if I just tell them the right RP, uh, FTP to RPE,
+ and, uh, oftentimes like if they don't even look at their power meter, they'll get within five
+ Watts for each effort, if not less. Yeah. Um, so, uh, what do I like about this study here?
+ Uh, generally having RPE fall within about 10 Watts of the actual MSS MLSS is a big win.
+ And personally, I would prefer to look at the power meter data over the lactate
+ data. Uh, I know that's just me, but we'll talk about that more in a second. Um, but I think in
+ general, this is probably the most precise and accurate data for FTP testing I've ever seen,
+ like in terms of comparing two different methods to MLSS. Um, and a lot of this is in people who
+ probably had not done something like this before. Um, and by the way, this study in particular
+ was published in 2016, which is about a year ago. And I think it's a really good study.
+ It was published a year after I started to do longer FTP tests. So, you know, this, this is one
+ of the reasons I think it's like convergent evolution is like, I was thinking about this
+ and somebody else was thinking about this and, you know, here we go. So the other thing I like
+ about this study is that, um, there's some post-hoc confirmation bias on my part. I fully
+ acknowledge that. Um, so I think if I had been assigning 20 minute tests for two people for like
+ the last decade, not only would I be a terrible scientist, but I would be a terrible scientist
+ for like letting so much observation and feedback go ignored, but it would give me pause to think
+ that there's something to this and it would, data like this would probably start changing the way
+ that we coach. Um, we already coached this way. So it's, that's why I say it's potentially
+ confirmation bias on my part, but, um, it's, it's really, really excellent data and it really
+ supports the notion that we,
+ we do understand this very, very intuitively. So this brings us to my FTP test, which I think we
+ should probably discuss in some detail. Uh, and, um, you know, and I, I, I have no reason to plug
+ this other than I want people to train better and get a better, faster idea of their threshold.
+ Like I don't make a dime off this. I've said, said this before. Nobody has to pay me a quarter
+ every time they do my FTP test. They don't even have to call it.
+ Um, but apparently, apparently people call it the Kolie Moore FTP test, which I never intended for.
+ So I just want people to test better people. I feel like there's, there is some, there's something
+ too, to be said for, you know, as, as cool as it is to have things named after you to have things
+ that are given names that are more descriptive, like just naming stuff after people. You're like,
+ that doesn't tell you what it is, right? Like, um, you're like, Oh, do I have to, do I have to ride
+ up, you know, the street wherever he lives or something like that? Yeah. Well, I mean, this is,
+ this is pretty common in physiology. It's like the loop of Henley or like, uh, I forget how to
+ pronounce it. Like Purkinje, Purkinje fibers or even, even the, even like Krebs cycle, right?
+ Like that doesn't tell me anything. Like does it make crabs, crabs, crab, crab, um, so yeah. So I
+ think one of the, one of the things to address first is like, why the hell did I come up with
+ the FTP test anyway?
+ Which, um, the, the basic gist of this test, if you haven't read or seen it, uh, head over to the
+ show notes at empiricalcycling.com. Um, and you will find a link to the, uh, training peaks article.
+ Um, it's, um, it's basically a way to, like I said before, it's, it's a method to start
+ riding around threshold by having a time goal and, and kind of making it like a long,
+ ramp from like sweet spot up to like kind of whatever max. So you can feel like you emptied
+ the tank and then progressing to, all right, I think I got this and always starting a little low.
+ Um, so why did I come up with this thing anyway? Um, as someone who's FTP was always around 90%
+ of the 20 minute mark, uh, me and others were probably violating the sacrosanct abstraction
+ of the test is the phenomenon.
+ What did I just say? Why the fuck did I write that? What the hell does that mean?
+ Um,
+ what's the thing? Like the best predictor of performance is the performance itself or,
+ you know, whatever. Yeah, exactly. Yeah. Um, okay. So, so here's the thing is I knew
+ I knew at the time, like even when I was kind of like a whelp of a cyclist that, you know,
+ like I could do like, you know, a lot of the time I would do like about 300 ish Watts,
+ two 90, 300, um, early years for my 20 minute tests. And, you know, 95% of that felt pretty
+ fucking hard to me. Like I was struggling to finish like a three by 10 minute effort,
+ something like that. Um, three, four by 10, I could definitely not do a two by 20. And so I
+ thought that it was, it was a good idea to do a two by 20. And so I thought that it was a good
+ idea to do a two by 10 minute effort. And so I thought that it was kind of strange that I was
+ having issues with that. I also remember at the time there was a long debate about like VO two
+ intervals. Should you ride to a certain percentage of FTP or should you just go max? Like these are
+ the kinds of debates that we were having in the, you know, early teens. Um, so at some point I
+ realized that, that, you know, these tests were basically just abstractions.
+ Uh, the, and you know, the phenomenon that we were trying to measure, we could feel, uh, and so,
+ you know, the easy way to say this is the best predictive performance is performance itself. So
+ like why, why beat around the bush with a test when you can just do the thing, you know what I
+ mean? It's like, why are you going to, why are you going to go check the website for UPS to see if
+ your power is up? And I was like, well, I don't know. I don't know. I don't know. I don't know.
+ package was delivered where you can just open the front door. Right. I think there was always that,
+ that tale of like a, a true FTP test till exhaustion would just be so hard. Um, Oh yeah.
+ Like, cause you easier, you would see people like in the tour de France coming across the line when
+ they're like our TTs, like driving snot and like, just like lying on the side of the road and,
+ and it looked grueling, but you know, it turns out that for the average cyclist, like riding for 20
+ minutes hard, it's like, it's a little harder to pace a lot of the time. Well, I always had a hard
+ time pacing it. Um, and the other thing is that like, it's like that much time over the threshold
+ at once, like for somebody like me is a lot. And I was actually quite tired after that. And most
+ people say that they feel like my test is easier. Um, there's also that,
+ yeah. Whatever the used to have that like five minute, like blow out of it too. Yeah. And stuff
+ like that, where it's like people would or wouldn't do it. And so then it's like, are you
+ actually doing the test as prescribed all this stuff? Like obviously not doing that five minutes
+ heavily benefits those, those of us more anaerobic. Yeah. Well, and, and, uh, we mentioned this last
+ podcast, me and Rory is, um, is I remember doing that five minute blowout and then for that 20
+ minute test, I could barely even do my FTP. And, and actually an actual,
+ fact, I did my first one I ever did of those. I couldn't even average what turned out to be my FTP.
+ I was so blown from that five minute effort. And then somebody wrote in, um, one of our clients
+ wrote in and said, by the way, that's the same thing that happened to me. Thanks for confirming
+ that it does happen. Like I'm not crazy. And I'm like, nah, yeah, this is, this is definitely a
+ thing. Um, so, so the other thing is like, we have power data talking about coming with my test. And
+ so, um, like when we're using software like WKL five and we want, and we want the model to stay
+ up to date. The other thing about FTP is that it's not a one dimensional number. This is not
+ like a point estimate. There's a, there's magnitude and there's duration. So in order to have a
+ complete power profile, you know, at least when you're fresh, uh, we need to not only get a
+ roughly accurate number, uh, my standard,
+ again, is like within a 10 watt window plus or minus five Watts. Um, but we also need to know
+ about how long somebody can hold it within a few minutes. And there's some pretty valid debate
+ about whether efforts in the power curve below FTP or, or even an FTP are truly maximal. Um,
+ but you know, if you are doing 20 minute, if you're doing a 20 minute effort and you're like,
+ man, this should be my FTP by my ramp test.
+ But I really just can't hold it for that much longer. Do I have a mental blocks? Like, no,
+ you probably it's if you had a mental block, like there would be, there would be markers,
+ there would be signs. Um, so when the other thing is when I was coming up with the test,
+ I also knew that at the time that like lactate tests and such were tests that were meant to
+ measure and even attempt to predict performance and the things that, that were drivers of performance.
+ Uh, and so like, while it's common for people to think that lactate measurements are the gold
+ standard and FTP is meant to be a surrogate for maximal lactate steady state or maximal metabolic
+ steady state in reality, those things are surrogates for the actual performance, the thing
+ that we can feel. And so once again, like these things are tests and we cannot let the abstraction
+ become the definition. So.
+ You know, when we take all this data and you put it together, it's an absolute no brainer that you
+ can just ride at whatever you feel like your threshold is. And even if you get it wrong,
+ like even if you think you're going to hold it for 40 minutes and you only hold it for 25, 30,
+ like WKO four or five software, this is going to model it pretty well regardless. And we're
+ probably going to be able to like get a pretty good number within a couple of Watts as a place
+ to start. Uh, and then we can refine it by doing an FTP, uh, not test an FTP workout. All right.
+ Adjust up and down within a couple of Watts and like, and within one to two workouts, we have a
+ really excellent number to work from. And it's that simple because you know, if, and if you're
+ not used to this kind of thing, this is also great for coaching where if you don't know how to feel
+ out what your limit is, this is a great way to practice.
+ And you'll get there. Even if you have to poke the ceiling a couple of times,
+ like if you're not sure if my RPE going to decouple is my breathing to kind of decouple,
+ you know, just ride a couple of Watts over and see what happens. Oh, this feels good too. Great.
+ My threshold is higher than I thought. Otherwise it's like in no time. And it's like, I got to
+ back down. Um, and so like, again, this is all anchoring in the type of feedback that you're
+ getting from your master gland. Uh, and this is, and remember in the absolute scheme of,
+ sorry, the scheme of exercise intensities, this is like a super, super, super tight range.
+ And this is how good your RPE is at picking this up. You can really trust your gut on this one.
+ I think that it's, it's funny. First off, I still can't stop laughing.
+ Yeah. And, and I think people have done that maybe organically too, of you, you have,
+ you've been assigned two by 20 again, and you're like, you know,
+ this range and maybe you, yeah, maybe you just try the first one or maybe the second one a little
+ bit harder, or you, the second half of, you know, the second 10 minutes of the first one, you're
+ like, Oh, I still feel pretty good. I'm I'm this feels easier than normal. What if I bump it up
+ five or 10 Watts and try it? And then pretty quickly you'll know. And that's also a sort of
+ real-time feedback of, Oh, I can add five or 10 Watts. And it's, it's still feels like, uh, like
+ it should, or, or maybe like, like kind of like in lifting where you, you've been doing the same
+ weight on this lift for a while. And then all of a sudden you end up feeling like, Oh, I, I normally
+ I was doing three sets of six on this, but I, the first set I went for like eight or nine. Cause I,
+ I feel like I was improving and go, Oh yeah, I can, I can go for more, you know, similar sort
+ of thing where, you know, you're allowed to do that. And maybe don't do that. Don't do that every
+ time. Don't do every, you know, don't do like as many, you know, it turns out there are no,
+ no actual rules. You can do anything you want. Yeah, exactly. Like, well, like maybe don't,
+ maybe don't go off script every single time you have a workout, but especially if you've been
+ feeling fit, you've been feeling strong, you've, you know, had a good, good few blocks of training,
+ whatever it is. Um, yeah, nothing wrong with being like, Oh, Oh, I you'll, you'll know real
+ fast. Like you said, that 20 minutes was the tick too high. Yeah, definitely. And you'll know it in
+ your second 20 minute effort. Uh, if you're not sure about the first, um, yeah. So, so trust your
+ gut, hone your RPE. Uh, I mean, in my experience, like I said before, uh, anybody with pretty much
+ any amount of athletic training, including just hiking up a long Hill has pretty damn good
+ intuition about feeling out the threshold. So when it comes to what's in the literature,
+ don't let out of sight, the fact that all of the tests are again, meant to describe performance
+ and attempt to undercover is underpinnings and potentially predict performance. But
+ there's innumerable disconnects between small improvements in physiology and performance.
+ Like things like VO two max things like hematocrit things like power at four millimolar lactate. Like
+ I've seen tons of studies that show improvements in these things and do not make a dent in
+ performance. Well, well, yeah. So just because, and this is,
+ this is a, what's that saying of, um, you know, when the, uh, when the metric becomes the target,
+ it's no longer a useful metric. There you go. Um, so the ultimate teaching to the test or whatever.
+ Yeah, exactly. Yeah. Yeah. And, and I think in the last episode, uh, Roy and I were talking about
+ like, I, I, at one point, uh, Rory and some friends were over the winter, like going to do a ramp test
+ test. And I jokingly said, uh, in, um, in one of the discords that were in that, if I were going to
+ game this test, I would do it this way. And somebody actually did. And he had one of the
+ biggest deltas between his ramp test and his actual FTP. Uh, so it was definitely possible to do. Um,
+ so yeah, you've got to be careful about presuming that, you know, a change in some metric equals a
+ change in the thing that you want to improve. Like, like we saw in one of the, um, hypoxia
+ inducible factor episodes, sometimes there's even a disconnect with your physiology. Check
+ number 51. They had mice that had all of the physiologic markings of an endurance phenotype,
+ like a mouse that had been trained for several weeks already. And they didn't have any performance
+ whatsoever. I think that's a underrated under listened to episode.
+ Uh, what's that knockout? Yeah. Yeah. What's that 51 seriously go listen. It's like when I was
+ reading that study, I was like, this is the coolest thing ever. It really drives home that
+ point. So if you're curious about that, it's, it's highly nerdy apologies for that. But you know,
+ I want to give everybody the good information. I don't want to, I don't want to gloss over
+ anything. I don't want to do any hand wavy stuff on the podcast. Uh, it's not what I'm about. So
+ go check it out. Uh, put your picking glasses on, um, glasses.
+ Thinking what cap thinking caps thinking cap. Yeah. Your one size fits all thinking hat. So,
+ um, and so I remember in Wattstock 36, uh, I made the case that power meters just about make lactate
+ tests obsolete. I didn't say they are obsolete because there are still some edge cases where I
+ do find them very useful, but lab tests are only as good as the test and the interpretation like
+ all tests and like all models.
+ And if you're looking for a good FTP test, all you need is a power meter and a brain. And
+ hopefully a lot of us have to, I I'm, I'm batting 50 on that one. So we'll see. Um,
+ any thoughts before we dig into listener questions? I would say that it was kind of,
+ it's kind of the meme post or whatever, where that, I sent it to you where it's Mark Ripperto be like,
+ Oh God. It's like odds are good that your, your coach might be a giant dumb ass.
+ And like, and that's, that's maybe not the right message.
+ No, I'm out here catching strays from the memes that you're sending to me.
+ The right, the right message for that video was saying like,
+ if, if something like at your core doesn't like, you need to think, and does this make sense to
+ you? Like given your experience, um, his, his thing was like, I think it was in response to
+ people just doing really dumb stuff in weight room shenanigans. Like, uh, you know,
+ Seidman esque stuff, but just, okay. Well, good point then Mark. Yeah. Just generally,
+ if something doesn't seem consistent with your experience, you know, definitely
+ ask why ask your coach, ask your, maybe ask yourself, ask your friends, whatever. Um,
+ yeah. And that's, you know, there's no dumb questions needs and wants. If like, if, if what
+ you feel like is your threshold is not like, if, if you've been doing FTP tests or FTP at,
+ like workouts, so like 250 Watts for the last, like three, four weeks, and suddenly your FTP
+ doesn't feel like it's any more than like 200, I need to know that information. Give me that
+ information. Yeah. And you know, there, there are people, people maybe feel embarrassed or silly or
+ something like that. They have questions, but no, this is especially for coaching. It's like this
+ thing you're paying for. You should ask questions. You know, I tell students this in school and stuff
+ like that. Like if you're taking class, the professor, and there's something you don't
+ understand, you should ask,
+ because a odds are good that you're not the only one who has this question and be like,
+ you're paying for this thing. You should get your questions answered.
+ That's what office hours are for. And, and with the way we coach, I mean, office hours are always
+ open. I mean, we're not always in the office to extend the metaphor, but like, you know,
+ text me, email me. Like I'm, I'm here, we are here for that. And we are here to help you train
+ better. And like, and, and anybody who's worked with us or like a good coaching relationship for
+ a long time,
+ you'll know that at some point a lot of stuff becomes tacit and you don't need to spend as
+ much time on, did I execute this workout properly? It's more like, you know, you're more working on
+ other aspects of coaching, which is kind of where, you know, which is the good stuff. I mean,
+ and like, you know, not to say that, you know, helping somebody execute workouts better is not
+ the good stuff. I love doing that too, but there's so much more to coaching than just like your
+ workouts, you know, if only, if only. Yeah. So anyway,
+ um, yeah, so I might as well plug it here instead of at the start and the end case, anybody,
+ uh, you know, skips the intro and skips the outro. Uh, yeah. Reach out, feel free to reach
+ out for coaching empirical cycling at gmail.com. Um, if you're driving with this or a consult,
+ whatever, uh, anyway, first listener question. Um, okay. So we have some, uh, we have some not
+ English native speakers here, but, uh, I'll, I'll read the question as, um, as written start for a
+ chief RPE fastest possible or paste for finish at RPE desire. Um, so like, should you go? It's a
+ good question. Yeah. So I don't know. What do you think, Kyle? I would, well, it feels like if
+ you're doing the, I think if you're doing like the hard start VO twos, obviously you start.
+ It's going to suck and the suck is just going to get worse. That's it. Yeah. Um, but if you're,
+ I would say for FTP threshold, you know, kind of tempo intervals, um,
+ you start at maybe something that's like a little bit easier, but then like two or three minutes in,
+ it should feel like you're, you know, after you're kind of like you said, after you've
+ covered it anaerobically and now you're, you're into your full, just, I'm chilling here. Aerobic
+ sensation. Um, yeah. And this is one of the reasons that I always have people start their
+ FTP tests, like 10 or 15 Watts low. And people are like, Oh, it's going to fuck up my average.
+ Like it's going to cost you like maybe two Watts at the end. Like, yeah, you want to add five at
+ the end. That's yeah. You can't even measure that. Like, just don't, don't even, um, don't,
+ don't start with me on that. It's like, I've done the math on this because I remember when I first
+ started doing these tests, I was, I was worried about my average and I was like, okay, what if I,
+ you know, for me, like I was probably riding out like 290 Watts or something like that. And I was
+ like, all right, what if I started at two?
+ 70, how, how, how's this going to make a difference? What if I started at do 290 the whole
+ time? I was like, Oh, it's like nothing. Um, so, so, so the goal is to also for a lot of people
+ starting low means that your body gets an extra chance to warm up. Cause most people aren't like
+ on it right from the start. It certainly happens, but it's not common. So like five, five ish
+ minutes, three to five minutes low. And then slowly, this is an expression. A lot of people
+ slowly start raising the Watts. Uh, I've, I've worked with a couple of people who will,
+ you know, if, if, if I think that they're at like two 50, I'll start them at like two 30, two 40,
+ give me three, five minutes there, slowly start to raise the pace until you feel like it's about
+ what you can sustain. And people will go from two 30 to two 40, then they'll jump up to two 70
+ immediately. And then it's just like, just pay dearly.
+ Yeah. And, and that's, and that's like, okay, now we need to work on pacing. Cause, um, this person
+ is, uh, they're positive, you know, they're an optimist, they're a dreamer. I love it. Uh,
+ we got to work on it though. Um, so yeah, the goal would say to, yeah, like it's not uncommon,
+ especially saying two by 23 by 10, whatever, you know, the last, the last five minutes of the last
+ interval might get harder to, to like maintain.
+ That wattage and that's okay. Yeah. Actually tired, you know, Kyle, you must have, you must
+ be in my Instagram because the next question is how should we expect our RPE to drift and what
+ indicators note that you were approaching your TTE? Yeah. So fancy. Yeah. So, uh, I always say
+ that there's a difference between absolute RPE and like duration RPE. So absolute RPE is like,
+ if you're doing a ramp test, you know, if you're doing a step test, you're doing your 30 watt,
+ you're doing your 30 watt, you're doing your 30 watt, you're doing your 30 watt, you're doing your 30 watt,
+ you're doing your 30 watt, you're doing your 30 watt, you're doing your 30 watt, you're doing your 30 watt,
+ you're trying to decide is my threshold. Is it, is it 150, 180 to 10 to 40, uh, et cetera, et cetera.
+ I don't want to do any more math publicly. Um, the, um, you know, that's one type of RPE.
+ Like what's the RPE sitting here thinking about sprint versus threshold lying in bed versus
+ threshold endurance pace riding or, or like a recovery ride versus threshold. Like the
+ relationship between these things is like an absolute RPE. Now the duration RPE is what
+ happens when you start an FTP test versus when you end the FTP test because you fatigue as you go.
+ And so, you know, your, your physiology is changing a little bit. You know, you are recruiting larger
+ motor units. Your VO two was going up. Like you have to push harder. Your breathing is,
+ might be a little more taxed. Um, your heart rate's probably drifting up for most people. Uh, so
+ this is the kind of stuff that's going to happen. And it's, it's, it's normal happens to everybody
+ at this age. It's, um, and so it's going to get harder, but you should still feel like you can
+ sustain it. And you will. And I, I saw a paper on this. I forget, I forget what it was. I may
+ or may not have downloaded it. So my apologies if it's not in the show notes, but it was looking at
+ how different types of preexisting, like mental fatigue would change somebody's RPE.
+ Of their like threshold versus their, um, like a, a different type of measurement, which is,
+ I think it's called like the, your, your subjective feeling or feeling score or something
+ like that. I forget exactly. I'm not too familiar with it. Um, cause it's, it's, it turns out in
+ some cases, science very much cares about your feelings. And I almost titled this episode that,
+ but I decided not to. Um, so the, um,
+ so the paper basically was looking at how that stuff affects your RPE and how you feel about
+ things. And it didn't really find that many changes in actual RPE in terms of like, you know,
+ finding your threshold. Um, this is where like fatigue would change it, but you know, a stressful
+ day at work may or may not, but a stressful day at work may make, you may find that, you know,
+ 250 Watts is still your threshold, but it feels harder than usual to start. It feels like you're
+ already 20 minutes into a 40 minute effort.
+ So there's like those two dimensions of RPE. And for our clients, I want them to note both.
+ And, you know, if you're somebody who, uh, this is one of the most common questions I get asked
+ whenever I start with somebody for coaching is what RPE should I put for a ride? That's like
+ three hours and it's got some one minute efforts, but the rest of it's kind of easy. And I'm like,
+ I don't care, but making consistent. So if you decide that's a nine because the efforts were
+ hard and everything else was fine, that's fine. If you think the whole thing was a six or a seven,
+ cause it was mostly easy, but kind of hard, that's fine, but keep it consistent. And so
+ that's the kind of stuff that I have in my notes files for all my athletes too,
+ is like, how does this person's RPE, maybe somebody takes a medication that affects their RPE.
+ Um, and that, that certainly happens. And so these are all things I want to know. And these are all
+ things that I have in my notes. And so as long as you and your coach, and this person asking the
+ question, I believe is self-coached. So as long as you and yourself have an understanding about the
+ different dimensions of RPE, I'm going to be able to answer that question. And so I'm going to be able to
+ answer that question. And so as long as you and yourself have an understanding about the different dimensions
+ of RPE, you can't really do it wrong. Like you've got to anchor it. What most convinced you RPE was
+ so effective as a pacing tool? Um, it was simply because I knew as I've, as we mentioned already,
+ that we can feel the phenomenon and that was the original observation. And if we couldn't feel this
+ phenomenon, we wouldn't have made the observation at all. Well, we might've at some point mathematically
+ might've been like, Oh, look, we fatigue, but it all feels the same to us. But that's not the case.
+ It all feels different. So I knew that. And I knew that the tests that people were doing weren't
+ always the most precise. And so I was like, why, like, why do we have this middleman here? Like,
+ let's just cut out the middleman and just go direct to consumer. Terrible analogy. Um, let's just,
+ let's just do the thing that we're trying to measure. We can just do it. Nothing's stopping us.
+ I can just go out and write on my FTP. Why do I have to do this? I can just go out and write on my FTP.
+ I can just do this complicated 20 minute test and then like, just then do FTP intervals that are too
+ hard for three months. You need permission. True. And I gave myself permission because, um, I guess
+ I'm a little disagreeable that way. Um, Oh, this is another good question from the same person. Uh,
+ any common mistakes when people switch to using RPE? Uh, I'd say not anchoring is a, is a,
+ the first one. So not deciding what a seven out of 10,
+ is, uh, so like I've said before in the podcast, like my endurance pace to me is like a four to a
+ five out of 10 for most people, it's like a one to a three. And so this is just my personal scale.
+ And, um, I thought most people had my scale. First time I said that on the podcast, I was dead wrong.
+ Um, so I've learned since we've changed my tune. Uh, and that's, that's the biggest thing
+ is, um, when you switch to using RPE, there's that the other thing,
+ is being an optimist, being a dreamer. I want this to be my FTP. I'm going to, I'm going to,
+ I'm going to lie to myself. Shout out to Bob Trivers, um, to publish a lot of good stuff
+ on self-deception and deception of others. Um, and, and the proper biology sphere,
+ uh, love reading his work. Um, and it's a pretty good one. Yeah. So like, so,
+ so, uh, trying to, trying to fool yourself and like, cause it's, it's, it's certainly
+ possible. Like our brains are powerful enough. Sorry. Our master glands are powerful enough
+ that we can fool ourselves. We can, we will be, uh, sorry. I was about to extend that metaphor
+ way too long. Um, but yeah, the, um, we've got to stay in touch with reality. We have to
+ not let the actual thing out of our sights, knowing that we are the origin of the thing.
+ So that's, that's the biggest mistake I think a lot of people make.
+ Um, uh, I think that that's, that's interesting. Like I, I, up until now, I did not, I did not,
+ had not yet considered the aspirational FTP folks. That makes a lot of sense. Uh, you're like,
+ if I just will it into existence, it will be true. I mean, I mean, I think, um, uh, I haven't,
+ um, I haven't done the online dating thing and fuck 20 years, just don't like that. Um,
+ but, uh, it's like, I've heard, I never did this, but I've heard that a lot of guys who are like five,
+ seven to like five 11 will put their height is six foot. Huh? And I think it's the same as in
+ a lot of people whose FTP is somewhere between two 70 to two 90. We'll just say it's 300.
+ It's fair. Yeah. Like, I don't know if anybody knows this, but, um, neither is good. Don't,
+ don't just, don't deceive yourself about that. Um, you're not going to win anything for that one. Um,
+ so this is not exactly, um, in line with today's topic, but I'm going to make it in line with
+ today's topic. If my race is in the summer, should I do, should I do raise the temperature
+ when I'm doing my FTP test? Ooh, interesting. Like, yeah. So how does, how does the environment
+ change? So if you are boiling your, your master gland is going to integrate that signal and make
+ sure that you don't cook your internal organs, uh, because that's what crock pots are for.
+ So don't do that. And your brain will help. Um, can you push past that? Yes, you can. I don't
+ recommend it. Uh, so the, well, some people can push past that. Uh, but the question is really
+ like, how does the environment play a role? Um, and I think that's a really good question.
+ And let's make it about RPE. And so, yes, the environment is very much going to play a role in
+ RPE. So, um, I was, uh, just talking to one of my clients the other day and, um, efforts that I
+ thought might be a little hard, but should be fine. We're very hard. And it was also like 95
+ degrees out, probably very humid. And, and, you know, by the description, I was like, well,
+ this person just had their off season break. And so this could be being out of shape, but it's
+ more like heat and, and the, um, and the RPE that you feel it's like, you know, you are integrating
+ more than just like the normal things of like, this is hard and I'm kind of out of shape.
+ There's a lot extra going on because you are basically like turning your internal crock pot
+ onto high and just riding for like, you know, 30, 40 minutes or whatever. And that's, that can become
+ a problem. So it's very much going to influence your RPE.
+ But it's one of those things where you can kind of feel that there's something else going on. You
+ know, you feel your, maybe you feel your face getting flush, maybe you're sweating extra,
+ maybe you stop sweating and you start, you know, having shivers in like 95 degrees.
+ Oh, that's bad. Yeah.
+ Yeah. Or 95 or, you know, 37 C or whatever that is. So like, it's, it's not good. Uh, and so
+ you will get those extra symptoms and you can add that to your compilation list of,
+ of like, of what, how is, how is all this affecting my RPE? And once you start to tune into it,
+ um, you know, it's, it's sometimes it's not the most obvious stuff, but like at some point
+ you will be, you will go, okay, yeah, I can feel that this is a heat problem.
+ Um, especially if you get like one of those, like my face gets, I remember one guy was like,
+ he was like, you know, when your, your head just gets hot under your helmet right before you blow
+ up. And I was like, no, I have no idea what that's about. Um, so you might have a tell like
+ that. So just pay attention to that. Like be a good scientist, observe the phenomenon of the
+ athlete. That is you. There you go. There's a saying for you. Uh, Oh, this is a good one.
+ For some can RPE at FTP depend on anaerobic fitness? Kyle, you and I would know this one.
+ What's your opinion? Uh, certainly the shorter you're,
+ time duration is there at FTP. Um, it's like, like we said before, you're covering an anaerobically.
+ So it's like, is that your FTP? But I would say it is definitely possible to be well anaerobically
+ trained, but have a realistic expectation of what your FTP is. Um, like I would say a lot of good
+ pursuers or, um, you know, uh, people are good at like shorter, those shorter time trials.
+ Probably have a pretty hefty anaerobic capacity, but also they're going to have to be able to have
+ a realistic expectation of what their FTP is and training and all this stuff. So, um, it might
+ throw, it's going to throw off those tests, especially like the two by eight minute tests.
+ Like it's going to totally wreck, uh, the accuracy of the traditional 90% of eight minutes. Um, which
+ boy, howdy, if that could be, uh, if that could be my FTP, that'd be awesome.
+ Yeah. I remember like you and I were both overestimated by like what, 50 or 60 Watts or
+ something like that. Yeah. Something like that. Yeah. Um, like you get well into well over the
+ 300s when it's like, it's probably 300. Yeah. So, so this is actually, um, Rory and I did a lot of,
+ I know you didn't listen to this episode, but, um, but Rory and I did a lot of discussion of like
+ how the, um, the more the test, uh, is, uh, the farther the test is away from your FTP. Like,
+ you know, like if,
+ if you imagine if we had like a one minute FTP test, holy shit, would we be overestimated? Um,
+ so the anaerobic capacity has a huge influence on how those tests affect the, the value that
+ you will get. And so, um, so like, you know, ramp tests, uh, two by eights, uh, 20 minute effort,
+ like 20 minutes better than like a two by eight, but still, um, it, it, it, it can be quite a lot.
+ So like the, the, uh, and once you get down to threshold,
+ um, one of the things that can definitely affect this is that, like you said, initially,
+ like about short efforts, if you start writing at, if you are doing like five minute FTP efforts,
+ I can write five minutes at like 10, 20 Watts over my FTP nose breathing. Like it's not that hard.
+ Like my FTP right now is probably 200 Watts and I, I can do five minute efforts at like 300,
+ something like pretty easily.
+ Um, I mean, it's like hard, hard, but if, if you asked me to ride at two 30, I'd be like, yeah,
+ I can do this all day. I couldn't, but for like five to eight minutes, I'd be like, this is a
+ breeze. Uh, and so that's one of the harder parts about having good anaerobic capacity is like,
+ once you kind of start poking that ceiling, you can get over it for a little bit and not
+ recognize it for a little while, but, and longer than somebody else without good anaerobic capacity.
+ I think this is where sometimes you can get, you can hurt yourself,
+ deeply in, in like a crit, uh, where it's like cross race mountain bike race. Yeah. Yeah. The
+ first half of it, like, yeah, I can jump, I can do a thousand Watts out of every corner for the
+ first 10 minutes. And you're like, Oh no, I can win the first, I can win the first round of points
+ in any points race. The question is whether I'm going to be able to even stay in the race after
+ that. Yeah. Yeah. And he like you, you end up dropping yourself. Cause you're like, Oh,
+ I actually need to, you know, I feel so good. You had a good warmup and yeah, you just don't
+ notice the fatigue setting in until all of a sudden it's far too late. Yeah. Uh, Oh, this
+ person has a good follow-up question. If yes, can it affect RPE so much that it's no longer
+ useful to set FTP by it with short as in under 20 minute intervals. Uh, and so I'm just remembering
+ that this guy who I actually coach, um, just did some FTP efforts.
+ And I remember looking at the efforts averages and thinking that they were kind of up and down.
+ And I have a feeling he was, you know, and they were like, I think they were 15 minute efforts
+ and you know, they were different by something like 10 or 15 Watts by over a couple efforts.
+ And so the answer is, um, yes, but at the same time, no, like you will get other signs that your,
+ that you are over your threshold or damn near it. And so like, if the difference between like,
+ let's say, let's say, um, 300 to three 10, if three 10s dicey and 300 is fine, I just ride at
+ 300. Like, does it matter to me if you're at 300 versus three 10, if you're, you know, if like
+ right on the edge is three 10 to three 15, I'd rather you ride a 300. What's, what's the big
+ difference? There's not much real. Some are aspirational FTP. I said,
+ yeah. Um, okay. A couple left, uh, 10 point or Borg scale. Um, Borg scale is the opposite of
+ intuitive. So, you know, anchor your RPE according to whatever you want. I recommend your two
+ thresholds and, uh, set it and forget it. Yeah. I think that telling people the, um,
+ like the Borg scale, like, ah, it's just, it's just, yeah.
+ It's tedious. Like it, like if, if you asked me instead, imagine the lowest intensity threshold
+ exercise you could do. Imagine the highest intensity exercise that you could do.
+ Then imagine something right in the middle. There you go. Like just like that first study,
+ like we've got good kind of rote descriptors. Like that is that's coaching those, those
+ investigators were coaching those riders by doing that. Um, as opposed to saying, uh, your scale is
+ six to 20.
+ Give me a 13 to 14. Yeah. Yeah. Okay. Sure. You want, you want metrics and measurements and things
+ to be intuitive to the point that you don't have to spend so much time explaining the metric to,
+ before you can get a good understanding. Yeah. Like imagine, um, imagine that we didn't have
+ a decimal scale. Imagine that, that we only had eight fingers and toes, you know, like you could
+ imagine how every, how like if somebody was like, Oh, you want to do something like 10. So imagine
+ instead of like 1, 2, 3, 4, 5, 6, 7, 8, 9, we've also got blurb and glurg as our next two numbers.
+ And then we've got 10. Now we've got, now we've got extra numbers, right? Um, as opposed to like
+ 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, yada, yada. Um, eight, no seven at seven. Sorry. Um,
+ yeah. See, this is how little I spend in something, not a decimal scale, like decimal and binary is
+ what most of us can do. Um, so yeah, it's like, it's not intuitive, uh, to, for anything other
+ than something decimal. And yes, this is me kind of being annoyed at the, uh, Imperial measurement
+ system. Everyone's favorite. Yeah. Everyone's favorite. What the fuck is a kilometer? Sorry.
+ Yeah. GC coups. Sorry. I love that meme. Um, okay.
+ Next question. Last question, actually. Um, I have two RPEs for lungs and legs,
+ which sometimes disagree. Should I listen to the weaker? Now I really liked this question because
+ if a lot of the time, if your lungs are the problem, usually you're over threshold. However,
+ this, there's something that,
+ um, happens sometimes where your breathing can be and feel elevated at like submaximal intensities.
+ And the only time I've ever really encountered this is like deep in a diet when I'm really hungry.
+ And I'm like, I'm going to go out and spin at 50 Watts, just to have something to do. And also,
+ cause I know that the exercise is going to make me less hungry by distracting me,
+ where you'll go for a walk. Um, and when I do this, I'm like, man, I'm, I'm riding it 50,
+ 80 Watts. I'm like, I'm going to go out and spin at 50 Watts. I'm like, I'm going to go out and spin at 50, 80 Watts.
+ And I feel like I'm breathing hard. Like this feels like super aerobic. Um, and that is me being
+ like horrifically depleted. Uh, so, and that's when I'm like, all right, it's time to land this plane
+ soon. So, um, so that's one of the, uh, the kind of, um, Oh, which cat was that Kyle?
+ That was Millie. Hi Millie. Say hi Millie. Hi Millie. She's not going to say hi. Yeah. She's,
+ she's a light trip. She's on or off. We know that we know cats. Um, yeah. So,
+ so that's the thing about the lungs. RPE is, um, so if you're riding a threshold and you feel like
+ you can't get enough breath, you know, it's possible that you've got asthma or like COPD
+ or something like that. But, um, more often than not, it's just that your threshold is lower than
+ that. And if your threshold has been reliably that for a while, and now it suddenly feels like
+ it's 10 Watts lower based on your breathing. A lot of the time, that's a sign that you should
+ probably get some rest. Um, otherwise I would listen to your legs. Cause usually one of the
+ other key cues that I use in coaching a threshold test, uh, my threshold test, not like a 20 minute
+ by the end, I say your lungs should be fine. Your legs should be screaming
+ because your VO two is not going to hit max at the end of an FTP test.
+ Yeah. I think people who've raced cross or something have,
+ know that lungs burning, but legs feel fine. Feeling of like you go for the whole shot,
+ you sprint up that first Hill hard right-hand turn where it next down. Cause you want to be the
+ top 10 going into that terrible first corner, um, where it gets really narrow. And like,
+ then you settle in and you're like, Oh, that was actually really hard.
+ Describing my race at blunt cross and quad cross. And yeah, every race where I was even close to
+ stepping the whole shot. Yeah, for sure.
+ I'm thinking of the, um, what do you call it? Like, uh, like, yeah, it's just, you know, you,
+ you, you, you're not even thinking at that point that it's like, Oh, I need to be pacing it. You
+ just like, think I have to get there. I have to sustain this. I have to keep going. And then it's
+ like, Oh yeah. Then you start to start to pay for it. I think you're lying on the side of the course,
+ like three laps later, people like what's wrong with you? Like I got the whole shot. Um, yeah. So,
+ um, yeah, RPE is, uh, a fun thing to use. It's very, very useful. And, um, there's a lot of other
+ physiologic phenomena that you need to watch out for, uh, especially around threshold. But if, um,
+ but if you keep in mind that your lungs are not going to be really the limiter for your threshold,
+ that your legs will be the limiter, uh, that should help you dial it in also. Um, so any
+ other thoughts before we wrap this up? No, I think this is, this is an interesting
+ one. I think it, it gets, he says no. And then he proceeds to add more thoughts. Yeah. I think
+ this is interesting to me just cause I think it tends to get more in the, I don't want to say
+ like the softer side, but it definitely has that more, you know, almost like anthropological side
+ of, of training and coaching. Yeah. And like studying people and the kind of philosophy of
+ science, like, like we cannot let the, the abstraction become the definition. Like you
+ know, like how many papers have we read? Like in the published literature, FTP is 95%, 20 minute
+ power. I mean, that's one way to look at it. That was not the intention by any means. Um, and if you
+ read the other page, uh, there's, there's a rate I wish Andy had like given a range 40 to 70 minutes
+ or something like that, you know, about an hour, quote unquote, you know, like five, seven, I'm
+ about six feet, 270. It's about 300 watts. So, um,
+ yeah. Anyway, I hope that was useful for everybody. If you want to reach out for coaching empirical
+ cycling at gmail.com or head over to the website, or if you want to do a consultation, you want to
+ keep coaching yourself. We are happy to do that and help you set up for the next year for a nice
+ successful year. Uh, we do remote coaching only so we can coach people from all over the world.
+ I think we coach somebody on every continent except Antarctica. So, uh, share the podcast,
+ five-star review, wherever you listen to it, uh, um, Instagram, uh, at empirical cycling,
+ check me out in the weekend AMAs and head over to the website, uh,
+ check up at the top for the, uh, uh, after hours, uh, as it were, um, you know, the off air, uh,
+ question submission. Uh, well that's only because it went into your master gland and you interpreted
+ it that way. All right. I think that's enough. Thanks everybody. Empirical cycling after dark.

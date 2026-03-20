@@ -1,0 +1,467 @@
+ welcome to the empirical cycling podcast i'm your host coley moore joined as always by my
+ co-host kyle helson and i want to thank everybody for listening so please subscribe if you have not
+ and head up to itunes and give us a rating if you're enjoying the podcast and the stuff that
+ we have here and if you're enjoying the podcast enough to send us a donation to support the
+ podcast you can do so at empiricalcycling.com donate we've got the show notes for the episode
+ today on the website and for all coaching and consultation inquiries questions and comments
+ you can send an email to empiricalcycling at gmail.com and so of course if you are looking
+ for a coach we are taking on athletes now i normally don't plug this hard at the start of
+ an episode but if you're looking for a coach for 2020 now is a good time to start training so
+ shoot me an email and if you want any empirical cycling podcast swag you can head to
+ empiricalcyclingpodcast.threadless.com and you can get bottles and shirts and hats and stickers
+ and skateboards and uh what else do they have kyle shower curtains bath mats
+ uh
+ pillows rugs and also uh i want to do a listener question episode and this episode is going to be
+ on ftp training so ask your ftp training questions so what i'm going to do is i'm going to post a
+ thread on r slash velo and um in there ask your question and kyle and i are going to go through
+ the questions we're not going to answer them on reddit uh we usually do um but we're going to
+ hold back this time or you can also email me at empiricalcycling at gmail.com so
+ before we dive into the stuff that we're going to get to today um as alluded to in the last 10
+ minute tips episode on you know do you know if your intervals are doing what you think they do
+ um today we're going to take a deep dive into what makes training so complex and we kind of
+ touched on it in the last ftp episode but not really it was there but i didn't want to quite
+ get into it and so today we're going to look at something that's as simple and basic as you can
+ get with cycling the endurance ride
+ um but hopefully by the end of the episode you are going to understand a little bit better
+ just how complex it gets when we look at um these rides past the standard lab tests
+ past the standard assignments of like some zones and thresholds and you know the one-dimensional
+ kind of science and textbook kind of things that you know are in you know your exercise phys 101
+ uh class um and so
+ you know during exercise it's rare that things actually stay in a steady state even if we hold
+ power or heart rate steady uh because things like heart rate and body temperature uh lactate flux
+ um you know active muscle mass uh you know muscle acidity enzyme regulation all this kind of stuff
+ um you know you know just these are just the first things that come to mind all this kind of stuff
+ uh none of it has a one-to-one relationship with anything else
+ through time because we are in an endurance sport we're not in a snapshot sport so if we take a
+ snapshot things are nice and clean and neat but if we think about things in a more complete manner
+ we think about what we're actually doing over time things get a lot more complex and so it's given
+ this context that i want to talk about whether we should pace our endurance rides by power or by
+ heart rate because this is a question that i've seen asked a lot over the years and i've seen it
+ several times in the last week or two so i thought this would be a really uh good episode to do
+ because in my opinion i have not seen this answered as fully as i think it deserves because
+ when you understand how the body changes over time this will give us excellent insight as to
+ how we should pace our endurance rides um so with regard to that kyle uh
+ tell us a little bit about some impressions of endurance training so i think a lot of people
+ who have uh been around cycling at least a little bit and i keep always i think i've mentioned this
+ example now numerous times in this in the podcast but the classic old school old curmudgeony way
+ of describing endurance and base training to someone is that you need to ride in the little
+ ring and just pedal around
+ at zone two endurance miles like big long rides like the whole winter you know people say things
+ like oh you have to go slow to go fast and and so usually when people introduce you to the idea of
+ intervals they tell you that oh you you know 100s oh you have to build this big aerobic base doing
+ these long slow rides in the little ring in the winter and then in the spring and and more the
+ summer when you're racing they say you can move on to doing intervals and intervals like classic
+ things like two by twenty or five by five or something like that but a lot of the you know
+ old school wisdom is that you have to do these long slow endurance base miles to build up this
+ base or this uh fitness level that will let you do these harder intervals later on so it's to like
+ prepare you yeah i think the idea that people maybe is it frills book i forget there's definitely
+ a book there somewhere there that has that's some crappy drawing of like a pyramid of like oh you're
+ gonna build this like base and all the wider that you build the base like the taller you can build
+ the pyramid which
+ i you know anyone who's seen like the washington monument
+ you know not a good analogy all the time but um you know but the the idea is there that oh the
+ more time you spend building this foundation of a lot of volume of riding that enables future
+ higher intensity faster riding so so the question that we're really faced here with
+ is um you know now that we have you know beyond the old school training methods we've got like
+ heart rate
+ training we've got power training um is there any wisdom to the old school methods when we have
+ these new metrics um to ride to it and we understand their connection to physiology a lot
+ better because you know back in the day they didn't have heart rate monitors like all they had
+ was just their bikes and the terrain so okay so the next question is really like what does aerobic
+ training do anyway why do we need it like what do we do these endurance rides for and i think that's
+ going to give us some context as to uh the main question of the day is how should we pace our
+ endurance rides like based on you know the connection to physiology based on the heart
+ rate what we know about that and power data okay so if we look at the chart that's in training and
+ racing with a power meter on the uh adaptations to riding in each particular zone uh what we
+ actually see is that zones one through five you know recovery through vo2 max is going to be a lot of
+ vo2 max all work approximately the same things i mean aerobic is aerobic um yeah you know they may
+ work some aspects of those little boxes that they've ticked more slightly more say less than
+ others but yeah all the same boxes are checked yeah and depending on your training status like
+ if you're brand new like lifting weights is going to improve your vo2 max right yeah um that's why
+ i've said all aerobic training is base training because it all depends on your training status
+ it all is going to help you and you know eventually um it all matters and the rides
+ that we're going to be talking about today are usually called base rides um but to me i just
+ prefer to think about them as endurance rides so why do we do endurance rides anyway um endurance
+ rides to me are a good way to get in low intensity aerobic stress so we can do a lot more easy and
+ moderate pace riding than high intensity intervals so you know
+ if you have the time that's a big if increasing the volume of the riding is going to lead to
+ large benefits um because you know you can only add so many intervals to your day before you
+ really need to recover and adding more intervals on top of already hard work can be like impossible
+ and or lead to overtraining and that's something that we definitely want to avoid
+ yeah all right so let's ignore for now we'll get to that we'll get to this eventually let's but
+ let's ignore for now how much or how long should we program endurance rides for uh let's focus for
+ now on how do we pace them and why so the first method the typical method that i see suggested
+ i've heard it on podcasts i've heard a lot of coaches talk about it i've heard some exercise
+ physiologists talk about it i've certainly heard seiler um talk about this kind of thing um you
+ know he said uh on some ride i think it was on twitter um he was going to
+ he did this ride by heart rate um to make sure he's quote-unquote staying aerobic um well let's
+ assess that validity shortly um so there's a couple definitions of what endurance pace heart
+ rate is uh with freel uh in the cyclist training bible he suggests it's 82 to 88 percent of your
+ threshold or ftp heart rate cogan suggests 69 to 83 percent so like no overlap basically
+ of your heart rate at ftp um seiler suggests it's below your first lactate threshold or the
+ intensity at which blood lactate begins to rise above baseline um so i found a study on trained
+ cyclists suggesting that it's 84 plus or minus four percent of heart rate max not threshold
+ heart rate because a lot of studies don't really think about threshold heart rate they think about
+ max there's a big disparity between the freel and cogan heart rate zones
+ and uh the and the one that lines up best with it is the lt1 um uh heart rate zone um
+ for polarized training so um the only issue with that is that seiler's uh suggestion of staying
+ below lt1 for endurance training uh it's actually it's hard to find lt1 there's not like a
+ fingerprint quote-unquote anywhere in our heart rate or power data to say this is your lt1 um
+ but this is the one that has probably the most basis in actual physiology um but you know the
+ four beats per minute standard deviation is pretty wide so it's definitely not the same for everyone
+ if it was like one bpm it'd be like yeah it's for everybody but clearly that's not the case
+ yeah four is pretty big not to mention just determining your max heart rate can be difficult
+ yeah and it can vary day to day difficult yeah and that's actually one of the things that we're
+ going to we're going to get to in a little bit but i'm going to get to it in a little bit but
+ in a little bit and we're going to talk about in depth in more episodes okay so the other way to
+ pace endurance rides is pacing them by power so this comes from the philosophy of time and zone x
+ equals adaptation y so this is something i touched on in the 10 minute tips episode um but not only
+ the time and zone x equals adaptation y but also time and zone x equals physiologic steady state
+ y or z i guess um cogan suggests
+ to 75 percent of ftp and frio in his power meter training book actually suggests the same as cogan
+ and of course seiler would be suggesting uh power uh around or just below uh lt1 uh first lactate
+ threshold um so training rides here typically like as frio suggests i think it's 90 minutes
+ or two hours is sort of like the the lower bounds of uh of an effective uh duration for an endurance
+ um you know we'll talk about that in another in another episode um sorry to kick the can down
+ that road but this episode would otherwise be five hours so um so training rides here typically
+ you know mid to upper quote-unquote zone two uh or your endurance pace um and so my educated guess
+ here is that cogan set this uh endurance zone because it is very likely for most people
+ that it is under lt1 um i have no proof of this but that's how i would have done it if i had lactate
+ data and i think one thing to to kind of get in about the the power uh philosophy is usually
+ power is often touted as being a better metric than heart rate because people realize that heart
+ rate can vary from day to day which i'm sure um people who've looked at their own heart rate data
+ with and so this philosophy is that if we ride at the same power then we can't either let ourselves
+ cheat or or and like or that it makes up for this sort of lesser accurate metric of heart rate and
+ oh if you're riding at this power then this is definitely your the the sign that you're doing
+ good work or you're doing the correct work or something like that on a given day
+ because well let's first talk about how power and heart rate
+ interact because you know as as you know you've said people will notice that their heart rate is
+ different um you know doing like the same ride basically on different days because heart rate
+ can be affected by a lot of stuff um however there are certain patterns in the heart rate
+ that stick out and you know at this year alone i've seen hundreds of endurance rides from my
+ athletes and you know like there are definite patterns and
+ you know once we pull out to this bird's eye view and we look at the patterns and we think about
+ these to me this is one of the most powerful things that we can do when we are looking at data
+ um so let's get it right into it so let's take an example from one of my athletes he did a six
+ hour endurance ride he did 217 watts normalized power 203 watts average so very very steady ride
+ it was a really good ride so his heart rate average in the first hour of the ride was a
+ was 132 beats per minute he did 203 watts average so in the last hour of a six hour ride
+ he did 148 bpm and 197 watts average so he lost barely any power um probably being within the
+ margin of error of the power meter and he definitely gained um you know what is that 16 bpm
+ over six hours um so you know
+ this is probably not new to a lot of people but if it is this is called decoupling so this is
+ how much your heart rate drifts compared to power and so his heart rate drift was actually 13
+ over the course of the ride so let's look at what's different between the two approaches when
+ we think about heart rate drift so if you ride by heart rate power is going to decrease through the
+ ride and over time the power is going to decrease through the ride so if you ride by heart rate power
+ is going to come up to better match heart rate but it won't always um and especially over very long
+ rides um though for pros um and you know i've definitely got a couple athletes like this
+ where you know they can ride for like six to eight hours and their heart rate is not going to budge
+ okay so the theory behind you know riding to heart rate um the idea behind this is that um
+ you know this comes from well this comes from heart rate zones
+ right so historically established by ramp tests so you look at your first big inflection points
+ and blood lactate points uh over baseline and you know that's your lt1 and your heart rate at
+ this inflection point and your lactate is your uh you know lower bound of heart rate but it changes
+ over the course of a ride right and so if you subscribe to this philosophy what's happening
+ through the ride is actually you are increasing your training zone so it might start as an
+ endurance ride and turn into a tempo ride and then maybe even a threshold ride by the end
+ um so it can actually be infuriating if you're trying to figure out do i do power because you
+ know do i stay in the power zone do i do heart rate do i stay in the heart rate zone like which
+ one do i do do i split difference yeah so now we need to think about why heart rate decouples like
+ this um now there are a lot of potential reasons why it happens um but we're going to
+ look at one of the biggest ones um and this is the size principle at it again the size principle
+ who doesn't love the size principle just the name of it makes me excited uh well the name of it makes
+ me excited too and if you've listened to the podcast before and you've uh heard the other
+ episodes that we've brought up the size principle at least once if not twice um so so briefly uh
+ the size principle is that muscles are organized into motor units
+ so a nerve or a motor neuron connects to a bunch of muscle fibers and this nerve plus muscle fibers
+ is called a motor unit that's the nerve and the muscle fibers together that is a motor unit
+ and they turn on or contract rather all at once a hundred percent all or none and it's only those
+ muscle fibers that are connected to that neuron that contract uh so this is how we actually get
+ gradations in force produced by muscles so not every muscle fiber contracts when you move your
+ muscle chemically that would be very hard to do to get gradations in force by you by flexing all
+ of your muscles uh fibers at once all right so when you start riding at endurance pace
+ everything's fine for a while then when the motor units that you're using start to get tired
+ you begin to use the next larger motor units because they're fresh they've got lots of
+ they're ready to go and all you have to do is send a little stronger signal and i you know i've
+ seen the studies the electrical signal to the muscles gets stronger um so what's happening is
+ uh larger motor units are typically composed of less slow twitch and more fast twitch fibers so
+ it's a it's of course a gradation of fibers it's not like this is slow twitch and this is fast
+ twitch um and not every motor unit is fast or slow so
+ you know generally um well refer to wattstock number 12 for a lot more uh info on that so fast
+ twitch muscle fibers are less efficient than slow twitch muscle fibers so um i'm going to keep using
+ the fast versus slow um terminology for convenience only although we know it's more complicated than
+ that because we all listen to wattstock number 12 so let's talk about efficiency so efficiency
+ is a measure of energy in versus energy out i mean kyle does the definition get any simpler than that
+ uh probably not i think that's the measure of efficiency in almost any terms not just energy
+ but yes okay cool um so what we're measuring is how much o2 are we inhaling compared to the energy
+ actually in that oxygen versus the meager amount that we actually get to the pedals times 100
+ and so we're measuring how much o2 we're inhaling so we're measuring how much o2 we need to get to the pedals
+ so we're measuring how much o2 we need to get to the pedals so we're measuring how much o2 we need to get to the pedals
+ so we're measuring how much o2 we need to get to the pedals so we're measuring how much o2 we need to get to the pedals
+ so we're measuring how much o2 we need to get to the pedals so we're measuring how much o2 we need to get to the pedals
+ so we're measuring how much o2 we need to get to the pedals so we're measuring how much o2 we need to get to the pedals
+ so we're measuring how much o2 we need to get to the pedals so we're measuring how much o2 we need to get to the pedals
+ these two words can be um you know switched up uh by you know unwitting people who mean well
+ so okay so in other words what's happening is higher efficiency uh means using less oxygen
+ to maintain the same power output so someone who is at one moment in time 20 efficient will put out
+ less power at say two liters of oxygen per minute than someone who is 25 efficient who will put out
+ power so high efficiency is very much related to preponderance of slow twitch muscle fibers
+ um and so because we don't have a real paper to focus on today we're just giving general training
+ guidelines um i'm gonna briefly look at a classic so this is one from horowitz sedosis and ed coyle
+ who i told you we'd be seeing again uh we looked at his paper for the ftp versus vo2 max episode
+ um so what we are looking at
+ is trained subjects who did one hour at the highest power that they could manage
+ and then subjects were then paired by high and low type 1 fiber type and the amount of oxygen
+ used during the one hour test and what they did was they matched people who had the um who had
+ the same o2 uh uptake during the one hour test and had different muscle fiber types so
+ the fiber type was different from the one hour test and the one hour test was different from the
+ first pair is a great pair example so subjects one and eight were matched so respectively they
+ were 83 and 46 percent type 1 fiber um so subjects one and eight respectively each used 4.62 and 4.67
+ liters of oxygen per minute during the 60 minute time trial so here's the kicker subject one mr
+ slow twitch put out 357 watts
+ average and however subject eight only did 335 watts that is quite the gap for two individuals
+ who consumed roughly the same amount of oxygen or very closely to the same amount of oxygen yeah
+ yeah it is um so on average the quote-unquote slow twitch group put out nine percent more power
+ um so why am i telling you this what does this have to do with endurance
+ riding and efficiency well here's where we tie it all together so as our initially recruited
+ predominantly slow twitch muscle fibers fatigue and we get into larger motor units that have more
+ fast twitch in them they become less efficient so as more muscle mass is used by recruiting more
+ motor units and less efficient motor units oxygen demand increases and so even if your larger motor
+ units are actually more slow twitch like mr 83 percent that we just talked about um there is
+ actually more working muscle mass and that means more open capillaries and so just all that kind of
+ stuff alone is enough to increase o2 demand kind of no matter how it's happening um and so you know
+ there's also in the scientific literature there's another thing called the mirror image uh quote
+ unquote of this um so this is where the oxygen uptake remains the same and you know the muscle
+ fiber recruitment presumably um but power output drops that makes sense you're you're fatiguing and
+ therefore those motor units that you were if you're just going to continually use the same
+ motor units over and over as they fatigue they're going to slowly put out less and less force over
+ time yeah exactly and if you think for a little bit of time you're going to put out less and less
+ that like, oh, I'm below LT1. I should be, you know, this is very aerobic. I should be using
+ all fats. Like, no, that's not at all the case. Um, we've talked about that before that you're
+ never actually burning only fat or only carbohydrate. Yeah. Um, so what causes this
+ fatigue is low glycogen. Um, that is the primary suspect here. Uh, there's probably other stuff.
+ Um, but low glycogen is the big one that people have looked at. So researchers, um, I'm just going
+ to briefly tell you about a paper. So researchers can find this kind of evidence in, um, let me,
+ okay, let me preface this a little better. Um, so this phenomenon of heart rate decoupling during
+ an endurance ride is if you look at like even textbooks that I have now that were published
+ in the last five years, they suggest that during moderate intensity, which an endurance ride very
+ much is your heart rate and your, your blood lactate are going to remain
+ stable. Your oxygen uptake will remain stable, pretty much anything below the critical power,
+ the FTP lactate threshold, MLSS, maximal lactate steady state. Like however you want to measure
+ that one thing, the, the very common old school, um, uh, suggestion that is still very much
+ alive today. Um, that I can't wait for it to go away is that your, um, your body becomes, um,
+ like a, like a machine in a steady state and you can hold that steady state. Um, so definitely,
+ yeah, literally, uh, the, well, the math works out like you can do it indefinitely. And some
+ assumptions are like the CP model is like indefinite work. Yeah, for sure. Um, yeah. If
+ you want to, uh, listen to hilarious things about, uh, assumptions for critical power, go listen to
+ our FTP versus critical power episode. Um, so nowadays researchers can find evidence of heart
+ in what they would normally think would have a steady O2 uptake and steady heart rate and all of
+ that. Um, you know, they call it in the literature, it's literally called moderate writing. Sometimes
+ this means FTP, uh, anything under like anything under FTP CP, uh, they think of as moderate
+ writing, but generally it actually means endurance pace writing. So something under like LT one that
+ you can do for several hours. So the thing is like, if you look at the evidence of your own training
+ and, you know, especially if you're a coach and you see your athletes training, um, and you kind
+ of start to understand the body a little bit, we can see that, that, that, you know, the body's not
+ actually ever really in a steady state, no matter what. Um, so an experiment in a paper that was
+ done, I'll, I'll link it in the show notes, but we're not going to dwell on it too much.
+ So what they did was on three separate occasions, subjects did 20 minutes of cycling at 50% VO2 max
+ the second and third of these rides, they did three hours of riding at 40% VO2 max.
+ One of those times they had no carbohydrates that night before the next, uh, the next day,
+ 20 minutes at 50% VO2 max. The other time they had lots of carbohydrates. And so the next day
+ when they went in to do their 20 minute moderate, uh, writing, um, only while glycogen depleted
+ evidence of increased recruitment of faster Twitch, larger motor units.
+ Ah, interesting. So this kind of hints at the, uh, the, the good old pro tip of those
+ fasted rides that people occasionally like to talk about. Well, you're getting about 10 episodes
+ ahead of us. That's, uh, that's on the list. So you guys are going to be excited to hear about
+ that. I think. Um, so yeah. So the thing is in a lot of the literature, um, this is a quick caution about
+ it. If you guys want to go dive into it on Google scholar, a ton of the studies that look at this
+ very thing, their tests are really short, six to 10 minutes. That's mostly what I see.
+ The tests are too short. Like I've, I've actually not seen anything looking at someone riding steady
+ state for five hours on a trainer to look at, you know, what physiological parameters are changing
+ as heart rate decouples. Uh, they usually look at it above FTP.
+ FTP where it changes very rapidly and that's very well studied. Uh, but with endurance rides,
+ you know, our experience as endurance cyclists, um, you know, it kind of goes counter to what's
+ commonly thought of in the literature. So if we over subscribe to one particular model,
+ we're actually going to miss, uh, we're actually going to miss the forest for the trees.
+ So among other things that can cause this relationship also,
+ um, what big one is heat, especially if you're riding on a trainer, you know, so, so just,
+ just know that like, look at the conditions indoors versus outdoors, and you can make a
+ judgment on whether, uh, heat had anything to do with it. Um, all right, so who's right,
+ what do we do? So now that we have a better idea of what's happening,
+ maybe we can make a determination here. So the tool that we have is knowing how and why power and
+ heart rate decouple. So if we're going to train by heart rate, let's look at what's going to happen.
+ One of the things that I've heard of commonly referred to as the reasoning for pacing by heart
+ rate, because if your heart rate is increasing, that indicates increasing internal strain. So the
+ interval or the interval or the ride or whatever you're doing is actually getting harder for you
+ internally. Um, this is kind of true, but it's also kind of not. Um, because if we keep steady
+ state, uh, heart rate,
+ and power goes down, our working muscle fibers are still fatigued and you're still using them,
+ but you've decided not to access your larger motor units. So there's still internal strain
+ on those muscle fibers. So all you're really doing is letting your smaller motor units that
+ are fatigued, just continue to put out whatever they can put out without getting into the larger
+ motor units and letting those, uh, train up a little bit. Um, and if you did get into the larger
+ motor units, those smaller units don't turn off. This is part of the size principle. Um, which
+ you'll remember if you recall the, uh, last couple episodes that talked about the size principle.
+ Um, so no matter what those muscle fibers are going to continue working, just knowing that
+ muscles don't act as one unit, you know, beyond the very basics, I think that this is one of the
+ most powerful explanatory tools that there is in all of training. I'm not, I'm not exaggerating
+ there. I mean that wholeheartedly. Um, and I can tell you that there's a lot of people who are
+ like, well, I can't do this. I can't do this. I can't do this. And I can think of only one
+ situation where I might take advantage of this and give someone an endurance ride by heart rate.
+ But let's look at assigning endurance training rides by power. So riding to power is going to
+ ensure that as your muscle fibers fatigue, we're getting into larger motor units and training them
+ to me, that's a good thing. Um, so writing to heart rate, um, and thinking about aerobic adaptive
+ pathways. So with enough training stress, what is hopefully going to happen for most endurance
+ riders is that you're going to slowly convert, uh, your, you know, larger motor unit, um, faster
+ twitch muscle fibers to slower twitch muscle fibers. That will be more efficient. And, um,
+ even if you're doing other training, that's going to maintain those faster twitch muscle fibers.
+ If that's a thing you want, um, then you're going to make those faster twitch muscle fibers a little
+ more aerobic. And even for shorter races, more slow twitch, better efficiency, you're going to
+ get to the end of the race feeling better. And that's going to make it a little bit more efficient.
+ And not hanging on by the skinnier teeth in the last 800 meters of a crit or something.
+ Yeah. One, one would hope. Um, so this is not actually the end of our options. Um,
+ cause there's one more because, um, you know, one of the drawbacks to writing to either heart rate
+ or power, um, is that, well, since they're like, since they're coupled pretty well together, um,
+ early on when we're nice and fresh,
+ and we have lots of glycogen in our muscles, but knowing that even moderate exercise,
+ quote unquote, does not have a one-to-one relationship with a steady state,
+ internal state of a cyclist. And knowing that fatigue of various kinds will affect power
+ output and whatnot, riding blindly to power or heart rate can ignore all of the other things
+ that are going on in your body that you can feel, but your power meter and your heart rate
+ cannot. So I'm talking about writing to perceived exertion. And if anybody saw the meme I put up,
+ um, on Reddit, um, so writing to perceived exertion is actually how I assign a huge
+ amount of endurance riding. So I'll put them down as like an RPE of four to five.
+ That's rating of perceived exertion, uh, out of 10. Um, or the descriptive that I usually use
+ is feel like you're working, but easy enough that you could do it all day.
+ But still feel like you're working. So you're not killing yourself and you're not, you know,
+ getting, going too easy that it really is a junk mile. It's a good way to let athletes
+ self-regulate and learn to self-pace. And I find it generally makes the riding more sustainable.
+ Cause if you start a ride and you're not feeling good, ride for an hour as easy as you need to.
+ And then if you're feeling better, ride harder. Um, so this is a lot like a story from a couple
+ of years ago on Reddit. Um, I I've tried to find this post several times and I, I think it got
+ deleted. I can't find it anywhere. Um, so someone was saying that, uh, his power curve said he could
+ do like X Watts for like three to four, whatever it was endurance type hours. Um, and he would
+ ride right at his average power target, but he would keep failing these rides. He never got close
+ to like hitting that average power target for that duration. So I told him to negative split the ride.
+ I told him to ride to perceived exertion, but I like put a governor on him like at the start. Um,
+ so I said, start really low. And then at the halfway point, right, only as hard as he felt he
+ could. And then unexpectedly he did it the next day he posts, he was like, Oh my God, I can't
+ believe I just did that. That was amazing. It felt so strong at the end. Um, and he like, you
+ know, beat his past best by like however many Watts and you know, it works. It really works.
+ Um, so using perceived exertion for this type of ride, um, can let this kind of thing happen
+ on every ride. Not that you should be, you know, riding within an inch of your life on every
+ endurance ride. Um, you should be, you should be tired, but you should not be, you know,
+ contemplating. Yeah. Yeah. You should not be having an existential crisis by the end of your
+ endurance ride. You should go, I'm hungry. I will get some food and not like ravenously,
+ like charging the fridge. Um, so, and chasing more power every time can get unsustainable.
+ I think that's one of the both, you know, the, the double-edged sword that is power meters and
+ these, these quantifiable numbers is that for certain types of people with certain personalities,
+ it can be great and it can be super motivating and it can be a useful tool.
+ And yet for others, it can be almost a source of neurosis where like, Oh man, this week,
+ on my three hour endurance ride, I was six Watts lower than last week. I must be doing something
+ wrong. Like what's wrong with me. Oh God. I'm like, you know, losing all my fitness. And you're
+ like, no, no, no. Just like, relax, relax. It's okay. It's like, you know? Yeah, no, you're,
+ you're exactly right. Yeah. And I think it, it's like one of those, like, uh, you know,
+ first world problems. Definitely. My power meter makes me neurotic over my training.
+ Yeah. And if you are one of those people, uh,
+ riding like this, I guarantee is going to be a huge benefit. Um, not only to your fitness,
+ but to your mental health. It's like those people who say they, they weren't having fun on their
+ rides and then they, you know, duct taped over their computer and just went out for a ride and
+ they loved it again, you know? Yeah, definitely. Um, all right. So, so the next question to ask
+ is, um, like I remember in a cyclist training Bible, I think it was, um, uh, Joe Friel talking
+ how, uh, when somebody's heart rate decoupling gets under 5%, or maybe this was on a training
+ peaks article, um, that, you know, under 5%, then you're ready to go move on to the next thing.
+ Like you can start doing harder intervals. Um, so is this good? Is this bad? Um, you know,
+ is somebody whose heart rate doesn't decouple at all? Like, are they winning everything? Um,
+ so, so let's look at it this way. The motor units that are initially,
+ used can handle that amount of work for that duration without fatigue. That's all we're
+ talking about. So through training, we can get a combination of using more muscle mass
+ to distribute the workload. And, uh, we can get those working muscle fibers trained better,
+ which is happening. Very hard to say, but between training and eating enough,
+ of course, yes, heart rate. And, uh, I mean, eating enough during your rides, heart rate can stay in
+ lock step with power. Um, and that is a good sign of fitness. I'm not saying it's not, but let's see
+ how long you can do it. Um, can you do it for two days in a row for four hours? Can you do it for
+ five days in a row for four hours each day? Can you do it for 21 days in a row with some efforts
+ like sprints and climbing some mountains in between TTs and yeah, at five and a half watts
+ per kilo. Um, okay. So to me, it's like not only just a measure of fitness,
+ I think that unlike what Frill says, seeing it under 5% on like a two hour endurance ride
+ doesn't mean you're ready to move on to a higher intensity. You know, if you're ready to move on to
+ a higher intensity, just without any of that stuff. Um, I am the hugest proponent of athletes being
+ able to know their body better than the tools know it. And, you know, study after study actually
+ proves this to be true. So if you feel you're ready to move on to sweet spot or whatever you're doing,
+ do it.
+ Well, like everybody says, uh, like the old school, uh, piece of wisdom of, you know, I think,
+ I think I've heard Andy Coggins say it a thousand times. I don't know if he was the first one to say
+ it. Um, the best predictor of performance is performance itself. So really if you can ride
+ for two hours at endurance pace with less than 5% decoupling on this ride, it really means that
+ you can ride for two hours at endurance pace with less than 5% decoupling. Yeah. Yeah. So again,
+ if you're riding for a long time, but you like doing like FTP and sweet spot work, um, you know,
+ honestly, you can find similar improvements there instead. There are some drawbacks to that.
+ Again, we'll touch on it in another episode. You know, it's interesting. I, I, I just had this
+ thought now after we have, uh, made it this far, but previously when we were talking about, um,
+ riding just a heart rate, it reminded me a little bit of what we were talking about
+ last episode about progressive overload and that you're, if you're only riding for a long time,
+ you're only going to challenge the motor units that you got
+ that you're actively using. Um, when you're riding just a heart rate, you're maybe not
+ overloading as much as you think you are. Yeah. Well, that's, that's a good question of like,
+ what is all this training actually doing? Are we getting into larger motor units and training them
+ or do we just want to, you know, train these initially used motor units? Um, and you know,
+ if you ask me,
+ it's both, but to me, it's almost impossible to tell what the difference is and like that,
+ you know, because, you know, we can get improvements in certain things by, you know,
+ more type one fibers. We can get it with more, uh, um, plasma volume. We can get it with,
+ um, you know, better nutrition and we can get it with changing the workout schedule a little bit.
+ Um, you know, so it's, it's hard to tease all these things apart and cycling and training and,
+ and, um, performance is so multivariate that it's impossible to say it's just one thing.
+ To kind of wrap this all up, it, you know, as, as old school and as maybe as, uh,
+ mythic as this whole thing of like, oh, perceived exertion and like riding, you know,
+ within yourself or, or being in tune with your body, like in light of having all of these advanced
+ or more advanced scientific tools, especially in cycling, where we're, we're one of the more
+ advanced sports, you know, if, if you're, um, if you're doing team sports, right, you don't have
+ anywhere near this level of, of, uh, quantification yet. And, um, even other endurance sports don't
+ necessarily have this. Um, you're kind of drawn into these, all these shiny toys, but you know,
+ there's, this is a good opportunity to say that you don't have to be married to your,
+ your shiny toys when you're doing your, your intervals and stuff like that. Um,
+ you know, and, and like you said, like, and we've, I think we've mentioned this before,
+ even when it comes to like rest days and things like that, like if you feel crappy,
+ skip a workout, you know, like you, like you said, you want to be able to know your body and know how
+ you react to training and know how you react to intervals and things like that. And this is sort
+ of a natural extension to that. Yeah, definitely. I think one of the, one of the wisest things I've
+ ever heard someone say, uh, I think it was Dean Golich, um, who said you can't take intervals back.
+ Yeah, that's true. Yeah. Yeah. I actually have one athlete who, um, hi, how you doing? I know
+ you're listening. Who told me that, um, while he's been doing all of these rides by perceived effort,
+ he's not had power up on his computer screen at all or heart rate. Yeah. He's just, he's just
+ riding to his perceived exertion and you know, and okay, so actually here's, okay, here's another
+ piece of the puzzle. Maybe this is the actual last thing I'll touch on is,
+ um, if you look at his rides, you would think that I told him to ride by power,
+ like the perceived exertion for staying in that steady state for a long time.
+ Like he's nailing it. He is like so rock solid and you know, like even though his heart rate
+ is increasing and the ride is getting harder, like, you know, you could definitely feel the
+ pressure, but you know, he's doing a great job and this is good consistent training and he's going
+ to be really, really fast this year because of this. Um, I was gonna say, that sounds like someone
+ gave him some good, good preparation there, but you know, well, I mean like he told me after like
+ several weeks of this, like I don't have power and heart rate up and I was like, I couldn't tell
+ that you, yeah. Anyway, I think the other thing is that, you know, that if just, cause I know
+ there are people sitting there out there who think like, oh man, like perceived exertion, like I'm
+ such a wuss or I always go too hard or whatever. It is also a skill that you can learn, you know,
+ like you can use that heart rate monitor and that power meter to like learn the feelings too. You
+ don't have to just be a wizard overnight at, oh, I know exactly I can nail this perceived exertion.
+ No, it is also a skill that you can train and you can learn. So you should also look forward to
+ getting better at that. It's another thing you can work on and focus on as a,
+ a tool in your toolbox. Yeah, definitely. And, um, you know, as a coach, as somebody who,
+ you know, teaches people how to do this, uh, I can promise you that you will make
+ huge strides in a very short amount of time. If you actually start thinking about how you're
+ feeling while you're riding. All right. So as always, I want to thank everybody for listening.
+ Please subscribe to the podcast. If you have not subscribed already, and if you are enjoying it,
+ please head into iTunes and give us a nice rating and leave us a comment because that really helps
+ us in the ratings and, and, and the show will get mentioned next to other, uh, larger cycling
+ podcasts. And I'll see you in the next one. Bye.
+ Uh, as I suggested show, and that is awesome for us. And also if you, uh, enjoy that,
+ we have no ads on this channel. Um, you can head to empirical cycling.com slash donate to make a
+ donation. Uh, and the show notes as always are on the website. And if you have any coaching and
+ consultation inquiries, uh, you know, if you're looking at your 2020 and you're looking to get a
+ coach, uh, send me an email. If you're interested, uh, now's the time to do it. You can get started
+ for January. Um, and if you have any questions or comments, you can please send an email to that
+ address. Also, of course, if you want some empirical cycling podcast swag head to
+ empirical cycling podcast.threadless.com we're out. Thanks everyone. Bye.

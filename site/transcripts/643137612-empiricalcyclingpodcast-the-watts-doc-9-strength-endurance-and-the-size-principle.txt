@@ -1,0 +1,482 @@
+ welcome to the empirical cycling podcast i'm your host coley moore joined by my co-host kyle helson
+ and as always i want to thank everyone for listening please subscribe we are also now on
+ google play so if that's how you listen to podcasts you can find us there now too for any
+ questions comments or coaching inquiries please send an email to empiricalcycling at gmail.com
+ and if you'd like to support the podcast i'm actually doing something a little special because
+ i am re-recording the intro because any donations made from uh the release of this episode until
+ july 6th are going to go to kyle and michelle as a wedding gift from you the listeners so if you'd
+ like to give to that it's going to be a little surprise because kyle usually doesn't listen to
+ the episodes after they're released so here we go and with that uh i want to say that i'm very
+ excited for this episode today because this is the first of nerd i know okay so it's the first
+ of a lot of episodes
+ where we're going to be talking about muscle physiology which is one of the aspects
+ of training that's really crucial to understand what's actually happening in the body when you
+ assign training or when you do things like strength training like we're going to talk
+ about today and by the end of the episode i hope you're going to see why so um one of the other
+ cool things about this episode is that we're actually going to bring you right to the edge
+ of our scientific understanding of how the body works so before you know we've uh we've talked
+ about some pretty well-established stuff but this one um
+ this one really goes into some uh cutting edge research um we're not going to be talking about
+ a lot of those papers at this moment we're actually going to be reviewing one of the
+ papers that i picked to um to talk about some of the common uh misconceptions about how strength
+ training affects endurance training so um so one of the things that we're going to be focusing on
+ today is uh those strength training um myths and stuff and stuff like that so kyle what's your
+ what kind of uh what do you know about these common strength training myths and you know what
+ do you see typically bandied about well i think the first question that people usually have is
+ is strength training good for endurance athletes um we touched on this a little bit briefly in a
+ different episode uh and secondly there is a certain camp of people out there who likes to
+ think that doing strength training and resistance training is actually going to improve your aerobic
+ and so there are programs built around the theory that oh if i get stronger in the gym i will see my
+ ftp or vo2 max go up and that may or may not actually be the case yeah it's um it's a
+ complicated matter and uh one of the things that we're going to touch on today that we will as
+ always get into in great depth in another episode is um you know like what does power output really
+ mean physiologically so in terms of strength training there's actually a lot of different
+ studies that show a lot of different things about the effects of strength training on endurance
+ performance and as always these studies are conflicting one of the common problems that we
+ see in these studies is the test groups and you know commonly they're untrained or just recreationally
+ active the test groups are very small so we have small sample sizes individual results are not
+ so we might be able to see different effects with different people individually um the uh sometimes
+ there are trained endurance participants who never strength trained and sometimes there are people
+ who've never quite done enough of each to really you know improve beyond you know the noob gains
+ phase um and then also the protocols done in the methods of a lot of these studies don't really
+ match what's commonly done so some of the uh some of these uh
+ training protocols and some of the testing protocols that are used can also be highly
+ questionable and a lot of those things make sense if you consider that these are scientific studies
+ they're not necessarily studies put on by say coaches from a national team somewhere trying
+ to actually figure out a good protocol for training athletes all right so one of the things
+ that bugs me about a lot of the strength training methods out there for cyclists
+ is that they are oftentimes uh not cycling specific so like you said like if there's a
+ coach for a national team or something like that and somebody's trying to look at you know
+ cutting down strength training to the bare bones of like what exactly do we need and what exactly
+ does it do um like those are going to be great uh studies and protocols unfortunately there are
+ almost none of those out there and so what we really have are people who come from traditions
+ of olympic lifting and they're not going to be able to do that they're not going to be able to
+ power lifting bodybuilding and traditional team sports strength and conditioning none of which
+ are really too specific to cycling um however a lot of the time when we see people undergo some
+ of these strength training programs they do see improvements in power output so um so we're going
+ to actually go through some of the mechanisms that are typically bandied about in order to
+ explain why lifting weights can make you a faster cyclist but also we're going to go into some of the
+ details about some of the trade-offs that are going to happen when you do lift weights and
+ possibly if you do lift weights too much all right so to get to the study that we're going to look at
+ in great depth today i actually have a link to it up on the website empiricalcycling.com
+ and under the podcast episodes we have the show notes for the show and this
+ is going to be the first link so this study looked at elite under 23 team members so again
+ as always one of the potential pitfalls with our training population is that these could possibly
+ be natural talents that are not at full training maturity and also one of the other problems with
+ the study is that individual results are not reported this study broke the participants up
+ into two groups endurance and strength
+ and endurance so they did 16 weeks of training and the endurance group did 10 to 18 hours of
+ endurance riding per week it wasn't anything harder than that as far as i can tell in the
+ protocol of the study it was just endurance riding and the strength and endurance group
+ did the same riding except two to three times a week they went in and did um very heavy
+ weight lifting after a two or three week conditioning period and they did the same
+ where they were doing five to six rep max as their load so um so it you know kyle doesn't that sound
+ kind of like um most of the strength plans we see for road cyclists yeah i think even beyond just
+ looking at the your typical strength maximum strength phase for a lot of team sports or even
+ power lifting weight lifting it's that sets of five to six are typically viewed as being the
+ strength um i think if you look at the cyclist training bible by freel his like maximum strength
+ phase in his lifting program for cyclists does have this you know very similar sets of five to
+ six um and if you look up a lot of intro bodybuilding power lifting weight lifting
+ programs it's three sets of five five sets of five stuff like that so it's really common
+ yeah exactly um and so that's one of the reasons that i uh i kind of like to study to talk about
+ today is that this is something that you would pretty typically see a road cyclist do during
+ their base period it was just a lot of long miles in the saddle and uh and some heavy lifting and
+ you know probably one or two other things but not not like focused intensive training yeah so i
+ thought that this was a really cool study to look at because this actually does look like a lot of
+ training that people would typically do all right so here's a quick summary of the results and we're
+ going to get into
+ the hows and whys of all of these so during this test period 16 weeks vo2 max and ftp were
+ unchanged that is one of the most important things to remember about this study now five
+ minute power went up by three to four percent in both groups 45 minute power they um so they did
+ an endurance test as a 45 minute time trial went up eight percent or about 15 watts in the strength
+ and endurance group but not in the endurance group so something to consider here is actually
+ training specificity so if you're doing you know heavy lifting sets of five something like that um
+ what are you specifically training that's going to make a 45 minute power go up and you know part
+ of it may be a little strange because you know you would think that's very aerobic power and it is
+ but we're actually going to go through a lot of the plausible mechanisms that we're going to
+ discuss in this study um and then we're actually going to get to uh the real mechanism that uh was
+ actually not um talked about in the paper uh that only uh very recent science has begun to elucidate
+ so thinking about that when we think about the 45 minute power test i just want to point out
+ really quick that this is uh almost definitely over ftp
+ for all of the test participants because once you're an elite cyclist your um your ftp is
+ pretty typically has a time to exhaustion between 60 and 80 minutes so most people who go time trial
+ um you know for like 30 45 50 minutes who are elite cyclists are almost always time trialing
+ over their ftp i think that's a good point and something to keep in mind especially when you
+ look at this study done with elite athletes as opposed to
+ studies done with weekend warrior you know sedentary more average looking people yeah exactly
+ um and as we discussed in the um in all of our ftp episodes so far um is that as you uh become
+ better and better trained your time to exhaustion goes out and out and out and especially once you
+ become uh very well trained that kind of thing does not go away very easily okay and so now
+ now that we've kind of gone over the results of the study uh we we're now going to talk about
+ all of the common theories as to why these results were seen for the strength plus endurance group
+ compared to the endurance only group um the first one and is uh not super common one but it exists
+ out there that this extra lifting that they the extra resistance or strength training that they
+ were doing is actually going to improve their aerobic capacity uh but i think it's going to
+ if you look at the conclusions of the results that we said before if their vo2 max and their
+ ftp were unchanged then the lifting did not have an impact on their aerobic abilities
+ though there are studies that you can find out there where where you do see aerobic increases
+ aerobic ability increases in populations after they undergo strength training but more often
+ than not those are going to be people who are very untrained or relatively untrained who have
+ no strength training and they're going to be people who are very untrained or relatively
+ untrained or relatively untrained who have no sort of formal history within sports or training or
+ working out and so for them they're still in the phase of this sort of quote-unquote noob gains
+ where doing any type of training is going to make all of their physiological markers go up so they
+ can lift a bunch of weights and their view to max will probably go up a little bit or their ftp will
+ probably go up to a little bit and this population is distinctly different from this well-trained
+ endurance elite endurance
+ cyclist population and so one of the things that is important to note is that oxygen uptake
+ is limited in elite athletes by central factors so your heart your lungs your cardiovascular system
+ and the utilization is peripherally limited by metabolic rate and hint hint muscular factors
+ which we're going to get into and so it's it's not surprising to me that ftp didn't
+ go up you know with the strength training group because strength training does not directly
+ have a metabolic effect that is anything ftp like um and you know it doesn't um it doesn't
+ increase vo2 max because it's not stressing your cardiovascular system enough in order to
+ make that um you know in order to make it deliver more oxygen to your muscles all right so the um
+ the next theory that you might see uh out there is that uh more muscle mass will lead to better
+ power output um so did the strength and endurance group build muscle the answer is no their weight
+ stayed the same muscle size stayed the same but to be fair there are other studies that see an
+ increase in muscle size and particularly an increase in type 2 that's fast twitch muscle fibers
+ um and one of the reasons that this group may not have gained any muscle is that um you know there's
+ potentially an interference mechanism that we've discussed in uh previous episodes and the one on
+ can you lift heavy while endurance training um and so what is probably happening here is since um
+ since the aerobic pathway actually attenuates the strength pathway um that basically means that
+ it takes precedence and that if you're riding enough as these cyclists obviously were uh it's
+ probably going to impede your body from creating muscle mass um so that's one of the uh takeaways
+ that you can take from this is that um you know we can actually use those pathways to our advantage
+ if we want them to be conflicting like we don't always have to build muscle and in fact you know
+ a lot of road cyclists don't want to or don't need to and so uh if you do want to do some strength
+ training this is one of the cool things that you can do um however if you're riding a bike
+ one of the interesting things that happened with the strength and endurance group in this study
+ is that their maximal voluntary contraction force went up 12 to 20 percent that's that was the range
+ um and this was likely from an increase of neural drive and we'll get to that in a little bit
+ um so the reason that okay so maximal voluntary contraction just to define it real quick
+ is the largest amount of force that you can produce by your muscles you know under your own will
+ uh there are ways to actually check the muscle fibers to see what they can do maximally uh but
+ we're not going to get into that if uh one of the things you can look at is if anyone has ever
+ uh had the unfortunate injury of tearing an acl uh one of the things they'll put you on to see if
+ you're able to return to training as normal is this machine that looks kind of like a leg extension
+ or a leg curl machine but it resists as hard as you can straightening your knee and then again resists as hard
+ as you can bending your knee to measure how much force you're actually able to produce
+ and so they can rig up other machines like this to measure other joints and things like that but um
+ maximum contractile force can be measured on various lab implants like that right and so as
+ you as you recover from the injury or say as you uh adapt to strength training um you are actually
+ going to be able to produce more force you're going to be able to contract your existing muscles
+ harder all right so next i want to get into one of the more common and slightly more complex
+ uh theories that i commonly see um about uh how strength training can improve endurance performance
+ um so this one is actually one of the ones that i see most commonly in the scientific literature
+ the theory is that if you are increasing the maximum amount of force you can produce
+ then you're making the force
+ required at sub-maximal intensities easier and less costly so okay so we actually have
+ some numbers to get into so okay so for example let's say you're doing 400 watts at 100 rpm
+ now this requires about 220 newtons of force applied to the pedals consistently
+ so we can you know estimate peak force uh during a pedal stroke because it does
+ uh you know you are a little stronger uh on the front of the pedal stroke around you know two three
+ four o'clock uh so we can estimate that's around 275 newtons or so so now if we want to relate this
+ directly to the study we can estimate the participants ftp somewhere around 280 to 300 watts
+ um you know since you know 315 watts is a little bit over ftp uh it's probably a reasonable estimate
+ so in order to maintain 280 to 300 watts at a
+ cadence of about 95 to 100 rpm you are actually going to have to average about 170 newtons on the
+ pedals on you know standard uh length cranks um doesn't change that much with cranks getting
+ longer or shorter so if uh the participants increase their maximal force that they can
+ produce on the bike the numbers i have for an average roadie is about a thousand newtons
+ maximally so if uh you increase the force that you can produce from a thousand newtons
+ to eleven hundred newtons you have now brought down the requirement the force requirement to
+ maintain your ftp from 15 i'm sorry from 16 to a little under 15 which is not much and we see an
+ eight percent improvement in uh in 45 minute uh time trial here so um so you know it's pretty
+ obviously not that the uh the force of the pedaling
+ is going to be the same as the force of the pedal
+ got easier because here's one of the things about specificity is that
+ there are different limiters to pedaling a long time at ftp and it's not the amount of maximal
+ force that you can produce on the bike you know if you increase your one rep max by like 10 kilos
+ 20 kilos um you know you're barely making a dent into like lowering the percentage of force required
+ i think the not to mention the
+ that if you compare 200 and some odd newtons to a maximal force of well over a thousand newtons
+ you know you're you're already so far down in terms of what a what one pedal stroke requires
+ in terms of maximal percentage that even if you doubled the the maximum amount of force you could
+ produce you're you're lowering it from you know oh i can produce some eight percent of your one rep max
+ down to like four or something like that exactly
+ exactly yeah yeah and you know and and you know at like ftp or endurance pace um you know it's going
+ to be even lower than that okay so one of the big problems with this theory is that strength
+ maximal uh force that can be produced by the muscles is not really that related to a sustained
+ demand for atp there are different requirements to put out 200 watts for several
+ hours than to lift or um you know like then to lift a couple uh you know 100 kilos or something
+ like that right i think it's a it's a poor extrapolation of the idea that oh if i can
+ if my one rep max squat is 100 kilos well then i can do 75 kilos for more reps and if my one rep max
+ goes up to a hundred kilos then i can do 75 kilos for more reps and if my one rep max goes up to a
+ hundred and fifty kilos well i can do that 75 kilos for more reps than i could when my max was
+ a hundred but now we're looking at loads and forces that are so far away that the systems the
+ metabolic systems required to produce that one rep max back squat aren't really related to the systems
+ required to pedal around your bike for four hours yeah exactly and also uh just as a little teaser is
+ a lot of people are capable of really uh defying the typical number of reps that people can produce
+ at different percentages of their one rep max based on things like their fiber type and their
+ metabolic fitness like you might say their ftp or their vo2 max and stuff like that because
+ even once you get down to like eight rep max 10 rep max um you know you are starting to already
+ get into some of these different metabolic systems
+ um you know you are starting to already get into some of these different metabolic systems
+ that uh are capable of producing um you know sustained atp demands so if we can see some of
+ these aerobic ability letting them do more reps at a high percentage of their one rep max like 70
+ percent 80 percent um then you would see uh expected in a lot of strength and conditioning
+ books um we can tell that somebody's aerobic fitness is already having a very large part
+ determining how many of these reps that you can do and if you're aerobically better you
+ can do more reps because you can create more atp aerobically and it's less to do with your
+ maximal amount of force that you can produce so if we're seeing this at eight or ten or twelve
+ reps and even you know as little as two or three reps you know 95 percent of your one rep max
+ we can already see these effects imagine what it's going to be like when we're down at four
+ percent of your one rep max or 10 or 12 or 15 percent of your one rep max you are so more limited
+ by your aerobic abilities and the amount of actual force that you can produce with your muscle fibers
+ but um that's uh going to be something else to delve into very deeply in a future uh podcast
+ episode we're just going to leave it right there for now so the question is did the strength and
+ endurance group change any properties of their muscle fibers like fast twitch slow twitch and
+ the answer is yes they did so one of the most obvious things that happened with
+ them is that their type 2x fibers this is their very fast twitch that have very low oxidative
+ capacity turned into type 2a fibers and almost a total interconversion um but there is a caveat
+ to this that we'll get to in a little bit what that has to do with neural drive and the main
+ topic that we're getting to uh of the podcast today um so yes so type 2a fibers have better
+ performance than type 2x but don't go grabbing a barbell just yet um so i'm going to hint that
+ there are other methods to achieve this type of fiber interconversion on a bike without hitting
+ the weight room uh and we'll probably hint at some in the future or even a little later in this
+ episode but they're kind of a trade secret so um we may or may not get into that in a future episode
+ if uh if we want to you know if i want to give away a secret like that uh the other important
+ thing that happened in this study is that the fiber interconversion is not a secret
+ type one fiber percentage went down a little bit but not to a point where it's statistically
+ significant though this is something that we've talked about before in other studies on the
+ podcast and something i see very commonly reading the literature is that when people start doing
+ high intensity training or strength training and the protocol uh the training protocol is like 8 to
+ you know 16 or so weeks long 16 is actually pretty long but um what typically happens is the type 1
+ fibers actually start to convert a little bit into type 2 not statistically significant but it is the
+ definite trend across a lot of studies um so this is something that to consider is that um you know
+ in the long term if you actually want less type 1 fibers like let's say you're a track racer or
+ something like that and this might be a good thing for you you want to you need to sprint a lot um
+ yeah then then lifting a lot to you know and not riding as much to convert your muscle fiber type
+ would be beneficial for you but for most endurance athletes this is actually not beneficial you know
+ if you start uh strength training and you know and you might have gained one or two percent slow
+ twitch fibers which you know if you're a highly trained athlete those are very very valuable
+ especially if you're like a road racer you do any kind of long events um and you may not want to do
+ too much strength training because like you know every half a percent of type 1 fibers that you
+ pick up is going to be hugely advantageous to you so uh so there are
+ trade-offs uh as as we hinted and this is one of the big ones that if you do um if you do not enough
+ endurance riding and too much strength training and you don't want those fast twitch muscle fibers
+ you know that is uh that is something to consider in your plan but there's no right or wrong answer
+ um so we'll get into why in just a minute why the type 2x to type 2a conversion might look
+ beneficial but uh in reality it may not actually be beneficial for you so we're going to get into
+ actually have made a difference at all and we're going to get to why about that in just a minute
+ so i think the thing that people probably gravitate to the most when they see the if they
+ just read the title of the study and then skip to the conclusions is that the 45 minute test
+ for the strength plus endurance group actually increased eight percent so they went from an
+ 815 watts to 340 watts and pretty much everyone out there is going to go oh man i could i could
+ definitely use those 25 watts like whoa i'm uh gonna sign up for my gym membership right away
+ if that means that i gained 25 watts in my 45 minute test right and so thinking about everything
+ that we just talked about along with thinking about that their lactate tested ftp did not change
+ vo2 max did not change so what was it
+ that lifting trained specifically to get this result well i'm going to tell you and it has to
+ do with something called the size principle sometimes known as the henneman size principle
+ but i know a lot of science is trying to get rid of especially physiology trying to get rid of the
+ names of people so you know krebs cycle becomes tricarbic silk acid cycle and stuff like that
+ so we're going to start talking about the size principle by talking about the motor unit which
+ i believe uh i mentioned briefly earlier so the motor unit starts with the motor neuron
+ so this is a nerve that can that connects to a bunch of individual muscle fibers in a muscle
+ so the brain connects to this muscle and the motor neuron carries the signal to these different muscle
+ fibers the motor neuron attaches to different numbers of muscle fibers in a muscle small motor
+ units can attach to the numbers i have here from the literature are 10 to 180 muscle fibers
+ and the largest motor units can attach to 300 to 800 muscle fibers and the largest motor units can
+ attach to 300 muscle fibers now the muscle fibers that each attaches to are in a range
+ of slow and fast twitch but there's a pattern the pattern is that your smaller motor units are going
+ to be slower twitch and your largest motor units are going to be very very fast twitch
+ and which you are going to use actually depends on the force requirements but uh just a quick note
+ splitting up muscle fibers
+ into fast and slow twitch uh is actually a convenience that we're going to use right now
+ although it is a lot more complicated we can divide up fiber types by the matpas
+ the myosin heavy chain or biochemically uh so we're just going to think about it mechanically
+ in terms of fast twitch or slow twitch and that's just the rate at which they contract
+ and we're going to get into a lot more detail in muscle fibers in another episode so we don't want
+ to spend too much time on it now but slow twitch is the uh
+ muscle fibers that are really good at using oxygen and doing things with uh with a lot of fatigue
+ resistance and fast twitch muscle fibers fatigue a lot more quickly and they are not nearly as good
+ with oxygen although they certainly do use oxygen so the other important thing to know about a motor
+ unit is that when the signal to contract gets sent out it has to hit a certain threshold and
+ when this threshold is hit all of the muscle fibers that are really good at using oxygen are
+ going to contract so a lot of the individual muscle fibers attached to this motor unit all
+ contract and it's an all or nothing thing and the way we get gradations of force is by recruiting
+ more or less motor units so in other words the highest threshold motor units the very largest
+ motor units you have the 800 muscle fiber motor units the big fast twitch ones those require a
+ very large very strong signal
+ i think an example for some people out there if you ever tried to pick up something that was very
+ heavy and close to the maximum amount of weight that you could pick up say in like a trap bar
+ deadlift you'll notice that you first start pulling and you're thinking like really hard
+ about it and it doesn't actually move and it takes a minute for all of a sudden your brain
+ to tell enough of your of your muscles to fire hard to pick up this you know very heavy one rep
+ max trap bar deadlift
+ or you know move this car off of this you know trapped child who you know the car is on fire or
+ whatever but you can actually see this sort of thing happening in real time if you look at you
+ know versus you compare a very slow maximum attempt like that to a very easy oh you don't
+ have to think about picking up 10 pounds off the ground now that here's the size principle
+ is that motor units and you know indirectly muscle fibers are recruited in order from
+ smallest to largest to meet force production demands so if your brain figures we need more
+ force we need to be stronger right now doing this thing you will recruit more muscle fibers
+ as your brain sends these strongest and stronger signal and the the fibers are not recruited
+ separately they're recruited from the smallest ones all the way up to the largest ones but when
+ the largest ones are being are being used all of these smaller ones below that are also being
+ used now that that is right there is the size principle all right so okay so one of the things
+ to note about um about the size principle is that most people cannot actually access
+ a hundred percent of their motor units available because their brain can't segment signal and we
+ don't know why exactly it might just be a protective mechanism because there's a high
+ likelihood that you could tear your muscle off of the tendon and the bone doesn't matter because
+ most people cannot access all of their muscle fibers so um so this is actually one of the
+ things that i wanted to point out about the type 2x to type 2a conversion before is that
+ a lot of the type 2x fibers were probably in their very largest motor units that these cyclists had
+ that uh that you are probably not accessing while you are on a bike because the force requirements
+ are not quite that high and one of the reasons that you can't access these large motor units is
+ neural drive um which can actually be trained and in this study because we see uh we don't see
+ additional contractile elements being uh being built type 2x fibers produce more force than type
+ 2a fibers so on paper just looking at the muscle and that they didn't build any extra and that they
+ were still getting stronger and that they had less strongly contracting muscle fiber types
+ you know we would not think that they got stronger but they did because they were training their neural
+ drive to access more motor units okay and in the heavy lifting for strength like in this study
+ uh the short reps means low fatigue and this means high neural drive to your motor units
+ uh when you are lifting uh and yes neural drive fatigues like if you don't get enough sleep it's
+ going to it's going to fatigue you're not going to be able to recruit those big muscle fibers
+ stuff like that and of course as you exercise it also fatigues and so one of the things that these
+ in the study in the strength endurance group we're training one of the big things here is
+ more neural drive and more fatigue resistance of the neural drive but one of the things that
+ goes into yeah being rested and tapered and things like that is your is this neural neural
+ component yeah precisely and okay so how does the size principle work when you're on a bike if you
+ know if because we've just been talking about it so far with maximal strength applications um
+ so when when you start riding a bike you are initially recruiting small slow twitch
+ motor units and these um okay and as they are used to pedal the bike they start using
+ fuel which is to say glucose and glycogen and uh and fat of course but as the uh as the glycogen
+ depletes as you pedal longer and or possibly pedaling harder your glycogen stores start to
+ diminish and now your smallest motor units cannot meet the force demands anymore of pedaling a bike
+ at you know like 150 200 newtons or whatever it is so what happens is you start recruiting
+ larger motor units with fresh glycogen stores um and one of the things to note about this study
+ is that these cyclists actually have a huge proportion of type 1 fibers so they're actually
+ about 70 percent type 1 and one of the things to note about this is that like you can get a
+ fairly large motor units and they are still very efficient with oxygen type motor units so that is
+ uh that is one of the things that gives a lot of cyclists really good endurance is this huge amount
+ of type 1 fibers um and so when you start training and as your smaller motor units fatigue and you
+ start recruiting larger motor units these will adapt to the endurance training and you know the
+ endurance training being a sustained demand for atp because that's exactly what endurance is
+ so one of the reasons that good endurance athletes have a lot of slow twitch fibers is because
+ the body would prefer to have well-trained slow twitch fibers because they're more efficient
+ at producing atp and they can do it for longer they are better they are more fatigue resistant
+ we're getting a little ahead of ourselves in terms of fiber type but it's so important to
+ understand about good endurance cyclists also one of the um one of the really cool things
+ about well-trained endurance cyclists is that they actually use in in like a like an ftp effort
+ for instance um they will actually use 20 to 25 percent more of their muscle fibers and muscle
+ mass than untrained people which is a uh the first time i read it was a startling statistic
+ until i remembered all right size principle
+ they're probably used to recruiting larger motor units and they have more uh you know they have
+ better fatigue resistance of their neural drive to do so i think the other comparison you can think
+ like you know if you're um if you're a untrained person off the couch you've never actually done
+ enough work for your body to think oh i should like turn on those larger motor units that have
+ this higher threshold for being activated mentally
+ like if you sit on the couch you eat donuts all the time it's stressful and mentally sometimes
+ it's not getting donuts it can be um it's just not actually forcing your body to dig that deep
+ to look for these larger motor units here's the big question this is this is the whole enchilada
+ so how does this explain the 45 minute time trial power going up um with all the other
+ endurance related factors vo2 max and ftp and type 1 fiber
+ type staying the same so what happened during the test was the neural drive of the strength
+ trained group was greater giving them access to a larger number of motor units than the uh just
+ endurance trained group had access to this also means that they had access to more glycogen stores
+ literally they had more energy available so we actually see the same effects in a lot of other
+ studies with similar training groups and they had access to more energy available so we actually
+ see that the more energy available the more energy they had and the more energy they had the more they were able to get out of the way of the training modalities are shown to increase the fatigue resistance of the neural drive during sub maximal exercise and this is especially common at intensities above ftp and also below vo2 max so as as mentioned the 45 minute test for these athletes is between the vo2 max and ftp and so um so as your brain gets trained to put out a stronger signal for longer um and we know that this happened because
+ of the reasons that we outlined above like they didn't grow any more muscle mass but they still got
+ stronger etc etc all right so the new oxidative type 2a fibers took the place of type 2x fibers
+ which were uh probably in the very largest of motor units so in the five minute test when these more
+ oxidative motor units might have been accessed um we probably didn't see the five minute test power go up
+ power output for a five minute test is probably limited by vo2 max and a couple other things um
+ and so that would probably limit um you know your ability to put out power despite your ability to
+ access more muscle fibers like you've only got so much oxygen to go around at that point you know
+ what i mean okay and so okay so with the five minute test the last the last bit is that um this
+ and a couple other studies i've seen actually disprove a theory that i've seen in a couple
+ places among strength and muscle fibers and i've seen a theory that i've seen in a couple places
+ among strength and conditioning professionals um you know papers and literature and whatnot
+ um is that uh they're they theorize that greater motor unit recruitment increases muscle tissue
+ demand for oxygen and therefore will increase vo2 max by being able to create more demand for
+ oxygen and therefore extract more oxygen out of the bloodstream um but at least in the elite
+ population um you know we'll probably not see an effect because um you know
+ as stated before the heart and lungs and your ability to actually get oxygen in
+ is probably going to be your limiting factor at something like that yeah i think it's also
+ that one's always been a strange uh theory to me because then you would think you would see
+ really great vo2 max numbers from like elite ifbb pro bodybuilders or something and you're like
+ well no they don't train the other components uh you know you would of aerobic respiration
+ um okay actually it's funny that you say ifbb pro because uh one of the best examples that i can
+ think of to illustrate what's going on like in the 45 minute test here is actually bodybuilders
+ style weight lifting where you're doing you know 12 to 15 reps with short rests
+ and what happens is your first rep you know it's pretty quick and then your last rep you
+ are absolutely grinding it out and this is because you are um you are
+ recruiting larger motor units as the smaller ones fatigue and you are also limited um as you
+ do these reps by your neural uh drive because as you do these reps you're sending a signal i need
+ these muscle fibers for this force demand i need more i need more i need more every single rep
+ until you get to you know your um your neural drive has come down to such a limit where you
+ at the very largest muscle fibers that you could possibly recruit and your smallest ones
+ are absolutely knackered so that's why your last rep looks so slow even though it's much less than
+ your one rep max it still looks like that's the most force that you can produce because that's
+ the most force you can produce one of the things to think about here is what is limiting your
+ ability to put out power at different effort levels so um so you know sprinting is limited
+ by certain factors
+ you know one minute ish power is limited by certain factors five minute power is limited
+ by certain factors like vo2 max um you know ftp is limited by certain factors um you know there's
+ a limit to different factors and here between vo2 max and ftp is a very unique range where
+ your neural drive is actually a very large factor in how many muscle fibers that you can recruit and
+ use but as always this is not a blank
+ you absolutely have to go into the gym and grab a barbell and start lifting heavy right now
+ because that is absolutely not the case um i usually only have my uh roadies in the gym for
+ one to three months in the winter and that's it and they generally don't lift nearly as much as
+ this group and um and you know we generally do it for other reasons because as i said before
+ there are certainly ways to get this kind of adaptation of neural drive on the bike
+ they're a bit of a trade secret so i'm not going to go into all the details but i'm going to go
+ into too much detail um however uh i will say that um you know this is neither a recommendation
+ or anything like that um you know what i really want to do with the podcast as always is show
+ people how training works and you know sometimes i'll talk about my experience in coaching people
+ but for the most part i think that you know people having the tools and the understanding of why
+ things work is the most crucial thing in developing uh proper training plans and
+ understanding what's really going on in your body and is that a a phenomenon that we can expect to
+ see in lots of people or almost everyone or you know your your other sort of potential
+ cyclists who are interested in incorporating strength training in to their season or their
+ annual planning um in most individuals who are racing and doing hard efforts and stuff like that
+ um i would probably say that the effect is going to be seen uh slightly but not as dramatically as
+ in the study um and in very highly trained people i would say that this effect is not going to be
+ found at all and i would say it's certainly different in terms of the way that you're
+ individual to individual uh because you know i've seen a lot of people who have done strength
+ training and you know none of the power over threshold has gone up um but i've also seen
+ people including myself who start doing strength training and suddenly you know like your over
+ threshold watts just explode yeah so i think and as you kind of mentioned before like if you have a
+ history with strength training that you may already have access to some of that additional
+ drive and so you may actually see this less than if you have this uh your total new strength
+ training and you've never picked up a barbell ever then maybe you are going to actually find
+ yourself being able to generate a little bit more neural drive yeah and and this is uh definitely
+ something that i think about when i'm training people especially when i'm developing athletes
+ who i know i'm going to be working with for a long time who have you know lofty ambitions um
+ you know when i train you know even even during like regular
+ weekly training i'm always thinking that long term and this is actually one of the things that
+ i do consider and and it does affect the day-to-day workouts i guess one of the big take-homes from
+ this is that you only train the muscle fibers that you recruit that kind of sounds like it
+ would be obvious but i think it's probably something good to hear maybe for the first
+ time or maybe maybe ad nauseum but um yeah it's
+ if you're not actually going to use part of your muscle fibers like you can think of this in the
+ really dumb example is well if you never work your upper body because you're a climber and you don't
+ need that extra uh mass weighing you down well you're not going to be training your arms and
+ well i think i think that's a little bit of a um of uh a funny thing to some people is to think
+ about you know anytime you flex your muscles you're going to be training your arms and you're
+ going to be training your legs and you're going to be training your legs and you're going to be
+ you know it's like are you using all of your muscle and the answer is it depends on how hard
+ you flex it that you know you can flex a muscle and not be using all of your muscle because it
+ feels like you're using all of your muscle intuitively you know you you are using all
+ of your muscle but in reality you are really not well your body is trying to you know be
+ just as lazy as you are at heart and conserve as much energy and fuel as possible so if you're
+ only thinking like ah you know flex what little bicep i have to try and you know pose for a bad
+ tinder photo or whatever your body's not too worried about that yeah so and so also remember
+ that your body only recruits muscle fibers uh to meet the force demands and if you are like at the
+ heart as you can you know you are you are at the point where your body is trying to recruit
+ larger motor units but now you are you are nearly too tired to send a signal strong enough to get to
+ them so now all you have is like you know three quarters or like four fifths or you know whatever
+ it is of your sad empty muscle fibers left just trying to push the pedals to the finish line
+ all right as always i want to thank everybody for listening please subscribe and rate
+ we are on google podcasts uh if not uh at the moment you hear this uh very very soon so if
+ we're not there today try checking back tomorrow um if you would like to make a donation and
+ support the podcast and keep us doing these uh you know muscle physiology epics that you just
+ heard uh we would love to have a couple bucks from you that would be great and um if you have
+ any questions comments or coaching or consultation inquiries please send an email to
+ empiricalcycling at gmail.com the website is empiricalcycling.com and we have the show
+ notes up there as well so um as always thank you for listening yeah to all your friends

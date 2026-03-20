@@ -1,0 +1,1190 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Cole A. Moore, and we are once again joined by Kyle Helson.
+ He's back from the desert with Balloon Stories, and we've got a couple stories to tell today.
+ But yeah, before we get started, I want to thank everybody for listening, and please subscribe to the podcast if you're new here.
+ And if you like what you're hearing, of course, please share the podcast if you want to support it, and that's probably the best thing you can do, obviously.
+ And if you want to give us a nice rating wherever you listen to podcasts, and yes, I know that Spotify was down over the weekend.
+ Sorry about that.
+ I think it was a hosting platform issue.
+ If it happens again, hopefully by that time I will have the bandwidth to switch podcast hosts.
+ So we'll let you know if that ever happens in the next couple of weeks or months.
+ So thanks for sticking with us during the Spotify outage.
+ Anyway, if you would like to donate to the show, because we are completely ad-free content,
+ you can do so at empiricalcycling.com slash donate.
+ And if you would like to join our ultimate Patreon, as it were,
+ you can always shoot me an email at empiricalcycling at gmail.com.
+ If you'd like to hire us for coaching or just hire us for a consultation, it's currently, what are we, mid-October?
+ I have lost track of time.
+ Mid-October.
+ Yeah.
+ Mid-October.
+ Yeah.
+ Hurricane season.
+ Oh, we got some stories about that because I think a lot of people on the podcast or who listen to the podcast don't really know that I moved to Asheville, where I am currently not.
+ So anyway.
+ Yeah.
+ Poor timing.
+ It's a good time to reach out for coaching if you are looking for a coach.
+ We have a couple spots available, not like artificial scarcity, a couple spots available,
+ but we're getting close to our capacity.
+ If you want to get in, shoot me an email, please, even if you just want to try to reserve
+ a spot for the next couple months or spring as people roll over.
+ Also, on the Instagram, at Empirical Cycling, we can AMAs in the Instagram stories.
+ Go check those out and give me a follow there.
+ Also, that's where we ask questions for the podcast like we are going to do today.
+ it's been a little while and I wanted to have our main topic today be, because whenever Kyle
+ comes back, I always want to talk about strength training because he and I are both in the gym a
+ lot and it's a lot of fun. And also I've been seeing, or I've been thinking rather a lot about
+ strength training in a different context than usual. But before we get to that, because I really
+ want to get to that, we're going to talk about what strength training is, what strength is,
+ definitions of strength, how we measure it, how we maintain it, and how much do you really need
+ to do proper strength training in the gym when you start focusing on the bike as you roll out
+ of the gym and start focusing more on the bike. But if you want to skip to that, probably skip
+ ahead maybe 20 minutes because Kyle and I have a couple of stories to tell first. Kyle has gotten
+ back from the desert where a lot of people kept asking for more balloon stories and Kyle has more
+ and I cannot wait to hear because last year you were in New Mexico trying to launch a weather
+ balloon, AKA, um, I don't know where you try, what are you trying to do with this? Are you
+ trying to control the weather or what's going on? Exactly. That's it. It's this, it's the space
+ lasers. No, the, um, so one of the projects I work on for my normal job is a balloon born
+ near-infrared telescope called EXCITE, which stands for the Exoplanet Climate Infrared Telescope.
+ So we are a project where we take a fancy sensor that's actually a spare from the James Webb
+ telescope, and we use that to measure the spectra of exoplanets, which are planets that are outside
+ of our solar system. XO stands for extra solar, which that I always kind of thought was a little
+ weird because XO and extra solar don't quite make sense. But anyway, some of you may be familiar
+ with the fact that the past 10 years or so, we've been finding a lot of new planets that are outside
+ of our solar system that are this thing that we like to call hot Jupiters, where they are large
+ gas giant planets like Saturn, Jupiter size. But for some reason, instead of being very,
+ very far away from their host star, like Saturn and Jupiter are in our solar system,
+ they're very, very close to their host star. So that's why they're hot. They're so close that
+ they are often like roughly as close as like Mercury is to our sun. These planets are sort of
+ similarly or analogously close to their stars. And so that's weird. We don't really understand why.
+ And so we hope that by measuring their composition, by studying the spectra, so the different frequencies of light that they emit or that they absorb, we can learn something about the atoms and molecules that make up their atmospheres and also learn something about their atmospheric dynamics.
+ And hopefully that gives us information about how these things came to be in the current position that they are or how they came to exist at all.
+ That's a pretty standard way to look at foreign bodies in terms of, God, what do you call it? What does Neil deGrasse Tyson do? Astrophysics. Astrophysics, right?
+ Yeah, there we go. Yeah, exactly. Yeah, the big thing is, obviously, these things are so far away, you're never going to be able to go there. So you have to ask yourself, okay, so if I'm never going to be able to go there, what can I measure from a distance that will tell me more information about it?
+ And it turns out spectra is a pretty good one because you can say, oh, well, we know, for example, nitrogen or oxygen, carbon dioxide, things that are very common on Earth.
+ We know what those molecules, what their spectra look like.
+ And we can also say water is important.
+ We can look at very, very common organics like methane.
+ We can look at all these different things and you can pick out different regions of the electromagnetic spectrum where these emission lines exist.
+ And you can say, okay, I'm going to look in this region for this molecule or this molecule or that molecule.
+ And that will tell you whether it's there or not.
+ That sounds like NMR for planets.
+ Yeah, basically.
+ It's a very similar technique to NMR.
+ Obviously, it's not exactly the same because it's not spin resonance.
+ It's probably more something like, do you ever remember doing Orgo Lab and you do maybe a gas chromatography or a mass spec where you get a spit out of?
+ The X-axis is frequency or something like frequency or molecular weight, and then you look for the peaks, you know, where those things pop up.
+ It's kind of like that.
+ Yeah.
+ Where –
+ And shout out to the Instagram channel MassSpecEverything, one of my favorites.
+ Yeah, exactly.
+ And so we're trying to do that effectively, but for these very, very distant planets that are very big and sort of strange.
+ And so because it takes a really long time to put together a spacecraft, like 10, 20, 15, you know, 15, 20 years, stuff like that, NASA has a very, very active scientific balloon program.
+ So these are very, very large balloons up to 100 meters in diameter, and they float at very, very high altitudes.
+ So typically over 110,000 feet, usually over at least over 100,000, if not over 110, 120, 130,000 feet.
+ And that gets you up above 99.9%.
+ We'll say at least 99% of the atmosphere.
+ So the ambient pressure on Earth is, anyone know?
+ Anyone know how many bars?
+ How many bars?
+ I don't know how many bars, but I know it's like 740 torr or something like that.
+ Yeah.
+ it's it's dumb it's it's um one bar right yeah one torres millimeter mercury but in bars i have
+ no idea what that is is like 20 something yeah so a bar is a hundred kilopascals oh boy my least
+ favorite unit um yeah and then it's a bar is basically one is very close to one atmosphere
+ So a bar is basically approximately one atmosphere for, and like, if you, if you're like, if you,
+ and which is about 14, 14 and a half PSI, like if you look at your, okay. So it's definitely not
+ right. One bar. Like I said, yeah, it's like seven, a bar is close to seven 60. Anyway. Okay. Sorry.
+ Yeah. We're going off. I did a, I did a conversion. A hundred thousand feet is about 30 kilometers,
+ which is what is that? Like one and a half Everest's. Yeah. We're 30 to 40 kilometers.
+ We're pretty tall typically.
+ It's, it's, um, and so the ambient pressure on the surface of the earth is roughly a bar.
+ And at the altitudes where the balloons float, it's typically three to five millibars.
+ So you're thinking it's like the atmospheric density up there is a 300th, a 300th to a,
+ you know, a sort of 200th of atmosphere to give you a rough idea of just density. So you're up
+ above most of the atmosphere. And so all of the different frequencies of light, the atmosphere
+ blocks, you can now see those, which is really, really helpful, which is why we go to space for
+ a lot of things, but this gets you very close to space. And it's also a good platform to test out
+ new technology because it's, it's less risky because the balloons do eventually come back
+ down. And so it's not like a space telescope where sometimes you send them up and then if
+ something happens, it's never coming back. Like you're never going to get able the ability to,
+ uh, go up there and, and make changes and things like that. Yeah. Like a 30 grand piece of space
+ junk hits it at like a hundred thousand miles an hour and just disintegrates it. Yeah. The, uh,
+ the James Webb, the, the big, the big, huge mirror. Yeah. The new one with all the super
+ clear, really cool images that have been coming out. Yeah. It's got a bunch, it's got, it's,
+ it's already been impacted several times and that's, it's not catastrophic. At least when the,
+ when, you know, literally holes get punched in the mirror. Like it's a very, very small effect,
+ right? Cause it's a very small hole relative to this whole mirror, but over the lifetime of the
+ instrument, yeah. Over the next 15, 20 years, it's going to get more and more holes punched in it.
+ Develop a couple of hot pixels on that. Exactly. Yeah, basically. But so we, we work on this
+ project and we were out there for the, for six weeks this year and we did successfully launch,
+ um, August 31st, we launched and we, we had a good long flight. We flew for, uh, about 10 hours. So
+ from ground to float, it takes about one to two hours to get up to float altitudes. And then, um,
+ we were up there for like seven hours. Then it takes another hours to come down when they, at
+ the end of flight. So these balloons go up, we can't control exactly where they go. So we have
+ to rely on good weather, very good weather modeling, and a lot of past experience to inform
+ sort of the general trajectory of where these things are going to go. And then, of course,
+ these payloads can be very, very large. They can weigh up to 6,000 pounds. Ours was only about half
+ that, about 3,200. But then, of course, you can't just drop that. So you're not putting an Escalade
+ in the air. You're putting like a Civic in the air. Yeah, it's like a Civic. Yeah, exactly.
+ But you're not really going to want to drop that on some unsuspecting group of people.
+ So we scout out relatively sparsely populated areas, and it just so happened this time.
+ Our balloon came down, and we landed on the White Mountain Apache Reservation in eastern Arizona.
+ Shout out to people in Arizona.
+ It's pretty close to Show Low.
+ I know they used to host the state championship road race until there was that tragedy a few years ago.
+ Yeah. Asshole drove through a bunch of people. Um, but we were out, we landed out there near the,
+ on the Indian res out there. So then we had to do this whole coordination with the Indian res and,
+ and all that stuff. And then also where we landed, we landed up on a mountain, like 6,500 feet. It's
+ not a mountain mountain, but you know, pretty high elevation, 6,500 feet. Um, and we ended up
+ having to get a helicopter to pick up the payload because we could not drive trucks or big enough
+ vehicles to get close enough to it to pick it up with like a flatbed truck and a crane or anything
+ like that. So yeah, it was a whole saga, but we got it back literally this past week on Friday.
+ I helped unpack the truck back at Goddard. Everything's back. We got it all back. We get
+ to do the post-mortem here in a couple of weeks. So yeah, fun times. And that was what you
+ were trying to do last summer, right? Is launch and the conditions were never right to like,
+ get that to land without, because what is it? Like you were looking for a certain number of
+ micro deaths. It was the unit of safety, right? So generally speaking, for all launches,
+ let's back up for a little, for all launches of everything, rockets, balloons, airplanes,
+ that you can really consider the launch, but NASA will quantify risk and have risk models,
+ because it's not the 60s and we're way less tolerant of extremely high-risk things,
+ and especially people getting hurt, people getting killed, things like that. Generally frowned upon.
+ So there are risk models that they run, and the risk is quantified in micro-casualties.
+ So yeah, so we see the number has to be below 100 in a million, so below 100 micro-casualties
+ for NASA to, to okay the launch to go ahead. So that's, um, yeah. And I think we, we talked a lot
+ about that in the last, I don't remember which podcast it was. It was approximately one calendar
+ year ago. Uh, if you want to go check that one out, uh, it was another, I think it was probably
+ another strength training episode. Um, probably, but yeah, it's October. It's, it's that time of
+ year. Um, yeah. So I, there was also, you put a GoPro or something on the balloon and you sent me
+ the footage of it and I could barely, I watched the launch, which was really cool. It starts
+ pitch black and the sky turns purple and then it turns blue and then it turns black as you go up
+ and you basically get out of the atmosphere. And then I didn't realize this, the thing spun like a
+ top while it was floating. And it was like, so the sun like got into the camera, like every couple
+ of frames and it was like a strobe. I was like, I can't watch this. Yeah, definitely. Uh, if you,
+ if you search YouTube for like excite 2024 flight time-lapse, I have a video up there, but, um,
+ yeah, so we, we, what, what you think the tricky part with balloons, and this is sort of an
+ academic exercise as well. Okay. So if you're, if you just get launched up into space and you don't
+ have a, like, like how would you determine what direction you're looking? Right. And so, yeah,
+ I don't know. That's, that's, that's always the struggle. And so the primary way that you can get
+ very, very accurate, uh, pointing information is by looking at the field of stars that you can see,
+ right? Because that's like a well-known, um, they're well-known databases of stars,
+ you know, exactly where those are you. And so with a combination of GPS and star fields, you can
+ pretty accurately reconstruct where you're pointing down to sort of like the milli arc second
+ or arc second. So arc seconds, a weird unit. So, uh, degrees can be divided into degrees and then
+ minutes so then 60 minutes in one degree and then 60 seconds in one minute and so that's arc minutes
+ arc seconds and isn't there some weird equivalence of uh of like radians and and um degrees at things
+ this small that renoys mathematicians but physicists do it all the time uh you can well
+ so it's two pi well you can do like small angle approximation right that's oh that's what i was
+ thinking of yeah yeah anyway yeah so we're we're in the in the very very fine very very accurate
+ pointing um and so in order to do that a lot of times what you have to do is you have to
+ rotate around until you can get the star cameras to solve on a solution because they're taking
+ pictures of the stars they can see and then you're comparing those in real time to a known
+ star databases and once you lock once you figure out where you are in that one instant then you can
+ use gyroscopes and accelerometers, for example, to then accurately track how far you're moving
+ or panning or tilting your telescope up and down, left, right, things like that, right?
+ But eventually, error creeps in, and those accelerometers and gyroscopes have drift over
+ time, and so then you re-anchor those gyroscope and accelerometer data with star camera images
+ of known directions that you're looking, if that makes sense.
+ How long does it take to initially figure out to kind of like do that lock?
+ And then do you actually have control over how the assembly is spinning under the balloon or no?
+ Yeah, yeah, yeah.
+ We can control azimuth and elevation of the telescope.
+ We have systems to do that.
+ How long it takes to lock, it depends.
+ So one of the things is you can use – so obviously the sun is a pretty good course.
+ force azimuth sensor like if you're pointing toward the sun you know what day it is you know
+ what time it is you can you can calculate when that where the sun should be in the sky
+ um things like that so there are there are other things you can use as well um but it can take it
+ could take minutes it could take hours if you like searching around it just it sometimes it kind of
+ depends because you know it's you're literally quote-unquote lost in space you know um you've
+ got to navigate like sailors in the in the 1500s 100 yeah actually actually this is a this is a
+ big challenge for submarine-launched ballistic missiles, because if you're a submarine-launched
+ ballistic missile, you come out of the water and you have no idea where you are at all, right?
+ And so in flight, you have to figure out where are you, what direction are you pointing,
+ where are you going? Obviously, there are other considerations if you're a submarine-launched
+ ballistic missile. Like if you're a silo-launched ballistic missile, right, you have a pretty good
+ idea where you started. Um, but submarines have no, not, you don't, you're not guaranteed to have
+ any, um, any information about that. So you have to be able to determine that. I mean, that's a
+ weekly problem for me, really. Yeah, exactly. Yeah. Um, but yeah, so, so similarly, uh, you
+ know, these are not, these are problems that people have thought about literally since people
+ started sailing across the oceans. And then we still think about them to this day. Um, and you
+ can imagine if you were going to do interplanetary travel, like from here to Mars, you eventually
+ are going to get far enough away. Right now, you know, here to the Earth, the Earth, sorry,
+ from the Earth to the moon, the Earth stays pretty big in your window most of the way, right? The
+ Earth is very, very large compared to the moon. And you're not going so far that the Earth gets
+ very, very small and very, very far away. But if you look at how small Mars appears, right,
+ when you can see it in the sky, if you were going to send people to Mars, you better have a very,
+ very good system for figuring out exactly what direction you're pointing. And the big kick in
+ the pants for that is that you lose GPS, right? We don't have GPS satellites. And like, what does
+ GPS mean in between planets, right? Things like that. So the global positioning satellites that
+ you have between planets. Yeah. Yeah, exactly. So, uh, and then like compass, like a basic compass
+ helps and works even at high altitudes above the earth but once you leave the earth's magnetic
+ field the compass does you no good so you can think about that too where this is these are
+ problems that generally people in throughout you know sort of space go think sending things to
+ near space or in space these are challenges that that are real and so uh balloon platforms like
+ this serve to not only teach people how to use uh you know scientific hardware and be good training
+ grounds for students, but also think about problems like this that you may not, those are
+ not the, maybe the first line problems that you think of like, oh, what's hard about going to
+ space? You know? Well, it turns out navigation's a pretty big deal. Yeah. I'm always thinking like
+ breathing, pooping, eating. Yeah. Boredom. Fire is also very bad in space. Like fire on the ground
+ is bad, but fire in space, real bad, you know? And there's no hurricanes in space to put it out
+ either. That sucks. True. Yeah, exactly. Woof. Um, but yeah, so yeah, that's, we're, uh, that's
+ cool. Uh, I, I'm doing kind of, Oh, sorry. Go ahead. Oh, I say, yeah, we're just, we're kind
+ of that. We're definitely the, like maybe less least well-known sort of like almost space type
+ thing that, that NASA does, but we're, uh, pretty excited. It's a good time. It's close enough to
+ space to qualify for NASA. Yeah. If you look on YouTube, if you search up NASA wallops, W-A-L-L-O-P-S,
+ there is a short, like 20 minute documentary they did a few years ago about the NASA balloon
+ program, which is pretty cool. I can link that. I'll link that and I will link your flight time
+ lapse in the show notes. Yeah. Cool. Yeah. Watch out for the comments on that NASA on lots of
+ Flat earth comments. Woof. Woof. NASA doesn't have enough money to pay a comment moderator,
+ clearly, because, oh God. I remember in high school, we had a teacher who was like,
+ how did people know way back in the day that the earth was actually round? Because it was actually
+ fairly well known that it was round. I was like, I guess if you watch a ship disappear in the
+ distance, the bottom of it goes first. And they were like, yeah, exactly. I was like, okay,
+ What's so hard about that?
+ Yeah.
+ Anyway, we love a good conspiracy theory every once in a while, but woof.
+ Man.
+ Oh, God.
+ You want to talk about conspiracy theories?
+ Well, we won't, but if anybody's curious, Google Hurricane Helene conspiracy theory, and you will be treated to –
+ These fucking people.
+ Yeah.
+ Anyway, so I live in Asheville now.
+ And nobody really knew that Helene was going to be that bad.
+ Like there was no evacuation warnings or I clearly would have heated them because I lived through Hurricane Bob in Massachusetts many years ago.
+ And, you know, Hurricane Bob was bad.
+ It wasn't that bad for where we were in Western Mass.
+ But like, you know, Helene was coming and it was like, okay, hunker down.
+ And like, what was it, Thursday, I think?
+ It was just raining and I got a little water in the basement.
+ I was like, ah, mop it up, go lift, whatever. It's fine. Um, the next morning I got woken up
+ about like 4.00 AM with something hitting the roof of the house. It was this giant crack.
+ And I was like, that's weird. Uh, look outside. My girlfriend looks outside and we're like,
+ oh, that tree is right next to your car. She's like, can I go out and move it? I'm like, no,
+ what if next tree falls? You're in it. Um, the car took three trees to the dome and one to the
+ keister on the bike rack and the bike rack is attached to the trailer hitch which is attached
+ to the rear subframe so i'm pretty sure the subframe's bent the roof of the car is completely
+ collapsed in the windshield is shattered um the door is miraculously open still uh wow yeah you
+ don't have to like crowbar your way into the car you know no somehow uh well i think it's like you
+ know the the roof caves in it pulls in the top of the unibody and so the doors didn't get like
+ impinged. Um, but you know, the, the, um, the, what do you call it? The hood of the car is bent
+ in, but like, we had a, like maybe a hundred gallons of water in the basement over that day,
+ but the power went out around like 6, 15 AM. And we just got it back two days ago.
+ Uh, it's been, it's been about two weeks. Uh, and we were lucky. We're very fortunate. Um,
+ because we live a little outside of Asheville, closer to Hendersonville.
+ And Hendersonville didn't get it as bad.
+ Asheville got it really bad, really bad.
+ And once you go out into the outlying communities, it's incredibly bad.
+ Like entire communities have been washed off the side of mountains,
+ and people have died.
+ Yeah, and we got lucky.
+ We got real, real lucky.
+ So Erica Zavetta, who is one of our coaches, she lives near us.
+ in Brevard and, or the Brevard area. Um, and she put together a list of places to donate to
+ hurricane relief, uh, in the area or federally. Um, I will leave the links to all of that in the
+ show notes. Um, and, uh, yeah, I, I hope if people are thinking about donating to the show,
+ they donate instead to this, uh, to hurricane relief because it's, we're fine. Thank you
+ everybody for your, for the kindness, the kind words, everybody offering, what can I do? Uh,
+ what you can do is you can donate to the places that are helping out the people in the area who
+ really, really, really need it. And there are a lot of them. Um, and you know, just while we've
+ been up here, uh, just talking to the folks that we used to know up here in, you know, in the New
+ Hampshire, Vermont area. I mean, I, I, I was going to, um, to anytime fitness in West Lebanon,
+ New Hampshire. And they, as soon as they heard that I was, you know, basically, basically a
+ climate refugee, they were like, you get free gym time. And so, Oh, geez, that's super nice.
+ Yeah. They've been, they've been great. Um, and also salad, Omar and Bob's in Lebanon,
+ New Hampshire, let my girlfriend borrow a bike for free for two weeks. Um, just here,
+ take this rental, just not going to charge you. Just go ride. I know he needs to train.
+ So, uh, they've been, people have been really, really, really kind and, uh, just can't thank
+ them enough. Yikes. Well, it's glad and glad, you know, everything basically worked out. It's,
+ it's, uh, well for us. Yeah. Yeah. It's nothing. It's nothing you wish on anyone, right? Like it's
+ just, well, yeah. I mean, especially, Oh, sorry. Go ahead. Yeah. It's, Oh, it was just, just like
+ we tend to think that we have decent sort of advanced notice around hurricanes and things
+ like that, but you know, that's getting, it's getting less and less reliable, uh, as time goes
+ on. So yeah, things like this are going to happen more and more and more, unfortunately.
+ Yeah. And, um, yeah, I mean, shit, we lucked out just by the place that we decided to rent. It's
+ kind of up on a Hill. Like if you look at the map of, uh, what is it? Aquifers or watersheds or
+ something, watersheds. So like, you know, I think it's like lines of the highest area and kind of
+ like making like, where does the terrain make natural bowls? We actually live on a border of
+ one of those little watershed areas in the area. So we live in a high point and we lucked out for
+ that reason. We were lucky that we could actually leave the neighborhood in multiple ways to get to
+ cell service to, and when the flooding started to subside, to get around the floods, to get to the
+ highway, which not a lot of people were able to do that for, you know, four or five, six, seven days,
+ uh, or right now, even longer, depending on where in the area you live. So, um, it's not something
+ I really believe in, but I, I have counted many, many blessings, um, in the last, uh, in the last
+ two weeks. Anyway, so let's talk about strength training while we're here. Um, yeah. So this is
+ something that's been coming up a lot recently with our clients, with, you know, with our,
+ on our coaching calls and with, and with people I've been consulting with and just kind of folks
+ I've been talking to. And also because it's that time of year, people are getting into the gym
+ again. I've been brushing up again on strength training and, you know, kind of diving back into
+ the literature and seeing what's out there for media and stuff like that. And the thing that
+ has been coming up a lot has been what is strength? And personally, the term strength
+ in cycling might be one of the most annoying terms out there besides fit. Like, what does it mean to
+ be fit? What does it mean to have fitness? What does it mean to be a strong cyclist? Because
+ obviously we're going to have some sort of definitional overlap between what a scientist
+ would think of as strength versus what colloquially we would think of as strength, right? So for
+ strength, my big question really is how are we defining it? How are we measuring it? So what are
+ your thoughts on the crossover of like being a strong endurance cyclist versus like a strong
+ person according to like force output? Well, I think some of it is tempting to, you know,
+ And these things are useful, but, you know, useful only to a certain point is like just pulling up, I don't know, those old tables of like, oh, if you're, you know, just percentile charts basically of like your age and how much you can lift in certain lifts.
+ Like that can be informative at least.
+ It's probably not the be all end all, especially for cycling, especially if you're not a strength athlete.
+ And sometimes you have to be a little careful because some of it is a, some of it's going to be for like basically comparing you to sedentary people.
+ And it's like, well, you're an athlete, you know, you exercise a lot.
+ So you're not quite sedentary level, but you're not strength training level.
+ So you need to take kind of those sort of both of those things into consideration if you're looking up charts of what it, you know, what it means to be strong.
+ Like, oh, this is your beginner, intermediate, advanced, whatever, whatever.
+ And then I think some of it is also, you can also think of it as relative to your body weight for certain lifts.
+ That can be informative, but maybe also still not the be all end all because of various, you know, sort of rules about, you know, why like, okay, if you're, if you're a larger person with, you know, you can generally lift more total weight, but it's going to be a lower percentage of your body weight.
+ And if you're a smaller person, you can probably lift a higher, greater, you know, higher percentage of your body weight, but less total weight in an absolute sense, things like that.
+ So I don't know. I think, I think it's kind of hard, I would say for me to come up with a fast, like immediately like fast, like what, what is a good definition of, of strong? Um, but I would say there are, you know, it's, it's, there are certainly, you know, you can think of it as putting up certain goals and certain lifts maybe, or, um, making progress in the gym, becoming stronger, you know, means that you are stronger, strong relative to what you're doing.
+ what you were a year ago, let's say, when you weren't starting training or hadn't thought about
+ it. Yeah. And I think that all that kind of stuff is great. I think really the overarching point
+ that we've always had for our strength podcasts for cyclists so far is that it needs to serve
+ your purposes and your goals, right? Because if you decide that I absolutely need, I need to get
+ my squat to be twice my body weight, how much cycling time are you going to take away? How much
+ energy are you going to take away from doing the efforts that you have? Like, let's say it's like
+ April and you're like, I'm at 1.95. Ah, God, I just got to get, I just got to get another five
+ kilos on my squat and I will have made it. It's like, well, you have now missed several months
+ of training. And if your big goal race is coming up soon, like you have lost out a bunch of real
+ specific training to get your squat better. And so if you, you've got to make sure that your
+ priorities are set right to really achieve your goals. And I think having a goal on the bike
+ as your primary focus is probably the smartest way to go with that. Because if you decide
+ that you're going to, I need to get my squat to be twice my body weight or deadlift or whatever
+ your metric is. Um, the other issue with that is that some people are naturally stronger than
+ others. Some people's proportions naturally put them, uh, to be better at squats or deadlifts or
+ whatever than others. Somebody with short legs, long torso, long arms, better at deadlifts than
+ somebody like me. So you've got to like, make it serve your purposes, but you, you also need to
+ recognize that everybody starts at a different point. Like Kyle, you have been, you've like
+ basically outlifted me the entire time I've known you, like without even breaking a sweat about it
+ either. And like, you're naturally much stronger than I am. And I, I wish I were stronger. And I'm,
+ it's like, you've got, you know, you've got like, where do your muscles attach on your bones? It's
+ a big one. How much, like your proportions, like I said, uh, how much rate of force development can
+ you generate is another big one. So how much neuromuscular recruitment can you have and how
+ comfortable are you doing this movement like in general? Right. For sure. And I think comfortability
+ comes in a huge, like I, I was lucky in that I had a pretty good sort of strength training
+ background from playing high school football. And that was, you know, my first introduction to the
+ weight room. Seriously, it was my freshman year of high school. And, you know, say what you want
+ about your, maybe your average, um, the average technique that one might see from your average
+ high school football player. Um, the, I got, I was fortunate that the coaches were, you know,
+ they weren't, you know, coaching Olympic weightlifters or were competitive powerlifters,
+ but they always did instill, try to instill good technique for squat and bench and deadlift and,
+ and things like that, you know, the fundamentals and, and try to teach you good habits and not
+ just like, you know, jerking the weight around and things like that. Um, and so, you know, I
+ remember I was my senior year of high school. I was 160, 165 pounds. And I was able to squat like
+ 275, like actually squat 275, not like, you know, quarter squat 275, which isn't, you know,
+ outstanding by any, any stretch of the imagination for someone who's like, but it's good. And so
+ I've always had that. Like, I remember the first day I showed up to the weight room freshman year
+ of high school, I completely untrained. I could squat, I think 95. Yeah. Like, like two, two 25s
+ in the bar for reps and my coach being like, Oh, that's like really good. Were you like, uh, you
+ know, a soccer player or anything like that? And I was like, no, I just, I've never done this before.
+ And I, I like knew from that day that I was like, Oh, I can like do this like pretty well, you know?
+ And yeah, being not particularly tall definitely helps with that. But like you said, like having
+ also just being born with the right proportions of, you know, I've relatively short legs,
+ a longer torso, and that makes it easier to stay upright in a squat and, and squat to
+ sufficient depth without getting folded over in half. And I've always had pretty good ankle
+ mobility, so I can drive my knees forward over my toes pretty far. Um, and a lot of the ankle
+ mobility is probably why I was good at swimming and, you know, you need flexible sort of floppy
+ ankles. It's really bad for land sports. I sprained my ankle like all the damn time, um, in land
+ sports, but it's good for squatting and it's good for, uh, you know, getting your, those knees
+ really, really far forward without literally feeling like you're running into a wall where
+ like some people you're just like, okay, keep going lower. And they're like, I can't. And then
+ their, their heels come way, way up. Right. And they, and they just literally cannot have their,
+ you know, get enough flexion out of their, out of their feet and ankles. Right. Yeah. So, yeah. So,
+ So to summarize, like there's a lot of inherent characteristics like physiological anthropomorphic – can you say that for me, Kyle?
+ I'm so exhausted from researching chainsaws right now.
+ Anthropomorphic.
+ Yeah, thank you.
+ And all of that kind of stuff has an effect.
+ And so it's sort of like we'll see in terms of VO2 max, like people will start at wildly different measurements of VO2 max.
+ It's not like everybody starts – it's not like average-sized men start at like 30 or 40 and everybody gets up to like 80 or 90.
+ Like that's absolute bullshit.
+ So in terms of like –
+ It's only 80 or 90.
+ Right?
+ I know.
+ But in terms of strength, like everybody starts in a different spot and everybody's response to training is different as well.
+ Same as in endurance stuff.
+ And it seems to me in my coaching experience that people sort of have different responses.
+ It's not like if you're good at one, you're going to suck at the other or vice versa.
+ Because I certainly coach people who are really excellent aerobic endurance athletes and they also are phenomenal strength athletes.
+ I mean, people with like 400 plus watt FTPs and like, you know, 1800 watt sprints plus,
+ I mean, that's like, you know, you're a genetic freak, but you are lucky in that sense.
+ And in that sense, also to come back to our definitions of strength, you are strong in
+ both ways.
+ But when it comes to like muscular programming, the muscle will only basically respond to
+ two things.
+ Is it getting stronger or are you improving your ability to maintain energy state?
+ like those, or otherwise known as muscular endurance. Those are the two big things that
+ we can really do. The two big program switches that we can turn on in the muscles and you're
+ doing one or you're doing the other. But when it comes to strength in terms of force production,
+ uh, the, in the strength training world, um, it's strength is known, not just as like force
+ production, but it's also a skill. And I really want to spend a lot of this podcast breaking down
+ the skill aspect of strength. So Kyle, talk to me about strength and skill.
+ I think that, you know, I think maybe the, maybe the most famous, uh, performances of strength and
+ skill are probably, uh, Olympic lifts like the snatch and the clean and jerk where people have
+ to exhibit both a high rate of force development, a great, a very high amount of total, just raw
+ force, as well as moving your body and the bar, you know, around in a certain way that you don't,
+ you know, A, get catastrophically injured and B, that you like, some people make it look remarkably
+ easy. Um, but even beyond that, just, just the, like you said, just the simple motion of a back
+ squat. There's a, there's a good amount of skill in that. And that's why you people see early on
+ when they're brand new lifters, right? They see really, really rapid strength, quote unquote,
+ strength gains. So there's strength gains are real, but they're, they're not because all of a
+ sudden you've gained a bunch of muscle there there because you've gotten better at this skill, just
+ the same way that anything else like multiplication tables, like you get faster, not because all of a
+ sudden, I don't know, numbers make more sense, but because you're practiced and you're thinking
+ about you know what's seven times nine more often yeah and so just even even if you're not practicing
+ with so super super high loads because obviously you can't use super high loads all the time
+ even something like a warm-up like practicing good technique during warm-up for things
+ helps reinforce that skill and so that can contribute to a lot of gain you know relatively
+ quick uh gains for especially for new people or if you're just coming back off a layoff say you've
+ been injured or say you just, you know, life got in the way and you haven't been training for a
+ while, you get back to, you know, 75% of where you used to be very, very quickly. And that's
+ partially because it is a, it is not just changes have to happen in your muscles for sure and inside
+ your cells, but it's also just a pathway, like a neurological pathway, basically. Yeah, it's a
+ Motor pathway.
+ Reinforcing.
+ Yeah.
+ Motor pathway.
+ There you go.
+ Yeah.
+ And so one of the metaphors I've been using recently is that most strength movements is a skill the same way that throwing darts is a skill.
+ The more you practice it, the better it's going to get.
+ And I think it's probably maybe a less apt metaphor if you really get the nitty-gritty of it.
+ But like on a very general sense, I think it's actually a really good metaphor because I used to throw darts while drinking copiously, of course.
+ And I was way better at darts whenever I was like throwing darts, you know, a couple times a week for months on end as opposed to when you stop throwing darts for a while because you quit drinking for a little bit because it was getting a little too excessive.
+ And then you like do it again the next year and you're like, oh my God, I used to be able to hit bullseyes or pretty close or, you know, I wasn't that good.
+ But like, you know, I was okay.
+ And I lost all that skill because I wasn't doing it.
+ And the same is true for squatting.
+ And so the big thing about strength as a skill is that how you define and measure strength is a big part of determining whether or not somebody has maintained strength.
+ And so I think one of the things that a lot of people that I coach, that we coach, that I talk to, generally speaking, consults, conversations, it's common to say I need to maintain my strength so I want to keep squatting heavy during the year.
+ And if I lose strength in my squat, I've gotten weaker.
+ And this is factually not true.
+ It's true that you got weaker in the squat,
+ but it's not true that your actual ability for your muscle to generate maximal force,
+ that has not necessarily dropped.
+ It just means that your skill at the squat has reduced.
+ Right, yeah.
+ And I think that's for some papers and research, right?
+ That's why a lot of times they will, if they can, researchers and scientists will try to use movements like just a knee extension or like a leg curl,
+ where they try to take as much skill out of it and just see how much force can your quad generate if you're just trying to extend your knee, right?
+ Yeah, and that's why they have as few as one familiarization session of doing a couple movements of the thing that you're going to be tested on just so that way you kind of get like that initial rapid improvement out of the way.
+ And sure, like a knee extension, there's a little bit that you can get beyond like a couple – there's not a ton.
+ So you're right.
+ It's a very low skill movement.
+ Yeah, versus like, oh, yeah, we're going to have you front squat, some overhead squat, right, for a test.
+ No, you would never make someone overhead squat for like a serious test.
+ Or squat while you're standing on a BOSU ball.
+ Like that's a skill.
+ That's a skill if ever there was a skill for squatting.
+ I mean that's why in a lot of papers on strength, you will see the isometric mid-thigh pull or the IMTP as a very generalized standard of strength because basically you take a bar that's locked in place.
+ You're standing on force plates or the bar is going to measure the force.
+ I think it's usually more force plates.
+ and you, you bend over a little bit and then you yank on the bar as hard as you can.
+ And it's like one of the least skillful movements that you could possibly have. It's like the most
+ primitive caveman, just like, Oh, talk, pull bar, uh, kind of thing that you could get.
+ And there's like, you know, you get a little familiarization with it. They're probably going
+ to record your familiarization session in case like you blow it out of the water and then you're
+ tired for the next one. But oftentimes like that is how people would measure strength. And so when
+ we consider strength in cycling, my big question is if you are doing heavy strength training,
+ it's likely that you are trying to improve your sprint or you're trying to improve force
+ production on the bike somehow. And in that case, my suggestion would be not to think about your
+ squat as your measure of strength, but what is your peak power as your measure of strength?
+ Because if you're trying to improve your sprint and you're trying to lift heavy and you want to
+ improve your sprint and it's improving, if you lose skill on the squat and your squat's going
+ down a couple percent, oh no, I haven't been in the gym in a month. I'm going to squat and it's
+ going to suck, but your peak power is going up on the bike. You are maintaining strength. And in
+ fact, the specific strength of like, of sprinting on the bike is improving. And that I would hope
+ is the ultimate thing that you want to do. Cause nobody's like, yeah, you don't get to,
+ I think we've joked about this before. You don't get to line up for a crit based on how much you
+ can squat. Right. Yeah. Shoot with a start grade positions determined by, you know, one RM squat
+ strength that'd be fun but um also that comes sort of comes with just the whole you know sort of
+ traditional ideas behind periodization where the thing that's the least like your activity is
+ farther away from when you're actually competing right your your barbell squats are off season
+ you know you're in season you're you're using it to just maybe keep in contact with it but you're
+ not looking to just keep piling on the pounds every week on the bar. You're now in your phase
+ of your training and your racing where your goal is to race. It's not to keep gaining pounds,
+ even though everyone likes to improve it. For a lot of people, cycling is a delayed gratification
+ sport. I can see where the, oh, I want to keep my squat numbers high because you got to see those
+ rise relatively fast as you want to keep those numbers going. Cause it's more immediate, um,
+ you know, feedback of, oh yeah, this is working and it's getting, it's getting the number go up,
+ number go up. Right. Yeah. Number go up. Um, yeah. And so, um, so that's one of the things
+ that I think really needs to be individualized. Cause I said this on the last podcast with Cole,
+ um, but it was kind of at the end. I, I don't know if a lot of people's eyes were glazing over
+ at that point, or maybe I even cut it. I don't remember. Um, but I was saying that, uh, that
+ I feel like strength training has individualization down like a whole lot better than we do in aerobic sports at this point.
+ I mean, because I think – I see the word individualization so much more in strength training papers and also by the strength training researchers.
+ Interesting.
+ And I think it's actually because there's a pretty immediate feedback mechanism of, like, if you're trying to target this one muscle or this one movement, like, if you're a powerlifter, like, there's three movements.
+ Are these improving or not?
+ Okay.
+ Done deal.
+ But, you know, if you're trying to, like, go, oh, I need to have, like, better lat strength or something like that for my deadlift.
+ I don't know why that would happen.
+ But if you're doing that, like there's a lot of ways to target the lats.
+ And like I've tried a billion ways to like try to train my lats because you can also train your lats for sprinting a little bit.
+ Because like when you rock the bars back and forth, you can actually input a little force with your lats to move your arms back and forth.
+ And so I was like, all right, I want to try to improve my lat strength because my lats are tiny.
+ I can barely feel them.
+ And I tried like lat pulldowns.
+ I can't really feel my lats.
+ I tried assisted pull-ups, my shoulders, like they don't really like that really long stress
+ position at the bottom. Like they hurt, they're impinged, like something's going on there. They
+ don't like it. And I was like, how do I feel my lats? And so it's, so it was like a really
+ immediate feedback mechanism of like, you can tell if this thing, this muscle is the limiter
+ for this movement. And that's that. And you know, it's like doing assisted pull-ups,
+ my shoulders were like, ow, ow, ow. And I was like, okay, this is not it. This is not the one
+ for me. Um, and so that might be part of why it's easier for strength, uh, athletes to get better
+ individualized stuff. And also you get pretty immediate feedback of, is this muscle getting
+ stronger? Is it getting bigger? Is this movement getting stronger? Like it's pretty quick. And
+ in cycling, I mean, in a lot of ways, the, I mean, at empirical cycling, that's one of the things
+ that we do is we look at somebody's performance as an immediate, um, you know, feedback as to
+ what kind of training is working. Like, what are we trying to train? Is this working? Are somebody's
+ race results improving that kind of stuff? And so, you know, we've been trying to work on
+ of individualization for as long as empirical cycling has existed. But it's not a thing that
+ I see a lot in media in terms of the individualization. And so where was I going with
+ this? Oh yeah. Where I was going with this is, so in terms of individualization of strength training,
+ I think one of the things that everybody really needs to do in terms of, do I need to keep lifting
+ heavy during the year. Cause we've kind of pre on previous strength episodes, we've talked more
+ about the more general kind of maintenance, you know, a couple of sets of like 10 at like a,
+ you know, five, six out of 10 RPE, something like that kind of maintains your skill on the squat,
+ but also doesn't really overload you too much, that kind of stuff. A couple of sets a week,
+ nothing too big. Um, but when it comes to like strength, strength, there has been a little bit
+ research on not in terms of what maintains strength, but in terms of what improves strength
+ in powerlifting, for instance. And so we can, we'll talk about how we would cross this over
+ to cycling in a second, but basically I'll link the paper in the show notes. Um, wow,
+ this is going to be our busiest show notes ever, I think. Uh, so the paper is from a guy on YouTube,
+ actually. Um, I, I found, I found the reference through Eric Helms, one of his papers, and then
+ what was the papers? One of his mass podcasts. I forget. It was somewhere like that. So I found
+ it from Eric Helms. And then I found out the guy's got a YouTube channel. His name is Dr. Pack.
+ He's a very large Greek man. And he did a paper on what's the minimum effective training volume
+ to increase one rep max in trained power lifters or something like that. And the conclusion was
+ three to six sets of one to five reps over one to three sessions per week.
+ Uh, and he adds maybe a little bit, some lighter reps. Uh, the paper is kind of interesting. Um,
+ it's good to read, but it, at least for me, it really changed my view of what does maintenance
+ look like for strength? Not in terms of maintaining the squat movement pattern,
+ but in terms of maintaining actual force output specific to cycling. Because if you want to
+ maintain your sprint power and you've been working on this, you absolutely should be working your
+ unilateral strength. What is your single leg press? What can you do for a set of... Oh,
+ There's an RPE thing on this, by the way, for your minimum effective thing for powerlifting.
+ It's a seven to a nine out of 10 or about a seven and a half, something like 80%, one rep max, but cyclists should not be maxing out.
+ So it'll be just what feels kind of hard for like, you know, one to five reps, but doesn't kill you.
+ That's the kind of stuff that we're looking at.
+ And so in terms of individualization, if you feel like your sprint power, presumably that's why you're doing this heavy strength training, or your ability to like climb really steep stuff on your mountain bike or your cross bike, stuff like that, the big force production kind of things.
+ Or if you're doing standing starts in the track, or if you're just a sprinter on the track or whatever it is, if maintaining some kind of heavy strength during the week helps you with that and you have definitive, yes, when I'm doing this, my power numbers are up.
+ up when I'm not doing this, my power numbers are down, that kind of stuff. That's when you would
+ think about, okay, maybe I should do a couple of heavy singles once a week, you know, three sets
+ of one at like a seven out of 10 is should be pretty doable. And I I've done it. Honestly,
+ it's not that taxing. Kyle, you've done these movements, right? Isn't it weird? Like you've,
+ it's like so heavy, but also you put, you rack the bar and you're like, Oh, okay. That was it.
+ Yeah. Well, I think also the, the benefit here is to, is that like, you know, competitive power
+ lifters, Olympic lifters, like the, the more and more heavily muscled you are, the more and more
+ greater like systemic fatigue you're going to experience by going for heavy singles and things
+ like that. But generally speaking, even you're like super jacked, like track sprinters are not
+ nearly as heavy as like you know a super heavy weight like power lifter or whatever so and
+ probably just to generalize here better aerobically conditioned yes the systemic fatigue that they
+ would experience you know just going through a warm-up and then three singles and then stopping
+ probably lower than if you had a power lifter who's gonna take 850 pounds for three singles
+ you know, would experience. Right. Yeah. Yeah. And so if, um, and also obviously we don't,
+ we don't need to say this, but we will, um, this does not go for everybody. This is for people who
+ are deliberately lifting heavy, who have a bike related goal to lift heavy, or maybe even a PT
+ related goal to lift heavy. Um, and if that's you, then this is one of the things to consider
+ is how are you defining your strength? How are you measuring your strength? And then how are
+ you individualizing your program around maintaining that strength? And so for me personally, three
+ heavy singles is more than enough for me to maintain my strength. Um, and right now I've,
+ um, you know, I, I've been not thinking about sprinting competing kind of the last couple of
+ years. I've been thinking about like, I need to lose some weight. I need to get healthier. I need
+ to manage my injuries, but to maintain my strength, I've been doing a handful of heavy,
+ like singles, doubles, and triples about once a week-ish and I'm maintaining my strength just
+ fine. It's, it's not even, I mean, it's a question. Yeah. Yeah. And, and like, and so for, for cycling
+ specifically, I think especially the thing that a lot of people miss in a lifting program where
+ they really want to improve their sprint or their strength or something like that. It's unilateral
+ strength. To me, that is your best measurement. And strength, again, being specific and a skill
+ has to do, it's more related to other different conditions than just, is it one leg or two?
+ It's also, what are your stability conditions? So if you are doing a single leg squat with a
+ barbell because I don't have a leg press at home. I single leg squat with a barbell. My stability
+ conditions are, I've got more degrees of freedom in terms of like needing to balance and all that
+ kind of stuff. Whereas Kyle, you in your gym, you've got a leg press and you can just load it
+ up and let her rip. Yeah. And especially if you can get to the point where you're well-practiced
+ with those things and you know, you know, and leg press is nice because also you can limit depth to
+ where with the stops or the safeties or whatever it is,
+ you won't get crushed if you're like, oh, that was too heavy.
+ I went for it.
+ You can just like let it go.
+ It'll come down on the thing.
+ You just stand up, climb out.
+ You're not that fear for your – that slight tinge of fear for your life
+ as you're – when you're lowering a one-leg squat of like –
+ Right, yeah.
+ But in terms of like crossover, I mean the more you can replicate your conditions,
+ uh, the better the crossover will be because, because strength is a specific skill to those
+ conditions. And so I like press is more specific to cycling than, um, than, than a barbell squat
+ or single leg squat, because you've got the same, relatively the same basic stability conditions as
+ in cycling. And so, like you said, you don't have to worry about fearing for your life. Whereas
+ whenever I start sinking a single like squat, like I've got my safeties ready. I've got like
+ a pad for my knee. Like I've, like I've, I've, I have like eight other things to worry about
+ and you can just, you can just like, all right, brace, go, let's do it.
+ Yeah. Yeah. Yeah. Um, and the other thing too, is like the, the axial load of just loading your
+ spine is significantly reduced if you're sitting in a leg press. Yes, very true. Although, I mean,
+ I think most people are probably not going to be too bothered by the amount of weight that they
+ can put on their back for a single leg squat, but I think the balance issue is larger for some folks.
+ Yeah, for sure. And so that's always another consideration too to individualize. And if you
+ just don't have much at home in terms of all this stuff, then I mean, that's okay. Uh, it just means
+ that you will have to make some compromises in terms of your strength. And like, if you can get
+ to a gym or if you can afford a gym membership, then that might be worth it for a little bit,
+ a couple months. Uh, if like, if you're a single leg squatting a barbell and you're kind of sucking
+ at it, then yeah. Okay. Maybe the gym is worth it, but if you're doing fine, like I haven't,
+ I mean, going up here and like not being, not being around my weight set, like this is the
+ first time I've been to a gym in like a couple of years. Yeah. And so I've, I've like, oh,
+ I can use the hack squad. I can use the belt squad. I can use the leg press. Like I've been
+ having fun. I'm like a, I'm like a kid in a candy store right now. Um, but yeah. And honestly,
+ for some people too, if maybe if, if strength training, isn't your favorite, the, for some
+ people if they pay that fee and they have the they're going to a gym it like forces them to
+ be a little bit more dedicated it's like oh well i paid the money i want to at least do it for the
+ two months or whatever you know that you know and you never know you may maybe maybe you don't like
+ working out at home because you don't have quite the right stuff available to you and maybe going
+ to a gym and seeing what it's like might actually be beneficial get you out you know yeah yeah um
+ Yeah. So I guess our TLDR for this is strength is a skill. And whether or not you are strong
+ depends on how you are defining and measuring your strength. So as usual, it depends. And whether you
+ need to maintain something heavy for yourself depends on the goals you have for your lifting
+ and for your cycling and whether or not you are achieving those goals. And I think as long as
+ you've got your priorities set for yourself. Uh, whatever you choose to do in terms of strength
+ training is going to be just fine. As long as you realize that if you lose a couple of kilos
+ in your squat does not necessarily mean that you are getting weaker. Yeah. I think actually
+ maintaining body weight is another good way to make sure that you are maintaining strength.
+ personal experience from that one. I do not have any papers to that effect. Um, all right. You want
+ to get to some listener questions on strength training? Yeah. Sounds good. Sweet. Uh, let's see.
+ Um, are there any good body weight only exercises cyclists should do? Uh, to me, this is a need
+ based one, but I actually think that there's a common question I've gotten from people,
+ which is how do I improve my strength if I don't have any weights at home?
+ And I don't have a great answer because it's really hard to load up your muscles sufficiently.
+ So other than grabbing just shit that's around the house, like milk jugs, children, partners.
+ Dogs, large dogs.
+ Large dogs, yeah.
+ Dog squats, dog squats are goals, honestly.
+ But the movement that I've really been enjoying lately myself that you can do with just body weight, I cannot recommend it for everybody because it does have inherent dangers.
+ It's the reverse Nordic curl.
+ Yeah.
+ Have you seen the reverse?
+ Yeah.
+ So you have.
+ Yeah.
+ And those can be hard.
+ I don't know.
+ Those are hard.
+ Yeah.
+ I feel like cyclists.
+ Cycle is doing them.
+ Yeah, it's tough.
+ So here's my setup is I take a yoga mat.
+ I've got a pad that's like maybe two, three centimeters thick.
+ I take a yoga mat and I fold the yoga.
+ It's not really a yoga mat.
+ Yoga mat's really thin.
+ This is like one of those thick pads, like the yoga pads.
+ So it's like one and a half centimeters thick of like good foam.
+ I fold that in half and I put my knees on that.
+ And I also put it over the block that my feet are on.
+ And otherwise, because I've done it with it.
+ I tried one without the pads.
+ My knees were like, no, no, no, no, no, no, no, no, no.
+ So I put a pad down.
+ I did the pad with a single and my knees were still like, this is not great.
+ I doubled the pad up.
+ My knees were like, this is fine.
+ But basically what you're doing is you are kneeling with your hips to torso angle straight
+ or even arch, hyperextend your back, like arch it back.
+ and then you hinge at your knees and this is actually a really hard movement like
+ even i can only do like 10
+ yeah i would say the biggest thing there too is like um a lot of people when they get into them
+ get into norwex stuff is they use a stretch cord or something to help them a little bit when it
+ gets hard yeah um so yeah so accommodating resistance yeah like having a band to take
+ more of the weight as you go back. I mean, for, for strength training, I mean, in terms of like,
+ I think for most people accommodating resistance is kind of silly until you get into like really
+ hardcore strength training, but this is a great reason to use accommodating resistance is you're
+ doing something that is kind of body weight ish and it gets harder and you have a harder time,
+ you know, as, as you get into the harder to hold positions. And so, um, I was fortunate enough to,
+ you know, basically because of my strength training background, I tried these and I was
+ like, Oh, these are fantastic. I'm going to keep these in. So they're, they work great for me,
+ but there are inherent dangers. Uh, like there's a YouTube video up of, of Nordic curls. And like
+ the first comment is like, I like broken kneecap doing this. And so I, I don't know if that's true.
+ I don't know if they had a pat down. I don't know what the deal is, but like when I see stuff like
+ that, I'm like, I cannot wholeheartedly recommend this to everybody. Um, so honestly with, with no
+ weights it's hard like the the closest thing you can do is maybe like if you can load i was thinking
+ if you can load up a backpack like a regular with as much weight as you can and do like deep proper
+ walking lunges yes that's a good one like those are things that are you know if you're doing them
+ right and yeah okay it can be a little you know maybe you have to wear knee pads something actually
+ touch your knee to the ground things like that but like doing that and you can you can also do
+ you know you can do them standing where you stand one place lunge forward stand back up or you can
+ Put your rear leg up on the couch or a chair, do single leg squats like that. Yeah. You can do,
+ you could definitely do that. Um, yeah. And I think, I think for most purposes of like general
+ strength training in terms of seeing like dupe gains, like if you are, if you've hardly done
+ any of this before, literally anything you do that gets fairly challenging is going to be a success.
+ Um, and like we've done on podcasts previously, like if you are getting anywhere from the five
+ to 30 rep range and getting close to failure, uh, you are going to be at least building some muscle.
+ And I think for a lot of people that's, especially if you are dieting, that should be the way that
+ you train for the most part. Um, and so, yeah, that all that kind of stuff is anything that
+ gets challenging is going to be good. Uh, and then at some point you might be like, uh, maybe
+ I hate this and I don't want to do it anymore, even though I think for health, most cyclists
+ should. Um, but if you hate it and you don't want to do it, you're like, all right, screw this.
+ then all right that's your call yeah next question are weighted glute bridges a good substitute for
+ hamstring curls no um yeah no not really i mean like hamstring curls work your hamstrings and
+ glute bridges mostly work i mean yes both both exercises like hamstring curls work most of your
+ hamstrings and yeah maybe at the very top if you're squeezing really hard there's some glute
+ and on the opposite end glute bridges work your glutes and yeah at the very top when you're
+ squeezing there is some like hamstring but it's not yeah so actually i think this generates from
+ an experience i've had the first time i ever did glute bridges my hamstrings cramped oh interesting
+ and it's because i didn't know how to turn my glutes on in that movement at all especially at
+ the top. And so a lot of the time, what you're doing in a glute bridge is you're really squeezing
+ your hamstrings for that stability, and you should be squeezing your glutes and trying to relax your
+ hamstrings. And so I think as a warmup, if you are somebody who does this, glute bridges are a great
+ warmup to get your brain thinking about that mind muscle connection of like less hamstring, more
+ glute, that kind of stuff. Um, but you, but for a hamstring curl, you are moving your knee
+ and for a hip thrust, you are moving, you're hinging at your hips. And so, uh, the glutes are
+ hip extensors and the hamstrings are knee flexors. And so there are, there are two kind of different
+ movements, even though the hamstrings do run over the hip. Um, and so if you are doing hamstring
+ curls, if like seated hamstring curls are going to length pre-lengthen them a little bit, or if
+ you're doing like straight leg RDLs, arching your back is a good way to like add a little extra
+ tension. So that way you don't have to go quite as deep or load up quite as heavy, like we've
+ talked about in previous podcasts. So, um, but both can be really good. I think most cyclists
+ probably need to do a little bit of hamstring work just cause otherwise I've had clients who,
+ um, who have gotten a little imbalanced between their quads and their hamstring strength. And
+ that has led to, uh, minor issues that were quickly resolved by doing some hamstring work.
+ So, uh, otherwise, yeah, they're not really equivalent exercises, but I could see why
+ one might think they are based on hamstring cramping during glute bridges.
+ Let's see, uh, former power lifter. Can I train similar squat volume three to four times a week
+ and still ride a moderate volume.
+ If you want.
+ You'll be tired.
+ That sounds hard.
+ Yeah, you're going to be tired for sure.
+ Because I think one of the things that I would ask
+ as a follow-up question is what are your goals?
+ If your goals are on the bike,
+ I would put as much energy into cycling periodization as possible.
+ And early season is where I would say
+ you can do more of the powerlifting stuff.
+ But as you get closer into the on the bike season and you're training, training for that specifically, uh, put more of your energy into that and then throw your power lifting stuff into maintenance.
+ I mean, four, four squat days a week sounds pretty brutal.
+ Just if you were only going to lift for like, if your only thing was lifting and you were going to squat four days a week, like woof.
+ Yeah, for real.
+ I mean, basically the only thing, hard thing I do at the moment is lift.
+ and I'm only training quads and glutes every four days or so. I could probably train them every
+ three, but then I wouldn't have time or energy to do anything else. So I'm kind of doing every four.
+ And yeah, but I mean, this goes back to what are your goals? I mean, for this person,
+ my guess would be strength is a skill and you want to maintain your skill or you want to keep
+ improving it a little bit. And so I would actually fall back on, uh, on what is your minimum dose?
+ Uh, what is it a minimum effective dose of heavy lifting and that being three to six sets of one
+ to five reps over one to three sessions a week. There you go. Yeah. As recommended by Dr. Pack
+ on YouTube. Um, I think I've seen one of his videos. I like him. He's cool. He's got,
+ He's massive and he's got tattoos.
+ And he's got a cool accent.
+ How to maximize strength gains
+ while minimizing hypertrophy and mass gains.
+ Ah, this is a very good question.
+ So we should actually do another podcast on just this
+ because I've wanted to for a while,
+ but the short answer is first do sets of one to five.
+ Yeah.
+ do as few sets, as little volume as you think you can possibly get away with while seeing
+ improvements. Get rid of the eccentric component of your lifts. So deadlift, drop the bar. That
+ would be a good one. Single leg deadlift, if you can manage it, don't hurt your back.
+ I once, way back in the day, gave my back a little tweak by doing single leg straight bar deadlift.
+ Not recommended. Single leg trap bar, I've had a little more success with. But yeah, doing stuff
+ like that. And at some point for the muscle mass you have, you are going to maximize your strength
+ improvements and you will probably need to improve your muscle mass. And at that point, either you've
+ got to get bigger or you go, all right, I'm going to maybe put on a couple of kilos every few weeks
+ onto this movement or even every couple months and you've just got to be okay with that if you
+ really don't want to add any size but yeah minimizing volume is the big one it can be hard
+ too because you you do need some volume to like like you said if three singles twice a week is
+ enough for you just to maintain then you you have to figure out that range of what is the little
+ the least amount of volume you can see to actually see strength improvements. And that's going to be
+ maybe some trial and error for you. Yeah. Um, Oh, one of the other, also it's going to be slow.
+ Yes. Very slow. It's going to be, yeah, you get that rapid initial improvement and then it's like,
+ it's like, Oh, all right. I'm into the diminishing returns phase. And then the returns seem to be
+ very, very diminishing. And, uh, yeah, then you've got some choices to make, but in terms of gaining
+ size, one of the other issues that I've heard a lot of from clients and consultees and whatnot,
+ is that they're afraid of gaining muscle. Like, um, somebody said this to me recently,
+ if I look at a barbell, I'm going to gain weight. Um, and a lot of the time, I'd say most of the
+ time, the initial weight improvements or weight, uh, weight increases that people get when they
+ start strength training is that they are getting into motor units that they don't really use that
+ often in cycling, if at all. And these motor units are filling with glycogen. They're filling with,
+ um, water, water, sarcoplasmic reticulum volume, like all this other stuff to handle the contractile,
+ whatever. And just, you know, all this kind of stuff. And you're going to be a little sore and
+ inflamed and you're going to, yeah. Yeah. The inflammation is a big one. Actually, we haven't
+ talked about really soreness on the podcast, but I'm, I'm getting more and more convinced by the
+ day by the research and my own experience, uh, and various things in the experience we can talk
+ about in future podcasts. But, um, the inflammation hypothesis seems the most likely to me at this
+ point. So, um, and so if you are, if you strength train once a week and you watch your weight come
+ up for a couple of days and then drop again, it's most likely just you're carrying water weight from
+ the inflammation and that's, that's fine. That's good. That's what you need to repair your muscles.
+ So that's a good thing. And once you stop doing that so often, you will probably lose a little
+ bit or a lot of that water weight. And what's left is just going to be the muscle mass that you've
+ gained along the way. Um, potentially if that's one of the things you're trying to do. So there's,
+ yeah, there's a lot of stuff underneath the hood there. You don't just like gain, you know,
+ five pounds of muscle in a month or something, you know, okay. If you're, if you're going through
+ puberty and like lifting a lot, then maybe, but even then that's not really realistic. So just
+ the idea that like, oh man, I lifted for three months and I gained five pounds of like, you
+ didn't actually gain five pounds of muscle. Like if you could lift for just three months and gain
+ five pounds of muscle, then you maybe should pick bodybuilding as a sport and not cycling. Just,
+ just pro tip. True. I have actually been trying to put on muscle recently. Um, cause I, I, I've
+ got a future goal of, uh, of competing and sprinting again at a certain body weight and
+ body fat percentage. And, uh, cause for a while when I was at, when I was at my biggest sprint
+ numbers, I was also really fat. And so I'm trying to fix that a little bit and also get healthy
+ again. Um, cause right now health is probably a bigger priority for me personally, but, um,
+ I've been trying to deliberately put on muscle mass and it's fucking hard. And it's also that
+ I've been lifting a lot for, you know, years, like lower body, especially, but I've been trying
+ to do upper body and it's like, it's still a fairly slow process. So yeah. Um, Oh, here's a
+ good question. Should quads have the same amount of training as hamstrings? Um, hamstrings are not
+ really that used in the cycling pedal stroke for endurance purposes, but once we start sprinting,
+ they can actually be a larger contributor. And so if that's your purpose, especially for like
+ standing starts and climbing over steep stuff on a mountain bike and cyclocross bike and stuff like
+ that, uh, you may want to consider adding in some hamstring training, but especially if you haven't
+ done much, you will get a lot out of just a couple sets per week. Uh, and then once that stops
+ improving, you can add a couple more sets and then you can decide, is this worth it to train as much
+ as my quads? Because the force output of the quads and the glutes are much larger, uh, contributor to
+ the cycling power and the pedal stroke than the hamstrings. So it kind of depends on that. But
+ like I said before, I think most cyclists should train hamstrings a little bit just to keep from
+ getting the imbalance too bad. Uh, no thoughts, Kyle. Okay. Um, yeah, no, it sounds good. All
+ right. Here's one for you, Kyle. If you could give one circuit or exercise that every cyclist
+ should do, what would it be? Other than it depends. Circuit. Not sure. I'm not sure circuit would be
+ any of them. Like circuit. Yeah. Well, I think circuit is, is fine for people who want to save
+ time in the gym. Like if you're doing like unrelated muscle groups or, um, or like opposing
+ muscle groups, like, uh, like if you, if you go straight from like quad extensions to hamstring
+ curls like you know those are antagonistic yeah supersets like those are okay uh in fact they're
+ totally fine uh if you are destroying yourself in the quads and you're still cross-eyed when you go
+ to the hamstring curls you might want to give yourself a minute though um yeah but i was thinking
+ more like oh i'm gonna do you know one set of 10 on every single one of these like you know lifetime
+ machines in a circle or anyway you know um which is fine if you just want to go and work out and
+ feel like you got something done do that great um i i do if you can if you could do it i would
+ say squeezing in single leg press um yeah once a week you're good yeah single leg press plus any
+ bilateral uh kind of whole body compound movement like squat or deadlift where you control the
+ eccentric kind of stuff. And also this goes to, are you a, are you trying to improve something
+ that's weak or are you trying to maximize something that's already strong? Like if you
+ are a more glute dominant cyclist and your glutes always get sore and your quads are kind of
+ decorative, or if you're like me and you're a quad dominant cyclist and your glutes are kind of there
+ for decorative purposes, mine aren't really that decorative. It's, those are, those are different
+ things than like, if you just want to kind of train everything all at once and get good health
+ benefits out of it, or, you know, like reduce, you know, being injury prone or make sure your
+ bones are strong. So that way, if you hit the deck, you don't shatter everything. Um, so very
+ different purposes, but I would say, yeah, like either heavy squats or deadlifts plus a single
+ leg press is probably like the, like a core foundational lifting program for any cyclist.
+ Yeah. And I would say too, the nice thing about that, like we said before is there's,
+ it's a lower skill, lower learning curve, lower skill movement, um, to leg press than it is to
+ squat well. And so it can just seem less scary for people. Um,
+ all right. Uh, Oh, here's a couple of good ones. Uh, let's see 10 to 15 hours of endurance riding.
+ okay for high rpe strength block lifting two to three times per week um yes i think as long as
+ you are accomplishing everything you want in both you can certainly do that on that volume i've had
+ people strength training twice a week on more volume they've also done it yeah i think especially
+ as long as you're not you're not too tempted to overcook that endurance volume into high tempo
+ volume. Yeah. Or like FTP and VO2s and like, yeah, it's, you still got to manage your recovery
+ and just use your performance as your guide about whether or not you are making progress,
+ or if you are trying to maintain your endurance capacity or your VO2 max or whatever it is,
+ then just look at metrics that, uh, indicate that and you'll be fine.
+ Yeah. Cause you'll know you'll climb onto the bike and be like, Oh no, this is own to ride.
+ It's absolutely soul crushing.
+ You're like, I maybe overdid it.
+ Or you may be riding your zone a little too hard.
+ That's a common theme here too.
+ Also common.
+ Yeah.
+ I mean, that's one of the things I've – on the weekend AMAs, I've been – people have been asking more stuff about like this is really hard for me.
+ Why is this?
+ And like somebody was saying like this percentage of FTP over FTP is hard to maintain for like three minutes.
+ why is that? And most commonly I see it's because of lack of recovery or somebody's doing endurance
+ pace, riding too hard, stuff like that. So that's been a more common answer for myself, uh, with all
+ that stuff. So always worth looking at, um, alternatives for single leg press. When you
+ work out at home with squat rack and bench Bulgarian split squat, we're also known as
+ real like elevated split squat is a great one has a lot more stability. Um, you can also choose your
+ torso lean a bit better. Like if you want to lean back a little bit more with that and expose more
+ quad, then you can do that. If you want to lean forward more and get more glute, you can do that.
+ If you have, if you have straps and the necessary other accessories to hold the weights in your
+ hands, but not have your grip be the limiter, then maybe some people might find balancing that
+ easier if you're going to do rear foot elevated stuff. Um, yeah. Uh, personally, um, I prefer the
+ narrow stance split squat. So my, uh, so I've got most of my weight over the front foot, but my rear
+ knee will tap somewhere around my front heel, uh, tap on the ground. Uh, because of my injuries,
+ uh, I have to cut my range of motion from hitting the bottom of the ground by like,
+ like, you know, maybe three centimeters, like an inch, inch and a half, something like that.
+ And so, um, that's where I'm most comfortable. And so I'm for strength maintenance right now,
+ I'm doing a couple of singles at like, um, at like a hundred kilos and that's, um, it's going
+ pretty well. So they do also make, they're, they're very, obviously very specific, but they,
+ they do make split squat rear foot, like rollers where it's a purpose-built piece of equipment
+ where you have just a foam pad and a bar and two uprights and a series of holes.
+ And so you can adjust that so you can dial in the perfect height to put your back foot on.
+ And then it also rolls so it's easier on your ankle
+ and you're not just like mashing your shoelaces into the bench
+ that's at a weird angle or a weird height.
+ So if you do find rear foot elevated stuff on a bench to be totally, totally unbearable
+ because it just feels weird and never feels right,
+ you know, maybe take a swing at one of those, uh, Titan fitness online. They're,
+ they're relatively cheap. Yeah. Titan's pretty cheap. I think, I think rep is a,
+ is a pretty okay brand. Um, you know, if you, if you want to go bougie, you get all the rogue stuff.
+ Um, but also rogue stuff is like, it's built so that the incredible Hulk could use it too. So
+ depends on your purposes. A lot of that is like, Oh, this would survive in a commercial gym
+ outfit. Whereas if you're just doing rear foot elevated split squats, you know, with you and
+ maybe your friend or your partner or something like that a couple of times a week, you don't
+ need a commercial gym quality piece. Yeah. You don't need a, you don't need a squat rack that
+ can, that can like catch, you know, a thousand pounds. Yeah. The other thing is honestly,
+ if you're, if you're a little handy with some two by fours and a piece of pipe, you might be able to
+ make a rear foot roller without too much. Yeah. I just don't recommend making a squat rack like
+ that. Let the experts do the squat rack. No, no, no. Safety arms. It's four by four, you know,
+ pressure treated four by four or something for your outdoors third or if it's even that high um
+ oh yeah uh okay well here's a quick one uh what are the adaptations taking place that make lifting
+ easier as a cyclist and cycling easier if you lift the big one i think we we covered this in
+ watstock like it's one of the single digit episode watstocks like number nine or something like that
+ maybe even earlier, maybe it's 10, 11, something like that. It was about, we looked at a study
+ where 20 minute power improved after doing some strength training, but VO2 max did not improve.
+ And the conclusion was it was a neural drive improvements. And the paper didn't conclude that.
+ I personally thought that that was what was happening. So that was my interpretation of the
+ data. But to me, that's a big one is you are getting used to recruiting those larger motor
+ units. And so some people are also great responders to that kind of stuff. You start doing some even
+ moderate strength training stuff and suddenly the watts on the bike go way up. That's great.
+ But not everybody's like that. So you've got to be cautious when it comes to hoping that
+ touching a barbell is going to lead to rapid improvements. So it's not the case for everybody.
+ I would say in the very, very, very, very specific case, the other way, there's a chance that if you are just a power lifter, you are, your conditioning may not be so great.
+ And so training just may go easier with a little bit more cardio worked in every, every week or so, you know, nothing crazy, but 20, 30 minutes, few times a week might make just surviving the training volume easier.
+ True. Yeah.
+ You're less gassed every time you step away from the squat rack.
+ Yeah, there's a pretty good effective minimum dose for that kind of stuff.
+ And also, it's funny.
+ When you call it cardio, you know you're not a true endurance athlete.
+ Yeah, yeah, exactly.
+ All right, how to set up a mini home gym.
+ What to buy first, leg press, yes or no?
+ I mean, a leg press is fucking expensive.
+ Huge.
+ Yeah, they're large, and they're heavy.
+ So if you live in an apartment, I know the person asking this question is probably in a small apartment in Italy somewhere, I'm guessing, or maybe even a house.
+ But if you've got a house and a garage and you've got the money, you can get a leg press, but leg press has limited utility.
+ And if you're going to move, oh, God.
+ I mean, I've got a little bit of space in my basement, and I was thinking about getting a belt squat, but even I'm hesitating because I know when I move out of this rental, I'm going to have to put it somewhere else.
+ And I know that's going to be a giant pain in the ass.
+ I'm thinking, how long could I go without a belt squat machine?
+ No, no, no.
+ Those are serious investments.
+ You know, it's, it's, yeah.
+ So, you know, basic squat rack.
+ Basic squat rack.
+ Basic bench.
+ Yeah.
+ I, I got a squat rack off Facebook marketplace for 250 bucks.
+ Um, and that's what I use to this day.
+ Uh, I've got a, I got a decent bar from Rogue cause I knew I had to get a stainless one
+ cause I knew that it was going to be exposed to a lot of humidity.
+ Um, I, you could get one of those, uh, one of those ceramic coated ones, I suppose too.
+ Um, if that's an issue for you.
+ also sells um they have their like scratch and dent section for barbells which i think is a
+ great deal because yes yes um you're gonna scratch and dent it as you use it anyway like who cares
+ like anyway yeah i understand if you know if you're singing your money but like man if your
+ barbell is a little scratched like you know whatever like yeah you look at your barbell
+ the only thing you don't want out of a barbell is if it's bent i remember the gym i was going to in
+ Boston. I was actually in JP. Um, I remember one day I saw this dude load up like eight plates on
+ each side and he was doing shrugs with like two inches range of motion. And after he was done
+ that bar, it was, it was no longer a straight bar. It was a cambered bar. Oh God. Yeah. And I
+ remember every time I would go, nobody moved it. Nobody, I told the guys about it. I was like,
+ Hey, bar's bent. And they were like, ah, some people like it. I was like, Oh, okay. I guess
+ that's the shrug bar now. Um, but I would sometimes go to the squat rack and be like,
+ and try to roll the bar and it would do that. Like roll like an egg thing, like that kind of
+ thing. Instead of like, it's like, Oh my God, it's the worst. Um, yeah. So that's the only thing.
+ It's good. If you have bad shoulders, you can, some people can, if they have a curved bar,
+ they make squat bars that are curved on purpose for people with like wonky shoulders and stuff,
+ but Oh, this is like the safety bar, which is ironically not that safe. Cause it's hard to
+ bail out of. Um, yes, you need to fail onto safeties with that. You cannot. Yeah. Yeah.
+ So all that kind of stuff, but yeah, basically, uh, um, I think an, a, a bench, a flat bench,
+ if you are budget limited or an adjustable bench, if you're not, um, uh, I'd say a loadable dumbbell
+ and a basic set of, of weight plates and a barbell and a squat rack, uh, or even a squat stand.
+ That's got some small safeties. If you're not, you know, lifting too much, that's all you really
+ need to get started and maybe you need to get a couple of bands or something like that. Floor mats,
+ floor, floor mats. Absolutely. Yeah. And, uh, if you are going to drop the weights, um, I would
+ get some fat pads, um, drop the weights on maybe some crash pads or something like that, but that's
+ kind of an advanced maybe. And if you're doing all that kind of stuff, you've probably been
+ lifting for a while anyway, and you've already thought about that stuff. Um, all right. So let's
+ see. Um, what are common lifts that offer minimal benefit to on-bike performance as in what are the
+ most time wasters? This, uh, tibias. Oh yeah. Like, yeah, you pull up a little bit on a cycle
+ on when you're cycling, but like, is that what's really contributing to your pedaling? Isn't that
+ one of those muscles that was popular during the posture phase of the last couple of years?
+ There has been a thing, I think, but I think a lot of that's for people who run and do like land
+ sports. Then there's a lot more to be said for tibia strength and ankle and lower leg. Yes. Um,
+ I'm thinking if you're on the bike though, and you're just like, Oh, I really want some big tips.
+ Big tips. Um, I would say that, um, anything that does not contribute to one of your goals that you
+ have for yourself that you want out of your lifting. So if you want to improve your health
+ generally, or if you want to like, then you probably want to add a little bit of muscle
+ mass, just a little bit, uh, do whole body lifting. If you really want to improve your
+ sprint power, you want to do some heavier lifting, especially single leg stuff. Um,
+ but if you are lifting for just kind of whatever, like if you're trying to maintain muscle mass
+ during a diet, I would say you want to lift a certain way and anything that doesn't contribute
+ to that is a waste of energy. Um, but yeah, it really kind of depends on your goal. So do a
+ basic gap analysis on yourself and anything that doesn't like bridge that gap is probably a waste
+ of time. If you want, or if you want to throw in some curls, you know, just for some, for,
+ cause you want to wear sleeveless shirts more often. That's great. You know? Yeah. Nothing
+ like having a couple extra kilos of arms to carry up. Um, uh, I lifted for 12 years. It's so boring.
+ do I need to lift now? Um, what are your goals? Do you want to be healthy? Yeah. Probably needs
+ to keep lifting a little bit. Um, but you know, if you're looking for just like impacts kind of
+ stuff on your legs, you could probably do some jogging, stuff like that, uh, for bone density,
+ jump rope, jump rope. Yeah. That'll be pretty good. But, um, yeah, it kind of depends on your
+ goals, but if you're bored by it, um, I honestly, I don't see any reason why you don't, why you
+ would really, um, maybe you should get out of the gym for a couple months, maybe even a year,
+ something like that. Do other stuff to stay healthy in the meantime, but, you know, get out
+ of there for a little bit and see if you can find the love again. And if not, just be like, well,
+ what's the minimum I need to do to be healthy or whatever and do that. Yeah. If you don't like it,
+ I mean, you're not going to do it seriously and, or, and then you're going to, you know,
+ probably feel more fine about skipping it or, or, you know, phoning in here and there. And so
+ if you're just going to do that, you may as well spend, spend your time doing something you look
+ forward to. Yep. Um, Oh, some studies show that sprints are more efficient to train for sprinting.
+ Why then do gym? Ah, yes, this is a good question. So this is another individualization
+ thing where at a certain point you will tap out all the improvements you can get just by sprinting
+ because sprinting is a combination of strength and speed. How much force can you put on the pedals
+ and how fast can you do it? So if we look at a basic force velocity curve, um, for multi-joint
+ movements for multi-muscle movements, uh, it's actually basically the force velocity curve is a
+ straight line and the peak power will occur right in the middle of the, of zero to the X axis
+ intercept. So, um, so if the X axis intercept is that like, let's say 200 RPM, you were going to
+ make power at 100 RPM for peak. Uh, so when you tap out all of the improvements you can get from
+ the motor skill-based skill aspect of sprinting, that's when you would want to get in the gym
+ if you are looking to improve your sprint performance. Because one of the drawbacks of
+ a lot of studies is that they don't go very long. We're not looking at 10-year longitudinal studies
+ on somebody like me who went from 1,000 watts to 2,200 watts for their peak power. It's more like
+ you're looking at somebody over the course of a couple of weeks to a couple of months,
+ if you're really lucky. Yeah. And I also think that you, you may be depending on your background,
+ you may not know how close you are to tapping out your natural. So yeah, maybe you're brand new
+ to sprinting on the bike and just learning that motion is going to help you a lot. And you're
+ going to see those gains really, really fast for, if you've been, uh, you know, rate riding and
+ bikes for a while and you know that you're, um, you're kind of been doing a lot of sprint workouts
+ and you've just never really gone to the gym, then maybe you'll see some, be one of those lucky
+ people and see some pretty fast gains in your first six weeks in the gym. And then you don't
+ have to think about it too hard. Cause you're just like, Oh, sweet. The games gains come fast and
+ easy. Yeah. Welcome to Gainesville, buddy. That was me. I was very lucky. Um, for old folks who
+ want to keep lifting to maintain all year, what would you recommend? One day a week? Yes. One day
+ a week actually seems to be a pretty good minimum frequency. I would say you may even be able to get
+ away with every two weeks, especially if you want to maintain just the skills of the motor pattern
+ of squatting and stuff like that. So after a couple of warmup sets, knock the rust off, you
+ get into a couple of moderate work sets and then you're feeling normal. So yeah, every week to two
+ weeks, maybe every week and a half, something like that. And that should be just about enough
+ so that you don't get sore every time. Cause you don't want to be crushingly sore. You go to the
+ gym. It's always so depressing when you're like, Oh yeah. It's like, Oh, where's the toilet in the
+ morning? Um, okay. Uh, next question is twice a week strength training during winter, how to
+ integrate it during threshold VO two or race blocks. Um, that's twice a week with that. That's
+ a lot of strength training during, like if it's hard strength training and not like kind of minimum
+ maintenance, that's hard to do during threshold and VO2 and racing. So what I would recommend is
+ looking at what do you want out of your strength training and like re-listen to the last like,
+ hour and a bit of this podcast and figure out, is this something that I need to do or something I
+ want to do. Um, and so depending on your goals, you may need to do it or you may want to do it,
+ but when you burn the candle at both ends in terms of strength, heavy, intense strength training and
+ hard, intense cycling training and racing, you, even if you make everything in your life revolve
+ around recovering from that entire training load, you're still only got a couple months.
+ And if you are extremely lucky, you could probably milk it for a year, but you are going to hit the
+ wall at some point in terms of seeing improvements or you are going to start backsliding from the
+ fatigue. So I would be careful about all of that. I usually recommend once people start doing harder
+ intervals on the bike, you pull the strength training back, the hard stuff to once a week,
+ if not every couple of weeks, depending on how much maintenance you need. Um, and I would even
+ suggest maybe you're not even going to see that many improvements in the strength at that point,
+ if you're really dedicated on the bike. Okay. A couple, sorry, I'm scrolling through questions
+ here. I did not get a chance to pre-screen these. Interesting. Can you, and how would you use
+ strength training to intensify the angiogenic process. Most sets and reps in the gym are too
+ short to improve muscle capillarization, but if you are completely untrained, it's probably going
+ to have a good effect for a little bit. But even if you are doing aerobic intervals on the bike,
+ I just saw a paper the other day looking at one minute intervals, high intensity intervals,
+ not enough to improve VEGF signaling. So you probably can't do it in the gym.
+ yeah unless you're doing like oh i don't know like only thing i think it was you could do
+ something could you maybe do it if you were doing like something crazy like squats tabatas like 20
+ seconds like this is a terrible idea do not do this i'm thinking of like you know crossfit ask
+ Tabatas with lifts. But, oof, no. All right. We got a couple more. Let's see.
+ Do I need to wait a certain amount of time between lifting and cycling or vice versa? What if it's
+ zone one? So the main interference effect that we've seen in the literature so far is just
+ activation of AMPK is going to inhibit the mTOR pathway to build muscle. Uh, in terms of avoiding
+ building muscle, that's one of the things you can do is you can do hard sprints or hard efforts.
+ They're going to suck if you've done hard strength training in the last like 24, 48 hours,
+ but, um, well, they'll potentially suck depending on how hard you went. Uh, but that's something you
+ can do if you want to avoid building muscle is deliberately inhibit that pathway. But more
+ practically, before we even really see that true interference effect that original paper did over
+ the course of, I think, seven weeks before strength training started to stop showing improvements,
+ but, you know, VO2 max kept going up. The thing that we really run into is just that the fatigue.
+ the accumulated fatigue is too much for a lot of people to do hard riding and hard lifting.
+ But if you are riding easy, you can definitely do a lot of heavy lifting and you could probably do
+ a fair amount of endurance training while you are heavy lifting as well. So I just recommend
+ if you are really going far in the gym, you'll probably want to wait 24 to 48 hours before you
+ do, uh, any kind of hard ish riding. So I usually give people a recovery day, the day after hard
+ strength training as a general rule for the legs. I mean, like day, but after that, maybe two days
+ after we'll try a couple efforts. If those are okay, then that's somebody's recovery time. If
+ it's three days after that, somebody's recovery time. Um, there's a lot of ways to kind of check
+ that. Um, any thoughts there, Kyle? Yeah, no, that, that sounds right. I mean, I think the
+ biggest thing is you'll know right away like you you can definitely tell where like and that to be
+ fair there's some you know if you're gonna hop on and just be an easy zone one zone two ride and
+ you're a little sore that's fine but if it's too much too soon you can tell you'll be like oh this
+ is like your rpe is gonna be a little bit off if you're sore but if it's like way off you're like
+ yeah maybe you need an extra day in there yeah but if it's just you lift one day and then the next
+ you just do a chill coffee ride for a couple hours, probably fine. Like as long as it's not
+ soul crushing and you're like, Oh God, it's so sore. I can't even get my leg over the bike.
+ Then no, no, no. Yeah. Actually very likely if you are trying to do like a minimum effective
+ dose of strength training, um, you will probably be like mostly okay, uh, for your muscles the next
+ day. Uh, it's usually when we start hitting, uh, when we start going for more hypertrophy type
+ stuff that the muscles start getting a lot more fatiguing. However, neurally, if you are doing a
+ bunch of heavy lifting, it's likely that you are going to be kind of brain dead and your nervous
+ system fatigue is going to be somewhat high. And so that might be a bigger limiter. I know
+ personally for me, that is definitely the case. After I do heavy stuff on the legs, the rest of
+ that day and probably half of the next day, I'm kind of brain dead. Um, I, I, I genuinely try to
+ like avoid calls and podcasts and things like that. The stuff that taxes my brain really hard
+ because I'm like, I don't know if I'm going to be all there. So yeah, it's, this is why people,
+ people make, you know, dumb lifter jokes. Like, Oh, me lift heavy circle.
+ Uh, yeah, that's, and, and probably half my clients, I see a lot of neural fatigue from
+ heavy lifting, but in the other half, not so much. Um, although it depends, it also depends
+ on the volume. Like if you were doing sets of like 10 heavy singles, you were probably going
+ to have a lot of muscle fatigue as well. Um, so the total volume is probably a bigger indicator
+ of muscular fatigue and the absolute intensity is going to be a bigger indicator of neural fatigue,
+ but there's going to be some crossover in between, certainly. All right, that is it for our
+ listener questions. So I think to kind of re-summarize everything that we've talked about
+ today, strength is a skill and it is a specific skill. And before you undertake a proper strength
+ training program, uh, this fall or winter, uh, think about what are your goals and what are the
+ best ways to accomplish those goals. And at some point we will probably do a more proper strength
+ training podcast about lifting heavy. Um, so I guess, uh, yeah. What are your thoughts here, Kyle?
+ No, I think, I think it's good. It's nice to be back. Happy to, you know, always have you talk
+ about the gym. Um, good. Cause we got a lot to talk for you next. I always think that people
+ try, probably try to have treat the gym maybe a little bit too much like an afterthought, but,
+ um, if you're going to spend your time and if you're going to spend, especially if you're
+ going to spend time and money doing this in the off season, giving it a little bit more thought
+ is, is probably a good plan. And yeah, always excited to teach people new things. I feel like
+ the gym is also a good opportunity if you're typically more of an endurance athlete you get
+ to learn something new and you get to experience what it's like to be maybe bad at something again
+ which is probably good for a lot of people honestly like remembering what it's like to be
+ bad and learning is good and also then that rapid experience of getting better at something quickly
+ because you're still on that sort of like steep learning curve part where like oh yeah i'm you
+ Every week I'm getting better, and that's satisfying too, like I said, because cycling can be such a delayed gratification.
+ If I have two major races this year I'm looking forward to, and they're nine and ten months away, and it's dark and it's gloomy because it's the winter and you live in the northern hemisphere or something and it's snowing.
+ Or you're visiting because you can't go home yet.
+ Right, exactly.
+ You can be like, oh, well, at least I get something out of the gym and it's positive, and you can look forward to small victories that way.
+ Yeah, for sure.
+ Um, yeah. So if anybody has any questions about that, please feel free to shoot me an email at
+ empiricalcyclingatgmail.com or shoot me a DM on Instagram. If you want to go give me a follow
+ over there, uh, and you have any questions, uh, shoot me a DM. If you're polite to me,
+ I will be very polite to you. Um, I, there have been a couple of folks recently.
+ I just, I, I tried so hard to have a civil conversation.
+ Anyway, uh, actually no, uh, like 99.99999% of people are fucking awesome.
+ And I, I love when people reach out and, uh, and I would say thanks or ask questions or
+ whatever, but if you really want to give thanks, um, I'm going to have a bunch of donation
+ sites for hurricane relief, uh, in Western North Carolina and Eastern Tennessee.
+ and, you know, that whole area because we got hit pretty hard.
+ I hope Florida's doing okay right now.
+ Woof, yeah.
+ Yeah, but anyway, if you want to talk strength training,
+ shoot me an email at empiricalcycling at gmail.com for consultations
+ or if you want to hire us for coaching,
+ we are certainly happy to have people on as clients
+ and we're always taking on athletes of all disciplines.
+ And we also have negotiable rates, of course,
+ for students and professional athletes in extenuating circumstances
+ because we realize that not everybody out there is made of money.
+ So we still want people to get good coaching or at least good advice.
+ So shoot me an email.
+ And if you want to support the podcast, no, don't do that this month.
+ Put all your donations to Hurricane Relief, please.
+ And I'll plug the podcast donations again.
+ I might even cut it out of the intro.
+ How's that?
+ So, yeah.
+ Anyway, thanks, everybody, for listening.
+ We'll catch you next time.
+ Sounds good.
+ See you later.
+ Thank you.

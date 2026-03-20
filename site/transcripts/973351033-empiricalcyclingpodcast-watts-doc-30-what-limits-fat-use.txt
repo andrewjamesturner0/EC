@@ -1,0 +1,1077 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Joined as always by my co-host, Kyle Pelson, and I want to thank everybody for listening to the continued series on metabolism.
+ So subscribe to the podcast if you haven't yet already, and share the podcast with a friend. That really helps us out.
+ Give us an iTunes rating and review, especially if you like what you're hearing. It really helps us out.
+ And also, if you want to donate to the podcast, we are ad-free, so you can do so at empiricalcycling.com slash donate.
+ We have the show notes up on the website. We have a lot of studies in this episode, so be sure to check those out and follow along if you'd like.
+ We also have some merch at empiricalcyclingpodcast.threadless.com.
+ And if you have any coaching and consultation inquiries, questions, and comments, you can email empiricalcycling at gmail.com and also on the Instagram, Weekend AMA Stories.
+ So at empiricalcycling, give me a follow over there. If you want to follow Kyle's cats, millie.kelvin is a great one, so check out millie.kelvin.
+ And yeah.
+ So yeah, if you want to participate in the Instagram stuff, you can do that. Or if you just want to watch and read, that's cool too.
+ So in this episode, we're going to catch up on more of the basics of fat use.
+ So I'm right away off the back going to apologize for the breadth and the potential lack of usual structure on this.
+ There's a lot of pieces to put together, and there's a lot of very technical studies that I was looking at.
+ And I was like, well, if we do this, it's going to be more academic, and it's not going to be as useful or applicable.
+ And some of those, like tracer studies especially, can get kind of weird and harder to explain than you might think, or beyond my capacity to do so.
+ So anyway, so what we're going to do today is we're going to look at some of the critical aspects of what limits fat use.
+ And spoiler alert, actually, a lot of the studies that look at different aspects of what we're going to be talking about today all say they're critical key components of limiters of fat use.
+ So Kyle, fat use, let's think about this for a little bit.
+ Some people just want to know how much they're using, but I also think it might be interesting to think about exercise intensity and the relative speed of fat use.
+ And potentially, maybe we'll touch on diet a little bit in this episode too before we do a dedicated show on it.
+ So do you have any thoughts here?
+ Well, I think if astutely...
+ A lot of listeners of last episode will remember we talked a little bit about how fats actually get broken down.
+ And maybe that gives you a hint, but let's pretend you didn't listen to last episode.
+ Maybe you've heard that people use fats throughout your normal day-to-day life.
+ Like you're sitting on the couch watching TV, your body's burning fats for fuel primarily.
+ Or you think, oh, hey, maybe if you...
+ I don't know, go for an easy jog or something, you're burning fats.
+ And so maybe that gives you a hint that fat use speed would be relatively slow because you're doing it in all of these situations where the intensity is relatively low.
+ Or maybe you think, okay, if you eat fats, like if you look at a fat molecule kind of like we talked in last episode, it's a lot more complex and there are a lot more parts to it than a glucose molecule, which is a pretty simple sugar.
+ So then you think, oh, maybe, hey, that means that fat use is slower because it would be harder to break down or something like that.
+ Yeah, that's partly true.
+ And actually, that's one of the things that we're going to look at in a later episode when it comes time to actually break down the fat.
+ There is actually a specific limiter that is worth its own episode that we're going to get into.
+ But with this, I actually think one of the things that I always hear that bugs me the most...
+ You know, surprise, more stuff bugs me, you know, water is wet, et cetera, et cetera.
+ Drink.
+ Like long at home.
+ Is that a lot of people will talk about fat use as aerobic and then as soon as you start using carbohydrates, you start to go anaerobic.
+ And I think last episode, you know, depending on how we want to look at it, we're actually going to run some numbers on that in a later episode.
+ But I think people like just using fat because they think that fat is the only thing that you can use aerobically.
+ Right.
+ I think that is a big...
+ Theory that people have or maybe a common, I don't know, received wisdom.
+ Bro science tip.
+ I was trying to be nice.
+ Yeah.
+ So actually last episode, when we went over the biochem of fat breakdown, it seemed like people actually thought it went pretty well.
+ I didn't hear anybody saying like, wow, I really got lost in that.
+ Some people said, you know, it was easier listening to your show than it was.
+ I don't know.
+ I was actually learning this in class, which I take as a great compliment.
+ So thank you for that.
+ But this episode, you know, let's actually get right into the biochem background that we're going to need for this episode.
+ So if you remember from last episode, muscle and adipose tissue both store triglycerides and or triacylglycerols.
+ They are two names for the same thing.
+ So a glycerol, again, is three carbons with an alcohol, which is a dash OH on each carbon.
+ And each of these three forms an ester, which is the carbon to an oxygen, to a carbon that's double bonded on one end to an oxygen.
+ And then that fourth bond goes to another carbon and then more carbons, et cetera, et cetera.
+ So that is an ester.
+ And so that is what makes glycerol link up to three fatty acids.
+ So if we want to use stored fats for energy, it first has to go through what's called lipolysis.
+ So lipolysis does not mean actually the breakdown of...
+ Lipolysis means freeing fatty acids from glycerol.
+ So usually in the literature, free fatty acids are called NEFA or non-esterified fatty acids.
+ You know, so remember the ester linkage from the glycerol to the fatty acid?
+ Not esterified there, no longer linked to glycerol.
+ So that's where that phrase comes from.
+ Lipolysis itself is what's called a hydrolysis reaction.
+ So if you recall last episode, water was used to attach...
+ ...to the fat molecule in beta-oxidation.
+ This is the same but different.
+ So the atomic accounting of the hydrogen and oxygen actually ends up the same.
+ But we finish with two molecules where previously there had been one.
+ So it gets split on one side.
+ One gets a hydrogen and one gets an oxygen and a hydrogen.
+ So that's hydrolysis.
+ And we actually have a diagram of this in the show notes.
+ And so lipolysis can happen in tissues that store fat.
+ And it's an enzyme.
+ It's an enzyme-catalyzed reaction.
+ So this means it would happen on its own.
+ But energy required for this to happen is actually lowered with an enzyme.
+ And it means it can also happen at a faster rate.
+ So it's important to note the products of this reaction.
+ Because we're going to be talking about these products in this episode.
+ We liberate fatty acids.
+ And we liberate glycerol.
+ So it's an interesting thing about glycerol.
+ Is that it's not reused in the adipose tissue itself.
+ But fatty acids can be.
+ Right?
+ So because adipose tissue actually lacks the enzyme that is needed to create a quote-unquote activating bond.
+ Like we saw in the last episode.
+ With the fatty acid had to be quote-unquote activated to be transported and then broken down.
+ Same thing actually has to happen with glycerol in order to make triglycerols again.
+ So when we look at...
+ A lot of studies.
+ We are going to see that out of adipose and mussel tissue.
+ The efflux.
+ The leaving of these tissues.
+ Glycerol.
+ Can show us rates of lipolysis.
+ Because they don't get reused in the tissue.
+ So which means we cannot actually track fatty acids that get put back into the triglycerols in adipose tissue.
+ Because if it gets liberated and then linked back up.
+ We have no way to mark.
+ So if we look at glycerol.
+ That is actually a good way to track fatty acid lipolysis.
+ Because when we look at studies in a little bit.
+ What's going to happen is.
+ We are going to see fatty acids in the bloodstream.
+ Not get quite so high as we might expect.
+ Because they are also being used.
+ So the rate of appearance and rate of disappearance is very different than the rate of actual adipose tissue lipolysis.
+ So.
+ That's one of the cool things about learning about these studies.
+ So the enzyme that's used to catalyze lipolysis is called HSL or hormone sensitive lipase.
+ So this is highly expressed in adipose tissue and skeletal muscle among other tissues.
+ And side note.
+ If you want to learn more about enzyme and gene expression in tissues.
+ I spend a lot of time on proteinatlas.org.
+ Kyle, why are you laughing?
+ I'm sure you do the same stuff with physics.
+ I've actually never heard of proteinatlas.org.
+ So that's why I was like, oh.
+ Yeah.
+ It's like my fourth or fifth bookmark on my bar.
+ And brenda-enzymes.org.
+ So these are two databases.
+ So if you want to check out stuff like that.
+ But proteinatlas has like tissue expression and stuff like that.
+ So that was one of the things that I looked up when I was like.
+ Oh, does adipose tissue have this.
+ Um, enzyme that can activate, uh, glycerol.
+ I needed to confirm this and no, it has the RNA, but it has no protein expression.
+ So that's one of the ways that I checked.
+ Um, actually if my memory serves correctly, same with muscle tissue.
+ Um, if so hormones and fat.
+ So why is this called hormone sensitive lipase?
+ Um, we, I think we've mentioned mobilization of fatty acids before on a podcast,
+ or you've maybe heard of this somewhere else, but so what determines the mobilization or
+ lipolysis, uh, for exercise, um, is like, is it on off or is it a range?
+ Um, because obviously we have to tell our bodies that we need to move fatty acids
+ out of our adipose tissue, and then we have to get it through the bloodstream,
+ um, to our working, uh, muscle tissue and the rest of our organs and stuff.
+ So it turns out that our bodies regulate lipolysis with a balance of signals,
+ signals that say, yes, we need fatty.
+ Acid to burn are things like catecholamines and glucagon.
+ Um, so catecholamines are stress hormones that happen in response to what's called
+ sympathoadrenal activity.
+ So I'm sure everybody's probably familiar with the sympathetic and parasympathetic
+ nervous systems as the fight or flight or rest and digest respectively.
+ So stressful events or exercise activate the sympathetic nervous system,
+ which causes guess what other tissues to release things like
+ epinephrine and norepinephrine.
+ Um, so as a side note, as a quick terminology thing, I think this is really
+ fun, uh, epinephrine and adrenaline mean the same thing.
+ They come from the same, um, endocrine organ, which sits like a little hat on
+ your kidneys.
+ So an epinephrine means above the kidney ad renal meaning near kidney.
+ Um, norepinephrine is actually made, um, elsewhere.
+ Um, but you know, that's neither here.
+ Nor there.
+ So, um, and for, for those, uh, caffeine or coffee drinkers out there, uh,
+ caffeine is something that stimulates your, um, your nervous system and the,
+ the production of adrenaline or epinephrine or whatever you want to call it.
+ And that's one of the reasons why you get this kind of like stimulated,
+ very awake alert feeling when you drink caffeine or other stimulants.
+ Oh man, I miss having that feeling.
+ I'm so decades into the addiction.
+ Now, um, yeah, yeah.
+ So, um, well, so anyway, that's why this is called sympatho adrenal because the
+ sympathetic nervous system and the, um, and the adrenal system, uh, have, uh, you
+ know, people, I guess might refer to them as an axis, uh, a hormonal axis.
+ So this thing gets activated and it, it switches your body into a certain mode.
+ Um, obviously again, not, um, not an on off switch, just kind of, uh, you know,
+ has different levels of activation.
+ Um, but as a side, side note, this is a big reason that not bike stress and stress as
+ exercise can both leave you feeling kind of the same amount of empty, um, having the same
+ or extremely similar systemic response to all kinds of stress, uh, has about the same
+ physiologic consequences, or I forget who said it, um, all different kinds of stress
+ gets put into the same box.
+ And this is one of the reasons why.
+ And for example, this is why like your body doesn't know, say if you're emotionally stressed
+ out, your body doesn't really know the difference in some sense from, from having exercise stress.
+ Like, yeah.
+ Or physical danger, like being chased by a bear or a moose.
+ Just got to run faster than my buddy and it's fine.
+ Um, right.
+ So exercise itself is a thing to switch on the fight or flight when we,
+ when we warm up for exercise, this is one of the things that happens when we do openers.
+ This is one of the things that happens.
+ We're preparing our body for a very stressful event and exercise.
+ It's actually, um, probably a combination of signals that activates the sympathoadrenal
+ system.
+ So the drop in blood oxygen, uh, is sensed by particular cells in the body, which says
+ release catecholamines.
+ Um, so this is probably one of the big potent signals, um, activation of the motor cortex might actually help.
+ It may actually be a very potent signal as well.
+ Um, you know, anything that says we are doing stuff, uh, can also, you know, may actually be a very good signal for this.
+ I didn't read too much into the literature cause it's not as important.
+ Uh, but when we start to work out, this is one of the things that happens and it says we have metabolic demand.
+ We need to release fatty acids.
+ We need to release our long-term stored energy for use.
+ So the primary catecholamine, uh, acting on...
+ adipose tissue to signal lipolysis is actually epinephrine, but it's usually called just catecholamines in the literature, um, cause sometimes it looks at one or sometimes, uh, you know, catecholamine and norepinephrine, or not, sorry, epinephrine and norepinephrine, but also there are other ones that get looked at too sometimes.
+ So we're just going to put them all under a big blanket, catecholamines.
+ So glucagon also, along with catecholamines, stimulates lipolysis, um, but the cool thing about this is it actually has no effect directly on muscle.
+ But it stimulates adipose tissue lipolysis, um, and as Kyle said, uh, liver also.
+ Um, so it has wide-ranging effects, but we're really going to try to just focus on adipose tissue and, um, and muscles for this episode.
+ So signals that say, no, you keep your fatty acids are, as you might expect, things like insulin.
+ When do we release insulin, Kyle?
+ You release insulin when your body has a high level of...
+ glucose or blood glucose levels exceed some, you know, sort of roughly homeostatic level, or when you eat, or if you drink sugary beverages.
+ Yeah, um, and, uh, possibly lactate as well.
+ Um, there's, uh, I've seen a couple papers, I have not dug that far into it to validate this or not, but potentially, let's say, uh, lactate is also a signal that would downregulate lipolysis.
+ Um, so insulin is, of course, secreted by pancreatic beta cells and stimulates muscle to uptake glucose and to increase glycogen synthesis, as most people probably know by now.
+ Insulin in adipose tissue can stimulate it to take up glucose and increase lipogenesis, which is fat storage, and decrease lipolysis.
+ But it's not either-or.
+ So, you know, now we have some things...
+ to think about, you know?
+ So if you're thinking about, oh, should I not eat during my ride?
+ No, eat during your ride!
+ We're gonna get into this later.
+ Um, it's really not that complicated.
+ Um, even though it seems like it is, um, we'll talk about that later, but that's way off topic right now.
+ So, what we have here, really, is a simple but emerging picture of the two states, quote-unquote two states, it's not actual on-off, as we've said, um, that we can think of the body being in.
+ So we can think of-about...
+ Rest and digest with insulin, eating carbs, you're not exercising, nothing like that.
+ Or we've got fight or flight, or not enough food, dieting, starvation, uh, or performing exercise.
+ And so, because it's not on-off, uh, these circulating hormone levels are actually able to regulate each other a little bit too, in addition to being regulated at the tissue level itself.
+ So, if you eat a gel during a-a training ride, your body doesn't say, okay, we're good, we have plenty of food.
+ Um, we're gonna stop lipolysis right now, uh, like, it doesn't happen that way, like, 20 grams of carbs is not gonna stop you from completely, like, getting, like, mobilizing and using fatty acids, it's just not gonna happen.
+ Um, because our bodies are smart, and our cells can balance the relative intensities of these signals in order to appropriately meet the energetic demands being placed on them, unless, of course, you're a diabetic or something like that.
+ And I think this is-this sort of balance between sympathetic, parasympathetic.
+ It's kind of what I think people are trying to get after with the boom in popularity with HRV and-and-and whoop straps and things like that, right?
+ Is that-I guess it's-it's one thing people want to get at.
+ Um, and whether the HRV actually works to do it is a different question, but, um...
+ It is based on actual science that is used to save people's lives, um, I'm just not convinced, for exercise quite yet.
+ Um, anyway, so...
+ So, when you do a hard exercise, there are very high demands, and relative quantities of food in kilojoules are small compared to the demand that somebody who's really well-trained can actually generate.
+ So, a gel, for instance, is not gonna be enough to stop the freight train of catecholamines that your body is releasing.
+ Right, unless you inhale, like, a, you know, a supersized fry on the side of the road or something like that.
+ In which case, you probably have larger problems.
+ Yeah.
+ Um, yeah, but not only that.
+ We also need to consider where the blood is going.
+ So, without specific tissue stimulus saying, we need blood flow, there probably won't be that much increase.
+ So, if you're riding your bike, odds are that your biceps are not screaming for oxygen, and so the blood is gonna follow the path of least resistance.
+ That is to say, the open blood vessels and capillaries in the leg working muscles.
+ Right?
+ So, um, so again, all of this is conceptual stuff we're gonna get into in a later episode with Nutritional Considerations, where we...
+ Probably bash keto a little bit, so...
+ Yeah.
+ That would be fun.
+ Uh, so...
+ Spoiler alert.
+ The, um, okay, so the balance of the, like, chill out the lipolysis man, and the, like, all hands on deck, mobilize signals.
+ Um, these are what tells hormone-sensitive lipase how active to be.
+ And that's why it's called hormone-sensitive lipase, because it's so sensitive to hormonal regulation.
+ Um, so what's a hormone anyway?
+ Um, just to be clear, uh, and I don't...
+ I don't want to hear any enzyme jokes.
+ Thank you, Kyle.
+ I know you're thinking it.
+ Um, a hormone is a signal molecule, and that's it.
+ Uh, it can stimulate tissues far away in the body, nearby, or even the cell that releases it, which is called autocrine.
+ Um, so this is all our endocrine-type stuff.
+ Um, and all tissues in the body have receptors for hormones.
+ And you've probably heard about, uh, the ones that detect hormones that we're talking about.
+ So, glucagon, for instance, stimulates a G-protein coupled receptor, which uses GTP.
+ As opposed to ATP.
+ Um, and that sends a signal inside the cell to say, hey, glucagon is here.
+ You know, we need to do this, that, and the other thing.
+ Um, catecholamines stimulate adrenergic receptors.
+ So, adrenaline, adrenergic.
+ So, you ever heard of beta blockers?
+ They actually lock up beta adrenergic receptors, so adrenaline just bounces off of them.
+ How cool is that?
+ And that's why they're, uh, performance-enhancing drugs in shooting sports.
+ Because...
+ If you get nervous, say, hypothetically, before you're, you know, competing in the Olympics in archery or pistol or something like that,
+ and you get the shakes, the beta blockers are actually, will help stop your jitters before competing.
+ They're also famously things that, like, a lot of, like, musicians will take if they get nervous.
+ Yeah, I've heard of that, too, yeah.
+ Granted, they're not being drug tested, so.
+ Yeah.
+ Okay.
+ All right, so let's get back on topic now.
+ We've got enough background on this.
+ So, why is fat oxidation slow?
+ Um, well, this is the first clue here, is everything we just talked about.
+ Um, because it's slow to ramp up to needed levels.
+ You know, it can take a little...
+ It's not like you can just get off the couch and be fully active with fully mobilized, um, you know, fat stores and everything.
+ Um, so it takes time to kick over the sympathoadrenal system.
+ And it also takes time to increase blood flow to the muscles, which, again, is carefully regulated.
+ So, in a single 30-second sprint, for instance...
+ You don't have time to fully shift your autonomic nervous system from parasympathetic to sympathetic, and send out signals, and increase blood flow concentration, and mobilize fats, and transport...
+ Like, this is a long list of stuff to do.
+ So, it's no surprise to anybody that a 30-second sprint is not going to use a lot of fatty acids.
+ Um, but, you know, and it's not just because it takes time to, you know, switch your sympathoadrenal system on or anything like that.
+ And so...
+ Let's actually get into this in relation to endurance exercise.
+ So, first, I want us to think about how many walls fatty acids have to get through to go from adipose tissue to muscles.
+ So, we start in an adipose cell.
+ So, we have to go past the membrane.
+ We have to go through the interstitial space.
+ We have to go through the capillary cell wall on the adipose side.
+ And then we need to do it on the blood side.
+ And then, again, interstitial space at the muscle tissue.
+ And then, again, interstitial space at the muscle tissue.
+ And then, again, interstitial space at the muscle tissue.
+ Into the muscle cell, then across the outer membrane of the mitochondria, across the inner membrane of the mitochondria.
+ I'm tired just reading that.
+ I know, right?
+ You're like, oh.
+ It's a lot of, like, bridges and tolls, effectively.
+ Yeah.
+ And not only to mention that, but we're glossing over, like, nine other things here.
+ Because at some point, again, it's, like, not educational.
+ It's just technical and boring.
+ So, if you get into literature on this, you're going to find a lot more stuff.
+ Or you might understand why.
+ I had such a hard time kind of paring this episode down a little bit and focusing on a certain thing or two.
+ Because, oh, my God, the technicality stuff.
+ And keep in mind, you know, crossing membranes or cell walls and things like that isn't free.
+ Like, you can't just – it would be bad for your body generally if things could freely pass through cell walls or tissue membranes and things like that.
+ You'd have a really bad time.
+ Yeah, definitely.
+ And that's why there are specific transporters and stuff like that.
+ But, actually, you're getting to –
+ The next point that I wanted to make was that the slowness in particular is actually for longer-chain fatty acids.
+ Something like octanoate, which is –
+ Kyle, do you have any guesses on this one?
+ How many carbons?
+ I'm going to guess maybe eight octo –
+ Yes, you are correct.
+ You just won fat.
+ So, it's eight carbons long.
+ And octanoate can actually just diffuse passively across membranes, like O2.
+ Because it's – you know, relatively speaking, it's small.
+ And it can kind of –
+ It can slip through like grease because it's just not interacting.
+ This is what happens.
+ But longer fats like hexadecanoate, which is also known as typically palmitate, as we all know, because palmitate is one of the big ones that we look at for these studies because it has to be actively transported.
+ You know, longer ones like this are actually too big to just passively diffuse through.
+ So, they need transporters.
+ And things like endurance training.
+ And also, yes, high-fat diets seem to help expression of these transporters.
+ And one of the big ones that gets studied is a transporter in the literature called fat.
+ Literally F-A-T or fatty acid translocase.
+ But it's also called CD36.
+ So, it's usually just called fat slash CD36.
+ So, just for the ease of being able to hear it better, we're going to call it CD36.
+ So, in non-fat diets, it's called CD36.
+ So, in knockout mice, for instance, bred without the gene for CD36, fatty acid oxidation really suffers.
+ And this is because of the lack of transport into the muscles.
+ But there are, you know, more fat translocators than this one.
+ But this is, like I said, one of the big ones that gets studied.
+ I think that it is a, you know, we're hopefully peeling back the lid a little bit here into how actually your body uses fat.
+ You think, oh, like, oh, your body burns fat.
+ Oh, that's great.
+ That's great, you know.
+ And maybe you haven't thought about it any deeper than that.
+ But it's actually a fairly complex process that requires a lot of things to kind of, I won't say click into place, because they're kind of always there sort of waiting to be signaled or triggered for use.
+ But it's not just like, oh, I ate this burger and then the fat gets absorbed in my small intestine and then my cells can use it immediately.
+ Yeah.
+ No, it's a complex process.
+ One of the early papers on this that I read preparing for this episode was actually that, you know, it was actually very simple.
+ So I'm sure some people are thinking, like, oh, so if we just have more adrenaline, can we mobilize more fatty acids and then we can move more?
+ You know, that's a one way to interpret it.
+ And a lot of people thought about that for a long time.
+ But it's actually way more complex than that.
+ And there's a lot of it depends and maybes.
+ So, like, for instance, one of the.
+ One of the first papers I actually looked at was called the Effective Physical Training on the Capacity to Secrete Epinephrine, which was by Michael Kier and Henrik Galbo.
+ So Henrik Galbo was actually somebody who's done a lot of research on this.
+ He's got a lot of papers out and a lot of even the current literature still references these things a lot.
+ And basically what they showed was that trained individuals in response to signals that typically make somebody secrete epinephrine, like, hey, we've got fight or flight stuff going on.
+ Like hypoxia or hypercapnia, hypercapnia is just an increased CO2.
+ These things showed that trained individuals do have a better capacity to secrete epinephrine and norepinephrine.
+ But this actually gets a little more complicated.
+ And we're going to circle back around to this a little bit later.
+ Excuse me.
+ And so let's actually start getting into some of those.
+ It depends in some of the maybes.
+ One of the main adaptations.
+ Of endurance exercise is that we potentially do increase fatty acid mobilization.
+ Some papers say no.
+ But one of the things that we can definitely say for sure is that endurance training definitely helps with transport into muscles and into mitochondria.
+ And in fact, I think almost every single point in the fatty acid mobilization and transport chain in the literature has been called a key regulator of fatty acid oxidation, you know, in terms of why it's so slow and why it's not like you can just.
+ You know, oxidize all the fatty acids you possibly can.
+ So I think it's safe to say that it's all pretty important.
+ The first study of today of several, we're going to we're going to talk about the others very briefly.
+ This is the only one we're going to really get into a little bit.
+ It's called the regulation in relation of endogenous fat and carbohydrate to exercise intensity and regulation.
+ Also, who's on this paper?
+ Our favorite, Ed Coyle.
+ What's up, Ed?
+ All right.
+ So check this out.
+ This study was to look at substrate use in muscle of the four major substrates.
+ So we have muscle glycogen, plasma glucose, plasma fatty acids, intramuscular triglycerides because muscles store their own fat supply because, as we stated before, transport is slow.
+ So the methods in this paper are way too technical to get into here.
+ And I apologize for that.
+ You should go read it if you want.
+ Be prepared.
+ But I also think that given the subject matter that we've covered in this series, that's really saying something.
+ So what I want to do for now is just briefly draw our attention to a small part of the study, which is table one.
+ So what they did was they had five endurance trained individuals exercising at 25, 65 and 85 percent of VO2 max.
+ So at 25 and 65 percent, they went for two hours at 85 percent.
+ Obviously, they only went for 30 minutes.
+ Obvious reasons.
+ All right.
+ So check this out.
+ So epinephrine and norepinephrine.
+ So this is our catecholamines.
+ They measured these two levels at 25 percent at 30 minutes and 120 minutes were about the same and also dropped after recovery.
+ So this is our fight or flight system for exercise switching off.
+ However, at 65 percent, epinephrine was 20 percent higher at two hours than at 30.
+ So this is our fight or flight system for exercise switching off.
+ However, at 65 percent, epinephrine was 20 percent higher at two hours than at 30.
+ So this is our fight or flight system for exercise switching off.
+ However, at 65 percent, epinephrine was 20 percent higher at two hours than at 30.
+ So this is our fight or flight system for exercise switching off.
+ However, at 65 percent, epinephrine was 20 percent higher at two hours than at 30.
+ So this is our fight or flight system for exercise switching off.
+ So this is our fight or flight system for exercise switching off.
+ So this is our fight or flight system for exercise switching off.
+ So this is our fight or flight system for exercise switching off.
+ So this is our fight or flight system for exercise switching off.
+ So this is our fight or flight system for exercise switching off.
+ Nor epinephrine, not a significant jump, but we're going to focus on epinephrine for now.
+ So not only that, but at the 30th minute at 85 percent, epinephrine levels are about three times higher than it was at 65 percent at the same point.
+ Interesting.
+ Yeah.
+ So now we have a very interesting question that we need to think about.
+ So does this affect the actual amount of fat use during exercise?
+ And is this what limits it?
+ Essentially, we're going to look at two studies now that answer this question, and we're going to see why it depends.
+ So first, this is a study looking at single-leg knee extensions at the same relative workload.
+ So here it's 60 percent of the max O2 uptake for single-leg knee extensions.
+ So if you can imagine doing a VO2 max test just with, like, one-leg knee extensions.
+ Yes, that sounds terrible.
+ That sounds really bad.
+ Okay, so in the show notes, check out this paper.
+ We have our four graphs.
+ They're just figure two from the original paper, which is linked.
+ So this shows where free plasma fatty acid concentration at the start of exercise is higher in trained subjects than in untrained from zero to 150 minutes, but it's actually the same at 180 minutes.
+ So that's 2A.
+ So basically, you know, trained subjects mobilize more fatty acids early on, and at 180 minutes, untrained subjects also had about the same.
+ So 2C, what we have is free fatty acid uptake in the trained subjects starts out about 25 percent higher than in untrained and actually ends up twice as high.
+ So this is uptake by working tissue.
+ So the last one, graph 2D, is the most telling.
+ So fatty acid oxidation starts at about 50 percent higher for the first hour in the trained individuals, and then at two hours is actually twice as high.
+ Wow, that's significant.
+ Yeah, so this also has a potential methodological problem with it, this study, but I thought it was a good place to start because there's a lot of studies that look at stuff like this.
+ So the problem here is that it's actually using a relatively small muscle group compared to whole body exercise.
+ So it's just one leg, one knee, like just one set of quads, but it still illustrates that mobilization.
+ As well as availability can be a step in utilization, but also uptake and oxidation.
+ So there's a lot of steps.
+ We're actually looking at the whole signal chain here, and unfortunately we can't study all of them here, but we are actually going to get into one of the critical mechanisms of transport a few episodes down.
+ So that'll be cool.
+ But now I want to actually look at our third study here.
+ So this is a study by Coyle.
+ Again, Anne Klein.
+ Link in the show notes.
+ And again, we're not going to get into it that much because this is already going to be a long episode, but they did five competitive endurance runners.
+ Their VO2 max was 72 average, so pretty fit, and five recreationally active people, so a 46 average VO2 max.
+ So figure four in this study, what they actually had these people do is four hours of treadmill walking.
+ So-
+ Yikes.
+ Oh, man.
+ Yeah.
+ All right.
+ You wonder how they only got a handful of people to participate in this.
+ Their study is like, hey, you want to come down to the lab and walk on this treadmill?
+ Sure, for four hours.
+ Never mind.
+ No.
+ Well, that's why they only had five and five in their groups.
+ But, okay, so check this out.
+ This is actually still pretty telling.
+ So this is a whole body version at a slightly lower exercise intensity than the previous study.
+ So this is another way to look at this.
+ So figure four in this study looks at rates of fatty acid appearance and disappearance over the course of four hours at 45% VO2 max.
+ So this is relative for each.
+ So it's a little lower intensity, but it's still like a good, like, you know, pretty easy ride.
+ You expect you're going to be burning mostly fat at this point, right?
+ Breathing through the nose.
+ Yeah.
+ Chill.
+ Yeah.
+ So fatty acids in the blood increase the same amount and at the same rate between both trained and untrained people.
+ And this study, which I think is fascinating.
+ Yeah, that's super interesting.
+ Yeah.
+ So as opposed to the small muscle groups, we're actually seeing a very similar thing here, except only in the untrained.
+ At three hours, their fatty acid disappearance rate, you know, utilization, oxidation, substitute kind of, it plateaus.
+ It stops.
+ But their availability.
+ In the blood actually keeps going up.
+ So it diverges at that point.
+ But in the trained individuals, utilization rate continues to rise to match the rate of appearance.
+ Oh, interesting.
+ So potentially one of the benefits of training then is that you are better at burning fat and not just, you know.
+ Yeah, you're better at moving it into your muscles.
+ Yeah.
+ You're not just better at, like, freeing it from.
+ From your liver or other stored areas.
+ Yeah, exactly.
+ And this is like a way and a side right now.
+ But I think actually this is one of the things that doesn't happen when you train too hard too much.
+ Like if your FTP is set too high and you're trying to train at that high FTP, you're not spending enough time at lower intensities where you actually mobilize fatty acids.
+ Because I think one of the big signals with increasing fatty acid transportation.
+ Into muscle cells is just exposure in the bloodstream.
+ Because if we eat a lot of fats, our bodies upregulate the amount of fatty acid transporters we have so we can actually use what's in our diet.
+ So the appearance of fats in the blood, in addition to endurance exercise, which already is going to signal your cells to make more fatty acid transporters.
+ Because endurance exercise, hello, we have to use fat.
+ We have to keep this engine running, right?
+ Right.
+ Right.
+ I think that this is some of the stuff that gets missed by people who are training too hard all the time.
+ And even though the fact that high intensity training early on can definitely show an increase in fatty acid transporters and utilization.
+ But at some point, it really, you know, I've trained a lot of people where they're training really, really hard.
+ Then we back it off when they start working with me and they start doing it like real endurance rides.
+ And suddenly they're going.
+ Wow, my endurance is great.
+ This is so much better.
+ Why doesn't anybody, you know, want to train their LT1?
+ This is so fantastic.
+ I can ride so much harder for so much longer.
+ Harder is not always better.
+ Yeah.
+ And I think this is actually one of the big reasons.
+ I really do.
+ All right.
+ So back on to what we were doing.
+ All right.
+ So now we have one more study link in the show notes.
+ And I was thinking about not including this, but this is kind of a wide ranging episode.
+ So I think I thought, you know, why not?
+ This actually is going to illustrate another point very clearly that we're going to do another separate episode on at some point.
+ So the study is like the show notes again.
+ And this one actually uses beta blockade.
+ And so catecholamines, specifically epinephrine, cannot nearly as well stimulate adipose tissue to respond to the catecholamines.
+ But it also means that the heart rate doesn't increase quite so much.
+ So now we have, you know,
+ two things of like, you know,
+ we have less O2 from the stroke volume going down and, you know,
+ beat frequency going down,
+ but we also have less fat acids in the bloodstream.
+ So, oh,
+ the title is beta blockade and lipolysis during endurance exercise.
+ So they had people exercise.
+ They just picked 150 Watts to exhaustion.
+ So these folks were not in great shape because 150 Watts doesn't sound like a lot to most people.
+ So they did three by 30 minutes with 10,
+ with 10 minute rests at a maximum.
+ Most people did not make it to three by 30.
+ So, so what happened was their exercise capacity reduced greatly with beta blockade.
+ So on average, people did 58 minutes for the first one, or I'm sorry,
+ 55 minutes for the first one, the first beta blockade,
+ their TTE went down to 48 minutes and that the,
+ the last beta blockade,
+ their TTE at 150 Watts went down to 31 minutes,
+ a big,
+ big drop in their TTE because what happens if you cannot use or mobilize fatty acids?
+ And also you're not moving much oxygen to your,
+ to your muscles.
+ What's happening?
+ You just run out of fuel.
+ What fuel?
+ What fuel?
+ Oh, you,
+ you don't have,
+ well,
+ you don't have either fatty acids to break down and you also don't have,
+ you don't have oxygen.
+ So you're forced to,
+ or as much oxygen,
+ but so you're forced to utilize glycogen.
+ Exactly.
+ That's a hundred percent it.
+ And this is why people always want to use,
+ I'm sure I'm,
+ you know,
+ most people listening already know this.
+ This is why we want to,
+ you know,
+ train to better use fatty acids when we,
+ when we train the obvious downside for this study is these people are not well
+ trained.
+ Yeah.
+ But looking here,
+ this illustrates a very important point about,
+ you know,
+ fatty acid mobilization,
+ but also reduce,
+ um,
+ cardiac output.
+ So,
+ um,
+ this is another one of those things where we've got a couple things to kind
+ of weigh how much this affected,
+ how much this affected.
+ Um,
+ but the,
+ the bigger overarching point is if you are,
+ uh,
+ lacking in O2 or fatty acids or whatever,
+ then you're going to fatigue faster because you are going through your muscle
+ glycogen faster.
+ And you have what humans have average,
+ like 400,
+ 500 grams of glycogen in your whole body or give or take.
+ And so,
+ how many calories or kilojoules you have available in glycogen in your working
+ muscle for legs,
+ uh,
+ actually depends on your body weight and how much muscle you have,
+ because we have a maximum storage capacity,
+ uh,
+ by weight.
+ Um,
+ sure.
+ I think so.
+ It also depends on how many carbohydrates you're eating in your diet.
+ So there's a lot of factors in there.
+ Um,
+ so suffice it to say,
+ if these folks had,
+ uh,
+ you know,
+ a little more endurance training in their background,
+ they were eating high carb diets.
+ They probably could have lasted a little longer though.
+ It'd be an interesting kind of wrench to throw into this thing.
+ Um,
+ but it's,
+ again,
+ this is complicated by the lower,
+ um,
+ cardiac output,
+ uh,
+ in the lower O2 delivery.
+ So,
+ um,
+ but again,
+ so this just illustrates the obvious point that I'm sure a lot of people
+ were thinking about with,
+ you know,
+ it doesn't,
+ you know,
+ using more fatty acids mean you have better endurance and kind of,
+ yes,
+ but,
+ um,
+ maybe.
+ Yeah.
+ So,
+ so this is why this is kind of a,
+ I feel like it's a weird episode so far without a strong point,
+ point on it.
+ Um,
+ because the results in a lot of these studies can seem to be
+ equivocal,
+ um,
+ or,
+ you know,
+ not iron clad.
+ And this is actually just true of this entire section of the
+ literature in my experience.
+ Um,
+ but you know,
+ part of that is like study design,
+ like you're using beta blockade,
+ you've got reduced cardiac output and,
+ and,
+ you know,
+ statistical methodology or not individualizing protocols.
+ Like if you just have everybody,
+ 150 Watts and they're not well-trained,
+ some people are going to be over FTP.
+ Maybe some people are not,
+ um,
+ you know,
+ that introduces another piece of complexity to all this stuff.
+ Um,
+ but you know,
+ possibly,
+ and most importantly,
+ just looking at plasma free fatty acids,
+ you know,
+ it can show a steady concentration.
+ Um,
+ but things like plasma glycerol,
+ as you know,
+ as mentioned before,
+ that can actually increase through a bout of exercise,
+ more or less matching actual muscle tissue utilization or not.
+ So,
+ so it's,
+ it's a really complex thing.
+ There's a lot of factors in this.
+ And unfortunately,
+ if we went through every single one we dug down deep,
+ um,
+ we would still have the same,
+ uh,
+ you know,
+ semi understanding that we have currently,
+ you know,
+ there are also studies in here,
+ uh,
+ not,
+ well,
+ not in this episode,
+ but there are also studies out there that show that increasing fatty acids in the bloodstream doesn't increase oxidation and utilization,
+ um,
+ despite the increased availability because transport mechanisms,
+ maybe maxed out,
+ you know,
+ it's,
+ you know,
+ we've got to look at a bunch of different things like we saw in train to untrained individuals in the coil and Klein study for the train people,
+ transport mechanisms do not max out at 45% VO two max,
+ but you know,
+ for the,
+ um,
+ for the untrained,
+ yeah,
+ they,
+ they seem to at some point.
+ Yeah.
+ And this is one place where,
+ you know,
+ people still aren't a hundred percent sure how all the ways that like caffeine helps as an ergogenic aid,
+ but this is maybe one place where it may or may not,
+ if there are studies that show that caffeine consumption for exercise increases a free fatty acid in the acids in the bloodstream.
+ But like we just said,
+ just straight increasing them doesn't necessarily mean you're actually going to be able to use them better.
+ It just means that they're going to be there,
+ right?
+ Yeah.
+ And if your heart's pumping faster because of all of this caffeine,
+ does that mean that your diastolic filling time actually is shorter and you're got the same cardiac output anyway?
+ Um,
+ so yeah,
+ yeah,
+ there's,
+ there's a lot of,
+ a lot of questions on this kind of stuff.
+ Um,
+ but you know,
+ actually I want to bring up one more chart.
+ Um,
+ that is in the first coil paper,
+ uh,
+ which actually in the study was only briefly remarked on by the authors.
+ And I thought it served a little more,
+ um,
+ a little more thought into it.
+ Um,
+ so in figure nine,
+ uh,
+ both in figures and B,
+ uh,
+ parts A and B in this figure have very interesting characteristics.
+ So we're going to describe them briefly.
+ Um,
+ so link in the show notes to this paper.
+ So one participant,
+ um,
+ over two hours at 25% VO2 max,
+ which is,
+ uh,
+ part A of this figure and at 65% of VO2 max,
+ which is part B.
+ So these are well-trained people.
+ Um,
+ plasma glucose utilization stays about constant in both,
+ uh,
+ as a percentage of energy expenditure.
+ Um,
+ no muscle glycogen is used at 25%.
+ VO2 max.
+ Not terribly surprising.
+ Yeah.
+ But at 65% VO2 max muscle glycogen use starts at 40% energy expenditure.
+ Now by the end,
+ muscle glycogen use is only about 15% of two hours at 65% VO2 max.
+ I guess it makes sense to be kind of talked about this in previous episodes,
+ where for higher workloads,
+ initially your body will try to cover things as quickly as possible with more glycogen use and,
+ and potentially anaerobic use,
+ uh,
+ uh,
+ anaerobic metabolism as well,
+ but then we'll shift toward hopefully.
+ Yeah.
+ I mean,
+ if you're doing the right training,
+ it definitely will.
+ If you're doing not the right training,
+ it definitely won't.
+ Yeah.
+ All right.
+ Okay.
+ So check this out.
+ So we're still at 65.
+ So we're at 65% VO2 max,
+ um,
+ for this training.
+ If you're an individual looking at specific substrate use,
+ um,
+ plasma fatty acid use increases as the duration increases.
+ It's initially about 30%,
+ but at 120 minutes is more like 50%.
+ Nice.
+ That's good.
+ Yeah.
+ And this is cool because this tracks with the appearance of glycerol.
+ So as you exercise,
+ what seems to happen if you're well-trained and even if you're not well-trained,
+ you will actually stimulate more fatty acids to be used.
+ And as you become better and better trained,
+ you can actually transport these into your mitochondria,
+ into your cells and use them more.
+ Uh,
+ but this seems to be very much a product of training status more than anything
+ else.
+ One of the cool parts about this study,
+ I think,
+ is that they also measure,
+ um,
+ 85% VO2 max.
+ So they have 25%,
+ 65%,
+ 85%.
+ And in figure eight of this study,
+ which I'm looking at right now,
+ uh,
+ at 25%,
+ the amount of plasma-free fatty acids used,
+ um,
+ is actually almost the same as that 65%,
+ generally speaking,
+ uh,
+ on average for folks.
+ Um,
+ and basically what's happening is the fat use from 65% to 85% while reducing at 85%
+ because of mechanisms that we're going to get into later,
+ it looks like it wants to be the same.
+ So there's actually a range of fat,
+ fat use.
+ And in some of the studies that I looked at,
+ one of the things that they looked at was,
+ um,
+ plasma fatty acid use may actually not increase that much.
+ I mean,
+ we see it in this study,
+ um,
+ but in other studies,
+ it looks like that may not happen to some people.
+ And what happens is as you actually,
+ uh,
+ increase exercise intensity,
+ you start to use more of your muscle triglycerides.
+ Hmm.
+ And so that gets stacked on top.
+ And then,
+ you know,
+ as you are able to,
+ uh,
+ and then when the energy requirements,
+ uh,
+ start getting,
+ you know,
+ faster and faster,
+ and you cannot use fatty acids quite as much,
+ or as quickly as your energy demand is,
+ then you start digging into,
+ um,
+ your muscle glycogen stores.
+ But of course,
+ it doesn't mean that that's the only thing that determines glycolytic flux.
+ Yeah.
+ So that's,
+ that's interesting that you,
+ for this particular well-trained individual,
+ um,
+ you know,
+ their,
+ their body sort of peaked out at sort of a maximal contribution from fat metabolism.
+ And that sort of stayed the same with the 65% all the way up to sort of like 85%.
+ And then the body started filling in either with fat stores that were more locally available,
+ but also likely burning more sugar and carbs to,
+ uh,
+ to make up the increase intensity.
+ Um,
+ so this also kind of indicates that,
+ you know,
+ firstly,
+ whenever you're working,
+ you're never actually a hundred percent using,
+ you know,
+ um,
+ you know,
+ you're even,
+ even when we rephrase that,
+ that working even at aerobic intensities,
+ you,
+ you'll be burning this mixture of fat and carbs,
+ but also that your body kind of wants to use fat and then will,
+ you know,
+ you'll be burning this mixture of fat and carbs,
+ give a, will make up all the difference that it needs with the, with the glycogen burning.
+ And then as you train, you're not only training, say you're like, we've talked about stroke volume,
+ but in, in cardiovascular system wise, you're also actually training your cells and your,
+ you know, the individual mechanisms within your cells to be better at burning fat.
+ Yeah. And that's one of the things that happens over a very, very long period of time of lots
+ and lots of endurance training. And this is, you know, I think one of the things that, especially
+ high intensity training advocates, where, you know, if you look at, you know, yeah,
+ high intensity training can increase fat utilization to a point, but can you do that
+ all the time? I mean, um, you can, yeah, actually, this is one of the things that we're going to get
+ into a little bit with, um, with when we look at, uh,
+ different types of training in relation to metabolism, which we may or may not do in this
+ series. Um, but, uh, I, I think one of the other big picture things to look at here is if we look
+ at like this figure nine again here at 65, 65% VO2 max, what happens when plasma free fatty acids
+ get used as a higher and higher percentage of energy expenditure between an initial measurement,
+ which was at 15 minutes and last measurement at 120 minutes, this increases. And,
+ what decreases plasma glucose actually stays the same, uh, in terms of utilization muscle glycogen
+ use decreases muscle triacylglycerol use decreases. This is pretty cool, right? Because if we are
+ using a, uh, fats from elsewhere in the body that are much more plentiful, then we definitely
+ probably would want to keep even the fats in our own muscles as backup as like, you know,
+ like don't touch this if we don't have to kind of stuff like rainy day,
+ fun yeah. Like the, in case of star like break glass in case of starvation.
+ Yeah. Um, okay. So all this really shows that fat mobilization and transport is a slow and complex
+ process, but the body wants to do it and it wants to make the adaptations to improve this if it's
+ needed. And if given a stimulus, um, obviously the evolutionary reasoning here,
+ is pretty simple. So fats are a big energy store. Carbs are not, uh, you have to eat carbs to keep
+ them up and you can only re you know, again, the transport thing can only absorb them at such a
+ rate and then they can be used really quickly. So, um, so repeated aerobic stress, repeated
+ endurance rides, lots of volume, uh, and you know, even FTP training can have a big effect on this,
+ uh, especially extensive FTP training hint, hint.
+ Um, this kind of stuff tells your body you have a very high and consistent energy demand.
+ So it would make sense that it would shift to wanting to use a more sustainable energy source.
+ And this is, you know, as mentioned before, uh, what a lot of aerobic adaptations are directed at
+ more fat mobilization, um, potentially more sensitivity. Um, that's a dicey area right
+ now in the literature. So, uh, sorry if my phraseology is a little weird on that.
+ Um, more transporters and other things that support the transport that again, we will talk
+ about in their own episode actually very soon. So, um, all right, so we just covered a lot of ground.
+ Um, so very quickly, we're going to review what we just talked about. Um, and, uh, and I think if
+ we had initially started with all of this, you would have said, okay, that's cool. But I think,
+ you know, looking at the studies and understanding the methodologies behind them and some of the,
+ um, some of the nuances, um,
+ I think will really help everybody understand kind of what we're doing when we train,
+ uh, and kind of how a fatty acid, uh, metabolism, uh, well, you know, is, is limited by certain
+ factors. So the first thing that, you know, uh, that I mentioned was in the study that,
+ um, you know, secreting more, uh, you know, epinephrine through exercise training. Um,
+ you know, we can also see that that does not necessarily have any significant impact between
+ untrained individuals and their, um, and their adipose tissue ability to mobilize fatty acids.
+ I mean, this is potentially also wrong. Uh, there might be papers out there that I didn't find
+ that say that this is exactly what happens, but, um, but in the one study, you know, where the
+ trained and untrained individuals both increased, um, their lipolytic rate, uh, the same amount
+ because the glycerol is the same amount and the fatty acids for parents is the same. Um, remember
+ the trained individuals import and utilize fatty acids through exercise training. So, um, you know,
+ fertilization matched appearance rate while the untrained individuals plateaued at a certain point
+ and their free fatty acid efflux rose. So why do we actually secrete more epinephrine with training?
+ Well, there are other things in the body that we're not talking about here today that benefit
+ from this kind of thing. And you want to think about a constriction of blood vessels and return
+ to the heart and things like that. These are sympathetic nervous system type deals and
+ norepinephrine actually has a role in this. So that's one of the reasons that that happens
+ there. And it may actually not have a big impact on us mobilizing fatty acids. But regardless,
+ what definitely seems to happen is as we train aerobically, we are really improving our ability
+ to import fatty acids into our muscle cells and also import them into our mitochondria. Because
+ like we said, there's a lot of transport steps. There's a lot of walls.
+ And climb over or go through or whatever you want to metaphorize that as. And so as we train,
+ what happens is, or actually as we increase our exercise intensity, even as we are well-trained,
+ what looks like happens is our ability to import fatty acids and therefore oxidize them and use
+ them for energy actually hits a limit or it seems to. And so one of the things that we can think
+ about with really, really good training is that we can actually increase our exercise intensity.
+ And so one of the things that we can think about with really, really good training is that we can
+ really excellent world tour endurance athletes is that they have a much better ability than the
+ rest of us to import and use fatty acids. That's why they have such good endurance.
+ And when the rest of us hit a certain point, obviously, our fatty acid oxidation capacity
+ is limited by the ability to transport it apparently into cells.
+ When we are exercising and the exercise intensity increases, when we can no longer
+ use our fatty acids that we are importing from our plentiful adipose tissue, we are going to
+ use intramuscular triglycerides and we are also going to start to use glycogen. And we talked
+ about plasma glucose, very, very small fraction, about 5% at that low intensity, maybe a little
+ less. So not a big factor there, but that's the summary up to now. But now I actually have a
+ personal theory on this. And Kyle, before we started recording, I told you that I was really
+ excited for this. So this is the part that I'm going to talk about. So I'm going to talk about
+ that I'm really excited for. So check this out. My personal theory on why increasing mitochondrial
+ mass is a big aerobic adaptation, because we've talked about before how you can't really max out
+ your electron transport chain for aerobic energy production in your mitochondria, right? So O2
+ availability is the big limiter here, and that's why blood doping is so effective. So
+ why do we bother increasing mitochondrial mass?
+ To increase the utilization of all of this free-floating fat better if you have more places to
+ use it. Exactly. Because as mitochondrial mass increases, what's the ratio of the, you know,
+ you get a lot more surface area as they grow and as they multiply. So mitochondria get bigger,
+ mitochondria get more numerous, and you have a lot more surface area on which to, or through which to
+ transport fatty acids and use them. And this also means that as you get more mitochondria, you also
+ end up with more enzymes that actually break down fatty acids, like we talked about in the last
+ episode. Yeah. It's a, it's like a parallelization thing, right? You all of a sudden you've added
+ 10 more toll booths at the stupid bridge or whatever, and now you can get, you know, more cars
+ through instead of funneling all of them through the one easy pass lane. Yeah. And no matter how
+ many lanes you add to the highway, there's always a traffic jam anyway. Yeah. But it helps a little
+ bit, maybe. I'm not a city planner. I'm, I'm sure the people I know are going to talk to me after
+ this episode. Um, but, um, yeah, but it's, this is why I think this happens. And,
+ there is actually some evidence for this. This is actually what made me think of this theory.
+ If you look at studies that plot VO2 max versus mitochondrial oxidative capacity,
+ which is the activity of the key enzymes, um, you're going to see a very high correlation,
+ which is usually over 0.8. And depending on how many other factors get mitigated,
+ like active muscle mass, among other things, it can actually go up to 0.9 or higher.
+ You know, interestingly, this is actually one of the points of evidence,
+ where people who, um, who just look at, you know, just a graph like this and they say,
+ oh, wow. So as VO2 max goes up, um, you know, this is very tightly correlated with mitochondrial
+ density and oxidative capacity. Therefore, uh, they assume a causal relationship. Um, but this
+ is actually not the case. Or every time there was like a plasma volume expansion study that increases
+ VO2 max in people, um, the, uh, they wouldn't actually see it until they did some training and
+ they would see it in the mitochondrial density and capacity. So, um, that's pretty good. And this is one of those things where like, yes, there is some up and down. Um, you know, if, if we look at individuals, yeah, we can definitely find two people with the same VO2 max who have, you know, quite different, uh, mitochondrial, um, densities and oxidative capacities in their active, uh, muscle mass. Um, but if we look at this across species, for instance, uh, we actually see an extremely tight correlation
+ between, uh, species VO2 max and mitochondria, uh, density. Uh, I have a plot up. Um, I'm actually going to make this the cover art for this episode. So check out the cover art if you can. Um, I'll put a link up to this paper also in the show notes. The different relationship of VO2 to muscle mitochondria in humans and quadrupedal animals. So it basically has like at the bottom, goat, steer, guinea pig, human, uh, so, uh,
+ On average, about 50 VO2 max for all of these. Uh, we know it can go up and down. Um, but the, uh, agouti is right on the line. Horse and dog are more or less right on the line. They're at 150 VO2 max. Fox is like 225. Wood mouse is at like 275.
+ That's impressive. But consider their body weights are very small.
+ Yeah. Yeah. Which as you get smaller, you actually, you know, increase your VO2 max because you have so much less.
+ Area to, to service. Um, and you can actually have a larger heart relative to your, you know, blah, blah, blah. The usual stuff that we, that you would expect for that kind of stuff. Um, but you know, the VO2 max and, um, mitochondrial volume is, they're highly related in this way. Uh, and that's why I think that if you increase your VO2 max and then you do a lot of endurance training or you do a lot of endurance training and you increase your VO2 max, who knows chicken and egg thing. Although the egg bite, uh,
+ Um, but you know, in a very practical sense, uh, I think it's makes a lot of sense. Um, because when you have a higher VO2 max, your threshold gets higher and you can maintain higher submaximal oxygen delivery with your muscles. And if they need to adapt to higher submaximal workloads in a sustainable manner, therefore they need to adapt to higher fat oxidation rates. And therefore,
+ you need to have more surface area to transport fats and you need to have, uh, all of the whole list down. So I hope that makes sense. I hope I'm right. Does it matter at all? Not really. Um, we know it happens. We just want to figure out why. Yeah, actually a lot of science. It matters a little bit. Um, cause I think it says, uh, if, you know, if this theory is correct, I think it says that you only have so much that you can max out your, um,
+ Um, your muscle mitochondria when your VO2 max is only so high, but relative to where you are, you can maintain, you can, uh, you know, have the same amount of fat usage compared to somebody with a much higher or much lower VO2 max. It's all relative. So does it all matter really that much? Probably not. Um, but again, this is one of those things about generalized aerobic adaptations that are so important. Um, it's, you know, when you have a lot more aerobic signaling,
+ you're going to increase all this stuff and you can use more fatty acids. It's a big, big, uh, big, big thing. And we're going to talk about the training of this kind of thing, um, after this series. So, um, cause these episodes are getting long as it is. So, um, so let's, uh, Kyle, let's have some big picture thoughts. Do you have any to start us off?
+ Okay. So, um, so we've talked about, uh, the experience in training that probably burning fat is better for not bonking and blowing up and surviving to the end of long rides and races. Um, and now we can kind of see, uh, that the reason that maybe getting better at burning fat takes a long time is because it's a fairly complex process and you need a lot of like stimulus to get that going and sitting on the couch and eating donuts isn't providing the right stimulus as much as it is.
+ I want it to be, cause that'd be awesome. But you're just getting better at burning carbs than if you're just going to sit there and inhale carbs all the time. Um, and also we can see that like, like that there's that.
+ Wait, hold on. You said you're going to get better at burning carbs. If you just sit around burning car, eating carbs all the time. I mean, if you're not doing any endurance training, yes, that's true. That's what I mean. If you're just sitting on the couch, um, which has the opposite effect of what's probably useful for most people.
+ Yeah. Um, but yeah, so the, there's, you know, and we kind of mentioned a little bit, there's, there's going to be, uh, uh, some, some role that diet plays in this and we can talk about that later. But, um, it, you know, it's not just one thing that you have to worry about when you want to get better at being a good fat user. And another, another thing is, you know, this would be another, uh, piece of evidence to support that. Yes. Even for like,
+ long road races, warming up, it's still a good idea, even though for a long time, there was this belief that all for long road races and things, you don't actually have to warm up. But if you're going to be like this person in that study earlier, and at 65% of VO two max in the, if you haven't warmed up at all, you're still going to be blowing through glycogen in the beginning. Um, yeah. And that's why I tell people to always start with everything easier than you need to, because until all this, um, all, you know, all this fat transport mobilization signaling really takes hold.
+ You are relying more on muscle glycogen. And this is why, uh, I think this is why that a lot of people negative split successfully with endurance riding. I negative split a lot of endurance rides because especially if you start tired and your body's like, oh, I don't want to mobilize fats today.
+ And you start riding and it takes a little while for your nervous system to kind of switch over because you're tired and it wants to rest and digest, uh, or potentially you're even starting out with low glycogen reserves.
+ Um, so you don't actually have much to burn here and then you start riding a little bit. And if you try to hit a specific power target to start, then you are going to be digging into muscle glycogen stores and you're just going to make it worse.
+ Um, so this is one of the reasons that I've always been telling people, um, start easier with your endurance rides and everything like that. So, um, but yeah, also for races, what if your friend attacks from the gun? I know five guys who did this at every single practice crit without fail. And it's like, you better warm up.
+ Cause Mike's showing up. It's like, oh, Mike's going to, yeah. Okay. Yeah. This is going to be fun, but you had to be ready for it. And if you weren't warmed up, you would start digging a hole right away and you would dig the hole anyway, but you'd be a little better prepared. Um, so here's another thing. Um, TTE at FTP is another thing. So I know some people don't like this as much as I do. I know, I know there, well, I know there's a lot of coaches out there who agree with me on this, but I know there's some who don't.
+ Who's training philosophy is just raise your FTP and you can hold everything under your FTP longer. This is true. However, raising your FTP takes a long time and a lot of work while you're at it. A great way to improve your racing and endurance is to increase your TTE at FTP because this indicates how much fat you are using. So, I mean, it's also like, you know, extensive FTP training is if you can
+ raise your FTP like this, also going to raise your FTP. So they're not like opposing things here. I had a couple athletes just about double their TTE from about 40, 45 minutes to like 75, 80 minutes, um, after a particularly good block of low intensity, high volume training. So this was, uh, this was unusual at the time. And I thought, why did this
+ happen? Then I realized, all right, they're mobilizing and using way more fatty acids. Um, and, uh, you know, a lot of people who are having trouble raising their FTP, uh, actually just had somebody email me the other day, like, Hey, I've, you know, I've increased my TTE. I've, uh, I'm, I'm now able to, you know, ride longer. I've got way better endurance. Uh, I can do over, you know, over-unders helped a lot. Uh, I can recover from hard efforts. And, um, even though my FTP hasn't really gone up, I'm raising a lot better. I'm training a lot better.
+ Um, so this is a big one here. So that's what, that's part of my big training philosophy, like, you know, informed by physiology. So we're, what's all starting to make sense now, I hope. All right. So I think the last big picture point that we have here that I have anyway, we'll see if Kyle agrees with me on this, um, is that the body doesn't ever exist in one of two states. Um, but this also goes for the body also doesn't ever exist in a steady state.
+ Hmm. So, uh, I think we're going to get into some kind of heady stuff with this concept in a little while, especially in terms of carbohydrate and fat co-regulation, like what substrate are you using when and how do they interact with each other? I think this is actually a really important thing to think about. Um, are the gains with this kind of stuff marginal? Possibly. Um, but there are some very interesting implications.
+ on, uh, on training and such, uh, and some interesting things that people have found. And there are also very interesting, um, biochemical mechanisms while they're interesting to me anyway. And I think actually as the last note, I know some people out there know a lot of physiology and some of you probably a lot more than me, which is kind of awesome. Um, you're probably thinking that the effect of catecholamines has on skeletal muscle. Cause what is this effect? It actually signals to increase the amount of fat in the body.
+ It actually signals to increase glucose utilization, right? So how are I, how are we actually still burning all these fats if we are increasing catecholamines? Um, that is an answer to be continued in this series much later. So sorry, cliffhanger.
+ Um, stay tuned. Same bat time, same bat channel, same bad time, bad channel. Um, actually, so actually you don't, you don't have to wait for that stuff. Uh, next episode, we are going to be shifting gears a bit and we're going to talk about glycolysis.
+ And the breakdown of carbohydrates and glycogen. And then we are going to actually right there, we're going to tie fats and carbs together, uh, with, uh, the Krebs cycle and co-regulation. And then we actually get to find out what aerobic really, really means. So are we excited? I'm excited.
+ Donuts are usually how I like to tie fats and carbs together, but you know, it's fine. You can do it with the Krebs cycle.
+ I want cheesecake.
+ Yeah.
+ All right, everybody.
+ Thank you so much for listening to this episode.
+ Thanks for sticking with us.
+ And, uh, thanks for subscribing.
+ Thanks for sharing the podcast with your friends.
+ It really helps us out.
+ And also thank you for your donations.
+ Everybody has been very generous, um, especially at the end of 2020.
+ We really appreciate that.
+ Uh, that was great for everybody.
+ Uh, thank you so much.
+ Yeah, you can do so, uh, you can donate at empiricalcycling.com slash donates.
+ And, uh, we have merch up at empiricalcyclingpodcast.throwless.com.
+ And if you have any coaching or consultation inquiries, questions, or comments, you can email me directly at, uh, empiricalcycling at gmail.com.
+ And don't forget weekend AMAs and Instagram stories.
+ This weekend was a lot of fun.
+ We just finished that one.
+ So, uh, thanks everybody for that.
+ And, um, with that, we will all, we will see you all next time.
+ Thanks everyone.

@@ -1,0 +1,351 @@
+ welcome to the empirical cycling podcast i'm your host coley moore joined as always by my
+ co-host kyle helson and i want to thank everybody for listening and ask you to please subscribe to
+ the podcast if you have not yet already and if you would be so kind as to give us an itunes rating
+ and a review we love those that's really help us and most importantly share it with a friend
+ or another cyclist who uh who really wants to understand the kind of things that we're talking
+ about and improve their training as well and we are an ad-free podcast so if you want to make a
+ donation we would appreciate that as well you could do so at empiricalcycling.com donate we've
+ got the show notes up on the website and for all coaching and consultation inquiries questions and
+ comments you can please send an email to empiricalcycling at gmail.com we also have some
+ podcast merchandise up at empiricalcyclingpodcast.threadless.com the link is also up on the
+ website under the podcast episodes so we have been listening to a couple podcasts uh me specifically
+ i've been listening to
+ podcasts that are discussing lactate you know one of the things about lactate is that people
+ a lot of the time don't understand where it comes from or where it goes or why it's around in the
+ first place and so we're going to start to answer those questions with uh really basic enzyme
+ kinetics and we're going to start with why is lactate around why do we make it and so i'm going
+ to try to give you guys a really good understanding of the dynamics that actually happen in a cell
+ um as opposed to what you might hear on other podcasts and i'm not going to name any names
+ well i might we'll see where this goes um so this episode is also uh inspired by my
+ biochem professor hans kornberg and if you uh want to look him up he has a pretty impressive
+ cv as opposed to somebody like me um and he passed away last year but he was a very big
+ influence on my development as a scientist and he really drove home looking at the basics
+ uh every single time i asked him a really dumb question and uh and he was great at instilling
+ this kind of thing so that's why we're going to take a very basic look at lactate formation
+ yeah so he was a lab tech for uh krebs that's kind of cool yeah he actually uh published work
+ with uh hans krebs so yeah he's uh he was you know along for the ride for and part of the you
+ know revolution of um you know metabolism uh and our understanding of it so i'm going to start
+ so kyle tell me about your impressions of lactate in the popular media we kind of did this already
+ with um with the uh lactate myths and truths episode which i believe was watt stock number six
+ um but we're going to talk a little more about uh creation information and other stuff like that
+ yeah i think as we talked about before it has this reputation of being like a waste product
+ within the uh the cells and that you're you're going to sit there and you're working hard to
+ and all of a sudden once you know the lack the quote lactate starts to build up then your
+ your legs start to seize and if they feel painful and anyone who's ever listened to uh phil liggett
+ or paul sherwin call a race has certainly heard them talk about you know bathing in lactate and
+ being in great pain and all this stuff um and i think it it definitely is a piece of exercise like
+ popular culture
+ at this point that that lactate or lactic acid is um this boogeyman yeah and it really doesn't
+ cause fatigue uh we discussed that we actually discussed the uh the history of lactate uh and
+ kind of its discovery and why and how a lot of uh its reputation came to be through looking at the
+ experiments and uh and the research that was done in order to uh come up with those conclusions
+ which you know at the time were wrong and that's
+ that's okay one of the beautiful things about science is that when you have new data you change
+ your mind and so today for uh for our discussion um you know for the most part what we're going to
+ talk about we can think about as happening in all cells um and we're also going to talk about
+ muscles and exercise in particular as well so today we're going to start with an in-depth
+ discussion of the same thing that i started learning about on my first day of class learning
+ metabolism from hans kornberg
+ may he rest so we're going to talk about glucose glucose is a six carbon molecule
+ and is a carbohydrate which means it's made of carbon oxygen and hydrogen where oxygen and
+ hydrogen are what constitute water but this doesn't mean it's a one-to-one ratio of carbon
+ atoms to water molecules does not mean that the breakdown of glucose is called glycolysis
+ glyco meaning sugar or carbohydrate and lysis meaning breakdown and
+ the end of glycolysis glucose has become two pyruvate each of which has three carbons from
+ glucose's six carbons so we hear a lot about pyruvate in general when discussing metabolism
+ and lactate because pyruvate has two fates fate number one is pyruvate gets brought into the
+ mitochondria and it gets turned into carbon dioxide and acetyl coenzyme a and that is the
+ fact number two is that it's not brought into the mitochondria it's turned into lactate and then
+ well we'll discuss what happens to it at another time um after it becomes lactate we're going to
+ talk a little bit about it but uh that's another episode in and of itself maybe even two um so how
+ does the choice get made of what happens to pyruvate the old old old way which is the wrong
+ i would say the wrongest way
+ is lactate is made under anaerobic conditions so when a cell uses its entire supply of oxygen
+ mitochondria can no longer function i guess i'm not sure because it's it's wrong so i can't follow
+ the logic chain um so pyruvate backs up and then there's pyruvate in the cell so then it becomes
+ lactate um i think that's the common way people are and i'm like oh yeah this is what happens
+ when you're working really hard and your your your body can't can't handle it and so you start
+ uh you start making lactic acid well the semi-correct way to think about it is that lactate
+ gets made when um pyruvate dehydrogenase in the mitochondria is working near the top of its
+ velocity curve we'll talk about that a little bit um so pyruvate is produced faster than it's oxidized
+ backs up and therefore there's a pyruvate backup and this creates a pyruvate pool in the cytosol
+ which leads to uh the
+ backup of pyruvate and then lactate and so if you want to think about how this works um if you want
+ to look at uh the first uh podcast note we have up it's going to be a graph of michaelis menten
+ kinetics um don't worry about the name but this is uh basically a graph of how fast enzymes are
+ working versus uh the concentration of its substrate the thing that it's using
+ and also skip over the next 30 seconds uh if you want to uh skip the really nerding out part uh but
+ when you look at that graph you're going to see uh two things besides uh concentration and velocity
+ you're going to see vmax which is the maximal catalytic rate of an enzyme and we didn't fill
+ that out because different enzymes get different things and it depends on the substrate obviously
+ but the other thing is the km and the km is the enzyme concentration rate of the enzyme concentration
+ when the enzyme is operating at 50 of the maximal enzyme velocity and this is actually a measure of
+ specificity of the enzyme for a substrate so the numbers that i saw for uh lactate in humans i
+ didn't find any numbers for skeletal muscle but i did find a couple for cancer tissues and other
+ different tissues like testes and liver but across the board from the numbers that i saw the km for
+ lactate in humans i found that the km for lactate is lower than for lactate with ldh that means that
+ lactate dehydrogenase would rather interact with pyruvate than lactate this is what we're going to
+ talk about mostly today is understanding the production of lactate from understanding enzyme
+ kinetics this will allow us to understand the correct way of why lactate gets made at rest
+ during exercise always so
+ that's the correct way lactate is always made i think this kind of makes sense if you imagine that
+ in a cell there isn't this like switch that can just all of a sudden just oh we're going to start
+ making lactate we've hit this like point that like because pyruvate can be directly converted
+ into lactate that if pyruvate is around some percentage it might not be a large percentage
+ but some percentage is going to be turned into lactate yeah um a larger percentage than you might
+ think we're going to talk
+ about that in another episode okay so let's think about uh why uh this is true and how it happens
+ so we need to understand what enzymes are what they do and why and this is going to explain a
+ ton i promise enzymes are proteins and proteins are the same thing that make up your muscles make
+ up a lot of you know what constitutes your body and what enzymes do is they make chemical reactions
+ easier they don't make things happen that wouldn't spontaneously happen but
+ they make chemical reactions easier they don't make things happen that wouldn't spontaneously
+ happen but they make them easier so they only help reactions that would happen spontaneously
+ anyway and this is called catalysis enzymes catalyze reactions some of you are familiar
+ maybe with a catalytic converter in your car it is typically a rare metal like platinum or palladium
+ and it helps convert unburned fuel into carbon dioxide and water right yeah and that's a that's
+ a catalytic reaction and that's why we're talking about catalysis because it's a catalytic reaction
+ um so in technical terms what enzyme catalysis does is it lowers the energy of activation
+ so in simple terms um we can think about it like rolling a bowling ball over a hill you need a
+ strong roll you need a lot of energy to get the bowling ball over a tall hill but what an enzyme
+ does is it lowers the height of the hill so if we want to think about what's happening in uh in a
+ cell we can think about what's happening in a cell and we can think about what's happening in a cell
+ we can think about an enzyme sitting around and we can think about the cell um you know the cell
+ soup i guess as it's it's really thick it's like a syrup almost um and so molecules move around
+ in the solution based on diffusion and they have varying degrees of temperature and disorder
+ enthalpy and entropy and this is what gives them their energy and so in the solution the uh you
+ as kinetic energy, meaning that molecules have on average the temperature that we measure,
+ but individually some will be moving much faster and some will be moving much slower,
+ and most will be kind of around the middle. Typically they'd follow like a Gaussian-ish
+ distribution. A bell curve. Yeah. Basically what happens is when there's a high activation energy
+ or a big hill for a reaction to happen and get started, not a lot of molecules in a cell will
+ have the necessary energy for this to happen, and it means it won't happen quite that often.
+ But when you lower the activation energy or you lower the height of the hill, the molecules
+ are going to be able to roll over it easier, which means more molecules can actually participate in
+ this reaction. So an enzyme's specific role in the catalysis is lowering the hill inside what's
+ called an active site.
+ This is where the magic happens in an enzyme. When a chemical reaction happens, it occupies
+ what's called a transition state, which is a chemically and energetically precarious place
+ that does not last for long. And the active site has chemicals in it at very precise locations to
+ help stabilize a precarious state that the transition state is. You can think about it like
+ riding rollers in a narrow hallway. When you kind of start to...
+ fall one direction, you can put out a hand and catch yourself on the wall. But if you're in a field,
+ you don't have anywhere to fall down, so you might be able to keep yourself in balance. You might be
+ able to complete the reaction, but there's also a good chance that it just falls right back down
+ and nothing happens. That'd be you falling off the rollers. So an enzyme active site is kind of
+ like putting up places for you to keep your balance. And they do this, you know, in, you know,
+ very normal chemical... I'll delete that part. As I say, in the normal way, you know, organic
+ chemistry works. And the way that everyone's taken organic chemistry. Yes. So all of this is why an
+ enzyme doesn't catalyze reactions that won't happen already spontaneously. Enzymes don't add
+ any energy themselves. They just lower the energy required for a reaction to happen. So with this
+ understanding, let's focus on LDH, lactate dehydrogenase. Or, in fact, it might be better
+ known as pyruvate hydrogenase. This is the reverse reaction. We're going to see why that is in a
+ second. So the reaction LDH catalyzes is pyruvate plus NADH yields lactate plus NAD. And all we're
+ really doing is we're moving an electron and a proton off of NAD and putting it onto
+ pyruvate, which turns it into lactate. If you'll remember in the ATP 10-Minute Tips episode, when we
+ discussed equilibrium, we're going to think about that again right now. So the equilibrium between
+ lactate and pyruvate is way in favor of lactate. And this doesn't change. The enzyme doesn't have
+ a brain. It can't decide to do the reverse reaction. So when we make pyruvate, a very large
+ percentage of it actually becomes lactate. So when we make pyruvate, a very large percentage of it
+ because lactate dehydrogenase is around. And in cells, LDH acts very quickly. Not the fastest
+ enzyme out there, but according to the research that I've seen, lactate and pyruvate are nearly
+ always in equilibrium already. And in normal resting conditions, an average cell will have
+ around one millimolar lactate, but 0.1 millimolar pyruvate. So that's at rest. You've got a
+ normal 10 to 1 ratio of lactate to pyruvate. Wow, that's actually quite a lot.
+ Yeah. And during exercise, the measurements that I've seen in the literature get bigger. 500 to 1 or more
+ lactate to pyruvate ratio. And this is equilibrium. And so if you want to think about it in terms of
+ equilibrium constant or the product of products divided by the product of the reactants, which means the
+ lactate times NAD, the concentration. So it would be like normal. It would be like one millimolar times
+ whatever the NAD concentration is divided by the pyruvate concentration times the NADH concentration.
+ So this is 1.62 times 10 to the 11. Wow. Yes. It's just a big number. It's a very large number.
+ And I haven't seen all of the research, but George Brooks has. And according to George Brooks,
+ there is no evidence for lactate ever turning back to pyruvate in the main body of the cell,
+ in the cytosol. So we're going to talk about the implications of that in another episode. And there
+ are many implications of that. But for now, this is why we can think about LDH might better be known
+ as pyruvate hydrogenase because in the cytosol, it's only going in one direction. Elsewhere-
+ Perentially once.
+ Yeah. Elsewhere, it'll go the other direction. We'll talk about that another time.
+ But in the cytosol, you might think about it just like that. So if you want to bring this back to
+ the Michaelis-Menten kinetics curve that you were looking at in the show notes,
+ we can think of the main regulatory mechanism of LDH controlling the flux of pyruvate to lactate.
+ It's actually just the production of pyruvate because as there's
+ more pyruvate, the reaction speed is going to increase. And as the pyruvate concentration
+ decreases, the reaction speed is going to decrease. It's all right there in that kinetics curve. There
+ are a lot of implications of that, that we're going to get into a little bit later in this
+ episode. Don't worry. It's not another episode. It's this one. All right. So now let's look at
+ that reaction again. Pyruvate and NADH yields lactate and NAD. I'm just going to give you a
+ little bit more time to think about that. And this reaction, it's about to get a little more
+ complicated. Now we need to start thinking about NAD because pyruvate and lactate are what's called
+ redox coupled, meaning that they're swapping protons and electrons. So these protons being
+ hydrogen ions. So the normal role of NADH is to bring electrons and protons to the mitochondria
+ to drive aerobic respiration. So NADH comes from the Krebs cycle, but it also comes from glycolysis.
+ And NAD is necessary for glycolysis to occur. So since NAD is necessary for glycolysis to occur
+ by becoming NADH, so what happens if we run out of NAD? No more glycolysis.
+ Then you can't go, yeah. Yeah. And this would probably happen in less than a second
+ under extreme demand. So NAD, NADH is what's known as a reducing equivalent. So basically,
+ instead of having to move an intermediate step of glycolysis to the mitochondria,
+ that would be glyceraldehyde 3-phosphate. So instead of moving that to the mitochondria
+ and plucking off a couple of protons and electrons, and then pushing it back out into the
+ cytosol, and then back into the glycolysis chain, which would take a lot of time, instead we just
+ turn NAD to NADH. Because lactate generation is driven by glycolysis from the immediate demand
+ for energy. We've talked about this a couple of times in a couple episodes so far. So if it were
+ not for the creation of lactate and the regeneration of NAD from NADH, anytime you had to
+ accelerate or sprint or do anything before your aerobic system has fully opened up or anything
+ beyond the capability of your aerobic system, you're just going to fall over.
+ Yeah. You have no way of immediately generating additional ATP. You just fall over. You're just
+ like a sloth. You're just like... Yeah, exactly. Yeah, the string goes out of your back and you're
+ just on the ground. You're like a marionette with nobody holding you up. So it would make
+ no sense whatsoever for most cells to have a regulatory system in place to modify the
+ LDH or to move glyceraldehyde 3-phosphate into the mitochondria for this redox reaction. So it
+ uses the intermediate. And so basically what this means is, you know, because regulation and
+ feedback in the body take time and signals are just chemicals that have to diffuse through
+ solution, glycolysis and phosphocreatine are systems that respond to immediate demands. And taking time
+ is the antithesis of what these energy systems are about. And so evolution has found this incredible
+ way to be very efficient. Right. Yeah. And if you think about it, it makes you much more likely to
+ survive if you have multiple ways of generating ATP or energy than just one. All right. So I'm
+ sure some people are thinking, why wouldn't you want to keep that NADH if you can oxidize it in
+ the mitochondria eventually? Why would you make lactate instead? And that's a question that we're
+ going to answer another time when we talk about what happens to lactate. So this brings us to
+ the real reason lactate gets made. Yeah. So the real reason lactate gets made is because we have
+ these immediate energy demands and, you know, we cannot always work fully aerobically or we would
+ be sloths. So some of this lactate actually makes it to your bloodstream, but definitely not all.
+ And that's for another episode.
+ So the other very famous organ that really, really likes to burn glucose and sugar is your brain,
+ which is usually rather important for some people that their brain works. Although not all,
+ apparently. These are not just muscle cells that are requiring this supply of energy. It's all of
+ your cells throughout your whole body. Like your skin is constantly slowly working to make new skin
+ cells and your organs are slowly working to make new skin cells. So it's a really, really important
+ thing to keep in mind. And I think that's a really, really important thing to keep in mind. So I think
+ that's a really, really important thing to keep in mind. So I think that's a really, really important thing
+ to keep in mind. So I think that's a really, really important thing to keep in mind. So I think that's
+ are always going through some sort of maintenance and or regeneration. Yeah. And not only that,
+ just the breakdown, the chemical natural breakdown of things in your body happens all the time.
+ Molecules kind of and proteins and stuff like that can shake themselves apart just by existing.
+ Yeah. So, so basically like anywhere in your body can have a rapid demand for energy.
+ Not all chemical processes are slow and thinking apparently takes a lot of rapid energy demands.
+ Uh, which is probably why the brain likes a lot of glucose and the same thing happens
+ elsewhere in your body when there's a fast demand for energy. Well, so the other reason
+ that, uh, you know, besides immediate energy that glycolysis exists, uh, I was just getting to is
+ that carbohydrates can be oxidized aerobically as well and are, uh, a generally preferred energy
+ source when available. This happens when pyruvate or lactate is oxidized, which in most cases will
+ happen in the cell that it's made in. Um, you know, side note, our body will shift fuel preference
+ based on diet. So don't email me about that. I know. Oh, so production of lactate also makes
+ sure that in tissues that are not oxidizing as much fat for whatever reason, glycolysis can
+ continue to provide that main energy source besides, uh, because NAD is kept available.
+ So really there's always glycolysis happening in your body and that means lactate is always being
+ made. Um, and I should note that glycolysis is always being made. Um, and I should note that
+ as a quick aside right now, that lactate is not actually a waste product. There's energy in
+ lactate lactate. So remember we said glucose, for example, is a six carbon molecule lactate or
+ lactic acid. However, when I think about it as a, as a three carbon molecule still, so there are
+ still some bonds in there that can be broken and yield more energy, just like you can break down
+ the bonds in glucose and yield more energy. And eventually you're going to make carbon dioxide
+ Yeah. And that's the main end of metabolism in almost all cases. I mean, you might say, uh,
+ you know, cause, cause the old way to think about it was that you make lactate and your liver will,
+ cause you're the old way to think about it is that you make lactate,
+ it gets in your bloodstream, then your liver via the Cori cycle will convert it back to, uh,
+ to glucose or glycogen for itself. And then it'll just send the glucose back out into the bloodstream.
+ Here, we fixed it. Try it again. Pyruvate, respiration, not lactate. Yeah. That was the
+ old way to think about it. So what about the presence of oxygen? Now in the podcast I was
+ listening to that was talking about this, um, the guy who mentioned presence of oxygen was a bit
+ surprised about a cell still making lactate in the presence of oxygen, because at least in cancer
+ cells, this is known as the Warburg effect where the tissue is still heavily oxygenated, but will
+ make a lot of lactate. And the presence of oxygen is a question that is very old. So nowhere in the
+ production of lactate did we see oxygen, but it's in the tissue. Oxygen actually diffuses into the
+ mitochondria and along the way does nothing to stop lactate production. They don't interact at
+ all. All right. So what about in really extreme conditions though, even then? All right. So let's
+ check this out. So in a normal cell, the partial oxygen pressure of 40 tor partial pressure, by the
+ way, is the pressure that a gas would exert on the, um, on its container. If that were the only
+ gas in the container of the same size that it's in. So at normal O2 pressure of 40 tor lactate is
+ a very large amount of oxygen. So at normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at
+ normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at normal O2 pressure of 40 tor lactate is
+ a very large amount of oxygen. So at normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at
+ normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at normal O2 pressure of 40 tor lactate is
+ a very large amount of oxygen. So at normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at
+ normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at
+ normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at
+ normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at normal O2 pressure of 40 tor lactate is a very large amount of oxygen. So at
+ lactate only occurs under no oxygen conditions is not really a thing unless something else has
+ gone horribly wrong. So having said that, there are other things necessary for survival that
+ require glycolytic flux or transport of things through glycolysis. This is what I was talking
+ about with the waterfall thing. So if you want to think about glycolysis, this is a little getting
+ ahead of ourselves, but it might be interesting for those of you listening right now who are still
+ with us, thank you. There are a couple regulatory steps in most living systems, and glycolysis is
+ definitely one of these, where you can change the regulation of it and that'll increase an enzyme
+ activity or decrease it. And in the middle, most things in metabolism are actually in equilibrium.
+ And so it's very efficient to turn
+ on
+ a hose on one section and the water, or rather the glucose from glucose or glycogen, is going to rush
+ through the quote-unquote hose of glycolysis. And when you turn it off, the water that's there
+ just sits there. You've just got these existing pools of substrates, kind of like the way oxygen
+ passively diffuses through our cell membranes and down into the mitochondria.
+ Imagine your body, this is a little strange, but we'll go with it. Imagine your body is like
+ the pyramid of champagne glasses. And you've probably seen at least a picture of one of
+ these or something like that, where you pour champagne at the top and it overflows the one
+ cup and then pyramids its way down to like a bunch of glasses. But this in your body would
+ be the situation where your body is sitting there, no champagne is being added in the top,
+ and none is being drained.
+ It's drained out of the bottom, and it's sitting there with a little bit in each cup. And then
+ when you have this demand for...
+ When you have this demand for champagne from the bottom glasses.
+ Champagne.
+ Yeah. When people start drinking champagne out of the bottom glasses, which is your body needing
+ to actually like do something.
+ Like get drunk.
+ Yeah. Then more champagne is poured into the top, and the champagne that was in the top glass
+ gets pushed out and flows down and down and down and down and down and down,
+ fuses down and fills up the glasses at the bottom.
+ Yeah. It's like a bartender just standing there with an infinite bottle or a bottle the size of
+ your glycogen stores. And every time there's a loss of champagne on the bottom glasses,
+ he's going to pour some more at the top. And all of the glasses going down the waterfall,
+ of course, they're all not... It doesn't look like this in terms of substrate pools, but you
+ can think about this in terms of the first glass is the first step, and that substrate pool is just
+ going to sit there passively, somewhat passively, until the glasses at the bottom get emptied. Then
+ it's going to start to empty out into the next level. So having said all that, there are other
+ things necessary for cell survival that require glycolytic flux. So this is just off the top of
+ my head. These are the pathways that I know about that work off of glycolysis intermediates. So we
+ have the pentose phytocephalus, and then we have the pentose phytocephalus, and then we have the
+ phosphate pathway, which produces ribose, which is the backbone for DNA and RNA, and also NADPH,
+ by the way, or NADH. Glycerol synthesis, so making glycerol for fatty acid molecules, hexosamines,
+ serine, glycine, and one-carbon metabolisms, and I'm probably forgetting a couple. So these side
+ pathways, we also cannot just turn on, and glycolysis is going to send everything to kind of
+ one spot. It's...
+ It's kind of like the champagne glass metaphor. It's like one pathway will drain things from the
+ fourth level of champagne glasses, and then it'll fill in from the top to that to top up all these
+ substrate pools, or six levels down or 10 levels down, a pathway will draw off of that, and you'll
+ fill it back up from the top. So there are other demands on glycolysis that are not just exercise.
+ So it's in these side pathways that kind of make, you know, glycolysis difficult to regulate at each
+ single little step. So the regulation gets done at nodes in the pathway. So if you want to look
+ at how complex metabolism is, I provided a link in the show notes. Kyle knows exactly what this
+ link is. This is one of my favorite things to kind of stare at when I have a conversation with you.
+ A couple minutes of downtime.
+ Minutes.
+ Well, it's because I usually have a place where I go, I wonder where else this substrate goes,
+ and I go look at it, and then I go, wow. So you can actually turn it on and off in terms of,
+ it's kind of interactive. I like it. You can turn it on and off the plant pathways,
+ the bacteria pathways. A lot of the stuff is common with all life.
+ And when you're going through it, all I have to say is,
+ good luck. And so the last thing to consider about a lot of metabolic pathways,
+ besides the key points of regulation, is that, like we were just saying,
+ in between these regulatory sections, regulatory nodes, things are more or less in equilibrium,
+ like pyruvate and lactate. This necessarily, of course, doesn't mean one-to-one ratios,
+ but it does mean that the pathway has pools of intermediate chemicals,
+ and that these can be drawn on for other pathways.
+ It turns out that lactate is important in more than just this old view of, oh, it's a waste product,
+ right? As soon as you label something as a waste product, you're kind of kicking it off to the
+ curb and saying, ah, take this out with the trash. I don't have to think about this. Not that much
+ thought is given to what happens to the CO2 after your lungs expel it. It's gone. It's in the air.
+ Whatever. I don't think about it anymore.
+ As soon as you label something like lactate as this waste product or this byproduct or something
+ like that, you're like, oh, well, it has this connotation of being not important or not meaningful.
+ When in fact, it is incredibly important and incredibly meaningful. What happens to lactate
+ is, like we said, it's going to be a focus of future episodes. Everyone, as always, I want to
+ thank you guys for listening, and I want to thank Hans Kornberg, posthumously, for being such a great
+ teacher.
+ Please subscribe to the podcast and share it with your friends. Like we said before, a great
+ iTunes rating would also go a long way. And if you have any coaching or consultation inquiries,
+ you want to kind of get through these next couple months, you know, no racing, we can definitely
+ help you guys out. You can send an email for coaching, consultation, inquiries, and questions
+ and comments to empiricalcycling at gmail.com. And then in the next couple episodes, unless we
+ decide differently, we're probably going to be talking about VO2max and training.
+ Thanks, everyone.
+ Bye.

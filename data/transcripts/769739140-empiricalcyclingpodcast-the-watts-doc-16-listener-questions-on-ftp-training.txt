@@ -1,0 +1,477 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson.
+ And I want to thank everybody for listening, and please subscribe if you have not yet already, and please tell a friend about the podcast.
+ You guys have been doing that, and it's been really great for the podcast, and we love that, and please keep doing it.
+ And remember that we are also an ad-free podcast, so if you'd like to donate, thank you so much for everybody who's done that.
+ You can do so at empiricalcycling.com slash donate.
+ We also have the show notes on the website, but there's actually not going to be any for this episode because we're doing listener questions.
+ And so for all coaching and consultation inquiries and questions or comments about the podcast, you can please send an email to empiricalcycling at gmail.com.
+ We also have merchandise at empiricalcyclingpodcast.threadless.com.
+ We have the link also on the website under the podcast episodes.
+ So last, what was it, December?
+ Yeah, almost two months ago now.
+ Two and a half.
+ I asked people on Reddit to post their FTP training questions, and everybody asked really, really good, insightful questions, and we are going to answer those today.
+ Apologies for the delay. I know a lot of people have been looking forward to this, and I've been asked about it a couple times, so here we are.
+ I have time now to do lots more episodes. We've got a couple other things in the works right now. I hope you guys are going to be very excited about it.
+ So the first question is, what is the single best way to improve FTP?
+ Some say sweet spot because of the recovery.
+ Some say intervals at threshold.
+ Some say VO2 to quote-unquote pull FTP up.
+ Context, I see a lot of build plans focusing on raising FTP, and they include quite a bit of high intensity.
+ Then I hear to raise threshold, you have to work on aerobic power, which is not high intensity.
+ So let's start with what is the single best way to improve FTP?
+ Riding at FTP.
+ I think we've mentioned that before, actually.
+ So I refer you to Wattstock episode number 14 on FTP training.
+ In my experience as a coach, riding at FTP and doing over-unders and stuff like that,
+ these are the absolute best ways to improve FTP.
+ So some say sweet spot from increased recovery.
+ This is an interesting one to me.
+ Sorry, do they mean that because you have easier time recovering or because you can do more of it?
+ I think it's an easier time recovering after the workout.
+ I think that's the point.
+ I'll preface this whole thing with I think most people who love sweet spot work have their FTPs set too high.
+ Something we also have talked about before.
+ Yes, indeed.
+ I find that it's about the same fatigue from sweet spot and threshold only if FTP is set correctly.
+ So as an FTP workout that gets close to your TTE, your time to exhaustion, the length that you can hold your FTP, it should be about the same fatigue.
+ This is a ballpark, so don't do any actual calculations on this.
+ it should be about the same fatigue as getting within about 10-ish minutes of your TTE at 90% of your FTP.
+ So there's a balance between duration and intensity.
+ So like doing an hour of sweet spot work when you can hold your FTP for an hour,
+ that is not an equivalent FTP workout.
+ That makes sense.
+ And that's probably why you're going to recover from it pretty quickly.
+ Yeah, you're not.
+ Essentially, there's no free lunch.
+ can't like do less work and reap equal benefits, right? Like, yeah. Yeah. So to me, the real
+ benefit of sweet spot is apparent when you kind of understand the aerobic adaptive pathways and
+ the balance between the durations and cellular conditions that promote adaptation. So you
+ actually need to spend more interval time doing sweet spot work relative to, you know, doing FTP
+ intervals directly in order to make sweet spot work for you. So if you can like do comfortably
+ two by 20 minutes FTP, then I'm just going to guess that you should probably be doing like
+ two by 30 minutes or two by 35 or two by 40 minutes of sweet spot. And it's because of this
+ increased duration of an effective sweet spot workout that the fatigue with a comparable FTP
+ workout is going to be approximately equivalent. Kyle, what do you think about VO2 max and high
+ intensity work to pull up FTP? So in episode 14, we discussed that there was a study that looked at
+ a group of athletes doing the inverse of this question, looking to see if doing FTP training
+ can raise your vo2 max and after six weeks of uh twice a week ftp training they found that the ftp
+ went up and the vo2 max went up and what they also looked at is what the ftp was as a percentage of
+ vo2 max so for very poorly aerobically trained individuals like myself uh you're looking you
+ know, FTP is maybe 50, 60% of VO2 max, while for well-trained individuals, it's well over 70 into
+ the upper 80s of VO2 max. So the caveat is that this test group had never actually done FTP
+ training before. And so typically what we see when people, you know, who are doing just endurance
+ training, go do FTP training, everything improves. FTP improves, VO2 max improves, et cetera, et
+ et cetera, et cetera. But in my athletes, when I can tell that their FTP is starting to stagnate
+ relative to VO2 max, and we go do VO2 max work, we usually don't see FTP rise at all doing this
+ VO2 max work. And then we'll see FTP rise when we get back to doing the dedicated FTP work.
+ You don't really pull up your FTP doing VO2 max work unless you're doing really short duration
+ tests, um, to kind of, uh, inflate your FTP. Um, so if you're doing like eight minute tests,
+ like, yeah, a, or ramp tests, like doing VO2 max work is definitely going to help your ramp test.
+ It's not going to help your FTP unless you're like right off the couch. So the last part of
+ this question is on, uh, working on aerobic power, which is not high intensity. I assume,
+ uh, this person means base training. Does it sound like a base training, like endurance training to
+ you yeah or or at least like tempo something tempo or lower right like uh i would assume because like
+ high intensity i don't know what the cutoff for everyone who thinks oh what is high intensity but
+ i would assume like threshold to vo2 max is like probably just cut off for high intensity yeah uh
+ okay so aerobic power um so what is aerobic power but like really if we look back to what you know
+ the episode of what is base really, which, you know, I, it was my philosophy on aerobic training
+ in general. And to me, like everything is base training and I differentiate like your aerobic
+ base from like endurance training itself. Well, here, actually, here's another thought on aerobic
+ power is, um, that it actually has a big impact on FTP. Um, if we're, if we think about aerobic
+ power as being like endurance training. Um, but it doesn't usually have an impact. Usually it
+ doesn't have an impact. Sometimes it does. Uh, I've certainly seen athletes who have, who get
+ an FTP boost from doing a lot of endurance rides, but most of the time it's actually going to
+ increase a TTE rather than actually write, raising the FTP number. Ah, yeah. And we've kind of talked
+ about this a little bit before too, that like when you're looking at, you know, is my fitness
+ disimproving am i becoming a better better trained rider you can look at both is the is my ftp going
+ up in raw numbers or is the amount of time that i can hold that power going out yeah exactly um
+ and and a lot of the time if your tte goes out you are going to race better it means you have
+ better endurance uh and typically it means it's because you're actually um using more fat at ftp
+ or you have a higher oxidation rate in general.
+ Question two, does the ability to generate higher max force,
+ as in squat and deadlift, matter at all with regards to FTP?
+ Absolutely not, but also definitely yes.
+ Yeah, this is an interesting one, right?
+ Because in the beginning, I think naively,
+ you would have this belief that, oh, well, if peak force really mattered,
+ then the mountain would be able to have some enormous, enormous FTP.
+ Yeah, Eddie Hall's FTP is 600 watts.
+ Right, yeah, exactly, yeah.
+ And they clearly do not have world-class FTPs.
+ Yeah, sprint watts are not the same as FTP watts,
+ because FTP watts is like your 6,000 rep max or something like that.
+ Exactly, yeah.
+ It's not even the realm of like, famously there's this chart,
+ um starting strength uh that ripito has it's like like the different rep ranges and like
+ after 20 instead of labeling numbers he just has like silliness madness and death
+ so yeah this is this would be way out into the like madness range if no one's gonna no one's
+ gonna go to the gym and try to test their thousand rep max i hope not i mean even 20 rep max that's
+ typically known as the widow maker for a reason. Um, yeah. So like by the time you get out to these
+ time durations, you know, we've switched energy systems and limiters to such a great degree that
+ the two have very little relation to each other. Um, but here's the yes part. Um, like we talked
+ about in, uh, what's doc number nine, um, being able to access larger motor units and act like,
+ you know, get to use more of your muscle mass is a thing that definitely happens with trained
+ endurance athletes that you do not see typically in the general population, which means that we're
+ going to be able to distribute the metabolic load to a larger amount of muscle mass, which means
+ we're going to have better endurance. So these neural aspects of lifting weights can transfer
+ very well, but some of the muscular aspects certainly do not. And there are also, of course,
+ really good adaptations that can happen to the sarcoplasmic reticulum to, you know, in your
+ muscles by lifting weights. But we're not going to get into that right now because that's going
+ to be another 10 podcasts someday. Drink. Drink for those of you planning to get long at home.
+ Yeah. Number three, there are many ways to estimate FTP and not all methods will give the
+ same estimate. If you are training either for FTP or by FTP, how much error in the estimate is
+ acceptable or tolerable? Um, to me, the answer is five to 10 Watts. Uh, but I typically, uh,
+ have it under five with my athletes. That's kind of interesting, right? To me, because I think a
+ lot of times when I think of what's the estimate coming from a measurement and like science
+ background, I think of, well, most power meters you can buy have the worst ones have a quoted
+ error of two percent and the best ones you can buy you plunk down for an srm or whatever it's
+ like a half a percent so i think like oh if you have 300 ish watts two percent of 300 watts is
+ no we're not good at math from this podcast kyle haven't you learned
+ we need to do the calculations first sorry sorry i'll just give you our diet six watts
+ that's an easy one come on two anyway um so that that like falls in line with your like oh i have a
+ you know, at worst coming out of my power meter, it's going to be a 2% error or something like
+ that. So that's your, that's your five to 10 Watts. Okay. That makes sense. Yeah. Um, so the
+ worst thing that happens is overestimating your FTP, which is why I always under, uh, underestimate,
+ or I, I, that's why I low ball the training figures by just a handful of Watts, like just
+ enough that I know somebody is not going to be over FTP, but enough that, um, you know, they're
+ still getting the right adaptation. Cause you know, especially when you're doing, you know,
+ 350 watt FTP efforts, like is five or 10 Watts really that large of a fraction of it? It's really
+ not. Um, no, it's a, it's a few percent. If it's a hundred Watts, 10 Watts is a large fraction.
+ Then I, then I, you know, think about it a little more carefully, especially with regards to power
+ meter error. You are looking at like, Oh, I gained two or three Watts, um, FTP over this last FTP
+ training cycle. Um, you didn't gain two or three Watts to me. You, you gain nothing, nothing
+ changed unless you can unless you can hold it longer in which case that is pretty easy to
+ measure we don't we don't have a lot of error involved in how long did somebody hold their ftp
+ you've got a quantum clock that's ticking away and you can't really tell no and i i think that's
+ a good point too like it because cycling is so quantifiable it's really easy to like get
+ really deep into staring at at dots on the screens in your in your wko5 your golden cheetah whatever
+ and like really it's just the human brain is really good at finding patterns in random noise
+ okay question four what is the least amount of ftp training i can do to maintain the new number i
+ just got will this last indefinitely and is it possible to make my peak ftp become the next
+ baseline so when i detrain it's a little higher than in past years so actually this is a very
+ interesting question um yeah this is and i think this is something that people probably wonder a
+ lot too like like say life becomes hard and you you want to like at least kind of maintain fitness
+ that you've put on you know and not just gain fat as you you know as we all do less yeah as you as
+ you have less time to train so what what can i do to like you know at least like help myself help
+ future me you know get through a time of reduced training or something like that yeah it's funny
+ Cause, um, so I originally answered this question in my head with, um, one interval session at 90 to
+ a hundred percent, uh, FTP. Um, you know, if you, so if your TTE is like 60 minutes, do three by 20,
+ that's going to be plenty, um, once or twice a week. But I would say during periods of training
+ and racing where, um, that training and racing would otherwise be insufficient. Like here's
+ something really interesting is that uh when training vo2 max uh if we don't do any ftp
+ maintenance workouts for like you know even three or four weeks um ftp does not decrease at all
+ and sometimes it'll go up a couple watts um so that's the kind of training that is going to
+ maintain your ftp um somewhat counterintuitively maybe uh but yeah but that's not to say that you
+ can just do one or two workouts a week period and maintain FTP. Yeah, definitely not. Yeah. These
+ are very hard aerobic focused weeks. Um, so what I would actually say is, uh, going to WKO five,
+ if you have it and look at aerobic adaptation score, I'm not kidding. This is one of the best
+ tools I think that is out there for people to look at their training load and look at what is
+ effective. Um, and clearly I should call it by its proper name, the aerobic, uh, training impact
+ score, not adaptation score. Sorry about that. And, you know, and I was part of the team that
+ designed this, uh, and you know, we, I think we did a great job at it. So I would look at that
+ and I would look at trying to get at least, um, at least the odd, like seven or eight, like, um,
+ maybe, uh, maybe two or three times a week. Um, aerobically would be, uh, and sometimes maybe
+ even one, it depends on, it depends on you more than anything else. Cause you know, I've,
+ I've certainly trained, you know, people in their like late teens and early twenties who can like
+ get off their bike for two weeks and just like not even think about a pedal stroke and then come back
+ and have lost zero fitness whatsoever. As for like making your like shiny new FTP or something
+ higher than usual, the new normal, it's not only just the FTP training, it's all the other training.
+ It's your aerobic base, it's your endurance rides, it's your VO2 max work, it's your over-unders,
+ it's your FTP training. All of this together helps make you a better athlete. And this is
+ going to make your FTP higher every year. And over the years, as I've refined my training methods
+ and training philosophy, dare I say, I've found that people's FTP is detraining much, much,
+ much less since I took on this holistic view of aerobic adaptation instead of compartmentalizing
+ each system. It all makes, you know, it's all interwoven. Question five, do you prescribe
+ different workouts or see a difference in the effects of training between people who live in
+ flatter areas versus people who live in mountainous or hilly areas? I really like this question,
+ actually. This is kind of cool. Yeah, me too. The answer is actually kind of boring. I'm really
+ sorry about that. So the difference in training is that I will usually prescribe free form days
+ to people who live in mountainous areas. So I'll just say like, get in a total of like 80 minutes
+ at FTP or, you know, get in 120 minutes at, you know, 90% of FTP, you know, I'll give them a
+ target range or a number or something like that, but I'll give them these durations to,
+ to get over the course of their ride. But as for, are there different effects in training?
+ You might think that there's a different effect in terms of like people who like a different
+ inertial load. Like if you're climbing all the time, you might like that low inertia,
+ like high pedal force kind of climbing. Um, but you know, honestly, it's, it's more about the
+ individual person than it is about the terrain. Um, what a person is good at with that kind of
+ stuff. I find that, um, they have no relation. I haven't run statistics on it or anything,
+ but I've got plenty of sprinters who do lots of climbing of mountains and they still love to spin.
+ So they just gear for themselves, and that's that.
+ Look at Mark Cavendish.
+ He spent years trying to get himself over mountains,
+ and yet still definitely doesn't like to climb.
+ Yeah, for sure.
+ Number six, if my FTP is closing in on my VO2 max,
+ parentheses, I have a shite VO2 max,
+ according to my Garmin, at least, close parentheses,
+ should I switch for VO2 max intervals?
+ I feel like maybe I should raise the ceiling,
+ or should I add more threshold intervals?
+ So right off the bat, Garmin's VO2 Max estimate, I think it's based on the first beat model.
+ It's off minimum 5%, if not 10%.
+ I would ignore it.
+ Yeah, and I think that's a good tip for lots of these things, right?
+ Where it's not just Garmin doesn't just estimate your VO2 Max.
+ Like lots of different services or devices or things try to throw numbers at you like this, right?
+ And you're like, that's always the first question is like, how are they calculating this number?
+ Yeah, and even WKO4, WKO5, like even that VO2 max estimate can be off a little bit.
+ I would actually say it's probably better than the Garmin's estimate.
+ Yeah, if your FTP is actually closing in on your VO2 max,
+ So like here's something interesting is that it takes a lot of years of really hard and quality training to raise, you know, after the initial raising of FTP relative to VO2 max, that happens pretty quickly.
+ But after a little while, after some serious training, like it becomes very difficult to move that.
+ And so there's very little danger that you're rapidly closing in on your VO2 max, especially if your VO2 max is estimated by Garmin.
+ in which case it is probably reading very low. So if you were finding that you were doing good
+ quality FTP workouts and your FTP is not going up much, yes, I would say that it's probably time to
+ do some VO2max work. So it's that simple. I mean, and just figure if, I don't know,
+ this person did not say how long they've been doing FTP work, but if you've just been hammering
+ away at FTP work for months and months and months and months. Yeah. Maybe, you know, switching it up
+ might be helpful just for your mental, uh, mental condition as well. Yeah, definitely. Um, all right.
+ So the next question, uh, was actually extremely long, uh, but I thought it was interesting enough.
+ So I've tried to boil it down. It's basically, does it matter if you do some standing and sitting
+ over an FTP effort? And there was a lot of, uh, you know, does this affect the adaptation? Uh,
+ should you have two FTPs for standing at 70 RPM and sitting at 90 RPM? Um, and you know,
+ would this mean two TSS scores? Um, Kyle, do you want to take a crack at this?
+ Yeah. I mean, I don't think I've ever seen a test ever prescribed. Like you have to remain
+ sitting or standing. And then, and like, certainly when you race, you never have to remain
+ sitting or standing in a lot of the situations so you know it you do recruit different muscle
+ patterns when you're sitting and standing but it's not like you're recruiting completely
+ different muscles like you don't magically start using like only hamstrings or only quads or
+ something strains like that um and just the from a practicality standpoint it seems impractical
+ to maintain two different ftps at different rpms and different uh different seating or standing
+ seated or standing positions um yeah and also like if like if i asked my athletes like all right
+ you're gonna do an ftp test all right you did you did a normal one on your road bike two weeks ago
+ then you did a tt bike one last week this week you're gonna stand at 70 rpm for a ftp test like
+ i every single one of them would respond to with bro yeah yeah i think the other thing is
+ it it you know the tt bike uh maybe because you know you do hear of lots of people who if they
+ don't train a lot of time in that position then they definitely lose wattage so you know do they
+ necessarily have a different ftp in that position uh well for tt bike uh most of the time yeah
+ actually tt uh tt bike ftp goes down about 10 or 15 watts um however when it comes to standing and
+ the adaptations and everything if you're spending a ton of time standing um you're gonna get better
+ at standing and pedaling uh but in terms of the overall adaptations like if you're doing like
+ half standing and half sitting uh you probably ride that way anyway um you know in a race or
+ during your events so i think that's fine i mean i think the other thing is like kind of like you
+ just said there like if that's how you race like why are you gonna test in a way that is different
+ from what you're going to do like like alberto contador supposedly used to do climbing some
+ climbing intervals standing but that's because his like attacking climbing style was standing
+ yeah definitely that was his card to play so like of course he trained it and he was
+ a professional so uh question eight what is the difference in terms of training effects from 1x60
+ versus two by 30, three by 20, four by 15, six by 10 intervals? Um, what about 60 by one? If we're
+ taking things to logical extremes, that's actually a very good, a very good question. Um, I do like
+ that question a lot. Yeah. Well, you're a physicist. You take everything to logical extremes.
+ So how long do you have to stay in zone and how does your body recognize,
+ uh, and okay. And how does your body recognize as a single session or effort? Does it matter
+ if you stop pedaling during a one by 60 to answer a phone call or urinate for one minute, how about
+ five minutes, 15? Uh, but then, then, uh, then they continue. Um, should you pick four by 15,
+ uh, at FTP with five minute rests or five by 15 with 15 minute rest intervals? If you want to do
+ the, if you find these equivalently tough in terms of RPE. Uh, so there's two parts to this answer.
+ The first is that let's recognize what rest does.
+ Your cells attempt to reset themselves to their resting conditions.
+ And part of what we like about continuous intervals is that your cells are not getting a chance to do that,
+ which is why doing 60 by one minute FTP intervals is going to lead to very suboptimal adaptations.
+ I would wager on almost none.
+ I would wager on about 25% as effective as like 4x15.
+ Rest intervals are important, of course, in order to accomplish more work at FTP.
+ And we all have anecdotally found this to be effective.
+ So what's behind this?
+ So what's behind this is the second answer to this question, which is that there are two facets of FTP adaptation.
+ One is continuous time at the right intensity.
+ And that's because of, you know, like I just said, the cells don't get to reset to their resting conditions.
+ This continued challenge to their state is something that they have to adapt to.
+ And the other part of the adaptation is the overall time at that intensity.
+ So as long as the first condition is met, which I would say is a minimum of about 10 minutes, the minimum in continuous time,
+ um then the second condition of duration uh overall duration is more important i would say
+ like 7 by 10 minutes is probably better than like 3 by 15 minutes i think we talked about this a
+ little bit in a past episode when we talk about effective ftp training where we kind of say that
+ yeah like you i think you even mentioned that you know maybe 10 minutes is about the the uh minimum
+ duration that you would assign FTP intervals at, and that adding volume is often a very good
+ overload strategy for FTP intervals like this. So five by 15, even with more rest is more total
+ volume than four by 15. Yeah. Yeah, exactly. And I've certainly, uh, I certainly like 15 minute
+ intervals a lot, uh, with my athletes. And, uh, when I want to give somebody, unless they're very
+ experienced. You know, if somebody has like a 60 minute TTE with, I will typically try to get them
+ to do like a session that's like five or six by 15 minutes, you know, during our build period
+ with only five minute rests. And, you know, by the time we get there, for most athletes,
+ this is not a problem. It's hard. It's difficult, definitely. But it's something that's very
+ accomplishable. And, you know, we should also think about other ways to assign FTP intervals,
+ like a way that I commonly do it is I put them over a very long period of time on an endurance
+ ride. So this is a slightly different bit of adaptation because it's not continuous,
+ but you know, you're still getting all the good time in zone. So this would be with longer
+ intervals, like four by 20 minutes over four hours, or like three by 30 minutes over five
+ hours or something like that. The other way to progress FTP intervals, as we probably talked
+ about in the FTP training episode previously, is that increasing the continuous time in zone
+ is also very beneficial. So if you're very comfortable at doing two by 20, I would suggest
+ you immediately go do one by 40. And it's going to be difficult, but it's going to be a different
+ kind of rewarding, I promise. And so one of the other things to consider about this whole thing
+ is actually that sometimes with some athletes, it's really difficult to progress time in zone.
+ Like I have a handful of athletes right now who have a difficult time going past about 40 to 45, maybe 50 minutes of quality FTP work where others can pretty easily bang out two by 40 minutes at FTP.
+ So that's why, you know, increasing the continuous duration can actually be beneficial in the short term while in the long term also having the focus on increasing time and zone gradually so your TTE goes out.
+ So that's another aspect of this training to consider for yourself.
+ Question nine. I am newer and will quote unquote benefit from anything regarding training as long as I am consistent.
+ I personally find it hard to be consistent as I feel like my Zwift plan or whatever I find isn't optimal.
+ This obviously leads to getting a coach, but is that necessary for a guy who benefits from anything?
+ To narrow down my question, for newer guys who just need to be consistent with the overall goal of raising FTP from couch to cat 3-4, what type of training should we do?
+ Obviously, this is going to sound like a story to toot my own horn, but I had an athlete who was very new to training. She had been doing some riding, and she was like, I want to be really good at this race. I want to do this big goal race next summer. And it was fall, about nine, 10 months ahead of that race.
+ And the thing that, um, that struck me about training someone who was so fresh, like from, you know, doing, or who was so new, uh, was that the rapidity of the adaptations were astounding and startling.
+ So I think that even if you are somebody who's getting off the couch, getting a coach and learning to train right so you don't burn yourself out right away is the right way to do it from a practical perspective.
+ But also because – so if your coach is pretty good, you're going to actually find that you're going to get much better, much faster than you would otherwise.
+ So to me, this is a question about time.
+ Like, are you okay getting to the same level over a year?
+ Or would you rather that happen in four to six months?
+ You know, that's a real question because this athlete, for instance, she started with me at 180 watt FTP.
+ And, you know, just a couple months later, she was at 230 or 40.
+ Wow.
+ Yeah.
+ I literally told her to ride away from the field in a race and she would win and she did.
+ Wow.
+ Yeah. So, so she's a natural talent, but that's not the point. The point is that like,
+ if you are training properly and not only properly, but consistently, which is very good
+ when you have a coach, you're held accountable. If you know, not to the coach, then at least to
+ the fact that you're paying so much money a month in order to have this coach, you know,
+ write training plans for you and help you get faster. Um, you are going to get faster than you
+ otherwise would uh by just you know doing a suboptimal training plan you even though you could
+ do you know like you said get get by with the same thing it's like there's a question of i guess you
+ could call it efficiency almost of like efficiency in time of getting to that same point maybe you
+ know maybe that's okay like for some people they're going to enjoy that like maybe figuring it out on
+ their own, maybe trying a little bit, but like, certainly for this, this athlete, it sounds like
+ time and time efficiency was very important. Cause like, if you come off the couch and like,
+ oh, there's this goal race and it's in six months versus, oh, you come off the couch and you're not
+ sure you want to race or when you want to have a big race, then, you know, there's that whole
+ different equation. Yeah. That's a good point. Yeah. So figure out what is more important to you.
+ Um, and, uh, I would act based on that, but generally if you're finding that your training
+ plan. Your canned plan is not working that well for you. Get a coach who does custom plans and
+ you will not regret it. Question 10. I think this is a very interesting question. So if one minute
+ power is a weakness in your curve, you might work on that if for nothing else other than round out
+ your ability and power curve, giving you more options during races. I guess build periods don't
+ neglect FTP work, so it might be hard to disentangle effects, but I suppose if you did neglect FTP work
+ and only did max one minute workouts, my guess is the FTP would improve question mark, or say
+ you're working on one minute for cyclocross. Um, so that was the direct text. Um, okay. So it sounds
+ to me like this person is kind of asking one question with kind of two parts. The first part
+ is kind of what is the relationship with FTP and one minute max power tests. And the other is,
+ if you were doing a discipline that, you know, valued one minute work, would focusing on that
+ during a build period or something like that negatively impact or positively impact or do
+ nothing for your ftp kyle your gut feeling what uh if you did a lot of one minute intervals
+ how would that affect your ftp i'm gonna guess not at all to actually may negatively impact your ftp
+ having having done this kind of where i went from being a road crit rider to being a track sprinter
+ and I went from doing FTP work to not doing FTP work ever and doing lots of, you know,
+ in the ballpark of one minute all out workouts, uh, my FTP did not improve at all. In fact,
+ it went down a lot. Um, but this, because, you know, if you think about it, those are on like
+ hugely different ends of the spectrum, right? Like one minute is maybe the bare minimum cutoff
+ that you could start to consider an interval to have a significant aerobic contribution.
+ It depends on the athlete too, because if it's somebody like me, my aerobic contribution to one
+ minute is very small. And so if you're Ed Clancy, your one minute power is going to have a significantly
+ larger aerobic contribution to it. People like to toss around one minute as being like the cutoff
+ for like 50% aerobic. And that really only is looking at endurance trained folks was, uh, so
+ I I've seen people, uh, write this a lot where, Oh, they thought, you know, one minute and it is
+ kind of, but definitely not if you're training for 20 second efforts. Yeah, for sure. Um, so only
+ doing a one minute all out workouts, uh, FTP is not going to improve. Now I'm going to caveat this
+ with saying, I have seen that article on training peaks. Yes. The one you're thinking of about
+ miracle intervals. There are no miracles. There are no miracles. That always bugged me that that
+ title. Um, yeah, it's definitely one of those cases where if you do anything after a layoff,
+ you're going to improve. Um, there's really nothing more to it than that. And like you said
+ before, there's no such thing as a free lunch. My other thought with this is that if you are
+ testing your FTP with a short FTP test. And I would say that is like, you know, ramp test,
+ eight minute test, 20 minute test. And I've even seen five minute tests recently.
+ Oh, I'd love that. I know, right? Yeah. You and me both would gain like a hundred watts of FTP
+ doing one minute intervals is going to help you with your anaerobic capacity. And this is going
+ to significantly influence all of these tests that try to measure your FTP by writing above your FTP.
+ And so this, to me, this is like gaming the test. So if you do a lot of high intensity work
+ and you're testing 20 minutes or like eight minutes or two by eight minutes, whatever it is,
+ you know, you're really just gaming the system here. You're, you're studying for the test.
+ You're not actually improving your intelligence.
+ You are improving your ability to take the test, which does not actually measure your FTP.
+ Measures your ability to take the test.
+ Yes.
+ I think the other thing is, if you just think about it, if you're the closer that the amount of time that you're doing intervals for,
+ the closer that that is identical to the time that the test is, the better you're going to do on the test.
+ Just in general, right?
+ Like if you're doing two by eight minute, that like FTP test from, um, uh, CTS and you're doing
+ like five minute intervals, I bet if you do a bunch of VO two max five minute intervals, like
+ the two by eight minute tests, like, of course you're going to do better. Like you've basically
+ been doing almost the test for weeks at a time. Yeah. And, um, and the other thing is that if
+ you're doing just like one minute intervals and anaerobic capacity type stuff, um,
+ That's like, tell them, um, you're going to top out after like a month and a half to two months
+ or so. Um, and you're going to, uh, do more one minute intervals and more one minute intervals.
+ And all you're going to be doing is making yourself tired. Uh, you're not going to be
+ improving your one minute power anymore because at some point there is a different limiter
+ to improving your anaerobic, like one minute ish power than just, you know, spending time in zone
+ time and zone is good for ftp work it's really bad for like one minute stuff but that network
+ we're getting a little off topic all right so this is our last question question 11 how much
+ ftp specific work should one do if one is not relying on ftp capacity and races too much
+ parentheses for example i race road and crits no tts no long climbs in this area plus i'm more
+ of a sprinter than a breakaway guy close parentheses um oh man there's a lot more to
+ this question that we cut out um but this is this is really the meat and potatoes of it well i think
+ i think there's a uh there's something in here there's a there's an assumption in this question
+ that i think we need to address and that is that ftp capacity only helps you when you're working
+ near ftp if i'm never in my races if i'm never doing like 40 minutes at ftp why should i do ftp
+ work correct it looks like that because he said no tts so no no tts no long climb so he's thinking
+ he's either sitting in the bunch they he or she whatever they are sitting in the bunch or they're
+ sprinting why do i need ftp work i'm either for somebody who races road races and crits yeah now
+ Now, I'm going to ask you, what is the FTP of everybody in the Pro Peloton right now who is going to be racing Omloop tomorrow?
+ Over 400 watts.
+ Generally in the 400-watt range.
+ What is the FTP of everybody who's going to the Frozen Four opener this weekend in Connecticut in the 4-5 race?
+ I don't know, 200 watts.
+ Yeah, big spread, but probably for the men's field, yeah, probably like mid to high 200, low 300s.
+ So the point is that your FTP is relied upon even if you're not directly using those watts.
+ So this is one of those forest in the trees questions.
+ I think the other thing here is that FTP is not just a number.
+ It is a number in the sense that, oh, everyone's going to see their number go up, but it also represents you becoming, essentially, you're increasing your capacity to do work at multiple durations, not just at FTP and not just at FTP intensity and not just for FTP length times, right?
+ Yeah, you're really setting up the fact that this listener should go back and listen to Wattstock episode number two, where we talk about how phosphocreatine is regenerated for multiple and repeated sprints and how having a high FTP really is part of being able to repeatedly sprint.
+ Even though you're not using this particular range of watts, it is incredibly important to train it because of the underlying physiology. Like if you stop thinking about the watts directly and you start thinking about what's really happening in the body and in the cells, it's going to really change the way you appreciate FTP, even though it doesn't seem like you're using it that much.
+ You know, like all of my road racers do a ton of FTP work because the more they do and the longer their TTEs, the better they race and the more endurance they have.
+ Just bar none.
+ Or let's put it another way.
+ This is how I explain it to my athletes when we're talking about why we do so much FTP work.
+ Um, you know, not only because, you know, like we were talking about with one minute power, like those adaptations kind of, they top out fairly quickly. Um, if let's say you have an FTP of 280 Watts and you are spending a lot of time in a race, um, you know, in the 330, 340, 350 watt range, uh, which is not uncommon.
+ and a lot of people in a lot of races spend a lot of time in that area of watts. If you increase your
+ FTP to, say, 300 watts, you have now nearly halved the distance to those watts that you are spending
+ a great proportion of anaerobically, because FTP being the highest amount of power you can spend
+ purely aerobically. So if you had your FTP at 350 watts, you would basically be doing FTP work
+ whenever you had to surge, and that would lead you to the end of the race with a lot fresher legs and
+ a lot more energy and a lot more glycogen to make actual hard anaerobic efforts with and sprint with.
+ So that is the other reason that FTP work should not be neglected, because this is why I asked
+ about Omlum Hepnusblad, is that if you are towing that race with an FTP of 300 watts, you are going
+ to get left behind very quickly, but if you, uh, in the men's race, but if you get, uh, if you go
+ up to there with a 400 watt FTP, that's now a hundred more Watts that you can make aerobically.
+ So you were going to last much, much longer. Put it another way. Like you can go to your local,
+ like cat two, three crit and find guys that can sprint at the same wattage that like prime Mark
+ Cavendish can could have. Big fan of Mark Cavendish. Yeah. So if you can go to your local
+ cat T3 crit and see, you know, weekend warrior men who can do the same peak sprint wattage as
+ prime Mark Cavendish, well then why aren't they racing? Yes. But you see where I'm going with
+ this. Yeah. Um, the only reason that Mark Cavendish is there to use his 1500 Watts at the end of a
+ road race is because he got over to the end of the road race like he was in the bunch but it's not
+ like he was completely just chilling the whole time like there are times where he still has to
+ work hard even if you are in just in the bunch the whole time for and so for this road racing crits
+ you're not breaking away but like there are gonna be times where the pack surges and you have to
+ keep up and not like drive yourself into the red every time that like you know an attack goes and
+ you have to like stick and you have to like not get shelled or accordioned off the back of this
+ crib or this road race actually i have a really i have i don't know why i didn't think of this
+ before um the the the best way to look at this is look at your normalized power for a race um and
+ normalized power is an algorithm that has its flaws certainly um and especially in a lot of
+ criteriums it'll it'll skew low um and occasionally depending on the right course it'll skew really
+ high, like by 20 or 40 watts. However, generally, you can look at normalized power and assess a
+ general metabolic load. I think it's a good example. And I think the Training Peaks website
+ often after the spring classics likes to throw up big gaudy normalized power numbers that like,
+ oh, look, like Andre Greipel went out and for like six and a half hours normalized like 380 watts.
+ And that sounds ridiculous to most couch mortals, potatoes like us mere mortals.
+ But that's because his FTP is over 400 watts.
+ So for him to go out and normalize under 400 watts for five and a half hours, that's not outlandish because his FTP is so high.
+ FTP is helping Andre Greipel in this case, even if you think that like, oh, he's just going to try to sprint or whatever.
+ And let's also give a consideration to the fact that, you know, a lot of people will probably need higher FTP when they get to their next category.
+ Like if you're getting to the end of your races as a Cat 4 or a Cat 3 and you're doing just fine there, think about how you're going to do when you get to Cat 3 or Cat 2.
+ And now you've got a total line of people who are a lot stronger.
+ You're definitely going to need a little bit more FTP.
+ So everybody, I want to thank you guys all for the questions.
+ These were some really good, thoughtful ones, and we appreciate them all.
+ We had a lot of fun doing this episode and talking about this, and I hope you guys are getting something out of listening to it.
+ And considering that, if you are also getting something out of listening to the podcast in general, please consider, as always, telling some people about the podcast.
+ Word of mouth does a lot of good things for us, and we really appreciate it, and we really appreciate all the listeners.
+ We appreciate the support that you are giving us at empiricalcycling.com slash donate because we are ad-free.
+ You are welcome.
+ So, as always, for all coaching and consultation inquiries and questions or comments, you can please send an email to empiricalcycling at gmail.com.
+ And, of course, as always, if you want some merch, it is on our Threadless shop.
+ Thanks, everyone.
+ Yeah, thanks, everybody.
+ See you next time.
+ Bye.
+ Thank you.

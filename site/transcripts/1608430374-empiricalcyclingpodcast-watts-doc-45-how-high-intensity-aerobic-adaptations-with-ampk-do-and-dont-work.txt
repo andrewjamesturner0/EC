@@ -1,0 +1,1469 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Cully Moore. We are not joined, unfortunately, today by Kyle, but we have a new co-host briefly for a stand-in. We're going to see how this goes.
+ So thank you, everybody, for listening to the podcast. Especially if you're new here, please consider subscribing to the podcast, especially if you like what you're hearing.
+ But if you want to support the podcast, you can always let people know that you like it with a nice podcast rating.
+ And for you, wherever you listen to podcasts, and especially sharing the podcast goes a long way. Thank you all for all of that.
+ We appreciate seeing the recommendations for the podcast on forums and just while we're riding around and at events.
+ So thanks, everybody, for all of that.
+ And if you want to support the show with a couple bucks, please consider a donation at EmpiricalCycling.com slash donate because we are ad-free.
+ And I was actually considering – I was talking with Kyle the other day.
+ I was thinking that we should do an episode about all the advertisers I have turned down on the podcast and why.
+ So that's potential in the future.
+ Anyway, but if you really want to support the podcast, please consider becoming an Empirical Cycling client.
+ We are always taking on athletes for coaching, and we do consultations as well.
+ We can look at your season.
+ We can plan your next season.
+ We can look at your files.
+ We can just talk biochemistry or whatever you want.
+ So our time is your time.
+ So, yeah, empiricalcycling at gmail.com if you'd like to reach out for that.
+ And, of course, we have negotiable rates for professionals and students because we know that you all don't really make that much money.
+ Pretty much until you get to being Tadej Pogacar.
+ So if you would like to ask some questions on the Instagram, you can do so at Empirical Cycling on Instagram, of course.
+ And that's where I have weekend AMAs up in Instagram stories.
+ And at the end of this podcast today, that's where I ask for listener questions on our podcast.
+ So if you'd like to ask a question for a future podcast, please give me a follow there.
+ And so let's get down to business.
+ So Kyle is basically working 12-hour days out in the desert for NASA.
+ And it's over a holiday weekend, no less.
+ So rest in peace, Kyle.
+ We wish you well.
+ We'll be glad when you are revived when you get back, which will be in a couple of weeks.
+ So I also have a problem with podcasts sometimes where I do all the research and everything's
+ fresh in my head and I want to get it recorded and done and out.
+ And if I wait a little while, I forget everything.
+ And then I have to go back and redo all the reading and read all the scripts.
+ And then I usually, then it's basically never done and it never comes out.
+ So I've had issues like that in the past.
+ So, uh, so who we have today is Marinus Peterson, who has been on the podcast before he is a,
+ um, he has studied exercise physiology at the university of love university of Loughborough,
+ and he is a coach himself.
+ He is a very fast cyclist, also a former Welsh national champion, and he is very fast.
+ And he is also, um, uh, a client of one of my personal clients.
+ So we have a nice little circle going on.
+ uh so um and so marinus is awesome and um yeah he's he's one of the few people who's got the
+ the background and the wherewithal to kind of keep up with uh with this podcast um kyle of course
+ being uh you know the number one and uh we were going to try out rory today because everybody
+ liked him last time and i knew he would be able to handle this but uh worry is also unfortunately
+ indisposed for an indefinite amount of time so um and so i was going to do the solo and um and i i
+ may still yet, but we've got Meredith here and we're going to see how this goes. So Meredith,
+ thanks for joining us on short notice. And also I guess it's time to get down to business. So
+ today we are talking about AMPK. So generally speaking as background information, before we
+ really dig into this, because you've seen the script, you know what's coming. Or well, the
+ script, the outline, the notes. What have you generally heard of? What do you usually think of?
+ what do you think people think of ampk because a lot of the time i've been on forums and somebody
+ will say uh i've heard some really silly stuff so we're going to get into that at the end of
+ the episode where we talk about how not to big brain the ampk stuff um so marinus what do you
+ think uh what do you think's out there right now for ampk and aerobic adaptation uh for what i've
+ seen so far it just looks like more mpk is is better like people just like if a study finds or
+ you know a new type of training finds that it gives you more ampk ampk that seems to be like
+ oh that's therefore it's great um and i just sometimes think people aren't like joining the
+ dots or going going beyond that and um yeah so it's like people are looking for ampk signaling
+ before they're looking for performance um without kind of even knowing what it is or
+ or or thinking about like where what is the role of it in you know in in metabolism and in
+ consequent um changes in performance so right right because people think that oh ampk is uh
+ is directly, uh, it's kind of directly correlated to exercise intensity in a lot of ways.
+ And so if you want AMPK activation, right, you've got to go really hard. And if you want more AMPK
+ activation, you've got to go really hard all the time. And what happens when you go really hard
+ all the time? Uh, not, not very pleasant things in my experience. Uh, yeah, yeah. This, it leads
+ right to the O word, which is not orgasm in this case. It is overtraining the not fun one, not,
+ not fun. Oh, word. Yeah. So, so and I actually remember having a discussion on a forum quite a
+ few months ago at this point that prompted me to start thinking about this side of things and doing
+ a podcast on this is that it was, you know, kind of just what I was saying before was like, if you
+ want more than you've got to write hard all the time, you've got to always empty the tank and
+ stuff like that. But what we're going to see is some pretty concrete evidence that that is not a
+ good strategy for this. So actually, before I started doing the research on this and kind of
+ dotting the i's and crossing the t's on my own AMPK knowledge, I wanted to title this episode
+ something about how the importance of AMPK is over-exaggerated or something like that.
+ And I actually don't think it is in a lot of ways, because I think, at least in the scientific
+ literature, people who do the research on the actual mechanisms of aerobic adaptation know
+ exactly how important or unimportant AMPK is and the circumstances in which it is and is not
+ activated and all the other signals that are also important, like the last episode on calcium.
+ And so that was really just some simple takeaways. Just ride your goddamn bike. It's not so hard
+ to get some calcium adaptations. But when we start talking about AMPK, there's duration,
+ there's intensity there's collection stuff there's training load like there's a bunch of
+ different aspects of this so this episode is going to be notably more complex so hopefully it will
+ actually give uh the listeners some more tangible information to to go and you know enact in their
+ training rather than you know the basic stuff yeah we already know yeah and so as we get closer to
+ the end of uh to the end of our notes here what we're going to start doing is we're going to start
+ focusing more on our coaching experience and our training experience on this kinds of stuff
+ and how, uh, and how the kind of stuff that we're going to look at in these studies is, uh, is going
+ to influence what we should and should not do on the bike and spoiler alert, it really just enforces
+ the basics, like in a lot of ways. Um, so, and then we're also going to talk about the ways not
+ to big brain this thing to death. So anyway, what is EMPK? Why does it matter? I know a lot of
+ people, um, you know, I know there's like eight people I probably argue with, uh, at events and
+ on forums and emails and stuff like that, where we argue about the minutia of this stuff. But for
+ most people who are probably going, what the fuck is AMPK? So AMPK is a protein called
+ AMP activated protein kinase. And a kinase is just something that adds phosphate to things,
+ other proteins. And it's, it's pretty simple. Um, so, and that is actually a common way to
+ modulate the activity or rate of catalytic activity of other proteins and enzymes or
+ whatever it is. And so it can also reduce or stop other proteins from doing stuff or it can turn
+ them on. So just being phosphorylated doesn't necessarily mean on or off. It just means it
+ changes something. So AMPK is a protein that acts as a cellular energy sensor. And we've probably
+ discussed it a little bit before on the podcast when talking about things like glycolysis and
+ adaptation. I'm pretty sure we did in WSDOC 40. That'll come up again a little bit. But the big
+ question is how does AMPK sense energy? So when things in the cells are pretty chill, when you're
+ like laying on the couch and your muscles are inactive, you've got a lot of AMP in your muscles.
+ So your quads are very, very happy. Lots of AMP. Everybody's chill. And ATP binds to AMPK
+ and says, shh, everything's okay now.
+ Shh, they're there.
+ It's all right.
+ But when we get on the bike and we start riding,
+ when activity levels start to go up,
+ ATP starts to get used and becomes ADP and AMP.
+ Those phosphates start to go away from ATP.
+ Increasing levels of AMP bind to AMPK and block the ATP signal.
+ And this means AMPK starts to go,
+ whoa, our cell is running out of energy and I need to do something about it.
+ So does this all make sense so far, Marinus?
+ Yeah, so this is like you're sitting on the couch, everything's chill, everything's great.
+ And to get this AMPK signaling, you do actually have to put in some amount of effort.
+ I'm gathering here.
+ Yes.
+ And at this point when AMPK is being activated, you've probably done some kind of significant work and you've noticed that you'll know about.
+ So, yeah, cellular changes in that ATP and AMP balances is kind of one of the markers for fatigue.
+ Yeah, it's actually one of the big markers.
+ And basically what this is, is like energy stress of the cell.
+ Because when things are chill, and we've talked about this on the podcast so many times at this point, but we'll review really quick anyway.
+ So an ATP and like ATP gets its ability to do work by how far it is kept away from equilibrium
+ with becoming ADP by getting that one phosphate removed.
+ That is the big major driver of potential to do work, chemical work for ATP.
+ And so a good cellular energy state means a lot of ATP, basically no ADP.
+ ADP levels in the cell at all points until very, very extreme situations are kept basically
+ almost at zero.
+ They're like micromolar levels.
+ And AMP is usually what ADP becomes to, well, anyway, we don't have to get into that level of detail.
+ I think you'll often read in studies that, well, that some people in the past have thought that lactate, you know, was the cause of fatigue when actually it's this cellular energy balance and lactate is actually kind of a red herring, if you like, in the equation.
+ Whereas this cellular energy balance is actually, energy state is actually what's going on.
+ Yeah, I would almost say the lactate is like smoke, but it's not even smoke because the smoke is a direct consequence of the fire.
+ And in a way, we could consider that, but also in a way, it's completely unrelated because of, well, if you're a regular podcast listener and you remember all of the recent stuff we've done on electron transport chain and energy balance, Watsok 40 especially,
+ This is something that you should be familiar with.
+ Whereas I guess an analogy you could draw there is like the energy state of the cell is how hot is the fire and lactate is like the smoke.
+ So if you chuck a load of wood on the fire, it's not going to, or a load of grass, you might be able to make loads of smoke.
+ Oh yeah, what grass? That would be a good one.
+ Yeah. Like the energy doesn't mean the energy state is, you know, optimized or, you know, is, is, is whatever you're trying to achieve. So yeah, they're not, they're not directly proportional.
+ Yeah. And what we're going to see in a little bit is actually that, um, that in some ways at some intensities, even if we are making more lactate, we are actually not getting more MPK signaling, but we're getting ahead of ourselves. Cause I, I'm really excited to get to this stuff.
+ uh yeah you all know me at this point um okay so so why um why does it make sense for the cell to
+ monitor energy state right um so uh so because it doesn't want to be in the right because if you lose
+ the energy state you the cell dies you die yeah yeah and so so we don't want to like do one sprint
+ and like have all of our like leg muscles wither and have to be rebuilt that would be horrible
+ apoptosis is the name for apoptosis actually there's debate as to whether the second p gets
+ pronounced uh like because technically it's apo is the uh is the prefix and then pto sis is the uh
+ the greek word so it could be a pop apoptosis apoptosis is how apoptosis folks say so yeah to
+ prevent apoptosis you've got to maintain a good cellular energy state one cell must activate ampk
+ yeah and this is what we're talking about here is like in the muscle like there's a lot of stuff
+ with ampk and other things you know involved elsewhere in the body but right now because
+ this is a you know cycling training podcast this is where we want to focus so um so when um so the
+ So AMPK reacts to the cell's energy state and the cell's dropping energy state.
+ And when the energy state is dropping, you're losing ATP, but you're mostly gaining AMP, especially at moderate intensities.
+ Very, very high intensities in extreme situations, we get ADP too.
+ So what happens is the cell's energy state dropping means it has to be maintained.
+ And AMPK is one of the main cellular switches, quote unquote switches, that starts to change the cell's focus from rest and digest.
+ We're going to store energy.
+ We're going to build intramuscular glycerides.
+ We're going to build glycogen.
+ And it starts to switch it to we need to start consuming these things to maintain the cell's longevity under workload.
+ So that's a huge, when you're moving, that's going to have quite different implications from,
+ from rest. Absolutely. Yeah. Uh, and so, and a lot of, uh, a lot of studies like, um,
+ like I, I think in one of the, uh, one of the studies on fat burning and transport,
+ one of the things that we looked at is how, um, so how one of the targets of AMPK is actually
+ acetyl-CoA carboxylase, which is one of the things that goes, uh, that is a, um, one of the first
+ steps into an energy storage pathway. And as AMPK gets activated, ACC, acetyl-CoA carboxylase,
+ actually gets phosphorylated and it reduces its activity as AMPK's activity starts to go up.
+ And so that is one of the ways that a lot of studies actually look for AMPK activation is by
+ looking at some of the targets of AMPK and seeing how phosphorylated do these get, as in how reduced
+ are their activities because it's showing the cells switching the state from rest and digest
+ to fight or flight in a manner of speaking. So that's the big role of AMPK. It's an energy
+ sensor that shifts things in the cell to maintain the energy state so the cell doesn't die. But
+ here's why we care for adaptation. Oh, excuse me. Evolution saw fit to also make AMPK
+ simultaneously take this function of sensing the cell's energy state, but it also, AMPK also,
+ helps the cell respond to this energetic stress by making aerobic adaptations to help reduce
+ future energetic stress in the cell. And this is why it's your magic bullet for
+ all the cycling gains you could ever dream of. Well, this is why some people think it's the
+ magic bullet because it's like ampk was one of the earliest things known about like exercise
+ like ampk yada yada question marks adaptation um you know like one of the earliest things known
+ was like repeated exercise bouts yields mitochondrial biogenesis and ampk was one of
+ the first and most well-studied things starting in the early aughts um but at the same time calcium
+ was studied as well, calcium signaling for just like regular muscle contractions. So those were
+ kind of co-studied together at the time. But anyway, so they both have kind of like in the
+ last episode, we talked about how one of the eventual targets through calcium activates
+ CAMK2 and all that stuff. And it eventually gets to our old friend PGC1-alpha. And so AMPK turns
+ out to do the exact same thing it has the exact same target and that's one of the reasons one of
+ the many reasons that a lot of studies in like moderately you know kind of untrained individuals
+ will show the exact same adaptations between sprint interval training and like moderate you
+ know intensity exercise although i think as we'll get into the studies more you'll when we look at
+ the actual uh participants in these studies might not be the most representative population
+ for yeah relative to our audience yeah uh well one of the cool things that we're going to see
+ is that training load has a big effect and like how well trained you are so um so what i want to
+ do first though is i want to look at i think one thing that might uh uh help uh the listeners kind
+ of get more context on ampk is that we really are it's it's uh we're talking about peripheral
+ adaptation so specific to to your cycling muscles like yeah if you have a look at um
+ all of these studies they're taking typically taking muscle biopsy samples from the vastus
+ lateralis which is that's the quad on the outside of your leg that's the quad on the outside of
+ your leg so my hypothesis would be that if you took uh muscle biopsies from the what's the big
+ bicep muscle called the biceps fem femoris yeah biceps femoris oh no biceps femoris no that's
+ one on the leg oh you don't know anything about our muscles what what is yeah whatever your bicep
+ your bicep your bicep yeah if you took a sample out of that after two hours of three hours of
+ steady state cycling i don't think you'd you'd see any particular potent effect uh changes whereas
+ whereas if you like took it uh did the same with swimmers you'd see the exact reverse that
+ in their delts they'd that they might see ampk activation whereas yeah your lats especially yeah
+ yeah yeah whereas they they wouldn't see much in the yeah so it's lateralis right so it's so it's
+ specific to the worked muscle group and this is actually something that i mean i know you listen
+ to the podcast and we've talked about this in the podcast multiple times but you're right it's
+ always good to to refresh on this kind of stuff for people who are just listening in for the first
+ time or may may not swim in this stuff constantly like people like you and i do so um sad people
+ like us sad nodes like us uh this is where kyle would always call me a nerd um and while he's
+ spending two weeks i know working on yeah working on weather balloons um whatever kind of no they're
+ actually balloons like show me a picture remember the uh lead balloon episode of mythbusters it
+ kind of looks like that um anyway so all right so let's first take a look at a paper uh where we can
+ watch ampk activation lead to mitochondrial biogenesis so like one of our main and one of
+ the earliest observed um uh training adaptations to endurance exercise as noticed by um by uh
+ John Hollis, I think. And so now we're going to be able to see the energetic stress lead directly
+ to the action of adaptation. So our first paper today, we're going to do two. So the first one
+ is called Chronic Activation of AMP Kinase Results in NRF1 Activation and Mitochondrial Biogenesis,
+ which is for dramatic effect, we should always read these last. I don't know why
+ start with this um so we've got a link to the paper in the show notes and i believe it's open
+ contact uh open text actually so if you want to check this out please feel free to read along but
+ uh this paper is from 2001 paper is not vegan friendly it's not they they sacrifice some rats
+ but this is pretty typical um and actually you could tell what era a paper was from based on
+ the how badly they well based on well based on the verb that they use um around um the animals
+ uh that they use so um yeah so sorry sorry folks we are gonna um we are gonna lose some mice in
+ the name of science for this um not to pass judgment one way or the other but it happened
+ so it would have been pretty brutal to put humans through this uh protocol like yeah that's not
+ going to pass an ethics review depleting your yeah your muscle creatine and atp concentration by
+ 40 to 50 percent in spoiling it oh my god dude okay so yeah 2001 so this is really early in the
+ study of ampk activation and its effects in cellular exercise or cellular effects and exercise
+ so the abstract's first sentence actually gives really good context for like what 2001 was like
+ for the study of AMPK anaerobic adaptation.
+ Quote, the underlying mechanism by which skeletal muscle adapts to exercise training or chronic
+ energy deprivation is largely unknown, unquote.
+ So they also discuss as a probable cause, if you will, for its involvement, how at the
+ time AMPK activation by AMP like chemicals led to then known adaptations caused by exercise
+ like glute four expression uh which is the one that transports glucose into the muscle um and it
+ also oh sorry go ahead when when when you're trying to um load carbohydrate glute four is is that that
+ key thing that you'll get from your pre-race ride to to help with the glycogen synthesis yeah because
+ it moves from the rough endoplasmic reticulum to your actual um muscle cell surface um and so that
+ That is part of the many things that happen when you do openers, for instance.
+ So it also, I lost my place on the page.
+ Oh, yeah.
+ And also, they also knew that AMP-like chemicals led to increased mitochondrial enzymes, like activity of citrate synthase or cytochrome C were some very common things, easy to measure for the standards of the day.
+ Super easy now, but anyway, so the experiment that we're going to look at is meant to elucidate more on what was known at the time that repeated bouts of endurance exercise may lead to relevant adaptations via AMPK, but they're looking for specific mechanisms because they know other things, which we'll get into, like we're already more directly linked to expression of these enzymes and better endurance performance.
+ So we're really trying to find like, quote unquote, missing links, if you will, the same
+ way as like people are looking at like, you know, Australopithecus kind of skeletons as
+ like missing links between humans and apes.
+ So what they did here is researchers fed beta guanidino propionic acid, or we're just going
+ to call it beta GPA to rats with a control group not receiving it.
+ And so beta GPA is a creatine analog.
+ And what this does is it outcompetes the actual creatine in cells in spots where creatine would normally bind.
+ But it doesn't do any of the useful things for a cell that the creatine actually would by being a spatial and temporal energy buffer as discussed in Wattstock 38.
+ So it basically creates some really shitty situations in all of the rat cells.
+ But their researchers are only looking at muscles.
+ so in the muscles could we just uh revise coley because i remember that particular what stop
+ yeah um what is what it would be like to be one of these rats with no creatine oh you it would
+ be lethargic like your vision would always be blurry um like you you'd have brain fog constantly
+ i can imagine you'd be very you could be very hungry uh if i recall correctly from reading
+ the study i think the um i think the rats that um that had the um that had the beta gpa were
+ actually a little underweight by like 50 grams or on average or something like that because
+ 500 grams you think of uh with creatine as being something you only use for your really high
+ intensity stuff like you know your weight lifting your sprints but actually it's required it's
+ it's required just to just to initiate any movement so to get off the couch you need
+ some creatine to to get moving at all yeah because like because yeah in that episode um what we saw
+ is that like uh like creatine uh and creatine phosphate have they have an easier time actually
+ dispersing in a cell and so like a lot of the time um like atp that gets made in the mitochondria
+ actually becomes creatine and then becomes ATP out again later out further in the cell so like
+ there's actually like a conveyor belt between like you know between the mitochondria creatine
+ phosphate and like actual ATP further out in the cell um and so yeah so that's that's the spatial
+ energy buffer but the uh the but the temporal energy buffer is like when you stand up from the
+ couch real quick um like one of the first things that happen is your creatine like depletes like
+ a little bit, depending on, you know, if you're like standing up from the couch or you're jumping
+ up as, as fast as possible. Um, and so, so yeah, so like that kind of stuff would take a big hit.
+ So you would not be happy as a, as a rat, like eating beta GPA, like in your diet. Um,
+ but the other rats, they had a fine time and they, they also unfortunately had to get biopsied as
+ well so um so the yeah so the rats that had the beta gpa um their phosphocreatine stores were
+ depleted by approximately 85 percent yeah and their atp concentrations in their cells
+ got decreased by 40 to 50 percent and this is a massive hit and we're also talking about that
+ that's a chronic state so yeah that's like that's like going around having always just done a six
+ hour ride or worse six hour ride with ftp i would say that's you morning day and night well it would
+ feel like you've done a six hour ride but in terms of the cellular conditions it would be like having
+ done like a 1500 watt for 20 seconds sprint like that's the kind of cellular conditions we're
+ talking about like immediately i wish i wish i knew what that felt like i it's no fucking fun
+ like if you watch any of the track cycling um uh like for the olympics uh or like world
+ championships or anything like that if you watch the sprinters especially at the very very end of
+ the night um they are breathing so hard between efforts they're just and it's it like it that's
+ how much oxygen deficit you incur um so yeah these rats were probably not very happy um but
+ yeah so that's so this is how the researchers created a perpetual state of energy stress in
+ these rat cells so let's look at what happened when they looked at these rats on the other side
+ they looked at the quad muscles and the calf muscles of rats in a variety of ways we're going
+ to talk about these insects so uh for the energetically stressed mice for the beta gpa mice
+ they looked at a transcription factor mice have four quads uh yeah they've got four legs
+ oh i guess they mean
+ that's one of those things like which way does does the brontosaurus wear it wear pants
+ is it like yeah like on all fours it's on the back half uh this would be just in the back half
+ just the back yeah because because the the uh the the four limbs are their musculature is much more
+ akin to what we would expect for like humans and other quadrupeds. So we're not that different from
+ rats. But yeah, this is the ones on the hind legs. And yeah, so what they did was they looked at a
+ transcription factor called NRF1. And a transcription factor is just something that
+ binds to or helps things bind to DNA to actually turn genes into useful stuff. It's like part of
+ the whole process of like turning your dna into proteins and whatever that helps you do whatever
+ better um it's like the middleman yeah it's kind of like a middleman it's actually kind of like
+ it's kind of like something that puts in an order with the middleman um and so it's like it's like
+ you know you might want to mail a letter like i mail a letter to you and you're the person who's
+ going to like make my new arrow bars or something like that and so like like this would be like the
+ letter getting to you being like, Hey, we need this thing. Um, so what they found was the, um,
+ and so at the time NRF one nuclear respiratory factor one, uh, it was known to regulate some
+ big key genes in mitochondrial biogenesis and cell growth. Cause actually the two are not quite
+ so inseparable. And this is one of the reasons that in like cancer study, you see a lot of the
+ same energetic pathways being activated for cancer as we do and self-reliferation as we do for like
+ exercise and all that kind of stuff so the energetically stressed mice had almost 10 times
+ the amount of nrf1 as the control mice you would hope they would be compensated in some way for
+ this is one of the ways to compensate yeah so this is one of the yeah so so like the cell cellular
+ stress is like, this is what actually, so this is one of the reasons I love this paper because it
+ was early on, but they knew that cellular stress, they weren't like, oh, we're going to make the
+ rats burn lactate or burn fat or whatever. Like they're like, no, no, this is cellular stress.
+ Um, and so they made cellular stress and they're seeing what happens. So the, uh, the experimental
+ mice did actually not have 10 times the mitochondria or mitochondrial enzymes or anything
+ like that. As you might hope they had about 120% of the cytochrome C as the control mice,
+ which is involved in the electron transport chain, but pretty much across the board,
+ when they actually looked at the rat muscles for the experimental group,
+ they had approximately double the mitochondrial density as the control mice.
+ So when you take a, like a cross section of a rat of these rat muscles, like the quads and the calves,
+ like, like you're looking at tree rings, you look at, okay, how many, how many contractile,
+ whatever but like you can see the mitochondria plain as day and they had approximately double
+ that's pretty impressive yeah it's pretty impressive so the last thing they looked at
+ was they also found a doubling of something called ala synthase doesn't matter we're not
+ going to get into it um not that i know exactly what ala synthase does in terms of this but i do
+ know that it's a rate limiting enzyme for synthesizing heme groups and heme groups in a
+ in a mitochondrial kind of context are crucial for electron transport chain respiration and capacity.
+ So when we get into a lot of papers, you'll see people talking about mitochondrial function.
+ And from my understanding, is that what we're kind of talking about here with mitochondrial respiration and capacity?
+ Right. So we actually looked at, in Wattstock 41, I think we looked at a paper that looked at mitochondrial function. And typically you isolate mitochondria and you put it in a tiny little machine and you measure picograms of oxygen. And you basically look at like, what is the maximal respiration rate per gram or like, you know, whatever tiny portion of a gram of mitochondria. And so you end up with like, basically like the VO2 max of the mitochondria themselves.
+ yeah because from my understanding like doing more higher training volume gives you more of
+ mitochondria whereas the high intensity training is really important for making
+ those mitochondria you know like you said having better higher vo2 max themselves yeah so they've
+ got like uh you've got better mitochondrial function yeah so you've also quite interesting
+ here is uh you can see that these rats have gotten more of both so it's like they've done
+ volume and intensity yeah um yeah and that and you know like in in you know the context of rats
+ this is um you know it is kind of like doing both and that's why it's like the like i mentioned
+ before like when we see a lot of papers uh you know showing in like you know early trained people
+ that they have the same benefits from sprint training as they do from like moderate intensity
+ endurance exercise uh and this is kind of the same uh and this this is one of those things that
+ creates one of those like crossovers between like, yeah, like, you know, you can get a lot of good
+ aerobic benefits from doing high intensity. But, uh, you know, when you mentioned like capacity,
+ like versus volume, um, you know, you've also read a lot of the same David Bishop papers that
+ I have, cause he's one of the guys who talks about that the most where like, you know, mitochondrial
+ function in terms of the mitochondrial VO two max, as it were is higher if you do higher intensity
+ stuff um but it seems like that's not uh it's not a limiter when we actually do regular exercise but
+ mitochondria needs the headroom uh it needs that extra capacity when we do the higher intensity
+ exercise because the mitochondria like the cells don't want these things to be ever maxed out
+ because like now you're really fucked if they if your mitochondria actually do get maxed out during
+ exercise yeah that's pretty bad news yeah so um anyway so yeah so like i said would the other
+ takeaway be that what these mice effectively have been doing is is high intensity exercise
+ at all times with no break like which is not and that's why they've seen both kind of yes but a
+ real world human couldn't actually do that yeah no i mean that's why this is an experimental group
+ because these conditions are like, you know, there's, there's no contractions here. There's
+ no, um, you know, they didn't look at glycogen. So we don't know anything about that. Like they
+ didn't look at, uh, at, at any of the other things that we would normally see, excuse me,
+ with exercise. And so we can assume that there were a bunch of other things activated here,
+ but we don't actually know because they were not measured. Like, uh, like our next podcast for
+ Wattstock is going to look at like, you know, P38 and MapK probably. And, and that was probably
+ active, uh, very well here too. Who knows? I don't like it's, it's not in the paper. It's not
+ included because they didn't, you know, it was 2001. What are they going to do? Um, but like you
+ said, this, this paper was to try and, you know, like you said, fill in the gaps and go, go a bit
+ further. Cause at this, at this point it was more just like, well, you do so you write, you know,
+ you ride your bike, you ride hard, something happens and you get more mitochondria and happy
+ days. Question, question, question, profit. Yeah, exactly. So it might not have provided
+ all the answers, but at least it was starting to fill in the gaps. Yeah. Yeah. So this,
+ this paper really showed like energetic stress, AMPK activation, like NRF1 mitochondrial growth
+ being put together in the muscle itself, like in live animal muscle. Um, and you know, that was a
+ big deal at the time. And there was another study that did some very similar stuff. And I actually
+ had to debate whether to use this one or that one. Uh, cause I thought both were really good.
+ Um, but you know, like, but again, like, let's not get too drilled down in this and let's step
+ back for a second because there are other things that like can cause these adaptations. I don't
+ want to you know get too many i don't want to like make it seem like mpk is like the one thing
+ that causes adaptation uh i think we've done a pretty good job of that so far though um so um
+ so yeah so the study is is actually lacking a performance aspect which is normally something
+ that like in people we would definitely want to see because also we can't biopsy people like this
+ and that would be really inhumane to actually do that and mice mice and rats can't ride bikes so
+ it's quite hard to although i would that would be so adorable wouldn't it it would be they could
+ have two sets of cranks yeah yeah like a little mice on an assault bike that would be awesome
+ um yeah so yeah so we don't see the mice run longer or anything like that but i think one
+ of the reasons i like this paper and that i give it a pass on this is because up to this point in
+ exercise physiology research one of the things that is most highly associated with improving
+ endurance performance is mitochondrial volume and capacity. It's like, why add that if we see
+ double mitochondrial density? It's like a no-brainer to these people at the time. Like,
+ oh yeah, they're going to have better exercise endurance capacity. Why even test it? Because
+ we're focused on the mechanism here. And so that's one of the reasons that actually
+ with ampk activation there's not a ton of studies that directly go okay more ampk activation more
+ mitochondrial density more performance because so many studies already at that point had seen
+ better mitochondrial density better endurance performance and better better cellular energy
+ state maintenance um so it so like yeah i give it a pass for that but at this at this point
+ from my understanding that there's no knowledge as to the dose response relationship not so we
+ don't know that more ampk means you know more you know better um maintenance of the cells energy
+ state yeah exactly um yeah so um you know so how much ampk activation how long uh all that kind of
+ stuff, how frequent, uh, and then like how much more mitochondria do you make?
+ Like, these are, these are questions that are like, you know, we don't have exact dose
+ response numbers, like you said.
+ Um, but you know, in terms of like real world performance, cause I coach people, you coach
+ people like we know that when people do high intensity exercise, like this can be greatly
+ improved.
+ Uh, it's, it's, it's also like, uh, you know, from where we sit, like we don't need to biopsy
+ people and do horrible experiments like this.
+ no not at all yeah so so i think now what we should talk about is what everybody is probably
+ wanting to know all right so how do i activate ampk how do i get benefits from this how do i
+ use this to better my training under what conditions and under what conditions shouldn't
+ i think about this so um yeah so as usual the knowledge that we're going to gain from the rest
+ of this podcast is not only to let us train in better ways than we already know how but to also
+ allow us to cross out all of the potential dumb ways that we could like do this kind of stuff so
+ which is also which is still very useful it's still very useful but also i this is one of the
+ things that i also find very useful in consulting with people too like when i see when i see certain
+ patterns in like intervals that people do sometimes i'll say this is great keep doing this
+ or i'll say you should tweak this a little bit like this and maybe give yourself a little bit
+ more rest and i give them some you know pointers on how to do this and you consult with people too
+ like i'm sure you've done exactly the same thing yeah and and so there's there's stuff that you'd
+ say like that people are you know it isn't optimal you know you could be doing better
+ and there's also some stuff that is directly harmful they should have been doing um yeah so
+ we're gonna say hold on we're gonna i i don't want to scoop ourselves because i want to get to the
+ directly harmful stuff at the end. Cause, uh, cause that's like, that's so much fun to, to get
+ through that stuff. I don't want to scoop it because I don't want to, I also don't want to
+ get the sprinter in front of the lead out train with this stuff. Like I want to do this in the
+ right order. So, so we're going to get to the next big paper and I highly recommend people check this
+ one out. It's a, it's a Rothschild meta analysis on what does and doesn't activate AMPK. Um, and
+ And I was, you know, actually this came out last year in 2022.
+ And if I had attempted this episode, like before this paper came out, it would have
+ been like, it would have been an entire series long and we would have completely lost sight
+ of the big picture because there are so many different ways to think about this.
+ And so I figure it's probably best for people to like not get lost in the weeds here, including
+ me, especially me.
+ And so, so the paper goes through a bunch of studies.
+ I think they included like 89 or 90 or something like that, or almost a hundred.
+ And they looked at what does and doesn't activate AMPK.
+ So we're going to go start with the positive stuff because the list of what doesn't is
+ pretty long.
+ So we're going to go with what does.
+ We've got three big things that help activate AMPK.
+ And number one is exercise intensity.
+ And this is probably a no brainer for a lot of people.
+ exercise intensity because we were just talking about sprint interval training right um so this
+ is absolute intensity and one of the coolest things that i saw like they they referenced a
+ paper in this review and i went to read it so just just before we start on that curly i think we uh
+ absolute intensity sounds like quite a simple term um and that i'm sure a lot of the listeners
+ we'll we'll know about but it is still worth um clarifying that absolute intensity so if me and
+ coley uh you know both riding at 300 watts were at the same absolute intensity despite it would
+ be a different relative intensity for each of us yeah yeah so um so 300 watts for me i could
+ probably do right now for about three minutes um for you you could probably do for about i don't
+ know nine hours um so yeah 300 watts is like under your like first threshold like this it's pretty
+ chill for you um it's it's decidedly not chill for me it's a happy place it's a happy place so
+ like so there is there is a relative thing here but like i'm talking absolute intensity relative
+ relative to the same person um and so that's what i mean by absolute intensity it's not like you
+ know your 500 watts is the same as my 500 watts because you could probably do 500 watts for like
+ five or six minutes at this point. And I could probably do 500 Watts for like, like one and a
+ half. Um, so, so the study that, that they, that they mentioned that I was like fascinated by,
+ I loved it. Uh, they had people ride at 72% of their VO two max during hypoxia. So like
+ basically an at altitude VO two max. So 70% of this VO two max for this, for these people was
+ 111 watts and they didn't really see much ampk activation but then they wrote at the same
+ um 111 watts in normal oxygen conditions no bump in ampk activation no change
+ so what they did hold on here's here's the third piece of this what they did was then they had
+ people go to the same relative 72% at like the C-level VO2 max, their normoxia VO2 max at 171
+ watts. Now they saw a big jump in AMPK activation. So this is linking back to what we said earlier
+ about how this is, AMPK is very much a signal for peripheral adaptations. Peripheral adaptations,
+ we're talking about in the muscle rather than your heart yeah yeah so typically cardiovascular
+ system yeah so like the definition of peripheral adaptations is actually after the neuromuscular
+ junction so like so when so when your nerve tells your muscle to contract at like where the that
+ signal is on the muscle surface is being received from there into the muscle is considered the
+ peripheral uh before that pre that is considered the central which means i don't actually know
+ where like capillaries fall fall in this range but just in terms of like nerves in the brain
+ and muscles i know you're looking confused i also do not entirely i'm just trying to think about
+ where capillaries would fall under that central or peripheral um i think they'd come under peripheral
+ because you could again back to the swimmer versus cyclist example i think you could have
+ really good capillary densities in the muscle that you're that is trained okay hold on hold on this
+ is nerd stuff we're gonna we're gonna skip over the nerd stuff we'll digress we are we are digressing
+ as as is our usual way um so yeah sorry people are listening we're gonna we're gonna keep it
+ focused so anyway yeah so what all this means is that no matter what's holding back your muscles
+ from making power they're ready to handle a certain metabolic rate like they're ready to
+ handle a certain workload to maintain cellular energy state, to maintain their ATP. So that's
+ one of the things that shows us that if you are not making the watts that you possibly can,
+ that you're used to making, what happens is you are not creating the cellular energetic strain
+ on the muscles. Because if you normally train at sea level, then you go up to 10,000 feet or like
+ 3,000 meters. Suddenly, your power output is diminished, but the absolute intensity
+ is also reduced, and so is the AMPK signaling. Another training implication of this could
+ perhaps be that when we're talking about doing FTP or sweet spot efforts, even endurance riding,
+ just that there's no real good rationale to kind of big brain what cadence you're doing them at
+ whereas because because you're going for peripheral adaptations we're looking for that total metabolic
+ straight you know strain on the muscles which is um yeah the workload is the workload the workload
+ is the workload 300 watts is 300 watts yeah um versus yeah which is different when you know when
+ when we're looking at vo2 max and we're manipulating the cadence deliberately that's for a totally
+ different purpose. Yeah. That's a very central adaptation. That's a very central adaptation.
+ Whereas when we're talking about the peripheral adaptations here, yeah, 300 Watts is 300 Watts,
+ and it doesn't matter how you produce it. Yeah. And so actually the opposite can happen too.
+ If you are used to being at altitude, like if you are from like, you know, 2000 meters and then you
+ go to sea level, suddenly your muscles have a huge amount of workload that they're not used to at
+ this point, unless you are used to going back and forth from altitude to sea level. And so that is
+ one of the other things that we can consider as a potential thing to think about when people are
+ going to sea level to train from altitude or race or vice versa. But anyway, we don't want to go too
+ far into this because we've got a lot more to get to. And especially with what general... So in
+ normoxia for most people like at their regular oxygen conditions like if you live at altitude
+ at the illiteracy level doesn't matter like what intensity seems to always activate ampk
+ big question and it depends it depends right oh god i'm so sorry everybody time to drink so um
+ so this review the ross child review does not actually say exactly but they reference i think
+ they referenced. I forget. They should have. But I know that there's a great study from Glenn
+ McConnell, who hosts the Insert Exercise Podcast, which is great, by the way. They showed that two
+ hours at 65% of VO2 peak did not activate AMPK in well-trained individuals. And the reason that
+ they did this study is because they had a previous study where in untrained individuals doing exactly
+ this two hours at 65% VO2 peak did activate AMPK. And so where is 65% of VO2 max for most people,
+ considering most people's FTP is between 80 to 85% of VO2 max. Um, for if you're well-trained,
+ this actually turns into about 85% of FTP. This is a kind of upper tempo type of range.
+ yep yeah exactly and that's that's one of the reasons that personally i don't assign that much
+ tempo riding unless somebody is like tired and we need a little bit of workload that's okay a little
+ muscular load it's fine um or like when they're off the couch it's a great time to do tempo because
+ you get some of this muscular adaptation if you're not used to doing any intensity this is actually a
+ good stepping stone to like to help your muscles get used to this kind of workload this is one one
+ of the many reasons why um and just uh me and coley discussed this this particular study a bit
+ before the podcast um if if you look into what they're actually calling trained cyclists here
+ it was like what two two hours what one ride your bike three times a week no that's that's trained
+ cyclists uh yeah yeah so yeah so so there was a paper in 2000 looking at um looking at defining
+ the different levels of cyclists, like trained, well-trained, um, you know, uh, extremely well
+ trained or pro or whatever in world tour or something like that. There were like four bins
+ of cyclists and like the bottom one was trained and they're basically riding their bike for an
+ hour, three times a week. And so that's like, that's what we would consider untrained. Um,
+ but so, so these, yeah, well, hold on the second one, the well-trained, and this is what, this is
+ what the McConnell study uses, well-trained cyclists. And so they're typically riding six
+ to seven days a week from one to four hours which is very precise but i i think it actually goes to
+ show that like people who are riding fairly consistently and this is this actually probably
+ lines up with your coaching experience because it lines up really well with mine
+ where like once people are riding that often for a couple months like like all this kind of middle
+ intensity benefit that you get from like riding moderately hard um you know from below 85 percent
+ ftp it kind of goes away so um yeah my my takeaway from this was that if you're uh if you are one of
+ these people that would get ampk activation from riding for two hours at 65 you're also someone
+ who's doing such small training volume that you probably don't need to be overthinking yeah the
+ The land of perpetual noob gains where you can just go have fun and get faster and it's awesome. You don't need to overthink anything. But all this points to the second thing that this paper talks about as being a good predictor for AMPK activation is low training load.
+ So not having trained that much where you are less trained, you get more AMPK activation.
+ And the more well-trained you get, the less AMPK activation you get because the author's note right at the top of the section, by the way, and I've been harping on this because it's Cellular Energetics 101, quote, training leads to an improved ability to maintain cellular energy charge during exercise, unquote.
+ And cellular energy charge means having a really nice, strong ATP to ADP ratio. That's it.
+ So the review continues. Basically, untrained or lightly trained individuals have five times
+ higher AMP concentrations at 65% VO2 max than trained people. And they have similar AMPK
+ activation, they've got about five times greater AMPK activation than trained people at 65% VO2
+ max. And so, um, and so, yeah, like for this, like they, they know, um, you know, like they
+ know the same thing about what well-trained people do. Um, and, um, and so like, uh, uh,
+ what's my next one? Oh yeah. It turns out they know AMPK activation is great, greatly reduced
+ after only seven to 10 days of training.
+ And they referenced three papers with this.
+ And I've read two of them, like even before, like before this review, I didn't actually
+ read the third, but I know two of them really well.
+ And I went, oh yeah, yep.
+ That's it.
+ I think one of them was the McConnell paper.
+ Oh, the other one was the Granada paper that we looked at in Watchdog 41 with the crazy
+ proteomics.
+ So yeah, really cool stuff anyway.
+ So, but this also circles back to exercise intensity, right?
+ So the more well-trained you are, the less MPK signaling you get from middle intensity stuff,
+ because you're way better at maintaining your cellular homeostasis.
+ Pretty simple.
+ Yeah.
+ All right.
+ Ready for the last one?
+ Okay.
+ I think the last one is probably the one that gets the most chat on forums and in cycling culture.
+ I know.
+ I think, again, Kolie, with muscle glycogen, I think this is something that never harms to step back, take a step back here.
+ Because with a lot of my clients, I often assume they know what glycogen is.
+ All right.
+ But actually…
+ Yeah, you're right.
+ So the thing that is associated with activated AMPK is end muscle glycogen.
+ So, yeah, end exercise muscle glycogen.
+ Like what are your glycogen stores at the end of exercise?
+ And this is a messy picture.
+ So, yeah.
+ So why don't you take us through a quick tour of glycogen?
+ So glycogen is how we store carbohydrate.
+ And it's the main fuel that we use for excess moderate and high-intensity exercise.
+ So your body will always use muscle glycogen first, and then it'll use other sources, fats and glucose, to make up the rest.
+ Well, actually, not necessarily true.
+ But, um, but yeah, like, but basically like your muscle glycogen usage is highly related to your, um, your ability to maintain cellular energy state and the higher you maintain it, the less muscle glycogen you use.
+ So the better endurance trained you are, the better fatigue resistance you have, and the
+ less muscle glycogen you use at higher exercise intensities.
+ And it'll use like, and it will preferentially use other sources like, like ingested carbohydrates,
+ um, you know, bloodstream lactate, like intramuscular triglycerides, bloodstream triglycerides,
+ um, like, and, but, you know, but it's one of those things where like in WSDOT 40, we
+ kind of talked about like, this is why eating doesn't necessarily spare muscle glycogen.
+ um because yeah so so like how trained you are given given your fitness level your muscle glycogen
+ usage will be tightly uh correlated with your exercise intensity yeah it'll be reverse correlated
+ so the more well trained you are the less you use yeah but i mean given your fitness level
+ the harder you ride the more muscle glycogen yes yeah um right so actually pretty much that energy
+ any fitness level because you can be super super super well trained and you can like ride really
+ hard and still deplete your muscle glycogen so like it's yeah it's not like you have infinite
+ um ability to like be fatigue resistant it's like you know because we can watch the best in the
+ world watch the tour de france and they still they still have a bad day like if they overexert
+ themselves it's like rest in peace bagachar i i i was i was pulling for you this year
+ anyway so so let's get into the last one the other important part about uh muscle glycogen
+ is that you you have as much as it is it's a finite tank and it can't it once you start
+ exercising that tank can only become more empty yeah you can't do anything to top it up yeah
+ and you can't yeah or the only thing you can do to slow down how fast it's depleting is to also
+ slow down or reduce your intensity to slow down to actually slow down yeah all right so yeah so
+ the last one here end muscle glycogen so there's a strong correlation between end muscle glycogen
+ and amp k activation so this is a messy picture by the way so um so everybody put on your put on
+ your thinking hats and like and focus on this because this this is one of those things where
+ in a podcast i would hear it i would go back like five times to rehear it um and i so i hope we do a
+ decent job the first time so there's not a correlation between starting muscle glycogen
+ and ampk activation and there's also not a correlation for rate of depletion
+ so to convert that to um our users it doesn't matter what you've been eating the previous few
+ days as to how much ampk you're going to get out of it if you're looking at that factor in isolation
+ and it also doesn't matter how hard you're riding so perhaps we can get ampk activation by
+ riding its sweet spot for two hours or riding ftp for one hour hypothetically
+ or doing like really high intensity intervals exactly um and uh and you know they actually
+ see the same thing they note that it's the same in normoxia versus hypoxia and actually people
+ with mccardle's disease which is a disease where you cannot store glycogen or you can't store it
+ you can't use glycogen that sounds horrible yeah it's not it's not fun actually i think uh i think
+ john f kennedy had it if i'm not mistaken um so so there's two things to consider here and this is
+ this is one of the ways where people start to big brain it and big brain it the wrong way
+ So you can't just not eat and have low glycogen stores and then like have very active AMPK when
+ you start riding. It does not work like that. So second, you also cannot just start riding with
+ low glycogen stores. Like, you know, whether, whether you do it from like intense exercise
+ the previous day, whatever it is, like starting with low glycogen stores doesn't help. Not eating
+ anything doesn't help um so why does all this make sense here because like i kind of just talked
+ about like what we learned in wastock 40 or what we demonstrate in wastock 40 is the conditions
+ that might draw down muscle glycogen are related to but are not exactly the same as the conditions
+ that maintain the cellular energy state like maintain the cells atp stores and ampk like as
+ we've said in the introduction is all about maintaining energy state right it's not about
+ maintaining muscle glycogen stores or whole body energy balance yeah and um and actually one of the
+ cool things about this review one of the reasons that i rate it so highly is that they even note
+ that at that end exercise muscle glycogen levels are not the actual primary driver of ampk activity
+ They don't actually expand on this, so I will though.
+ So what's happening here is that the conditions that create continuous energetic stress to the point that you can activate AMPK are the similar to the ones that draw down glycogen, but they are not always the same.
+ so it's saying that perhaps n muscle glycogen is very tightly correlated with ampk activation
+ because of how hard and how long you go during exercise of how hard and how long you have to go
+ yeah during the exercise to create that but actually it's it's a case of the causation
+ that the correlation does not equal causation right in this case yeah so like so let's let's
+ take it for example, like let's take FTP intervals. Like if you are capable of riding at FTP for an
+ hour and like, let's say you're training, you're building fitness and you want to be improving
+ something like this is very different from like maintaining and getting tapering and stuff like
+ that. But now if you go out and you, if you can do an hour at FTP and you go out and you do a two
+ by 20, this is so chill. Like, like it's probably not enough to like to disturb your cellular energy
+ state for long enough because you can handle this for an hour. Why do it for 40 minutes? You have to,
+ and this is kind of like what Rory harped on in the last podcast. Um, you know, a smart guy that
+ is progressive overload. Right. So like, so in order to get to, um, more AMPK activation and
+ this like middle intensity signal, and that's one of the cool things about like sweet spot and FTP
+ work and threshold work is that it is like a combination of high intensity and low intensity.
+ That's why I call it spicy endurance. It's, it's like right in the middle. You get a lot
+ of the adaptations of both, um, including APK activation and, you know, um, uh, what do you
+ call it? Uh, calcium activation and all that kind of stuff. And you get into big motor units and
+ like the whole thing's great. Um, so, um, yeah, but it's one of those things where like, in order
+ to actually do this kind of exercise, that's going to benefit you. I mean, just, you know,
+ purely from an APK activation standpoint, you absolutely have to be able to main to hit your
+ absolute intensity relative to you and you also have to be able to you know maintain that intensity
+ for the right duration for you so this is where i've i've found that generally that the higher
+ level of the athlete the more important being well fueled for these ftp and sweet spot efforts is
+ because like once your your absolute uh power is higher and the duration that you can sustain that
+ four becomes higher the uh you are going to need more glycogen to fuel that activity
+ and and because as we've just said here what really matters is that you you can actually do
+ enough work at a high enough power so that you are you know your muscles are are getting tired
+ at the end it's almost would you say coley it's like you know doing like must think of like
+ muscular endurance like how long can you do a you know um an isometric split squat for but you know
+ it's just it's for it's for a very specific task yes and and you need to be able to to to do that
+ specific task to your like yeah like um like your specific specific uh limitations yeah and this is
+ one of the things that that we that is like you know we actually take for granted but it is one
+ of the things that we individualize when we coach people is like, you know, how hard and how long
+ can you do this? Okay. Well, we're going to have to go probably a little harder and a little longer
+ next time. Otherwise we, we know for a fact from our training, from our coaching and training
+ experience that like, if you just do the same thing over and over all the time and you're not
+ seeing any improvements, well, you clearly need to try to like progressively overload it just a
+ little bit. And you've got to be well-fueled for it. Like you cannot, you cannot hack AMPK signaling
+ by starting with low glycogen stores because you are going to be lacking the duration and the intensity to actually make this benefit you.
+ The authors also note there is actually not a significant correlation with consuming carbs or anything like that.
+ And they also note that any purported benefits of fasted training are not supported by any evidence.
+ so whoa whoa if you've not been on twitter i i have unfortunately i've uh i try to just speak
+ when spoken to on twitter um anyway so so this is this is our kind of like the big takeaways from
+ this meta meta-analysis um is that we're looking at intensity uh we're looking at training load
+ how well trained you are and, uh, and basically how hard you have gone for how long, like to,
+ to deplete your muscle glycogen. And so like, so like for instance, if you are, um, if you are
+ training for, yeah, like FTP work, if you, if you, if you do 40 minutes of FTP work and like,
+ that's pretty hard for you next time you do 40 minutes, it should feel a little easier and you
+ should be able to do a couple more minutes. And so like, so you keep progressively getting to the
+ same like to the same spot where your muscles feel like they have had that relative intensity
+ because they can maintain that energy state for a while then it becomes more and more difficult as
+ the glycogen draws down and then you start to really get that signaling but like for the first
+ couple minutes like you know it's it it feels easy and it is easy right yeah so um so we're
+ actually gonna it's like when yeah we're gonna hold on we're gonna talk about that in just a
+ second because don't don't stop the podcast here and like big brain oh it feels hard it's got to
+ be hard no it does not happen like that so sorry go ahead i know i was just saying man well perhaps
+ that that that can be your your your mental cue when you do get to the last five minutes of an
+ ftp effort that it that the magic does happen when in when you're going you're slightly extending
+ you right yeah i usually i because i uh i handwrite everybody's workouts usually uh whenever somebody
+ is like reticent to do this or they just don't like doing these efforts but i know they need them
+ i'll be like look the last couple minutes where it's kind of sucks this is where you make your
+ money this is where the magic happens um and it's and you've got to do the same thing to get there
+ uh and you actually cannot like get there pre-fatigued so like you know well we'll get
+ into in a second anyway because i want to i want to talk uh first about the training load um because
+ um actually you know what we already touched on this we're just going to move on so
+ like let's get to our main takeaways um because you know if you want to think about a ride being
+ effective only in light of ampk signaling uh which is one of many don't forget that um the first thing
+ to consider with all of our practical takeaways here before we get into the ways to not practically
+ take away this, um, AMPK activation is not on or off. It's a range of activation because we're
+ thinking about a proportion of your total AMPK, uh, proteins in your muscle being active. Uh,
+ and so it's not like it's on or off, but it's like, it's a range of intensity based on the
+ range of how well your muscles are maintaining their ATP. It's almost like these things are just
+ trying to make it more complicated to make it more difficult for us to understand. If only it
+ could just be on or off. I know. I wish it were a light switch. There are so few things in the
+ body that are. Yeah. So second thing, absolute exercise intensity matters. So if you're not
+ riding that much if your volume is pretty low, like if you're doing like five hours a week or
+ something like that, you are pretty much in a state of perpetual noob gains. So as long as you're not
+ overly fatiguing yourself, pretty much anything you do that feels kind of hard is probably going
+ to be fine. But when you get really well trained, you've really got to start to focus and target
+ this kind of stuff. So yeah. So next thing is how close you get to fatigue matters, especially
+ around threshold and just below so i think here where we could perhaps give a really useful
+ takeaway for the listeners is just to try and describe like how close to fatigue that needs
+ to be during these ftp and sweet spot efforts yeah well here's how i usually describe it then
+ i want to because you you do more ftp work than i do so i want you to tell me about how you coach
+ it and how you actually do it when you're riding so i usually tell people like an aid to get to
+ like an eight out of 10 and an eight out of 10, some people could call this a nine, uh, same
+ difference is, um, is where you have to really focus to keep the power up and you start staring
+ at your computer. Otherwise you're, uh, otherwise the watch are going to fall off. So how do you
+ usually think about this? That's cause that's where I think you need to get to this point and
+ then stop. Yeah. So I think that the eight out of 10 is, is kind of more useful as a, like for the,
+ before it gets hard, like how much does it feel I'm pushing.
+ So I'd say like when you're going above L, up to LT1,
+ it can just kind of happen.
+ It just feels easy.
+ You're just totally, you're just floating on it.
+ Whereas once you start at FTP, even when you start the effort,
+ you are actually, you know, having to concentrate to push against that gear.
+ Yeah.
+ But so that's why I'd kind of say 8 out of 10 is kind of useful
+ for how it is whilst it's going along but i i'd say for for how how hard it should be
+ like within the effort and then by the time you finish the session it should be like it is starting
+ to become yeah quite yeah you are having to really concentrate yeah it's grippy you're having to
+ concentrate you're having to sort of use some of the kick in some of those psychological uh cues
+ of like just just give it another minute and just trying to distract yourself from from the pain
+ embrace it yeah but your breathing should be fine it's not it's not yeah your legs should hurt quite
+ a lot um but it's it i'd say you are holding slightly back from that point of of like you know
+ it's the end of a race the end of a time trial but it equally it's not that far away from that either
+ Yeah. I would also say for higher intensity stuff, like let's say, let's say you're doing like, you know, one minute race efforts, something like that. Like you're doing one minute full gas efforts to like get ready for a race where like, let's say there's a lot of one minute hills. Um, and if you, um, tether your one minute efforts to like your FTP, like, let's say you've got to do it at like 150% or 170 or 130 or whatever percent of FTP it is.
+ and you're doing these efforts and they feel super chill, you are not going hard enough.
+ Like you are not getting this adaptation that you want. You are not, you're not.
+ It's like when I see clients doing training like this, or it's kind of like what you might be doing
+ on a kind of unstructured group ride. I say it's, it's not, it's not like it's wasted. You know,
+ it's not like it's, it's not negative training, but it's not, it's not negative training. It's
+ not gonna you know directly make you slower but all training has like you know a cost benefit
+ and it's like maximal it's like a very high cost for very low reward so that's the kind of stuff
+ yeah generally want to avoid that's the kind of thing that i see with uh with people who you know
+ do this kind of stuff because i think a lot of people just want to go how hard should i go for
+ these and i think some might be afraid to like really go hard because well first of all it
+ fucking hurts um and you also don't know like as like as you keep going hard and the watts start
+ falling off like is is this still doing anything can i and i usually tell people as long as you
+ feel like you can still push hard that's fine um because at some point you know like and when you're
+ when your kind of legs leave you or like you get to like your interval prescription like for like
+ one minute efforts for most average folks, I would probably give them somewhere between like four to
+ eight. And for super advanced folks, I will probably give them between eight and like 15
+ on a long day. Um, then, you know, sometimes we manipulate the restorations and like, you know,
+ shorter rest means less Watts, but sometimes that's what we're going for, for repeatability
+ anyway. So, um, so if you are really going for it, you can be pretty much be assured that you're
+ going to get some benefit as long as you feel like you can push hard with this stuff. But if you are,
+ if you were like pushing kind of hard,
+ but not really,
+ and it's feels pretty easy,
+ but you just want to make it through your set.
+ Like I would say you want to go harder and do less reps.
+ Cause I think that's going to be the higher quality training.
+ Cause if we,
+ cause if we tie it back to the MPK signaling,
+ what we're looking for is,
+ is the energy state in the cell.
+ Yeah.
+ It is about,
+ you have to go pretty hard.
+ Well, that's one of the reasons that stuff like, you know,
+ stuff like 30 thirties and 15 fifteens, like these,
+ one of the reasons that these are beneficial is that they get into,
+ they make some big power, they get into big motor units and, um,
+ and re kind of regardless of, um, you know, like, uh,
+ of, of anything else,
+ like as long as you feel like you're pushing hard and you are creating
+ horrible cellular energy state in your muscles,
+ you are getting some of these benefits or a lot of these benefits.
+ And like, that's one of the reasons that it, it benefits repeatability aside from like, you know, anaerobic capacity training. Like, you know, I think we did a WOSOC a long time ago where like repeatedly getting into bigger motor units, like we were talking about, this will lead to like some aerobic adaptation in these bigger motor units. And that's one of the things that I look at when people come to me like, oh, I have, I have really bad repeatability. And so we do all the aerobic training, but we also do this kind of stuff too.
+ One thing this has got me onto thinking is when we talk about FTP as a percentage, a fraction of your VO2 max,
+ if someone who was FTP was at a lower percentage of their VO2 max,
+ that would perhaps imply that they need to target more the peripheral adaptations
+ and, and they might, you might be someone who was, might want to focus their training more on
+ AMPK activation potentially. Potentially, but there's a lot of, a lot of things where we could
+ go wrong with this kind of thinking, but there's a lot of ways we can go right for sure. Um, I would
+ say for somebody like this, well, first of all, it's very difficult to actually tell, even if
+ you've got like WKO five, um, uh, cause you know, in that, um, in the determinants of, uh, you know,
+ endurance and well-trained cyclist paper from, you know, coil and Coggin and, and, uh, the other
+ two guys who I forget, um, you know, they, they showed that the range in well-trained people is
+ like, you know, it's like 65 to 85%. Uh, it's where you're at. It's huge, huge range. Uh, but
+ you know, for the most part, most people, uh, I I've seen a couple of people in the 70% range.
+ I'm one of them. Um, 70, 75%, most people are in the 80 to 85% range who have been training a long
+ time. And, and one of the things that helps with this kind of stuff is actually just high volume.
+ It really brings the stuff up and it's, you don't have to do the high intensity, although that's
+ fine too. But like, you know, when, when we look at studies that have people exercising at 65% VO2
+ max, um, if you make it three hours, like clearly that's not your threshold, but for most people,
+ um, you know, it can be a range of like, so for some people that might've been like,
+ it might've felt harder.
+ That might've felt like more like sweet spot and they didn't make a three
+ hours.
+ It was not reported if that happened or like,
+ you know,
+ we don't know maybe it's self-selected out people with a threshold of like
+ 80,
+ 85%.
+ And so,
+ so like I,
+ I'm going to default to like,
+ I'm going to say if you are pretty well trained,
+ like below like sweet spot,
+ like,
+ like 85,
+ 90% of threshold is probably not getting you any intensity benefits.
+ Like,
+ like riding a tempo,
+ LT1. I'm getting ahead of myself with this, but I've got a note on this later about how not to
+ big brain it. But if you are riding at tempo, just because you're making more lactate, like
+ you're over LT1, does not necessarily mean you are not maintaining cellular energy state,
+ especially if you're well-trained. Some well-trained people can do absolutely ridiculous
+ amounts of tempo work and go through a lot of glycogen. But first, they're not going to use
+ enough glycogen to to like get fatigued i've seen people do like six hours of tempo work
+ like without fatigue yeah and that's one of the things that like it costs it costs you it makes
+ you like tired but it's not like this is back to that like cost benefit of all training and this
+ is the sort of thing that has a really high cost for relatively little benefit when you could just
+ do a six hour endurance ride with a coffee stop and get yeah get the same things yeah you're less
+ tired and you're ready to go the next day for something harder um yeah so okay so let's get
+ back to our main takeaways here uh we're almost through these so your starting glycogen levels
+ don't matter to activate ampk but they matter for exercise intensity and duration they matter a lot
+ for that and so despite that the review says like starting levels don't matter we know like putting
+ all the pieces together they are actually critically important to getting really good
+ high intensity aerobic adaptations so this is where just fueling for the work required is is
+ really key and um yeah just from from the more coaching i've i've been doing you know uh almost
+ the more I realize that if you get the basics of fueling right, it's actually something that
+ even at a very high level, I've found that people don't do right. And if you can fix it,
+ it really is just a game changer. Yeah, absolutely. Okay. So next we have
+ total exercise duration is not critical for amp k signaling it is critical for many other things
+ uh and actually marinus maybe you can say a brief word on this because um you know because like when
+ you uh when you started kind of knowing me and um and my client who's coaching you like you started
+ writing more um and you know you're not getting apk activation out of this but like you're finding
+ that it does have a huge benefit right yeah definitely um so yeah i've over the last year
+ i've uh it's my first year being you know other besides my coaching company um being a more or
+ less full-time rider and i've increased my volume a lot and the first time i saw you know multiple
+ seven eight hour endurance rides in a week and 30 plus hours i i thought it was i thought it was
+ crazy um um but i i i thought i you know i just i'll have some faith in this i'll i'll give it a
+ go and i was i couldn't believe how how much it made yeah the gains i got from it and um i've
+ been using it with you know with my clients just these these extra oversized endurance rides
+ and uh yeah it is what what's what i find particularly amazing is um if if you really
+ not you know keep the intensity really easy and keep the fueling really high like you know so
+ these these eight hour rides let's think i've been doing them at quite often less than 50 percent of
+ fdp something like 45 and taking on about 90 100 sometimes 120 grams of carbs an hour and
+ I remember one yeah particular occasion just one one recovery ride the next day um and and I did a
+ yeah a really good session of um five minute vo2 efforts including a five minute pb on the first
+ one um so it yeah it really uh does does help yeah um yeah okay cool um all right so I just
+ wanted to sneak that in there too into our what's doc episode on other stuff so um okay so our last
+ point our last practical takeaway from this is that the less well trained you are the less any
+ of this stuff matters the more you can just go ride your bike have a snack and have fun um but
+ after a couple of weeks um you know uh sometimes a couple of months for people um you know you got
+ to bring the intensity up because kind of riding at that like middle intensity at some point just
+ stops benefiting you. Um, and, and this actually goes back to our, like, you know, the cyclist
+ training Bible, like the periodization one-on-one, like you start with easy stuff and then you like
+ add in some moderate intensity stuff. Then you get to the hard stuff. Like there's a reason that
+ kind of stuff works, like from an AMPK signaling perspective, like that's, that's pretty basic.
+ It's like a pretty simple progression. It's a pretty simple, like intensity overload, um, that,
+ you know it should work for a lot of people um and actually you we before the podcast you and
+ i were talking about uh one of your clients who's like you know still getting benefits from like the
+ kind of moderate intensity stuff and you're like i want to keep rolling with this i don't need to
+ like overwork this guy yeah absolutely so um a new client who i've who i had um and he was
+ he relative relatively new to cycling he really hadn't done um the work that he started cycling
+ in January and he'd been doing kind of like uh what what I think a lot of beginners do is is is
+ just this like medium hard every day and they find they can only do about eight to ten hours a week
+ because of that because they're always you know doing this high high cost low benefit training
+ um so then I I pulled him right back got him to just just ride endurance you know five five days
+ a week day off and then just once a week of this uh like sweet spot or ftp type work and um in
+ those first four months of being self-coached he'd only improved by um about i think his ftp went
+ from 250 to 260 and then with one month of increasing his volume a lot doing less intensity
+ um is ftp went up to 310 um and then another month of again more volume and uh just just still
+ intensity just ftp and and sweet sweet spot type stuff once a week and now his ftp is up to uh
+ 330 so oh god yeah establishment people hate him like get faster with less intense training
+ yeah oh yeah no i mean that's i think that's uh that's a great thing because like that's
+ that's clear as somebody who's benefiting from like just more of the basics and not overdoing it
+ um because i think i think uh one of the lessons that people should take from this is that the
+ practical implications of everything uh like i think honestly i think this is part of one of
+ the reasons that the podcast connects with some people because i try to make sure that what we're
+ talking about matches with people's actual real world experience because a lot of the time like
+ if somebody goes oh well if i if i do x intervals because it's got you know it like clears more
+ lactate like while i'm doing them or whatever i should be able to blah blah blah and therefore
+ my ftp will go up and a lot of the time they don't see shit and uh and so that's why um you know when
+ you know like the implications of all the ampk stuff that we've been talking about like
+ it's pretty simple like at first just do whatever everything helps at you know then after a few
+ weeks or a few months you've got to start progressing progressively overloading something
+ a little bit um and then uh you know you maintain some intensity and you push out from your previous
+ capability you you know slow progressive overload and then um you know for hard efforts like over
+ ftp you can't pussyfoot around this stuff you've got to like really give it a good whack or like
+ or you're really not going to be getting much benefit out of it um you know and like if it's
+ not making you question what you know whether you really want it then it's probably yeah well i think
+ also when it comes to like and this is the start of our like how not to do it um one of the ways
+ how not to do it is like if you can do the exact same interval set at the exact same intensity
+ several days in a row chances are it's not doing diddly dick for you like it like if you can like
+ back to back FTP rides, like adding time and zone, like, yeah, that's great. A lot of people can,
+ a lot of people are not able to do that. So you've got to like, you know, spread it out a little
+ more. And so that's one of those things where like, but if you do two by 20 every single day,
+ or like if you do, if you can do like an hour and a half a sweet spot and you're doing 40 minutes a
+ day, like five times a week, why it's not doing anything. So, so I, I think the phrase like junk
+ miles to me yes this would be junk like i i i think i will never call like long easy rides junk
+ miles but i think like junk junk intensity like this is is much more problematic and and the amount
+ of clients i've come to me from having had previous coaches setting them four or five days a week of
+ junk intensity like it it's it's been really quite uh surprising to me and and and i i find it quite
+ irresponsible really of to of coaches to have been setting that people because it not not only does
+ it it mess up your training and your progression but it's actually going to like mess up your
+ everyday life like the carry through that because it's such high fatigue and you're always being
+ stressed about well i've got to be able i've got to be able to do these efforts today you're never
+ getting to mentally switch off as well and i think that's really important and when when you dial
+ people back to you know you can't switch on once you're well trained you can't switch on ampk
+ four or five days a week year round yeah you have you have to have your easy days so you can
+ yeah be fresh enough to go hard enough to get other signaling benefits from the easy days too
+ It's not like AMPK is the only thing out there, which I think some people forget about.
+ I remember I had a discussion with somebody somewhere a while ago.
+ They were like, oh, yeah, well, AMPK is like the driver of mitochondrial biogenesis.
+ And I'm like, it's not the driver.
+ It's a driver.
+ And it's like he seemed to be, he, they, whoever they were, seemed to be one of those people who had big brained it all in the wrong way.
+ Because, um, you know, if you think AMPK is like the one true signal, um, you know, it's like the one true religion for exercise adaptation, um, and mitochondrial biogenesis, uh, then a logical conclusion you could have is that every single ride needs to be done to absolute death and fatigue.
+ Um, and you know, we've seen like hard evidence in this podcast so far that like, if like
+ you're going to do a three hour ride and it's like, you know, I don't know, like 75% of
+ FTP and like, that's, that's hard for you.
+ And like you do three hours, four hours and you empty the tank.
+ Um, you don't get much more benefit at all from doing like a four hour easy ride.
+ And in fact, you actually get a lot more problems because it's so fatiguing.
+ And equally, if you took a training program that's work, that has intensity, let's say, one to three times per week,
+ and you took away all the endurance rides and recovery rides around that,
+ I guarantee you not get the same adaptation or anywhere near it.
+ Because you do get a lot of really important adaptations from just riding easy
+ that support the adaptations you're trying to get
+ from the hard days where you are switching on AMPK.
+ And that's actually a really good point
+ because I've been saying this for a long time
+ because somebody really smart said it to me once
+ and I was like, wow, boy, was he right.
+ And it's that there's no one intensity.
+ There's no one thing that's going to really improve you overall.
+ You've got to do everything.
+ And actually, one of the other things
+ um, that you might think happens is like, uh, well, um, I like the, um, so like, this is going
+ to get into like exercise intensity and like tempo and stuff. Cause I think this is where,
+ um, like in the, in the arguments I've had arguments, discussions, whatever you want to
+ call them. I, they're, they're a little bit of both. Um, so, you know, the less well-trained
+ you are, um, or sorry, the more well-trained you are and the, like the less middle intensity
+ workouts are going to like, you know, actually activate this kind of stuff. And like, it'll just
+ be the same benefits as like, you know, lower intensity rides. Uh, and I've said this for so
+ long. Uh, you know, it's almost like I've been saying this for years at this point. Actually I
+ have. Um, so, uh, so like, like for instance, let's like dig into the McConnell study. Um,
+ you know, about two hours at 65% VO2 max, not activating AMPK for well-trained people.
+ The well-trained people for like absolute context, riding 200 to 400. Oh yeah. So in the study,
+ it was not the same as the Eukendrup and Hawley definitions. They were riding 200 to 400
+ kilometers a week. So 120 to 240 miles and in the 10 to 20 hours a week range. And they rode 120
+ minutes at 65% VO2 max. So this is over LT1, probably for all of these folks.
+ Is this the carbohydrate feeding study? I do not believe it is. This is the not
+ activating AMPK study from McConnell. So I looked into the paper's figures because I had forgotten
+ what they looked like. And in figure four, we see everyone with a low level of activation at 30
+ minutes but in untrained people the npk activation more than doubles at minute 120 and it's like
+ barely up like it does it doesn't pass the statistical significance test um for the for
+ the trained people and it doesn't even pass it by like eyeball you would go that's a little elevated
+ but it could easily be error um so it's done yeah so like so so these people are riding around 85
+ 25% FTP, like on average, I would say. So, so if you're out and doing, and you're well-trained,
+ you're normally riding and like, let's say you're doing two to four hour rides to exhaustion at
+ like something like 70, 70% FTP or whatever. Cause I know that's where a lot of people will like
+ try to peg their endurance rides. Um, you're actually probably not getting nearly as much
+ out of this as you should. Um, and, and, you know, I would rather somebody like go out once or twice
+ and ride sweet spot hard than like, you know, do this kind of like middling intensity all the time
+ because of the fatigue and not a lot of benefit. And so like, and so I think at first actually,
+ um, actually including in, uh, I, I recently heard David Bishop on the inside exercise podcast,
+ and he was talking about how, like, you know, he would, yeah, he would want to do more, um,
+ you know, more, uh, like his, the easy rides kind of like overall T1 to get some AMPK activation
+ benefit and i'm like oh dude like mcconnell himself who's hosting the podcast is like
+ like he's never put the numbers together like relative to threshold
+ where it's like oh no that you actually don't get much at all like as mcconnell's study showed
+ did you just say he suggested doing easy rides over yeah over lt1 he was i mean because i also
+ think that he wasn't considering high volume for a lot of people not an easy it's not an easy ride
+ I was just like saying, do an easy ride, not easy.
+ Yeah, it's like do your easy rides at tempo pace.
+ And actually, I have this discussion with some of my clients, some of them who've been training for years and years and years and years and years.
+ And a lot of them are kind of conditioned from their previous training and previous coaches or self-training, where they want to get as many watts out of every ride as possible.
+ But, you know, like some of the diesel engines on some of these pros, like, like it is unconscionable how hard they can ride for how long.
+ And when you are out there, like kind of riding a little over LT1, like kind of getting tired on every ride, like there's, there's, there's absolutely no benefits from that.
+ And all this data shows it, it, it, like, you know, you might get some benefits from, from other stuff a little bit more, but like, it's, it's better.
+ if you ride hard when you're supposed to ride hard and ride easy when you should ride easy
+ and like doing the middle intensity all the time junk intensity just like you said
+ i think another another cue you can perhaps tell yourself if you're caught on a ride doing that
+ and thinking um thinking that it's that it's going to help you just ask yourself could i win a race
+ by riding at this riding off the bunch of this intensity um and if if the if the answer is no
+ then then it's it's not well maybe you can win unbound riding at that intensity
+ um i mean actually i think um i think one of the other things to consider here
+ is like kind of like we said of like needing good glycogen stores and like and having low
+ glycogen at the end of your ride if like because that i've seen also be bandied about as one of
+ those things like oh you've got to have low glycogen at the end of every ride to get a lot
+ all your maximum aerobic benefits from it. And that's absolutely not true because that's, you
+ know, that's the sprinter before the lead out train again. Like it's not necessarily the fact
+ that you've got low glycogen at the end of your ride is the fact that you were able to perturb
+ your cellular energy state. And if you go in fatigued enough that you cannot ride many hard
+ watts to like the duration, to the duration that your cells can maintain that energy, that, uh,
+ the you know um that energy stress like if like let's say you're absolutely fucked and you're
+ you're exhausted and you go out you ride four hours at like tempo pace but it's like you could
+ easily in a race do like seven or eight at that pace you didn't do anything i don't care how low
+ your glycogen stores are at the end of this thing you did nothing you made yourself it also it also
+ just it also just doesn't sound no it's misery you're like why would you do that it sucks sounds
+ awful yeah um and so and so like that's it's the junk intensity and you more like whole of
+ middle intensity and you probably like spending time glycogen depleted is is gonna especially
+ if you don't replenish it quickly when you get home um it's it's really suppressing your immunity
+ and then you get sick a lot you get injuries um yeah like you get you get um you know hormonal
+ problems like like people who are in like chronic energy state like if you like if you're grumpy if
+ you got brain fog um and one of the things that people don't want to talk about a lot but i will
+ like you lose your sex drive like it's it's it's horrible and like and my a lot of my clients
+ actually tell me tell me about their sex drive like it's up it's down whatever and i'm like okay
+ well this is a good clue um and so you know and you know if you're a person who generally when
+ you're not training doesn't have high sex drive like maybe it's not a good market for you but like
+ for a lot of people it actually it actually is so um um and so but but but back to the
+ the immune suppression if if that if if being you know glycogen depleted even did slightly you know
+ augment the the stimulus from the training if it means that you you're going to get ill even once
+ more per year, lose one week of extra training per year, that tiny augmentation of the stimulus
+ has already been canceled out by that week of training. Well, and if you come back from that
+ week of training, like really strong, cause you never rest. I mean, I'd say that was, that was
+ probably beneficial. Um, some people need to lose that week of training, but most people don't.
+ You're right. Um, especially if you're like a professional athlete, um, you know, writing at
+ level you're at you know losing a week that can be a lot um and so um and so actually and it could
+ mean it could mean you miss a race could mean you miss a race could mean you miss an important
+ result uh or more um you know team connections stuff like that so like uh another way to do this
+ badly is like to start every workout glycogen depleted um and to also think that like if
+ something feels harder, it is harder. But like I just said, if you cannot ride hard enough to
+ create these, these, uh, this energy stress from your exercise, uh, is if you're like, if you're,
+ if you're like, man, my FTP Watts are down today. Like I'm going to ride, you know, if I can only
+ do like sweet spot today for like 40 minutes, normally I can do FTP for 90 or not 90, like an
+ hour like you are it this is not a good workout it's not you have to be able to ride hard enough
+ the absolute intensity matters like we said um so don't so don't uh yeah try and do your ftp efforts
+ that aren't like on terrain that doesn't suit you like if if you know you produce better power on a
+ climb and you've got a climb that's convenient and close to you and and then go and do that i
+ don't think you have to do it on the trainer. It's certain. Yeah. Well, I would say that unless
+ you have problems pushing on flat ground and that's a skill that you need, like then, yeah,
+ we're going to, we're going to, I would do both. Um, I would be like half your intervals. I want
+ you flat ground where, where you feel uncomfortable and half of them like go uphill where you feel
+ really good. Um, but I would also say, uh, cause I actually dug into that normoxia hypoxia study
+ about absolute exercise intensity, um, where they saw the big improvements in amputee activation
+ at like the 72 percent of normoxia but not at hypoxia is the same exercise intensity um yes
+ right so um so in that study um the participants who ate 90 grams an hour um versus zero versus 45
+ actually was that the normoxia study um that that's sorry yeah that was this is the one from
+ This is the one from Watsop 40 where we looked at how eating food doesn't impact your cellular adaptations.
+ So people who ate 90 grams an hour saw a big bump in P38 activation.
+ We're going to talk about that in another podcast.
+ But they also saw a huge bump in calcium, CAMK2 activation for three hours of tempo riding.
+ I did look into that more and say, yeah, that they, it looks like they're about LT1 because it was about 208 watts for people with the VO2 max and average was 60.5, which sounds like about LT1.
+ and then they this is the study with the performance test at the end and they took
+ the muscle biopsies after after that submaximal exercise and so um they you could have hypothesized
+ that perhaps um the extra carbohydrate feeding was meaning that it cancelled out the difference
+ because it enabled them to do that test at the end at a higher intensity but actually this all
+ the biopsies were taken before they did that high intensity test yeah so it was just like after
+ so even yeah yeah so so for the the easy riding was done either like the same intensity either
+ but you still got more um adaptation by having more carbohydrate so even if it doesn't make you
+ do more work it's still giving you more adaptation which i thought was yeah yeah i thought it was
+ really interesting too it really benefits you um because i think because one of the other ways that
+ i i conjured to big brain this kind of stuff is like to ride fasted um like oh so because because
+ like if you know because when you get out to like you know when you're when you're out near the end
+ of your threshold intervals it feels hard right and so like yeah and so one of the ways to
+ misinterpret this would be to like go oh everything that feels hard is activating ampk and like
+ getting that intensity. That is absolutely not the case. So like you, so you, you cannot do this.
+ Like you, your RPE does not match like your cellular things because your brain is integrating
+ so many different signals, but your muscles are just like, am I working or am I not working?
+ Like what's going on here? Like, am I working hard? Am I working moderately? Am I not working
+ that hard? So if you can't push hard, you are not going to get the adaptation that you want from
+ like, you know, the intensity that you're trying to achieve, even if it feels hard.
+ Um, yeah. So like, um, and the same goes for like riding facet or with low glycogen or any
+ of this kind of stuff, like it just doesn't work. Um, like especially for AMPK activation,
+ there are some other ways that this could potentially, uh, give adaptations, but like,
+ I want to do this in another watch stock and mostly tell people not to do it.
+ But like, if you are going to do it, um, I will give you some guidelines and like what
+ the actual stimulus could be.
+ But like for AMPK, there's, there's nothing here.
+ There's literally zero.
+ Um, so yeah.
+ So like, don't ride fast.
+ Don't restrict carbohydrate intake.
+ Don't do everything hard just because it's hard.
+ Like, you know, like especially once you become better trained, um, you are potentially
+ screwing yourself in the short term and long term by like making everything too hard not eating
+ enough um or you know not not training to the intensities that your body is capable of
+ i'd say it's the sort of thing that you can maybe get away with more if you're if you're training
+ less and or you're less ambitious so a lot of these people the instagram influencers or
+ you might see that are promoting extreme you've seen more of them lately than i have so please
+ yeah please tell me about them well so yeah like frequently i'll get clients saying oh i know i've
+ got a mate or i've seen this person who's you know on a ketogenic diet and they seem to be doing great
+ or they're doing all these fast rides and and it seems to be really working for them um and i even
+ in the past you know pros used to do i you know not not long ago bradley wiggins was cited as
+ as having done six hour fasted rides and um so there is there is a lot of stuff out about it
+ there but i would say that yes it's the more the higher level you're trying to uh compete at that
+ the more careful you have to be about this you absolutely have to be careful because especially
+ like the like yeah uh once you get very strong like the energy deficit that you create energy
+ demand is huge like and you you you look at like kilojoules per week way more than i do uh so like
+ you know i i wouldn't be surprised to see you doing like 30 000 kilojoules in a week and like
+ you know how long does that take to eat back
+ a while well yeah so actually this gets to the last point about how not to big brain this shit
+ Um, the, and potentially this is like the worst and dumbest way to do it, which is why
+ I left it for last.
+ Cause I can't imagine many people would consider this, but this is also what not to do.
+ If you think that leaving your cellular glycogen levels low after you're done training and
+ restricting carbohydrates, you might think that this could help activate AMPK.
+ It does not.
+ It absolutely does not.
+ So while your starting glycogen levels have nothing to do with AMPK activation, because you've got to work hard for a while to get this to happen, and your end exercise activation does because of the intensity dependent way of how you get there. So the question is, if you stop working out and then you don't eat to keep your glycogen stores low, are you keeping AMPK more active? No, definitively you are not.
+ So what happens when you stop exercising, like, cause, cause in a lot of stuff where, where you look at like concurrent training, a lot of people say, and I've said it myself, your APK activation level is slightly above baseline for a couple hours after you're done exercising.
+ It's like 10% more while like during intense exercise, it's like, you know, hugely more like 10 times or five times or whatever.
+ It's like, like after you're done exercising, APK activation goes damn near baseline levels
+ and like barely statistically significantly higher, like barely.
+ Um, and so you're not getting anything by restricting food.
+ And actually you are screwing yourself in the long run because you are like, you know,
+ this is a good window to like rebuild your glycogen stores.
+ This is called the glycogen window for a reason.
+ And like, yeah, if you don't have intense exercise to do for like a week, it's less
+ important that you you know eat within this like half hour hour after exercise but like if you've
+ got a double day or you got hard stuff the next day you absolutely need to take advantage of this
+ and by by restricting food here you are not helping yourself in the least
+ and um i think back to what you're saying about uh ampk only being activated for like
+ pretty much whilst you are that that that higher exercise duration that's why we find in in
+ well-trained people there is there is kind of quite a narrow window of of intensity that that
+ is going to be work well for this and that that is stuff that's you know above sweet spot and
+ up to and at around fdp and even over if you go much yeah but if you if you go too much over it
+ then it's like you can't do enough work potentially once you're well trained yeah well that's uh well
+ it depends on like now because now we're in a question of like what motor units we want to
+ train because you know when you are doing ftp work like you are recruiting more motor units as you go
+ and you're training them up but like for most people like there are a few a handful of exceptions
+ um but for most people like if you are only doing threshold work then you get into a crit
+ most people are not going to be good at repeatedly accelerating um and i remember back when i was
+ racing crits like i was not like that it took me like five to five to six races to really feel like
+ I could really race. And the one year I actually did deliberate training of like repeated sprints
+ for like an hour, um, five seconds, 10 seconds, like every minute or something like that.
+ Uh, I like now we are, I was like max intensity short likes and repeatable. And so like I would
+ do, I don't know, like 60 more, like a hundred sprints and training, by the way, this is very
+ hard it requires a lot of rest afterwards um but like when i got to races i could race like i could
+ race two or three crits back to back like without losing my height and repeatability because i had
+ trained my big motor units um and one of the reasons it's like yeah mpk activation um is a big
+ one but also the fact that those motor units are being recruited at all and so they're like building
+ glycogen stores they're building mitochondria they're becoming more aerobically trained like
+ because it's not just like ftp because this is an easy one to think about but like when you're
+ doing five minute efforts if you're doing them for like race efforts you want to get better at
+ like smashing five minute hard hills you got to do five minute efforts like if you do them a little
+ sub maximally that's fine but like you've got to get pretty damn close to being like at the end of
+ your limit for these things you can't do them just kind of like oh yeah this is totally fine i was
+ breathing out of my nose for five minutes like you probably unless you're like moderately trained
+ you are probably needing to actually really go hard to make these actually benefit you
+ so curly could i put to you a a kind of hypothesis potentially big-brained way um
+ that you could perhaps pick apart so one thing i've heard a coach saying is that um
+ the reason the sort of works at slightly above fdp works to like so you know doing
+ eight ten minute intervals slightly above ftp how this would work to increase your ftp
+ is that you want to be getting into the motor units that are responsible for riding
+ slightly above it to then make your ftp higher effectively
+ pick pick that what why why is why does that not work all right why that does not work for the
+ listeners is basically your FTP is much more linked to your VO2 max than it is to your motor
+ units being aerobically trained, like by like a 99%. So if you raise VO2 max, you are going to
+ raise your threshold. That's why VO2 max is the ceiling on your threshold. So if you are training
+ the motor units just above your FTP, the way that this would raise your FTP is if it is raising your
+ VO2 max. It is not because you're training bigger motor units. That is absolutely a thing for sure.
+ But when it comes to the actual muscular adaptation, like does this also train the
+ muscles to a good degree? Sure, it does. But it's like, it's short. It's shorter than you can do
+ at threshold. And if you do them just barely above threshold, um, you know, you're missing
+ a duration component here. Duration is such a huge driver of exercise adaptations, like at and
+ below threshold and, you know, just above. So like, if you can do, um, you know, if you do,
+ if you go out and you do a bunch of 30 minute time trials and you, and you can hold your threshold
+ for like 60 minutes, like, is this going to raise your VO2 max? Um, or, you know, train your bigger
+ motor, it'll train your bigger motor units a little bit. Yeah, sure. Is it going to raise
+ your VO2 max, uh, for most well-trained people? No, it won't. So like the number of people I've
+ seen try to do this, like, and you know, pull your FTP up from above, like this is what VO2 max work
+ does. It's not a motor unit thing. Like just being aerobically trained does not. And you might think,
+ oh it clears lactate therefore if i can clear lactate more like therefore i won't raise my ftp
+ because like ftp is where you stop like where you can't clear lactate anymore but the lactate
+ comes as a secondary consequence of other conditions like that happen first and then
+ and then the lactate comes it's not like your body's making lactate obligately and then suddenly
+ okay now i can clear it my ftp is higher it does not work like that
+ so does that make sense although yeah yeah okay yeah it just it's just uh explains why a lot of
+ yeah what people might call pull workouts don't don't work oh interesting um and actually i would
+ say that's the same thing for lt1 like like oh you want to raise your lt1 like right above it a lot
+ like no if you want to raise it you ride just below it or decently below it a lot and way below
+ 100 watts below yeah uh well 100 watts for you but for me it's like 20 30 um but like yeah like
+ my my lte one like 100 watts and if i go out and i do a three-hour endurance ride i'm gonna do it
+ at like 70 um because that's all i need and that that's and that's it then i rest i recover and
+ it's higher like i've i've raised it like you know uh you know 10 or 15 watts since i like started
+ doing more riding again recently and like you know it's um it's it's it's it's a pretty simple
+ process. Like you don't need to, you know, the pulling it, pulling it up is like something that
+ happens if you're kind of well-trained, but like, I swear to God, most people, if you go back to
+ doing the program that you did when you were first starting training and you tried to do it now that
+ you've been training for three, four or five years, it's not going to work. So, um, so we've
+ gone on pretty damn long. So would you like to get some of our, get to some of our listener
+ questions before we wrap this up? Yeah, absolutely. Yeah. That'd be fantastic. All right. Um,
+ uh, okay. I got to roast somebody. I, when I asked for questions on the podcast on like a topic,
+ when people ask me questions, not on the topic, um, I usually skip them, but we're not going to
+ talk about cramps. This is AMPK activation. We're not going to talk about cramps. What is AMPK? We
+ got to that one. Actually, this is actually not a bad one. Thanks, friends. If fasting,
+ apple cider vinegar, and smoking elevate AMPK, why can't I just do that and be Tadek Pogacar?
+ the answer is because you're not actually exercising when you do it like
+ exercise is the real thing because your energy state is is not compromised the energy state of
+ your cells is not yeah like smoking isn't going to activate ampk in your quads um yeah i think
+ apple cider vinegar does apple cider vinegar activate ampk in your muscles like that's strange
+ if it i couldn't imagine what happened i've heard it it reduces the insulin response to
+ food uh well i mean based on the fact that i i i've never perhaps this person's getting
+ confused i think he's taking the piss a little bit um i've damned with him a little bit he's uh
+ he's he's a little you know for a german he's he's a little sarcastic and i appreciate that
+ for a german um or anybody really uh okay are intervals at the end of a zone two session really
+ beneficial for muscular endurance or is it just mental so like in light of ampk signaling let's
+ let's consider this is it better to do intervals at the end of your ride or like you know potentially
+ throughout or at the beginning when you are more fresh what do you think uh definitely in terms of
+ AMPK, it's better to do them at the start of the ride so that you can produce that high enough
+ power output for long enough, as we said, is necessary. Because if you leave it till the end
+ of your ride, for example, you might have depleted some glycogen because believe it or not, even easy
+ riding does deplete glycogen. Mostly fat, but yeah, a good amount of glycogen gets worked.
+ mostly fat but yeah you're yeah so you're not going to be fresh enough to do high enough uh
+ intensity for long enough to be fatiguing um the relevant uh muscle fibers in a way to actually
+ create the the the am yeah the the change in energy state in your cells to activate ampk that
+ we're looking for i would say for somebody like you so for somebody like with endurance as good
+ is yours like you you barely fatigue as you ride for a couple hours uh and so like it no you start
+ to feel better yeah and so for you like i would want you to do them when you feel best um or like
+ throughout a ride because it's not going to be nearly as important like and you and um you and
+ our mutual friend um you know like like you guys could both do like a five minute max effort every
+ hour during a seven hour ride and they're basically going to be like within like 20 watts of every
+ other effort as long as you've been as long as you've been feeling well yeah exactly so um yeah
+ so like i would say for most people yeah do them while you're fresh like if i were going to go do
+ hard efforts and on a long ride like as badly aerobically trained as i am and as well strength
+ trained as i am at this point i would want to do them right off the bat when i'm nice and fresh
+ and then i can like get a snack and spin easy um because otherwise yeah i can't can't ride hard
+ enough not that it would matter that much for me as like as trained as i am because i am in the i'm
+ in the quote-unquote trained category and not well trained so um do long low cadence efforts at like
+ 60 to 75 rpm near sweet spot are they good for large motor unit endurance
+ no i would say maybe
+ um okay so are you getting into larger motor units when you do this the answer is yes
+ um how large i think it depends on the muscle force and all that and how fatigued they are
+ because as you fatigue you recruit more uh but i would say you want to um i i personally would
+ rather do harder like actual like efforts over threshold at like normal cadence because it's
+ it's so much more specific to your race demands.
+ And I pretty much only give people like low cadence stuff like this.
+ If it's a deliberate weakness,
+ like if somebody is having trouble climbing a mountain at like 70 RPM at the
+ end of a race,
+ but I know normally if at the end of a race,
+ like on flat ground,
+ they can do normal power and their power outputs reduced.
+ Like,
+ yeah,
+ we're going to train them to like,
+ you know,
+ like do the low cadence that they are complaining about that they,
+ that they are not strong at.
+ So that's the one time I would really do it.
+ but otherwise I would rather use like specific efforts.
+ Yeah.
+ I think this comes back to what we've mentioned throughout the podcast is that,
+ uh,
+ you want,
+ um,
+ like it is about the absolute,
+ uh,
+ absolute power,
+ not,
+ not,
+ and the,
+ the,
+ the absolute metabolic rate and the power output is what drives that.
+ And,
+ and the cadence,
+ whether it makes,
+ if it makes it feel harder,
+ it,
+ it doesn't mean that it doesn't change the,
+ the metabolic cost you know the total energy demand on on your cells and that's what's
+ matters for so if we if we are strictly talking about ampk um then then doing them at lower
+ cadence isn't isn't going to affect that yeah yeah it actually would spread out the uh the
+ metabolic load throughout more muscle fibers by riding a low cadence yeah because like if you're
+ doing if you're doing like 300 watts at like 70 rpm versus 300 watts at like 110 rpm the 110 rpm
+ fibers like they have a greater metabolic load yes yeah yeah yeah because you mostly it'd be a
+ higher proportion of type 1 fibers the higher yeah but that also depends on because somebody
+ else actually the next question is is there a difference in behavior between type 1 and type
+ 2 fibers and i would say it depends on the person like you have probably a whole lot more probably
+ have twice as much and as many slow twitch fibers as I do or more, um, I mean, relative to even
+ muscle mass. Um, and so like, I might be 80% fast twitch at this point and you're probably 80% slow
+ twitch, but like, you know, how many of those muscle fibers you're using at any point is a good
+ question. So like, cause here, here's one of the things that I want to do in a myths episode
+ actually is I want to discuss with people about how just because you're at a certain exercise
+ intensity does not mean you are recruiting a certain type of muscle fiber and also some just
+ some interesting takeaways i was getting from that uh carbohydrate study was that um well just that
+ you're getting still almost as much fat oxidation in the type 2a fibers as you're getting the type
+ one fibers yeah we did a podcast episode on that about on cross-country skiers who's like
+ whose type two fibers are just about equal as their as their slow twitch fibers like in terms
+ of like fat oxidation and aerobic capacity yeah yeah uh just just there's just just more more
+ data to illustrate the point yeah no yeah you're absolutely right um okay we did this uh how to
+ min max the mitochondria adaptation what is a min max minimum and maximum yeah uh oh here we go
+ min maxing is a character building strategy of maximizing a specific desirable ability
+ skill or other power of character and minimizing everything else seen as undesirable uh
+ what's the question how do you min max the mitochondrial adaptations
+ is it what get get them get the most this is a gaming or a programming thing and uh
+ Clearly, neither of us do either of those things because I really don't know what this means.
+ I'm checking out the wiki article on min-maxing, and I don't – yeah.
+ No, we're going to skip this question.
+ Sorry.
+ Sorry, listener.
+ We're too stupid.
+ We are too.
+ Don't understand this question.
+ Oh, God.
+ Sorry, folks.
+ Okay.
+ Maybe write into Elon Musk if there's a podcast.
+ Oh, God.
+ Please, no.
+ Might be able to answer.
+ Which intensity and volume distribution do you prefer for adaptations for one-day road races?
+ Okay.
+ So I've talked about this on the podcast before.
+ My answer is I don't consider intensity or volume distributions before I do the planning.
+ I plan for somebody's ability to recover and what they need in terms of aerobic adaptations or otherwise for specific races or whatever.
+ And so they're not factors I ever consider when planning.
+ it would be like planning like what percentage of carbohydrate fats and proteins you're going
+ to eat for the next year you know you would never do it because right because you might get sick and
+ like exercise less but you're like oh god i've got to get like 90 carbs today and for my but you're
+ like you're on like 3 000 kilojoules because you're like because you're like resting and
+ recovering and like oh god i don't have any fats or proteins no you're gonna stick to the plan so
+ that's a great analogy um yeah so yeah i don't really do it like that um so if i have two hours
+ to ride will i maximize adaptation by going as hard as i can i think everybody knows the answer
+ to this one but let's uh yeah let's answer it it depends of course because if you're how well
+ trained you are if you've never on how well trained you are yeah if if you've never been
+ ridden your bike much then then it it's perfectly ample although i would suggest why would you ride
+ as hard as you can when you can ride easy and still improve really fast and build up less
+ cumulative fatigue so that when you are more well trained you're ready to to do the really hard stuff
+ to actually yeah kick on again actually and having that kind of perspective on i think is really
+ helpful too because as as as it as it we uh discussed earlier it can only take seven to ten
+ days before uh that what what you need to elevate mpk ampk uh well or the yeah the significant
+ significant reduction in ampk activation because yeah you get a significant reduction ampk activation
+ after just seven to ten days because that was one of the earliest things that was ever found
+ in endurance training like as an adaptation it's like oh look more mitochondria oh look yeah better
+ control of the energy state like and by the way energy state this is not like some modern thing
+ like i have books here from like the 70s which and they're talking about like you know the
+ state of the cell and stuff like that like actually here we go
+ so this was a like a conference and like um
+ contributors here we go uh control of citrate synthase and mitochondria um
+ uh where's my favorite one here um citrate and such uh the citrate cycle and the regulation of
+ energy metabolism like like um metabolic control and mitochondria by adding a nucleotide
+ translocation like like the the cellular energy state and this stuff like this was put out in
+ 1967 like this is not a new concept this is like old stuff this is like absolute bottom of the
+ barrel like cellular bioenergetics 101 stuff um so like this is not like some yeah and that's
+ exactly why we should just forget about all that and just listen to i want to actually
+ marinus i want to ask you about this though because because like yeah i think in in terms
+ of like the modern training cycling sphere it seems like like not everybody obviously but like
+ some of the some of the more louder folks have forgotten about this stuff or like they don't
+ emphasize it as much as i think they should
+ yeah yeah i i completely agree but it's just it it's like what whatever is people
+ it doesn't like it doesn't sell to just yeah it's not sexy it doesn't sound like lactate and fats
+ and like faster training and yeah yeah there's there's no there's no product to buy or there's
+ no like yeah there's no like image to sell and like and and i'm not trying to sell my image with
+ this stuff either going like oh look how smart i am like i i learned this from other people
+ i learned this from like the people who study this stuff like i am i am like i am just a messenger i
+ don't do research i i have research projects i would like to see on this kinds of stuff but like
+ you know i don't i don't research i read other people's research and i i i try to make it into
+ useful advice so um and that's why you're not as uh rich or famous as inigo samuel
+ he's got a richard meal and i've got a rolex
+ it's okay it's only several magnitudes of uh orders of magnitude difference in price
+ um anyway so okay so last couple questions um um uh something about nutrition high or low
+ carbohydrates or just some days low and some days high uh yeah we kind of touched on this like don't
+ this does not help ampk activation or like or the intensity because you cannot like we said
+ you cannot maintain the high intensity you need for the duration that you need to
+ to make all the signaling work so so what i'd say um as to like high constantly high carb or
+ periodized is is what i find as well as like ecologically with with my clients ecologically
+ i think maybe i overuse this and or like misinterpret that word but i mean like
+ when it comes to applying in a real like world like setting real life um that like it it is
+ quite hard to that this if you can say to people um that before these you know one to three sort
+ of harder rides a week you know before them in the 24 hours before the two to three meals three
+ four meals before that you really need to focus on getting in enough carbohydrates to load your
+ glycogen stores for this hard session you're losing me get to the get to the point if because
+ if i'm getting lost at this point like the listeners are getting lost okay so so what i'm
+ saying is that um like you need to focus on carbohydrate intake before your your hard
+ sessions and then before your your endurance rides it doesn't really matter like high carb low carb
+ medium carb it doesn't it doesn't really matter so i think the person was asking around should
+ you know high carb low carb periodized like should some like should some rise would would you benefit
+ from like low actually should you benefit from would you benefit from low carb for some rise i
+ would actually say no but like you don't have to i say no but what i'd also say is like if it's just
+ an endurance you don't you don't have to go like 15 grams per kilogram body weight the day before
+ to fuel for it no so i just say just the day just make sure you're generally in energy balance and
+ you're eating a good healthy balanced diet with enough protein and enough micronutrients and then
+ if it's just endurance right you don't need to sweat it it doesn't matter like if you want to
+ have like two avocados because you love avocados and have a bit less pasta it doesn't matter yeah
+ two avocados that's a lot but yeah yeah yeah but some sometimes you crave that or like there's a
+ whole pot of hummus used by date is tomorrow you like and you can't have half a pot can you've got
+ to finish off so like or like block of cheese it's really nice like you just want to have that like
+ it doesn't it doesn't matter if it's just an endurance ride tomorrow yeah you do yeah fuel
+ the work required um but like yeah but i i think i think also like yeah to go to go to our previous
+ point like you can't um you don't get any extra benefit from like under fueling and actually you
+ can get especially from your hard rides you can actually get reduced benefit from underfueling by
+ a lot um yeah yeah it's it's not a way to there's there's no hack though with the new the new no in
+ fact there are very few hacks in general uh well i mean sometimes i feel like i'm the hack but like
+ but i mean there's like no biohacks here um and i so i think because like all this stuff comes down
+ to like all this stuff supports the very basics fuel well like get consistent quality hard
+ training sessions when they need to be hard um like you don't have to like destroy yourself
+ every single day and like you know ampk and kmk2 like the calcium like these are two of the big
+ ones for like aerobic adaptation there's a lot of others like i can probably name three four five
+ right off the bat but like like these are the generally well studied ones and the most well
+ implicated ones and like they like to to use the knowledge with these right um it just requires
+ just the basics just nailing the basics like write easy when you gotta go easy so you can
+ write hard when you need to go hard it's it's uh probably like the best takeaway for this whole
+ thing so um anything that you think we kind of forgot to touch on or did we kind of uh did we
+ how to beat this one to death as usual uh i think the one last thing which is actually quite important
+ but we should be able to cover quickly is just to say that um like more amp like from these studies
+ when you find like more uh more ampk activation that doesn't necessarily translate into performance
+ And actually, because we had talked about this beforehand, because actually in the review, they looked at different ways to look at AMPK activation. And they looked at phosphorylation of different sites, because AMPK is a trimer, which means it's got three subunits that come together to make the whole protein. And they looked at acetylcholicarboxylase phosphorylation as like a target for AMPK activation. And a lot of the times when we see moderate AMPK activation, we can see a lot of ACC activation or phosphorylation, or which would be
+ actually deactivate it and turn off that like that, that anabolic pathway in favor of ampiques
+ like catabolic pathways. So, so like, yeah, a lot of it doesn't translate directly to performance.
+ And actually in the, the authors note that too, where like, especially in the, like the early
+ aughts they were doing and, you know, even into the teens, like a lot of people were doing like
+ mRNA studies, like, oh, we've got more mRNA for this thing. Therefore we should get more benefit,
+ but like, it doesn't translate to performance. They didn't even translate it into like more
+ mitochondrial density or enzymes or like cytochrome C or citrate synthase or like, you know,
+ mitochondrial respiration function or anything like that. Like they just went mRNA good enough
+ done. So yeah. And the authors actually note, like one of the other things that in the future
+ people should do is actually measure the ATP AMP ratio or like just the AMP concentration in
+ general for the cells. And that would actually help the context of all this kind of stuff,
+ like a lot more. But that's also, you know, like one of those kind of academic things,
+ but like generally speaking, that's one of the reasons that sometimes it's hard to pick a good
+ representative study for the stuff that we talk about here in Wattstock, because I'm looking for
+ something that can connect all the dots and i i try to you know be up front with like shortcomings
+ of studies um and if people want to criticize that and say it doesn't say what you think it
+ says that's totally fine um but yeah like you know you and me we're like we're trained scientists
+ like we're we're doing our due diligence like you you differently than me i'm from biochem you're
+ from exercise phys but like you know we have the same mentality uh with all this stuff and um and
+ we and i think we have higher high standards too but it's difficult to like maintain the high
+ standards sometimes, or sometimes like for our, you know, for our first study from 2001, you know,
+ it was like, there was a lot of stuff that like, you know, people went, Oh, why would you want to
+ do this? Like we already know X, Y, Z. So yeah, highly contextual, but like, yeah, I agree that,
+ um, you know, sometimes some things don't necessarily translate, uh, from their cellular,
+ you know, activation into performance. Um, so that, that would be something else to,
+ to do and i didn't see a ton of great studies on mpk activation and improved endurance performance
+ that i thought were you know good enough to really include here so so we didn't i guess
+ we'll both just have to go back and do phds coley ah i'm good i i feel exactly the same yeah i mean
+ you and i are busy enough at this point like and i think i personally i would rather be working
+ with people and like and getting the very general coaching knowledge than like you know drilling
+ down and like spending five years on this one specific aspect of performance i'd rather have
+ like a holistic level view of all of it yeah you just you want you just want to be able to like
+ get a phd student like tell them what to do and just get them to go and do it that would be nice
+ I have helped people design studies before for this kind of stuff. And, you know, it's a lot, because I do get, I do get a lot of like master's students, PhD students reaching out, like asking me to help design this stuff. And I'm always happy to help. And I appreciate when they asked me, because, you know, because, because I think that, that like they, because I think people like you and me, like we, we can bridge the divide enough on this stuff.
+ and we've got enough of a perspective on both sides of the equation that like i think i think
+ people like you and me could you know obviously not everybody needs it but like when people ask
+ i think i think we can help sometimes but we also know how difficult it is i'd like to do try yeah
+ um all right well meredith thanks for coming in to pinch hit for kyle um today so um i uh yeah i i
+ knew this was going to go a little long it's been a pleasure yeah it's been a lot of fun i because
+ you and I, we always, whenever we talk, we go long. So, um, so I knew this was going to be a
+ longer than usual episode, but, uh, thanks everybody for listening. Really appreciate it.
+ And if you want to reach out to me or Marinus, uh, just shoot me an email,
+ empiricalcycling.com. If you like the episode, if you want to share it, that would be great to
+ support the podcast. Uh, and if you want to share the podcast on forums or with friends or whatever,
+ uh, or if you want to try to give us some cliff notes on that, that's also fine too.
+ And if you want to donate to the show, remember, we are totally free content. You can donate at empiricalcycling.com slash donate. And if you want to become a client, we are always taking on clients, students, and professionals. We are, of course, negotiable for our rates. We know that you don't make a ton of money. And if you want to consult with us, too, we are always looking to consult with people. It's always a lot of fun.
+ And, uh, so shoot me an email empiricalcyclingatgmail.com, uh, even, especially right now, cause it's
+ like, it's late August, actually early September.
+ And so like, this is like, this is like transfer season for coaching.
+ And so it's, it's, uh, it's pretty busy.
+ So, um, if you want to at least start a conversation, if you're thinking about it in a month or
+ two, uh, please just let me know.
+ And, um, or if you want to reach out to Marinus too, um, I can, uh, I'll leave links up in
+ the show notes to Marinus too, as well.
+ So if you like, if you like, uh, what Marinus was talking about today and like his previous
+ episode uh yeah feel free to reach out to him but we're on the empirical cycling podcast so
+ empirical cycling is the way to go for coaching
+ yeah anyway so instagram empirical cycling if you want to ask questions um on for the podcast
+ episodes thank you for all of our listeners to ask them those great questions and uh give me a
+ follow for the weekend so with that we'll see you all next time

@@ -1,0 +1,24 @@
+[
+  {
+    "filename": "2286114404_empirical_cycling_po_perspectives_41_macr.txt",
+    "numeric_id": 2286114404,
+    "word_count": 15543,
+    "assigned_cluster": "cluster_6",
+    "cluster_id": 6,
+    "similarity_score": 0.4724,
+    "top_3": [
+      {
+        "cluster": "cluster_6",
+        "score": 0.4724
+      },
+      {
+        "cluster": "cluster_1",
+        "score": 0.3619
+      },
+      {
+        "cluster": "cluster_3",
+        "score": 0.3597
+      }
+    ]
+  }
+]

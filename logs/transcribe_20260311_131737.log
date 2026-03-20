@@ -1,0 +1,324 @@
+[2026-03-11 13:17:37] === Transcription run started ===
+[2026-03-11 13:17:37] Input dir: episodes/
+[2026-03-11 13:17:37] Output dir: transcripts/
+[2026-03-11 13:17:37] Parallel workers: 8 (4 CPU threads each)
+[2026-03-11 13:17:37] Retranscribe mode: ON
+[2026-03-11 13:17:37] Found 79 audio files
+[2026-03-11 13:17:40] RETRANSCRIBE: 1205855287-empiricalcyclingpodcast-ten-minute-tips-18-metrics-are-not-fitness (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:17:40] RETRANSCRIBE: 1190822572-empiricalcyclingpodcast-ten-minute-tips-16-can-functional-training-get-too-functional (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:17:41] RETRANSCRIBE: 1216529890-empiricalcyclingpodcast-perspectives-8-why-its-hard-to-rest-with-patrick-rest (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:17:41] RETRANSCRIBE: 1152867367-empiricalcyclingpodcast-ten-minute-tips-13-what-strength-exercises-should-you-do (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:17:42] RETRANSCRIBE: 1138654516-empiricalcyclingpodcast-perspectives-3-usa-crits-2021-with-alex-carmona-and-taylor-warren (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:17:42] RETRANSCRIBE: 1219977919-empiricalcyclingpodcast-perspectives-9-pragmatic-physiology-and-nutrition-with-tim-podlogar (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:17:43] RETRANSCRIBE: 1174414534-empiricalcyclingpodcast-perspectives-6-2021-season-review-and-2022-planning-with-ingvar-omarsson (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:17:44] RETRANSCRIBE: 1144665736-empiricalcyclingpodcast-perspectives-4-high-functioning-lunatics-with-patrick-smith (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:27:29] RETRY ALSO CORRUPTED: 1190822572-empiricalcyclingpodcast-ten-minute-tips-16-can-functional-training-get-too-functional (max 18 consecutive repeated lines at temp=0.2)
+[2026-03-11 13:27:29] KEPT temp=0.2 version: 61 repeated lines vs 999999 at temp=0
+[2026-03-11 13:27:29] OK: 1190822572-empiricalcyclingpodcast-ten-minute-tips-16-can-functional-training-get-too-functional (temp=0.2 (kept over 0: 61 vs 999999 repeated lines))
+[2026-03-11 13:27:35] RETRANSCRIBE: 1233728686-empiricalcyclingpodcast-watts-doc-37-your-fast-twitch-fibers-probably-as-aerobic-as-your-slow-twitch (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:30:26] RETRY ALSO CORRUPTED: 1205855287-empiricalcyclingpodcast-ten-minute-tips-18-metrics-are-not-fitness (max 3 consecutive repeated lines at temp=0.2)
+[2026-03-11 13:30:26] KEPT temp=0.2 version: 11 repeated lines vs 999999 at temp=0
+[2026-03-11 13:30:26] OK: 1205855287-empiricalcyclingpodcast-ten-minute-tips-18-metrics-are-not-fitness (temp=0.2 (kept over 0: 11 vs 999999 repeated lines))
+[2026-03-11 13:30:30] RETRANSCRIBE: 1239908659-empiricalcyclingpodcast-perspectives-10-a-guide-to-time-trialing-with-cory-lockwood (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:38:57] RETRY ALSO CORRUPTED: 1138654516-empiricalcyclingpodcast-perspectives-3-usa-crits-2021-with-alex-carmona-and-taylor-warren (max 8 consecutive repeated lines at temp=0.2)
+[2026-03-11 13:38:57] KEPT temp=0.2 version: 9 repeated lines vs 999999 at temp=0
+[2026-03-11 13:38:57] OK: 1138654516-empiricalcyclingpodcast-perspectives-3-usa-crits-2021-with-alex-carmona-and-taylor-warren (temp=0.2 (kept over 0: 9 vs 999999 repeated lines))
+[2026-03-11 13:39:03] RETRANSCRIBE: 1244788597-empiricalcyclingpodcast-perspectives-11-the-best-workout-is-not-working-out-with-adam-pulford (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:40:08] RETRY ALSO CORRUPTED: 1239908659-empiricalcyclingpodcast-perspectives-10-a-guide-to-time-trialing-with-cory-lockwood (max 86 consecutive repeated lines at temp=0.2)
+[2026-03-11 13:40:08] KEPT temp=0.2 version: 86 repeated lines vs 999999 at temp=0
+[2026-03-11 13:40:08] OK: 1239908659-empiricalcyclingpodcast-perspectives-10-a-guide-to-time-trialing-with-cory-lockwood (temp=0.2 (kept over 0: 86 vs 999999 repeated lines))
+[2026-03-11 13:40:12] RETRANSCRIBE: 1292568055-empiricalcyclingpodcast-perspectives-15-a-discussion-on-strength-training-with-rj-boergers-and-angelo-gingerelli (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:51:53] RETRY ALSO CORRUPTED: 1219977919-empiricalcyclingpodcast-perspectives-9-pragmatic-physiology-and-nutrition-with-tim-podlogar (max 3100 consecutive repeated lines at temp=0.2)
+[2026-03-11 13:51:53] KEPT temp=0.2 version: 3573 repeated lines vs 999999 at temp=0
+[2026-03-11 13:51:53] OK: 1219977919-empiricalcyclingpodcast-perspectives-9-pragmatic-physiology-and-nutrition-with-tim-podlogar (temp=0.2 (kept over 0: 3573 vs 999999 repeated lines))
+[2026-03-11 13:51:58] RETRANSCRIBE: 1301979604-empiricalcyclingpodcast-ten-minute-tips-21-individualization-is-why-it-always-depends (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:53:56] RETRY ALSO CORRUPTED: 1174414534-empiricalcyclingpodcast-perspectives-6-2021-season-review-and-2022-planning-with-ingvar-omarsson (max 2988 consecutive repeated lines at temp=0.2)
+[2026-03-11 13:53:56] KEPT temp=0.2 version: 2992 repeated lines vs 999999 at temp=0
+[2026-03-11 13:53:56] OK: 1174414534-empiricalcyclingpodcast-perspectives-6-2021-season-review-and-2022-planning-with-ingvar-omarsson (temp=0.2 (kept over 0: 2992 vs 999999 repeated lines))
+[2026-03-11 13:54:03] RETRANSCRIBE: 1309266271-empiricalcyclingpodcast-perspectives-16-experiment-vs-experience-with-marinus-petersen (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:56:14] RETRY ALSO CORRUPTED: 1216529890-empiricalcyclingpodcast-perspectives-8-why-its-hard-to-rest-with-patrick-rest (max 3409 consecutive repeated lines at temp=0.2)
+[2026-03-11 13:56:14] KEPT temp=0.2 version: 3409 repeated lines vs 999999 at temp=0
+[2026-03-11 13:56:14] OK: 1216529890-empiricalcyclingpodcast-perspectives-8-why-its-hard-to-rest-with-patrick-rest (temp=0.2 (kept over 0: 3409 vs 999999 repeated lines))
+[2026-03-11 13:56:20] RETRANSCRIBE: 1316155894-empiricalcyclingpodcast-ten-minute-tips-22-training-myths-part-2 (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:57:21] RETRY ALSO CORRUPTED: 1144665736-empiricalcyclingpodcast-perspectives-4-high-functioning-lunatics-with-patrick-smith (max 4090 consecutive repeated lines at temp=0.2)
+[2026-03-11 13:57:21] KEPT temp=0.2 version: 4089 repeated lines vs 999999 at temp=0
+[2026-03-11 13:57:21] OK: 1144665736-empiricalcyclingpodcast-perspectives-4-high-functioning-lunatics-with-patrick-smith (temp=0.2 (kept over 0: 4089 vs 999999 repeated lines))
+[2026-03-11 13:57:30] RETRANSCRIBE: 1353913138-empiricalcyclingpodcast-perspectives-19-adaptation-signaling-and-performance-with-andy-coggan (skipping temp=0, starting at temp=0.2)
+[2026-03-11 13:59:38] RETRY ALSO CORRUPTED: 1152867367-empiricalcyclingpodcast-ten-minute-tips-13-what-strength-exercises-should-you-do (max 2951 consecutive repeated lines at temp=0.2)
+[2026-03-11 13:59:38] KEPT temp=0.2 version: 2950 repeated lines vs 999999 at temp=0
+[2026-03-11 13:59:38] OK: 1152867367-empiricalcyclingpodcast-ten-minute-tips-13-what-strength-exercises-should-you-do (temp=0.2 (kept over 0: 2950 vs 999999 repeated lines))
+[2026-03-11 13:59:42] RETRANSCRIBE: 1363710067-empiricalcyclingpodcast-ten-minute-tips-24-you-are-not-your-ctl (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:01:21] RETRY ALSO CORRUPTED: 1292568055-empiricalcyclingpodcast-perspectives-15-a-discussion-on-strength-training-with-rj-boergers-and-angelo-gingerelli (max 12 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:01:21] KEPT temp=0.2 version: 14 repeated lines vs 999999 at temp=0
+[2026-03-11 14:01:21] OK: 1292568055-empiricalcyclingpodcast-perspectives-15-a-discussion-on-strength-training-with-rj-boergers-and-angelo-gingerelli (temp=0.2 (kept over 0: 14 vs 999999 repeated lines))
+[2026-03-11 14:01:29] RETRANSCRIBE: 1370242147-empiricalcyclingpodcast-watts-doc-40-endurance-adaptation-is-not-substrate-oxidation (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:01:44] RETRY ALSO CORRUPTED: 1244788597-empiricalcyclingpodcast-perspectives-11-the-best-workout-is-not-working-out-with-adam-pulford (max 3 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:01:44] KEPT temp=0.2 version: 5 repeated lines vs 999999 at temp=0
+[2026-03-11 14:01:44] OK: 1244788597-empiricalcyclingpodcast-perspectives-11-the-best-workout-is-not-working-out-with-adam-pulford (temp=0.2 (kept over 0: 5 vs 999999 repeated lines))
+[2026-03-11 14:01:50] RETRANSCRIBE: 1406970607-empiricalcyclingpodcast-perspectives-21-behind-the-new-american-40km-itt-record-with-cory-lockwood (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:12:29] RETRY ALSO CORRUPTED: 1363710067-empiricalcyclingpodcast-ten-minute-tips-24-you-are-not-your-ctl (max 4 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:12:29] KEPT temp=0.2 version: 23 repeated lines vs 999999 at temp=0
+[2026-03-11 14:12:29] OK: 1363710067-empiricalcyclingpodcast-ten-minute-tips-24-you-are-not-your-ctl (temp=0.2 (kept over 0: 23 vs 999999 repeated lines))
+[2026-03-11 14:12:38] RETRANSCRIBE: 1419554557-empiricalcyclingpodcast-watts-doc-41-does-overtraining-actually-make-mitochondria-dysfunction (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:22:11] RETRY ALSO CORRUPTED: 1316155894-empiricalcyclingpodcast-ten-minute-tips-22-training-myths-part-2 (max 3 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:22:11] KEPT temp=0.2 version: 11 repeated lines vs 999999 at temp=0
+[2026-03-11 14:22:11] OK: 1316155894-empiricalcyclingpodcast-ten-minute-tips-22-training-myths-part-2 (temp=0.2 (kept over 0: 11 vs 999999 repeated lines))
+[2026-03-11 14:22:19] RETRANSCRIBE: 1426345801-empiricalcyclingpodcast-watts-doc-42the-relationship-between-size-and-power (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:24:21] RETRY ALSO CORRUPTED: 1301979604-empiricalcyclingpodcast-ten-minute-tips-21-individualization-is-why-it-always-depends (max 1789 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:24:21] KEPT temp=0.2 version: 2053 repeated lines vs 999999 at temp=0
+[2026-03-11 14:24:21] OK: 1301979604-empiricalcyclingpodcast-ten-minute-tips-21-individualization-is-why-it-always-depends (temp=0.2 (kept over 0: 2053 vs 999999 repeated lines))
+[2026-03-11 14:24:29] RETRANSCRIBE: 1435296790-empiricalcyclingpodcast-perspectives-22-the-cognitive-dissonance-of-silver-bullet-training-with-patrick-smith (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:28:24] RETRY ALSO CORRUPTED: 1309266271-empiricalcyclingpodcast-perspectives-16-experiment-vs-experience-with-marinus-petersen (max 1515 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:28:24] KEPT temp=0.2 version: 1537 repeated lines vs 999999 at temp=0
+[2026-03-11 14:28:25] OK: 1309266271-empiricalcyclingpodcast-perspectives-16-experiment-vs-experience-with-marinus-petersen (temp=0.2 (kept over 0: 1537 vs 999999 repeated lines))
+[2026-03-11 14:28:30] RETRANSCRIBE: 1440628345-empiricalcyclingpodcast-ten-minute-tips-22-the-case-against-erg-mode (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:29:10] RETRY ALSO CORRUPTED: 1233728686-empiricalcyclingpodcast-watts-doc-37-your-fast-twitch-fibers-probably-as-aerobic-as-your-slow-twitch (max 4862 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:29:10] KEPT temp=0.2 version: 4861 repeated lines vs 999999 at temp=0
+[2026-03-11 14:29:10] OK: 1233728686-empiricalcyclingpodcast-watts-doc-37-your-fast-twitch-fibers-probably-as-aerobic-as-your-slow-twitch (temp=0.2 (kept over 0: 4861 vs 999999 repeated lines))
+[2026-03-11 14:29:14] RETRANSCRIBE: 1472759278-empiricalcyclingpodcast-ten-minute-tips-27-programming-over-under-workouts (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:29:44] RETRY ALSO CORRUPTED: 1406970607-empiricalcyclingpodcast-perspectives-21-behind-the-new-american-40km-itt-record-with-cory-lockwood (max 41 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:29:44] KEPT temp=0.2 version: 42 repeated lines vs 999999 at temp=0
+[2026-03-11 14:29:44] OK: 1406970607-empiricalcyclingpodcast-perspectives-21-behind-the-new-american-40km-itt-record-with-cory-lockwood (temp=0.2 (kept over 0: 42 vs 999999 repeated lines))
+[2026-03-11 14:29:48] RETRANSCRIBE: 1481215921-empiricalcyclingpodcast-perspectives-24-continuous-glucose-monitors-kristen-faulkner-and-athlete-health (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:44:02] RETRY ALSO CORRUPTED: 1472759278-empiricalcyclingpodcast-ten-minute-tips-27-programming-over-under-workouts (max 588 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:44:02] KEPT temp=0.2 version: 635 repeated lines vs 999999 at temp=0
+[2026-03-11 14:44:02] OK: 1472759278-empiricalcyclingpodcast-ten-minute-tips-27-programming-over-under-workouts (temp=0.2 (kept over 0: 635 vs 999999 repeated lines))
+[2026-03-11 14:44:07] RETRANSCRIBE: 1537331443-empiricalcyclingpodcast-watts-doc-44-calcium-is-an-underappreciated-aerobic-adaptive-signal (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:46:31] RETRY ALSO CORRUPTED: 1419554557-empiricalcyclingpodcast-watts-doc-41-does-overtraining-actually-make-mitochondria-dysfunction (max 18 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:46:31] KEPT temp=0.2 version: 24 repeated lines vs 999999 at temp=0
+[2026-03-11 14:46:31] OK: 1419554557-empiricalcyclingpodcast-watts-doc-41-does-overtraining-actually-make-mitochondria-dysfunction (temp=0.2 (kept over 0: 24 vs 999999 repeated lines))
+[2026-03-11 14:46:38] RETRANSCRIBE: 1560449302-empiricalcyclingpodcast-ten-minute-tips-29-training-myths-part-3-volume (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:47:52] RETRY ALSO CORRUPTED: 1440628345-empiricalcyclingpodcast-ten-minute-tips-22-the-case-against-erg-mode (max 72 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:47:52] KEPT temp=0.2 version: 88 repeated lines vs 999999 at temp=0
+[2026-03-11 14:47:52] OK: 1440628345-empiricalcyclingpodcast-ten-minute-tips-22-the-case-against-erg-mode (temp=0.2 (kept over 0: 88 vs 999999 repeated lines))
+[2026-03-11 14:48:01] RETRANSCRIBE: 1608430374-empiricalcyclingpodcast-watts-doc-45-how-high-intensity-aerobic-adaptations-with-ampk-do-and-dont-work (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:51:23] RETRY ALSO CORRUPTED: 1353913138-empiricalcyclingpodcast-perspectives-19-adaptation-signaling-and-performance-with-andy-coggan (max 2866 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:51:23] KEPT temp=0.2 version: 2896 repeated lines vs 999999 at temp=0
+[2026-03-11 14:51:23] OK: 1353913138-empiricalcyclingpodcast-perspectives-19-adaptation-signaling-and-performance-with-andy-coggan (temp=0.2 (kept over 0: 2896 vs 999999 repeated lines))
+[2026-03-11 14:51:31] RETRANSCRIBE: 1630053015-empiricalcyclingpodcast-perspectives-29-managing-fitness-and-rest-during-race-season-with-taylor-warren (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:52:15] RETRY ALSO CORRUPTED: 1370242147-empiricalcyclingpodcast-watts-doc-40-endurance-adaptation-is-not-substrate-oxidation (max 3620 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:52:15] KEPT temp=0.2 version: 3619 repeated lines vs 999999 at temp=0
+[2026-03-11 14:52:15] OK: 1370242147-empiricalcyclingpodcast-watts-doc-40-endurance-adaptation-is-not-substrate-oxidation (temp=0.2 (kept over 0: 3619 vs 999999 repeated lines))
+[2026-03-11 14:52:22] RETRANSCRIBE: 1641431880-empiricalcyclingpodcast-watts-doc-46-why-low-glycogen-training-probably-doesnt-work (skipping temp=0, starting at temp=0.2)
+[2026-03-11 14:55:56] RETRY ALSO CORRUPTED: 1481215921-empiricalcyclingpodcast-perspectives-24-continuous-glucose-monitors-kristen-faulkner-and-athlete-health (max 2671 consecutive repeated lines at temp=0.2)
+[2026-03-11 14:55:56] KEPT temp=0.2 version: 2672 repeated lines vs 999999 at temp=0
+[2026-03-11 14:55:56] OK: 1481215921-empiricalcyclingpodcast-perspectives-24-continuous-glucose-monitors-kristen-faulkner-and-athlete-health (temp=0.2 (kept over 0: 2672 vs 999999 repeated lines))
+[2026-03-11 14:56:04] RETRANSCRIBE: 1646875578-empiricalcyclingpodcast-ten-minute-tips-30-strength-training-mistakes-every-cyclist-makes (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:04:28] RETRY ALSO CORRUPTED: 1435296790-empiricalcyclingpodcast-perspectives-22-the-cognitive-dissonance-of-silver-bullet-training-with-patrick-smith (max 1336 consecutive repeated lines at temp=0.2)
+[2026-03-11 15:04:28] KEPT temp=0.2 version: 1375 repeated lines vs 999999 at temp=0
+[2026-03-11 15:04:28] OK: 1435296790-empiricalcyclingpodcast-perspectives-22-the-cognitive-dissonance-of-silver-bullet-training-with-patrick-smith (temp=0.2 (kept over 0: 1375 vs 999999 repeated lines))
+[2026-03-11 15:04:36] RETRANSCRIBE: 1675129809-empiricalcyclingpodcast-ten-minute-tips-31-how-to-take-a-rest-day-and-how-to-avoid-screwing-it-up (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:09:32] RETRY ALSO CORRUPTED: 1426345801-empiricalcyclingpodcast-watts-doc-42the-relationship-between-size-and-power (max 4916 consecutive repeated lines at temp=0.2)
+[2026-03-11 15:09:32] KEPT temp=0.2 version: 4917 repeated lines vs 999999 at temp=0
+[2026-03-11 15:09:32] OK: 1426345801-empiricalcyclingpodcast-watts-doc-42the-relationship-between-size-and-power (temp=0.2 (kept over 0: 4917 vs 999999 repeated lines))
+[2026-03-11 15:09:41] RETRANSCRIBE: 1681202379-empiricalcyclingpodcast-watts-doc-47-the-redox-role-in-adaptation-recovery-and-nutrition (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:11:28] RETRY ALSO CORRUPTED: 1560449302-empiricalcyclingpodcast-ten-minute-tips-29-training-myths-part-3-volume (max 1028 consecutive repeated lines at temp=0.2)
+[2026-03-11 15:11:28] KEPT temp=0.2 version: 1144 repeated lines vs 999999 at temp=0
+[2026-03-11 15:11:28] OK: 1560449302-empiricalcyclingpodcast-ten-minute-tips-29-training-myths-part-3-volume (temp=0.2 (kept over 0: 1144 vs 999999 repeated lines))
+[2026-03-11 15:11:35] RETRANSCRIBE: 1712873712-empiricalcyclingpodcast-ten-minute-tips-32-where-training-zones-fall-short (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:20:49] RETRY ALSO CORRUPTED: 1641431880-empiricalcyclingpodcast-watts-doc-46-why-low-glycogen-training-probably-doesnt-work (max 18 consecutive repeated lines at temp=0.2)
+[2026-03-11 15:20:49] KEPT temp=0.2 version: 23 repeated lines vs 999999 at temp=0
+[2026-03-11 15:20:49] OK: 1641431880-empiricalcyclingpodcast-watts-doc-46-why-low-glycogen-training-probably-doesnt-work (temp=0.2 (kept over 0: 23 vs 999999 repeated lines))
+[2026-03-11 15:20:57] RETRANSCRIBE: 1723883430-empiricalcyclingpodcast-ten-minute-tips-33-track-training-considerations (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:22:24] RETRY ALSO CORRUPTED: 1537331443-empiricalcyclingpodcast-watts-doc-44-calcium-is-an-underappreciated-aerobic-adaptive-signal (max 2210 consecutive repeated lines at temp=0.2)
+[2026-03-11 15:22:24] KEPT temp=0.2 version: 2251 repeated lines vs 999999 at temp=0
+[2026-03-11 15:22:24] OK: 1537331443-empiricalcyclingpodcast-watts-doc-44-calcium-is-an-underappreciated-aerobic-adaptive-signal (temp=0.2 (kept over 0: 2251 vs 999999 repeated lines))
+[2026-03-11 15:22:31] RETRANSCRIBE: 1731147645-empiricalcyclingpodcast-ten-minute-tips-34-intermediate-and-advanced-strength-training-mistakes-and-solutions (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:29:33] RETRY ALSO CORRUPTED: 1646875578-empiricalcyclingpodcast-ten-minute-tips-30-strength-training-mistakes-every-cyclist-makes (max 24 consecutive repeated lines at temp=0.2)
+[2026-03-11 15:29:33] KEPT temp=0.2 version: 36 repeated lines vs 999999 at temp=0
+[2026-03-11 15:29:33] OK: 1646875578-empiricalcyclingpodcast-ten-minute-tips-30-strength-training-mistakes-every-cyclist-makes (temp=0.2 (kept over 0: 36 vs 999999 repeated lines))
+[2026-03-11 15:29:41] RETRANSCRIBE: 1752139989-empiricalcyclingpodcast-ten-minute-tips-35-higher-ftp-vs-longer-tte (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:37:07] RETRY ALSO CORRUPTED: 1630053015-empiricalcyclingpodcast-perspectives-29-managing-fitness-and-rest-during-race-season-with-taylor-warren (max 2411 consecutive repeated lines at temp=0.2)
+[2026-03-11 15:37:07] KEPT temp=0.2 version: 2915 repeated lines vs 999999 at temp=0
+[2026-03-11 15:37:07] OK: 1630053015-empiricalcyclingpodcast-perspectives-29-managing-fitness-and-rest-during-race-season-with-taylor-warren (temp=0.2 (kept over 0: 2915 vs 999999 repeated lines))
+[2026-03-11 15:37:17] RETRANSCRIBE: 1783447314-empiricalcyclingpodcast-watts-doc-49-endurance-intensity-and-volume (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:52:22] RETRY ALSO CORRUPTED: 1675129809-empiricalcyclingpodcast-ten-minute-tips-31-how-to-take-a-rest-day-and-how-to-avoid-screwing-it-up (max 1889 consecutive repeated lines at temp=0.2)
+[2026-03-11 15:52:22] KEPT temp=0.2 version: 1894 repeated lines vs 999999 at temp=0
+[2026-03-11 15:52:22] OK: 1675129809-empiricalcyclingpodcast-ten-minute-tips-31-how-to-take-a-rest-day-and-how-to-avoid-screwing-it-up (temp=0.2 (kept over 0: 1894 vs 999999 repeated lines))
+[2026-03-11 15:52:31] RETRANSCRIBE: 1799552662-empiricalcyclingpodcast-ten-minute-tips-37-pacing-and-programming-endurance-rides (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:52:31] RETRY ALSO CORRUPTED: 1712873712-empiricalcyclingpodcast-ten-minute-tips-32-where-training-zones-fall-short (max 3727 consecutive repeated lines at temp=0.2)
+[2026-03-11 15:52:31] KEPT temp=0.2 version: 3732 repeated lines vs 999999 at temp=0
+[2026-03-11 15:52:31] OK: 1712873712-empiricalcyclingpodcast-ten-minute-tips-32-where-training-zones-fall-short (temp=0.2 (kept over 0: 3732 vs 999999 repeated lines))
+[2026-03-11 15:52:38] RETRANSCRIBE: 1843418724-empiricalcyclingpodcast-perspectives-34-quantifying-training-volume-with-marinus-petersen (skipping temp=0, starting at temp=0.2)
+[2026-03-11 15:58:05] RETRY OK: 1723883430-empiricalcyclingpodcast-ten-minute-tips-33-track-training-considerations (temp=0.2 clean, max consecutive repeats: 2)
+[2026-03-11 15:58:05] OK: 1723883430-empiricalcyclingpodcast-ten-minute-tips-33-track-training-considerations (temp=0.2)
+[2026-03-11 15:58:11] RETRANSCRIBE: 1849589265-empiricalcyclingpodcast-ten-minute-tips-38-balancing-training-and-rest-during-race-season (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:19:55] RETRY ALSO CORRUPTED: 1608430374-empiricalcyclingpodcast-watts-doc-45-how-high-intensity-aerobic-adaptations-with-ampk-do-and-dont-work (max 6178 consecutive repeated lines at temp=0.2)
+[2026-03-11 16:19:55] KEPT temp=0.2 version: 6183 repeated lines vs 999999 at temp=0
+[2026-03-11 16:19:55] OK: 1608430374-empiricalcyclingpodcast-watts-doc-45-how-high-intensity-aerobic-adaptations-with-ampk-do-and-dont-work (temp=0.2 (kept over 0: 6183 vs 999999 repeated lines))
+[2026-03-11 16:20:02] RETRANSCRIBE: 1874275173-empiricalcyclingpodcast-ten-minute-tips-39-individualizing-training-for-crits-cx-and-mtb (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:20:21] RETRY ALSO CORRUPTED: 1783447314-empiricalcyclingpodcast-watts-doc-49-endurance-intensity-and-volume (max 38 consecutive repeated lines at temp=0.2)
+[2026-03-11 16:20:21] KEPT temp=0.2 version: 56 repeated lines vs 999999 at temp=0
+[2026-03-11 16:20:21] OK: 1783447314-empiricalcyclingpodcast-watts-doc-49-endurance-intensity-and-volume (temp=0.2 (kept over 0: 56 vs 999999 repeated lines))
+[2026-03-11 16:20:28] RETRANSCRIBE: 1884216615-empiricalcyclingpodcast-ten-minute-tips-40-training-mistakes-every-beginner-makes-and-solutions (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:23:38] RETRY ALSO CORRUPTED: 1681202379-empiricalcyclingpodcast-watts-doc-47-the-redox-role-in-adaptation-recovery-and-nutrition (max 5471 consecutive repeated lines at temp=0.2)
+[2026-03-11 16:23:38] KEPT temp=0.2 version: 5529 repeated lines vs 999999 at temp=0
+[2026-03-11 16:23:38] OK: 1681202379-empiricalcyclingpodcast-watts-doc-47-the-redox-role-in-adaptation-recovery-and-nutrition (temp=0.2 (kept over 0: 5529 vs 999999 repeated lines))
+[2026-03-11 16:23:44] RETRANSCRIBE: 1921582412-empiricalcyclingpodcast-perspectives-35-continuously-realizing-potential-with-cole-tamburri (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:25:30] RETRY ALSO CORRUPTED: 1849589265-empiricalcyclingpodcast-ten-minute-tips-38-balancing-training-and-rest-during-race-season (max 542 consecutive repeated lines at temp=0.2)
+[2026-03-11 16:25:30] KEPT temp=0.2 version: 541 repeated lines vs 999999 at temp=0
+[2026-03-11 16:25:30] OK: 1849589265-empiricalcyclingpodcast-ten-minute-tips-38-balancing-training-and-rest-during-race-season (temp=0.2 (kept over 0: 541 vs 999999 repeated lines))
+[2026-03-11 16:25:37] RETRANSCRIBE: 1935688253-empiricalcyclingpodcast-ten-minute-tips-42-the-training-implications-of-strength-as-a-skill (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:26:13] RETRY OK: 1843418724-empiricalcyclingpodcast-perspectives-34-quantifying-training-volume-with-marinus-petersen (temp=0.2 clean, max consecutive repeats: 2)
+[2026-03-11 16:26:13] OK: 1843418724-empiricalcyclingpodcast-perspectives-34-quantifying-training-volume-with-marinus-petersen (temp=0.2)
+[2026-03-11 16:26:17] RETRANSCRIBE: 1949321231-empiricalcyclingpodcast-watts-doc-51-the-complicated-relationship-between-performance-and-phenotype (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:33:11] RETRY ALSO CORRUPTED: 1731147645-empiricalcyclingpodcast-ten-minute-tips-34-intermediate-and-advanced-strength-training-mistakes-and-solutions (max 6138 consecutive repeated lines at temp=0.2)
+[2026-03-11 16:33:11] KEPT temp=0.2 version: 6146 repeated lines vs 999999 at temp=0
+[2026-03-11 16:33:11] OK: 1731147645-empiricalcyclingpodcast-ten-minute-tips-34-intermediate-and-advanced-strength-training-mistakes-and-solutions (temp=0.2 (kept over 0: 6146 vs 999999 repeated lines))
+[2026-03-11 16:33:17] RETRANSCRIBE: 1960584159-empiricalcyclingpodcast-ten-minute-tips-45-the-simplest-training-plan-thought-experiment (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:42:58] RETRY ALSO CORRUPTED: 1799552662-empiricalcyclingpodcast-ten-minute-tips-37-pacing-and-programming-endurance-rides (max 1646 consecutive repeated lines at temp=0.2)
+[2026-03-11 16:42:58] KEPT temp=0.2 version: 1647 repeated lines vs 999999 at temp=0
+[2026-03-11 16:42:58] OK: 1799552662-empiricalcyclingpodcast-ten-minute-tips-37-pacing-and-programming-endurance-rides (temp=0.2 (kept over 0: 1647 vs 999999 repeated lines))
+[2026-03-11 16:43:04] RETRY ALSO CORRUPTED: 1752139989-empiricalcyclingpodcast-ten-minute-tips-35-higher-ftp-vs-longer-tte (max 4837 consecutive repeated lines at temp=0.2)
+[2026-03-11 16:43:04] KEPT temp=0.2 version: 4838 repeated lines vs 999999 at temp=0
+[2026-03-11 16:43:04] OK: 1752139989-empiricalcyclingpodcast-ten-minute-tips-35-higher-ftp-vs-longer-tte (temp=0.2 (kept over 0: 4838 vs 999999 repeated lines))
+[2026-03-11 16:43:04] RETRANSCRIBE: 1966298519-empiricalcyclingpodcast-perspectives-36-the-consequences-of-chronic-underfueling-with-traci-carson (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:43:12] RETRANSCRIBE: 2012769243-empiricalcyclingpodcast-ten-minute-tips-48-avoiding-over-optimization (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:50:14] RETRY ALSO CORRUPTED: 1949321231-empiricalcyclingpodcast-watts-doc-51-the-complicated-relationship-between-performance-and-phenotype (max 1664 consecutive repeated lines at temp=0.2)
+[2026-03-11 16:50:14] KEPT temp=0.2 version: 1663 repeated lines vs 999999 at temp=0
+[2026-03-11 16:50:14] OK: 1949321231-empiricalcyclingpodcast-watts-doc-51-the-complicated-relationship-between-performance-and-phenotype (temp=0.2 (kept over 0: 1663 vs 999999 repeated lines))
+[2026-03-11 16:50:21] RETRANSCRIBE: 2024446488-empiricalcyclingpodcast-ten-minute-tips-49-practical-proxies-for-stimulus (skipping temp=0, starting at temp=0.2)
+[2026-03-11 16:53:32] RETRY ALSO CORRUPTED: 1921582412-empiricalcyclingpodcast-perspectives-35-continuously-realizing-potential-with-cole-tamburri (max 927 consecutive repeated lines at temp=0.2)
+[2026-03-11 16:53:32] KEPT temp=0.2 version: 941 repeated lines vs 999999 at temp=0
+[2026-03-11 16:53:32] OK: 1921582412-empiricalcyclingpodcast-perspectives-35-continuously-realizing-potential-with-cole-tamburri (temp=0.2 (kept over 0: 941 vs 999999 repeated lines))
+[2026-03-11 16:53:38] RETRANSCRIBE: 2036173748-empiricalcyclingpodcast-ten-minute-tips-50-fat-and-carb-burning-myths (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:06:24] RETRY ALSO CORRUPTED: 1935688253-empiricalcyclingpodcast-ten-minute-tips-42-the-training-implications-of-strength-as-a-skill (max 496 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:06:24] KEPT temp=0.2 version: 885 repeated lines vs 999999 at temp=0
+[2026-03-11 17:06:24] OK: 1935688253-empiricalcyclingpodcast-ten-minute-tips-42-the-training-implications-of-strength-as-a-skill (temp=0.2 (kept over 0: 885 vs 999999 repeated lines))
+[2026-03-11 17:06:33] RETRANSCRIBE: 2045615796-empiricalcyclingpodcast-ten-minute-tips-51-rpe-workout-feedback-adaptation-and-health-outcomes (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:16:47] RETRY ALSO CORRUPTED: 1960584159-empiricalcyclingpodcast-ten-minute-tips-45-the-simplest-training-plan-thought-experiment (max 31 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:16:47] KEPT temp=0.2 version: 33 repeated lines vs 999999 at temp=0
+[2026-03-11 17:16:47] OK: 1960584159-empiricalcyclingpodcast-ten-minute-tips-45-the-simplest-training-plan-thought-experiment (temp=0.2 (kept over 0: 33 vs 999999 repeated lines))
+[2026-03-11 17:16:53] RETRANSCRIBE: 2061437404-empiricalcyclingpodcast-ten-minute-tips-52-intermediate-training-mistakes-and-solutions (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:17:08] RETRY ALSO CORRUPTED: 1884216615-empiricalcyclingpodcast-ten-minute-tips-40-training-mistakes-every-beginner-makes-and-solutions (max 4549 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:17:08] KEPT temp=0.2 version: 4553 repeated lines vs 999999 at temp=0
+[2026-03-11 17:17:08] OK: 1884216615-empiricalcyclingpodcast-ten-minute-tips-40-training-mistakes-every-beginner-makes-and-solutions (temp=0.2 (kept over 0: 4553 vs 999999 repeated lines))
+[2026-03-11 17:17:14] RETRANSCRIBE: 2086315650-empiricalcyclingpodcast-watts-doc-53-the-origins-of-newbie-gains (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:20:47] RETRY ALSO CORRUPTED: 2036173748-empiricalcyclingpodcast-ten-minute-tips-50-fat-and-carb-burning-myths (max 504 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:20:47] KEPT temp=0.2 version: 503 repeated lines vs 999999 at temp=0
+[2026-03-11 17:20:47] OK: 2036173748-empiricalcyclingpodcast-ten-minute-tips-50-fat-and-carb-burning-myths (temp=0.2 (kept over 0: 503 vs 999999 repeated lines))
+[2026-03-11 17:20:52] RETRANSCRIBE: 2110075104-empiricalcyclingpodcast-ten-minute-tips-57-our-coaches-answer-your-training-questions (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:25:30] RETRY ALSO CORRUPTED: 2012769243-empiricalcyclingpodcast-ten-minute-tips-48-avoiding-over-optimization (max 1581 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:25:30] KEPT temp=0.2 version: 1629 repeated lines vs 999999 at temp=0
+[2026-03-11 17:25:30] OK: 2012769243-empiricalcyclingpodcast-ten-minute-tips-48-avoiding-over-optimization (temp=0.2 (kept over 0: 1629 vs 999999 repeated lines))
+[2026-03-11 17:25:36] RETRANSCRIBE: 2121761955-empiricalcyclingpodcast-ten-minute-tips-59-considerations-for-cramps (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:31:50] RETRY ALSO CORRUPTED: 1874275173-empiricalcyclingpodcast-ten-minute-tips-39-individualizing-training-for-crits-cx-and-mtb (max 5613 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:31:50] KEPT temp=0.2 version: 5616 repeated lines vs 999999 at temp=0
+[2026-03-11 17:31:50] OK: 1874275173-empiricalcyclingpodcast-ten-minute-tips-39-individualizing-training-for-crits-cx-and-mtb (temp=0.2 (kept over 0: 5616 vs 999999 repeated lines))
+[2026-03-11 17:31:59] RETRANSCRIBE: 2135972586-empiricalcyclingpodcast-watts-doc-55-the-right-vo2max-training-and-3015s-epilogue (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:35:54] RETRY ALSO CORRUPTED: 1966298519-empiricalcyclingpodcast-perspectives-36-the-consequences-of-chronic-underfueling-with-traci-carson (max 2204 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:35:54] KEPT temp=0.2 version: 3136 repeated lines vs 999999 at temp=0
+[2026-03-11 17:35:54] OK: 1966298519-empiricalcyclingpodcast-perspectives-36-the-consequences-of-chronic-underfueling-with-traci-carson (temp=0.2 (kept over 0: 3136 vs 999999 repeated lines))
+[2026-03-11 17:36:00] RETRANSCRIBE: 2150935608-empiricalcyclingpodcast-ten-minute-tips-61-coach-qa-on-limiters-low-volume-rest-weeks-resuming-training-under-optimized-training-more (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:40:31] RETRY ALSO CORRUPTED: 2135972586-empiricalcyclingpodcast-watts-doc-55-the-right-vo2max-training-and-3015s-epilogue (max 260 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:40:31] KEPT temp=0.2 version: 259 repeated lines vs 999999 at temp=0
+[2026-03-11 17:40:31] OK: 2135972586-empiricalcyclingpodcast-watts-doc-55-the-right-vo2max-training-and-3015s-epilogue (temp=0.2 (kept over 0: 259 vs 999999 repeated lines))
+[2026-03-11 17:40:38] RETRANSCRIBE: 2168476551-empiricalcyclingpodcast-ten-minute-tips-63-the-best-and-worst-ways-to-test-ftp (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:43:52] RETRY ALSO CORRUPTED: 2024446488-empiricalcyclingpodcast-ten-minute-tips-49-practical-proxies-for-stimulus (max 4194 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:43:52] KEPT temp=0.2 version: 4198 repeated lines vs 999999 at temp=0
+[2026-03-11 17:43:52] OK: 2024446488-empiricalcyclingpodcast-ten-minute-tips-49-practical-proxies-for-stimulus (temp=0.2 (kept over 0: 4198 vs 999999 repeated lines))
+[2026-03-11 17:43:59] RETRANSCRIBE: 2175917922-empiricalcyclingpodcast-watts-doc-57-finding-ftp-by-feel-is-easier-than-you-think (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:47:29] RETRY ALSO CORRUPTED: 2086315650-empiricalcyclingpodcast-watts-doc-53-the-origins-of-newbie-gains (max 2156 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:47:29] KEPT temp=0.2 version: 3237 repeated lines vs 999999 at temp=0
+[2026-03-11 17:47:29] OK: 2086315650-empiricalcyclingpodcast-watts-doc-53-the-origins-of-newbie-gains (temp=0.2 (kept over 0: 3237 vs 999999 repeated lines))
+[2026-03-11 17:47:33] RETRANSCRIBE: 2181253055-empiricalcyclingpodcast-ten-minute-tips-64-diagnosing-and-training-weaknesses-in-the-off-season (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:51:57] RETRY ALSO CORRUPTED: 2110075104-empiricalcyclingpodcast-ten-minute-tips-57-our-coaches-answer-your-training-questions (max 420 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:51:57] KEPT temp=0.2 version: 830 repeated lines vs 999999 at temp=0
+[2026-03-11 17:51:57] OK: 2110075104-empiricalcyclingpodcast-ten-minute-tips-57-our-coaches-answer-your-training-questions (temp=0.2 (kept over 0: 830 vs 999999 repeated lines))
+[2026-03-11 17:52:05] RETRANSCRIBE: 2191047787-empiricalcyclingpodcast-watts-doc-58-creatines-actual-effects-on-cycling-performance (skipping temp=0, starting at temp=0.2)
+[2026-03-11 17:59:23] RETRY ALSO CORRUPTED: 2045615796-empiricalcyclingpodcast-ten-minute-tips-51-rpe-workout-feedback-adaptation-and-health-outcomes (max 2291 consecutive repeated lines at temp=0.2)
+[2026-03-11 17:59:23] KEPT temp=0.2 version: 2290 repeated lines vs 999999 at temp=0
+[2026-03-11 17:59:23] OK: 2045615796-empiricalcyclingpodcast-ten-minute-tips-51-rpe-workout-feedback-adaptation-and-health-outcomes (temp=0.2 (kept over 0: 2290 vs 999999 repeated lines))
+[2026-03-11 17:59:32] RETRANSCRIBE: 2219611610-empiricalcyclingpodcast-1m-ama (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:01:41] RETRY OK: 2150935608-empiricalcyclingpodcast-ten-minute-tips-61-coach-qa-on-limiters-low-volume-rest-weeks-resuming-training-under-optimized-training-more (temp=0.2 clean, max consecutive repeats: 2)
+[2026-03-11 18:01:41] OK: 2150935608-empiricalcyclingpodcast-ten-minute-tips-61-coach-qa-on-limiters-low-volume-rest-weeks-resuming-training-under-optimized-training-more (temp=0.2)
+[2026-03-11 18:01:47] RETRANSCRIBE: 2223337298-empiricalcyclingpodcast-watts-doc-59-a-muscle-glycogen-paradox (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:04:41] RETRY ALSO CORRUPTED: 2181253055-empiricalcyclingpodcast-ten-minute-tips-64-diagnosing-and-training-weaknesses-in-the-off-season (max 4 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:04:41] KEPT temp=0.2 version: 8 repeated lines vs 999999 at temp=0
+[2026-03-11 18:04:41] OK: 2181253055-empiricalcyclingpodcast-ten-minute-tips-64-diagnosing-and-training-weaknesses-in-the-off-season (temp=0.2 (kept over 0: 8 vs 999999 repeated lines))
+[2026-03-11 18:04:48] RETRANSCRIBE: 2228139536-empiricalcyclingpodcast-ten-minute-tips-68-using-data-in-coaching (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:07:25] RETRY ALSO CORRUPTED: 2061437404-empiricalcyclingpodcast-ten-minute-tips-52-intermediate-training-mistakes-and-solutions (max 4338 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:07:25] KEPT temp=0.2 version: 4339 repeated lines vs 999999 at temp=0
+[2026-03-11 18:07:25] OK: 2061437404-empiricalcyclingpodcast-ten-minute-tips-52-intermediate-training-mistakes-and-solutions (temp=0.2 (kept over 0: 4339 vs 999999 repeated lines))
+[2026-03-11 18:07:36] RETRANSCRIBE: 2232262637-empiricalcyclingpodcast-watts-doc-60-durabilitys-limitations (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:13:24] RETRY ALSO CORRUPTED: 2175917922-empiricalcyclingpodcast-watts-doc-57-finding-ftp-by-feel-is-easier-than-you-think (max 5 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:13:24] KEPT temp=0.2 version: 12 repeated lines vs 999999 at temp=0
+[2026-03-11 18:13:24] OK: 2175917922-empiricalcyclingpodcast-watts-doc-57-finding-ftp-by-feel-is-easier-than-you-think (temp=0.2 (kept over 0: 12 vs 999999 repeated lines))
+[2026-03-11 18:13:30] RETRANSCRIBE: 2252506076-empiricalcyclingpodcast-ten-minute-tips-71-avoiding-panic-training-starts-now (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:20:39] RETRY ALSO CORRUPTED: 2121761955-empiricalcyclingpodcast-ten-minute-tips-59-considerations-for-cramps (max 3967 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:20:39] KEPT temp=0.2 version: 3971 repeated lines vs 999999 at temp=0
+[2026-03-11 18:20:39] OK: 2121761955-empiricalcyclingpodcast-ten-minute-tips-59-considerations-for-cramps (temp=0.2 (kept over 0: 3971 vs 999999 repeated lines))
+[2026-03-11 18:20:44] RETRY ALSO CORRUPTED: 2168476551-empiricalcyclingpodcast-ten-minute-tips-63-the-best-and-worst-ways-to-test-ftp (max 2826 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:20:44] KEPT temp=0.2 version: 2826 repeated lines vs 999999 at temp=0
+[2026-03-11 18:20:44] OK: 2168476551-empiricalcyclingpodcast-ten-minute-tips-63-the-best-and-worst-ways-to-test-ftp (temp=0.2 (kept over 0: 2826 vs 999999 repeated lines))
+[2026-03-11 18:20:45] RETRANSCRIBE: 2260862555-empiricalcyclingpodcast-watts-doc-61-quantifying (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:20:48] RETRANSCRIBE: 2265497594-empiricalcyclingpodcast-ten-minute-tips-72-the-roles (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:26:34] RETRY OK: 2223337298-empiricalcyclingpodcast-watts-doc-59-a-muscle-glycogen-paradox (temp=0.2 clean, max consecutive repeats: 2)
+[2026-03-11 18:26:34] OK: 2223337298-empiricalcyclingpodcast-watts-doc-59-a-muscle-glycogen-paradox (temp=0.2)
+[2026-03-11 18:26:38] RETRANSCRIBE: 594860211-empiricalcyclingpodcast-the-watts-doc-1-ftp-testing (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:28:16] RETRY ALSO CORRUPTED: 2191047787-empiricalcyclingpodcast-watts-doc-58-creatines-actual-effects-on-cycling-performance (max 9 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:28:16] KEPT temp=0.2 version: 9 repeated lines vs 999999 at temp=0
+[2026-03-11 18:28:16] OK: 2191047787-empiricalcyclingpodcast-watts-doc-58-creatines-actual-effects-on-cycling-performance (temp=0.2 (kept over 0: 9 vs 999999 repeated lines))
+[2026-03-11 18:28:19] RETRANSCRIBE: 636044361-empiricalcyclingpodcast-student-union-1-collegiate-nationals-and-the-art-of-the-ttt (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:35:35] RETRY ALSO CORRUPTED: 2228139536-empiricalcyclingpodcast-ten-minute-tips-68-using-data-in-coaching (max 1930 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:35:35] KEPT temp=0.2 version: 1946 repeated lines vs 999999 at temp=0
+[2026-03-11 18:35:35] OK: 2228139536-empiricalcyclingpodcast-ten-minute-tips-68-using-data-in-coaching (temp=0.2 (kept over 0: 1946 vs 999999 repeated lines))
+[2026-03-11 18:35:35] RETRANSCRIBE: 750622018-empiricalcyclingpodcast-ten-minute-tips-5-how-much-does-rotating-weight-matter (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:36:40] RETRY ALSO CORRUPTED: 2252506076-empiricalcyclingpodcast-ten-minute-tips-71-avoiding-panic-training-starts-now (max 558 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:36:40] KEPT temp=0.2 version: 596 repeated lines vs 999999 at temp=0
+[2026-03-11 18:36:40] OK: 2252506076-empiricalcyclingpodcast-ten-minute-tips-71-avoiding-panic-training-starts-now (temp=0.2 (kept over 0: 596 vs 999999 repeated lines))
+[2026-03-11 18:36:43] RETRANSCRIBE: 769739140-empiricalcyclingpodcast-the-watts-doc-16-listener-questions-on-ftp-training (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:36:57] RETRY ALSO CORRUPTED: 750622018-empiricalcyclingpodcast-ten-minute-tips-5-how-much-does-rotating-weight-matter (max 16 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:36:57] KEPT temp=0.2 version: 15 repeated lines vs 999999 at temp=0
+[2026-03-11 18:36:57] OK: 750622018-empiricalcyclingpodcast-ten-minute-tips-5-how-much-does-rotating-weight-matter (temp=0.2 (kept over 0: 15 vs 999999 repeated lines))
+[2026-03-11 18:37:01] RETRANSCRIBE: 807518419-empiricalcyclingpodcast-watts-doc-18-why-everything-you-know-about-vo2max-power-is-probably-wrong (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:38:49] RETRY ALSO CORRUPTED: 2219611610-empiricalcyclingpodcast-1m-ama (max 6 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:38:49] KEPT temp=0.2 version: 33 repeated lines vs 999999 at temp=0
+[2026-03-11 18:38:49] OK: 2219611610-empiricalcyclingpodcast-1m-ama (temp=0.2 (kept over 0: 33 vs 999999 repeated lines))
+[2026-03-11 18:38:54] RETRANSCRIBE: 832792420-empiricalcyclingpodcast-watts-doc-20-the-fick-equation-part-1-a-vo2-difference (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:38:55] RETRY ALSO CORRUPTED: 2265497594-empiricalcyclingpodcast-ten-minute-tips-72-the-roles (max 1490 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:38:55] KEPT temp=0.2 version: 1491 repeated lines vs 999999 at temp=0
+[2026-03-11 18:38:55] OK: 2265497594-empiricalcyclingpodcast-ten-minute-tips-72-the-roles (temp=0.2 (kept over 0: 1491 vs 999999 repeated lines))
+[2026-03-11 18:38:59] RETRANSCRIBE: 851654107-empiricalcyclingpodcast-watts-doc-21-vo2max-and-the-most-interesting-protein-in-the-world (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:42:23] RETRY ALSO CORRUPTED: 636044361-empiricalcyclingpodcast-student-union-1-collegiate-nationals-and-the-art-of-the-ttt (max 605 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:42:23] KEPT temp=0.2 version: 606 repeated lines vs 999999 at temp=0
+[2026-03-11 18:42:23] OK: 636044361-empiricalcyclingpodcast-student-union-1-collegiate-nationals-and-the-art-of-the-ttt (temp=0.2 (kept over 0: 606 vs 999999 repeated lines))
+[2026-03-11 18:42:24] RETRY ALSO CORRUPTED: 594860211-empiricalcyclingpodcast-the-watts-doc-1-ftp-testing (max 6 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:42:24] KEPT temp=0.2 version: 8 repeated lines vs 999999 at temp=0
+[2026-03-11 18:42:24] OK: 594860211-empiricalcyclingpodcast-the-watts-doc-1-ftp-testing (temp=0.2 (kept over 0: 8 vs 999999 repeated lines))
+[2026-03-11 18:42:29] RETRANSCRIBE: 936171130-empiricalcyclingpodcast-watts-doc-27-training-repeated-sprint-ability (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:42:30] RETRANSCRIBE: 941747059-empiricalcyclingpodcast-watts-doc-28-why-hit-may-not-make-you-faster (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:45:41] RETRY ALSO CORRUPTED: 807518419-empiricalcyclingpodcast-watts-doc-18-why-everything-you-know-about-vo2max-power-is-probably-wrong (max 78 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:45:41] KEPT temp=0.2 version: 82 repeated lines vs 999999 at temp=0
+[2026-03-11 18:45:41] OK: 807518419-empiricalcyclingpodcast-watts-doc-18-why-everything-you-know-about-vo2max-power-is-probably-wrong (temp=0.2 (kept over 0: 82 vs 999999 repeated lines))
+[2026-03-11 18:45:45] RETRANSCRIBE: 996442741-empiricalcyclingpodcast-watts-doc-31-how-and-why-we-burn-carbs (skipping temp=0, starting at temp=0.2)
+[2026-03-11 18:46:31] RETRY ALSO CORRUPTED: 2260862555-empiricalcyclingpodcast-watts-doc-61-quantifying (max 4 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:46:31] KEPT temp=0.2 version: 8 repeated lines vs 999999 at temp=0
+[2026-03-11 18:46:31] OK: 2260862555-empiricalcyclingpodcast-watts-doc-61-quantifying (temp=0.2 (kept over 0: 8 vs 999999 repeated lines))
+[2026-03-11 18:53:54] RETRY ALSO CORRUPTED: 936171130-empiricalcyclingpodcast-watts-doc-27-training-repeated-sprint-ability (max 100 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:53:54] KEPT temp=0.2 version: 124 repeated lines vs 999999 at temp=0
+[2026-03-11 18:53:54] OK: 936171130-empiricalcyclingpodcast-watts-doc-27-training-repeated-sprint-ability (temp=0.2 (kept over 0: 124 vs 999999 repeated lines))
+[2026-03-11 18:57:23] RETRY ALSO CORRUPTED: 996442741-empiricalcyclingpodcast-watts-doc-31-how-and-why-we-burn-carbs (max 32 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:57:23] KEPT temp=0.2 version: 41 repeated lines vs 999999 at temp=0
+[2026-03-11 18:57:23] OK: 996442741-empiricalcyclingpodcast-watts-doc-31-how-and-why-we-burn-carbs (temp=0.2 (kept over 0: 41 vs 999999 repeated lines))
+[2026-03-11 18:58:08] RETRY ALSO CORRUPTED: 832792420-empiricalcyclingpodcast-watts-doc-20-the-fick-equation-part-1-a-vo2-difference (max 390 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:58:08] KEPT temp=0.2 version: 654 repeated lines vs 999999 at temp=0
+[2026-03-11 18:58:08] OK: 832792420-empiricalcyclingpodcast-watts-doc-20-the-fick-equation-part-1-a-vo2-difference (temp=0.2 (kept over 0: 654 vs 999999 repeated lines))
+[2026-03-11 18:58:33] RETRY OK: 851654107-empiricalcyclingpodcast-watts-doc-21-vo2max-and-the-most-interesting-protein-in-the-world (temp=0.2 clean, max consecutive repeats: 1)
+[2026-03-11 18:58:33] OK: 851654107-empiricalcyclingpodcast-watts-doc-21-vo2max-and-the-most-interesting-protein-in-the-world (temp=0.2)
+[2026-03-11 18:59:28] RETRY ALSO CORRUPTED: 941747059-empiricalcyclingpodcast-watts-doc-28-why-hit-may-not-make-you-faster (max 28 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:59:28] KEPT temp=0.2 version: 59 repeated lines vs 999999 at temp=0
+[2026-03-11 18:59:28] OK: 941747059-empiricalcyclingpodcast-watts-doc-28-why-hit-may-not-make-you-faster (temp=0.2 (kept over 0: 59 vs 999999 repeated lines))
+[2026-03-11 18:59:43] RETRY ALSO CORRUPTED: 2232262637-empiricalcyclingpodcast-watts-doc-60-durabilitys-limitations (max 5578 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:59:43] KEPT temp=0.2 version: 5581 repeated lines vs 999999 at temp=0
+[2026-03-11 18:59:43] OK: 2232262637-empiricalcyclingpodcast-watts-doc-60-durabilitys-limitations (temp=0.2 (kept over 0: 5581 vs 999999 repeated lines))
+[2026-03-11 18:59:51] RETRY ALSO CORRUPTED: 769739140-empiricalcyclingpodcast-the-watts-doc-16-listener-questions-on-ftp-training (max 989 consecutive repeated lines at temp=0.2)
+[2026-03-11 18:59:51] KEPT temp=0.2 version: 1121 repeated lines vs 999999 at temp=0
+[2026-03-11 18:59:51] OK: 769739140-empiricalcyclingpodcast-the-watts-doc-16-listener-questions-on-ftp-training (temp=0.2 (kept over 0: 1121 vs 999999 repeated lines))
+[2026-03-11 18:59:51] === Transcription run finished ===
+[2026-03-11 18:59:51] Total: 79 files
+[2026-03-11 18:59:51] Transcribed: 2
+[2026-03-11 18:59:51] Skipped: 0
+[2026-03-11 18:59:51] Failed: 0
+[2026-03-11 18:59:51] Retried (corruption detected): 79
+[2026-03-11 18:59:51] Time: 5h 42m

@@ -1,0 +1,126 @@
+{
+  "theme_order": [
+    "exercise_physiology_molecular_adaptation",
+    "vo2max_oxygen_uptake",
+    "threshold_ftp_testing",
+    "training_philosophy_intensity_distribution",
+    "interval_workouts",
+    "recovery_periodization",
+    "strength_training",
+    "nutrition_fueling",
+    "psychology_performance",
+    "coaching_practice_season_planning",
+    "equipment_technique",
+    "racing_team_tactics",
+    "research_methodology"
+  ],
+  "themes": {
+    "exercise_physiology_molecular_adaptation": {
+      "display_name": "Exercise Physiology & Molecular Adaptation",
+      "synthesis_file": "output/synthesis/exercise_physiology_molecular_adaptation.md",
+      "source_clusters": [9, 11, 12]
+    },
+    "vo2max_oxygen_uptake": {
+      "display_name": "VO2max & Oxygen Uptake",
+      "synthesis_file": "output/synthesis/vo2max_oxygen_uptake.md",
+      "source_clusters": [2]
+    },
+    "threshold_ftp_testing": {
+      "display_name": "Threshold, FTP & Performance Testing",
+      "synthesis_file": "output/synthesis/threshold_ftp_testing.md",
+      "source_clusters": [3, 4]
+    },
+    "training_philosophy_intensity_distribution": {
+      "display_name": "Training Philosophy & Intensity Distribution",
+      "synthesis_file": "output/synthesis/training_philosophy_intensity_distribution.md",
+      "source_clusters": [7, 10]
+    },
+    "interval_workouts": {
+      "display_name": "Interval Workouts",
+      "synthesis_file": "output/synthesis/interval_workouts.md",
+      "source_clusters": [5]
+    },
+    "recovery_periodization": {
+      "display_name": "Recovery & Periodization",
+      "synthesis_file": "output/synthesis/recovery_periodization.md",
+      "source_clusters": [13]
+    },
+    "strength_training": {
+      "display_name": "Strength Training",
+      "synthesis_file": "output/synthesis/strength_training.md",
+      "source_clusters": [0]
+    },
+    "nutrition_fueling": {
+      "display_name": "Nutrition & Fueling",
+      "synthesis_file": "output/synthesis/nutrition_fueling.md",
+      "source_clusters": [6]
+    },
+    "psychology_performance": {
+      "display_name": "Psychology & Performance",
+      "synthesis_file": "output/synthesis/psychology_performance.md",
+      "source_clusters": [8]
+    },
+    "coaching_practice_season_planning": {
+      "display_name": "Coaching, Goal-Setting & Season Planning",
+      "synthesis_file": "output/synthesis/coaching_practice_season_planning.md",
+      "source_clusters": [16, 17]
+    },
+    "equipment_technique": {
+      "display_name": "Equipment & Technique",
+      "synthesis_file": "output/synthesis/equipment_technique.md",
+      "source_clusters": [14]
+    },
+    "racing_team_tactics": {
+      "display_name": "Racing & Team Tactics",
+      "synthesis_file": "output/synthesis/racing_team_tactics.md",
+      "source_clusters": [15]
+    },
+    "research_methodology": {
+      "display_name": "Research & Methodology",
+      "synthesis_file": "output/synthesis/research_methodology.md",
+      "source_clusters": [1]
+    }
+  },
+  "cluster_to_extraction": {
+    "0": "output/extractions/strength_training.md",
+    "1": "output/extractions/research_methodology.md",
+    "2": "output/extractions/vo2max_oxygen_uptake.md",
+    "3": "output/extractions/critical_power_lactate.md",
+    "4": "output/extractions/ftp_testing.md",
+    "5": "output/extractions/interval_workouts.md",
+    "6": "output/extractions/nutrition_fueling.md",
+    "7": "output/extractions/aerobic_anaerobic_systems.md",
+    "8": "output/extractions/psychology_coaching.md",
+    "9": "output/extractions/biochemistry_foundations.md",
+    "10": "output/extractions/endurance_zone_training.md",
+    "11": "output/extractions/mitochondrial_physiology.md",
+    "12": "output/extractions/cell_biology_signaling.md",
+    "13": "output/extractions/recovery_workout_design.md",
+    "14": "output/extractions/equipment_technique.md",
+    "15": "output/extractions/racing_team_tactics.md",
+    "16": "output/extractions/coaching_goals_a.md",
+    "17": "output/extractions/coaching_goals_b.md",
+    "noise": "output/extractions/uncategorized_mixed_topics.md"
+  },
+  "extraction_to_theme": {
+    "output/extractions/strength_training.md": "strength_training",
+    "output/extractions/research_methodology.md": "research_methodology",
+    "output/extractions/vo2max_oxygen_uptake.md": "vo2max_oxygen_uptake",
+    "output/extractions/critical_power_lactate.md": "threshold_ftp_testing",
+    "output/extractions/ftp_testing.md": "threshold_ftp_testing",
+    "output/extractions/interval_workouts.md": "interval_workouts",
+    "output/extractions/nutrition_fueling.md": "nutrition_fueling",
+    "output/extractions/aerobic_anaerobic_systems.md": "training_philosophy_intensity_distribution",
+    "output/extractions/psychology_coaching.md": "psychology_performance",
+    "output/extractions/biochemistry_foundations.md": "exercise_physiology_molecular_adaptation",
+    "output/extractions/endurance_zone_training.md": "training_philosophy_intensity_distribution",
+    "output/extractions/mitochondrial_physiology.md": "exercise_physiology_molecular_adaptation",
+    "output/extractions/cell_biology_signaling.md": "exercise_physiology_molecular_adaptation",
+    "output/extractions/recovery_workout_design.md": "recovery_periodization",
+    "output/extractions/equipment_technique.md": "equipment_technique",
+    "output/extractions/racing_team_tactics.md": "racing_team_tactics",
+    "output/extractions/coaching_goals_a.md": "coaching_practice_season_planning",
+    "output/extractions/coaching_goals_b.md": "coaching_practice_season_planning",
+    "output/extractions/uncategorized_mixed_topics.md": null
+  }
+}

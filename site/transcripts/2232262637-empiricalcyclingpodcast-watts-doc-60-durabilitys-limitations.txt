@@ -1,0 +1,1483 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Cole Amore. Today, we are joined once again by Kyle Helson.
+ And I want to thank everybody for listening. As always, if you are new here, please consider subscribing if you like what you're hearing.
+ And if you are a returning listener, we love having you back. Thank you so much for coming back.
+ And if you would like to support the podcast, you can always reach out for coaching at empiricalcycling at gmail.com.
+ And you can work with me or one of my hand-picked coaches. We are very picky about the coaches that we hire.
+ People have asked about that.
+ No, we are actually very picky about that.
+ So you can have full faith that I have full faith in all of our coaches.
+ So if you'd like to reach out for that, we are always taking on clients.
+ It's currently late December.
+ And if you'd like to get in ahead of the January crush that we usually get, similar to September,
+ October, now's a good time to reach out and just at least get a conversation started if
+ you're thinking about starting early next year.
+ If you'd like to reach out for consultation, we also do that.
+ If you'd like to keep coaching yourself, again, email me empiricalcycling at gmail.com.
+ And if you'd like to support the show without any kind of financial commitment, just keep listening.
+ And if you'd like to share the show anywhere on forums, word of mouth goes a long way.
+ Thanks for all of that.
+ If you'd like to ask questions for the podcast, follow me on Instagram at empiricalcycling.
+ And I also do a weekend AMA up there.
+ And we probably have a couple of questions from listeners at the end of this podcast.
+ Sometimes I don't ask for questions.
+ Because if the topic's a little esoteric, like the last watch talk we did, I was like, you know what?
+ I think everybody understands this one.
+ And we've also got a question submission form at the top of the podcast homepage on the website.
+ So today, I decided that, well, I left this up as an option for folks on my Instagram.
+ Do you want to hear a podcast about durability?
+ Or do you want to hear a podcast about heat training?
+ And everybody said durability.
+ So today we're going to talk about what is it. So we're going to talk about its definition. We'll talk about how to assess durability. How do we measure it? We're going to talk about training it, trainability. How do we improve it? And can it be improved really? And what are the limitations of durability?
+ As usual, things will get big brained and we're going to think about a bunch of ways to big brain it, either ways that we've come up with that are fun and I'm sure somebody will think about it.
+ Someone will think about it at some point of, oh, maybe I can improve this metric by doing this.
+ But as usual, what's the Goodwin's law or something like that?
+ When a measure becomes a target, it's no longer a good measure.
+ We're going to talk a little bit about that.
+ So Kyle, have you heard of durability?
+ I have heard of durability.
+ I think it's, you know, it's maybe not as popular as FTP and all the, you know, the kind of the classics, the mainstays, but I think it's, so maybe I think it might be one of those things that people are not as familiar with, but I've heard of it.
+ Although I think that defining it well, or maybe not well, but in a way that is less ambiguous or less controversial might be difficult for some.
+ Or you hear durability and maybe you come from a, yeah, like we said before, we started recording, like a mechanical engineering life cycle type background.
+ Yeah, like carbon versus aluminum or something.
+ Yeah, exactly. Or just, you know, you think about how many times can you flex a piece of metal before it cracks and fails and like that, but, um, which isn't, which isn't the worst, worst, like place to start when you're thinking about it. If you, you know, kind of gently massage that analogy into sports.
+ Actually, that is not a bad analogy. I hadn't thought of that beforehand. But I do like it and keep that in your head because we'll come back to it. And to be honest, I had actually not really thought about doing a podcast on durability at all. Because in part, it's just the same thing as endurance. And usually when we talk about training your endurance, we're also talking about things that will train your durability.
+ But I think that people have thought about this as a new dimension, third or fourth dimension, however many dimensions you want to measure in terms of performance.
+ And so people are thinking about it more.
+ And I also recently learned that probably a pretty sizable chunk of our listenership is coaches.
+ And so I figured most coaches are probably going to figure this is like kind of, yeah, we know about that.
+ And it's not a big deal.
+ It's not a new thing.
+ Especially if you've been coaching for a while, you've definitely heard about a bunch of other things.
+ You probably use a bunch of metrics that you may not realize that some people are paralleling with durability.
+ So we'll talk about that in a little bit.
+ but I also went on a big literature search because I had seen a couple of papers over the last couple
+ of years. And one of the things that I was struck by is the paucity of research. There's not a ton
+ out there. And so in leading up to this podcast, I decided to read all of them. So I've read every
+ paper in durability and you can too. It's really genuinely not hard, probably a week or two worth
+ of reading. And the thing that surprised me the further I dug into it is that the literature is
+ not actually as strong as I would think, given the popularity of the mixed science type media
+ interpretations, where the interpretations that I've seen are much more strongly advised than
+ and the evidence would suggest that they are actually advisable. So we'll talk about that.
+ We're going to go really, really deep on this podcast. In fact, I may split it up into two
+ podcasts after we're done recording. That's how deep this one's going to go. So we will see if
+ that actually happens. So we'll also dig into the training implications that do exist in the
+ literature, and we're going to kind of parse that and tease that apart from my actual coaching
+ experience. And so this is actually a really interesting way to think about the scientific
+ process early on in the, I wouldn't say this has really been discovered, but you could say just
+ early on in the discovery or the formalization of a topic. Would you agree with that, Kyle,
+ that it's kind of cool to see something emerge in the literature? Yeah, I think that
+ So many things in exercise science and biomechanics, physiology, whatever you want to cash this as, are things that started maybe more on the science side.
+ And now this is maybe a little bit more coming from the sports performance, athletic performance side, where you can kind of have this feedback of like, oh, there's this concept or this idea that maybe has been more well known to coaches and athletes and people in that space, but who aren't necessarily as connected to the R&D side.
+ Where if now you're coming back to the research side of saying, hey, how can we actually quantify or more accurately describe this thing that people, maybe a little nebulous, but that people have kind of known about for a while.
+ Right.
+ Which is cool.
+ Yeah.
+ And we'll kind of dig into that because some of the papers that I want to look at are about definitions.
+ We'll look at the very first paper.
+ We'll look at some scholarly debate.
+ We could call it on different terms for different qualities of being endurant.
+ And we're going to have to look past the buzzwords and really consider what we're measuring.
+ And you may or may not be surprised at things being a little more fuzzy than you might expect.
+ So we'll also think about testing and measuring durability as we would colloquially understand it.
+ Because everybody seems to have, at least among coaches and media, seems to be looking at, depending on how you want to interpret the literature.
+ But I and a lot of other coaches have settled on kilojoules per kilogram as a kind of catch-all durability metric.
+ And we'll kind of dig into that a little bit.
+ And we'll see where that comes from as well.
+ And we'll also take a look at the published things, what's been published on things that correlate with durability.
+ And we'll try to tease apart some training recommendations.
+ And like I said, we'll tease that apart from my coaching experience and what I consider to be durability training, as it were.
+ And of course, then we're going to talk about why durability is not actually a fitness panacea.
+ And we'll also think about strategies to be critical of the media interpretations that you see, including this podcast.
+ So I'm always asking people to be critical of us as well, and I always appreciate any kind of feedback on, hey, what about this?
+ Maybe you didn't think about this.
+ Because sometimes it's awesome to hear from people about that stuff.
+ It really shows me that everybody's thinking, and we also have a very excellent and engaged audience, and that makes me extraordinarily happy.
+ I also have to issue a warning.
+ I am experienced enough as a coach at this point that my default language is just the word
+ endurance. And people intuitively in the cycling world know what you're talking about. And it's
+ when we start to have definitional boundaries drawn that the word endurance may or may not
+ actually be very useful, but we're going to try to, I'll try to use different terms where they
+ seem applicable and define them as we go as needed. So before we dig in to durability itself,
+ let's talk about fatigue. Durability is built on the concept of fatigue. And fatigue, I said
+ durability is a relatively new thing and there's not a lot of literature on it. Fatigue is actually
+ one of the most well-studied aspects of exercise. There is a ton of literature on fatigue.
+ So what is fatigue in general? It is a decline in task performance, usually after being performant
+ at something. So task performance also means that fatigue is task specific. So let's say you
+ probably won't have your best five-minute power ever immediately following a 30-second all-out
+ sprint. But if you try to do a bench press after that, you're probably going to be more or less
+ okay. Hence the task specificity. And also we know intuitively that when we fatigue, when we
+ exercise, that we cannot do what we can do when fresh. And that is an intuitive thing that we all
+ know as we train and race that, you know, remember that very first ride that you did, that was over
+ like four or five hours or something like that. And you're getting home and you're really just
+ doing endurance pace and you're dragging. And if somebody said, Hey, do you want to do some FTP
+ efforts? You'd be like, no, do FTP efforts involve the fridge? Yeah. Could I even get myself to that
+ level of, you know. Right. Yeah. Yeah. Of course, that was also you and me. That was back in the
+ day when nobody knew how much you should eat, which was only like 10 years ago. God, we've
+ come a long way since then. And so we also know intuitively that a couple of factors have a
+ positive influence on just fatigue and the, how would we say this? Positive influence on
+ staving off fatigue, on attenuating fatigue. And things like training, nutrition, environment,
+ like altitude or heat, these things can have a very large effect. And we know this intuitively.
+ So in a lot of ways, there might be a lot of duh in this episode, if you're listening.
+ So because it matches our experience as endurance athletes and coaches really well,
+ it's not a bad thing, but there's probably going to be a few new things in here because
+ that I'm personally, I'm fascinated by the current formalization of all this stuff.
+ So how do we measure fatigue and cycling in general? So here's a little background info.
+ The earliest I remember is kind of right when I got into coaching in 2015 and I got in WKO4
+ and I was on some forums. And as early as that, a lot of people were focused on, in terms of
+ fatigue measurement, what is your mean max power drop from fresh after a different amount of work
+ in kilojoules? So this is a fairly old concept. And that means it goes way back beyond my meeting
+ of it. I've seen people who have been in the game for a lot longer talk about they were doing this
+ stuff pretty much as soon as they could measure power and kilojoules that probably doesn't surprise
+ you at all kyle right that yeah that i remember i mean we've talked about this for a while too
+ right like i think maybe it first popped up in the like crit like the crit video uh not video
+ the crit episode or training too hard for great crits like oh if you know it's fine like how many
+ you know thousand watt sprints out of every corner can you do the first lap versus 45 minutes in how
+ many thousand watts prints can you do out of every corner? Good memory. Yeah. God, we've done so much
+ podcasting. I didn't even remember that one. That's good. That's good. I hope I came up with
+ that one, but I wouldn't surprise me if that was you too. So the relationship between work
+ and subsequent fatigue after putting in the work was pretty obvious even before power output could
+ be measured. So looking at power output post certain kilojoule outputs was already common
+ practice, like I said. And even then, people already knew that good race results came in part
+ from saving energy, which meant the more coasting time people had, generally speaking, the better
+ the result that they would have because you're putting out less energy. And energy management
+ as a race tool, I talk about that a lot. In coaching, I've probably said it on the podcast
+ a bunch. I say it when I'm consulting with people. I say racing is energy management.
+ And in part, it's because of the fatigue that spending energy will cause. And whether it's
+ high intensity or low intensity, it seems to have a factor. But they're old concepts though. This
+ is nothing new. And so for me personally, 10 years ago when I started working with WKO4,
+ we coaches either privately or on the forums, we would discuss with each other the influence of
+ additional factors, body weight, muscle mass, intensity, fueling, temperature, and how to
+ program WKO4 to crunch the data. And WKO4, especially on my old computer from 10 years ago,
+ was not good at crunching data. It was just very, very slow. I don't do much programming or anything
+ like that, but I was like, is there a supercomputer I could spend all my money on to make this process
+ last like 10 seconds instead of five minutes? Anyway, so more recently in the peer-reviewed
+ literature, durability has become a thing. It's been published on, and I think part of its
+ popularity is that, well, there's a bunch of stuff that are probably contributing to it being popular,
+ but I think that some of the scientists publishing on it do have a social media presence,
+ and that can help popularize terms and concepts. And I guess social media is really just part of
+ the science game now. Is that your experience in physics, Kyle? Do you see this anywhere else?
+ I don't think I've seen it in physics as much, but I think there's that
+ greater disconnect between whatever basic physics results and whether or not they actually are
+ more tangible or impactful to someone's day-to-day life. But I think that generally speaking,
+ social media is great for the popularization of science and science communication and things like
+ that and just you know making the public more aware that science isn't this like fixed thing
+ this like frozen in amber of oh like we discovered all these things in the 1900s right and then it's
+ just been kind of coasting like that's not the case at all it's still still very much chugging
+ along. I would be shocked that anybody actually thinks that. But then again, I am naive sometimes
+ about these things. Ironically, have you ever heard of the Sagan effect? I assume Carl and I
+ think maybe, but I don't. Yeah. It's like a kind of backlash. It's like a tarnishing of the reputation
+ for academics doing public media. Oh, interesting.
+ Yeah. So Google that if you've never heard of it, but I think the landscape is very much
+ shifting since Carl Sagan's day. So anyway, so since fatigue has been rigorously studied for a
+ long, very long time, a lot of it's in like single muscle fibers and things like that,
+ but it has definitely been studied and also whole humans and animals too. But did the concept of
+ durability really need to be formalized? And I would argue yes, because I do see people saying
+ a lot of stuff like, did this really need to get published? Did this experiment really need to be
+ done. We already knew all this. And number one, besides being an annoying take, you know,
+ like all the scientific literature builds on each other, you know, kind of like you were saying,
+ it's not like we've just discovered a couple of things about atoms, you know, in the early 1900s,
+ and we've just been coasting ever since. So I also think that researchers and people who might
+ be a little too easily influenced by published research, they often, this is just strictly my
+ opinion, they seem to need a conceptual seed. Like you need to plant the seed for the concept to grow
+ and be studied and become accepted. And especially if it does have unique characteristics, that's a
+ good way to get people to investigate those characteristics. It's kind of like, what was
+ that Kurt Vonnegut book? Ice Nine, it's like a seed crystal and any other water that touches it
+ turns into that. Yeah, yeah, yeah. I also think that if you want to actually study something,
+ you need a common shared accepted definition. If we all had different definitions of FTP,
+ or of mean max power or something like that.
+ It just gets a lot harder to compare apples to apples
+ if you're picking different targets or different metrics or things like that.
+ So just defining like, oh, we want to improve this, you know,
+ and have this be a quantifiable thing
+ and not just a nebulous feeling about what endurance is.
+ Yeah, no, for sure.
+ And so I also think that it's good that people will start to move away from thinking about just what's my highest average power.
+ Like I remember a long time of 2013 or 14.
+ I was racing with one of my friends.
+ I think it was like tour the hill towns.
+ Remember that race?
+ Yeah.
+ Yeah.
+ One of the climiest, hardest races in all of Western Mass.
+ I think it's – I'm not sure if it's still on.
+ I hope it is.
+ And it was like a long eight-minute climb, and then it was like you chill, and then there's like a long 20-minute climb, if I recall correctly.
+ It's been a very long time, obviously.
+ So one of my friends was like, wow, I made it over the first time, but I couldn't the second.
+ So he was like musing out loud, how do you train your two-by-eight-minute power?
+ I was like, you are dangerously close to being onto something, my friend.
+ He was like, what do you mean?
+ I'm like, no, this is actually a thing.
+ Like, let's talk about this.
+ And we kind of talked about endurance and repeatability of efforts and stuff like that
+ and how to train that.
+ And I don't know if he ever did any of that training.
+ But regardless, it's definitely, you know, intuitively, it's definitely a thing with
+ cyclists, whether, you know, a lot of us know it consciously or not, because it definitely
+ took me having seen other people talk about it for me to go, oh, right, that's a way to formalize
+ this thing I've been thinking about. So historically, there's a lot of inertia against us
+ in terms of, sorry, did I just Boston that? There's a lot of inertia against us in terms of
+ the scientific literature and how people consider performance. And as our first paper is going to
+ get into, the testing on athletes was always done in the rested state. Initially, VO2 max,
+ like AV Hill, and then lactate testing became more prevalent as assays got easier to measure lactate.
+ And the ever-popular joiner and coil definition of endurance performance especially describes the
+ rested state, high VO2 max, high threshold relative to VO2 max, and high gross efficiency,
+ especially in running. And with that came a lot of focus on intervals and improving those metrics
+ specifically, VO2 max, FTP, sprint power, et cetera, et cetera. And then we go back to the
+ law about how a measure should not become a target. Not to say that it was necessarily bad
+ for a lot of folks, because as we get into, you still need to have those characteristics to begin
+ with. But I also don't want anyone to be mistaken that fatigue was not rigorously tested because it
+ definitely was. But like doing MLSS testing, testing fatigue in performance with endurance is
+ very time-consuming or it's potentially very time-consuming. So durability as a scientific
+ concept is very much in its infancy right now as we're, well, that's my assessment is I consider
+ this in its infancy. And I suppose some people could say it's been fairly well studied at this
+ point. I would disagree, but that's just opinional differences, I guess. The literature at this point
+ has yet to really establish reasonable tests in the lab. And that's one of the things that I think
+ about is it think it's not totally formalized yet. Like MLSS testing is fairly formalized. There's a
+ pretty standard way for it to be done. And, you know, same goes for via to max testing and whatnot.
+ And, you know, and they've been poked enough, like, Hey, what happens if we do it this way?
+ What if we do it this way? And durability is still being poked like that. We're trying to find,
+ we, people who are smarter than me are trying to find the limits of these things. And so it is nice
+ to see smart people working on all of that stuff, but I don't want anyone to, to misapply credit
+ because this has been a thing that has been in, you know, coaching and among scientists for a
+ very, very long time. So now let's do the WSDOC thing. Let's dig into a couple of papers. So
+ I want to talk about two of the original durability papers here. And why do I care
+ about these two? One is a critical paper establishing a term. So it's a paper that's
+ complaining. So I relate to it a lot. And the second, which was published more or less
+ simultaneously, like they were published like a month from each other, which means they were
+ probably like, you know, this is like Darwin and Wallace or Leibniz and Newton kind of coming to
+ the same conclusion, but they weren't really at the same time. And we'll see why, but since
+ their publication, they have actually gotten melded together. And we'll see why in just a
+ second. So the first one, the lead author is Ed Monder. And as far as I could tell, I'm pretty
+ sure this was it. This is the first paper coining durability as a phrase. It was published in August
+ 2021. And generally speaking, I don't want to go into this in really excruciating detail. We're
+ going to have a long enough podcast as it is, but it's mostly critical about the Joyner-Coyle triad
+ of VO2max threshold and gross efficiency, and also as well as other measures of threshold,
+ because it reasonably is correct that they are not always the best measure of certain aspects
+ of endurance performance. And so the paper tries to formalize the concept of performance in a
+ fatigued state with the term durability. And they define it as, quote, the time of onset and
+ magnitude of deterioration in physiological characteristics over time during prolonged
+ exercise, unquote. So to nitpick, deterioration of physiology. I'm not a big fan of this
+ term in the definition because it's, to me at least, it's the deterioration of performance
+ that shows the deterioration of the derived measurements. And so this is where the
+ measurements are being considered the physiology, and I consider that backwards. But again, that's
+ just me. I have not been published on this. This is a critical paper, and I'm just being critical
+ of it. So, you know, it'll be critical of me at some point, I'm sure, if anybody's ever heard of
+ me anyway. So I don't think necessarily that your physiology deteriorates, like your heart's
+ capacity to pump blood is not necessarily impaired because your legs are fatiguing. So your potential
+ capacity is still the same. To me, what's being lost is the ability to express the performance
+ that you have and the measurement is picking up your drop in performance. It's not that your
+ physiology has deteriorated, unless you want to nitpick the definition of physiology itself,
+ in which case I feel like I'm in the 90s again, talking about the definition of is.
+ So a lot of you will not know that reference.
+ It's definitely like a transient, you know, you're like, no, no, no, this is a transient change.
+ It's not a, you know, or it's an acute decrease in performance.
+ It's not like a sustained, like, oh, you did, you know, one hard interval set enough.
+ Forever you're ruined and you can't do the hard intervals ever again.
+ Yeah, I mean, that's also one of the definitions of fatigue is that it's a temporary reduction in performance.
+ It will come back to some assessed baseline.
+ And I saw a great analogy for this on a forum somewhere a while ago.
+ I forget who posted it, so I don't know who to give credit to.
+ But they said that it's like if you get drunk and you can't do calculus, it's like, have you – it's like, okay, yeah.
+ You're like, I'm five whiskeys in.
+ I can't integrate this infinite series, but I will tomorrow morning after I have some Gatorade, I guess.
+ Yeah, exactly.
+ Interesting.
+ Yeah, yeah.
+ No, no, it makes sense.
+ I also think that it's, yeah, if you're the first paper, you know, and someone, an editor and reviewers are reviewing it, you know, they may have, there may be language in there that would sneak in where that language would not be the language you would use on the seventh paper, right?
+ Just to give people, you know, like if you're the first and you're kind of pioneering this, like, you know, the phrase or the terminology or whatever you want to call it, like, you know, people are free to make more precise definitions or clarifications later, thankfully.
+ Yeah, for sure.
+ I mean, have you ever read The Origin of Species?
+ Darwin talks about, I remember very distinctly because it was published in what, the late 1800s?
+ He says, if the reader will, something like this, if the reader will forgive me for using the modern language of inheritance, I will now talk about gemmules in the blood because that's what they thought was how you pass down traits.
+ They didn't know about DNA at that point.
+ So it was like they did their best and they were trying to figure out, okay, even if this isn't the thing, we're going to call it this for a while and then later we'll figure it out and then Watson and Crick and blah, blah, blah.
+ So one of the other things that I like about this paper is that they also mention resilience in relation to marathon runners running at a high percentage of critical speed, which is the speed version of critical power.
+ And they quote, or to quote from the paper, it says, this is related to a, quote, greater resilience to deterioration, unquote.
+ And there's another paper that talks about resilience that we'll get into in a little bit.
+ But I thought that this was very interesting.
+ So kind of put that in the back of your mind as a thing to remember.
+ One of the big focuses of this paper is also discussing typical measurements.
+ Again, VO2max, MLSS, they don't capture everything.
+ That they are correlated with better endurance performance, but they don't actually assess that performance of endurance.
+ And I completely agree, yeah.
+ They reference some papers showing that measurements of VO2max and threshold shift over time.
+ that means that they'll drop with fatigue. And so conceptually, they consider smaller shifts in
+ these measurements to represent greater durability or resilience. So if, for instance, you are going
+ on a long ride and you do a, let's say you do two tests a week apart, you do a five-hour ride,
+ and the first one you do, let's just say a 20-minute max effort in the first hour,
+ and the next week you do a 20-minute effort in the last hour.
+ And we're going to pretend that this represents your quote-unquote FTP,
+ or we'll just say, okay, your 20-minute performance.
+ This shift over time would be what they're referencing here,
+ durability or resilience of what some people would call your measurement of threshold.
+ We all know that that's not my favorite measurement of threshold,
+ but we'll just forgive it for now.
+ It's a definition.
+ A definition, yeah.
+ So the last big focus of this paper is looking at heart rate decoupling as quote-unquote internal workload.
+ Another phrase I'm not a huge fan of, there's actually a lot of literature on internal workload.
+ And similar to durability in any number of things, the definition is not entirely settled, which is strange to me because internal workload has been a thing for a long time.
+ but a lot of people will more or less default to RPE and some other things because it's arguable
+ whether heart rate, lactate, things like that are actually measurements of internal workload.
+ And like, what is that even anyway? And so lots of definitional squabbling here.
+ But that's what, this is pretty much the phase that we're in right now with durability is
+ definitional squabbling. So unfortunately, I usually don't want to think about it,
+ but we got to spend a little bit of time on it. And so I do find personally that this paper,
+ despite its merits, of which there are many, I also find it a little overly focused on heart rate
+ and the assumption that heart rate decoupling means higher effective, quote, unquote,
+ internal training load. And they use this to think about more or less realized fatigue or
+ chronic training load and thinking about heart rate decoupling as maybe being indicative of
+ higher internal workload. And therefore, where they really go with this is you can potentially
+ stave off overtraining. If you see that somebody's internal workload is higher than someone else's
+ for a given workout because they've got more decoupling, again, that's where the paper went.
+ I'm not the hugest fan of that. I mean, I'm just a big fan of RPE for internal workload,
+ but that's also neither here nor there. But the other aspect of this paper that I thought
+ was interesting, because it went to quite a few places, it discusses, quote unquote,
+ high-intensity repeatability, unquote, and looked at work over critical power as an expression of
+ W-prime, and W-prime, the accumulation of it, as a representative of accumulated O2 deficit,
+ which I thought was really interesting. They have a mountain bike file, and they look at
+ how many multiples of somebody's W-prime have they done over time. And I thought that that
+ was a really interesting way to think about it. And in fact, one of the more interesting ways
+ to think about intensity that came out of this paper. And I mean, pretty much since its
+ publication, I've actually had that as a metric in WKO5. So I was like, oh, that's really clever.
+ I love that. And boom, done. So the last thing that this paper did was proposed incremental
+ exercise tests, so like ramp tests basically, before and after prolonged exercise and other
+ lab metrics to monitor durability. And this is a strength and a weakness here because if your gold
+ standard is the lab test, okay, fine. This is a good way to do it. If you are defining durability
+ as how much your lab-derived metrics are changing over time, yeah, this is exactly the right thing
+ to propose. Uh, I am a bigger fan of the performance itself. So that's where I'm coming from. Um, but
+ yeah, that was the first paper on durability. So Kyle, any thoughts here, impressions?
+ I think the, the amount of W prime over a period of time is interesting. Cause I think that was,
+ it, I remember kind of naturally looking at that when you look at like, um, anaerobic capacity,
+ track sprint workouts and whatever your favorite, you know, uh, plotting software and metric is
+ where you're like, Oh, actually like, Oh, look, it's like, I was able to do X amount of W prime
+ on the first 30 second effort. And then you come back and 15, 20 minutes. And how much,
+ how much of my quoted maximum W prime was I able to pump out again? And then again,
+ Yeah, it's like 80%, 75%, 70%.
+ As you get tired and tired, you're like, oh, no, it's starting to hurt a lot more.
+ So, yeah, I think sort of naturally, obviously, their W-prime is not as important for other disciplines
+ that might be for cyclocross or mountain bike or track sprinting and things like that.
+ But it's definitely one of those ones where it's very quantifiable.
+ You just add up and you basically just integrate a bunch of these little big spikes in effort and you count them up that way.
+ So relatively easy to program.
+ Yeah.
+ I mean, pretty much any analytics app will do that, whether it's like WPrimer or FRC or whatever it's called.
+ They're all the same thing, really.
+ It's the integral of just power over your threshold.
+ then they can differ just a tiny bit, but essentially they're not going to be different
+ much more than by like a handful of kilojoules or like a handful of percentage. Because if you've
+ got like a, you know, if you're six kilojoules W prime, then, you know, probably be different by
+ like 0.5. But if it's, if you've got like 40 or 50, like me and Kyle do when we're in shape,
+ you know, then you're looking at something like, okay, it'll probably differ by like two or three
+ kilojoules. Right. And as long as you're comparing it within the same software, the same metric
+ over and over and over again, it's fine. It's not like you're trying to compare. If you try
+ to compare what WKO5 says versus what Golden Cheetah says or whatever, well, that's not as
+ fair of a technique, let's put it. Yeah. And I think another thing I want to definitely credit
+ this paper with is planting the seed of just this in general, because fatigue had been looked at for
+ a while, like I said, but a lot of the time, papers on what things predict performance can
+ make a splash in the endurance world. I remember one a couple of years ago that was talking about
+ how measurements of threshold are better predictors of endurance performance than measurements of VO2
+ max. And I mean, on one hand, it's like, well, I mean, the Joyner coil model has known about this
+ for a long time. But when people lose sight of that, I think it's good to like republish another
+ paper that says, hey, by the way, don't forget about this. And so there actually is this kind
+ of interplay between the scientific literature and what, you know, your like little training
+ ecosystem is kind of thinking about at the time. But I mean, and none of the criticisms that they
+ leveled against VO2 max or thresholds or anything like that. None of them were exactly invalid. I
+ didn't think anything was really wrong. And it's also nothing that hadn't really been polished
+ before, but I think they put a nice bow on it. It coins durability. It says, here's what this
+ thing is. And we'll have some definitional squabbling as we'll see. But right now I want
+ to talk about the next paper, which is, oh, did I forget to read the title of that one? My bad.
+ It's called The Importance of Durability in the Physiological Profiling of Endurance
+ Athletes. And we'll have that up on the show notes. The second paper is titled Maintaining
+ Power Output with Accumulating Levels of Work Done is a Key Determinant for Success in Professional
+ cycling. I think that's it. This title always used to that. Cause you're like, you know,
+ you've, you've heard, maybe people have heard the phrase, like, you know, the, the, the amount of
+ power that, uh, you know, your cat one, you know, a successful domestic cat one can do for 20
+ minutes. It's not so far off what a world tour pro can do, but the pro can do it eight times in
+ four hours and your local fast cat one cannot. Yes. And I remember on a form a long time ago,
+ somebody had posted him talking to his coach. This is probably like 2012 or something like that.
+ I was still road racing at the time. And he had like top 10 on Strava, like Mount Diablo or
+ something like that. And he was up there with a bunch of pros and he was like, Oh, this is so
+ cool. Like, uh, maybe I'm good enough to, and the coach was like, hold on. Remember they did this
+ after racing for five days. Could you do this after racing for five days? And he was like,
+ Oh yeah, no. So yeah. If you just ride for 20 minutes, slam the climb and come home and like,
+ Oh, that was great. Look at that. Yeah, for sure. So, um, the lead author of this next paper is,
+ God, I'm going to, I'm sure I'll mispronounce this incorrect, just in some way or other.
+ Thun van Erp, T-E-U-N. I am so sorry. I'm butchering another beautiful language. So
+ this was published in September, 2021, a month after the durability paper. And this one often
+ gets cited right next to the other one as a big influence on durability literature. And we're
+ going to look at what the paper did and why it was a big influence. Because it's the first paper
+ that I could find that measured durability the way that it seems to be commonly thought about
+ in the cycling world right now, but it does not call it by that name because of the Liebman's
+ Newton thing. So this one's much more rigorous. It's not a critical paper. It's a cross-sectional
+ study. So they use their most, sorry, their most useful bit of background that they point at is a
+ Pino and Grappa paper on power outputs of pro versus elite cyclists, where the pros power outputs
+ are only quote unquote trending towards better than elite. So like the P value is probably like
+ 0.06 or 0.07 or something like that. And so, like you just said, the power outputs that separate two
+ groups are not necessarily always that heterogeneous. They're pretty close to each
+ other. It's much closer than like a Conti cyclist versus a Cat 3, where you'll probably find a much
+ wider gulf. And so the authors wanted to look at a way to measure the fatigue in order to see if
+ there's something that better matches our observation of how much the pros are better
+ than a local or national elite level rider. So that's their whole premise here. It's like, hey,
+ we think that there's something to this and we are observing that the people who are better at this
+ have way better fatigue resistance, endurance, durability, whatever you want to call it.
+ And so based on our observation, we are going to hypothesize that this is going to
+ catch that difference. And oh boy, did it. So they noted that the previous literature was
+ looking at kilojoule expenditure only, but due to allometric scaling issues, they decided to
+ make it relative to weight and hence kilojoules per kilogram. And this is the first paper I could
+ find that actually did that. And so their analysis was done by binning 10 kilojoules per kilogram.
+ So 10, 20, 30, 40, 50. And they compared members of a pro conti team to a world tour team.
+ And they looked at the totality of training and racing files, 75% training, 22% racing,
+ 3% time trials. And they, by the way, correctly make a note about nutrition because they couldn't
+ account for it. Because it's obviously who's tracking exactly what they're eating on every
+ single training ride. You would drive yourself nuts. And that's like a full-time job, especially
+ if you're a pro and you're riding a ton. And what are you going to do? Like take a picture of every
+ pastry and coffee latte that you have. And then how many gels and, oh, I had a pocket full of-
+ Voice note. Yeah, voice note it. But also like, do you have to voice note every time you eat three
+ Swedish fish on a ride. I that's yes. No, I'm good. Um, and you know, cause they, the authors
+ don't hear nutrition is definitely a big factor in endurance performance and we're going to call
+ it a dangling confounder. Like it's a confounder. We know it's there. Um, but we're just going to
+ let it hang for now. Um, they also tried to classify, well, they didn't try to, they,
+ they did classify climbers quote unquote as doing greater than 5.8 Watts per
+ kilo for 20 minutes and sprinters as you're going to love this.
+ Those assigned to win sprints.
+ Like, so, so one is performance based and the other is role on the team base,
+ which is fair enough.
+ They also looked at who's getting more than 400 pro cycling stats points per
+ season and who's getting less. Oh, interesting. Yeah. So now, now they've got a stratification
+ of like success, uh, and a somewhat objective metric. Um, and they named them the people who
+ got more than 400 points and less than 400 points. They confusingly for us named them cat one and
+ cat two. Yes. All right. So you've got, you've got pro level and Conti level cyclists, climbers
+ and sprinters, cat one and cat two. So now we've got quite a pun at square. If you open this paper
+ up, their main analysis is tables two and three, which are grids of 10 second, one minute, five
+ minute, 20 minute power after 10 to 50 kilojoules per kilogram broken out by either sprinter versus
+ climber altogether, or more versus less successful sprinters and climbers. And table two breakdown of
+ all combined shows similar loss of watts per kilogram throughout. Figure two shows a percentage
+ decline graphically. And it shows kind of what we all expect now, which is that the decline is lower
+ for the better performing cyclists, kind of regardless of category. But if you dig into the
+ data, you find some interesting trends. But if you dig too far into the data and you over-interpret
+ what obviously they were not testing at the time, you might find some weird stuff.
+ So for instance, let's reiterate that where the power profiles are generated matter before you go
+ digging into like, what's a sprinter's 20 minute power loss in a race? Like a sprinter is not doing
+ full gas 20 minutes at the end of any stage. So you are not going to have representative data.
+ And they're probably not doing that in training either. Uh, and I've coached a few at this level.
+ And so I've got firsthand experience that I have literally never done this and I've never suggested
+ or they don't know, or have their teams suggested, Hey, we've got this 20 minute climate at the end.
+ I want you to smash it. And the next day you're going to feel really good for your sprint stage
+ or whatever. It's only if they're, if they're at risk for not making the time cut, right? Like
+ it's the only time when like, all right, all right, all right. Kind of get on your horse a
+ little bit. Yeah, exactly. And especially once you kind of get to, um, you know, kind of Conti
+ and world tour pro races, people in the Grupetto are pretty good at figuring out how slow they can
+ ride and make the time cut still. Um, like, you know, it, it's actually, um, strategies like
+ anything else. Yeah. Tour de France is actually, it, it gets talked about a little bit every year,
+ uh, how good the, the groupetto is at pacing their climbs and like really cruising the descents. Um,
+ so anyway, one of the things that I think needs to be taken into account here that this 20 minute
+ sprinter power is a good example of, how you generate your data plays a role in these subsequent
+ metrics. So there's a big drop-off in 10 seconds for the sprinters going from 40 to 50 kilojoules
+ per kilogram for both groups. From zero to 40, they keep pace with each other in terms of drop-off
+ between the low and the high points groups, the cat one and cat two that they have classified here.
+ But for sprinters, what you also need to take into account is the one minute, which really shows where the low points group falls off consistently from zero to 40 kilojoules per kilogram.
+ So like that quick snap, 10 seconds, like the two groups pace each other, they're similar.
+ But when you're looking at one minute, the group that performs better has a lot better one minute.
+ And if you've ever done a bunch sprint, you know that you need a good one-minute power at the end of a race because it's not just a quick snap.
+ You are on the gas for a little bit before you actually stand up to sprint, and it makes a huge difference.
+ So that's one of the things to consider, and that's one of the things to consider when we get to measuring our own durability is how have we generated the data because it makes a huge difference.
+ And so I think the last thing on the study is that there's really just not a ton of shortcomings, but there are some, and these are part of it.
+ But it's like, you know, in this data, nobody had planned to measure this stuff.
+ This is just what's generated after training and racing.
+ So if you've worked with this data before as a coach or as an athlete, you know, the how did I generate this data question is probably extremely familiar to you.
+ But again, we'll get into this more when we talk about testing.
+ But the authors also made a note of this, how, you know, maybe, well, I don't think they specifically talked about sprinters, but that is a good example.
+ maybe a sprinter's not going to have a great 20 minute representative, um, efforts after
+ whatever kilojoules per kilogram. So cool paper though, huh? Yeah, I think that, um, I think
+ when you get an opportunity to kind of, I don't know, flex on people a little bit and do all of
+ these different analyses and look at, you know, slicing the, the variables, all these different
+ ways, it is kind of cool. It can be a little overwhelming sometimes because you read it and
+ you're like, oh my God, how many different ways did they look at this? But it's super complete,
+ right? And those are the things that I think as a researcher, you're excited like, oh,
+ we have this data. It's very flexible in terms of we can slice it in all these different ways.
+ So why not? And especially if you're early on in this subfield or looking to expand these
+ definitions like you know there's all these different rabbit holes you can choose to go down
+ um but yeah i think it does get a little it gets a little i think mushy when you think about like oh
+ like durability and repeatability and like resilience like there's just these these like
+ you could you know these are almost synonyms you know so you can you when you're like you're like
+ okay so yeah you you wanted to find slightly different things with a different word but
+ you know even i read these and think you're like oh man those are awfully similar right like um
+ yeah i mean you are you're perfectly setting up the next paper yeah it gets it gets a little hard
+ when you're like oh but is that repeatability oh no i mean you know how good can you do this like
+ oh, that's not repeatability. But it's not not repeatability. I don't know.
+ Right. And I think, and here's the thing, this is sort of like in a meta analysis.
+ It's sort of like in a meta analysis where if you take highly correlated outcomes from
+ one of the papers that you have in your meta, you are going to create a really weird cluster
+ of things that are highly correlated with each other. And that's going to throw your data off.
+ So for instance, if you have like, let's say sprint data. So for like a flying 200, your flying 25 meter time is going to be highly correlated to your flying 50 meter times, highly correlated to your flying 100 and 200 meter times. But if you have those all as separate outcomes and you lump them together, then you've got four different ways to measure the same thing.
+ And so I think of a lot of these ways to look at endurance, durability, fatigue resistance, whatever you want to call it, I consider them potentially being very closely related to each other in the same way that you would have like your 50, 100, 200 meter times related to each other.
+ And the question is, I guess really, are they trainable in similar ways or can they be trained differently?
+ Are we nitpicking things here separately that are not actually separate when it all comes down to the physiology and the training?
+ Well, let's talk about this next paper and we can discuss this more.
+ Nitpick us?
+ durability, fatigability, repeatability, and resilience in endurance sports, definitions,
+ distinctions, and implications. So this paper came out, which made me, and when I read it,
+ I thought, okay, I think we can do a podcast about this. Because otherwise without this,
+ I think that we would probably have had a hard time coming up with these concepts that this
+ paper does here. Because obviously I'm not that smart to begin with. So it's good that somebody
+ smart tried to parse these things out. And they're attempting to standardize at least the language
+ around different aspects of endurance performance. And so they differentiate between four things.
+ And let's talk about the definitions and we'll have some commentary.
+ The first one is durability. They repeat the definition from Monder, the first paper we
+ discussed, and they rehash the idea that the decline of critical power, W prime, VO2 max,
+ et cetera, over time with steady power output. That's a critical distinction here, steady power
+ output. The next one is fatigability. They quote Roger Inoka's, Inoka? I've read it many,
+ many times. I don't know how to pronounce it. My bad. But he's a very well-known muscle
+ physiologist. He literally wrote a textbook on this. And his definition of muscle fatigue is,
+ quote, an acute impairment of performance that includes both an increase in the perceived effort
+ necessary to exert a desired force and an eventual inability to produce this force, unquote.
+ So this is the definition that they are, I mean, their current paper is linking to maximal power
+ outputs post X kilojoules per kilogram. And I'm okay with this definition. I'm a little
+ eyebrow-raisey at it because the definition of muscle fatigue, I'm pretty sure, came from single
+ fiber isolated experiments and isometric experiments and isolated muscles in whole
+ humans or rats or whatever. So they may not be intended to actually be the same thing,
+ but the paper puts them as confluent with each other. So I'm okay with that.
+ Next definition is repeatability.
+ And they define repeatability as the, quote,
+ capacity to recover and reproduce high-intensity performance across multiple bouts, stages, or heats with passive recovery in between, unquote.
+ So stage races, track events, things like that.
+ And our last one.
+ Ability to reproduce.
+ Yeah.
+ Okay, sit down, sprinter.
+ Get back to your squat rack.
+ All right. Last one is resilience. Quoting a Jones paper, the ability to resist fatigue and maintain performance. Okay. Yeah. Yeah. So we got four ways to measure the same thing, sort of.
+ The authors eventually continue, quote, the capacity to maintain or regain physiological and mechanical function under conditions of fatigue, environmental extremes, or other perturbations.
+ They actually use ultra events as examples here, and they also talk about mental aspects of fatigue, which I actually think does need a place in the, what do we call this, the endurance pantheon of related but potentially different terms.
+ The Mount Rushmore where we've got words chiseled in stone instead of faces.
+ The Mount Rushmore of endurance nitpicking.
+ So overall, I do think the terms do need a little more workshopping because they do look at very similar things.
+ Because here's the thing, like overlapping, durability, fatigability, repeatability, their overlapping repeatability and resilience also overlap in this paper since they're both discussed in relation to multi-day events in the paper.
+ Um, and the quote unquote durability of physiologic measures would be dependent on people being
+ resistant to quote unquote fatigability.
+ So again, like these are two different sides of the same coin.
+ Um, and you know, with durability, think about lab testing on your performance, uh, after
+ a steady state exercise, but fatigability is also going to do the same thing by, by
+ doing high intensity efforts. And there is a paper that looked at the difference between lower and
+ higher intensity exercise. And they did find that high intensity exercise per kilojoule is much more
+ fatiguing. I mean, duh, but also nice to see it formalized. So I think the thing that I like here
+ is repeatability in the context as a further dimension of like, what's the recovery between
+ bouts, stages, and heats. So besides the fact that just if you fatigue less in one stage of a stage
+ race, you're going to be less tired for the next one. I mean, okay, great. But I think it also is
+ interesting because if we think about track sprinters, here's one of the things that was
+ an old school aspect of track sprint training is if you had eight hours of heats, they wanted you
+ to be able to ride for eight hours, but riding for eight hours and sprinting for 30 seconds,
+ like six times over eight hours are very different things. Yeah.
+ Although you could, you could try to big brain that and have like, you just spend the whole day
+ at the track. You're there, you're there eight hours and you have to do, you know, it's just
+ race simulation at that point. But I mean, that's kind of, we've done that kind of training
+ break for lunch in between. Yeah. Um, so let's also come back to the Ed Monders paper definition
+ of resilience in relation to marathon runners running at a high percentage of critical speed,
+ quote unquote, greater resilience to deterioration. Um, I actually think that this is probably one of
+ the more useful aspects here, because in my opinion, at least for my coaching experience,
+ there is a corollary of this, which is having a nice long flat power curve.
+ And I see this in really good gravel racers, triathletes, and also people who just plain
+ never train over FTP. They just like to motor at a kind of moderate intensity all day and hey,
+ that's okay too. And they really push their TTE out. And especially if they are doing,
+ long gravel races or whatever, they'll have a really super flat power curve. And WK05 already
+ has a metric for this, which is called stamina. So it's not exactly this, but- Another confusing
+ term. Yeah, it's related. And here's the thing is, I think that in terms of high intensity
+ repeatability, like in a road race and being able to motor underneath threshold all day,
+ These are related, but also I do find them to be slightly separate quantities
+ because if you can do one, that does not necessarily mean you can do the other.
+ But if you can do one, it's more likely you can do the other.
+ And so they're correlated, but they're not predictive of the other aspect.
+ And I do find that doing one, I mean, here's the specificity argument again
+ as we come down to training and measurement as well.
+ yeah but basically i think also you never do the hard efforts you can't do the hard efforts
+ department of redundancy department yeah it does it's yeah i think in and for some of these things
+ too like you know if you're if you're one type of rider right like you said like gravel or iron
+ man's something like that like you're you're only going to be looking at one of these definitions
+ and not all of them so maybe also for more for the coaches being like oh kind of think of them
+ slightly different for slightly different types of riders versus yeah, if you're just mostly focused
+ on events that are three hours or less, like, you know, some of these things aren't as relevant to
+ you or you're never, you've never done a W prime type workout, you know, this, um, these things
+ just aren't, you know, like you're, you could, you could imagine a realm where depending on your
+ discipline, you know, you define durability different or you find defined repeatability
+ different, even though, you know, people say repeatability all the time and they don't
+ necessarily mean this definition. They mean some sort of like more general colloquial definition
+ of repeatability. Yeah. Right. And, and the colloquially repeatability has come down to
+ meaning what is your power output after X kilojoules per kilogram? And, and that's,
+ that's fine, but also it doesn't account for intensity the same way TSS doesn't account for
+ intensity. And so, and especially, and I did something unusual for this podcast is after I
+ was done with the podcast, I went looking at some media because I wanted to see how other people
+ interpreted the fuzziness of the definitions. And one of the things that I thought was interesting,
+ So I read a couple articles. I kind of flipped through a couple videos. And the thing is that
+ nobody so far has really tried to make this coherent other than a lot of the coaches that
+ I've seen where we all just kind of fall onto this one thing and we kind of have different ways to
+ look at the environment and the intensity and things like that. But we all just kind of look
+ at kilojoules per kilogram at this point and go, okay, well, it's close enough for now.
+ We'll call it durability if you want us to, but we know what we're looking at.
+ And so with the media, it was pretty much just quoting whatever paper they were looking at
+ instead of trying to figure out, is this fatigue resistance or fatigability or is kilojoules,
+ Is, you know, just kilojoules, regardless of intensity, is this fatigue resistance?
+ Do we call durability just after steady state only?
+ Nobody, I've yet to hear anybody say fatigability.
+ So, yeah, it's, we are unsettled here.
+ We are a ship, a sea at this point with our definitions.
+ So, and this in part has been one of the reasons I have not really wanted to use the term durability.
+ Because a lot of the time, we all just know what we're talking about when we say endurance.
+ And do you have it for the final?
+ Everybody knows what we're talking about.
+ So I try to not divvy these things up because in some ways, general training recommendations and specific training recommendations, they'll get you there.
+ you don't necessarily, as far as we know yet, need to consider the difference between,
+ you know, multi-day repeatability of performance versus repeatability of high intensity efforts.
+ Like that's not, if you train one, you're probably going to train the other. And most people who want
+ to do one, want to do the other one too. And so it's not like you're going to necessarily just
+ train in one way and not the other. And so like when I consult with people, when I talk to my
+ athletes. When I talk to our coaches and I consult with other coaches and all this stuff,
+ I always say, keep it simple, look at performance after X kilojoules per kilogram, but you have to
+ just be careful about where the data comes from, about how it's being measured. And so this is
+ like a good for allometric scaling because that's our number one confounder when it comes to the
+ energy expenditure. Lab metrics will follow after that. And I think this is, it pretty much captures
+ most of what we really want to know. And, you know, I'm one of many coaches who has measured
+ endurance like this for a very, very long time. So yeah, anyway.
+ I'd be curious, too, like, you know, yeah, if you dig back into the literature, like you said, basically back until you could first use a power meter and actually measure some of these things.
+ Who was, you know, plenty of coaches have no strong connections to academic research or papers or actually formally defining these things.
+ But yeah, if you could like take an informal survey back to when was the first, you know, first emergency, big emergency power meters in training, you know, late 90s, early 2000s, right?
+ You see people rolling around on power taps and God, there's like hideous, like giant yellow computers from like, I think like postal service bikes back in the day and stuff like that.
+ So yeah, like even coaches like that, like, oh, for the first time ever, you can actually start to do some of these things.
+ And like, it's a natural, feels very natural to go there right away and be like, oh, well, if I can measure total work output, I can measure different things based on work output then besides just raw watts or watts per kilo or whatever.
+ Yeah, for sure.
+ And the question for me is, was there the software at the time to do that number crunching?
+ Because I cannot imagine with the computers I was using in the late 90s, early aughts, that that was a very effective use of your time.
+ Because you would probably ask it to crunch some data, and then it would kind of spit something out.
+ But you can look at maybe one riot at a time before your computer kind of coughs and kills over.
+ Yeah, I would wager, unless someone had a stronger computer science background, you probably could have brute forced it in Excel.
+ Oh, no.
+ On a per ride basis, you paste all the data into Excel and then crunch a metric for that ride or that race.
+ Thankfully, we are not doing Excel data anymore.
+ And then you save that after and then have that pre-reduced value.
+ It saved me from doing any work in Excel.
+ So can we test or measure durability?
+ We kind of have looked at, I mean, yes, basically.
+ And I'm settling on kilojoules per kilogram because it's, number one, the easiest to measure.
+ And it's colloquially among what I've seen seems to be the most widely accepted, even though if we look at any kind of definitional squabbling, we're not going to quite agree.
+ But it's close enough, and I'm just going to call it – I'm just going to call it fine right now because I cannot be – I cannot wade deeper into the definitional arguments here.
+ So one of the things that we look at is, well, we can basically do the N or the one minus N
+ version of this. So we can either look at what is your percentage drop or what percentage are
+ you maintaining of what you can do fresh? So if it's like a 10% drop or we can maintain 90% of
+ what we can do fresh. And I've seen papers that look at both and it really just depends on how
+ you want to measure it. I prefer to look at a percent drop because once we get down into the
+ single digits, it's easier for me to parse like double versus single digits, nice and easy.
+ So tell at a glance and easy way to smooth out your coaching workflow for me anyway. So
+ there are some ways that we cannot measure durability. The biggest problem here is that
+ not everybody has a max effort in their data history after a certain workload.
+ And also one of the things I've learned from both coaching and having talked with a lot of
+ pro cyclists, seeing a lot of pro cyclist data, not every pro cyclist does max efforts when they're
+ fresh to compare. Yeah. So I'll give you a quick example. So with the team that I'm the performance
+ manager of, uh, when we had people look, uh, applying to the team, I was looking at their data,
+ uh, in, you know, uh, in, you know, trying to, trying to get some good people. And I passed my
+ recommendations on to the rest of the team leadership. And, uh, we kind of make our roster
+ selection there. And this is one of the things that I was looking at. And so one of the things
+ that I also had to be careful of is when did somebody do like a fresh max effort? Because
+ If, for instance, if you are riding the trainer all winter and you never do a one-minute max effort, that's truly representative of a good one-minute effort.
+ One of the things that happens is you will have whatever one-minute max effort you do when you get outside, that's going to be, for that look back, it's going to be 100%.
+ So whether it's after zero, 10, 20, 30, 40, 50 kilojoules per kilogram, that effort is going to be your like 0% loss because there's no other data that, you know, in my algorithms look back.
+ So that's something to be careful of.
+ So if you compare it to – if you look at what have you done for a year, if you've also hardly ever do these max efforts, if you have one max effort in there and you're like, wow, I get 0% loss by one minute, it's like that is your only one-minute effort.
+ And that's that.
+ So that's something to be careful of.
+ And the other thing to be careful of, we kind of have talked about this a bit already, the efforts can be gotten to by very different methods, very different intensities.
+ And you can either spin easy or you can race hard.
+ So the test that I see a lot is ride for 2,000 kilojoules at endurance pace and then test your X-minute power or whatever.
+ That is very, very, very, very different from racing.
+ And I remember a long time ago when WKO4 started coming out with 1,000, 1,500, 2,000.
+ I was working with a guy who's doing gravel racing, and I had him go out, and I was like, okay, your races take this long.
+ You tend to have hills this long, so I want you to go out and do a 2,500-kilojoule endurance ride, and then I want you to test your 10-minute power.
+ because that was a key metric for his races.
+ And it was amazing.
+ And I went, wow, he's got great endurance.
+ And I said, all right,
+ why doesn't this match what you did in your last race?
+ And it was like, in half a second, it's like,
+ well, of course, because he was racing
+ and he was riding really hard
+ and he wasn't just tootling around for three or four hours.
+ So it makes a huge difference.
+ Intensity before the test matters a lot.
+ I think that that like also gets into the, you know, big braining race simulation training and stuff like that, or it starts to feel more like that, right?
+ Of like, oh, like, yeah, if you, if you, especially if you get really bored on the trainer, maybe you do that.
+ Maybe you do, you make yourself do 90 minutes of tempo on the trainer and then a 20 because you're just, you know, has been done.
+ Yeah. Oh yeah. And if, if you need to mix it up on the trainer in the winter, cause it's 12
+ degrees outside, totally understandable. Fahrenheit or Celsius. Well, it probably
+ doesn't matter. Well, I was thinking Fahrenheit. Yes. Yeah. Yeah. New England. Yeah. Very Fahrenheit.
+ Um, and so the other thing is that, you know, if, if here's the thing with the 2000 kilojoule test,
+ people are different sizes and they have different thresholds. So 2,000 kilojoules is a lot for a
+ 55 kilo woman, even if she's a pro. And if she's got a 275 watt FTP, 2,000 kilojoules is a decent
+ amount. If you are a 75 kilo pro male with a 450 watt FTP, I mean, you're just getting warmed up
+ after 2,000 kilojoules. Yeah. Nose breathing 2,000 kilojoules. Yeah, for real. And that first
+ threshold can be a very different percentage. So yeah, you've got to be really careful about
+ how you measure. And this is one of the things that the literature is still sussing out.
+ But before we get there, other factors, like we mentioned, nutrition, environment, altitude,
+ these play a big role besides intensity. So a bunch of my athletes have problems in the heat,
+ a bunch of problems in the cold. Wind, wind can be a problem sometimes if you are bad at riding
+ endurance pace in the wind or even pushing hard in the wind on flat ground. All of this stuff can
+ make a difference. So you have to be careful about how you pick your test parameters.
+ And a couple of papers found differences in rates of fatigue between low and higher intensities.
+ They've also found the same with nutrition. Nutrition is a massive one. I mean,
+ if you want to talk about something that's well-studied, it's basically endurance slash
+ durability slash whatever you want to call it in relation to how much energy have you taken while
+ you've been riding? Huge difference. Like what was that Bergstrom paper that everybody and their
+ mother references about like muscle glycogen stores and time to exhaustion at like whatever
+ percentage of VO2 max. They weren't eating during exercise, but nutrition in general,
+ off the bike even, has a huge influence as well. So these things all kind of have to be controlled
+ for, which is another reason why the Van Aert paper made a good note, hey, we couldn't control
+ for nutrition. So having said that, in terms of your energy output before your efforts
+ to measure your durability, in the literature, there are several attempts at this point to
+ standardize fatiguing efforts in the literature. So one of the protocols I saw, and actually all
+ the protocols I saw really have outstanding confounders. And one of the things that they
+ do is that they do things relative to threshold, which creates a bias immediately. Because
+ if your efforts are 105 to 108% of your threshold, someone like me and you, we're going to be
+ snoozing while you're doing those. And somebody where that's like a hard effort for them, that's
+ going to be basically damn near max. And so what they did not, what is not being standardized for
+ is what is somebody's anaerobic capacity. And so this means that if we're thinking about relative
+ intensity, we need to make it relative to what someone can do over the threshold. Otherwise
+ people with really good anaerobic capacity, yeah, we're going to be, we're going to be chilling,
+ nose breathing for most of it. So like if you instead standardize for like two minute reps
+ at 95% of a five minute TT, now we have a standardized value. We have a performance
+ related value and it's going to be directly comparable to like, and if we could even think
+ about this in terms of multiples of W prime, like how many, how many multiples of W prime have you
+ done? If your testing standard is we're going to do these at 108% of your FTP, that is going to be
+ a tiny fraction of somebody with a 30 kilojoule anaerobic capacity versus somebody with a 10 to
+ 15 kilojoule anaerobic capacity. So you can standardize it relative to threshold, but the
+ downside is that you are not individualizing for another big factor of performance here.
+ So that's one of the things that I have seen referenced a couple times, and I was not the – I understand why somebody wouldn't make a note of, hey, this is a complicating factor because I'm partly confused and I wrote this damn thing.
+ I wrote these notes, and I'm still sitting here going, okay, I think I got it.
+ So I get why it would be confusing to communicate, but I do think that it does need to be communicated.
+ So at this point, with looking at higher intensity durability things, that's one of the things that I think the literature is currently lacking that I would love to see standardized and controlled for.
+ But until then, the implications from a test like that are wild because it means that having a bigger anaerobic capacity is going to give you better durability.
+ And I don't necessarily find that to be true at all because the people with the biggest anaerobic capacity track sprinters have the worst durability.
+ Yeah, I think, again, we talked about this in our Train Too Hard for Crits episode where you can get tricked into thinking that you have great durability with a giant anaerobic capacity because the first half of a race or whatever where you have to kind of dig deep and push through these things, you feel great.
+ And then you start burning up a little bit too much FRC.
+ And then you're like, oh, no, oh, it's going south real fast.
+ Yeah, the reconstitution is not exactly where it is for somebody well aerobically trained, that's for sure.
+ Yeah, it'd be better if I had 20 more watts of FTP than a 60 kilojoule FRC for this rolling road race or whatever it is.
+ Yeah, it's funny because I've coached a whole bunch of people who don't have the most impressive anaerobic capacities or sprints,
+ but they can ride on the front of a really, really hard high-level crit because aerobically they're that good,
+ And they've got the repeatability and they're good the next day too.
+ So yeah, it's, so the, the, it's, I mean, this is okay.
+ That's, that's all right.
+ That's coaching experience.
+ So sorry, I may strike that from the record until we get to, uh, until, until later.
+ Um, so anyway, so those are the things to consider with testing your durability with
+ all these protocols in terms of just digging it out from your data or looking at a fatiguing,
+ protocol and data quality. Do you have a fresh effort compared with max,
+ a fresh max effort to compare with? Does your test protocol accurately represent the conditions that
+ you want to test? So if you want to smash a five-minute hill at the end of your three-hour
+ road race, don't do a three-hour coffee ride before you test. And the thing that this is all
+ getting to is make sure that you triple check that your tests are truly valid for the conditions that
+ you care about. And I think that this is genuinely one of the hardest parts about everything with
+ durability is standardizing these conditions is going to be extraordinarily difficult, if not
+ impossible, because it would be totally reasonable for someone to say, my conditions are more
+ relevant. So we need to test like this, like in a crit, very different conditions, or a two-hour
+ rolling road race, a lot of punchy hills, very different than if you are doing a three-hour
+ snooze fest through a valley and then finishing up a 90-minute climb. These are very different
+ ways to test because they're going to be different aspects of performance. And you may or may not
+ have some crossover between what predicts performance in each of these conditions.
+ So this is where we think about training durability.
+ So with the literature, what does the literature say on training durability?
+ I am underwhelmed, but it's mostly because there's so little literature here.
+ There's one intervention on untrained people that shows both low and high intensity training can improve durability, but early on, any training improves all the things.
+ I think we've seen plenty of examples of that in the podcast previously.
+ And there's another study, which is actually a PhD thesis, which suggests that doing intervals when fresh versus after a couple hours of riding has specific adaptations.
+ The intervention was interesting. It was like the same training protocols, but the intervention group did more volume also, and they did their efforts at the end. And so the volume not being equal between groups to me is a, I don't want to call it a problem, but it's something that I personally would have controlled for that the authors did not.
+ And I think that's just the choice.
+ So when we look at what we think improves durability, I would say volume is one of them.
+ So I would have liked to have seen that be equal between groups.
+ And the outcomes themselves are actually not great even then in terms of the magnitude of difference between the groups.
+ I mean, what we're looking at is something like a 6-watt versus a 12-watt improvement in a very small sample to begin with.
+ But to me, the data that I thought was the most robust, even with the small sample size, it suggests that more training volume will yield better durability of your VT1 over long rides, your first ventilatory threshold, which we can just call relatively similar to LT1 for our purposes.
+ So I think that's probably something most people have seen in training if they can feel out their LT1 pretty easily.
+ Have you had any experience with this, Kyle? I'm curious.
+ Can you feel out your first threshold?
+ I don't think we've ever talked about this.
+ Yeah, I think I just haven't tried it as much.
+ I mean, there is probably that change.
+ I don't know.
+ I feel like you, I probably just haven't stopped during like a training to think about it.
+ You know, we talk about feeling out FTP a lot, but I haven't actually, yeah, I haven't tried.
+ Maybe I should try that.
+ Okay.
+ Yeah.
+ I try that out and report back to us because I remember a couple of years ago, one of my clients,
+ he was always talking he was very very sensitive to it um it's fantastic for this reason um well
+ among many other reasons and the fresher he was the higher his first threshold was and he could
+ kind of feel it dropping through a ride so he's like okay early on it's like 250 later on i'm
+ feeling 230 and like you know two three weeks into a training block say all right yeah i'm feeling
+ 230 some days and some days it's like 210 to 200 i was like oh okay well that's probably a sign of
+ fatigue. And so that kind of experience, it's a nice dovetail with these kinds of things.
+ And one of the other things that dovetails here is that my coaching experience is that when people
+ ride much more volume, their first threshold will be much less prone to going up and down
+ with fatigue, and it'll also be much higher in general. But that's, yeah, sorry, that's a little
+ aside. There's one other training volume study that we should look at. It was a cross-sectional
+ publications like this seem to give us slightly better data in a way like the Van Aert paper.
+ The name of this one is the relationship between training characteristics and durability in professional cyclists across a competitive season.
+ So they looked at pro U23 riders on a Conti team, and they looked at it from early to mid to late season in three-month chunks.
+ So like February, March, April, May, June, July, August, September, October.
+ And they looked at how much did their power output change after 2,000 kilojoules of work.
+ So our average weight here is 70 plus or minus seven kilos.
+ So we're looking at an average of 28 kilojoules per kilogram.
+ And they looked at inter and intra group fresh and fatigued power.
+ They also compared training characteristics and they use the term fatigue resistance,
+ which is an older term in exercise physiology, not durability, but it's essentially the same
+ thing.
+ We kind of all know what we're talking about here at this point.
+ What training characteristics did they look at?
+ Well, I'm glad you asked.
+ They looked at Edwards-Trimp based on five heart rate zones.
+ So Edwards-Trimp, it includes a weighting factor, one through five for each zone.
+ And they looked at training intensity as a ratio of work to time and Trimp to total time.
+ They also looked at training intensity distribution via heart rate associated with VT1, between VT1 and VT2, and above VT2.
+ Those ventilatory threshold values are from lab testing.
+ And so the paper's biggest result really is suggesting a positive correlation between low-intensity riding under VT1, middle-intensity riding between VT1 and VT2, with fatigue resistance.
+ So fatigue resistance, better fatigue resistance, or improvements in fatigue resistance are more highly correlated with riding under VT1, which, by the way, on average, I would say is probably between 50% and 60% for most amateur cyclists.
+ So way low.
+ And middle intensity riding, so like threshold, sweet spot.
+ But hold on, hold on.
+ I got one more for you.
+ Yeah.
+ The correlations, our values, 0.4.
+ No, that's not very good.
+ No, I know.
+ I got to tell you, when I went looking for the media after this episode was done, I saw these exact statistics.
+ Well, the statistics were not cited.
+ The correlations were cited, but not the strength of the statistical support.
+ And I would say that the interpretations were generously overvalued compared to what the actual data says.
+ Because R-value of 0.4, when you take an R-squared value of that, you're looking at like 0.2.
+ And so that means approximately 20% of the variability of the data is attributable to these characteristics of training time under VT1 and between VT1 and VT2.
+ And the authors themselves note that that's not very strong.
+ Yeah, that's not great.
+ Yeah. Yeah. It, uh, it's like, you know, five heart rate zones, trim, you know, there's some,
+ at least they're consistent, but you know, you could, you could definitely nitpick a bunch of
+ that stuff. You know, I've only had a couple of papers where they do nitpick that stuff and the
+ outcomes are actually not that they're not meaningfully different. Um, and I mean, it's,
+ because it's, it's an easy, it's an easy thing to do. And I probably, if this were like five,
+ six years ago, I probably would have nitpicked that. But at this point I'm like, you know what?
+ Ah, it's probably the same difference. Um, and so it's like the, um, the, the thing that always
+ bugs me actually about some of these things is that it doesn't account for like heart rate
+ decoupling. If you're doing like steady efforts, um, like if you're doing threshold efforts,
+ your heart rate can go from one zone to another. And so your middle intensity zone can go high
+ intensity all of a sudden. So it doesn't always capture that. Not that people do, in comparison
+ for pros, you don't do a ton of threshold time anyway. So it's not like you're missing a ton of
+ data like that. But also if you've got five values, they're pretty narrow. Five bins are
+ pretty narrow. So yeah, again, you're right. But at the same time, in a general sense,
+ if we just look at under VT2, that is a pretty broad range. And while there's going to be a lot
+ of fuzzy value on the border there, the data should be sufficient to realistically pick up
+ any kind of signal in that noise. And they did. Not a strong signal, but a signal nonetheless.
+ So I'm not totally mad at that. And I don't think I could personally find a better way to parse this
+ data. So, I mean, I could throw stones here, but I don't think I could come up with anything better.
+ So, the other finding I thought was really interesting here, though, is that
+ the improvements or the ability to maintain their fatigue resistance later in season
+ was correlated with higher training load at lower intensities. Again, the R value is not very strong.
+ I think what this particular finding suggests to me is that chronic fatigue does really take a
+ toll on endurance performance. Like I was just talking about with my guy a couple of years ago,
+ being sensitive to his first threshold. That's what he found. That's what, I mean,
+ I agree with this assessment too, from all our other performance metrics, uh, like you cannot
+ be too tired. You cannot be under fueled, anything like that. And I also think that it points to a
+ lot of people are overestimating the power they need to, to put out for a training effect. Like
+ VT one, it, like I said, is lower than you might think. It's like for a lot of people, it really
+ is 50 60 percent of your threshold talking pace right like yeah pass the talk test like this yeah
+ yeah like i mean listen to steven seiler on this please low low intensity i think fine
+ yeah i think you know people you know more is more right now just you know but yeah i think
+ especially like you could, you can imagine it, you know, in an age when you do have a power meter
+ and you can see the number, you're like, oh yeah, make number go up. But you can imagine just taping
+ over that screen or something, or just not displaying it and be like, you know, ride to
+ vibes a little bit more. Yeah. Uh, yeah, we need more vibes riding in the world. Um, although some
+ people, their vibe is to ride too hard and that's, um, yeah, sometimes that's fine. Sometimes it's
+ not. Yeah. Take a case by case basis, but as a blanket recommendation, if I'm trying to make
+ something that works for everybody, yeah. Lower intensity for sure. Um, so we'll talk about
+ training implications of that in a little bit, but, um, but let's, let's think about, okay. So
+ I'm going to say this is our conclusion section, but this is a really long conclusion section.
+ So it's a good discussion and conclusions. Yeah. Discussion slash conclusion. Um,
+ cause what I want to do, but I can't do is to take that last paper and say,
+ see, here's your evidence. You should really ride super low intensity is fine. Um,
+ because it matches my coaching experience so well, um, ride more at lower intensities and
+ you're going to be fine. And also, it aligns with the strategies that we have for our clients at
+ the end of long seasons, low intensity rides and stuff like that, some maintenance efforts,
+ mental break from structure. But R equals 0.4 is really only going to get you so far in the
+ evidence world. It's not zero, but it means that there's a lot of factors that are still
+ unaccounted for. And so this means that we don't have all of the scientific evidence that we would
+ really like in order to say, this is how you improve and train durability. And this is how
+ we are going to best measure, et cetera, et cetera. So because things are not so cut and dry at this
+ point, there's a lot of ways that this could go right and wrong. And so from my coaching experience,
+ this is where we'll have to really lean on this. Um, and I think if you've been a long time
+ listener to the podcast, you kind of know what's coming already. The basics, seriously, the basics,
+ long, easy rides, threshold work, doing efforts throughout a ride, like a long ride, like,
+ like an FTP effort per hour. So if you've got four by 15, give me four hours with a 15 minute
+ effort once per hour. It's a super, super fun ride. By the way, I genuinely miss doing rides
+ like that. Um, and if you want to do efforts at the end of a ride, that's fine. Um, I cannot say
+ for sure that it's going to improve anything meaningfully better. Uh, and in my coaching
+ experience, almost everybody skips those efforts. If I give you a five hour ride and at the end,
+ I give you like a couple like short hill reps or something like that. Most people skip those hill
+ reps. So I've learned, don't leave it to the last minute when somebody is going to bail,
+ put them throughout and they'll get most of them done, if not all of them. So that's my coaching
+ experience from a people management aspect, not a physiology aspect. Yeah. I think it's interesting
+ because I feel like when you talk about durability, it's very tempting for people to kind of try a big
+ brain these things like, Oh, what if I, what if I make my rest intervals between a three by 15
+ effort harder, you know, or like, or try to limit the total amount of arrests that I'm taking
+ between a threshold session or something like that. Like, is that going to accomplish, you know,
+ similar or the same or, um, sorts of things. Yeah. And you know, in my experience, every once in a
+ while, you can do something like that as a specific need addressing. But for the most part,
+ if you do that too much, you undercut the quality of your intervals. And the quality of your
+ intervals makes a big difference. If your VO2 max efforts are always a little not quite pushing
+ hard enough and you're not quite recovering because you're always pushing too hard in between,
+ don't expect to get a ton of improvement. Energy management and training is the same as in racing.
+ And energy management and training also parallels with fatigue management and training.
+ So I also think in general, like we said, the management of fatigue is kind of pointed to from
+ that last paper. Again, the evidence is not overwhelming or anything like that, but my
+ coaching experience says that it is very overwhelming. Um, so like durability drops
+ when you're tired and managing that as chronic fatigue mounts is a critical aspect of managing
+ a race season. But this is also where I find people differ quite a bit. What maintains that
+ durability? Cause, cause despite how much I said, despite what I just said, some people have better
+ endurance when their training load is high. And some people have better endurance when they've
+ been doing more resting and figuring out which one you are or how far in that middle spectrum
+ you are can make a huge difference. Do you need to kind of do moderate volume and for freshness
+ and you're going to be okay? Do you need to, because I've coached people where, you know,
+ they've had their best performances at the end of like six straight weeks of training, high volume
+ and a smattering of high intensity efforts.
+ Must be nice.
+ Yeah, for real.
+ Other times we've got to train hard
+ for like three, four weeks or whatever.
+ And then it's going to be a week of just chilling
+ and then a week of kind of getting your legs back under you
+ and then you're flying.
+ These are two very different training strategies.
+ And they are not going to work.
+ Like one's not going to work for everybody
+ and the other one's not going to work for everybody.
+ And so this is a very N equals one kind of thing.
+ And so this might be one of the reasons that there's such heterogeneous results and mediocre R values in the literature.
+ I mean, I can't be sure if we'd have to really parse that out, but we probably would have an even harder time measuring what is like the right tapering strategy for someone.
+ Do you taper intensity? Do you just taper volume, et cetera, et cetera?
+ Yeah. I remember experiencing that firsthand all the time in college because swimming, we'd go on this big, long training trip in January. It's like 10, 11, 12 days of greater than 20 hours a week of just insanely high volume training. And this was right at the end of the season, right before you'd rest. And you typically would have a meet right after and then go into taper for championships and things like that.
+ And yeah, there were some people who would come out of that, those 10 days or 11 days or whatever, and just be in insane shape. And I would just, I would be so dead. Like, um, you know, you're talking like, yeah, like you would just, you could just see it. Right. And that was fine. Like, you know, no one expected to go super well at that, that meet, but the coach knew that like, yeah, that was, you know, you would have some people freakishly fast after, after that.
+ and some people just like crawling on the floor.
+ Sorry, Kyle, pick you up off the deck.
+ All right, so I haven't titled this episode yet,
+ but the title I was thinking about is
+ Why Durability Won't Save You.
+ And I genuinely probably won't title it that,
+ but know that I was considering it for a while
+ and I think it's the working title on our notes here.
+ So we need to answer that question because if durability pops up onto your radar and you think,
+ oh, this is the answer, this is what I've been missing, why won't it actually save you?
+ It's important, yes, but how come it's not going to be your everything?
+ The answer is because you need sufficient power to begin with.
+ So in the Van Aert paper, the more successful climbers and sprinters not only lost less power
+ as they fatigued, they started with higher values. On average, from zero to 50 kilojoules per
+ kilogram, sprinters, 10 second power, the high group, the high PCS points group starts with 18.25
+ watts per kilogram and loses about 8% over 50 kilojoules. The low points group starts at 17.7
+ watts per kilo and loses about 18%. Oof. Yeah. Double the loss. That's hard. Yes. Double the
+ loss. So the climbers high points group starts at 16.28 watts per kilo and loses 0.25, about 4%.
+ The low points climbers start at 5.99 watts per kilo and lose 0.55 watts per kilo or 9% on average.
+ And in real world units, yeah, that's 0.5 watts per kilo loss.
+ And at 70 kilos, that's 20 watts.
+ And that's the starting difference.
+ So that is another thing that needs to be –
+ Because when we look at, what was that, the Pino and Grappa paper that this paper referenced, that the difference in power values are trending differently.
+ But when we look at, well, we already know there's a difference in their PCS points.
+ So we already have a predetermined sorting.
+ they're already sorted into high PCS points, low PCS points.
+ And of course, maybe their team has them doing something,
+ they could perform better, yada, yada.
+ So that's a confounding variable for sure in this paper.
+ But still, the better performing group starts with more power and loses less.
+ That's why durability probably won't save you
+ because you need those watts to begin with.
+ Yeah, I think people kind of talk about that a little bit.
+ At a certain point, watts is your ticket in the door.
+ You need the watts just to get in the door,
+ and then you need everything else that comes with it.
+ So yeah, if you have the durability,
+ but you are starting off 20 watts back on a climb,
+ You're like, oh, no.
+ It doesn't sound very fun.
+ Man, I would have given anything to be only 20 watts down on a climb back in my day.
+ Right, right, right.
+ Yeah, like, well, I guess that's like, it was like your difference is 0.3 watts per kilo.
+ So, yeah, you could potentially be hurting.
+ Yeah.
+ You know, it's when you have to sag climb and it still doesn't get you there.
+ You could repeatedly sag climb and it still doesn't work.
+ Yeah.
+ And so I think if you wanted to have a cynical interpretation of this, and I've got a cynical
+ interpretation of everything. So if this is where your head immediately went, I certainly appreciate
+ your thought process here. So you could think, okay, bigger watts means more durability, right?
+ Look at these guys. They've got better watts to start with and they've got better durability.
+ So why don't we just train for bigger watts and we don't need to look past what could be done
+ fresh, right? A rising tide lifts all boats. If you can do more watts at FTP, you've got better
+ anaerobic capacity, you can kind of do more watts below FTP and you can do more at kilojoules above
+ FTP by definition, all definitions, right? Well, here's where durability does come in and resilience
+ comes in and all sorts of other stuff that we can kind of fold back into this. Because like,
+ For instance, if we're looking at gravel racing, right?
+ Remember what I mentioned about good steady state power, like gravel and triathlon fitness.
+ People do actually vary at their ability to maintain sub FTP power.
+ And it's also highly trainable, but you need to train it.
+ And anyone who's looked at the data, well, athlete data, a lot of it can tell you that
+ people with the same power profile, otherwise sprint, you know, anaerobic capacity, five
+ minute power, 20 minute FTP. They can vary a great deal here in terms of what they can do under
+ threshold. Like one paper I saw had inter-individual variability of 36%, which is not 100%, but it's
+ substantial. And you can also make big watts and have crap endurance. Like I coach people who've
+ got massive watts off the couch. And when they're untrained, they're untrained. And that's also one
+ of these other factors is like, what's your genetic potential? Where do you start? How
+ trainable are you? How quickly and what's the magnitude of response to training? These are all
+ factors that are confounding here. And so you can also have small and medium watts and have
+ amazing endurance. I cannot tell you the number of people that we have coached and currently coach
+ who on paper don't have great raw watts, but they have such good endurance that they are doing
+ extremely well or winning at very long events. Going back to the other thing, not only is there
+ variation for watts under threshold, but there's variation for durability as well. Everybody is
+ kind of off the couch with a different degree of fatigue resistance and endurance. And without ever
+ touching a large energetic load, like if you want to perform well at 30 kilojoules per kilogram,
+ if you only ever ride to 20, you can train your 30 kilojoules per kilogram durability
+ to some degree, but you are not going to be able to train it to a very well degree.
+ there's a limit there if you are not doing the actual specific requirements of the energy output.
+ Yeah. I mean, you can imagine, right? Like you have a gravel racer and a crit racer
+ with the same FTP, you know, but at a six hour ride, one of them is probably feeling a lot better
+ than the other. Oh, for sure. I mean, the number of people I've coached where, you know, if they
+ get used to seven, eight hour rides or something like that, yes, I did drop that. No, I know that
+ Most amateurs can't do that. I'm so sorry. It's a good example. That's why I use that.
+ But when they get used to those long rides, especially if you put efforts in throughout or
+ like, okay, you ride for six hours and you hit a weeknight crit at the end of it. What an amazing
+ training ride that is, you know? So once you get used to those big volumes, you kind of get used
+ to like, okay, if we're racing for four hours, like four hours on the bike is not a big deal
+ anymore. And four hours with efforts also becomes not a big deal. And we've had examples on the
+ podcast before where I've talked to people where the training that we've done is harder than the
+ race itself sometimes. I mean, sometimes that's what you want. You want to mentally know and show
+ up race day that you can do it and not be nervous. Yeah. Plan for the worst, hope for the best. So
+ Anyway, so in like the Van Aert paper and the cross-sectional data like U23s and all that, well, especially the Van Aert paper, the data being pre-stratified, you already know there's a difference.
+ And so the thing is, we know that in that study, higher average power also had higher durability, but there's no causality there.
+ It's a correlation only.
+ This is ice cream, shark attacks, and proximity to the shore.
+ Sure, there you go.
+ Shark attacks and ice cream, perfect example.
+ I think that's probably what I was trying to start with, and I forgot what the analogy was.
+ So yeah, you need both is what that data shows.
+ But it does not say that training for big power will train your durability.
+ And training for durability does not guarantee that you will have big power.
+ You can't big brain it. So let's talk about some big brain solutions. Because you know where this is going. I'm excited too. So what are the downsides with thinking that improving endurance slash durability is the solution potentially at the expense of everything else?
+ Because I don't think, I genuinely don't think most people are thinking about this.
+ So we just want to take this to a logical extreme.
+ Because so far, I browsed a couple of forums and I was seeing people asking, how do I train my durability?
+ And nobody was saying you have to like eschew hard intervals totally.
+ Like I don't genuinely think that's a real solution people are thinking about.
+ But I want to take this to the logical conclusion because I think it's a good thought exercise, if nothing else.
+ So if my power output's not so good, but my endurance is great, what about doing races that are long and everyone else will be fatigued?
+ So if I want a good result and I'm improving my durability, but I don't have the big power outputs yet, is this a solution?
+ In theory, this would work, but you've got to pick your races extremely carefully.
+ usually, like we talked about with hill towns, you will get dropped on an early hill if you
+ don't have sufficient power to begin with. And most races have periods of selection that require
+ some minimum power output or watts per kilo or strategic something. And if you don't have the
+ ability to make it, then you're not going to get the results you want, even if you are the most
+ cagey and bunch efficient sag climbing rider in the world. And so people with exceptional endurance
+ without big fresh power, this is where you might choose gravel, ultra, triathlon, et cetera,
+ et cetera, especially if you like to swim and run, 24-hour mountain bike races, really good stuff
+ there. But if you want to do well at these other events, you cannot eschew the harder efforts for
+ the longer efforts, like we were just saying. And so now what if we take the metric itself too far?
+ What if I want to improve my durability in kilojoules per kilogram, right?
+ So I spend less kilojoules in races, right?
+ Yes, but also no.
+ And why no?
+ And this is me with my coaching hat on.
+ Because racing is about smart strategy in addition to everything else.
+ You've got to cross the line first, which means you've got to spend power.
+ You've got to spend energy somewhere.
+ And so when you think about spending energy, you've got to do it strategically.
+ And I think one of the things that happens sometimes in amateur bike racers especially
+ is people over-index saving energy because everybody says this is what you should do
+ when you get started racing.
+ And I've seen a lot of people, I've coached them, I've done it myself, where you spend
+ so little time thinking about seeing the wind that by the time the final effort starts,
+ you are on the back of the pack. And anybody who's been in a bunch sprint can tell you,
+ you're not going to win from 30th place or even like 15th. So you have to spend energy strategically
+ the same way that when you're training, fatigue management doesn't mean avoiding fatigue.
+ It means doing the efforts you need to do and then dealing with the fatigue afterwards. It doesn't
+ mean I got to train with the least amount of effort. Like you got to bring the effort. There's
+ no doubt about that. Um, so in racing and training, it's all the same deal. You have to spend energy,
+ but you cannot do it wantonly. You have to make smart, energetic investments. Uh, and that's the
+ way that you, cause you know, it's sort of like the, the average power in a crit thing, you know,
+ Oh, who, who did the least average power? That's a great competition to have with your buddies.
+ And this, this basically goes along with exactly that.
+ You know what I mean?
+ Yeah.
+ I think the, um, it's kind of like the, yeah, I mean, if, if this was a, this is goes back
+ to like, there are no silver bullets.
+ There are no magical one.
+ If I make this one metric, like a hundred out of a hundred, then I'm definitely going
+ with um nca so unfortunately this is this is like another thing you can think about in durability
+ and repeatability whatever you want to call it and but but it doesn't replace everything else
+ that's like kind of been known before that you know is required to be a successful bike racer
+ yeah um yeah so when you think about how you shift your training you know
+ So, like, folks could be at the danger of shifting it in the wrong direction if you over-index long, low-intensity rides.
+ Hey, I'm increasing my durability.
+ And you totally forget to do hard efforts, and then you start racing.
+ So, like, oh, I can't do any hard efforts.
+ Okay, pendulum swung too far in one direction.
+ And you also want to make sure that when you hear recommendations on your training, again, this is to be critical of this podcast as well as any other media that you consume, be careful about how generously or critically the literature is being read.
+ And I try to do as fair a job as I possibly could representing the literature and the magnitude and strength of the evidence that there is right now.
+ If you, well, I'm on Instagram, right? For better or for worse. I ran across a popular cycling mix science Insta thing. And they had a post and it pretty much copied the homework straight from a durability paper on running.
+ And one of the recommendations that would work for running, strength training and plyometrics, does not work for cycling.
+ Because in running, you are using the elastic components of your muscles and your tendons to absorb and release energy repeatedly every step.
+ And if that's stiffer, cool. You are going to have much better forward momentum. You're not
+ going to lose as much of that energy to just heat and friction. So it doesn't work in cycling. We
+ don't have stretch shortening cycles. We have concentric action only. And while making your
+ muscles a little stronger and stiffening up joints like ankles and stuff, that can be fine,
+ but it's really not going to improve that much unless we're looking, maybe even if we're looking
+ on the very finest of margins. Would that make a small difference? Probably measurable, yes.
+ Meaningful, not really sure. So another thing I saw on this post was low-carb training.
+ Nice. Yeah. What are the benefits of the low-carb training?
+ Let me check my list. Oh, there's nothing here. Weird. I must have lost my list.
+ yeah. So like, so be critical when you hear these things and be careful about the literature that
+ you read. Because if, you know, if you take that directly at face value, you go, oh, I gotta,
+ I gotta get the, okay. So I need big anaerobic capacity so I can pass my, so I can have a better
+ buffer for my 108% efforts. I need big VO2 max. So I need to do a lot of hard intervals and I need
+ big muscles so I can have big anaerobic capacity. And I also am going to stiffen my tendons. So I'm
+ going to get really big and swole and that's going to be awesome. Right. Um, all of everything,
+ maximum, everything, just move every slider to the right. Yes. Um, so, and this is one of the
+ problems. If you over index a one particular papers, um, uh, what do you call it? Uh, like
+ testing protocol. Uh, and so like, if you're in the gym and unless you're an extremely fast
+ responder, you know, like if, if you really want to do the, I need to increase my anaerobic capacity
+ thing, um, you know, in the longterm, you need to gain muscle weight and inner capacity is going to
+ improve. Sure. And you know, it's, um, now it's going to take it when you're bigger. Here's the
+ thing. If you get heavier now, it's going to take more kilojoules to hit 30 kilojoules per kilogram.
+ Yes, it is.
+ And this is not necessarily a training strategy that you might want because you're like, oh, if I get stronger, I'll have more power, maybe more threshold power.
+ But listen to Wattstock number 42.
+ That's an episode where we went into allometric scaling.
+ And one of our conclusions there was that the aerobic power is not going to keep up because unless you have a severe issue, your muscle mass is not going to be your limiter.
+ And so when we're looking at kilojoules per kilogram, increasing kilograms means you've got more muscle to absorb the kilojoules.
+ But this is a misinterpretation of allometric scaling if you take it to a logical extreme.
+ And what if you go the other way, Kyle?
+ And you try to diet down, yeah.
+ Watts per kilogram, make the kilograms go down,
+ but then you're going to be smaller and-
+ So your kilojoule burden goes up per kilogram.
+ Yeah, yeah.
+ Your kilojoule burden goes up or maybe-
+ Yeah, unless you lose a huge percentage of your body weight,
+ it's probably not going to make a massive difference there.
+ But still, if you over-index on this thing, it could lead you in a funny direction.
+ Like, you don't want to lose weight.
+ You want to gain weight.
+ Yeah.
+ Well, and I was thinking, like, if you lose weight, then, yeah, your total amount of kilojoules goes down.
+ But like, you know, you also, if you, you know, you, you can get into situations where, you know, if you, you're not taking other things into account with just like, oh, if I just, you know, yeah.
+ Optimize being smaller somehow.
+ Yeah.
+ It's just, it's weird.
+ Yeah.
+ And I think also this is one of the things that comes from low body weight premiums in cycling is I don't actually think it comes from the kilojoules per kilogram scaling aspect.
+ Because if you get too light and your power starts to fall, you go, oh, I don't have to spend as much kilojoules, but my threshold is lower.
+ So I'm not spending as much power anyway.
+ Like your threshold should not be getting lower.
+ Like your overall capacity should not be going down.
+ And this is where the acute energetics of things can really get to you.
+ Because if you're not eating enough, that's when you are basically not recovering well and fatigue is blah, blah, blah.
+ And so, yeah, like acute LEA issues, like severe LEA issues, you want to avoid those also.
+ So durability, like any other metric of endurance performance, is, as the saying goes, necessary but not sufficient.
+ So you cannot just solve the equation of kilojoules per kilogram plus zone two and mitochondria something equals do a ton of low-intensity training and call it a holistic training plan.
+ Nor can you just overly focus on driving the ceiling up.
+ I need to raise the roof and rising tide raises all ships or whatever the saying is.
+ And you also should not do things that runners would do, like increasing the stiffness of your muscular tenderness unit.
+ because no one thing is everything in performance. Only everything is everything,
+ which might be the dumbest thing I've ever said in the podcast. And I've, I've got a good list.
+ But I want my miracle intervals. What is my miracle workout that I can do?
+ Your miracle workout, uh, at this point for one workout would be a very big kitchen sink.
+ Um, all right. So what is my coaching experience and advice, especially for amateur athletes?
+ because pros, you all have somebody you're working with, but for amateurs especially,
+ what are we talking about? How do we improve durability? I think that, well, and how do you
+ target durability actually is probably a better place to start. How do I know how many kilojoules
+ per kilogram I'm looking at? Look at the races you've done. Select everything before your last
+ effort. So if it's the last climb or a last, you know, last, like, you know, if you're in a 90
+ minute crit or whatever it is, a long one, even an hour crit, 40 minute crit, select everything
+ you've done beforehand and look at the different metrics of that section and voila, a target
+ emerges. You can look at the kilojoules, kilojoules per kilogram. You can look at multiples of your
+ anaerobic capacity. You can look at time and zone. You can look at number of small efforts.
+ So if you're looking for how many sprints do I need to practice, you can structure specific
+ training based on that. There's no right or wrong answer. It's what is the specific need that you
+ have. And you don't have to overthink it either because things can get a little overly specific.
+ So you may want to have like one, two, maybe up to three workouts that are targeting specific aspects of that and that you kind of do a little more as you get closer to your goal race or races.
+ And now if you're time crunched, how do you train that?
+ Because we talked a lot about volume and stuff.
+ People ride more, tend to have way better durability.
+ I say train normally and you are going to not want to, not want to skip your threshold efforts
+ because that's like muscular endurance efforts, but you also don't want to skip anything else.
+ You don't want to skip your harder efforts. You know, your, your repeated sprints, like your
+ one minute hill reps and stuff like that. Do all of those train normally. But when you get the
+ opportunities to train at higher volumes when you can, even if it's once in a blue moon, if you get
+ a chance, if your normal long ride is like three hours and you get a chance to do five or six,
+ pack up the snacks, make a fun route. You don't even have to do intervals, just get it done.
+ And after you do that a couple of times, eventually start to fold in some intervals.
+ You would be surprised at how much that helps at that one long ride. Cause I've, I've heard people
+ a lot over the last couple of years. If you get a chance to train more for a day or a week or
+ something like that, should you take it or should you keep doing normal volume? And my answer is
+ you should take that chance to do the extra volume. And you may want, especially if it's
+ totally new to you, you may want to drop the intervals entirely just to manage the fatigue
+ a little better if it's unfamiliar territory. If you've done it a couple of times, feel free to
+ fold in some intervals, you know, kind of how that all works with yourself. Um, but you would
+ probably also be surprised that, you know, if you're doing a little more volume in general,
+ you may not necessarily have to do as many intervals either. Cause I generally find that
+ intervals tend to be a little more effective when people are training on a little higher volumes
+ than a little less. And of course, a little less volume, you can probably over-index on the
+ intervals, you could probably do a couple more than you normally would. Maybe you'll do three,
+ maybe even four harder-ish efforts a week instead of kind of two to three that most people do. So
+ you can kind of play with the variables there. And so I think that otherwise, if you think more
+ about your big wants, the problem is that the longer you've been training, the more you're
+ going to run into diminishing returns. And so this is especially where reaching for durability,
+ like, oh, maybe I want to try longer rides if I can. I have the time I just never have. Okay,
+ now it's time to try to ride a little more, ride a little longer, maybe try a double if you get a
+ chance. These things can all help and there's not necessarily a wrong way to do it. So that's not a
+ really solid, this is how you need to train durability kind of answer, but a little more
+ training, try some efforts over longer rides. That's probably the best way to think about it.
+ But in general, nothing special. The basics, eat well, rest well. Kyle, thoughts?
+ I think that kind of what you're getting at is that this does not require a massive overhaul to your training or that, like we said, there's not one miracle thing that you can do.
+ But especially if you're self-coached and you're just kind of doing the same thing year in, year out, you're looking for ways to mix it up.
+ I think this is one of those good ways to sprinkle these things in.
+ Like you said, if it's once a month even, twice a month, it doesn't have to be, oh, every Wednesday now I have to do four hours with 15-minute FTP efforts sprinkled in.
+ Seriously, what I can tell people, I tell them, if you get a chance to just do one longer, especially if you're doing gravel racing and you're doing a long gravel race and you are typically training lower volume, I tell people, if you get a chance once a month to go long, take it.
+ And especially if you rack up like four, five, six, seven of those before your goal event, you are going to notice a difference.
+ So, yeah, it's definitely worth doing.
+ And I think, too, like if you're looking on the holiday season and you have, yeah, some free time and less constrained by work and things like that, if you can handle it, you know, even if it's cold outside, let's say, and you can ride outside and all you can muster outside is two hours, you know,
+ if you can come back in and you can tack on another 30, 45 hour on the trainer, like
+ nothing wrong with that either. You know, just, just adding ways to, you know, sprinkling it in,
+ especially as your schedule allows, um, you know, it kind of feels weird to do outdoor ride and then
+ come in and finish on the trainer, but if it's cold and you want to, and you have the time and
+ the flexibility, like it's a little weird and your Strava post is going to be funny, but Hey,
+ why not? Yeah. And the other thing that I think goes along with winter training is that you don't
+ have to do the long rides in the winter, unless your goal race is like the first nice day to ride
+ outside in the summer and it's long. In which case, you probably should when you get a chance.
+ Otherwise, if you can start riding outside again in like February, March, and your goal event is
+ in June or July or something like that, you can do the harder efforts and then you can maintain
+ your fitness that you've built on the harder efforts while starting to add in more endurance
+ volume. That is a totally viable solution. Periodization is, I don't want to call it a myth,
+ but it can be a lot less structured than you think it can be. And so if that's the way that
+ your season shakes out, that's totally fine. So I'm actually a big fan of what would we call that
+ reverse volume periodization? You heard it here first, folks. TM, got to trademark that.
+ No, I don't. I don't need any more paperwork to do. Tax season's coming up. So, all right.
+ Let's answer our questions that we set out with at the beginning. What is it? What is durability?
+ It's a way to measure endurance or resistance to fatigue.
+ It's a way where we are measuring how performant we are after having been performant for some time.
+ Assessment, how do we measure it?
+ Well, it depends on who you ask.
+ But to me, even lab metrics are based on performance.
+ So I think of it as the decline in performance after some time of being performant, like we just said.
+ And it's that decline from baseline that is really what we're measuring with durability.
+ So I think everybody's familiar with that now.
+ Trainability, can we improve it?
+ Yes.
+ The literature is weak, but my coaching experience is strong.
+ And it basically says the longer you ride, the more you ride, but you also have to manage fatigue.
+ You can't just do 40-hour weeks every week.
+ That's dumb.
+ Don't do that.
+ You got to eat well.
+ You got to sleep well.
+ You got to recover.
+ But riding a lot is great.
+ Doing efforts throughout is great.
+ Don't skip on any type of efforts.
+ Specific efforts are totally fine.
+ They're certainly not going to hurt.
+ Let's put it that way.
+ And what are the limitations of durability?
+ You still need enough power to begin with.
+ You cannot just say, well, I'm fatiguing less, so I'm going to win.
+ Well, if you get dropped on that first hill, it doesn't matter how much less you're fatiguing.
+ Other people are going to get there first.
+ And yeah, so that's why durability is not going to save you.
+ However, I do think this is not to shit on durability whatsoever.
+ I do think that it's a valuable aspect of endurance performance that is now being studied.
+ And I think that its popularity is going to be good for the cycling world as a whole.
+ I just think that people need to be very cautious about training recommendations, the literature, and also measurement.
+ I got a couple Instagram questions for the podcast, and we're going to answer a couple.
+ We've already answered most of these while we were doing the podcast so far, but I think it would be very wise to answer some of these because people always have really good thoughts on these things that I don't necessarily think of, and I think a lot of our listeners also don't necessarily think of.
+ And like I said, we've got a great, engaged, and smart audience.
+ And so I am very happy with when we get listener questions.
+ So go follow me on Instagram at empiricalcycling.
+ And also reach out for coaching, empiricalcycling at gmail.com, if you're interested.
+ If not, that's cool.
+ Keep listening.
+ This question is, isn't it just put more in to get more out and to an extent, of course, like all training?
+ I would say yes.
+ Yeah.
+ You have to have the genetic capacity for endurance performance first, and you also have to have like the super, super amazing stuff.
+ But also, I do think that amateurs can train up their durability really, really, really, really well.
+ The problem is having the time to train.
+ And to me, that total time riding, even if it's including recovery rides, yes, total time is, to me, the best predictor of somebody's durability.
+ So if you can ride more, you should.
+ But if you can't, then do what you can and don't worry about it.
+ Yeah.
+ Speaking of, Festive 500 for Strava is coming up.
+ So some people are going to tick off some boxes on their durability by cramming in a bunch of miles between Christmas and New Year's.
+ Yeah, for real.
+ I think that's an awesome thing to get people to ride.
+ It's a social aspect of riding that I don't personally partake in, Festive 500 and stuff like that, but I think it's great when my athletes want to do it.
+ I am so happy that they do, and I encourage it actively.
+ Next question, how would the durability of a top pro compare to an amateur, and how would you measure that?
+ Like I said before, you've got to be careful about if you're looking at training or racing because the intensity beforehand makes a difference.
+ Um, but what I would usually do is I would look at, um, kilojoules per kilogram.
+ I've been in groups of 10 that I look at, you know, how is this changing over time?
+ Uh, so I have, uh, so I can track somebody's durability changing.
+ And not only that, I also have various metrics about other conditions, uh, to, um, to, to
+ see if somebody is doing it with like low intensity or high intensity, or have they
+ done testing before?
+ So, anyway, the durability of a top pro compared to an amateur, so that's how I would measure that.
+ I've got a bunch of different ways to measure because, you know, as much as we've been talking about kilojoules per kilogram, we've also talked about a bunch of other factors that are included.
+ And other than the fact that I can't really measure nutrition in WK05, I can measure quite a lot of other things and I do track those.
+ So I kind of eyeball all of it at once to get a, get a sense of, you know, other conditions besides just kilojoules per kilogram.
+ Um, but the difference in level is that for the extreme top performers, we're looking at less than 2% drop of power from when fresh to, um, you know, 50 for the men, 50 to 60 kilojoules per kilogram for the top men, for top women, we're looking at like 30 to 40.
+ Maybe there's been a race or two that has gone up to 50, but yeah, 30 to 40, generally speaking.
+ And again, same deal, less than 2%. Amateurs, if you even have that many kilojoules per kilogram,
+ typically like a good amateur, we're looking at 10 to 20% drop and average amateur, I would say
+ 20 to 40%. But again, a lot of that is because there's no data. It'd probably be a little bit
+ higher for somebody well-trained, but that's just the numbers I see without having dug into it too
+ far. Next question is, what is your definition of durability? To me, it's all the same thing,
+ really. It's all different aspects of similar things like we talked about before. So I don't
+ really parse the definition that finely. I'm not going to draw a really small box around this and
+ say this is durability and this is not. To me, we're all looking at the same thing. Nature versus
+ nurture. Pros are genetically more durable or do they have the time to train 30 hours a week? I
+ find is both. I do think that this is an aspect of physiology where people can be better out of
+ the box and it is highly, highly trainable. And I find that it's more trainable than VO2 max
+ from my personal experience. We may eventually get some data that says that's not the case and
+ I'm wrong. So I'm happy to be wrong on that. But in my personal experience so far, that's where
+ we're at. If all my races are short, is it worth targeting for training load and, or a block of
+ racing? Is it worth targeting durability? Uh, I assume the question is, um, I would say yes,
+ because my athletes who have the best, okay, let's skip my athletes. Let's think about people.
+ everybody knows. Matthew Vanderpoel and Wout van Aert were, I think people sometimes forget this
+ now, but they were incredible cyclocross racers when they were like 18, 19. Yeah. U23, all that
+ stuff. Yeah. And I remember at the time, I've said this on the podcast before, so forgive me if you
+ remember me talking about this. At the time, the prevailing wisdom, well, at least in my circles
+ anyway, was that if you're good at cyclocross, you're not good at road racing because you never
+ really train more than an hour or two and it's all high intensity and it's all sprints and
+ you need a big sprint and yada, yada, yada. And you do. And that's true because it's not like,
+ wow, it has a 1200 watt sprint and neither does Bender pole. However, my contention at the time,
+ and I've been proven correct. Um, one of the few times I've been proven correct
+ was that they would be amazing road racers because your, your ability to do
+ performance like that at that level with such good repeatability can only come from
+ incredible aerobic performance and aerobic conditioning. And so repeatability of hard
+ efforts and slash durability, like, well, you got to train the repeatability. I find that's
+ another genetic thing too, I think. But yeah, it's both. I think the pros are more durable by
+ nature, but they also have more time to train. But I think that especially when it comes to
+ repeating higher intensity efforts. There's a big genetic component in my supposition anyway.
+ And I also think that it is trainable to a large degree, but I think the repeated higher intensity
+ efforts are, they may also, for some people, it seems to be they need a much deeper training
+ history to have those efforts repeatable. Yeah. I mean, I always thought that was kind of silly
+ too because like even back then you know and when wow and and vanderpool before they were roadies
+ and winning yeah hardest classics that require the best durability you still had like like steve
+ and like boom who were great cyclocross racers who also won stages of grand tours it's not like
+ they like showed up and got shelled yeah didn't steve win flanders or roubaix i'm not sure he won
+ one of them i've i've completely forgotten which one i'm i and i was such a huge steve r fan and
+ his teeth that fell out on ruby that was hilarious god yeah i mean just like you know and yeah
+ neither of those guys were as big of names um as vanderpoll or van art but like they'd shown that
+ it's definitely possible and it's not like they were like you know these amazing cyclocross racers
+ who showed up and just got, you know, forgotten about on, in the, in the world tour on the road.
+ Like, no, they were on the world tour on the road for like a decade, like a long time, you know?
+ Yeah. Yeah. Yeah. Um, okay. Next question. Is there a specific way to train durability besides
+ developing low end power? Uh, yeah, yeah. You got to do the repeated harder efforts too. That's,
+ that's why one of my favorite, uh, ways to, um, you know, give people efforts over long rides is
+ to have them do an effort per hour. And sometimes, yeah, we do want to cluster those together.
+ Sometimes we're looking at, we need a little more acute stress. We need more repeated efforts like
+ that. But oftentimes for, I'd say for most amateurs, if you've got a three hour ride,
+ instead of doing three by 15, you know, at the first half and then riding easy for the second
+ half, spread them out and you will probably find a good training benefit from that. So
+ So also do the same with harder efforts.
+ So if you are looking at like crits or you're looking at road races or you're looking at doing both, instead of doing like, you know, six to ten one-minute hill reps, you know, with like five-minute rest or whatever you're doing, instead do those across the span of a four or five-hour ride.
+ And you will get a much different feeling on your last effort than you do when you cluster them together.
+ you just want to eat a lot more pizza when you get home a lot more yeah
+ uh interesting uh what is the driver of the difference and stimuli versus repeatability um
+ so i i think this is an interesting question because uh basically it's asking
+ what is the difference between improved durability, like we would see in a road race,
+ and repeatability, like you would see in a crit or like a mountain bike or cyclocross race?
+ I think the drivers are all the same, but I think the specific training is different.
+ That's my personal opinion, and I'm in no way married to that. So if I change my mind
+ by like the next podcast, don't be surprised. Does adding fast twitch muscle with lifting hurt
+ durability? I think in the acute term, yes, because of the fatigue. So if you do a hard
+ leg day on Monday and Tuesday, you do a long, hard ride, your durability that you would see
+ on your Tuesday is going to be impaired because of the fatigue. But in the long term, I actually find
+ that there's no difference really if you're doing heavy lifting and if you're not. I've got a lot
+ of my roadies doing some heavy lifting for a decent chunk of the year now. And I don't want
+ to say it has improved durability because I don't think it has physiologically. That would not really
+ make sense. But I think that it is definitely not hurting. And I think that this goes to a deeper
+ point of the conceptual seesaw between aerobic and anaerobic. Because I think a lot of folks
+ consider the two to be zero-sum. If you improve your ability with one, you're going to automatically
+ detract from your ability with the other. And I have never in my life found that to be the case.
+ Like I have trained sprinters who are professional sprinters. And, you know, when we start working
+ together, we're looking at, you know, 1500 watt sprint and, you know, 400 watt FTP. And when we,
+ you know, when we're done working together, when they go on to the next level or, you know, or,
+ currently, if I'm still working with them, we're looking at something like 1,900-watt sprint and
+ 430, 440-watt FTP. The two can increase together. Just because you improve one doesn't mean you're
+ taken away from the other. If we dig down to fiber type and stuff like that, is there a fiber type
+ component to durability? I actually expect yes, but I don't necessarily think that if you are
+ adding muscle fibers that you are detracting from the muscle fibers that are already recruited and
+ very well trained. I could not imagine that would be the case. It would only be the case, I think,
+ if you were doing too much lifting and you're not eating enough and you're very, very fatigued.
+ You remember those old adages of you can't ride too much volume because you're going to hurt your
+ speed for sprinters kind of thing. Yeah. Yeah. That's, that's bullshit. Um, it's, it just is
+ because it hurts your speed in that. If you do a lot of that, you are going to be tired
+ and that's expected. But on the absolute scale, uh, when we think about training investment,
+ that's where we find trade-offs. If I spend more time training my sprint, am I going to improve my
+ sprint? And does that mean I'm having less time to train my endurance and my aerobic power? Like
+ that kind of stuff, that's where we find a real trade-off. But training one does not actually
+ detract from the other, unless you do it very wrong. Unfortunately, I think you find these
+ things where it's like, you tread over some things you've kind of talked about, we've talked about a
+ lot before, but also with different terminology and different metrics or different, you know,
+ newer points of view, you cache the, all these, these related topics in a different way, which
+ I think can be helpful for some people if they think about it in, in terms of durability. And
+ it's not just, you know, you think like, Oh, maybe an easier way to, to explain to yourself,
+ why am I, why should I do a four hour ride? If all I do is, is crits, right? You know, like why,
+ like why, why not just a two hour ride? If all I ever do is one hour crits while I'm doing,
+ doing rides that are twice as long. So, you know, why would I ever need three, four, five,
+ six times as long, whatever. And it's a totally reasonable question too.
+ Yeah. And, and, and so I think maybe when people encounter stuff like that, or, you know, or if
+ you are really time crunched and think like, Oh, should I just squeeze this in if I can, or,
+ or is that important? Like, yeah, it, you know, like we said, you don't have to do it every week.
+ If you can squeeze it in here and there, cause you're time crunched. Great. You know, like you're,
+ you're, you're just sort of like using, using these things to, to help you out. Um,
+ even if you're, you may feel like you're just painting in the corners or something like that.
+ But I think that it, trendy words and trendy phrases, you know, are, are inevitable in,
+ especially in sports exercise science, where it is so relatable to, to social media and posts and
+ things like that, where these things can take off because of the algorithm or whatever, or
+ fancy marketing, or, you know, someone has to sell you something so that they want to sell you
+ on durability. Um, no, I mean, I'm serious. Like really, you don't want to, you don't want to
+ knock necessarily people's, you know, marketing or, or what they're, they're.
+ Yeah. I'm not mad at them making a living. Um, right. Yeah. No, no, no. I'm just saying that
+ like, you know, sometimes people need a way to, to differentiate themselves. So they want to focus
+ on something like, let's say durability or whatever. Um, which is great. Like if, if they're
+ doing these things and it has a positive outcome for, for people, that's, that's, that's great.
+ There's nothing wrong with that.
+ Yeah, I agree.
+ And yeah, so yeah, potentially very confusing
+ when we start to really dig into the definitions.
+ But otherwise, I hope everybody enjoyed this episode.
+ Reach out for coaching and purpose-selecting at gmail.com.
+ If you would like to get a coach for next year,
+ if you kind of like what you're hearing,
+ we are very much trying to have our training philosophy
+ open to the world.
+ And so people understand what they're getting
+ if and when they come train with us.
+ And if you're not interested in that,
+ you'd like to consultation,
+ We are always doing those.
+ And we'll give you the tools to plan and adjust your own training.
+ And if you are not interested in any of that stuff, keep listening.
+ The show is ad-free and always will be.
+ And we really appreciate having everybody here.
+ Go give me a follow on Instagram if you want to ask questions for the weekend AMAs or for the podcast.
+ And, oh, yeah, negotiable rates we have for students in Neopros.
+ Forgot to mention that earlier.
+ Otherwise, I hope everybody has a good holiday.
+ We may or may not get another podcast out after this one by the end of the year.
+ But otherwise, around the turn of the year, we will definitely be having a whole bunch more.
+ And I'm super, super, super excited for what we got coming up.
+ So I hope everybody has a great new year if we don't talk to you before then.
+ Thanks, everyone.

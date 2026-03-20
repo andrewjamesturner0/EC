@@ -1,0 +1,695 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson.
+ Thanks, everybody, for listening as always and, of course, asking you to subscribe to the podcast and, of course, share it if you are liking what you're hearing here
+ and it's helping you with your training and understanding of, well, everything, really.
+ So, five-star iTunes ratings, thank you so much for all of those or wherever you listen to podcasts.
+ And, of course, we're ad-free, so if you want to donate and support the show, you can do so at empiricalcycling.com slash donate.
+ We have some show notes up in the website. We'll have some diagrams and stuff.
+ I highly recommend following along and, of course, if you are in the car or on the bike while you are listening to this,
+ you should probably check that out when you get back.
+ So, if you have any coaching or consultation inquiries, that is another way to support the podcast because this is, of course, we are a coaching company.
+ And so, if you want to get in on that action, you can email me at empiricalcycling at gmail.com.
+ And, of course, we are always taking on athletes and, of course, we are always looking to do interesting consultations.
+ So, if you want to check me out on Instagram also, up in the stories on the weekends, we have weekend AMAs.
+ So, follow me along at empiricalcycling and you can participate in that.
+ And so, of course, we also have our water bottle collab, which is, of course, just a 10% discount on your entire order.
+ Code ITDEPENDS.
+ So, that's W-A-T-R-B-O-D-L.
+ And, of course, we're not making money on that, just supporting a good organization with really cool stuff.
+ So, I want one of their pasta shirts now.
+ And, of course, we've got some merch up at empiricalcyclingpodcast.threadless.com.
+ So, today, let's get to our, well, if you kind of know a little bit about the energy systems, today's podcast title might be a little clickbaity.
+ I don't know.
+ What do you think, Kyle?
+ Phosphocreatine being a critical aerobic energy system?
+ I think it's a little clickbaity, yeah.
+ I don't know if it's really as bad or as good as any other kind of clickbaity.
+ Clickbait title, though.
+ Well, what if we back it up?
+ What if it's not actually clickbait?
+ Because it actually is.
+ So, because we've gone pretty in-depth with anaerobic glycolysis and aerobic metabolism, you know, fuel selection, that kind of stuff.
+ But this is the other anaerobic system of creatine phosphate.
+ And, of course, pretty much anything not directly involving oxygen is anaerobic.
+ So, the breakdown of fats, you know, that was our clickbait title is that's anaerobic because there's no oxygen involvement process.
+ And that's where we learned that, of course, reducing equivalence and all of that kind of stuff in the electron transport chain.
+ And so, we get this little disconnect between those things.
+ But here, you know, we're actually going to be talking about creatine phosphate and ATP directly.
+ These two things are much more linked directly than a lot of the other kind of stuff.
+ And, of course, in this episode, we're also going to be – a lot of this has been briefly covered in the Training Too Hard for Criteriums article and podcast.
+ And that will be also linked in the show notes.
+ But, you know, the premise of that was that, of course, the replenishment of creatine phosphate as used for repeated sprint ability is, of course, aerobic.
+ And so, what is the highest level of aerobic metabolism we can achieve?
+ Well, sustainably, really, is pretty much FTP.
+ So, this episode, I really want to take a good, long, and strong look at the underappreciated duty of creatine, which is actually as a messenger of sorts.
+ So, Kyle, what do we need?
+ Kyle, what do we know about creatine and creatine phosphate?
+ And what do you think people who are tuning into the podcast would probably generally have an idea about already?
+ I think for a lot of people who have done any sort of weight training or been exposed to gym bro stuff, have heard of creatine as a supplement or creatine monohydrate.
+ And probably, therefore, mostly associated with…
+ …either lifting weights or maybe with sprint athletes, like if you're a track and field runner or something like that.
+ And probably also associated with it being like a gateway supplement, for lack of a better term.
+ Gateway supplement.
+ Where people recommend it just a lot as something that, oh, yeah, you should, you know, if you're serious about going to the gym, you should take creatine and stuff like that.
+ And so, I think…
+ With those associations, the idea that it is very important for aerobic work or aerobic systems might seem kind of foreign.
+ And I think maybe people also realize that creatine is pretty well researched.
+ Like, you can search lots of papers about its effects and its safety and all these things.
+ So, if nothing else, it's maybe a household name.
+ For those reasons.
+ And then, maybe if you've had a kidney panel or something in the past for blood work, you've heard of that because that's one of the things that they'll measure for.
+ Like, blood levels of that are one of the things they measure for when you get blood work done for kidney function.
+ Oh, interesting.
+ I actually did not know that.
+ Okay.
+ So, yeah.
+ So, like, let's see.
+ What is creatine?
+ So, creatine is…
+ Creatine is made by combining two amino acids into a special compound.
+ And so, it's a little modified.
+ But it has a special property in that it can directly add or donate a phosphate group, the P, that's in ATP.
+ And that's pretty much what makes it special.
+ So, creatine in ATP and creatine in ADP, they have a kind of relationship in the main cell compound.
+ Which is that creatine phosphate plus ADP makes ATP.
+ And this happens with an enzyme called creatine kinase.
+ And kinase is just something that adds a phosphate group to something.
+ And so, we get ATP plus creatine, but without the phosphate.
+ So, that's a pretty simple equation, right?
+ And so, the reason that this happens, and this…
+ Now, we're going to…
+ You know, this is going to sound a lot like some of the metabolic pathways that we've…
+ Discussed previously.
+ Which is that creatine phosphate has a higher potential energy than ATP.
+ And it's actually one of the very few things in the cell that does.
+ Offhand, I can actually only think of three things that are capable of directly donating a phosphate to ADP to make ATP.
+ And so, the energy rolling downhill, quote-unquote, here is easy and rapid.
+ Because there's just a good high potential energy for creatine phosphate to donate.
+ And so, we have our phosphate phosphate to ADP, and now we have our ATP back.
+ And this is kind of supplementary in a lot of ways to all the other pathways that we talked about, like aerobic metabolism of, you know, aerobic breakdown of carbs and fats and anaerobic glycolysis.
+ So, are we making sense so far?
+ Yes, I think so.
+ I mean, I think that's like an important takeaway you've already hit a couple times is yes, that creatines…
+ The primary role is to just donate that phosphorus back to regenerate ATP.
+ Yeah, phosphate, not phosphorus.
+ Phosphate, yeah, sorry.
+ Pretty close.
+ Yeah, and so, one of the hallmarks also here in this particular, you know, metabolic equation of creatine phosphate and ADP and creatine and ATP is that they're…
+ Held in equilibrium or kind of a certain equilibrium in that they need to be a certain amount away from equilibrium, right?
+ So, one of the reasons, of course, that, for instance, ATP becomes ADP is because the ATP versus ADP is actually held out of equilibrium.
+ Actually, one of the first 10-minute tips actually was basically on this.
+ So, listen to the ATP and disequilibrium.
+ 10-minute tips.
+ That was a very short one, but it was right to the point.
+ And so, basically, that's kind of what's happening.
+ And creatine phosphate can rapidly donate its phosphate to ATP.
+ But this is actually the very, very simplest thing because, of course, it takes a minute to get anaerobic glycolysis fired up.
+ Well, not really a minute, but creatine phosphate is faster than anaerobic glycolysis.
+ And it's much, much faster than…
+ Than aerobic ATP production.
+ And so, this is why everybody thinks it's…
+ Well, it is a critical piece of the sprinting energy system, right?
+ So, now we've covered the basics.
+ And we could probably end the podcast here if we really wanted to, right?
+ And scene.
+ All right.
+ See you later, everyone.
+ Now, we got to take a step back.
+ So, where is the site of aerobic energy production, right?
+ It's the inner mitochondrial membrane in the electron transport chain.
+ And so, remember, complexes 1 through 4 take electrons and they move them down the chain and they pump protons into the mitochondria cristae.
+ And this means that we have a proton gradient that can pump through complex 5 and spin complex 5 to make ATP.
+ And it spins really fast.
+ It's like 7,000 or 8,000 RPM, like Ferrari engine, right?
+ And so, it's turning out ATP.
+ And so, the question is, doesn't the ATP just diffuse directly out into the cell?
+ Or doesn't it have some kind of transport mechanism, right?
+ And so, let's set up the whole picture here.
+ Because ATP has a long way to diffuse, like longer than most of us might expect.
+ And I didn't even expect this until I really started looking into this.
+ And so, deep in the mitochondria, the mitochondria may be set up like right next to places of high demand, like in the sub-circulable membrane, in the muscle cells, right?
+ So, like right next to where?
+ all the calcium gets handled. And of course, next to the sarcomeres, where of course the
+ contracting myosin units will need a lot of ATP to make a lot of contractions happen.
+ And so we have not only that space to diffuse through, we also have the mitochondrial space
+ to diffuse through. Because as you go deeper and deeper into the mitochondria, like into,
+ you know, because they kind of look like worms, right? Most people think about them like beans,
+ but they're longer than that most of the time. And so as you go into the folds,
+ the deep folds, like the things that look like room dividers inside the mitochondria,
+ those are called cristae. And the cristae, where the electron transport chain happens,
+ are far from the surface areas, right? And that's why mitochondria aren't like globes,
+ right? Because if they were globes, the center of that stuff would have even further to diffuse.
+ So that's why they're kind of long tubes.
+ But, you know, that's kind of a packaging thing. So regardless, the ATP does have a little way,
+ a little ways to diffuse through. And this is actually a current area of research,
+ is like ATP diffusion, right? It's, I know, this is riveting stuff, right? So
+ um, ATP has three problems here. So problem one is that concentrations of
+ ATP in the cell are actually pretty low, right? Like five millimolar. It's not a lot. We can look
+ at concentrations of other stuff that's much higher in the cell. Problem two is that ADP
+ concentrations are really low by like orders of magnitude. Like we're talking like a thousand to
+ one ATP to ADP in the cytoplasm, right? Because that's how ATP has its potential energy. It's
+ kept away from equilibrium with ATP. So that's a lot of concentration. So that's a lot of concentration.
+ And of course, in the mitochondrial matrix, it's actually a little bit better because,
+ you know, deep in the mitochondria, we have, um, you know, we have to have a lot of ADP.
+ So that way it can become ATP in complex five of the transport chain, right? And so we've got 10
+ to one in the mitochondrial matrix. And so it's actually something like five micromolar. Uh, so
+ now we've got very, uh, yeah, we've got five micromolar in the mitochondrial matrix. And so
+ we've got very, very small quantities of ADP and we've got smallish quantities of ATP, right? And so
+ in tissues like skeletal muscle, heart, brain, uh, eyes rates of demand for energy can get very high.
+ So local levels of ATP can deplete rapidly. And now if we couple this with ATP, having
+ a difficult time diffusing, now we have a real problem. Like how do we get the ATP out
+ rapidly enough? So here's where creatine phosphate comes to the rescue. Creatine phosphate
+ concentrations are around 20 millimolar, right? So we've got like four times as much than ATP.
+ And so of course the equilibrium of the reaction of creatine phosphate plus ADP
+ yielding ATP, it's like one 80 in favor of the products. So the flow,
+ uh, phosphate from creatine phosphate to ADP to ATP is really, really rapid. And that's part of the
+ reason for it. Uh, the other part of the reason is that the, um, the diffusability of creatine and
+ creatine phosphate is actually higher than that of ATP and ADP. Um, and so when we look at, uh,
+ how far can it diffuse under normal physiologic conditions, it's actually of something like
+ about 25 to 30% higher. So if we want to measure it in terms of time,
+ um, uh, creatine phosphate will diffuse approximately 25% further in the same amount
+ of time. Or if we want to look at distance, it'll get there about 25% faster or thereabouts. Um,
+ I've seen a couple of different numbers and, uh, this is part of, uh, part of what's being
+ looked into with this specific aspect of creatine phosphate. However, one of the other really cool
+ things about this is because of the compartmentalization of the cell of where creatine, uh, stores are high in
+ low and where ATP stores are high and low. Like for instance, in the mitochondrial matrix, that's
+ the innermost compartment of mitochondria. Um, the ATP to ADP ratio is actually quite low, uh, as
+ opposed to out in the cell because ATP doesn't need to do any work inside the mitochondrial matrix.
+ Like it, if it's held too far away from equilibrium, it becomes more difficult to make ATP
+ to regenerate it. And so the compartmentalization is, and having, uh, creatine, uh, creatine phosphate,
+ creatine phosphate as a separate way to transport energy is actually super advantageous in terms of
+ maintaining all the chemical equilibria where they need to be. So that way the cell can function
+ optimally. And this is one of the things that is so cool about evolution and how all these systems
+ have developed over time. It's because, you know, if we think about this, like, right, we don't need
+ ATP to do work inside the mitochondrial matrix. So we can actually have a pretty low Delta G. We
+ can actually have a pretty low potential energy.
+ Um, and so if we have creatine phosphate being made there or, um, being regenerated somewhere
+ between there and the cell surface, then once we send, uh, creatine phosphate out into the cell,
+ um, now it can actually fairly rapidly diffuse and fairly rapidly rephosphorylate ATP, whereas,
+ um, we're going to see in a couple experiments, uh, in a little bit that this, without this
+ system specifically, it becomes very, very difficult for an organism to have a normal and
+ healthy life. And so thinking about the very small quantity of ATP in the cell, this is why it's so
+ crucial to have all these metabolic pathways so we can have different ways to supply ATP. So that
+ way we don't actually kill the cell because otherwise we will, right? So, yeah, right. Like
+ that. Yeah.
+ ATP is needed for more than just peddling your bike.
+ Yes. It is needed for all things requiring energy, even like building, um, you know,
+ and repairing and like the immune system, like take your pick, um, metabolic processes in the
+ liver. Um, you know, the body has passive systems everywhere that it possibly can in terms of like
+ diffusion and like filtration, like the kidneys, like you brought up before, like kidneys, like
+ you want to talk about an efficient system.
+ You look at kidneys, you want to talk about an efficient system. You look at kidneys, you want to
+ talk about an efficient system. You look at kidneys, you want to talk about an efficient system.
+ Like that is one of my favorite things in all of biology. Um, right. I know. Right. Excuse me. So,
+ so ATP really wants to become ADP so badly that like keeping it out of equilibrium is like holding
+ back water in a dam. And so we've got like 60 kilojoule per mole of potential, uh, energy in
+ ATP if that remains high, but like if ATP levels drop like two orders of magnitude, then we're
+ going to lose more than 10% of the potential energy ATP has. And also the ATP and ADP ratios
+ change. And the same ATP that we had like just a couple seconds ago is now like 45 kilojoules per
+ mole instead of like 60. Right. So we've got an energetic value that's dropping faster than
+ cryptocurrency values.
+ Oh no, my doge coin.
+ Yeah. My, my, I don't even know what, just pick, pick a random word and put coin after it. And I
+ bet there is one. Um, okay. So now, um, now we have, we actually have, we've never imagined this
+ before, but this is probably a good as, as good a time as any to bring this up, but we have an
+ additional system that actually keeps ATP and ADP levels like far away from each other as possible.
+ So ADP, those are the levels that keep ATP and ADP levels like far away from each other as possible.
+ These are the last levels in the cell to rise, actually. AMP levels rise first. Why do you think
+ that is, Kyle?
+ Uh, probably to help maintain that, uh, what do you call it? Disequilibrium. I guess it's not
+ equilibrium.
+ Exactly. Yeah. So we actually have an additional enzyme that's called adenylate kinase. And adenylate
+ kinase is a enzyme that's called adenylate kinase. And adenylate kinase is a enzyme that's called
+ adenylate kinase. And adenylate kinase is a enzyme that's called adenylate kinase. And adenylate kinase
+ takes two ADP and it makes an ATP and an AMP. So we have an additional system here that is trying to
+ keep that equilibrium separate. Like it's removing ADP from the cell as rapidly as possible. So that
+ way we can keep that potential energy in ATP. So like, how cool is all this stuff?
+ Yeah. I mean, I think that's, it's also interesting to think, right. The, the,
+ for the theory of the origin of mitochondria is that they were separate,
+ single celled organisms that your body was just like, well, we're going to absorb this
+ and turn this into something useful. And now all this stuff goes on. Yeah.
+ That is actually what happens. And the same with chloroplasts. Lynn Margulis. I believe she won a
+ Nobel for that. I'm not entirely sure. But I think, I believe she has passed on now. But if you see
+ one of those Darwin fish with another thing in it called, that says Margulis, that's what it's
+ referring to.
+ All right. So now, now we've kind of set the stakes. So we've got a problem with ATP diffusing
+ out of the mitochondria. And we also have, you know, potential energy systems that are set up
+ to make sure that ATP levels stay high. So we have the aerobic replenishment of creatine phosphate.
+ We have creatine phosphate in the cell. We have adenylate kinase in the cell. But now we have
+ a transport problem.
+ This is logistics. This is cellular logistics. You know, it's like supplying the army. How do you do
+ this? Okay. Here's the thing. How rapidly does this stuff deplete actually? So I might help to
+ really put some numbers to this. So in a three to five second sprint, we're probably going to see
+ more than 50% of our energy supplied by creatine phosphate. We're going to see like 30% from
+ anaerobic glycolysis, maybe probably a little more and a smattering from aerobic ATP
+ production. And of course, like resting ATP levels. So, you know, some places might say you
+ get 10% of your energy from stored ATP, et cetera, et cetera. So there's a little bit of fuzzy math
+ that goes on with this kind of stuff. But let's say after a 30 second sprint, Kyle, you and me,
+ we're both familiar with 30 second sprints, probably all too well.
+ So in a 30 second sprint after one that's full gas, an average person will probably see
+ cellular creatine phosphate stores depleted by 60 to 80%. That's how crucial their job is
+ keeping ATP levels high. Right. And so textbooks and papers will call this temporal energy
+ buffering. So it means it's, you know, covering quote unquote for anaerobic glycolysis and
+ oxidative phosphorylation until they really get going. But it's a temporal buffer. It buffers in
+ time. So when we start doing activity and we don't have any of our other systems quite fired up yet,
+ creatine phosphate, it covers the over. So it's, you know, an incredibly useful system. And when
+ we start peddling, like from a warmup or like, or we're not warmed up or whatever it is, like,
+ even if we are warmed up, we start peddling, creatine phosphate gets used. And if we really
+ want to get nitty gritty about it and why not? Every contraction probably starts with the use of creatine
+ phosphate, every single contraction, because it's not like you're contracting one muscle
+ continuously for an hour as you ride. Right. Yeah. So it's on and off. Um, that, yeah.
+ This is also why for people who have seen anything about creatine with strength training or
+ something, a lot of the studies show that taking creatine or supplementing creatine
+ doesn't mean that you can, it won't make your one rep max better, but it might make you more able to
+ turn that set of 10 until like a set of 11 or something like that. Yeah. Where it's not helping
+ you. Yeah. With, with higher force production, it's helping you with not blowing up and dying
+ as quite as early. Yeah, right. Exactly. Cause force production comes from how much muscles you
+ have, uh, you know, some degree, like what is the fiber type composition? Uh, how much neural
+ drive do you have? All that kind of stuff. Um, but yeah, creatine phosphate, as we see,
+ is not going to like add additional contractile force. You're not going to add sarcomeres like
+ this, but yeah, like in my experience with, uh, taking creatine for, for strength training and
+ sprinting, it, yeah, it doesn't help your one rep max. It really does not, but, uh, it'll, um,
+ it'll probably badly affect your Watts per kilo, but also it's going to positively affect how many
+ reps you can do. Like I usually find it, I get a good, like one or two reps and sets of like
+ 15, something like that. Um, that's completely anecdotal by the way. So do not quote me. Um,
+ all right. And so that's why I think it's pretty common for creatine phosphate to be seen as
+ used for high intensity sprints. And so we've kind of set this up twice now, right? And now
+ it's a T so it's a temporal energy buffer. But the reason I brought up the problem with ATP
+ diffusion is that creatine phosphate is also a spatial energy buffer. And so,
+ it's actually kind of a messenger molecule. It's like money almost. It's like, we've got ATP in
+ here in the mitochondria. All right. We're going to exchange this for creatine phosphate. And then
+ we're going to exchange it back from ATP out in the cell. Like that's kind of how it works, right?
+ So that's our blueprint here. So again, cells being highly organized, um, we have, we can look
+ under a microscope. We've got myofibrils like sarcomere chains that have mitochondria packed
+ tightly around it, but we're,
+ we need that diffusion to happen from the deep recesses of the mitochondria.
+ And it has to get not only to the surface and out of the surface, but it also has to get,
+ if we're like looking at myofibrils, it has to get deep into the fibrils. It has to get in there
+ like to where the myosin units are contracting. So, um, so, uh, let's see. Um, yeah. So there's
+ actually a really cool,
+ uh, uh, what I think of as the creatine conveyor belt paper, uh, it's linked in the show notes and
+ there are actually a couple of papers that have a very similar diagram, but this is the one that I
+ think does the best background info. And then the rest of the article is not really, it's not really
+ pertinent to us at the moment, if at all. Um, but, uh, I will link in the show notes, but the
+ actually first reference I can find for this is 1984. And I'll have a link to that up in the show
+ notes as well. Cause I think that's probably a cool paper. Cause, uh, I think that's probably a
+ that's how long we've known about this is nearly 40 years now.
+ Which makes it actually probably one of the older things that
+ we would still say is valid and relevant today. Like lots of things from, I don't know,
+ 60 years ago, you're like, ah, lactic acid.
+ Yeah. Um, okay. So anyway, so,
+ one of the things that I think is cool about the experimentation that's been done on this and
+ these poor mice, um, we'll talk about these poor mice in detail in a little bit, but
+ creatine kinase mice. So creatine kinase being the, uh, enzyme that transfers does the proper
+ transferring of the phosphate from creatine phosphate to ATP and deep in the mitochondria,
+ the other way around from ATP to creatine phosphate, when we have to regenerate creatine
+ phosphate, um, they live short and very languid lives. Um, you could just ask the paper impaired
+ voluntary running capacity of creatine kinase deficient mice. So it sounds hard. I know. So
+ okay. So, all right, why don't we just get into this? So, um, here's some background info. So
+ there are different versions of creatine kinase in mammals. They're made out of different, uh,
+ rehashings as it were of particular subunits. Uh, so a gene will encode a certain protein and
+ you can put these proteins back together in a couple of different ways to make the same, uh,
+ enzyme that actually operates just a little bit differently. And that'll be used in different
+ tissues or different compartments of different tissues. Right. And so this paper, um, well,
+ the genetics being such as they are, uh, the experiment in this paper, they,
+ either knocked out the kind of creatine kinase that's expressed in just the cytoplasm,
+ or they knocked out the ones that are expressed in both the cytoplasm and the mitochondria,
+ because there are two slightly different versions and then we can knock out either one
+ or both. And they probably could have knocked out the mitochondria one, but they didn't.
+ Um, and so Kyle, can you give me a prediction on how losing your regular muscle, uh, creatine,
+ the one in the regular cytosol,
+ how would this affect voluntary running exercise in mice? Or how about losing both? How would it
+ affect you? Do you think? Oh, I mean, you would be able to sprint for your, I don't know,
+ three to five seconds. And then you start to get really tired. It could be really hard. Like what
+ about aerobic exercise though? Like if you're going to go for an hour, easy spin, how do you
+ think that would affect you? Oh, I mean, well, getting started, you would get started and you'd
+ find at a relatively low intensity, but then you wouldn't have this, uh, creatine to cover until
+ your aerobic system, you know, got warmed up, so to speak. And so it would either be really hard
+ and you'd be really tired or you just, you just like would stop just because you wouldn't, you'd
+ feel so fatigued because you didn't actually have enough time to get your aerobic system up and
+ running. Well, the thing is like,
+ well, you're, you're really close because you can get your aerobic system up and running.
+ Um, but the double knockout mice in this study voluntarily, you know, cause mice don't like,
+ they don't really, they can kind of sprint, but they'll just run for a while. Um, and they only
+ run the double knockout mice would only run 10% as far as wild type mice and expend 10% as much
+ energy. And the single knockout was in the middle.
+ Yeah. So like they're, they're just extreme lethargy all the time.
+ Pretty much. Yeah. Like they don't want to do anything and they really can't when they decide
+ to get up and do something. So the other thing is that the double knockout mice showed decreased
+ muscle and heart mass and the inability to grow mass, um, in either in response to a given
+ workload, which of course shows again, as always that, you know, muscle mass and things like that
+ always responds to a stimulus. You never actually get muscle mass for free, like within a certain
+ genetic limitation. Like if we look at gorillas or something like that, okay, sure. They have,
+ they have tons of muscle mass, but we are not gorillas and neither are mice.
+ So, um, what they did find was that there was some compensation from the gastrocnemius. That's your,
+ that's the mice calf muscle where citrate synthase increased threefold. This is a mitochondrial mass
+ number. And of course, cytochrome oxidase, that's the electron transport chain complex four
+ increased tenfold. So we actually saw a direct physical compensation by the muscle for a double
+ creatine kinase knockout. And it sounds impressive, right? But it still didn't help. It's, it's just a
+ compensatory mechanism. Yeah. So even without that, yeah, I guess. And, and maybe that's why
+ the single knockout mice were able to run, you know, farther than only 10%, but not a hundred,
+ not a hundred. Yeah. Because if you think about what's really going on is that if you're missing
+ the creatine kinase deep in the folds of the mitochondria, um, the ATP has a hard time diffusing
+ out, but also like that is exactly how crucial the ATP is or the, uh, the creatine kinases for
+ regular function.
+ So anyway, uh, the P the paper, uh, does conclude, um, Oh, by the way, they referenced another study
+ that showed double knockout mice, uh, also had only 50% of the ATP production ability as wild
+ type mice. So, um, yeah, so, so it all really like, like the creatine kinase, the creatine
+ conveyor belt, as it's called is super, super crucial. And this is just a regular experiment
+ that shows that, you know, the, the problems that cells
+ have when they are lacking creatine kinase system is, um, is very high. And the cell does attempt
+ to compensate for it because, you know, we would expect certain stressors in the cell to like
+ increase mitochondrial mass and all that kind of stuff. But it, you know, it's, it's sort of like,
+ um, you know, it's sort of like changing your technique for, you know, trying to pick up a
+ rock that you can't lift. It's like, you might get a little better leverage on it, but it's really
+ important to try to lift the thing up. Yeah. Um, so the paper anyway, concludes that, um, the,
+ it states the creatine kinase system is not redundant, which seems obvious to us now,
+ but actually may not have been previously, because if we think about what happens if we remove the
+ creatine kinase system, it's sort of like you, your initial hypothesis on getting going, it's
+ like, you can't really get going, but then once you kind of get up there, it might be like, okay,
+ it's really not the case. So it's not, it's not redundant. You know, it's not like, you know,
+ you get a little impaired as you sprint or as you start exercise, but then once your aerobic system
+ starts moving, uh, everything's fine. It's, it's, it's not fine. Right. Yeah. Yeah. Yeah.
+ You just, you just don't have that potential, that energy gradient anymore. And so
+ everything is harder, regardless whether it's a sprint or aerobic or in between. Yeah.
+ Yeah. That, that spatial energy buffer is yeah. Super, super critical. Um, so how does this
+ information help us out? Okay. The, if we want to rehash the last podcast and article, um, on,
+ on this, the training too hard for criteriums, oxidative capacity limits, how much ATP and of
+ course creatine phosphate that can be generated aerobically, right? So what's our sustainable
+ limit again? It's FTP. And so.
+ Should we expect that recovery between intermittent efforts over FTP should be improved
+ with better aerobic training? Of course. And yes, definitely. Yeah. And this training is not just
+ about having a higher FTP. Um, and we're going to talk about, uh, more in depth on that, uh,
+ in probably the next Wattstock, I think we're going to probably just do a wrap up episode and
+ answer some questions. So, um,
+ um, so, you know, again, having a massive sprint is fine, but Kyle, what's the rest of the rest of
+ this thought? If you, if you can't like make it to the end of a crit or the end of a race, or if
+ your aerobic capacity is not high enough, such that when you sprint out of every corner in a
+ crit, you don't actually recover. You're just going to keep losing sprint Watts as the race
+ goes on. And then it's a,
+ you're not going to have a good time. Precisely. Yeah. Um, and that's why you could,
+ oh yeah, sorry. Go ahead. You could run this experiment by like taking some,
+ you know, like track sprinter and just having them. Yeah. All right. Have fun. Like the first,
+ you know, 20, 30, you know, corners or whatever. Fine. But like, if you got to do a hundred of
+ them, it's going to get bleak real fast. Yeah. Um, that's, you know, that's exactly where I was
+ going with that too. Um, and I think that's, I think that's, I think that's a really good
+ thing to do is I was thinking, you know, everybody's first thought, oh my God, Chris Hoy can do
+ 2,500 Watts. What? Um, and then it's like, why doesn't he just go to the tour and just win all
+ the sprints? It's like, he's never going to make it. He doesn't have any aerobic training. Um,
+ all right. So, um, now, because I think we want to top the last time we did this,
+ which I think was Wattstock number two. Um, we're going to look at a study that really supports this
+ in particular title is relationship between different measures of aerobic fitness and
+ repeated sprint ability in elite soccer players of again, Lincoln up in the show notes at
+ empirical cycling.com. So, uh, the intro to this paper is a good read. I think since they look at
+ other similar papers, conflicting results, because we've got a lot of variables. When we look at
+ repeated sprint efforts, sprint protocols, not the same, um, you know, looking for correlations
+ with things like VO two max and stuff. Um, and you know, rest intervals and,
+ there's a thousand things that we can do. Like just look at all the books that have been written
+ on like high intensity training and intermittent kind of effort kind of things. Um, so this paper
+ notes in particular, and I quote, this may not be the most appropriate index talking about VO two
+ max, uh, because VO two max is believed to be determined mainly by central factors. Whereas
+ RSA repeated sprint ability has been more strongly associated with peripheral factors.
+ So muscular metabolism FTP. Uh, so consequently it may be hypothesized that an index of aerobic
+ capacity more strongly associated with peripheral factors, uh, yada, yada is a better metric for
+ repeated sprint ability or a better correlation. Right. And so they want to look at how well
+ repeated sprint ability correlates to OBL, a, our old friend onset of blood lactate accumulation.
+ Um, I know. Okay. It's so easy. It's an easy thing to measure. So why not? Why not measure it?
+ Yeah. Well, I thought that they were going to measure a four millimole. Uh, they actually went
+ for three and a half millimole for some reason. Um, I don't know why. Uh, but for like, like,
+ like I think we mentioned this before a couple of times. Um, if you use it as a population average
+ marker, you're probably going to do fine. Uh, as soon as you start trying to treat individuals with
+ OBL, you're not going to do so fine. So, um, so this paper, you know, while it has this particular
+ flaw, I don't think it really disqualifies it entirely. So let's kind of look through our, uh,
+ our protocol and our results and see what happens. So what did they do? Well, who were they? They had
+ 29 well-trained Brazilian soccer players from two national level teams. So Brazilian soccer,
+ national level teams, these guys are really good. These guys are good. So
+ what they did was seven by 34.2 meter. I don't know why it was that exactly, but 34.2 meter
+ maximal sprint efforts with 25 second recoveries. So the efforts were actually about six ish seconds
+ long. Um, and so they also did a ramp test with running and they determined OBL a velocity and,
+ uh, they also determined VO two max and they use three minute stages. So from the sprints,
+ from the seven sprints they did, they looked at fastest time, mean time and sprint decrement
+ percentage. So like how, what percentage did they sprints fall off with? So it's a simple and a good
+ study, not perfect. Obviously it's not as long as the criterium. Um, if it were a criterium,
+ I would say, I think we would see an even higher correlation here, right?
+ So if you were looking at the paper yourself, uh, you would want to look at tables two, three,
+ and four. And so,
+ across the board, low correlation is between the fastest time and anything else. Uh, and of course,
+ mean time and sprint time decrement percentages should be our biggest things, right? So Kyle,
+ um, I put up in our show notes table two for your viewing pleasure, and I could probably
+ toss this up into this, uh, to the show notes on the website too. So, um, we have fastest time
+ and VO two max velocity of VO two max and velocity of onset of blood lactate accumulation. So we have
+ correlations for fastest time. It's like our highest one is like 0.2. So not great, not great.
+ Yeah. And likewise, you wouldn't expect, like, even if, even if with no, no prompting, you were
+ like, how correlated do you think a fast sprint time would be with VO two max? You're like,
+ not so correlated, like running. You're like, okay, if I gave you a bunch of milers,
+ how well do you think they're like mile time is correlated with their like,
+ a hundred meter time? You're like, well, it's not, it's not going to be completely random,
+ but it's not going to be like, yeah, it's not tight. Yeah. Every mile, every fast miler is
+ also a fast a hundred meter dash or something like that. Yeah. Um, all right. So we have meantime,
+ uh, meantime, uh, correlates as 0.08 to VO two max. So again, not so great. Uh, sprint,
+ sprint decrement 0.39. Not bad.
+ Not bad. Yeah. I mean, you're now you're getting into the, the, the situation where
+ if you think about it a little bit, it does make some sense that if you have a high VO two max,
+ you likely have a higher level of aerobic conditioning for these soccer players. And so
+ the decrement in time should be, or I guess like slowing down as the sprints go on should go,
+ it should be less bad for the people who are more aerobically fit because that greater aerobic fitness
+ will help them recover faster in between efforts. Right. Um, and so, well, we've got kind of an
+ interesting one with velocity of you to max here. Um, because we have a, we have actually a pretty
+ good correlation in our velocities at VO two max, but we're going to tackle that in just a second.
+ Cause that does need a little bit of explaining. Uh, but for velocity at OBL a, uh, fastest time
+ 0.2 correlation, but our meantime is 0.49 and our sprint decrement percentage is 0.54.
+ Hmm. Yeah. So now you're getting into much more well core and keep in mind this,
+ this is not a number between zero and a hundred. This would be a number between zero and one.
+ Yes. Yeah. One is our 100 in this case. Yeah. Um, one would be that definitely, uh, you know,
+ time correlates with the fastest, uh, V O B L a or vice versa. Yeah. Um, and so we actually have
+ a decent correlation with velocity of you to max. Um, in here, uh, we have our sprint decrement
+ percentage as a 0.49 and our meantime as a 0.38. So, um, you know, so okay. Ish. Um, but I think
+ this is explained because when you have a higher OBL a velocity, so a higher quote unquote threshold
+ you're not using your anaerobic stores earlier. And so that way you actually get to, uh, and I think
+ this was, this was our very first VO two max podcast on, uh, um, you know, there's basically
+ no such thing as VO two max power really. Um, and so that's kind of how that gets explained. It's
+ like you hit your threshold a little later in the test, you're going to have a higher velocity at
+ VO two max. So that's why I think that, uh, that has that correlation, but the most telling table,
+ all of this paper is table four. So we have a multiple regression with repeated sprint ability.
+ So our fastest time are squared, um, with repeated sprint ability is 0.78,
+ but our fastest time plus velocity of OBL a is 0.89.
+ Hmm. Yeah. And so keep in mind, our squared is also not a number between zero and a hundred.
+ It says number between zero and one. Yeah.
+ Yeah. So we have a really tight correlation here between, um, you know, we have, we have
+ basically two variables that put together do a lot of explaining about somebody's repeated sprint
+ ability. And so we have 89% of the variance explained by these two variables. So this points
+ to things that we know about fast criterium racers. They have a high sprint and they have
+ a high threshold, right? It's pretty simple. Yes, exactly.
+ And you can imagine if you just think about fast sprints, well, okay, you're, you're going to have
+ generally more spread in your, your sprint times, right? Cause if you have a super fast time and not
+ enough, not enough threshold, then you're, you're going to lose speed as these go on.
+ Right. Chris, your favorite track sprinter. Yeah. Yeah. Yeah. And so,
+ you're just not going to have as tight a correlation because the times will be,
+ we'll have a larger spread, even just with one athlete, let alone a bunch of athletes.
+ Yeah. All right. So, um, all right. So do we have any other learnings from this paper here?
+ Um, cause I think that's, that's, I think that's a pretty good conclusion, but I think also the
+ VO2 max context here is pretty interesting to note because that, you know, it's a central limiter of
+ oxygen supply.
+ But muscularly aerobic training is about utilization of oxygen. And in our case to
+ re to replenish ATP and creatine phosphate. And so when you have
+ better aerobic conditioning, better aerobic training, you can do this better and faster.
+ Yeah. I guess maybe the VO2 max would be interesting if, if you had to recover above
+ threshold where, you know, if they made you sprint and then recover above threshold, but
+ you know, below VO2 max so that the higher your VO2 max was the, the more ceiling you would have
+ or something. I don't, I don't know. I'm now I'm changing the study, but you know.
+ Yeah. Well, we can look at, uh, like heart rate or something, something like that to
+ kind of give us a good idea about that kind of thing. Uh, sometimes, uh, it's not obviously a
+ great correlation, but like when somebody's heart rate is super, super high, um, for a long time,
+ you're supplying oxygen for recovery from efforts. And that's why, like, you can go to a cyclocross
+ race and, you know, slam it for 40 to 60 minutes. And you're going to see a higher heart rate than
+ you can do on any single one hour effort. And that's not in like the Sahara desert.
+ Oh God. Yeah. Awful. Yeah. I also think about that too. Like, like I'll do like a 30 second
+ effort and you're not, you're not breathing that hard at the end of 30 seconds,
+ but 10 seconds after you're done with a 30 second, all effort you're at like ventilatory
+ threshold. You're just like, ah, ah, oh God. At least I am. Cause I'm, you know,
+ not aerobically well. Yeah. Um, all right. So this is a really, really short one. So we're
+ going to look at one more paper here. Um, this is, this is actually about the muscular kinetics
+ of what's happening. So again, link up in the show notes. So, um, this is called the recovery
+ exercise is associated with PCR resynthesis with wild muscle pH and EMG amplitude remain depressed.
+ So, uh, they, this was actually a fairly elaborate paper and they look at a lot more stuff than we're
+ going to be concerned with here. And it's, it's a cool paper. If you're interested in this kind
+ of stuff, if the title sounds interesting, they look at exactly that, uh, pH and EMG amplitude
+ remain depressed, et cetera, et cetera. But they had people do six, uh, sorry,
+ 10 by six second, all out sprints with 30 second recoveries. And then six minute,
+ five second sprints again, and they got biopsies, um, taken at rest before the efforts,
+ after the first set of sprints, and then after the six minutes of recovery before their next
+ set of sprints. So we have 10 by six seconds, six minutes recovery, uh, six by five seconds,
+ uh, something like that. Um, what I said before, I think I got that one wrong. Um,
+ so what they look at in their biopsies is,
+ they're looking at creatine phosphate levels, ATP, and total work done in the sprints and
+ kilojoules. And they compare various measures from sets one and two, but for our purposes,
+ uh, in this paper, you want to look at figure five. They look at phosphocreatine recovery
+ during the first period between the first 10 sprints and the work done for sprint 11.
+ So the first one of the second set and the PCR recovery correlation with the work done during
+ sprint 11 is 0.7, nine high. Yeah. And the correlation for the average, uh, for sprints
+ 11 to 15. So the second set is 0.6, seven also quite high. Yeah. So the authors put a nice bow
+ on it. They, they quote thus, we conclude that much of the inability to produce power output
+ during repeated sprints is mediated by intramuscular fatigue factors, probably related with the control
+ of high energy phosphate metabolism.
+ Mm. So basically how fast you can, how fast you can recover is how much power output you can put
+ out when you get back to putting up power again. Yeah. So that's pretty much what we got for the
+ big science stuff. So let's, um, we could do actually a lot more studies. Like you said,
+ it's been very well studied. Um,
+ but we're going to spare everybody. Um, but let's get into, uh, a little bit of, uh, kind of questions
+ and conclusions we can think about just from this kind of stuff. Um, so why isn't VO2 max going to
+ be the best way to improve a phosphocreatine resynthesis?
+ It, well, it's, it's not VO2 max. Like the, you're not, like I said, it kind of said before,
+ it's not like you're,
+ you're not restricted to only operating at maximal oxygen uptake to restore these systems, especially
+ with the thing, like with a, with a situation like we just described, where you get 30 second
+ recoveries and then a longer period, like six minutes rest where you can just sit and you don't
+ have to exert yourself at all. Or you imagine you're, you're going to race Toad or Intelli or
+ something where you got a bunch of crits. It's not like you have eight crits in a day. You have a long period
+ of time to recover those, those stores when you're at aerobic, relatively low aerobic work rates, right?
+ Like even off days or something like that, the rest of the day after your race, for example, it's not
+ like your body has stopped recovering or something because you're not at the race anymore. Your body's
+ like, oh, we're just going for a walk. Like, no, you're gonna, you know, recover all of that. The,
+ the glycogen and the ATP, um, all the time, not just, yeah. Well, like when you're wearing kit,
+ um, or VO two max, um, it is necessary, but not sufficient for high levels of performance.
+ And so when we think about, uh, VO two max versus something like, uh, you know, peripheral aerobic,
+ uh, conditioning, um, you know, having high VO two max is great. If you're going to do a pursuit,
+ you're going to do like a short running race, like, you know, five to eight minute kind of range,
+ 12 minute, whatever. Um, but as soon as we get to something longer, like a criterium,
+ um, yeah, you need that, uh, that aerobic ability to
+ sustainably regenerate ATP and phosphocreatine. And, um, and, you know, we can actually think
+ about, uh, work rates at like FTP and like TTE, like how long can you sustain that sustainable
+ work rate? We don't have to think about it in terms of power output. Also, we can think about
+ it as an indicator of recovery ability. Like we don't have to turn that ATP directly into
+ work on the pedals again, that ATP, uh,
+ and phosphocreatine that we regenerate can just be recovery from our efforts. Like how fast and how
+ quickly and how easily can we do it? And FTP and TTE and general fatigue resistance. Uh, so, you
+ know, your aerobic ability, your endurance, these are things that are great indicators of repeatability.
+ Yeah. You, one way to think about it too, is like, if you have a very high FTP and you're cruising
+ a lower fraction, you know, at some, some relatively low fraction of FTP, you have a lot
+ of headroom to do the recovering in addition to the sitting in. Yeah. Whereas if you have a relatively
+ low FTP and you're working at a much higher percentage, you don't have a lot of headroom
+ above the effort it's taking just to sit in. Yeah. Well, actually that's something that I've
+ been asked quite commonly is like, Hey, can we improve my ability to ride over FTP?
+ And, you know, if you're doing like in a 40 minute crit, let's say,
+ you're doing 25 minutes over FTP, 30, maybe even 30 minutes, there's not much more ability we can
+ do. And if you could do more, that would be your FTP probably. Cause you would be riding sustainably
+ at that level at 40 minutes. Yeah. 40 minutes. You're like, uh, is that your FTP? Um, okay.
+ So I think another good question that probably will come up from listening to this episode is
+ can we just do, um, endurance training and have good repeated sprint ability?
+ Maybe. Um, I would say probably not because obviously there are a lot of other things that
+ we need to work on, right? Cause we need to be able to generate high power outputs. Of course,
+ we need to, um, we need to have, uh, you know, buffering capacity in our muscles. We have to
+ have, uh, you know, well, the, the short answer is really fatigue is complicated. And so, uh,
+ FTP as well. And with repeated efforts, it gets even more complicated. And so I think it might
+ be interesting, this little factoid that was in the research I was reading, is that the half-life
+ of phosphocreatine resynthesis is 21 to 57 seconds. What's a factor of two between friends?
+ It's a little bit of a range. And so people like you and me, when we do a 30, 40, 50-second effort,
+ we're going to lie on the ground for quite some time. And somebody who's really well aerobically
+ trained is going to be walking around instead. If you look at what was the old Omnium-style
+ format on the track at the Olympics, when people did the kilo, you can do a 101 kilo and you're
+ walking around. You can do a 101 kilo and you're walking around. You can do a 101 kilo and you're
+ walking around. You can do a 101 kilo and you're walking around. You can do a 101 kilo and you're
+ walking around. You can do a 101 kilo and you're walking around. You can do a 101 kilo and you're
+ walking around. You can do a 101 kilo and you're walking around. You can do a 101 kilo and you're
+ walking around afterwards. A pure sprinter who does a 101 kilo is going to be gasping for air
+ for at least 10 minutes, if not 20, and barely able to walk.
+ They're like, maybe not going to make it to the medal, to the podium to stand there. Like,
+ no, no, no. Just leave me here. I'll send someone in my steed. It's fine.
+ Get me a wheelchair. Roll me up.
+ And so as an aside, there is some interesting research that shows that active recovery
+ might actually impede phosphocreatine resynthesis and decrease the time to exhaustion that you can
+ do repeated sprint efforts. Interesting. So you're saying that
+ track sprinters who just sit after every effort have it right?
+ I think so. So after every corner in a criterium, you need to sit down.
+ Great. Get your lawn chair out. I mean, but that's just one of the thoughts here because,
+ right? Because if you are creating muscular work, you are using ATP and that,
+ that will put strain on your phosphocreatine.
+ So it's, it's a, it's a pretty simple thing. Like you do work, ATP levels fall,
+ other things have to fill in. And so now you've got to do double time,
+ like of aerobic resynthesis to have the same power output again. So kind of makes sense.
+ So the thing, the other thing here, high raw power, of course, can still be quite necessary
+ because, you know, the soccer paper has correlation between highest sprint velocity and repeated sprint
+ velocity, but granted it was a short set. So I think it just points to the fact that you'd need
+ balance between the sprint Watts and the aerobic stuff, right?
+ Yes. I think the other thing is like that, that is what was summed up when Andy Coggan
+ retweeted your article. Oh yeah.
+ He said it's, it's still an aerobic sport. Damn it.
+ That was a, that was a big day for me, by the way, wake up and see Andy Coggan
+ tweeting out my, my training peaks article on you're training too hard for criteriums.
+ Um, and I, I, I tweeted like, wow, it's a big day for me. And, um, thanks for sharing or something.
+ And it was like, yeah, it deserves to be shared. I was like, oh my God. Oh, it was, it was,
+ it was actually, it was actually extremely validating for me. Cause I wrote that article.
+ Like I didn't run it from that across anybody. I just wrote it myself based on the research
+ I had done. And I was like, this makes sense to me publish. Um, yeah, that was a scary moment,
+ but it turns out I was right. So, uh, that's nice. Uh, well, according to Andy Coggan, I was right
+ anyway. Um, all right. So last thing, do you need to supplement creatine?
+ Kyle, would you recommend a criterium racer supplement creatine?
+ Not necessarily. Um,
+ if, if they were a, so, so dietary wise, you get some creatine just by eating meat because that's
+ where it's stored in your body. So analogously it's stored in muscle tissue of, of animal
+ proteins. But so if you're, if you're eating meat and you're a crit racer, probably not.
+ If you're like a vegetarian crit racer, then maybe because you're, you're maybe not getting any,
+ whereas if you eat a diet of meat, like you're actually going to get a fairly reasonable daily
+ intake. Yeah. Like, and, and this, this means like, you know, you don't have to even be like a,
+ you know, the carnivore diet guy who like only eats raw meat. What's his name?
+ Oh God. Don't, don't, don't say his name. Let's not give him air time.
+ Okay. Yeah. Like you don't have to be the guy who's only eating raw meat to get like
+ a measurable quantity of creatine daily in your diet. Yeah. Actually, have you ever Googled
+ what kind of meat has the most creatine in it? It's red meat. Is it, that makes sense. I would
+ say, is it liver or red meat? Cause that made no sense to me a while ago because I didn't,
+ I didn't remember, or I didn't know at the time, whatever, whatever the deal was that,
+ um, cause I was like, it's slow twitch stuff. Why would it have creatine? It should be like
+ chicken and like fast twitch muscles, like white meat that should have the most creatine. Um,
+ because it's fast twitch fibers, right? Creatine is for sprinting, right? No, it's the opposite.
+ This is another thing that shows how crucial it is for aerobic stuff is because in red meat
+ and in red muscle, like heart, um, there's a lot of creatine because it is this critical
+ spatial energy buffer. That's really, that's really cool. Or not cool. That's like a fascinating,
+ a good, yeah. Yeah. Fun, fun fact. Yeah. Um, and I would say probably not for most endurance athletes
+ because, um, I don't know, I don't know if you've ever heard of it, but I've heard of it. I've heard
+ the associated water weight gain with phosphoric creatine loading is very high. Um, like I, uh, I'll,
+ I usually, I've been going between taking creatine and not for my lifting whenever it's been safe to
+ go to the gym with COVID and not. Um, and for me, I usually put on anywhere between four and six
+ pounds and some of my athletes who have experimented with creatine loading, um, you know,
+ mountain bikers, crit racers, uh, who are, you know, around 150 pounds or so they'll also gain a
+ about five pounds. Yeah. Yeah. I, I noticed I'll gain about five pounds. Um, and I think one thing
+ though, is if you were considering that, like one, if you are considering supplementing with creatine
+ and you are concerned about weight gain, one thing you can do is not supplement nearly as much. Like
+ if you're a gym bro, bodybuilder or whatever, sprinter, a lot of times they say like five
+ grams a day, which that's, that's a lot, which is a lot. And that's that one of the reasons why they
+ suggest five is because it guarantees you for almost everyone, even a very high muscle mass
+ percentages that that is enough creatine for you to reach saturation levels within a realist
+ reasonable amount of time. Yeah. Whereas if you're 150 pound crit racer, like you may be
+ able to get by on like a gram, a gram and a half a day, not five. And yeah. And we're looking at,
+ of course, remember that we're looking at, uh, muscle quantities of like 20 millimolar. And
+ supplementing creatine might go up to like, I haven't, I didn't look at the numbers, but I'm
+ just guessing it'll be like 22 millimolar, like maybe as high as 25, but I doubt it. Um, it could
+ be wrong. Like I said, I didn't look at the numbers, but it's, it's just a little bit of extra
+ and it doesn't make much sense in terms of, to me, it doesn't make much sense in terms of, um,
+ power output gain. Like I think you're not going to gain enough power relative to the
+ water weight that you're going to put on. Um, right. And if you,
+ if you want more of that power, do some proper anaerobic capacity stuff and you're going to get
+ it. No doubt. Um, cause sometimes like creating the demand on those systems by doing good anaerobic
+ capacity stuff, uh, is going to, um, you know, as long as you've got some creatine in your diet,
+ it's going to increase the resting levels in your muscles and whatever else is doing that may or may
+ not actually be increasing creatine levels. So if you want more power in like the 30, 60 second
+ range, um, rest, do some, do some good training with good power output. Um, which is, it's another
+ feather in the cap of like, there is no, well, there's no legal supplement like this that will
+ give you these, you know, factor of two improvements and stuff like training and like
+ basics. It turns out there aren't, aren't too many shortcuts. Yeah. There's no shortcuts. Um,
+ you might be training too hard for crits because more oxygen supply and more mitochondrial mass
+ and more aerobic enzymes means faster aerobic recovery of both ATP and phosphocreatine, which
+ of course now we know are basically indistinguishable, um, for a lot of our
+ intents and purposes. So there you go. Phosphocreatine. It's not just for sprinting anymore.
+ Happy sprints, everyone. Yeah. Happy sprints. All right, everybody. Thank you for listening
+ as always again, subscribe to the podcast. Uh,
+ check me out on, uh, Instagram at empirical cycling for the weekend AMAs, uh, reach out.
+ If you are interested in coaching or a consultation, uh, we can, uh, answer any
+ questions on training or, uh, endurance training philosophy or, uh, programming or pretty much
+ whatever you want. And, um, we'll be happy to do that for you. So reach out to empirical
+ cycling at gmail.com. And of course we've got all our show notes up on empirical cycling.com.
+ And of course, um, uh, what else didn't we talk about yet? Oh yeah. Donate to the show. We are
+ free. We are ad free. Uh, and of course we've got all our show notes up on empirical cycling.com.
+ Uh, so that would be at, uh, empirical cycling.com slash donate. Uh, this is actually a pretty good
+ month for donations. So thank you everybody for all of those. We'd really appreciate that. Uh,
+ it really goes a long way towards our hosting fees and all sorts of stuff. So, um, also our
+ taco consumption, mostly coffee actually. Um, yeah. So everybody, thanks again for listening.
+ Bye everyone.

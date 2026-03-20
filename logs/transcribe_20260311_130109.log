@@ -1,0 +1,9 @@
+[2026-03-11 13:01:09] === Transcription run started ===
+[2026-03-11 13:01:09] Input dir: episodes/
+[2026-03-11 13:01:09] Output dir: transcripts/
+[2026-03-11 13:01:09] Parallel workers: 8 (4 CPU threads each)
+[2026-03-11 13:01:09] Retranscribe mode: ON
+[2026-03-11 13:01:09] Found 79 audio files
+[2026-03-11 13:11:47] CORRUPTION DETECTED: 1205855287-empiricalcyclingpodcast-ten-minute-tips-18-metrics-are-not-fitness (max 48 consecutive repeated lines at temp=0)
+[2026-03-11 13:13:59] CORRUPTION DETECTED: 1190822572-empiricalcyclingpodcast-ten-minute-tips-16-can-functional-training-get-too-functional (max 79 consecutive repeated lines at temp=0)
+[2026-03-11 13:15:03] CORRUPTION DETECTED: 1216529890-empiricalcyclingpodcast-perspectives-8-why-its-hard-to-rest-with-patrick-rest (max 32 consecutive repeated lines at temp=0)

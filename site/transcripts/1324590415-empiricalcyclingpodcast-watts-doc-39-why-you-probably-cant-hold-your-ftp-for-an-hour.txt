@@ -1,0 +1,1248 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson.
+ Thank you, everybody, for listening as always, and I ask you to please consider subscribing to the podcast if you haven't already,
+ and of course, sharing the podcast with a friend or on a forum or wherever if you think it's helping you out, if you're enjoying our content.
+ Also, giving us a five-star rating and a nice review wherever you listen to podcasts really helps out the podcast also.
+ And also, because we are ad-free, if you want to donate to the show, you can do so at empiricalcycling.com slash donate.
+ We are going to have some show notes up on the website. We'll have a couple links. We'll have a link to the paper that we're going to discuss today.
+ And of course, because we are first and foremost a coaching company, if you have any coaching inquiries, send them to empiricalcycling at gmail.com.
+ You can also send an email to the same place for a consultation where we will answer any questions you want.
+ We can look at your training files. Anonymity is assured if that is something that is important to you.
+ And of course, at the end of the podcast, we are going to answer some questions based on today's topic.
+ And you can ask a question at empiricalcycling on Instagram.
+ And of course, up on the weekend, we have AMAs up in the Instagram story, so give me a follow there.
+ And so now, welcome to an episode that potentially is bearing some bad news, but also good news, but bad news first.
+ So I think based on having seen...
+ Hundreds of people's power data now.
+ My theory, my eyeball average is that most people cannot hold their FTP for an hour.
+ That doesn't make it not your FTP.
+ It just means you cannot hold it for an hour.
+ I don't have any formal stats on this because that would require a lot of, well, punching into an Excel sheet and then hitting, please average this data.
+ So I'm not going to do that, but it looks about 40, 45 minutes.
+ This is the average.
+ Where's Nick Luther when he needs someone to punch in a bunch of data to Excel?
+ Well, he'll get one of his...
+ Shout out to Nick.
+ He'll get one of his interns to actually do the data entry.
+ He'll be the hero that knows the expression for averaging a column.
+ And so today, what we're going to do is we're going to look at a paper that kind of supports my advice.
+ And this is slightly cherry-picking, but I was interested in this paper before I knew about extensive thresholds.
+ So it kind of supports my advice where I say you should always extend your threshold intervals.
+ And so, Kyle, I think that we should probably discuss some context of FTP and TTE here because, you know, I think originally when we started the podcast, we had discussed reviewing, like, training books and stuff like that.
+ And we had discussed some other stuff.
+ But I think what's really...
+ Really, it's going to come down to right now is looking at the origin of, like, published FTP definitions from Training and Racing with a Power Meter.
+ Yeah.
+ And I think most people have probably heard of Training and Racing with a Power Meter.
+ If you haven't, I'd be surprised if you're listening to this podcast.
+ But there are people brand new.
+ So I forget what...
+ When was the first...
+ When was that first published?
+ That was first published in...
+ 2006, I believe.
+ 2006.
+ Okay, yeah.
+ So it...
+ You know, and that makes sense because, you know, early 2000s is when power meters became really available to the general public.
+ Like, remember way back when they were, like, late 90s, early 2000s was like, oh, like, just a thing that a lot of pros had but most people didn't.
+ And then sort of getting into the 2000s is when they became much more available, like, power taps and stuff for mere mortals to possess and to use.
+ So that makes sense.
+ Yeah.
+ But, yeah, that mentions FTP and which is...
+ And that was Andy Coggin and Hunter Allen.
+ But, yeah, I think we've talked...
+ We mentioned this before.
+ It's a little confusing because literally, like, a couple pages apart, they give you two different definitions of what FTP is.
+ Yeah, well, two slightly different definitions because on, you know, to quote...
+ You know, the...
+ I can tell the Andy Coggin writing is FTP is the highest power that a rider can maintain and is in a quasi-steady state for approximately one hour without fatiguing.
+ Emphasis on approximately.
+ One page later, method number four for FTP determination is, quote,
+ Since, by definition, the best measure of performance is performance itself.
+ That's another Cogginism right there.
+ The most direct...
+ The most direct estimate of your FTP will be obtained by simply doing a one-hour time trial.
+ And so, approximately one hour, one hour.
+ Okay, now we've got...
+ We're really drilling hard into the one-hour thing already.
+ And then, you know, that was from the second edition from 2010, first, probably 2006.
+ And so, you know, I don't think that they did themselves...
+ They didn't do themselves any favors for the future.
+ And I looked at the third edition, which I also have, has the exact same wording.
+ I'm sure deeper in the book, because I know the book, I've just, like, leafed through it.
+ But I know the book gets more into, like, WKO4 or 5 and, like, you know, that kind of modeling and stuff.
+ And I'm sure that they've got TTE in there somewhere.
+ But this is, I think, where the popular, you know, one-hour equals FTP thing comes from.
+ And I glanced at a couple of the listener questions.
+ That we're going to have later.
+ And this is one of those things where a couple people are asking about, like, the one-hour thing, right?
+ Yeah.
+ And I think even beyond that, it's entered into the cultural lore of cycling and cycling training that FTP is an hour.
+ Like, I pulled up this, like, if you Google, you go to Google and you type in Joe Friel FTP, people probably know Friel because he wrote the Cyclist Training Bible.
+ Which, for the most part, doesn't, the original versions don't necessarily talk about power too much because they're older and didn't have as much access to power meters.
+ But if you just Google, like, oh, Joe Friel, he knows what he's talking about, right?
+ Joe Friel FTP, one of the first articles that comes up is this blog from 2015 from Training Peaks website where he says,
+ Functional threshold power is defined as the greatest mean maximal power you can currently produce for one hour.
+ Cool. All right.
+ So, and then, like, later on he says, so how do you measure FTP, which is a follow-up to this, since the best measure of performance is performance itself.
+ Friel goes against exactly what Coggin suggests here and says, even though it's the highest power you can sustain for an hour, it's not a good idea to do a one-hour time trial as a workout.
+ I mean, it depends on how hard you do the time trial, I suppose.
+ But it was just...
+ Yeah, sorry.
+ It's just interesting that you have these two people who are sort of held on, I would say, generally high regard for, like, cycling training.
+ And you can pull these two things written fairly contemporary, you know, contemporarily with each other.
+ And they say two essentially completely different things.
+ Yeah, and so, you know, and...
+ I think behind that, a lot of the, like, oh, don't do a one-hour time trial as a workout is, like, the first one is people always say, like, oh, motivation, you know, you're not going to be motivated.
+ And, like, Friel goes hard into that logic of, like, you won't be motivated, but maybe a one-hour race would be good.
+ But there aren't that many one-hour races, and there aren't a ton of local 40-kilometer time trials.
+ So, you can't do that.
+ You should do a 20-minute test.
+ No, it's good to do the 20-minute test.
+ Well, and that's part of Andy Coggin's, like, you know, methods of FTP testing.
+ And what's interesting is, like, you can estimate it from these various things.
+ And, you know, there's a thousand things.
+ And I remember just from memory, I'm not reading it here, is that I don't know if it's in the list or if it was from, like, one of his old blog posts or something.
+ But he talks about, like, using a ramp test to be...
+ He's, like, the population average is about 70%, 75% of whatever from the end of the ramp test.
+ So, that's a place to start looking.
+ It's not the average.
+ It's not where you're at.
+ It's the place to start.
+ It's, like...
+ And so, you know, you're gathering data along the way.
+ And I think one of the things that I think should be leaned into harder is with this definition thing is because in Trading and Racing with a Power Meter, I read a sentence where I was, like, oh, my God, I've been saying this for years.
+ I don't know if I got it from here because I thought I came up with it on my own.
+ Maybe, you know, mediocre minds, blah, blah, blah.
+ But, like, you know, he says that FTP is...
+ It's the point at which over it you fatigue faster and under it you fatigue slower.
+ And I read that and I was, like, I don't know why that isn't being, like, said a thousand times because you can look at a power curve and you can see that point.
+ Like, visually, you can go, oh, there it is.
+ Got it.
+ And I think...
+ Well, all these other ways to measure it.
+ Like, if you use critical power, not everybody's critical power is going to match up with their disinflection point even though it's trying to find the inflection point.
+ And, like, one hour is going to be...
+ For most people, lower than this inflection point.
+ And so, you know, for some people, significantly lower.
+ Some people, it is not going to be that much lower.
+ And so, I think...
+ Because, you know, my personal standard has always been what's going to work the best for everybody.
+ And, you know, when we start throwing hard definitions around, like, FTP equals 60 minutes, then we can really start to cause problems.
+ See, but I think the hard definition of 60 minutes is very easy to remember.
+ And so, people probably really like that.
+ You know, like, 60 minutes, oh, it's an hour.
+ Like, that's easy to remember.
+ It makes sense, kind of, if you feel like, oh, this is just this thing we're defining.
+ Oh, this is what you can do for an hour.
+ And then we're going to base things off of that.
+ You know, like, if you think about it deeper, like, there is nothing special about an hour.
+ Like, it's special only because of the way we, as a society, have decided to define time.
+ But there's no, like, there's nothing universally special about 60 minutes.
+ Like, that could be, you know, if we picked a different definition of minutes or whatever, like, that would be a different amount of time.
+ We're changing the units.
+ Yeah, like, right, there's nothing really special.
+ So, I think that, you know, that lasts.
+ Well, you said this in our very first podcast.
+ You said there's nothing special to 60 minutes.
+ I think the quote is, what is special about 60 minutes?
+ So, the human body.
+ Right, yeah, yeah, yeah.
+ No, that makes sense.
+ Like, but it's a nice, easy, memorable thing, which is why I think, you know, especially for a sport where cycling, a lot of times you don't get a lot of quantifiable results.
+ Like, who won the race?
+ Okay, this is what they won.
+ What was the winning time for the crit?
+ Who cares?
+ You know, like, if you're track and field or swimming or, you know, other running, like, road races, things like that, like, you get these nice quantifiable numbers.
+ But in cycling, you don't get very many.
+ So, I think that's why the 60 minutes sits, like, sticks so well.
+ It's like, oh, finally, I know a concrete number for something, and it's 60 minutes, even though it's like, eh, that doesn't really make a lot of sense.
+ Like, you know, it's just as arbitrary as a week, right?
+ Like, why do we have weeks?
+ Like, seven days?
+ Like, that's, I mean, I know there's, like, this whole psychology behind seven and stuff like that, but it's just not, it's not really anything different.
+ Like, your body doesn't have this, like.
+ Quartz movement in it where it's, like, counting what 60 minutes is.
+ It'd be cool if it did.
+ But, yeah, the idea that 60 minutes is this magical number.
+ And really, if you think about a lot of other things about the human body, it being exactly 60 minutes for everyone is kind of silly.
+ It's like saying that, like, everyone should have exactly the same core body temperature when it's, like, no, on average, it's 98.6 or whatever.
+ But, like, that means, you know, that'd be, like.
+ Being upset if I, like, took your temperature right now and it wasn't exactly 98.6.
+ You're like, well.
+ That's Fahrenheit for the euros, by the way.
+ Yeah.
+ It's about 38 Celsius, I think.
+ Well, I think it's interesting to think about how they, I don't want to say they had to, like, walk it back.
+ But when they released the TTE metric in WKO4 in 2015.
+ I think that they had an uphill battle.
+ Because I remember Andy Coggin was part of that rollout.
+ And I remember he fielded a lot of one-hour questions.
+ I imagine he's pretty fucking tired of it by this point.
+ That's why he keeps deleting all of his tweets.
+ I know people with tweet notifications for him.
+ And apparently he's not tweeted in some time.
+ I keep asking, hey, did he say anything?
+ Yeah, he's prone to very definitive statements sometimes.
+ And I appreciate that.
+ It's fun.
+ Probably why our podcast is not so popular, because everything depends.
+ Sorry.
+ Anyway, so I remember that, because I think the highest value I've seen for a TTE is, like, realistically tested has been about 83 minutes.
+ I remember at one point I had three clients with a TTE over 80 minutes.
+ And I was like, wow, this is great.
+ And then we did some confirmation testing above and below and whatnot.
+ And yeah, like, verified.
+ Got it.
+ And I think it was interesting to see that happen and to see the kind of training that we did to get them there.
+ And between that and I think everything that everybody's talking about with an hour, and especially, like, with the hour record and everything.
+ Like, oh, somebody could just go ride the FTP for an hour.
+ And, you know, because you and I had also discussed a little bit, we're thinking about doing a 10-minute tips on the obvious way to know that, you know, the 20-minute test is wrong.
+ And, you know, these FTP tests are wrong.
+ Because, you know, calling something wrong gets a lot of clicks.
+ I know, I know.
+ We're going to lean into it once in a while.
+ But it's basically like, you know, if you use the critical power model simply, and you assume that your FTP equals your critical power model.
+ Like, everybody's got a different work rate over a threshold.
+ And so 20-minute power is going to be a varying range for people.
+ And so I think once you get there, because I remember my very first coach telling me, you could go do an hour time trial to, like, find out your FTP.
+ But he was like, but you're going to fuck up your training for weeks after that.
+ And I was like, oh, am I?
+ And that stuck with me longer than I would like to admit that it did.
+ And now I'm thinking, oh, it's because, well, I mean, now, but also, like, the last couple of years, I'm thinking, oh, yeah, it's because people's TTE isn't long enough.
+ And I think that the kind of metabolic implications of TTE, and not only that, but I think, you know, if you've been following along with the metabolism series so far, I think we're actually in a pretty good spot.
+ Because this is one of the very last episodes I wanted to do in the series.
+ And so, because I think now that people have heard a couple episodes on, you know, the varying decoupling points along the way between, like, lactate and fat and the Krebs cycle and the electron transport chain, and having that level of understanding and kind of seeing how the body might select fuel sources and stuff like that, like, now that we've got all that under our belt, it's not going to be such a stretch to kind of understand the implications in this paper.
+ So, and this is the paper, I think I was reading this, or rereading it, because I've read it, like, I don't know, 10 or 20 times now.
+ I think I was rereading this a couple of years ago.
+ And this, I believe, was the paper that got me the idea to start the podcast.
+ Because I think I said to you, it would be cool to, like, break down a paper, like, live tweet it or something.
+ And then it was like, well, why don't we just talk about it?
+ Why don't we just talk about it?
+ Why don't we just break it down while we discuss?
+ And so that's kind of, I think this paper was it.
+ And this is, you know, where the podcast came from.
+ So I think it's cool to include it now.
+ And I think, I'm glad that we didn't do it earlier, because I don't think we would have done a very good job of it.
+ We would have had to do a Redux episode.
+ So this paper is from Veronique Bilat.
+ I'm sure I'm butchering that correctly.
+ The training is called, sorry, the paper is called,
+ Training Effective,
+ Training Effect on Performance, Substrate Balance, and Blood Lactate Concentration at the Maximal Lactate Steady State in Master Endurance Runners.
+ So the intro to this paper, by the way, is one of my favorite ever.
+ And she notes some really good points that the study addresses.
+ And I had to stop myself from just, like, reading the whole intro on the podcast.
+ Go read it.
+ It's worth your time.
+ Like, things like, quote,
+ the limiting factors of exhaustion at MLSSV are still unknown.
+ MLSSV, so they're looking at maximal lactate steady state, basically FTP.
+ Velocity, because they're talking about runners, so they're looking at velocity rather than power, because they're not measuring power.
+ So velocity, they're doing it on a track.
+ So, you know, basic equivalence, blah, blah, blah.
+ To continue,
+ indeed, substrate utilization of this exercise intensity is not well investigated.
+ It is also not clear whether MLSSV,
+ MLSSV corresponds to the speed at which the RER is about one.
+ That's all carbs.
+ MLSSV does not indicate a given workload,
+ but rather an exercise intensity above which metabolism changes qualitatively.
+ So I think at this point, everybody kind of gets where this is going.
+ I mean, do you have any predictions, Kyle?
+ Because you haven't seen these notes yet.
+ I don't think you've read this paper.
+ Yeah.
+ Well, I mean, so above which you fatigue faster, like you fatigue faster for metabolism reasons, right?
+ It's not because you, like, your body is like, oh, no, I just, you know, I have, I'm like a battery and I've just, I've maxed out my battery.
+ And I'm like, that's not how it works or, you know, so.
+ Well, fatigue is complicated.
+ And that's, that's actually part of what we're going to talk about is like, because, well, that's going to be tangential to our discussion here.
+ But really like the,
+ the mechanisms of fatigue are complex.
+ Like one of the, I've read a long, long,
+ it was like a 50 or 60 page review article on fatigue and it dealt with stuff that's over threshold because that's so much more well investigated.
+ And they just say like under threshold, you run out of glycogen, end of story.
+ And I mean, technically you don't fully run out of glycogen.
+ Like, you know, you might be at like 40 or 30 or 20% of your stores or something like that.
+ But you know,
+ it also depends on where you measure and there's a thousand things of which glycogen compartment is my first question too.
+ So we'll talk about that in another podcast anyway.
+ So anyway,
+ but the authors also make a couple interesting points in the intro and I'm going to just finish quoting real quick here.
+ MLSSW.
+ So the work rate at FTP or power output basically is determined by the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ So the ability to maintain ATP supply and by the products of glycolysis that may live in the body.
+ Yeah, in terms of, like, it's almost as good.
+ Okay, and so they also note MLSSW, FTP, is sensitive to endurance training,
+ both in the absolute sense of VO2max and the relative sense where FTP is a percentage of VO2max.
+ But one of the cool things is they speculate about substrate utilization.
+ Because they, you know, they're talking about endurance training seems to yield higher fat oxidation rates.
+ At the same absolute intensity.
+ But, you know, this paper was from the, you know, early mid-2000s.
+ And they weren't sure at the time about higher intensities.
+ And they're also not sure of the effect of FTP training on the absolute or relative effects here.
+ In other words, if endurance training means burning more fat at 150 watts,
+ but because it's because the FTP went from 200 to 250 watts, right?
+ Is this due to FTP being higher?
+ Or is it because it's at a lower percentage of FTP?
+ Or is it, like, if you do the same relative percentage, has the substrate use changed?
+ And if it's both, or one or the other, how much is due to one?
+ How much is due to the other?
+ How much is it, like, endurance training is allowing you to burn more fat at a certain low intensity?
+ And most studies that I've seen so far don't really...
+ They don't really last long enough.
+ The experimental protocols don't last long enough to actually investigate this.
+ I'm not sure I've seen one.
+ If somebody's seen one, let me know.
+ Send it to me.
+ EmpiricCycling at gmail.com.
+ I'm very interested.
+ I also have not done that hard, but anyway.
+ Sorry.
+ Yep.
+ That's not so surprising, given how long some of these studies would have to be.
+ And, like, studies already sometimes kind of take a long time.
+ And, like, the longer a study goes on for, like, the fewer people volunteer for it.
+ It gets harder and harder.
+ Like, oh, can we follow around and stab you while you ride your bike for a year and a half?
+ Does that sound good for you?
+ Like, we're going to stab you in the leg once a month for a year and a half.
+ Does that sound fun?
+ You know?
+ Yeah.
+ Yeah.
+ We're going to take core samples.
+ We're going to prick your earlobes and your fingertips.
+ And we're going to really just be invasive on your training schedule.
+ But otherwise, besides our procedure, we want you to train as normal while getting stabbed.
+ Yeah.
+ Prodded and poked.
+ Anyway, so, actually, speaking of previous studies, this study, like, the authors also
+ note that results of the previous studies are usually reported as a percentage of VO2 max.
+ And that is, especially the papers I've read, one of the big reasons I have chosen not to,
+ you know, include a whole lot of papers on the podcast is because it makes the results
+ very, very difficult.
+ to interpret. Um, cause as we saw in some of the, uh, you know, some of the breakdowns of, um,
+ you know, the, the coil and Coggin and, you know, several other authors, I forget, uh, paper. Um,
+ what is it? The determinants of endurance and well-trained cyclists. Um, they, you know,
+ they reported quite a large range of FTP relative to VO two max. It was like, you know, it was like
+ 60% up to like 85 or something like that. It's a huge range. Yeah. It was, it was quite a range.
+ Yeah. Yeah. Um, so the, anyway, the purpose of this particular study is to determine the effect
+ of MLSS training, FTP training on time to exhaustion at MLSS and look at any possible
+ changes in substrate utilization. So are they burning all carbs? Are they burning all fats?
+ Uh, are they burning more fats? Is it, you know, at lower intensities, higher intensities,
+ et cetera, et cetera. So the test group was 11 masters runners and they're 43 to 51 years old
+ VO two max of about 55. Um, they are well-trained long distance specialists, half marathon average,
+ 83 minutes, which by the Daniel's running table translates to a sub three hour marathon.
+ Damn. So these are pretty quick old men. Um, yeah, I would say for masters too,
+ like, Holy shit. Right. So 11 months a year, uh, their training, um, for the last 10 years
+ was five times a week and they were only doing long, slow distance runs at an average of 65
+ minutes. Like that's it. It's like, imagine, imagine you're going out and you're doing like,
+ uh, you know, a one and a half to three hour ride at endurance every day. Yeah. Like five to six
+ days a week for 10 years. And other than that, you race.
+ Um, so that is the test group that we're starting with and the same, you know, there's, there's some,
+ you know, questions about, you know, cycling, running crossover here, but, um, so the, the,
+ the numbers that we're going to see in the runners are a little different from what we
+ would expect in cyclists, but not by much. So, uh, we can actually take this as a really,
+ really good, uh, test case for us. Um, so their protocol,
+ uh,
+ in the paper is actually a little unwieldy and it took me a lot of reads to really fully
+ understand it also because my reading comprehension is just not that good to start with. I'm a slow
+ reader. So, um, I had a lot of trouble with this, but, um, if you're a smart, good reader,
+ you'll probably be okay, even though it might be still a little challenging. So here's, um,
+ my summary of their tests on three different days. They did, uh, and this is another reason it's
+ difficult to recruit subjects because the testing protocol and the two days before the testing
+ protocol are regimented. So now you've got to sacrifice five days of your week. You got to be
+ at the track at this time. You've got to eat what they tell you, et cetera, et cetera. So day one
+ is a ramp test. It's a step test, uh, on the track to begin, to begin determining MLSS velocity and
+ VO2 max velocity. And that's how they're going to base the training. And, uh, they actually have,
+ when they decide the training at these velocities, they have somebody,
+ going alongside you, making sure you're at the right pace. Um,
+ how do I get that job? That person like riding like an electric bike. Yeah. They're literally
+ riding a bicycle. Um, and so the stage speed was based off their PB 10 kilometer time,
+ uh, which a previous study had reported around 92% of you to max. But what's cool about this
+ by the Daniel's running formula, 10 K time should be in the 37 minute range based on their half
+ marathon.
+ So that's about perfect for FTP determination. Right. But you know, we would expect 92% VO2 max
+ might be a little high for FTP. And what we find is that their FTP, uh, TTE is actually a little
+ bit longer. So, um, and that's what I expected. That was my prediction. Uh, first time reading
+ this paper was, Oh, I bet they're going to find VO2 max, uh, FTP, uh, like 85% of VO2 max,
+ something like that. And about a 45 minute TTE, something like that.
+ Um, so the stages for the ramp test were six minutes at 50, 60, 70%, uh, and then three minutes
+ at 80, 85, 90, 95, a hundred percent of their estimated VO2 max, and then a 30 second rest
+ and draw a blood sample. Uh, they did three efforts the next day on track to determine
+ their velocity at MLSS. This is my favorite part of the study. Honestly, it is 15 minute warmup at
+ 80% of estimated MLSS.
+ You almost never see a half decent warmup in these studies. So grateful for this. Um,
+ cause normally, you know, when you look at a ramp test warmup, uh, for cycling, it's like
+ the subject spun for five minutes at 50 Watts to warm up. It's like,
+ all right. So somebody had a 400 watt FTP could do this with their like pinky toe.
+ Um, no problem. So then they did 20 minute runs, um, at five,
+ five percent below at, and 5% above their estimated MLSS with a 40 minute rest.
+ Ah, I like that too. Yes. Plenty of rest. So good. Um, and the MLSS determination method, uh,
+ is a little odd to determine. Um, they've got a chart on it. They've got a little graph showing
+ they did this, that, and the other thing. Um, anyway, but basically they, by the procedure,
+ they got it, um, by the best of my estimation. So then the following day they did a MLSS V.
+ So, uh, they ran at their velocity of maximum like a steady state once to exhaustion. So,
+ um, they all went for an hour, right? That's exactly. Yeah. Um,
+ so what are the pre-training stats that we're going to care about? So based on,
+ what they're investigating and what we care about, we care about where's their MLSS,
+ what's the percentage of VO2 max. So what's their fractional utilization
+ or the FU as I have it labeled into, um, what's the VO2 max, what is their RER,
+ the percentage of carb and fat use. And of course, most importantly, what's their TTE.
+ So the training intervention is they did their first threshold block of their whole lives
+ at the tender age of 40 something to 50 something.
+ Um, so they did two days per week, by the way, if you've never done a threshold block and you want
+ to see what it's like, do this protocol. They did two days per week. And other than these two days,
+ they did the same running schedule that they had before. And, and their threshold, uh, their
+ threshold training runs were supervised by somebody on a bicycle. Um, so the subject started
+ with 30 minutes time in zone and went up to 60 minutes over 60 minutes. So that's, that's, that's
+ six weeks. So session one, they split into three efforts for the first session of the week. Yeah.
+ Three efforts and session two, two efforts. So the first day, three by 10 second day, two by 15
+ second week, they did the first day as three by 12, then two by 18, et cetera, et cetera,
+ et cetera, all the way up to three by 20 and two by 30 in week six. And they did five minutes,
+ easy jogging between sets. These are what I call extensive FTEs.
+ FTP efforts. And that's not my terminology. Thank you, Tim Cusick. That's extensive threshold work.
+ I think it's funny because you always get people who ask like, Oh, how, how should I progress?
+ You know, when I started with two by 20 or whatever, like, how do I progress? And you're
+ like, I don't know. You just add time. Like, and you just, you just do slightly more the next time.
+ Like I, uh, you know, and then like, as people pointed out before too, like it's nice when every
+ effort is the same energy.
+ Interval is the same amount of time, but if you wanted to do two by 10 and the third one is a 12
+ or something, cause that's how you want to increment your time. Like that's fine too. Like,
+ you know, like, you're like, I don't know, just add time.
+ Yeah. There's, there's no wrong way to do it. And actually that's one of the questions that we got
+ for the listener questions. Um, the ones I was looking ahead to, so, um, we're going to talk
+ about, you know, what should it feel like and how should you progress and all that kind of stuff.
+ But basically like, if you're looking for a template to start with, feel free to modify it,
+ this is a really good way to start. Like you really cannot go wrong.
+ It's pretty similar. Didn't Tim have that slide of like,
+ you know, suggest a suggested progression or whatever. It's basically this.
+ Yeah. But Tim also works a lot with professional athletes, uh, who are writing a ton of volume.
+ And we're going to talk about the contribution of volume to this too later. Basically the prep,
+ the, the, the preview is volume really supports extensive TTE work like a lot. Um,
+ and so, uh, anyway, so let's move on with this before we get too deep into that. Cause we could
+ really go down that tangent pretty deep if we wanted to. Um, not that anybody listening to
+ the podcast would be, well, they would all be surprised, wouldn't they? Um, so, all right.
+ So what are our pre and post metrics? The MLSS as a percentage of VO two max is 85%
+ plus or minus four. So that's a very likely skew of course. Uh, what is that? That's two,
+ the, um, left. So that would be a negative skew. Anyway, uh, it's skewing downwards towards the
+ lower percentages. Um, and that stayed about the same pre and post their absolute VO two max
+ had a slight increase of 3.82 liters a minute to 3.96 liters a minute. I would tell you the relative,
+ but they also lost like a kilo of weight. So the relative, you know, went up a little bit,
+ but went up a lot. Yeah. Um, that's not what we're concerned about.
+ Um, basically it just about stayed the same, uh, TTE average before the study,
+ 45 minutes, standard deviation, 10 minutes after the study, 63 minutes.
+ That's a lot. Yeah. Standard deviation 12. Um, so the spread, no, but that's a, that's a big
+ increase. It is a very big increase. It's a really nice one. So they went from covering
+ 10.4 kilometers on the track for test day to,
+ 15.7. And so, yeah. And you know, uh, uh, hold on one sec. I go, I'm going to make a note later
+ because we need to talk about this in terms of time trials because, um, I think a lot, a lot of
+ time trialists are like, why do we do all this volume? Well, here's a podcast about one of the
+ just remind people, these people were already doing a bunch of volume and during this inner
+ intervention, you know, they kept all of their, yeah, they'd done a ton of volume and then they
+ kept the rest of it too. Right. Like they were doing this two days a week, but the other three
+ days a week they were doing their long, slow hour, long jogs basically. Yeah. Like they really liked
+ long jogs a lot. Yeah. Average an hour. Um, so, um, and so the RAR, their respiratory exchange
+ ratio of O2 to CO2, uh, went from about 0.93 or 80% carb use to 0.93, 80% carb use. But there's an
+ asterisk here because, um, well, before you ask me about, you know, standardized meals or anything
+ because this affects RAR, um, the meals, and this is another reason people don't sign up for studies
+ meals before each measured trial. So dinner the night before and the breakfast the morning of
+ were standardized 57% carbohydrates, 28% fat, 15% protein, 3000 kilojoule dinner the night before
+ 2300 kilojoule breakfast, three hours before testing and a rest day before testing. So
+ there you go. Um, uh, so anyway,
+ figure five of this paper, um, I will try to remember to put it up in the show notes.
+ There's a really cool inverse correlation of R squared of 0.69. Nice. That the blood
+ lactate concentration in the 10th minute of the TTE test actually predicted the TTE.
+ So let's say that again. Uh, if we had a pretty strong correlation that the blood lactate in the
+ 10th minute, so you start and then in minute 10, they test your blood lactate.
+ This blood lactate concentration has a, uh, fairly tight R squared that it's actually going to
+ predict your TTE. Kyle, I'm going to put you on the spot. Why would this be that, um, that a lower
+ lactate level 10 minutes in might, uh, show a longer TTE?
+ Uh, is it because you're able to do something that means you're able to do something with all
+ the extra lactate?
+ That you're producing. So you are going to fatigue slower.
+ Um, it's not only that, but it would be, um, actually I'm gonna pull the paper up cause I
+ forgot what figure five looks like. Yes. Um, yeah. Lower blood lactate concentrations
+ yield a longer TTE. I was just confirming that cause they did not put that in our notes.
+ Um, yeah. Uh, basically oxidizing lactate is energy, right?
+ You get out of, if you know, if you just make a lactate, you get two ATP, but if you throw that
+ lactate all the way through the Krebs cycle, you get 34 ATP. So that's a pretty good deal. Um,
+ and so with higher lactate values, not only does this mean less, less oxidation of lactate itself,
+ but it also means that if you're not getting this energy from the lactate, you have to use more
+ glycogen because you, because otherwise,
+ like you need, you need the ATP, where are you going to go? What are you going to get? Um,
+ and so here's a question is what kind of factors would contribute? Now we're going a little off
+ the paper. So they don't talk about this stuff, but less mitochondrial density, less efficiency.
+ So less ability to turn O2 into direct kilojoules of work, lower capillary density, all this kind
+ of stuff that we associate with really good endurance athletes. So this is just the kind
+ of stuff that we would see with endurance training. So this is just the kind of stuff that we would
+ see with endurance training. So, uh, we're getting ahead of ourselves though. Um, and so, yeah, so
+ like the less than lactate oxidation means you're going to dig, dig deeper into your glycogen stores.
+ And not only that, but it means you're going to get into your larger motor units sooner. And also
+ if there are any associated byproducts associated with this kind of thing with, you know, going
+ through your, uh, with your glycogen stores more, um, this also contributes, um, because the fatigue
+ is complex in origin, right? So what happens if you have like, um, if you have some sort of, um,
+ like if you have a motor neuron condition and you cannot generate a large enough signal to get into
+ larger motor units, that's another way to fatigue too. Right. Um, and so in healthy people, assuming
+ we can get into larger motor units, yada, yada, yada. And we actually, we talked about that in
+ a podcast, like was it watch stock number nine or 10 or something like that? Um, yeah, something
+ like that. I forget. Yeah. Anyway. So it was, that was, was the one about strength
+ training. Um, so the second big finding here, uh, and this is the asterisk for the above,
+ um, where I said that carb usage did not change the average,
+ but in figure four, we see a strong inverse relationship between the percentage of
+ carbohydrate used at 10 minutes before exhaustion and the TTE test. Um, and, uh, the TTE. So the
+ longer your TTE, the less carbohydrates you're using. So the question is like,
+ how is this different from the average? So Kyle, how can we get the same average,
+ but have this pattern emerge? It just means that the people who were, who had longer TTEs
+ to start with, they got longer, they got relatively longer than the people who had shorter TTEs
+ got longer. Yeah. It's like,
+ it's like you can, you can get this pattern, this negative correlation, um, and have the
+ same average, but without it's, it's sort of like you can have, you can have a same
+ average of like a left skewed and a right skewed distribution with the same average
+ and the same standard deviation, but they have two different patterns, right? Yeah.
+ Yeah. It's one of the reasons why just going off of mean is not always the correct way.
+ Like that's the reason why, like, like for example, the mean for these things might be the same, but the median might be
+ different or the mode. And then like you said, skewness or like the standard deviation size,
+ if you saw the standard deviation was actually bigger for TTE after the intervention than before
+ and things like that. So that's why these, these sort of higher order statistics come into play
+ for all sorts of things. Right. Um, and so Kyle, I have actually included figure four in our notes.
+ So feast your eyes. Um, and the caption here, by the way, uh, relationship between the percentage
+ of the energy derived from carbohydrates during the extensive run at MLSSV.
+ And the corresponding time to exhaustion at MLSSV after six weeks, weeks of training at MLSSV.
+ So we see our longest, um, TTEs here at 80 minutes that tracks with what I've seen in my experience.
+ And these two values are at about 72 and 74, 75% carbohydrate usage.
+ Yep. Um, and the R square is 0.517, but we have an outlier at 65 minutes. This person's at 90%
+ and somebody else very close to the actual, uh, the other trend is at like 78%.
+ 8%. Yeah. Yeah. So poor, poor guy. Just,
+ yeah, just, just, just so many carbs. This guy is so many carbs for breakfast. Um,
+ and every meal, uh, I hope. Um, so I think this is, it's worth discussing how and why this kind
+ of thing occurs. Uh, and this is one of the reasons that this is, we're talking about this at the end
+ of the metabolism series. Um, probably do maybe one or two more episodes before we move on to
+ something else. Cause I'm getting metabolism series fatigue at this point. Um, so what is
+ your fatigue going out long? I mean, honestly, after, after, uh, the first couple of years
+ of the podcast, I think it has. Um, so I think that what's happening here, uh, it's related to
+ what we discussed with carnitine and watch stock 33. So carnitine helps,
+ transport long chain fatty acids, which are too big to freely diffuse across the mitochondrial
+ membrane. And once they're in there, they can get oxidized. Um, no problem. They can get turned
+ into acetyl CoA and you can grab NADH and FADH2 from each two carbon moiety that you pluck off.
+ That's cool. Um, but at higher rates of Krebs cycle flux, so generating lots and lots of reducing
+ equivalents for the electron transport chain, there can be insufficient acetyl CoA around. And
+ so that's what's happening here. So carnitine actually grabs the, uh, the, uh, um, acetyl group
+ and frees up coenzyme a, which can go back to helping with, um, the, uh, large lactate flux.
+ So that's basically what happens. Um, and this decreases the longer chain fatty acid transport
+ into the mitochondria, but there are two points here. First, um, this type of training is
+ supposed to, um, you know, alleviate some of these kinds of pressures that we have
+ in cellular metabolism. So we have a pressure, which is there's not enough carnitine.
+ You train, you add time and zone. One of the things you expect to do is add larger carnitine
+ stores because this is going to alleviate the pressure. One of the things you're going to do
+ for like one of the basic things that we do in training, right? Is we ride a lot and we expect
+ to develop more mitochondrial mass. What happens with mitochondrial mass?
+ It allows us to do more aerobic ATP production to alleviate the, the, the pressure of needing
+ more ATP. And it's some kind of sustainable manner from all this writing that we're doing
+ for some reason, right? Anyway, so, so the body is smart and it wants to not use its finite
+ resources. Um, obviously, so that means we want to use more fats. So the second thing here,
+ like we've talked about several times before is shorter,
+ gain fatty acids like our octanoate can diffuse freely into the mitochondria and get broken down
+ and enter the Krebs cycle too. Um, and so I think it's important here because, um, typically people
+ think, uh, well, people, um, this is the very general people out there. Um, anyway, so a lot
+ of the, uh, training resources I've seen, a lot of people I've heard discuss this consider
+ threshold to be at a hundred percent carbohydrate usage because right. We're supposed to be
+ going through more carbohydrates and creating a lot more lactate than we can oxidize. And so of
+ course we must be using a hundred percent of our oxidation capacity to combust the lactate, right?
+ No, that is not what happens. There is numerous examples in the literature of less than a hundred
+ percent carbohydrate use usage at threshold. And this is one of them. Yeah. And it's come up before
+ on the podcast too. Many times. Um, and so, um, cause you know, this is one of those decoupling
+ that we've discussed, which is like at this point, once you get to the Krebs cycle, it doesn't matter
+ where it came from. What matters is the step four. And it doesn't matter that we're at a hundred
+ percent oxidative capacity sustainably or not, or below it or above it. There's a lot of different
+ ways that we can affect fuel usage. And I've got, um, you know, I've got RER data from
+ RAM tests and all sorts of stuff where, you know, somebody is at like 0.8 RER threshold. That's like,
+ you know, that's only like a third carbohydrate usage. Uh, granted this person was doing keto and
+ fasted, but you know, it, it, it, it matters. Um, what, you know, all this kind of stuff that's
+ happening. So anyway, um, so when the authors talk about this thing, um, they are, um, they,
+ they, they, they, they, they, they, they, they, they, they, they, they, they, they, they, they, they,
+ they, they, they, they, they, they, they, they, they, they, they, they, they, they, they, they,
+ was actually not decreased, but it was actually increased. Right. So why would this be Kyle?
+ Because they have a higher work tire, absolute work output. Yes. That's why. So if they're,
+ if it's approximately the same proportion, that means, you know, if, if, if we're like using,
+ let's say 80% carbohydrates at 200 Watts, and then we use 80% carbohydrates at 250 Watts,
+ it's still 80%, but now it's 80%.
+ Of that higher number. So right, exactly. The, the report, the, um, you know, proportion to the
+ FTP relatively has stayed the same, which means more. Um, and now we can put this together with
+ TTE being negatively correlated with the last, uh, 10 minutes of lactate concentration,
+ sorry, first 10 minute lactate concentration. Um, the authors don't make this connection
+ explicitly, but I'm going to interject it here. Um, cause the authors note that post-training
+ improvements are about lactate clearance, quote unquote. And at the time, this was really thought
+ to be from the blood. And I don't, I don't know exactly the author's thinking here, but, um, the
+ typical wisdom at the time was that there are lactate producing fibers. There are lactate
+ consuming fibers, lactate producing are type two, lactate consuming are type one. We know that is
+ an incorrect model now, but at the time, this might be what they were thinking about.
+ But my addition here, what I'm going to interject is that,
+ um, what we know now is of course, that the lactate oxidation can take place in the muscle itself.
+ And we discussed this several times in the podcast. So, um, that means lactate would be
+ oxidized before diffusion into the blood at the same, uh, rate of lactate creation because, um,
+ you know, more mitochondrial mass, uh, you know, is just going to be able to
+ oxidize more lactate. Use up. Yeah. Use up that lactate. Yeah, exactly. Yeah.
+ And so lactate having multiple sources, like multiple, multiple muscle fiber sources and also
+ multiple places for oxidation, has it diffused out of the cell yet? Okay. So we can look at the
+ same muscle fiber and watch the lactate. Like we can label a couple of lactates. One of them is
+ going to like get produced and then it's going to go into the mitochondria and get oxidized.
+ Another one, maybe let's say one in however many is actually going to make it to the cell service
+ and get into the bloodstream. And there's a non-zero chance it's going to circulate and get
+ back to that same muscle.
+ And get pulled back in and then oxidized. Um, which I love.
+ It's like the butterfly flaps its wings and then
+ the lactate effect. Um, yeah. And, and this is why I think that, um,
+ I think if, uh, you know, there's also a, uh, muscle mass and a fiber type thing here,
+ which is not to contradict what I just said about fiber types. Um, because, um, you know,
+ we've discussed previously that, you know, we've seen type two fibers that can lactate, uh,
+ oxidized lactate just as effectively as slow twitch fibers if they're well-trained, right?
+ I think what it is here is, um, there's very, there's person to person variation on mitochondrial
+ density, capillary density efficiency, and this is related to fiber type. Um, and this means that
+ each individual's adaptation to increasing FTP time and zone may actually be different.
+ And so why would somebody's individual training response be different? Why isn't it just we've
+ increased TTE, therefore we're oxidizing, you know, more fats or something like that. Like
+ this is not necessarily always going to be the case. So my first thought is that the training
+ dose was not individualized. So if we've got TTEs between let's say 30 and 60 minutes, which would
+ stand to reason if the average is 45, um,
+ you know what, everybody starts with three by 10. And if you can do 65 minutes, three by 10, it's like,
+ um, and so I would like to see that done as a follow-up study. Um, seeing if the responses
+ either get more uniform and more patterns emerge or not. I, cause I'm very curious about that.
+ Yeah, that's interesting. And I think that kind of goes back to points you've made before where,
+ unfortunately there are no miracle intervals that are everyone can do. And if you just do this exact
+ same protocol, everyone will get faster by the same amount. Like, and obviously everyone here
+ did, did do the exact same protocol and they did not all get faster by the same amount.
+ Or, well, we don't know exactly the individual responses because that's not reported. So, um,
+ I would like to know, but also this is a almost 20 year old study now. So anyway, um,
+ cause I, you know, I keep,
+ I'm thinking about that outlier in figure four, um, the one guy at 65 minutes TTE,
+ but at like 90% carb use instead of like 80. Um, and so, you know, cause I think if we pulled him
+ out, our R squared would get to like what 0.75 or something like that. Um, and you know, I,
+ cause I wonder if that guy didn't respond to the others or the same way the others did,
+ um, because like the efforts weren't long enough or he adapted in different ways. Like,
+ you know, genetically he's not able to actually add more mitochondrial mass or add more capillary
+ density or add more whatever, like whatever the adaptation is, he might not have gotten it. So
+ he might've just gotten into really, really, really big motor units and, you know, had the
+ same metabolism and his glycogen stores just increased like mad. Like that might've been his
+ adaptation. We don't know. Yeah. So that'd be interesting. Yeah. Poor guys just doing everything
+ on carbs though.
+ Um, well, cause I mean, cause you know, carbs and glycogen limitation, that's like
+ just one of the things that would limit us, you know, for TTE. So, um, this is the list off the
+ top of my head. I've not gone back and edited it. I just wrote it out and kept it going. So,
+ uh, glycogen stores and substrate usage would be one efficiency would be one. Um, there's a lot
+ of stuff that affects efficiency, not just fiber type, um, capillary density, motor unit
+ recruitment, mitochondrial density, buffering capacity. So when we think about the limiters,
+ what limits, this also means what can adapt, what has the potential to adapt.
+ Yeah. I think it's interesting too, because this gets into the, the idea that, you know,
+ you, you want, you want power or velocity in this case to go up and you want TTE to go out. But,
+ um, if you were to take it and you're like, okay, so we're just going to do a bunch of work to,
+ to get those things done. Well, there are all these different factors that go into each one
+ of these things. And depending on who you are, you could have the same, you know, MLSSV is the
+ other, the other subject study personally, you know, subject in this study. And like you just
+ said, in terms of individualizing training, if you wanted to improve any number of one of those
+ things, if you specifically wanted to go after one of those goals, it would be, you know,
+ it would be slightly different than if you wanted to go back, go after a different one.
+ And that, that is just like part of the thing that goes into the idea of like, okay, well,
+ I want my FTP to go up. Well, like, you know, yeah, sure. You can do two by 20 until you're
+ blue in the face, but like there are other, you know, the, the, seeing this whole bigger picture
+ of like, well, how does that actually happen? Yeah. Well, if you're blue in the face after
+ doing two by 20, your threshold's probably set a little high. Um,
+ sorry, easy joke. Um, but I think, um, you know, cause it's like, it's like you can almost, and
+ I think a lot of people would be asking at this point, the, our, our astute listeners generally,
+ which are all of them based on the feedback that I get and the questions that we get. Um,
+ thank you everybody, by the way, for listening so hard and thinking so hard.
+ It's I know thinking is hard. It's really hard for me. Um, and so I think, um, you know,
+ I appreciate the thoughtfulness of it. And the question might be, can,
+ can we modify the training and know what our specific, uh, limitations are like individually
+ and that we can modify our training to, uh, improve certain aspects of these adaptations
+ over others. And the answer is maybe because everybody does kind of adapt to different things
+ a little bit differently. And like, uh, somebody asked in the Instagram questions, um, uh, this
+ past weekend, cause we're recording on Sunday. So that wrapped up at like, you know, mid
+ of the day today. And one of the questions was, you know, like amount of anaerobic efforts before
+ racing or something like that. And I was just thinking like some people hardly need any,
+ like, you know, they do long endurance rides, they do some threshold work, they do some VO twos and
+ like they go to race and they can race a crit, like no problem at all. Other people need a lot
+ more anaerobic work. And so that's one of those things where individual variation is whatever it
+ is, but you know, like a lot of the times we just have to look at it from the high level of
+ performance. Like, what are we doing? Why do we think it's happening? Okay. And if we, and the
+ thing is like, also you don't want to get too drilled down onto, you know, Oh, I'm not adding
+ too much mitochondrial mass. I'm actually increasing my glycogen stores instead. And so
+ that's why, that's why I need to do this different training. Like we don't know that specifically,
+ unless you actually do want to get your muscles core sampled several times a week by some guy
+ on a bicycle next to you. Um, I mean, in which case go for it, but it's not easy training to do.
+ So, um, anyway, speaking of adaptations, um, I noted earlier that VO two max went up for the
+ group a little bit. And if I'm not mistaken, it was a statistically significant, uh, bump. Um,
+ so I think let's think about this for a minute because VO two max going up while doing FTP work
+ and this is, this is me talking, not the authors. If you mostly do long endurance rides or
+ laundering, it's runs like these guys were and like nothing else. Yeah. It sounds like the,
+ they'd never done really any intensity. So this would be like their first hard foray into
+ non zone two. Yeah. Like, yeah. And I usually don't see like, cause if somebody gets off the
+ couch or if somebody has never done like targeted intervals ever FTP work, we'll raise your
+ FTP and your VO two max for like maybe two to three months ballpark. Don't quote me on that.
+ Cause I know somebody will. Um, after that, this study sees the main benefit of FTP work,
+ which is what I usually see, which is longer TTE, especially once you've gotten that couple
+ months of training under your belt. This is the main adaptation of what happens. This is why I
+ always say extend the time. So,
+ and I mean, in the, in the, in the protocol, it's not like they were,
+ they were not like incrementing up the velocity throughout, right? It was not like they did
+ three by 10 at 10 kilometers an hour. And then the next week it'd be three by 12, but at 10.1
+ kilometer, you know, like, which would be the equivalent of you doing two by 20 at 250 Watts
+ this week and two by 20 at 255 Watts next week, instead of extending the time, you were just like
+ slowly bumping up the powers. Yeah. And I think, um, I think that is actually one of the things
+ that I've seen in a lot of people's training programs that, um, that aren't aware of this
+ specifically. Um, and you know, it's not their fault. I'm not saying that they're stupid or
+ anything like that. Cause you know, so otherwise I've seen a lot of these training programs be
+ really excellent. Um, I think knowing like kind of
+ inspecting and knowing what you should look for on the other side of, uh, of a training block like
+ this will help you determine whether the block was effective, right? Cause if you are doing two
+ by twenties, you know, until you're blue in the face or not, um, and you're not seeing your FTP
+ go up, you're going, wow, it shouldn't FTP work, make my FTP go up. The answer is usually not,
+ especially once you're well-trained and this really kind of shows a good example of that.
+ Um, and so I think
+ there's a couple other things that I've seen in my coaching experience
+ that we should consider here additionally, which is that the first one, um, this is the
+ TT, TT or thing, big volume supports TTE adaptations from extensive FTP work greatly.
+ Cause what adaptations would we expect out of big volume,
+ better efficiency, more capillary density, plasma volume, mitochondrial density, et cetera,
+ et cetera, et cetera, et cetera. Like the list overlaps with what we would expect from extensive
+ FTP work. So, but you can, you can only do so much FTP work per week, but you can do a whole
+ boatload of endurance work if you got the time, which is what these guys were doing on top of
+ their FTP work. Yeah. Um, and so, you know, that's what we see in today's paper. Um, and you know,
+ it actually matches what the authors note in the conclusion,
+ um, you know, which cause they're mostly looking at more oxidation of lactate, but now, you know,
+ we're 20 years on from this just about, and so we can, you know, we, we, we know a little bit more.
+ And so now we can see that, you know, this paper was actually like really forward-looking. Um,
+ and so, um, and also I think what's interesting in the paper though, is that, um, what we know now
+ too is like, you know, what the things that allow us to oxidize more lactate also allow us to oxidize
+ which I've said on the podcast several times before. So it's probably not a shock to people
+ listening unless you just decided to listen to this episode first. And this is our first episode
+ you've heard us on in which case welcome. Uh, and, uh, I also suggest going to our back catalog.
+ Um, so I see, um, extensive FTP and volume over time will also raise FTP relative to VO2 max,
+ which the authors did not see. They did not see that relative increase.
+ Um, but obviously this is only going to work to a point because Kyle back in the day,
+ my absolute peak of FTP relative to VO2 max was 78 to 79%. Kyle, yours was about the same
+ to the shock of nobody. I mean, yeah. And, but the thing is for this study,
+ that kind of makes sense because the, because they actually did see this VO2 max increase,
+ um, with this extensive VO2 or extensive FTP and volume where for other people well-trained and
+ we would, would have qualified as well aerobically trained back then. Um, we wouldn't be getting the
+ VO2 max bump from pushing TTE out. So we would, we would expect to see the percentage actually
+ creep up slightly. Yeah. Um, unless you were doing a, maybe a simultaneous FTP VO2 bump.
+ Yeah. Which, uh, you know, which, um, well, we're going to touch on that in just a minute,
+ actually. So, uh, very prescient as usual, Kyle. Um, is it prescient or prescient?
+ I think it's prescient. I always thought it was prescient. Anyway. Yeah. Whatever.
+ We're both probably wrong. Potato. I don't know. Who says potato anymore? Oh, British people.
+ Hello friends in the UK. We actually, we know some British folks together. Uh, we should,
+ that'll be a good heckle. Um, anyway, so this is one of the things I also see with, um, with time
+ trialists, like I mentioned before. So if you are looking to do a time trial, cause you know,
+ the world's time trials, if they've gone out to like, you know, these are the fastest people in
+ the world. Like, you know, the men like sometimes it's like over an hour, like an hour, five hour,
+ I think hour seven or something like that was the longest one I've seen. I didn't come when that one,
+ um, it was a couple of years ago.
+ Uh, I was surprised by the time. Cause normally you'd think 40 K TT, it's going to be like, you
+ know, like the high forties, something like that. Low fifties, if there's some elevation, whatever.
+ Um, but let's say your TTE is 30 minutes at FTP. And that's something you could sustainably do
+ 35 minutes. Your time trial is going to take you 50, right? Yeah. Now your first option is
+ instead of doing, let's say, you know, 300 Watts. Now you've got to bump down to two 80.
+ How much time is 20 Watts going to get you? Right. So what if you could hold 300 for an extra 15
+ minutes? How much time is that going to, that is like, you know, $10,000 in the wind tunnel
+ right there. And all you have to do is just add a little more time in zone. Holy shit.
+ It's interesting too, because way back in the day in a tour, a lot of the full length individual
+ time trials were 50 kilometers.
+ Which would then push everyone into that, like, Oh no, it's definitely that, that, uh, that one
+ hour you're getting to be like, if, you know, obviously for some of these, these people,
+ well, all they add is time in zone, but well, I mean, the EPO kicks in in the last 10 minutes
+ of a long effort. Lance is 500 grams heavier that day for a reason.
+ Yeah. Um, also for my coaching experience though, um, some of the best VO to max training
+ results I've ever seen was when people's TTE was beyond 70 minutes. Um, and this is one of the
+ reasons I usually suggest you look at TTE being longer than 55, 60 minutes before trying to quote
+ unquote, raise the roof. Although that does not necessarily mean, you know, cause if your TTE
+ never goes out that far, like, Oh, well you got to try to raise the roof at some point. Right. But,
+ um, usually that's when I see the most immediate improvements. Um, and FTP goes up oftentimes TTE
+ but it's happened frequently. So, um, but you know, anyway, so like we said, but does this mean
+ you have to do only VO to max work when TTE is long? The answer is no, because sometimes you can
+ do it before extensive FTP work is done. Sometimes FTP and VO to max work are intermingled in what I
+ refer to as a mixed block of both VO to max and trying to extend FTP. Um, but you know, there are
+ pros and cons to this. Like, uh, like,
+ doing both at the same time. Cause I try to, you know, I'm a trained scientist. So I try to like
+ really spread my variables out and know what's going to affect what. Um, and so I think of,
+ you know, doing a mixed block as better for people with a heavy race schedule. And so you don't have
+ a lot of time to train and you don't have a lot of time to recover, uh, or you're newer to training
+ or you've got, or you, you know, you're on low volume or something like that. Um, you know,
+ these are good reasons to do it. Um, and so I think that's, I think that's a good reason to do it.
+ Both, but you still got to abide by the same principles of training for both. Um, but to me,
+ at least the drawbacks are that, um, if I have somebody doing both on the other side of it,
+ I have more to test and I don't know what exactly did what, um, because, and here's the thing.
+ It's like, if you're doing VO to max work while you're doing extensive FTP work and TTE is not
+ going out and you're doing, I don't know, okay. Volume, maybe not amazing, but okay. Volume. Um,
+ and then we test FTP again later. Why didn't it go out? If it didn't, is there too much fatigue?
+ Uh, you know, um, we're what happened? I want to know. Um, so it gets harder to see on the other
+ side. And if somebody is racing all the time, then you never get to test. Well, now you're
+ really fucked. So it's like, so, you know, I, I, Kyle, I think you see where I'm coming from
+ though. Cause like trying to control variables in an experiment and, you know, with training,
+ it's, it's very much the same thing.
+ Same way. Like if you're going to do a strength block going into, you know, going into next year
+ for sprinting, like what, what do we want to see going up? Right. Do we want to see your peak power
+ going up? Maybe not necessarily right away, but we want to see your squat going up and your single
+ leg press going up. Yeah. I mean, I think that's a, that's another thing too. Like there are very,
+ there are some more advanced statistical ways you can tease out changing multiple variables at once
+ within certain, you know, types of studies. And this is pretty common, but that's in a much
+ more controlled environment where you often get multiple cracks at something. Like if you get one
+ crack at it and you changed a bunch of variables, you are going to have a real hard time. I'm not
+ saying it's impossible to tease out. Um, but it's much more difficult than if you get to walk us in
+ training, right? Like somebody is going to come pay me, uh, you know, a not small sum of money
+ per year to train them, to be fast. Like I don't get a hundred cracks at it. You know, we get, we
+ want to make sure that we're always moving forward as much as possible as, you know, with as much
+ information as possible. And it doesn't mean that things are going to get changed. It doesn't mean
+ that we don't go, Oh, this is, this was suboptimal and we're going to do it better next time. That
+ happens. Of course it happens with everybody, but you know, we're not doing experiments here. We're
+ making lunch and you don't want to have to take a hundred cracks at making a sandwich before you
+ get to eat. Right. Yeah. Yeah. It's it's. And I think that's also too, where, where some of the
+ stuff where that's why some of the protocols from studies don't map very neatly onto training
+ protocols. You prescribe an athlete, even though in some paper it worked great, but that's because
+ it worked within the confines of this paper, you know? Yeah. Yeah. The real world kind of stuff is,
+ it's difficult to replicate, um, you know, kind of the same way that sometimes like a race intensity
+ is difficult to replicate in training because, you know, motivation being a factor and all that. Um,
+ so I think one of the last things we want to get to here before we talk about listening to questions
+ is, um, why would we want to increase TTE besides that? It seems to set us up for raising FTP or
+ something like that. Right. And besides like, you know, the longer time trials and all that kind of
+ stuff. Um, so I think the biggest thing is that, um, TTE trains faster than your VO two max.
+ So when it comes to like an always raising FTP thing, you know, like you're always doing VO two
+ max work with your FTP work, you're always trying to gain a couple more Watts. It works until it
+ doesn't, you know, it's the, you know, cause it's, it's true. Like the, you know, it's the rising
+ tide raises all boats philosophy of like my FTP is higher. So I can do something under FTP longer.
+ The, one of the secrets is that people vary in what they can do under FTP too. And you can train
+ this very easily.
+ By doing extensive threshold work, also sweet spots included in here and a lot of endurance
+ training because they all support each other. Right. So yeah, it's hard to just keep raising
+ FTP all the time. Um, and you know, there are some ways to train quote unquote FTP that are
+ really just teaching to the test. Um, and so you want to make sure that you've got a good measurement
+ first, but, um, yeah, the, but the point is that like more,
+ TTE also translates to better metabolic fitness, right? Cause threshold is about
+ aerobic metabolism. Um, and this means typically better fatigue resistance.
+ And it's not, you know, the only thing that we need to think about here, of course, is like,
+ you know, it's not the only thing we need in racing. Um, but I've noticed with a lot of my
+ athletes, um, you know, you know, year to year,
+ you know, like they'll come to me one year and then the next year they'd be like, well,
+ my FTP is not higher, but I'm racing so much better, so much more depth, so much more repeatability,
+ all that kind of stuff. That's, you know, that happens a lot. And it's like, and you know,
+ doing extensive threshold work is a big part of it. Yeah. That's interesting too. Cause like,
+ you know, it FTP and like high FTPs get a lot of attention for good reason. Like, you know,
+ there is like a, a certain bar of FTP that you would need to like finish Milan San Remo. Right.
+ And like, if, if like, if your FTP doesn't meet that requirement, you won't finish, but once you
+ are, are more comfortable at the level that you are racing. So obviously that's the first goal,
+ right. But then obviously once you are more comfortable racing at your cat three crits on
+ the weekend or whatever, yeah, having more TTE and being able to do these other things will enable all
+ these other elements of racing that are not just like, well, I'm not getting dropped because my FTP
+ is high enough. So I don't get dropped. That's great. But you're just participating. You're not
+ really racing. Yeah. That's a big difference there. We could talk about that sometime. Well,
+ cause I, cause racing the intermittent efforts create a metabolic load on the muscles and the
+ load is really just demand for ATP and the muscles. We want to do it sustainably, right? We want to do
+ it oxidatively. And so having FTP and a good TTE is a great way to increase your ability to absorb
+ that metabolic load. Um, and so, you know, you're not going to race cyclocross or mountain bike
+ cross country or any type of intermittent where you're not going to do a points race on the track
+ at a steady state. Um, but this is still super, super, super helpful to your muscles. Um, because
+ I hope, I hope you're going to be able to do it. I hope you're going to be able to do it. I hope you're
+ everybody still listening is no longer training too hard for criteriums and this is just preaching
+ to the choir. So, um, do you have any thoughts before we get into listening to questions?
+ No, I, I was, I, I was thinking actually early on people may know the author a lot,
+ however you want to pronounce it from, I think some like 30, 30 research or something like that.
+ I think there are definitely these, I've seen things like a lot intervals or something like
+ that, but, um, I don't, I don't recall immediately what those are, but the name, the name is
+ certainly super familiar. I think if I recall correctly, and I definitely may not, um, it's
+ about working intermittently at like 30 second intervals, like, uh, like at VO two max and then
+ down and at VO two max. So the VO two max, like if you actually measure the VO two, it's going to
+ like hit a hundred percent and then drop and hit a hundred percent and drop and hit a hundred percent
+ and drop. And you can do this for like 20 minutes or something ridiculous.
+ Uh, okay. Okay. Yeah, that makes sense. No, I was just thinking like this name may sound
+ familiar to people and that, that might be why, um, B I L L A T however it's pronounced.
+ Yeah. I've never heard it. And then, yeah, I think it's a, that's sometimes a problem with
+ science, right? Generally is that you see these people's names and you're like, well,
+ we're all, we're all bookworms who don't talk to each other.
+ Um, okay. First listener question. I, I, some, some of these are great. Um,
+ is TTE a new concept? I just heard a podcast with a famous coach and he still argues
+ FTP is 60 minutes. Um, it's not a new concept. Like if you look at like coils work from the
+ eighties, um, you know, they're talking about TTE like, you know, that early, uh, I think
+ they're definitely, definitely knew a lot about maximal state and all that stuff, but, uh, it's
+ not a new concept far, far, far from it. It's been, it's been in the literature for quite some
+ time. Yeah. I think, I think there is one of these, these disconnects between sometimes people
+ coaches, more popular science level stuff. Like they're not, they're maybe not digging back
+ through as much into the research. They're more looking at much more of the recent literature and
+ things like that. Yeah. Well, it's sort of like when you see somebody tweet about, um, cause
+ 10% is like, Oh, that's so nice. I'm so happy for this person. And the other 90% is, Oh my God,
+ like somebody asked me to, for a more recent reference than like, you know, on evolution.
+ Cause I referenced like origin of species and they're like, yeah, something in the last five
+ years. It's like, uh, I don't think we need to redo this experiment. Do we? Um, yeah. So there's
+ that kind of thing a lot. So if you're just looking at the more recent literature and the,
+ but the thing is like, you know, I've had arguments with people online where they're
+ looking at the older literature and they're a hundred percent behind it. And they don't know
+ that there's new stuff that, that shows that it's more complex, uh, especially with metabolic stuff
+ and like molecular things, this is usually the case. And so every time I think I've got something
+ down and I, I go look again, I'm like, Oh, I've got to redo my whole conception.
+ Of this thing. Um, uh, so what is the longest TTE to aim for before moving up zones? Now we got
+ several variations on this one. Um, so Kyle, I think you can, this is a softball. Didn't we just
+ say, did we just say, well, not explicitly, but like we sort of, we sort of danced around it. Um,
+ that you don't know if your FTP is going up unless you can first really feel it well by
+ which a lot of people can, but a lot of people cannot. Um, and so whatever you've got going on
+ with this, it's worth considering, like, do I need to test or can I feel it going up or
+ whatever? I usually suggest people just pick a number and stick to it.
+ That's just the way like they did in this experiment. They picked a speed and they stuck
+ to it. That's it. Then they recalculated the MLSS in case it had gone up and it had not. So, um,
+ that's a good way to do it. How to prioritize over unders and burst work versus straight up TTE
+ during threshold block. Um, a threshold block, at least to me for practical purposes does not
+ need to be totally steady. Um, like as long as you are increasing time and zone, like over unders
+ add more time and zone with your over unders. And that's it. Like if you're going to do sweet spot
+ and regular sweet spot, it's just boring as shit. Or, you know, you need some sort of variation of
+ efforts to like get ready for racing or whatever, like do over unders instead. It doesn't have to be
+ threshold over unders like, you know, do 20 minutes and do, you know, 30 seconds over two
+ minutes under something like that. Yeah. I think that's a good point too. Like, like, you know,
+ don't go nuts and do like maximal sprints for 30 seconds back to, back to FTP, but, or sweet spot
+ or whatever. But yeah, like a lot of these intervals, like, you know, I, I think people sometimes
+ get worried that they have to nail an interval exactly perfectly. And if, oh, I, if I go up too
+ much or too little, like there is some variation in there. Like your body doesn't, isn't really
+ going to know like, oh, you went a little bit harder here and a little bit easy here within
+ reason. Right. Like getting the work done approximately, which is why it's given as a
+ zone. Usually not like you have to go out and hit 267.4 watts for 20 minutes, four times, you know?
+ So yeah, if it, if that makes it easier, or for example, if you're indoors on a trainer
+ and every couple minutes you want to stand up and like, yeah, like raise the effort level a little
+ bit, but that's because it makes it easier to get through because it's, there's a foot of snow
+ outside. Great. You know, that sounds awesome. Like if that makes you easier, it makes it easier
+ for you to like get through the work. Yeah. Um, uh, uh, somebody asked an interesting question.
+ Um, FMK, uh, we said, actually we said like, fuck, like nine times.
+ So, uh, fuck, marry, kill 404 wheels, 404 drum machine, 404 error, not found. Well,
+ kill error, not found. Um, I don't know. They made a 404 drum machine. I don't know. They made
+ an 808. Um, then maybe it's, maybe it's a, an 808 cut in half, which, um, you know, maybe that
+ would make some cool sounds not forever. So, um, I would, yeah, I would marry 404 wheels. Cause I
+ get like, yeah, 404 for life. Why not? That's actually, yeah. That's actually interesting.
+ Cause I feel like that that's, that's actually, that feels like one of those things where like,
+ have you ever noticed how it seems like every time, whatever zip head, you know, flow, whatever,
+ they keep releasing more and more wheels. And like, they're like, I feel like the variation
+ between each year of wheels is like going down. Like eventually next year, we're going to look at
+ bumblebees like with the wheels. Like you, you, yeah. Like you're, they had big, big, lots of big
+ aero gains were made when we got wider tires to, and then wider brake tracks to match. So you get
+ a nice, like, you know, more torpedo shape and not just like a bulb. That was great. And then,
+ you know, you can, you can do stuff to improve yaw and handling and crosswinds and things like that.
+ But like you're, you're slowly,
+ you're rapidly running out of optimization there. So yeah, an old school set of wheels. That's
+ probably, it's still going to be pretty good. You know, it's not like you're riding, I don't know,
+ spinner G's. Oh man. I, I actually, somebody in the north, somebody in the northeast,
+ I think still ride spinner G's. Um, if you know him, um, don't, don't, yeah,
+ don't crash next to him. You're armed. Stay away. Um, anyway, so how does bumping up FTP,
+ TTE affect TTE at other power zones and what does it depend on? So it depends on, you know,
+ the adaptations that are just made to be able to do that power more. Um, and how it affects TTE in
+ other zones. Like it usually means you can do more. It's not like, you know, you start with
+ being like, let's call sweet spot 90% of FTP, which is pretty much what I do. I don't think
+ about other percentages. I don't get into half a percentage, 3%, 2%. Like, can we even measure that?
+ If I think about 90% of sweet spot and just call it a day. So, um, if you can do an hour at sweet
+ spot, right. Let's say that's your starting point and you can do 35 minutes at threshold. If you
+ get up to doing an hour threshold, it's not like you can still only do an hour at sweet spot,
+ right? So, yeah. So you could probably do at this point, like, I don't know what 80, 90 minutes at
+ a time, maybe a hundred, something like that. So that's, that's pretty good. That's a good increase.
+ You know, and sweet spot work is still threshold work. So, uh, if you like doing sweet spot stuff,
+ um, do that extensively does not, you know, this, this is all about threshold, but you are not
+ precluded from extending other stuff. Yeah. And similarly, like you also find, as you mentioned,
+ there are variations, like, you know, if you're, if you're TTE at FTP is 54 minutes, then you may
+ 80% of that as long as someone else. But if your TTE goes out, that almost will almost certainly go
+ out what you could hold, how long you can hold 80% or something like that. So yeah, there's no,
+ unfortunately there's no hard and fast rule of like, Oh yeah, you can, you can always hold your,
+ your 80% of FTP for 115% of the TTE of your, you know, FTP because that'd be, they'd be nice,
+ but the slope, the slope on the curve is different for everyone. Yeah. And the, you know, it's the,
+ the lengthening tide. No, this is not going to work. Lengthens all boats. No,
+ you know what I mean? Um, so, um, okay. Here's an interesting one. WKO jumps between FTP with a TTE
+ of over 60 minutes and a slightly higher FTP with TTE about 30 minutes. Which one is it? Um,
+ if you do not have a third data point with which to corroborate the model,
+ like, cause I'm sure it's like a better, probably a 15, 20 watt difference or something like that.
+ Depending on where it is on the, you know, a hundred to four 50 watt scale. Um, you know,
+ go test your, test it up by RPE. Um, that's, that's my serious recommendation or just like
+ go, you know, if, if you should have actually a mean max power point in there somewhere that you
+ can kind of put your finger on. Um, cause the thing is like, usually,
+ and I mentioned this in a webinar previously, I, um, when, before I see FTP go up,
+ I usually see it go out. And that might be a function of the way I train people. It might
+ be a function of the volume that these people are doing might be some function of some thing.
+ Um, but that's not unusual. And sometimes we just do extensive FTP work and we take a rest
+ and FTP goes up when we're done. That works too. Um, it's just that, um,
+ you should have, um, well, this is why one of the reasons I like to work the way I do
+ is because if we establish threshold and we do extensive threshold work, and then we retest,
+ uh, you can go retest by doing a 35 minute time trial. Why not? If it's like barely above what
+ else you can do. And it's like, you look at the inflection points, you go, okay, now I got it. So,
+ um, if you want me to take a look at your data, email me for a formal consultation,
+ it will cost you a few bucks, but I will,
+ look at your data and we can discuss, um, does cadence matter much on these longer intervals?
+ My cadence drops as the effort gets longer. Um, not really. I think some people, when they get
+ into larger motor units as they fatigue, um, it's just something about the, um, the trainedness of
+ those muscle fibers, especially when it comes to the sarcoplasmic reticulum energetics might just
+ be happier at a lower cadence. I used to happen to me too. I, I have really, uh, only theories at
+ this point, Kyle ideas. Yeah. I would think that are too, like, as you, yeah, like you said,
+ as you shift into the larger motor units or as you get tired, your body's going to try to find
+ whatever it can do to be more efficient. So for whatever reason, that's the, your body is,
+ that's what your body has decided is going to be the most efficient.
+ And like trying to fight it is probably actually not a good idea. Um, the, um, the, the body does
+ want to, is not going to go out of its way like that to pick something that makes you worse.
+ Yeah. Like, um, I mean, I mean, if it, if it becomes a serious problem, like you're all of a
+ up at like 20 RPM or something, well then obviously that, that is an issue that, that might be, um,
+ a problem, but within reason, like, no, it's, that doesn't like worrying about, oh, I don't
+ have exactly the right cadences. Someone else is kind of, well, and also, you know, um, if you've
+ seen the force velocity curve, uh, or as people are calling it these days, the torque velocity
+ curve for whatever reason, um, same deal. Um, uh, it, it has an arc shape and, and, and, and, and,
+ and that's, you know, we're usually looking at that for like max values. However, the same thing
+ occurs at sub max values. So threshold, um, you know, sweet spot, endurance, all that kind of
+ stuff. So, cause I remember a couple of years ago I had, uh, Bill Renfro program me a chart.
+ I asked him, I said, I want to see the frequency of how much time somebody spent in a certain,
+ you know, uh, uh, eye level in WKO five. And so,
+ that's what I have. Um, and it basically shows that the frequency chart shows that same less
+ frequent up to much more frequent distribution, uh, same as right up at the top. Um, and so
+ as you get away from what your normal optimal cadence is or what your body decides the optimal
+ cadence is, uh, you're going to produce less power. That's all there is to it. So, um,
+ it would be interesting to note if doing extensive work would change the frequency of your body.
+ So, uh, I think it would be interesting to note if doing extensive work would change the frequency of your body.
+ So if you have something like that, um, uh, I don't know, tag me in a post or DM me or something like
+ that. Uh, cause I want to post it on the, on Instagram. Cause I think it's cool. Like tell
+ me your experience with this. Um, if you're starting with a high VO two max, will more
+ mitochondria mean more aerobic power as an FTP and, or a longer TTE? Um, this would be one of
+ the expected things. Yes. So I would say it's one of,
+ the adaptations we would expect, but it's not like the only one. There's a, like we kind of
+ mentioned before, there's a lot of stuff that goes into it. And so if we dig down too deep
+ onto one particular thing, it might steer us wrong, or it also might just not be enough of a
+ full picture. Sorry. It's all right. Um, uh, here's an interesting one. What is the ideal
+ intensity duration relationship?
+ As in 20 minutes at a hundred percent versus 60 minutes at 80%. Um, that's an interesting one
+ because there isn't one, obviously, like if your FTP is on the way up and you're doing extensive
+ FTP work, let's say we do like, you know, like two, three week blocks. And just like these guys,
+ your FTP TTE goes up from 45 minutes to 60 minutes. Um, sometimes we see FTP go up and
+ the TTE shortens to like 35 minutes, 40 minutes. That's okay. But it,
+ we're always in a different spot. And so there's no ideal. I think the ideal would be if you're at
+ your genetic max, like if your FTP is as high as it's ever going to get, having your TTE be like
+ 85 minutes would be pretty awesome. I would say that's the ideal. I want to see wow. With an 85
+ minute TTE, maybe he's got one already. Who knows? God. Um, if you've got his files, by the way,
+ you can leave them in my office anonymously. Just drop them accidentally.
+ On your way out. And, um, you're an anonymity will be assured. I don't know where I got these.
+ I'd love to see them. Um, at what point does adding time and zone become unhelpful to FTP
+ development? I mean, we kind of got this, but we kind of also didn't address this exact question
+ directly. Um, at whatever point it is. Um, cause FTP development, I think most people think about
+ up, but I also think about FTP as having a, you know, that duration dimension. So I want to see
+ it going out too. Um, I think that's, that's something that's, I think, unheralded by a lot
+ of folks is just doing this stuff. Um, and I'll, I, by the way, everybody who's written in saying
+ that you've like changed your training to the way that we've suggested. And I said, Oh my God,
+ I'm so much faster now. Thank you so much, by the way. Uh, keep those coming. I love those. Um,
+ Kyle, should TTE work be done year round?
+ Almost certainly not in the same way that you wouldn't do the same.
+ Like, like would you do the exact same training year round of any kind?
+ Endurance riding. It's probably about it. Yeah. So,
+ you know, that that's like that, isn't that the same question or almost the same question is,
+ FTP training year round, like TTE training is adding time in zone at sweet spot or FTP,
+ something like that. So in order to do that year round, you'd have to do FTP training year round,
+ which is people have tried that. And yeah, if it works for you, that's great. But well, I think,
+ I think also if we expand our definition of what TTE training is based on what we've said in the
+ podcast so far, I think we could say that, you know, if you're doing long endurance rides in the
+ could extend TTE for sure. Um, some of the, that is a type of TTE training. Yeah. Yeah. So some of
+ the longest TTEs I've ever seen, by the way, I had, um, people doing a certain dietary protocol
+ we were trying out and it had a huge impact on TTE. Oh my God. Um, people hated doing it. So
+ don't do it so much these days, but you know, it, it is in the toolbox. Um, so,
+ but should you, well, here's the thing is also when you get into race
+ season, one of the things that I do with people is I give a range of, you know, intervals. Like
+ if it's threshold intervals and I'm like, I decide 12 minutes are probably going to be about
+ fine for today. It doesn't matter that much, 10, 12, 15, whatever. I'll say,
+ excuse me. I'll say, give me two to five and stop when you need to like stare at your stem
+ and concentrate to keep the power up. And then not only do we, does somebody get a little bit
+ of a maintenance dose, but we also get information on somebody's TTE at this point
+ because fatigue greatly affects TTE. And so by, you know, doing a little bit of work in season,
+ we wouldn't expect full, you know, long TTE. We wouldn't expect somebody to go out and do like,
+ you know, five by 20 minutes at threshold, um, in season when they're tired. But if they do,
+ it's like, Oh, maybe we need to reassess your threshold or maybe something like it gives us in for
+ um, and so you should have an idea of where your TTE is year round, I think. Um, well,
+ especially in season and while you're training, but before, um, you know, a whole lot, somebody's
+ blowing up my phone right now while I'm looking at these questions. Um, all right. Um, let's see.
+ How much time to add when splitting TTE into intervals as in for 40 minutes is a three by 15,
+ not enough. Um, Kyle, what would you recommend to this person?
+ Sorry. It's three by 50. I mean, if your TTE is 40 minutes, are they saying it's three by 15 going
+ to increase their, their TTE? I think cause, cause this is, cause you haven't seen as many
+ training programs as I have. And I think what I've seen a lot of people do is like, they'll
+ pick us just an arbitrary amount of time and zone. And like, they'll just always do that amount
+ or they'll change it a little bit with no seeming pattern. Um, cause that's what I'm always looking
+ for. So I'm always, I'm always looking for patterns and the people I coach are always
+ looking for patterns when I'm giving them to, it's really fun. But, um, but yeah, it's like,
+ um, so I think, I mean, yeah, it's three by 15 and
+ enough, I would say, or is it not enough? It doesn't matter. Just add more. I think that's
+ the point. Yeah. Like I was, I was thinking like, when are they doing this three by 15? Like, is it,
+ is that like, okay, I know my TTE is 40 minutes. I just did a test next week. I'm going to do three
+ by 15. Great. What are you gonna do the week after that? Um, so is it enough? It's like a,
+ maybe right. It depends. Yeah. And like, what are you doing? What's your aim? Are you just there to
+ do? Are you doing maintenance? Are you building?
+ Are you, um, you know, is this your first workout? If it's your first workout? Yeah,
+ sure. That works. Um, yeah. And if you look at that protocol, we just talked about that. A lot
+ of them started off with, with TTEs sort of in that range and, and they started off with what?
+ Three by 10. So, but they did not stay at three by 10. They purposefully progressed higher. And so
+ yes, three by 15 is a great place to start. Um, yeah, they added three by four minutes.
+ 17 next week. Yeah. Yeah. Four minutes a week. Um, and they found 15 minutes over six weeks. So
+ if you do two, three week training blocks with the rest week in between, which these people did not,
+ by the way, um, but you know, they really had two hard workouts a week and that's it. So, um,
+ you know, we could say estimate somewhere between five to seven minutes TTE gained per week. If
+ you're adding time and zone like this would be a reasonable expectation. Is there going to be
+ variation on that? Absolutely. So determine what yours is. Um,
+ what factors do you weigh heaviest when deciding recovery time between long intervals? Um,
+ I usually suggest the same as in the study, five minutes or longer. It doesn't matter. Yeah. Like
+ recover, get ready. That's it. Within reason, right? Like five minutes, seven minutes,
+ whatever. As long as you're not like still dying in like gasping for air or feeling like you're
+ going to cramp up or something. And then as long as it's not so long that you're like, well, I
+ had here outside of seven 11 for 50 minutes, you know, I have to warm up again. Um, so, uh, why did
+ extensive threshold increase my FTP in Watts, like 25 to 30 Watts. I think that means initially,
+ but now only affects TTE. Uh, well, we've kind of touched on this because at this is the point
+ where you need to do some via to max training and raise the roof. Um, that's, that's, that's
+ really about it. And if, uh, if you had to max training,
+ yeah, you've, you've hit the point of, of what you did previously is not going to thing that gets
+ you what, what's that saying? What you, what you did to get to the level you're at is not going to
+ be the thing that gets you to the next level. Something like that. Yeah. Uh, it should be a,
+ somebody come up with something concise for that training adage because we use it all the time.
+ Um, yeah, but that's good though. Like, like if that, that, that phenomenon is good,
+ you shouldn't be upset. That means you like did the right thing and you did effective training
+ and now you are, you get to move on to something else, right? Like you, you accomplished the goal.
+ You like, you know, finished your FTP quest. Yeah. FTP quest. Yes. Congratulations. Here's
+ your magical belt to wear as an accessory. It gains you TTE plus 10. Um, yeah, boy,
+ that was nerdier than it probably should have been anyway. Um, yes, I have played Skyrim. Um,
+ at what point should I graduate to higher powers when I hit X minutes time and zone RPE too easy?
+ Um, yeah, you can, once you hit, uh, what, whatever end of your training block you've decided
+ retest and see what your TTE is, or especially if your time, if your RPE is getting too easy,
+ definitely that is a big clue that like, Oh, maybe my threshold is a little higher. And some
+ of my, uh, more experienced athletes, I'll just say, well, you go tell me what it is. Do it. Give
+ me a two by 20, a threshold. And you tell me what it is. It's super easy way to test if you can
+ trust somebody's perception of their threshold. So, uh, that works. Um, why is TTE ignored as a
+ metric by mainstream cycling media slash brands slash et cetera, Kyle ideas. I don't know. Maybe
+ it's less cool as like a nice round number of like 400 Watts or whatever Mac, you know, your FTP is.
+ It's a little bit harder to explain because you already have to have the knowledge of what FTP is.
+ And then you have to think like, Oh, actually, you know, you have to, okay. So then you have to
+ bust some myths and say, it's not just for 60 minutes. It's for this. And then I, I, yeah,
+ I think it just, it's somewhat less concise to explain and it probably sounds less cool. Like
+ everyone wants to know, like, how much can you bench bro? Like that, like FTP is like the cycle
+ of that. And like, that's just a nice round number, you know? Yeah. I think it's like, um,
+ it's sexy, right? It's like, it's like talking about your FTP is like sex and TTE is like sex ed
+ class. It's like, it's like, it's like not as immediate. That is fun. And also like,
+ there's some explaining to do like, Oh, well, you've got to think about this. You've got to
+ think about this. Like once you understand the concept, it's super simple. There's nothing to
+ it. Absolutely nothing to it. Um, but, um, yeah, the, the education aspect of it is very different
+ you know, it's taken on such a life of its own at this point. It's got an aura around it for
+ black of a better word, um, term, but it's, it's, yeah, it's just, I think also one of the other
+ things is that it runs counter to their training philosophies. And I've gotten in public arguments
+ about this kind of thing with people before, where I think I, I joked like, Oh, I'd rather
+ have somebody have 20 more minutes of TTE than 20 more watts of FTP, which was a pithy
+ offhand comment. And of course it depends, but like sometimes it takes years to get 20 watts of
+ FTP. Right. And you can gain 20, 20 minutes of TTE in like, you know, just a couple blocks of
+ training. So it's, it's a no brainer for me, but, um, you know, I think one of the reasons also
+ that it's not, uh, it's not talked about it's because it's difficult to measure because you
+ have to have somebody go right at their FTP for however long. Um, and you can,
+ I would say you could, well, I had an idea if any, uh, if any training platforms that would
+ like to consult with me on this idea, I will, um, I will sell it to you for a not small sum.
+ Um, it's a good one about determining TTE. So we will move on from here. Um,
+ what do you, what do you look for to assess how much FTP training is too much?
+ What's the next step? Well, um, Kyle, what would you determine as too much FTP training?
+ Well, if you're not recovering, that's too much. Like if you, if you wake up and you dread the
+ fact that you have three by 22 and a half that day, because you cannot physically imagine yourself
+ being able to complete it, then it might be too much because you may just be in such a deep hole
+ that you're like phoning it in and you can't do it. So that's too much. Um, too much would also
+ be if like, if you're not recovering, you're not able to do it. So that's too much. Um,
+ like you really zone in, hone in on, on, and really focus on FTP training and then realize
+ that like, Oh, it races like you're not getting dropped, but you don't have enough super threshold
+ work in to be able to follow moves and actually like stick breaks and stuff like that. Well,
+ then maybe you've been, you know, hammering away at FTP too much and, and, and you need
+ to reconsider other things that go into this bike racing, uh, fitness.
+ Yeah. Yeah. Cause it's, it's like a big thing, but it's not the thing. Um, like,
+ the number of, unless you're doing the hour, I suppose, I suppose, but maybe doing some
+ over threshold work gets you ready for the hour. Who knows? Um, yeah, yeah. It's very individual.
+ It's like that, that's coaching one-on-one. You've got to figure out where the person is at,
+ figure out the demands of the event and draw a line between the two. Like,
+ what is this person good at? What do they need more of? Um, you know, it's, it's, it's a basic
+ assessment of stuff. Most people need more aerobic power, no matter what, but some people, you know,
+ need to sprint better or whatever. Like anyway, um, I, my, my last WKO five webinar on balancing
+ aerobic and anaerobic training goes into that. Um, so no need to rehash it any more than we already
+ do. Um, Oh, here's an interesting one. So is it best to first extend the lower end of the zone
+ sweet spot and then FTP both concurrently? Um, I say concurrently, if you're happy doing one over
+ the other, do that.
+ Um, but I always find value in doing some FTP work, even if somebody is primarily a sweet spot
+ person, because when FTP doesn't feel like FTP, that is a sign of fatigue. And so I always like
+ to kind of keep an eye on that kind of thing. Um, yeah, that makes sense. I think other thing too,
+ like sometimes you can definitely be splitting hairs if you're like, Oh, sweet spot versus FTP.
+ Like they're, they're kind of the same, but like on the other hand, yes. If, if, you know,
+ and we talked a little bit about this with, with like, you know, potentially you can have your,
+ um, RPE metric be messed up a little bit. If you're just so used to hammering away at one
+ intensity and then as soon as you, yeah, as soon as you leave that intensity, you're like, Oh my
+ God, it's so hard. You're like, wait, wait, wait. Okay. So that probably means you need to spend
+ some more time at different intensities, you know, potentially. Yeah. Um, uh,
+ let's see. Uh, should you try to max time and zone every workout or leave some of the tank?
+ This is a great question. Um, I usually tell people to stop when they have to stare at their
+ time, stare at their stem and concentrate really hard to keep the power up. Um, that to me is like,
+ you've probably gone about a minute or two too long at that point. Yeah. Uh, I forget. Was it,
+ you know, it, it is, it is like, I think it's appealing to be the ideal. Like I'm going to
+ but like, that's a really, really unsustainable training philosophy. It is. And I, one of my,
+ one of my athletes misread, uh, a workout that I had, I had given and they went out and did,
+ uh, nearly twice as much threshold work as I had assigned. And it was like weeks of recovery. I'm
+ not joking. Yeah, no, like, like it's one thing if you, you know, every once in a while you have
+ but it's, you know, for a minute here and then you're done and you're done, you're done. But
+ like, you know, you're like, Oh, that was really hard. But like if every day you're walking, you
+ know, if every day you got to like have two cups of coffee and like a bunch of smelling salts before
+ your FTP work, like it's not good. Your FTP is probably set too high in that case. Just,
+ just speculating. Um, yeah. All right. So that's it for our questions. Um,
+ uh, any other things that, uh, that might be worth touching on?
+ Um, I think it's cool that more people are getting into the idea of
+ having more time in zone and like, yeah, because you can imagine it generally,
+ your body responds to the stimulus that you provide it. And so your body's really good
+ at adapting to what you do. So if you just do two by 20, I think we, and we mentioned this too,
+ like, you know, why, what's, what's special about two by 20 episode. Um, it's not that
+ there's something special. It's just, but this is like a good place to start. It's not that it's
+ the place to end. Yeah. So actually I'm scared to go listen to that episode in case we said
+ something stupid, but if, um, I mean, it's our second or third episode, which is, it's almost
+ guaranteed we said something stupid and wrong, but at the same time, I, you know, we're evolving
+ as we go, I think. Um, but yeah, we should do a reaction video.
+ Of you listening to us listening to, uh, please no video. Oh my God. I'm
+ well, lucky this episode doesn't have that many edits. Cause otherwise like people would see
+ the video being cut, like some sort of like John Woo action sequence or like a,
+ it'd be like Michael Bay fight. Like just like, oh my God, like people get dizzy watching it.
+ Like a strobe light. Hey man, reaction videos are big on YouTube these days. You want a lot
+ of clicks. You got to do reaction. I'm
+ a sucker for them too. I've seen a couple. Um, mostly I like it when an expert breaks down
+ something. Um, yeah. Like that opera singer who breaks down like Devin Townsend and stuff.
+ Awesome. So good. Um, anyway, so yeah. Adding time and zone. Um, it's really, um, it's really not a
+ big deal. It's, it's one of those things where like it should be a big tool in your toolbox and
+ it's not guaranteed to raise your threshold, although it might in a lot of cases and at some
+ point it's probably going to stop. And so being ready for that and kind of knowing what to look
+ for is going to be a, I think a huge leg up for a lot of people. Yeah, definitely. And I think,
+ like you said, it's a tool in the toolbox. And if, if you haven't done it at all before,
+ then do it. Um, but also if you've, if you've been trying to raise FTP, you know,
+ or something like that with your two by 20 is like, yeah, next time this, this gives you another
+ way and a potentially more sustainable way, um, to feel like you're getting good work in and also
+ see positive results more quickly than just trying to like brute force your FTP up higher
+ and higher and higher. Yeah. Cause I think, um, yeah. So I think the last thing would just be
+ that, um, if you've never added time and zone for your threshold efforts before, add it now
+ and cause if you've been hammering the same durations of intervals and hoping their FTP
+ will go up, um, there's a non-zero chance that adding more time and zone and then taking a rest
+ can bump up your threshold. It might also not bump up your threshold and it's going to
+ raise your TTE. And in which case you go, oh, I got to fit into VO2 max work somewhere. So,
+ um, I think that's a, probably a really good place to leave on.
+ Yeah. All right. Great. Thanks everybody for listening. Um, again,
+ we, we are a coaching company, empirical cycling. Uh, we have a couple of coaches. Um,
+ I'm the head coach and founder, I guess I saw myself referred to in an email as the founder
+ of empirical cycling. That's cool. Never been a founder of anything. Um, so, uh, shoot me an email
+ empiricalcyclingatgmail.com. If you have any coaching or consultation inquiries, uh, you know,
+ we can coach you anonymously. We will consult anonymously. I will consult anonymously. If any
+ large organizations want to give me a pile of money to help them with their modeling, that would be
+ great. Um, and also remember we're an ad free podcast, of course. So if you want to donate to
+ the show, empirical, uh, uh, empiricalcycling.com slash donate, we've got show notes up on the
+ website. I'm going to try to remember to put a bunch of the figures up there, but we're at least
+ going to link all the papers that we discussed. Um, and, uh, if you have any questions or comments,
+ just shoot me an email too. And on Instagram, of course, that's where we got all our listener
+ questions. Um, uh, on Instagram, empirical cycling, of course, do the weekend AMAs up there.
+ And, uh, I've been toying with the idea.
+ Cause a couple of people have asked, should we do a Patreon for the questions? And, um,
+ part of me says yes. Part of me says no. Um, I, I kind of like the, the kind of free for all that
+ there is right now. If I, if I have like 50,000 Instagram followers, I'm sure it'd become a
+ problem, but, um, at the moment, only fans for the, uh, only quads. All right, everybody. Thanks
+ Thank you.

@@ -1,0 +1,690 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, and I want to thank everybody for listening, as always.
+ I know it has been a little while since we've released an episode, so thank you for coming back to listen again.
+ Remember to please subscribe to the podcast, if you have not yet already, and also share it with a friend, because that really, really helps us out.
+ And also, iTunes ratings and reviews are very welcome as well.
+ And also remember that we're an ad-free podcast, so if you'd like to support the show, you can donate at empiricalcycling.com.
+ We have the show notes up on the website. We don't have any notes today, because we have an interview.
+ And we've got some merch at empiricalcyclingpodcast.threadless.com.
+ And if you have any coaching and consultation inquiries, questions, and comments, you can email me at empiricalcycling at gmail.com.
+ And if you are looking for a coach after this episode, I would definitely shoot me an email, because we are interviewing one of the empirical cycling coaches.
+ And he's a really smart guy, he's a really good guy, and he's a really good coach.
+ So, yeah.
+ Working with him is highly recommended, obviously.
+ And also remember that on Instagram, weekendamas at empiricalcycling, of course.
+ And if you want to participate in that, that's awesome.
+ If you just want to read along, that's cool, too.
+ And, oh, before I forget, be sure to check out the Endurance Innovation Podcast, because they invited me to be on.
+ They asked me a bunch of questions about VO2max, and I answered, and we had some interesting discussion.
+ So that is probably worth a listen, if you'd like to hear a couple more thoughts on that.
+ And I want to thank them for having me on.
+ That was a lot of fun.
+ And so for today's episode of the Empirical Cycling Podcast, we are going to be talking about recovery and illness.
+ And this is a really cool discussion.
+ I was really looking forward to it.
+ And I think it was probably one of the more fascinating conversations that I've had with somebody recently.
+ We get into things like, you know, what is a generalized immune response, the kind of above-the-neck, below-the-neck thing.
+ Like, is that, you know, is that like a real thing that we can actually utilize to train or not train?
+ You know, the best way to kind of come back from illness, you know, ways to prevent illness.
+ We also talk a lot about the data of illness in the scientific literature.
+ We talk about nutrition aspects of illness and all that kind of stuff.
+ So it's a pretty wide range of conversation, but it's really fascinating.
+ So, and Fabiano is a really knowledgeable guy, and he's also a really, really good coach.
+ So I think everybody's going to enjoy listening to this episode as much as I enjoyed having this conversation.
+ So, or at least I hope that's...
+ That's the case.
+ So without any further ado, let's get into it.
+ Fabiano, thanks for coming on the podcast.
+ Well, thank you for having me in.
+ It's a pleasure always to share some knowledge.
+ Yeah.
+ Or should I say Dr. Fabiano?
+ Don't worry about being too formal.
+ It's okay.
+ Well, so why don't we give folks a little bit of background.
+ So take a minute to tell people like how you got into the sciences and, you know, the various degrees you have.
+ Because you have quite a few.
+ And how you got started coaching.
+ Well, I started medical school around 15 years ago.
+ And after doing the medical school, I was always interested in sports medicine.
+ And after I finished my medical school, I actually went to a first master in human physiology.
+ And that was where I got back and more involved with cycling.
+ And that's when I hired a coach.
+ And at a certain point, I was...
+ I was progressing.
+ But then I hit a wall.
+ And I was curious to know why my performance wasn't improving anymore as I would like to.
+ And then discussing with my former coach, I couldn't find a reasonable answer.
+ And that was the point where I decided to study more about exercise physiology.
+ And also when I decided to go for a second master at this point in the United States.
+ At the University of Akron.
+ And full-time with exercise physiology and also biomechanics.
+ And after I finished this second master, I still didn't have the answer that I wanted for why my performance wasn't as good as I wanted.
+ Still, one thing that I found out is that I probably didn't have chosen my parents well.
+ And then...
+ And then I moved...
+ Moving on, I got back to Brazil.
+ I started my coaching business alone, myself, as a private practice.
+ And still looking for that answer, I went for a PhD.
+ And this time, looking at the genomics and the proteomics of performance and human performance.
+ Mostly human physiology.
+ And I studied some of the aspects of the renin-adjusting system.
+ I got some peer-reviewed publications out of that.
+ Sorry, you said...
+ What was that?
+ The renin...
+ The angiotensin system?
+ Exactly.
+ Okay.
+ So I was trying to understand the difference between the regulation of women and men.
+ On how some proteins could regulate this system differently.
+ Because, you know, we have some specific genes for men and women.
+ And so we did a lot of experimental...
+ Some research on some experiments.
+ And trying to find that...
+ Difference.
+ We found something.
+ And that was really computational biology in syndical experimental experiments.
+ And it was a lot of fun and also a lot of learning on how complex...
+ Actually, it really became clear to me how complex is the human biology.
+ And as I learned more and more and I started bringing these concepts to my coaching practice.
+ Actually, I finally could understand it better.
+ Why my performance was as expected.
+ But at the same time, as I was getting more and more experience with my athletes.
+ I was trying to help them too.
+ Because, as you know, most of our amateur athletes don't have the extra performance they would like to have.
+ Yeah.
+ But they want to have their ultimate performance, the best performance they can have in their life.
+ And then understanding where the limiters are.
+ And how we could...
+ At least go to the limit on their physiology and get their best performance.
+ Is always my goal with my athletes.
+ And because of that approach, I started to really look into the numbers of the performance with like power.
+ And I've been following all the work with PowerData and Kugan and others.
+ And because of that, I was more and more involved with the WKO team.
+ And that's where I got to meet you.
+ And we started working on some advanced projects on the WKO software.
+ First on WKO4 and now WKO5.
+ And at some point, I started listening to this wonderful podcast.
+ And I said, I told myself, why not contact Koli and see if we could work together.
+ And he said, well, let's discuss that.
+ And I think...
+ I think it worked, right?
+ Yeah, I think it's worked out very well, actually.
+ And you are an excellent coach.
+ And I'm really happy to have you with Empirical Cycling.
+ And actually, I think we actually met even before the special projects because you were on...
+ I think you had translated my PMACS and FRC webinar into Portuguese.
+ Yes, I did this.
+ And you had contacted me with some questions specifically like to clarify things.
+ Exactly.
+ Yeah, I had this volunteer work as a coach.
+ I was a coach educator for Training Peaks.
+ So I translated, I think at this point, almost...
+ I think it's eight webinars from the WKO4 and now four from the WKO5.
+ And two of them are you organized them, which were about the PMACS and now the sprinting analysis.
+ So, yeah, I read to you and said, well, could you explain me more about that?
+ Because I was not...
+ And I don't have a lot of experience with sprinting.
+ But I was always curious to understand how to make a better decision and informed decision about sprinters and how to analyze their data.
+ Because it's very interesting aspect of the cycling.
+ Yeah, it is.
+ Short durations.
+ Yeah.
+ And actually, we should talk about that another time because today I really want to use your medical background to discuss illness and performance.
+ And we were going to do this a while ago discussing COVID.
+ But I asked you to look into that.
+ Look up some stuff that we could discuss with that.
+ And, you know, you and I chatted quickly before the podcast about...
+ You said that there's a lot that we just don't know with that and that the data is not there, right?
+ Yes.
+ As a lot of topics in medicine, we wish we had more strong evidences to take our decisions, be more scientific.
+ But still, just as in coaching, we still have a lot of...
+ Personal decisions and art, I would say, in medicine.
+ And the same with, for example, acute illnesses, like respiratory tract illnesses.
+ And...
+ But, again, that doesn't mean...
+ Oh, so respiratory tract illnesses like common cold and flu, bronchitis, that kind of stuff?
+ Exactly.
+ So, yeah.
+ But even if the evidence is not the best as we would like to have, it still doesn't mean that we will not use it.
+ We are using it.
+ On an everyday basis.
+ But what I want to mean is that we have to listen to the athlete, understand his reality, and work with the science to make sure we have the best decision.
+ For example, when someone has a flu or a cold, should we rest?
+ Should we go for another workout?
+ And that kind of stuff.
+ Yeah.
+ And let's...
+ Actually, let's get right into that because, you know, there's...
+ There's this rule of thumb that you hear a lot of the time, like, should you train, should you rest?
+ And it's the neck thing.
+ Like, you can train if your symptoms are above the neck, like if you have a runny nose or a cough or something like that, sore throat.
+ But if your symptoms move below the neck, then you should not train.
+ So...
+ And I've never actually asked a doctor about this before.
+ And I've always been curious because I've, you know, I always get upper respiratory tract infections.
+ Like, I get really bad sinus infections.
+ Like, probably once a year.
+ And I've always thought, like, should I train through this?
+ Should I not train through this?
+ I've never really had a good answer.
+ And I've done both.
+ And I don't think there's...
+ I don't know the answer.
+ So, what do you think?
+ Like, generally speaking, like, is that a good rule of thumb or not?
+ Yes, it is.
+ So, that's what we call the neck check.
+ So, for example, if you still have more overall symptoms, like, that affect your full body, like fever or myalgia, like muscle...
+ So, pain, chest pain or resting tachycardia.
+ So, myalgia is muscle pain?
+ Yes.
+ Okay.
+ So, the symptoms that are below your neck, I would say, that's a strong sign that you should avoid and go for full resting.
+ And one interesting observation here is that some people tend to say, oh, maybe you don't go for that two-hour or three-hour long ride cycling workout.
+ But you may go for a 30-minute workout at the gym.
+ No.
+ Ideally, you should...
+ We don't have a lot of, again, evidence about if it's safer to go for a gym.
+ But based on what we have, the best decision is to take a day off, maybe a few days off.
+ Why?
+ Because sooner you stop spending your precious energy on your exercise, and the body will have more energy to invest, I would say, on the immune system.
+ And then...
+ It will speed up your recovery and avoid some consequences of doing exercise before you get rid of the below-the-neck symptoms.
+ Yeah.
+ Like, I'll tell a quick story here where my first serious cross-season, I think I did, like, 20 races in, like, the span of two months to two and a half months, something like that.
+ I was pretty much racing, like, twice a weekend or once or twice a weekend for a while.
+ And I had a really bad cough.
+ And I started, and I just didn't stop.
+ And it got really, really, really, really bad.
+ I wanted to race a full cross-season, but, like, if I kept going like I had, I was really just going to dig myself into a horrible hole.
+ And it really took me, like, probably a month and a half, two months to, like, get over that cough because I was told it was walking pneumonia, which I don't know if that was...
+ You know, I think it was, like, from the ER visit or something like that because it was really, really bad.
+ So the lesson is don't do that, right?
+ Exactly, yeah.
+ And that's a mistake that we are always trying to avoid because the sooner you stop exercising and rest yourself, make sure you are well hydrated and eating what you have to do, a balanced diet, the sooner you get better and the sooner you can get back to training, return to play, and also return to competition.
+ Because if you don't that soon enough, what do you risk?
+ It is exactly what you just said.
+ You can get a worse infection, worse illness, and then it will take much more time to recover from that.
+ And then you are really risking your season maybe for a few months.
+ And that's what we want to avoid as athletes, coaches, and doctors.
+ Yeah, and the training gets really, really bad when you're, like, half sick, too.
+ Like, one of my athletes this year...
+ You know, he was, like, half sick.
+ He, like, couldn't quite kick a cough.
+ And I was, like, pulling the training back as we went.
+ And he was like, yeah, I'm good to train.
+ It was just, like, one of those things where, like, should have just rested.
+ And that was, you know, and that's one of those things where, like, I'm usually a very conservative coach and I wasn't that time because there were some big goals coming up.
+ And that was actually the wrong call.
+ And so, yeah, so exactly what you're talking about.
+ It's better to pull it back and rest.
+ But I think this actually...
+ It actually brings up another interesting point, though, which is that the immune system does take a lot of energy, right?
+ Or it seems to.
+ Yes.
+ Because, like, especially when people are training really, really, really hard, you know, after their peak performance, a lot of folks get sick.
+ And there was actually that famous marathon study where they followed marathon runners and the people who trained for it and didn't actually run it got sick at a much lower rate.
+ I'm sure you remember that one, right?
+ Yeah.
+ And, yeah, we have some conflicts.
+ We have some conflicts on the literature about how much and, for example, the training load that many people monitor these days.
+ You probably heard about the J-curve also, which is...
+ I've not actually.
+ J-curve.
+ No.
+ It's a J-curve, just like the letter.
+ And for a long time, it's supposed to say if you are really untrained, you are more prone to get, like, a cold and flu.
+ And once you get some training...
+ You go to the bottom of the curve, which means on the Y-axis is how much you get sick.
+ And on the X-axis is how much you are trained.
+ Yeah.
+ And then, so once you go a little bit more trained, you get a little bit more protection, especially at these days, we tend to look more at moderate training.
+ But as you go and you increase your training load, you get more and more, you start to go up on the J-curve.
+ So you start to reach your limit.
+ So as you get more training load, more workload from each workout, you tend to overload your immune system more often than you would like.
+ So that's where we are reaching the peak performance for a race, for example.
+ But at the same time, we are pushing the limits on the intensity, on the volume, and also trying to reach our best performance.
+ But that may have a price, which is to become more susceptible.
+ For like infections, respiratory infections.
+ And one interesting aspect of this J-curve is that recently they have studied elite level athletes.
+ And actually, they proposed another letter for their curve, which is the S-curve.
+ So the S-curve means that the elite level athletes may be more protected when they are more trained compared to amateur.
+ Which means the more they train, they may be more susceptible to infections.
+ So at the end, what we may take as a take-home message is amateur athletes are very different from elite levels.
+ Not just in the performance levels, but maybe also how they recover and how their immune system deals with all the stressors, the training stress, the life stress, which is usually higher.
+ On the amateur athletes, how they have to cope with that.
+ And also nutrition-wise, which is actually a point that's very important.
+ How our body is dealing with all the energy levels and all the energy availability.
+ So maybe the elite level athletes have a better management of that energy levels and energy ingestion or availability compared to amateur athletes.
+ Of course, these are not.
+ These are not perfect and that may not fit everyone.
+ But that's what the literature has been showing us lately, that the elite level athletes may have a different approach and a different way to adapt to high performance and high volume, high intensity workouts compared to amateur or master athletes.
+ Yeah, well, it makes sense that especially with amateurs, that the life stress off the bike will really cause a...
+ Compromise of your immune system.
+ Because, I mean, this is something that I think we all have, you know, generally is like in our anecdotal experiences.
+ Like, you know, when you're really, really stressed and you're also trying to train really hard, you know, you always get that little sniffle or you always get that like headache or whatever it is.
+ Especially if you're not sleeping well or you're not hydrating well or you're not eating well or, you know, the list goes on and on.
+ And actually, I've heard about this in interviews with elite athletes where they say, you know, elite cyclists anyway, where they say,
+ you know, when you're in really, really good shape, you can actually recover from like crashes and illness a lot faster as long as you take that time off.
+ And so even, you know, anecdotally for them, it seems like, you know, they've had a similar experience.
+ And to them, you know, being in shape is really, really good for recovering from illness somehow.
+ Exactly.
+ And the link to that, if you think about the flu or cold, for example, and there are some changes in our physiology that may...
+ For example, here we have some complications of exercising when you have a fever.
+ Besides the systemic symptoms like headache, muscle pain and joint pain, something, you also may have a higher risk for dehydration because you tend to sweat more.
+ And it seems like there is a diminished production of ADH, which is a diuretic hormone, which...
+ Regulates how much you pee or you produce of urine.
+ And then we also...
+ So it makes you produce more urine?
+ Less.
+ Oh, less.
+ Actually, more.
+ You're right.
+ Oh, so it makes you produce more urine.
+ Okay.
+ Yeah.
+ So there is also some publication that show that during the fever, there is a higher protein catabolism, which is the breakdown of proteins, which is very important for your muscle because our immune system, immune cells need more amino acids.
+ And also more glucose to fight the infection.
+ So that may lead to another nutritional deficiency, which is based on, again, more amino acids for immune cells, less availability of glucose.
+ And also we found in some studies the increase of peripheral vascular resistance, which means, as you know, when you are exercising, you need more blood to the muscles that are active.
+ So if you have an...
+ If you have an infection and it make it harder to have this blood on the muscles.
+ And that may explain why some studies found up to a 25% reduction in endurance capacity and also some changes to the cardiovascular system, which you are very famous because of the VO2.
+ Let's hold up there for a second because, like, so 25% reduction in, like, endurance capacity.
+ So that would be a test where they have somebody, like, ride at, like, 75% VO2 max, for instance.
+ And if normal...
+ If normal, you can do that for, like, 100 minutes, a 25% reduction would be, like, you can only do that for 75 minutes when you're sick, right?
+ Or you may have to reduce the intensity to tolerate for an hour.
+ Right, right.
+ Okay.
+ So, and actually, I've talked about this, you know, in a couple of articles recently, I think, where, you know, fatigue, just in general, and, you know, being ill will is, you know, can manifest pretty much the same as, like, fatigue, where, you know, your RPE, your perceived exertion for, like, a given effort level, you know, is going to be very, very high.
+ will be, you know, like normally if you can do two by 20 and that's like an eight out of 10,
+ um, and then you can do two by 20, uh, and, uh, you know, but it's like, it becomes like a 10 out
+ of 10, or, um, you can only do like one by 20 and that's also like an eight out of 10, then you
+ can't do the other one, et cetera, et cetera. Like there's a lot of ways for a dirtier capacity to be
+ reduced. Um, but actually I also want to, um, before we get back to that, I also want to touch
+ on the nutrition of things. So, um, do you have any nutritional recommendations for people when
+ they're ill? Because I know a lot of people, um, you know, we generally get the advice like have
+ chicken soup and hydrate. Um, but you know, what's the, um, is, is there any kind of, uh, truth to
+ that kind of, um, that kind of received wisdom from our mothers? Uh, or, you know, do you have,
+ is there other stuff that we can do as well? Yes. Uh, and especially these days when we have,
+ uh, several athletes that are,
+ uh, playing or changing their, uh, nutritional, uh, reference, like with low carb or, uh, low fat
+ or all these variations that we see around these days for diet, uh, the studies that we are, um,
+ we have seen before regarding how the, for example, carbohydrates influence show that,
+ uh, for example, there is a strong correlation between how much carbs you ingest and how that
+ affect,
+ uh, your immune system. Really? So, yes. Uh, they found that people, for example, that ingest the
+ general recommendation, which is fluids, like six, six percent of, uh, carbs solutions or fluids or
+ even, uh, gels or whatever. Okay. So something like, um, something like scratch mix or something
+ like that. Exactly. They tend to have a lower incidence of, uh, upper respiratory illness.
+ Is that from the hydration or is that from the carbs or is it from like all of it?
+ And the, the electrolytes and better hydration or whatnot?
+ Probably both the carbs and the fluids. So, and then if you think in this link,
+ that will apply also when you're sick. So if you are sick, you tend to be more dehydrated
+ and also to have, to need more glucose for the immune cells. So the current science says that
+ if you, if you are sick, don't, uh, try to be on a diet to lose weight. For example, make sure you
+ are well rested before and, uh, eating a well-balanced diet include carbs. And, uh, once
+ you are, uh, well recovered from the illness, then you may consider going back to a low carb again
+ diet. If you are, uh, that kind of, uh, athlete that, uh, enjoys or seems like it works for you,
+ at least during the illness, I would recommend, uh, raising the carb hydrates diet and then
+ reevaluate. So this is why, um,
+ you know, chicken soup and crackers is actually a pretty good, um, a pretty good recipe for
+ helping to, you know, get better because you get electrolytes and hydration and you get some carbs
+ and, uh, you know, there you go. Or, you know, whatever soup, if depending on your diet, I
+ suppose, sorry, vegetarians. Well, if you think about, uh, other countries, there might be other
+ combinations for what, where they get the most of the carbs, like in Brazil, it's beans and rice.
+ Um, it's very common. Uh, what also about, um, protein? Cause you mentioned that the, uh, the
+ protein breakdown rate is increased, um, because, you know, immune cells, obviously like you're
+ making cells, you're obviously need protein load and, you know, the muscles, uh, are a very large
+ and usually accessible, um, place to get, uh, protein. Like, you know, if you see people on
+ who are, who are starving, you know, they don't have, you know, they're not jacked. Like they're
+ very, very slim. They have very small muscles. If this, especially if they've been starving for a
+ long time, they'll get a lot of protein. So is there a protein recommendation while you're ill,
+ just like normal amount or, um, you know, do different types of proteins make a difference
+ that you're aware of? Yeah, they, they have looked at, especially with some specific supplements for,
+ uh, glutamine or some other amino acids. And, uh, although some report a positive effect on
+ prevention, for example, uh, at the end, the overall recommendation is balanced diet. Um,
+ these days, the, I think the biggest concern we have as a doctor is the extremes where people be
+ may go like really low on carbs or maybe too much protein. If they have their, uh, choices for us,
+ what we will then get instead of the carbs. And, uh, for me at least, and my experience in the
+ clinics is having a well-balanced diet, especially when you are, uh, sick and you need to recover is
+ the best way. I don't think any supplement is even like vitamin C or vitamin D. Uh, they have
+ some conflicting results on the literature. And, uh, it's, if you have a well-balanced and access
+ to a well-balanced diet usually is, uh, associated with rest and good hydration. Uh, it should be
+ enough for your fast recovery, especially if you are well-trained, as you mentioned before,
+ which it really accelerates everything and then get better.
+ And if you have a specific diet that may have some restrictions for weight loss or other aspects
+ for like losing weight for a race, and then you may, uh, consider that, you know, at least in my
+ experience, I would avoid extreme diets at this point, if you are sick or have an illness.
+ Yeah. So, uh, you actually, you also mentioned vitamin C and D, but especially vitamin C,
+ a lot of folks seem to, uh, seem to think it's going to like, you know,
+ actually help cure your cold or something like that. So, um, you know, it might be
+ in the literature. Um, if something has equivocal results, um, if it's like 50,
+ 50, like half studies show some effect, half studies show no effect, it's probably like,
+ just like flipping a coin. And it's probably means that like, it's, it's random chance.
+ It's probably not going to help that much. Um, and so, so like, so you're, so really you're
+ saying like, you know, like really stick to the simple stuff, like have a good diet. Um,
+ and actually speaking of good diet, um, what about fats? Like, um, cause, uh, cause I know that fats
+ are really necessary for weight loss. Um, and so, um, and so, um, and so, um, and so,
+ for, uh, for hormones, especially, uh, you know, steroid hormones and D a K and E, um, you know,
+ some people like to cut out fast from their diet. Um, I don't know why, uh, but, um, but, um, do you
+ have any recommendations for fats, uh, intake for, um, uh, or has, has the literature looked at it
+ for, um, for anything like, is there like a danger to having low fats or like too much fats, you know,
+ you know, other than like at the expense of carbohydrates or like, is that the whole point
+ is like, just keep it balanced.
+ Well, that's a, that's a good question because, um, what I, again, what I, I am always worried
+ is when I haven't, I'm following an athlete and he has these extreme diets, like no fats or very
+ low fat. And as you mentioned, well, fats are important for pro the production of many hormones
+ in our body. And then I think a well-trained athlete that may be already at a, like a low fat,
+ uh, on his body composition with low,
+ low fat.
+ So percentage of his body being fat, if he, again, if he get sick, have a cold or a flu,
+ maybe at least for that period, I would again, go get back to the well-balanced diet, uh, healthy
+ fatties, uh, fatties that are healthier and, uh, like mono, uh, not unsaturated fats like olive
+ oil or from, uh, wild fish. If you have the access to that and, uh, make sure you get really
+ what's healthy from like some fruits and like avocado has, uh, good oils too. And that should
+ be enough for you to get healthy again, back, get back, return to play. And then again, if you want
+ to apply a restriction after you are in good health, that may be the case.
+ Okay, cool. Um, and so, uh, let's also talk about the general immune response. Um, cause you know,
+ uh, I've, um, I haven't looked into this myself cause obviously, you know, the, the immune system
+ to me is actually terrifying cause it's so complicated. Um, and, uh, you know, you've had
+ a lot more time with it than I have. So, um, so are the symptoms that we get when we are sick,
+ like are most of those symptoms, our immune system, or like, is some of that actually from,
+ from an illness actually affecting how our body can function?
+ Excellent question. And actually that's a discussion in the science because
+ one thing that we don't know, uh, for example,
+ let's say you may, you just completed a high intensity workout and after the high intense
+ workout, you know, there is like some injuries to the muscle fibers, to many cells in your body
+ because you are overloading them. And then comes the question, uh, what's coming after this
+ exercise boot high intensity, especially is it inflammation because of the exercise or is it
+ a problem because you overloaded your energy availability for exercise?
+ For example, for carbs and proteins, because that's going to be used on, uh, the recovery of the
+ tissues, like muscle tissue. And then you have a decreased availability from, uh, glucose, glucose
+ and carbs and amino acids, for example, for the immune system. And then it might be more prone to
+ get an infection. And we don't know that yet. We are studying, trying to understand this complex
+ interrelation between, uh, immune system, physiology and the inflammation.
+ Of the recovery. And, uh, you know, there's a lot of discussion these days on, uh, diets that
+ promote, uh, inflammation diets that, uh, help avoid inflammation and how you can recover faster.
+ If you have a diet that promotes, uh, the, uh, has it's less, uh, reduces inflammation. Yeah.
+ Yeah. Reduces inflammation. And then, uh, so we, we really don't have, uh, this discuss this
+ discussion done yet.
+ So we are, it's a work in progress, but, uh, it's a really important question because it may
+ dictate, for example, um, these days there is a strong body of evidence, especially with
+ probiotics, um, showing good and promising results on the information side. And also the, for example,
+ to avoid a recurrent, uh, illnesses or sickness and, uh, long-term. So there is certainly a play between
+ the immune system, the germs that live in your gut and how your, our diet can, uh, change that for good or for bad, but still it's a, uh, recent work and then we need more data and more information to get to the point where we can make like more, um, consistent and decisive, uh, recommendations.
+ Um, also you brought up, uh, inflammation too, and I was actually going to save this for another podcast and we can probably get into it another time.
+ Um, but, uh, since you touched on it, um, you know, the post-exercise inflammation, uh, I think a lot of people are actually terrified of inflammation in a lot of the time because it sounds like a big scary thing. So like, what's the difference between, uh, like normal post-exercise inflammation and like a chronic, um, condition where it requires like real medical treatment, um, like a condition because, because my impression is that, you know, inflammation is just blood flow to tissue, um, to, you know,
+ clean up things and, you know, et cetera, et cetera. Uh, and chronic inflammation that needs medical intervention is something that a condition that like doesn't, there's no like downtime. There's no like it's fixed. Now we can rest like after exercise, uh, presumably. So, uh, what, what's the difference there?
+ Well, the difference is that once you exercise and you again have the tissue injuries or like micro injuries that some people say is that.
+ Uh, that's actually what we need for our body to adapt and become stronger for us, uh, bigger overload in the next session or in the next month or in the next season. And, uh, actually, uh, people have, uh, measured what changes after exercise when, or when you are sick. And, uh, there is of course a change in the neutrophils or like the immune cells, lymphocytes, even the ratio between neutrophils and lymphocytes.
+ Oh, these are scary words to me. Hold on. This is why I don't study the immune system. So, um, so, uh, just real quick. So like those, those cells like, uh, lymphocytes and neutrophils, you said, um, so like their function is like normal immune function. Like they, um, they attack, uh, like six cells or damaged cells and clean them up or like, what's the, what's their exact function?
+ Yes, that's, uh, our defense cells. So they're, they're very complicated. There are seven.
+ There are several kinds and subtypes that are present now in our body. And as you said, well, it's a very complicated, but yeah, they, they do both works. They, they maintain the tissues, uh, healthy state, and also they fight the infections. Uh, for example, just a curious example, uh, when you, you eat something, uh, a lot of the pathogens or the germs,
+ Yeah, just double checking. All right.
+ Okay. They cross the, um, the barrier in the gut. And, uh, but, and people don't realize that.
+ And the barrier goes to the bloodstream.
+ Yeah.
+ Does it also go into the lymph system or no?
+ Actually, they go to the liver.
+ Oh, okay. Oh, right, right, right.
+ And once they get there, we have like these specialized cells, the cup for other microfragile cells that are so efficient that less than 1% of the, uh, the germs or the pathogen.
+ That cross the barrier, uh, we will actually get to the circulation. So, so then, uh, you think about how all the, the time that we are exercising and then also our nutrition and how it relates to our immune system.
+ Yeah, there must be, uh, this correlation or if inflammation, because the immune cells are the cells that are responsible for the inflammation, which is a physiological response after, um, tissue injuries after.
+ Even if it's like a, a wound or, uh, if you're just trained and was like a high intense training and the limitation we have these days is that we don't have, uh, at least the technology is not there yet on ways to measure that.
+ Because if we had that technology, we could go to a lab every day and measure the ratio between nitrofuels and lymphocytes.
+ Yeah. Maybe for elite level athletes, they do that.
+ But for the average population.
+ For the average population, we don't.
+ And then it's really, uh, difficult to find out when, for example, uh, can you do three days in a row of high intensity workouts and be okay?
+ Maybe you need, uh, just to one day and then an easy day and then again another hard day.
+ And then, and then you can adjust how the workload based on a weekly basis or daily basis based on how each immune system, which is very different from person to person, how they work.
+ How do you react, uh, to the inflammation after the exercise, which is a physiological system for recovery and also, um, the tendency to be more prone to get, uh, uh, pathogens when you are, uh, recovering from a workout, which is, uh, no one wants, right?
+ So what's, so what would be a good recommendation for somebody to do this at home to, to think, you know, how's my, how's my immune system reacting to really hard work?
+ Um, like is the next day they just are, do you, would you expect they don't feel good?
+ Or, uh, could they feel good?
+ And like the workout's not great or like, what would be a good, uh, rule of thumb or like a good way to, for somebody to guide themselves through that?
+ Well, you know, a hard workout will always be hurtful, right?
+ It always hurt.
+ And you always think the next day why I did that.
+ So, um, I have my suggestion and what I do with my athletes is always listen to your body.
+ See how, uh, for example, how the performance is changing.
+ From day, uh, from, uh, after a high intense workout to the next day, can you do another one without being sick and start to, especially if you work with a coach, start to discuss.
+ And that's where I always tell my athletes, very important after you finished a workout to really write down how you felt during the workout.
+ What were you feeling at the beginning, at the end?
+ Because with that information, plus the objective data, which is power, heart rate or speed, cadence, whatever you can.
+ Join the piece together and then the coach, you can decide, okay, this athlete usually handles this much of high intense workouts during a week.
+ And that may change with a family stressors or work stressors that may come up at some point.
+ But if you don't have a clear communication with your coach or yourself, it's going to be hard for you to say, okay, it's time to back off.
+ And it's usually when you have a, there's like type a personality athletes that.
+ Push really hard and then they don't want to listen to their body.
+ And they think if they don't train hard, they will lose, um, their performance or their ability to go strong.
+ And actually they are doing the reverse.
+ I always tell my athletes when they have an easy ride today is when you get stronger, not when you are doing the hard work.
+ I love that.
+ That's great.
+ Actually, I've, um, I don't know in the last like two weeks, I've actually, uh, I've told this story a couple of times where, um,
+ you know, I was actually consulting, uh, for a, um, a very, very type a athlete.
+ And, you know, he was like, I do all the workouts to the T I do them exactly the way they're written.
+ And, uh, you know, sometimes I'll even, if I feel okay, I'll do a little more.
+ Um, so you're always going to get exactly what you're, what, uh, what I'm given.
+ Um, and, uh, then it was like, we talked, we start talking about his off the bike habits and, um, and they were, they were really not good.
+ Um, and I had to tell him like, look, you think you're doing a hundred percent of the training.
+ And you're only doing 50% of the training because off the bike is the other 50% of the training.
+ And you're, you, you're basically at like 10% of that.
+ And we need, that is what's really going to drive your performance to the next level.
+ Um, and he actually didn't really want to hear that.
+ So, but I, I couldn't like not tell him cause, uh, cause I, yeah, it's like the off bike stuff and is really so important.
+ And, um, you know, reading your own body and I, you know, your method of feedback is, is pretty much the same thing that,
+ that, you know, I do and that Alex does and that my new assistant coach does.
+ Uh, and so everybody is, um, you know, like everybody at empirical cycling is on the same page.
+ And, you know, this is obviously one of the reasons that I thought you'd be a good fit here and you are, um, and also coaching inquiries, get in touch.
+ Fabiano's awesome.
+ Um, great.
+ Um, it's, uh, I, you know, my, um, my girlfriend and I lately haven't, uh, we've got this joke about, um, it, it takes more mental toughness to get yourself to rest.
+ Than it does to do hard work.
+ Um, I agree.
+ Yeah.
+ Well, it's just, that's like, we joke about that, but like, we, we really mean it.
+ Like it takes more mental toughness to do that.
+ Um, so the next thing I want to touch on actually is, um, um, what can people do?
+ Like, what's the best way to manage being sick?
+ Like, cause I, I, I know you're going to say prevention, um, is to not get sick in the first place.
+ So what methods would you tell somebody?
+ Um, I think the first thing I would say is to not get sick in the first place.
+ Like, does, you know, obviously like, you know, all the stuff that we've learned during COVID, like, you know, should you wear a mask outside, for instance, uh, if you don't want to get sick or, you know, is that more so you don't get to get other people sick?
+ Like what's the deal with that?
+ Uh, should you wash your hands so much?
+ Um, you know, what should you do?
+ Like, does, does dieting make people prone to being sick?
+ Um, you know, travel on airplanes, going to like movie theaters now that that's starting to happen again here in the U S like, what are your, like, what recommendations do you have?
+ Um, very broadly and baby specific.
+ Okay.
+ So that's a very similar to what we have been saying all the time during the COVID-19, uh, pandemics, which is frequent hand washing.
+ If you have a chance to use masks indoors, uh, for, because, you know, it's a respiratory infection.
+ So most, and actually that's a good point because most of the infections that elite athletes get, for example, doing the Olympic games are in fact, um, respiratory infections.
+ Yeah.
+ So that's why we,
+ we tend to, uh, and then the second one is grass, uh, gastrointestinal infections from the gut.
+ So also applies some of the same costs.
+ So like, like food poisoning kind of stuff.
+ Yes.
+ And, uh, so avoid contact between hands, eyes, and nose, which is applies the same for COVID.
+ If it was, if possible, uh, if you are gonna sneeze or cough, cover your mouth and nose with your cup, toe, false, uh, the, the elbow.
+ And so that's of what's the, uh,
+ to spread all the germs, which.
+ Yeah.
+ Cause I see people coughing into their hands and that, and it was like, oh God, wash it, wash it.
+ And then they go touch something.
+ I'm like, oh, I gotta leave the store.
+ Exactly.
+ Yeah.
+ Don't need to be so extreme, but yeah, if you cough to your hand, go wash it and then wash the, maybe the surface surfaces with, or apply some alcohol and make sure you clean it or ethanol.
+ And then, um, if you, if you are like on a sports team, try to avoid.
+ Sharing, uh, water bottles, towels and equipment.
+ And also one last, uh, recommendation is many people don't like that, but avoid excessive and binge drinking after winning a race, for example.
+ So, uh, yeah, it, uh, the alcohol, it really impairs the immune function for several hours.
+ And, uh, especially after some externals training or intense exercise or competition, and that's usually when people want to sell.
+ Right.
+ Yeah.
+ Just want a really tough, um, competition and they want to celebrate, which is not a problem.
+ But if you do be moderate, if that's the same recommendation, actually, how is always, I have a, I have a funny story about my own stupidity.
+ Uh, again, um, this is how I learned lessons.
+ Um, I remember, uh, back in, uh, the mid aughts or the late aughts, I forget when it was exactly.
+ Um, but it was when bird flu was in the U S and it wasn't, you know, it like the death toll wasn't nearly as bad as with.
+ Uh, with Corona virus.
+ Um, and so I remember like when it was in universities, their recommendation was just stay in your dorm, don't go anywhere.
+ Um, and so I think I had it cause I was sicker than I've ever been for like a week straight.
+ Like I was out of work and like, I was, I had all the muscle soreness.
+ I, I was, I had a high fever, um, but I was doing okay.
+ I didn't like need to go to the hospital, but after a week I thought I was completely through it and I had a beer to celebrate.
+ And by the time I was done.
+ Drinking the beer, I was as sick as I was again on like the first day again, I was like, oh my, it took me another week to recover.
+ And I, and I would always wondered like, you know, could one beer really screw up your immune system if you're like recovering?
+ And, uh, my, my anecdotal evidence is like, absolutely.
+ But I, I didn't know that it was like really that strong an effect.
+ Um, so I, that shocked me.
+ Yeah.
+ Yeah.
+ It's a, it's something people don't say a lot.
+ And actually I made a deeper research some time ago.
+ Um, because I had to give an interview about this topic and, uh, actually there is no safe recommendation for, uh, alcohol.
+ Really?
+ So zero is the recommendation.
+ Zero.
+ Yeah.
+ There is no one single document, at least at the point when I searched for it, that had a safe recommendation for alcohol.
+ We discuss a lot about the wine and drinking like moderate, uh, amounts of alcohol, but still no one made, uh, or could make a safe assumption that there is like.
+ Like a safe minimum amount until these days for alcohol.
+ Right.
+ Well, unless you find some biased publication, but that doesn't count, right?
+ Well, I hope not.
+ Um, yeah, but well, you know how some folks are not, not everybody.
+ Most people are, are pretty, uh, pretty knowledgeable about this stuff, but every once in a while, somebody goes, well, it was published.
+ I mean, therefore it's awesome.
+ Right.
+ It's true fact.
+ Right.
+ It was like, ah, maybe not.
+ No, right.
+ Um, okay.
+ So I have, um, uh, uh, just a couple more questions.
+ The first.
+ The first one is when somebody does get sick and they're coming back into training, um, what is your recommendation to gauge if somebody is ready to actually train harder again, or like, you know, should you like, you know, have a, a slow buildup?
+ Like what if somebody is like off the bike for like, is it, do you find that there's difference between like one or two days or like if somebody is off the bike for a week or if somebody is out for, you know, uh, for longer?
+ Yes, we have the recommendations for that.
+ Actually, um, once you get rid of the below the neck symptoms, so muscle pain, myalgia, and, uh, chest, cough, whatever you have below the neck, it's usually, uh, you are no fever, you are allowed to go back, return to play and train, and, uh, the return should be gradual.
+ So we start, I always start with easy recovery rides once my, one of my athletes got back.
+ So I really go short, like maybe just 30 minutes and really like fun rides.
+ Just go have fun with your bike or for running.
+ Running is really always a little bit more stressful than cycling, for example, but still, and then try to really make it easy.
+ And then if you feel okay, next day we progress, maybe 15 minutes, then more 15, and then we progress as, again, based on the athlete's feedback.
+ I'm feeling okay.
+ I'm feeling good.
+ And, uh, and sometimes what may happen is exactly what happened with you after that beer.
+ Yeah.
+ They may feel okay, go for a workout, and they get really bad again.
+ And then, again, stop, no training, even gym, just, uh, focus on hydration, your diet, get rest, even, and, and actually coming back to the prevention, some teams, and that, and that's actually what some amateur athletes do.
+ Also, is stress management, do some training on how to cope with stress, because you can change the stress that they will be coming up all the time.
+ Yeah.
+ But depending on how you deal with stress, they have this interesting research some time ago that made, I think, was four groups, and they were comparing how people react to death and the sense they may die some point.
+ Mm-hmm.
+ And actually, they found out that the ones that were really believing.
+ That they would get sick, although they had no risk factors to be sick from cardiovascular events, for example, they really got sick.
+ Oh.
+ Just because you imagine how powerful our brain is.
+ And then, that stress management, you know, everybody's submitted to similar stress.
+ Oh, because you have a systemic stress response, and that actually puts your body more into the fight or flight mode, and that actually reduces immune system activity.
+ Exactly.
+ Yeah.
+ That's what, I mean, they couldn't find, like, a causal relationship.
+ Mm-hmm.
+ But they found that people that didn't know how to react to the stressors of their life were believing that were, like, oh, I really suffer more, the problems are bigger on my side, something like that.
+ Yeah.
+ They really had more cardiovascular events later in the study.
+ Interesting.
+ Even if they were, like, no problems with BMI, the weight, or diabetes, or whatever, like, risk factor you may consider for sedentary life, for example.
+ Yeah.
+ They were still paying a higher price just because they believed they were at a higher risk.
+ And one last one is maybe the use of probiotics, as I said some time ago in this episode.
+ So, what would be, like, a probiotic?
+ Would that be, like, a kombucha or a yogurt or something like that?
+ I would say the yogurt is, like, the cheapest and more easier access than, of course, you have some really higher price, more specialized probiotics.
+ But if you are just trying to, again, include that into your regular diet, your goods are probably the best option at this point.
+ Okay, cool.
+ Awesome.
+ So, I think, actually, one of the last things I wanted to touch on here is, you know, before the podcast, you and I had talked about a lot of the data that we have on illness is actually from Olympic athletes, not amateur athletes.
+ And we had kind of touched on this before with, you know, amateur athletes.
+ So, is there, like, a bias in the literature almost where, you know, there's a lot of data on, you know, the highest level athletes and there's not so much on amateurs?
+ Yes.
+ It's very limited amount of data that we have on how to do the prevention, how to treat, and even return to play, you know.
+ An elite athlete will have all the possibilities.
+ Most of the time, to speed up his recovery and get back to play sooner than the others.
+ And when you think about the amateur athlete, he's sick, he has family, he has his job, and also maybe not access to the well-balanced diet that elite level athletes have.
+ And then you have to consider that when you are working with an amateur or a master athlete, that it may take longer for him to recover.
+ And don't just try to push.
+ As you may see on Instagram with other athletes that recover, which are elite level, and they may have access to faster recovery techniques just because they have this access.
+ So, again, if you are working with amateur, they may take longer because of how they have to access to other solutions compared to elite level.
+ And also because we don't have data for.
+ That's specific for them.
+ And that's similar to what we have these days on COVID.
+ Most of the data regarding return to play on the COVID-19 is on publics or people that are not like young athletes.
+ So, they might have different approach risk factors compared to younger athletes.
+ And then when we have to take the decision on is he allowed or not to get back.
+ To training, you don't have all the pieces of the puzzle yet because we don't really have enough data from elite level or younger athletes to judge the exams and the clinical state of the athlete.
+ If it was like a symptomatic or mild or moderate, was he hospitalized or had some cardiovascular events.
+ So, yeah, it's a work in progress.
+ And the same applies with even though if this, if you think just about COVID.
+ Not all the information is very broad, the public that was studied before.
+ Yeah.
+ Actually, I wanted to ask you about Remco Evenpol because he famously crashed really hard.
+ And I think he said in an interview he had been trying to lose weight during his recovery and that it had delayed his recovery.
+ So, that's the kind of thing where I think a lot of folks might go.
+ Oh, well, you know, like, why would he do that or like either or some folks would go, oh, my God, I've tried to do that and I've delayed my own recovery.
+ So, you know, so are there any other like famous examples like, you know, of elite athletes where or even amateur athletes where, you know, there's a there's like a good, you know, object lesson in, you know, recovery mistakes or successes even.
+ Well, actually myself.
+ I'm not an athlete.
+ I'm not an athlete.
+ Right now, I am working with an athlete that was having some cold at the beginning.
+ We were believing, but his recovery is taking longer than what we would like to.
+ So, I might actually send this podcast to him at the end.
+ And that's maybe one of the challenges of remote coaching because you don't really can see the athlete and maybe make a more appropriate judgment.
+ And how it went to take off, take a day off or a few days off.
+ And we have been really conservative, but in my opinion, it's taking longer than it should be.
+ And actually, just today, I discussed with him, maybe we need a few days off.
+ Yeah, even no, no light training.
+ And then that all comes back.
+ You mentioned a good point on the weight loss story.
+ Is when you when you think about weight loss, it's better to do it when you're in the training is on a lower intensity because it's at the toe on the immune system is lower and you are already on a caloric deficit.
+ So, it may increase your chances that you will not get sick because of the caloric deficit.
+ Yeah.
+ And once you have an injury and you need this energy for the recovery of the tissue.
+ And you do some weight loss diet, that's counterintuitive.
+ You should probably avoid that because you need that energy to fix the tissues and then after that may consider weight loss.
+ All right, so my very last question is, so what did you learn during your PhD on the differences between men and women in the renal angiotensin system?
+ The studies I did were really, really basic on that.
+ So, I learned a lot about the cellular level and also on the computer simulations, but we found out that there are some proteins that are specific to men, like SRY and ones that are shared between men and women, like the SOX family is where the SRY belongs to.
+ So, the SRY is just in men, doesn't exist in women.
+ Because it's on the Y chromosome.
+ Exactly.
+ So, it's on the Y chromosome.
+ But there are other proteins that are similar.
+ There are other proteins that are on women and men, and we were able to find that at least on cellular level, we need more clinical and human studies to prove our theories that there is a different regulation of the renal angiotensin system at the promoter level of these genes, which is, and as you know, this system is like fundamental to keep some aspects of the cardiovascular system, like the stroke volume, the blood volume, and because of that,
+ because they regulate at the kidney level how much urine you do, how much you filter of your blood, and if we are seeing difference between the regulation of these genes in men and women, it may explain why there are some difference, for example, in the incidence of hypertension, which is a disease derived from a misregulation of the renal, well, in some cases, a misregulation of the renal angiotensin system.
+ Right, because somebody has so much blood volume that it's causing their cardiac hypertrophy, but their heart never gets a chance to rest and recover.
+ Is that more or less right for hypertension?
+ Yeah, you are.
+ Well, there are many changes in hypertension, for example, increased vascular resistance, peripheral vascular resistance.
+ So, the heart has to work harder to pump the blood.
+ Yeah, and then you have a higher pressure to wing the pressure or the resistance at the vessels.
+ So, that's why, for example, the changes you have on your heart when you have hypertension is different from when you have the changes from exercising, and then usually the ones from the hypertension are not beneficial for your heart because it gets thicker, but the chamber inside gets smaller compared to the exercise when the muscle grows also, but the chamber grows also.
+ So, that's how you get more stroke volume, more...
+ Cardiac output during the exercise, and then that's why important, for example, especially men, if you have a higher risk factor for hypertension to check your pressure frequently, and if you need medicine or do more exercise, and then avoid the risk factors associated with sedentary life or lack of exercise, and then get the beneficial changes that you get from exercise, especially endocrine.
+ So, that's why, for example, the changes you have on your heart when you have the pressure to wing the pressure, and then usually the ones from the hypertension are not beneficial for your heart because it gets thicker, but the chamber inside gets smaller compared to the exercise when the muscle grows also, but the chamber inside gets smaller compared to the exercise when the muscle grows also, and then get the beneficial changes that you get from exercise.
+ So, that's how you get more stroke volume.
+ So, that's how you get more stroke volume.
+ So, that's how you get more stroke volume.
+ So, that's how you get more stroke volume.
+ So, that's how you get more stroke volume.

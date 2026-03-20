@@ -1,0 +1,2433 @@
+{
+  "noise": {
+    "count": 33,
+    "top_terms": [
+      {
+        "term": "intensity",
+        "score": 0.0271
+      },
+      {
+        "term": "threshold",
+        "score": 0.0251
+      },
+      {
+        "term": "fat",
+        "score": 0.0238
+      },
+      {
+        "term": "group",
+        "score": 0.0236
+      },
+      {
+        "term": "weight",
+        "score": 0.023
+      },
+      {
+        "term": "intervals",
+        "score": 0.023
+      },
+      {
+        "term": "workouts",
+        "score": 0.0229
+      },
+      {
+        "term": "watts",
+        "score": 0.0229
+      },
+      {
+        "term": "year",
+        "score": 0.0227
+      },
+      {
+        "term": "efforts",
+        "score": 0.0225
+      },
+      {
+        "term": "years",
+        "score": 0.0221
+      },
+      {
+        "term": "coach",
+        "score": 0.022
+      },
+      {
+        "term": "hour",
+        "score": 0.022
+      },
+      {
+        "term": "workout",
+        "score": 0.022
+      },
+      {
+        "term": "performance",
+        "score": 0.0219
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "643137612-empiricalcyclingpodcast-the-watts-doc-9-strength-endurance-and-the-size-principle.txt",
+        "numeric_id": 643137612,
+        "word_count": 8211,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "654554156-empiricalcyclingpodcast-the-watts-doc-10-can-fat-adaptive-diets-lead-to-better-performance-through-glycogen-sparing.txt",
+        "numeric_id": 654554156,
+        "word_count": 7327,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "662678975-empiricalcyclingpodcast-ten-minute-tips-1-training-for-cyclocross-season.txt",
+        "numeric_id": 662678975,
+        "word_count": 1667,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "690199822-empiricalcyclingpodcast-the-watts-doc-12-can-fiber-type-predict-carb-or-fat-use.txt",
+        "numeric_id": 690199822,
+        "word_count": 7018,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "782049499-empiricalcyclingpodcast-training-and-season-planning-of-pandemic-proportions.txt",
+        "numeric_id": 782049499,
+        "word_count": 5760,
+        "series": "Other"
+      },
+      {
+        "filename": "1160146492-empiricalcyclingpodcast-watts-doc-34-why-keto-is-not-the-diet-youre-looking-for.txt",
+        "numeric_id": 1160146492,
+        "word_count": 8513,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1178110471-empiricalcyclingpodcast-watts-doc-35-fatmax-fallacies.txt",
+        "numeric_id": 1178110471,
+        "word_count": 10595,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1193887846-empiricalcyclingpodcast-perspectives-6-how-to-design-a-workout-for-a-million-people-with-shayne-gaffney.txt",
+        "numeric_id": 1193887846,
+        "word_count": 13009,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1233728686-empiricalcyclingpodcast-watts-doc-37-your-fast-twitch-fibers-probably-as-aerobic-as-your-slow-twitch.txt",
+        "numeric_id": 1233728686,
+        "word_count": 14351,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1242394087-empiricalcyclingpodcast-nasa-physicist-reveals-string-theory-secret-to-unlocking-your-cycling-performance.txt",
+        "numeric_id": 1242394087,
+        "word_count": 11100,
+        "series": "Other"
+      },
+      {
+        "filename": "1274671426-empiricalcyclingpodcast-perspectives-14-kitchen-sink-conversation-with-matt-desroches.txt",
+        "numeric_id": 1274671426,
+        "word_count": 21246,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1287323614-empiricalcyclingpodcast-ten-minute-tips-20-training-myths-part-1.txt",
+        "numeric_id": 1287323614,
+        "word_count": 8928,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1338356839-empiricalcyclingpodcast-perspectives-17-evolution-vs-revolution-with-mikael-eriksson.txt",
+        "numeric_id": 1338356839,
+        "word_count": 19954,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1376019016-empiricalcyclingpodcast-400k-ama.txt",
+        "numeric_id": 1376019016,
+        "word_count": 26442,
+        "series": "Other"
+      },
+      {
+        "filename": "1383294643-empiricalcyclingpodcast-perspectives-20-the-reality-of-data-in-training-and-coaching-with-tim-cusick.txt",
+        "numeric_id": 1383294643,
+        "word_count": 27009,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1426345801-empiricalcyclingpodcast-watts-doc-42the-relationship-between-size-and-power.txt",
+        "numeric_id": 1426345801,
+        "word_count": 20594,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1467501217-empiricalcyclingpodcast-watts-doc-43-over-unders-are-not-special.txt",
+        "numeric_id": 1467501217,
+        "word_count": 15693,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1493985610-empiricalcyclingpodcast-500k-roasting-kolies-early-training-plans.txt",
+        "numeric_id": 1493985610,
+        "word_count": 21974,
+        "series": "Other"
+      },
+      {
+        "filename": "1504009219-empiricalcyclingpodcast-perspectives-25-the-coaching-and-training-behind-a-parix-roubaix-victory-with-adam-pulford.txt",
+        "numeric_id": 1504009219,
+        "word_count": 17282,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1641431880-empiricalcyclingpodcast-watts-doc-46-why-low-glycogen-training-probably-doesnt-work.txt",
+        "numeric_id": 1641431880,
+        "word_count": 17086,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1712873712-empiricalcyclingpodcast-ten-minute-tips-32-where-training-zones-fall-short.txt",
+        "numeric_id": 1712873712,
+        "word_count": 18782,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1752139989-empiricalcyclingpodcast-ten-minute-tips-35-higher-ftp-vs-longer-tte.txt",
+        "numeric_id": 1752139989,
+        "word_count": 20666,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1783447314-empiricalcyclingpodcast-watts-doc-49-endurance-intensity-and-volume.txt",
+        "numeric_id": 1783447314,
+        "word_count": 25998,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1806924468-empiricalcyclingpodcast-perspectives-32-coaching-mistakes-and-what-makes-a-good-coach.txt",
+        "numeric_id": 1806924468,
+        "word_count": 14390,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "2024446488-empiricalcyclingpodcast-ten-minute-tips-49-practical-proxies-for-stimulus.txt",
+        "numeric_id": 2024446488,
+        "word_count": 16464,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2067161732-empiricalcyclingpodcast-ten-minute-tips-53-leveling-up-parenting-and-training.txt",
+        "numeric_id": 2067161732,
+        "word_count": 16002,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2096001957-empiricalcyclingpodcast-perspectives-39-an-unexpected-balance-with-james-mckay.txt",
+        "numeric_id": 2096001957,
+        "word_count": 15894,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "2098202721-empiricalcyclingpodcast-ten-minute-tips-56-resetting-goals-and-motivation.txt",
+        "numeric_id": 2098202721,
+        "word_count": 17697,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2121761955-empiricalcyclingpodcast-ten-minute-tips-59-considerations-for-cramps.txt",
+        "numeric_id": 2121761955,
+        "word_count": 12899,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2158767849-empiricalcyclingpodcast-ten-minute-tips-62-why-ftp-isnt-for-setting-training-zones-and-alternative-approaches.txt",
+        "numeric_id": 2158767849,
+        "word_count": 13039,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2219611610-empiricalcyclingpodcast-1m-ama.txt",
+        "numeric_id": 2219611610,
+        "word_count": 22675,
+        "series": "Other"
+      },
+      {
+        "filename": "2239584818-empiricalcyclingpodcast-ten-minute-tips-69-the-case-for-riding-easier.txt",
+        "numeric_id": 2239584818,
+        "word_count": 22376,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2243291618-empiricalcyclingpodcast-ten-minute-tips-70-fitness-beyond-ftp.txt",
+        "numeric_id": 2243291618,
+        "word_count": 14448,
+        "series": "Ten Minute Tips"
+      }
+    ]
+  },
+  "cluster_0": {
+    "count": 14,
+    "top_terms": [
+      {
+        "term": "squat",
+        "score": 0.0784
+      },
+      {
+        "term": "squats",
+        "score": 0.0682
+      },
+      {
+        "term": "rep",
+        "score": 0.0627
+      },
+      {
+        "term": "strength",
+        "score": 0.0595
+      },
+      {
+        "term": "lift",
+        "score": 0.0589
+      },
+      {
+        "term": "leg",
+        "score": 0.0586
+      },
+      {
+        "term": "bar",
+        "score": 0.0579
+      },
+      {
+        "term": "lifting",
+        "score": 0.0561
+      },
+      {
+        "term": "rep max",
+        "score": 0.0555
+      },
+      {
+        "term": "range motion",
+        "score": 0.0552
+      },
+      {
+        "term": "exercises",
+        "score": 0.0545
+      },
+      {
+        "term": "single leg",
+        "score": 0.0541
+      },
+      {
+        "term": "strength training",
+        "score": 0.0537
+      },
+      {
+        "term": "weights",
+        "score": 0.0535
+      },
+      {
+        "term": "reps",
+        "score": 0.0504
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "609366960-empiricalcyclingpodcast-the-watts-doc-5-can-you-lift-heavy-while-endurance-training.txt",
+        "numeric_id": 609366960,
+        "word_count": 6701,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "905916682-empiricalcyclingpodcast-ten-minute-tips-7-breathing-for-heavy-lifting.txt",
+        "numeric_id": 905916682,
+        "word_count": 1604,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "908893702-empiricalcyclingpodcast-ten-minute-tips-8-back-squat-stance.txt",
+        "numeric_id": 908893702,
+        "word_count": 1737,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1147948660-empiricalcyclingpodcast-ten-minute-tips-12-getting-into-strength-training.txt",
+        "numeric_id": 1147948660,
+        "word_count": 14015,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1152867367-empiricalcyclingpodcast-ten-minute-tips-13-what-strength-exercises-should-you-do.txt",
+        "numeric_id": 1152867367,
+        "word_count": 10904,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1157291071-empiricalcyclingpodcast-ten-minute-tips-14-sets-and-reps-for-strength-training.txt",
+        "numeric_id": 1157291071,
+        "word_count": 10820,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1166354014-empiricalcyclingpodcast-ten-minute-tips-15-periodizing-strength-training-for-cycling-performance.txt",
+        "numeric_id": 1166354014,
+        "word_count": 14077,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1190822572-empiricalcyclingpodcast-ten-minute-tips-16-can-functional-training-get-too-functional.txt",
+        "numeric_id": 1190822572,
+        "word_count": 9551,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1292568055-empiricalcyclingpodcast-perspectives-15-a-discussion-on-strength-training-with-rj-boergers-and-angelo-gingerelli.txt",
+        "numeric_id": 1292568055,
+        "word_count": 13879,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1646875578-empiricalcyclingpodcast-ten-minute-tips-30-strength-training-mistakes-every-cyclist-makes.txt",
+        "numeric_id": 1646875578,
+        "word_count": 21168,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1731147645-empiricalcyclingpodcast-ten-minute-tips-34-intermediate-and-advanced-strength-training-mistakes-and-solutions.txt",
+        "numeric_id": 1731147645,
+        "word_count": 21460,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1935688253-empiricalcyclingpodcast-ten-minute-tips-42-the-training-implications-of-strength-as-a-skill.txt",
+        "numeric_id": 1935688253,
+        "word_count": 19199,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2007607963-empiricalcyclingpodcast-ten-minute-tips-47-strength-training-with-limited-equipment.txt",
+        "numeric_id": 2007607963,
+        "word_count": 23262,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2172181272-empiricalcyclingpodcast-watts-doc-56-strength-training-strategies-to-avoid-weight-gain.txt",
+        "numeric_id": 2172181272,
+        "word_count": 18066,
+        "series": "Watts Doc"
+      }
+    ]
+  },
+  "cluster_1": {
+    "count": 11,
+    "top_terms": [
+      {
+        "term": "study",
+        "score": 0.0481
+      },
+      {
+        "term": "paper",
+        "score": 0.0439
+      },
+      {
+        "term": "scientific",
+        "score": 0.0391
+      },
+      {
+        "term": "data",
+        "score": 0.0391
+      },
+      {
+        "term": "value",
+        "score": 0.0386
+      },
+      {
+        "term": "analysis",
+        "score": 0.0376
+      },
+      {
+        "term": "studies",
+        "score": 0.0373
+      },
+      {
+        "term": "science",
+        "score": 0.0362
+      },
+      {
+        "term": "results",
+        "score": 0.036
+      },
+      {
+        "term": "authors",
+        "score": 0.0351
+      },
+      {
+        "term": "plot",
+        "score": 0.0343
+      },
+      {
+        "term": "protocol",
+        "score": 0.033
+      },
+      {
+        "term": "papers",
+        "score": 0.0327
+      },
+      {
+        "term": "vo2",
+        "score": 0.0317
+      },
+      {
+        "term": "literature",
+        "score": 0.0312
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "708990247-empiricalcyclingpodcast-ten-minute-tips-3-bro-science.txt",
+        "numeric_id": 708990247,
+        "word_count": 1587,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "949117027-empiricalcyclingpodcast-ten-minute-tips-10-how-to-read-a-scientific-paper.txt",
+        "numeric_id": 949117027,
+        "word_count": 3158,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1977186143-empiricalcyclingpodcast-ten-minute-tips-46-pitfalls-of-science-interpretation-and-communication.txt",
+        "numeric_id": 1977186143,
+        "word_count": 21341,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2040860164-empiricalcyclingpodcast-perspectives-38-training-intensity-distributions-nirs-and-iliac-arteries-with-jem-arnold.txt",
+        "numeric_id": 2040860164,
+        "word_count": 22439,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "2045615796-empiricalcyclingpodcast-ten-minute-tips-51-rpe-workout-feedback-adaptation-and-health-outcomes.txt",
+        "numeric_id": 2045615796,
+        "word_count": 20132,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2135972586-empiricalcyclingpodcast-watts-doc-55-the-right-vo2max-training-and-3015s-epilogue.txt",
+        "numeric_id": 2135972586,
+        "word_count": 22549,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2191047787-empiricalcyclingpodcast-watts-doc-58-creatines-actual-effects-on-cycling-performance.txt",
+        "numeric_id": 2191047787,
+        "word_count": 20936,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2228139536-empiricalcyclingpodcast-ten-minute-tips-68-using-data-in-coaching.txt",
+        "numeric_id": 2228139536,
+        "word_count": 14170,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2232262637-empiricalcyclingpodcast-watts-doc-60-durabilitys-limitations.txt",
+        "numeric_id": 2232262637,
+        "word_count": 23950,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2260862555-empiricalcyclingpodcast-watts-doc-61-quantifying.txt",
+        "numeric_id": 2260862555,
+        "word_count": 15626,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2273197247-empiricalcyclingpodcast-watts-doc-62-setting-up-your-n.txt",
+        "numeric_id": 2273197247,
+        "word_count": 19108,
+        "series": "Watts Doc"
+      }
+    ]
+  },
+  "cluster_2": {
+    "count": 9,
+    "top_terms": [
+      {
+        "term": "oxygen",
+        "score": 0.061
+      },
+      {
+        "term": "vo2",
+        "score": 0.0558
+      },
+      {
+        "term": "vo2 max",
+        "score": 0.0554
+      },
+      {
+        "term": "liters",
+        "score": 0.0553
+      },
+      {
+        "term": "uptake",
+        "score": 0.0521
+      },
+      {
+        "term": "liters minute",
+        "score": 0.0502
+      },
+      {
+        "term": "heart rate",
+        "score": 0.0494
+      },
+      {
+        "term": "lactate",
+        "score": 0.0489
+      },
+      {
+        "term": "heart",
+        "score": 0.047
+      },
+      {
+        "term": "blood lactate",
+        "score": 0.0466
+      },
+      {
+        "term": "maximal",
+        "score": 0.0451
+      },
+      {
+        "term": "rate",
+        "score": 0.0451
+      },
+      {
+        "term": "oxygen uptake",
+        "score": 0.045
+      },
+      {
+        "term": "subject",
+        "score": 0.0448
+      },
+      {
+        "term": "subjects",
+        "score": 0.0436
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "604940037-empiricalcyclingpodcast-how-high-intensity-interval-training-makes-you-faster.txt",
+        "numeric_id": 604940037,
+        "word_count": 5674,
+        "series": "Other"
+      },
+      {
+        "filename": "671509502-empiricalcyclingpodcast-the-watts-doc-11-ftp-vs-vo2max.txt",
+        "numeric_id": 671509502,
+        "word_count": 4302,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "718876606-empiricalcyclingpodcast-ten-minute-tips-4-stress-strain-do-your-intervals-do-what-you-think-they-do.txt",
+        "numeric_id": 718876606,
+        "word_count": 1344,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "732563563-empiricalcyclingpodcast-watts-doc-15-heart-rate-or-power-to-pace-endurance-rides.txt",
+        "numeric_id": 732563563,
+        "word_count": 7889,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "807518419-empiricalcyclingpodcast-watts-doc-18-why-everything-you-know-about-vo2max-power-is-probably-wrong.txt",
+        "numeric_id": 807518419,
+        "word_count": 9308,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "814478485-empiricalcyclingpodcast-watts-doc-19-the-vo2max-slow-component-explained.txt",
+        "numeric_id": 814478485,
+        "word_count": 7362,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "861596371-empiricalcyclingpodcast-watts-doc-23-training-your-vo2max-and-why-not-ronnestad-3015-intervals.txt",
+        "numeric_id": 861596371,
+        "word_count": 16749,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "868876051-empiricalcyclingpodcast-watts-doc-24-listener-questions-on-vo2max-training-and-ronnestad-3015s.txt",
+        "numeric_id": 868876051,
+        "word_count": 13011,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1227101434-empiricalcyclingpodcast-watts-doc-36-how-power-meters-make-lactate-testing-nearly-obsolete.txt",
+        "numeric_id": 1227101434,
+        "word_count": 16884,
+        "series": "Watts Doc"
+      }
+    ]
+  },
+  "cluster_3": {
+    "count": 5,
+    "top_terms": [
+      {
+        "term": "exercise physiology",
+        "score": 0.0572
+      },
+      {
+        "term": "lactate",
+        "score": 0.0569
+      },
+      {
+        "term": "critical power",
+        "score": 0.0534
+      },
+      {
+        "term": "maximal lactate steady",
+        "score": 0.0482
+      },
+      {
+        "term": "lactate steady",
+        "score": 0.0476
+      },
+      {
+        "term": "lactate steady state",
+        "score": 0.0474
+      },
+      {
+        "term": "maximal lactate",
+        "score": 0.0474
+      },
+      {
+        "term": "blood lactate",
+        "score": 0.0474
+      },
+      {
+        "term": "lt1",
+        "score": 0.0457
+      },
+      {
+        "term": "millimole",
+        "score": 0.0454
+      },
+      {
+        "term": "critical",
+        "score": 0.0438
+      },
+      {
+        "term": "exercise",
+        "score": 0.0438
+      },
+      {
+        "term": "fatty",
+        "score": 0.043
+      },
+      {
+        "term": "steady state",
+        "score": 0.0428
+      },
+      {
+        "term": "education",
+        "score": 0.0419
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "992187046-empiricalcyclingpodcast-ten-minute-tips-11-integrating-physiology-into-coaching.txt",
+        "numeric_id": 992187046,
+        "word_count": 5442,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1219977919-empiricalcyclingpodcast-perspectives-9-pragmatic-physiology-and-nutrition-with-tim-podlogar.txt",
+        "numeric_id": 1219977919,
+        "word_count": 12997,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1309266271-empiricalcyclingpodcast-perspectives-16-experiment-vs-experience-with-marinus-petersen.txt",
+        "numeric_id": 1309266271,
+        "word_count": 17124,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1345272511-empiricalcyclingpodcast-perspectives-18-overcoming-historical-inertia-with-andy-coggan.txt",
+        "numeric_id": 1345272511,
+        "word_count": 19331,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1353913138-empiricalcyclingpodcast-perspectives-19-adaptation-signaling-and-performance-with-andy-coggan.txt",
+        "numeric_id": 1353913138,
+        "word_count": 20360,
+        "series": "Perspectives"
+      }
+    ]
+  },
+  "cluster_4": {
+    "count": 11,
+    "top_terms": [
+      {
+        "term": "minute test",
+        "score": 0.0521
+      },
+      {
+        "term": "20 minute",
+        "score": 0.0511
+      },
+      {
+        "term": "critical power",
+        "score": 0.0509
+      },
+      {
+        "term": "20 minute test",
+        "score": 0.0508
+      },
+      {
+        "term": "lactate",
+        "score": 0.05
+      },
+      {
+        "term": "tests",
+        "score": 0.0489
+      },
+      {
+        "term": "watts",
+        "score": 0.0479
+      },
+      {
+        "term": "lactate steady",
+        "score": 0.0472
+      },
+      {
+        "term": "lactate steady state",
+        "score": 0.0471
+      },
+      {
+        "term": "test",
+        "score": 0.0467
+      },
+      {
+        "term": "ftp test",
+        "score": 0.0466
+      },
+      {
+        "term": "testing",
+        "score": 0.0453
+      },
+      {
+        "term": "maximal lactate",
+        "score": 0.0443
+      },
+      {
+        "term": "maximal lactate steady",
+        "score": 0.0439
+      },
+      {
+        "term": "ftp um",
+        "score": 0.0434
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "594860211-empiricalcyclingpodcast-the-watts-doc-1-ftp-testing.txt",
+        "numeric_id": 594860211,
+        "word_count": 9145,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "601928829-empiricalcyclingpodcast-the-watts-doc-3-is-there-anything-special-about-2x20.txt",
+        "numeric_id": 601928829,
+        "word_count": 5352,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "631172070-empiricalcyclingpodcast-the-watts-doc-8-ftp-vs-critical-power.txt",
+        "numeric_id": 631172070,
+        "word_count": 5570,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "726050497-empiricalcyclingpodcast-the-watts-doc-14-effective-ftp-training.txt",
+        "numeric_id": 726050497,
+        "word_count": 5273,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "769739140-empiricalcyclingpodcast-the-watts-doc-16-listener-questions-on-ftp-training.txt",
+        "numeric_id": 769739140,
+        "word_count": 7906,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "893177815-empiricalcyclingpodcast-watts-doc-26-ftp-testing-revisited.txt",
+        "numeric_id": 893177815,
+        "word_count": 9586,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1205855287-empiricalcyclingpodcast-ten-minute-tips-18-metrics-are-not-fitness.txt",
+        "numeric_id": 1205855287,
+        "word_count": 8852,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1324590415-empiricalcyclingpodcast-watts-doc-39-why-you-probably-cant-hold-your-ftp-for-an-hour.txt",
+        "numeric_id": 1324590415,
+        "word_count": 19480,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2168476551-empiricalcyclingpodcast-ten-minute-tips-63-the-best-and-worst-ways-to-test-ftp.txt",
+        "numeric_id": 2168476551,
+        "word_count": 15927,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2175917922-empiricalcyclingpodcast-watts-doc-57-finding-ftp-by-feel-is-easier-than-you-think.txt",
+        "numeric_id": 2175917922,
+        "word_count": 19046,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2283684374-ten-minute-tips-74-ftp.txt",
+        "numeric_id": 2283684374,
+        "word_count": 11312,
+        "series": "Ten Minute Tips"
+      }
+    ]
+  },
+  "cluster_5": {
+    "count": 5,
+    "top_terms": [
+      {
+        "term": "seconds like",
+        "score": 0.0448
+      },
+      {
+        "term": "seconds",
+        "score": 0.0443
+      },
+      {
+        "term": "workout",
+        "score": 0.0433
+      },
+      {
+        "term": "fail",
+        "score": 0.0425
+      },
+      {
+        "term": "unders",
+        "score": 0.0418
+      },
+      {
+        "term": "cadence",
+        "score": 0.0416
+      },
+      {
+        "term": "anaerobic capacity",
+        "score": 0.041
+      },
+      {
+        "term": "motor",
+        "score": 0.0409
+      },
+      {
+        "term": "watts",
+        "score": 0.0408
+      },
+      {
+        "term": "30 30s",
+        "score": 0.0405
+      },
+      {
+        "term": "crush",
+        "score": 0.0403
+      },
+      {
+        "term": "workouts",
+        "score": 0.04
+      },
+      {
+        "term": "anaerobic",
+        "score": 0.0394
+      },
+      {
+        "term": "pacing",
+        "score": 0.0392
+      },
+      {
+        "term": "threshold",
+        "score": 0.039
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "936171130-empiricalcyclingpodcast-watts-doc-27-training-repeated-sprint-ability.txt",
+        "numeric_id": 936171130,
+        "word_count": 12890,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1164677890-empiricalcyclingpodcast-200k-the-best-and-worst-workouts.txt",
+        "numeric_id": 1164677890,
+        "word_count": 12422,
+        "series": "Other"
+      },
+      {
+        "filename": "1253680522-empiricalcyclingpodcast-ten-minute-tips-19-ftp-testing-shortcuts.txt",
+        "numeric_id": 1253680522,
+        "word_count": 10890,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1440628345-empiricalcyclingpodcast-ten-minute-tips-22-the-case-against-erg-mode.txt",
+        "numeric_id": 1440628345,
+        "word_count": 15886,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1472759278-empiricalcyclingpodcast-ten-minute-tips-27-programming-over-under-workouts.txt",
+        "numeric_id": 1472759278,
+        "word_count": 10633,
+        "series": "Ten Minute Tips"
+      }
+    ]
+  },
+  "cluster_6": {
+    "count": 10,
+    "top_terms": [
+      {
+        "term": "calories",
+        "score": 0.0478
+      },
+      {
+        "term": "intake",
+        "score": 0.0473
+      },
+      {
+        "term": "fueling",
+        "score": 0.0469
+      },
+      {
+        "term": "sodium",
+        "score": 0.0454
+      },
+      {
+        "term": "diet",
+        "score": 0.0447
+      },
+      {
+        "term": "nutrition",
+        "score": 0.0447
+      },
+      {
+        "term": "glucose",
+        "score": 0.0434
+      },
+      {
+        "term": "deficit",
+        "score": 0.0414
+      },
+      {
+        "term": "carbs",
+        "score": 0.041
+      },
+      {
+        "term": "eating",
+        "score": 0.0403
+      },
+      {
+        "term": "protein",
+        "score": 0.04
+      },
+      {
+        "term": "foods",
+        "score": 0.0395
+      },
+      {
+        "term": "grams",
+        "score": 0.0395
+      },
+      {
+        "term": "carb",
+        "score": 0.0394
+      },
+      {
+        "term": "exercise",
+        "score": 0.0394
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "676806552-empiricalcyclingpodcast-tmt2-homemade-hydration-mix.txt",
+        "numeric_id": 676806552,
+        "word_count": 1606,
+        "series": "Other"
+      },
+      {
+        "filename": "1046186038-empiricalcyclingpodcast-perspectives-2-how-to-manage-sickness-with-dr-fabiano-araujo.txt",
+        "numeric_id": 1046186038,
+        "word_count": 10003,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1258345612-empiricalcyclingpodcast-perspectives-12-a-deep-dive-into-ride-food-with-namrita-brooke.txt",
+        "numeric_id": 1258345612,
+        "word_count": 15906,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1450793536-empiricalcyclingpodcast-perspectives-23-weight-loss-diets-for-endurance-performance-with-namrita-brooke.txt",
+        "numeric_id": 1450793536,
+        "word_count": 20313,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1481215921-empiricalcyclingpodcast-perspectives-24-continuous-glucose-monitors-kristen-faulkner-and-athlete-health.txt",
+        "numeric_id": 1481215921,
+        "word_count": 10712,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1966298519-empiricalcyclingpodcast-perspectives-36-the-consequences-of-chronic-underfueling-with-traci-carson.txt",
+        "numeric_id": 1966298519,
+        "word_count": 15692,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "2036173748-empiricalcyclingpodcast-ten-minute-tips-50-fat-and-carb-burning-myths.txt",
+        "numeric_id": 2036173748,
+        "word_count": 15260,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2154769800-empiricalcyclingpodcast-perspectives-40-energy-expenditure-and-compensation-with-eric-trexler.txt",
+        "numeric_id": 2154769800,
+        "word_count": 20944,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "2223337298-empiricalcyclingpodcast-watts-doc-59-a-muscle-glycogen-paradox.txt",
+        "numeric_id": 2223337298,
+        "word_count": 14106,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2286114404_empirical_cycling_po_perspectives_41_macr.txt",
+        "numeric_id": 2286114404,
+        "word_count": 15543,
+        "series": "Perspectives"
+      }
+    ]
+  },
+  "cluster_7": {
+    "count": 6,
+    "top_terms": [
+      {
+        "term": "fat",
+        "score": 0.0393
+      },
+      {
+        "term": "aerobic",
+        "score": 0.0376
+      },
+      {
+        "term": "twitch",
+        "score": 0.0363
+      },
+      {
+        "term": "anaerobic",
+        "score": 0.0348
+      },
+      {
+        "term": "cadence",
+        "score": 0.0347
+      },
+      {
+        "term": "vo2 max",
+        "score": 0.0345
+      },
+      {
+        "term": "vo2",
+        "score": 0.0344
+      },
+      {
+        "term": "depends",
+        "score": 0.0341
+      },
+      {
+        "term": "fiber",
+        "score": 0.034
+      },
+      {
+        "term": "fibers",
+        "score": 0.0339
+      },
+      {
+        "term": "muscle",
+        "score": 0.0338
+      },
+      {
+        "term": "kyle",
+        "score": 0.0326
+      },
+      {
+        "term": "sprint",
+        "score": 0.0324
+      },
+      {
+        "term": "tte",
+        "score": 0.0319
+      },
+      {
+        "term": "right question",
+        "score": 0.0316
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "918048055-empiricalcyclingpodcast-100k-ama.txt",
+        "numeric_id": 918048055,
+        "word_count": 20813,
+        "series": "Other"
+      },
+      {
+        "filename": "952643710-empiricalcyclingpodcast-2020-best-of-instagram-ama-questions.txt",
+        "numeric_id": 952643710,
+        "word_count": 13469,
+        "series": "Other"
+      },
+      {
+        "filename": "1087518463-empiricalcyclingpodcast-instagram-and-reddit-ama.txt",
+        "numeric_id": 1087518463,
+        "word_count": 10221,
+        "series": "Other"
+      },
+      {
+        "filename": "1211797429-empiricalcyclingpodcast-2021-best-of-instagram-ama-questions.txt",
+        "numeric_id": 1211797429,
+        "word_count": 19994,
+        "series": "Other"
+      },
+      {
+        "filename": "1301979604-empiricalcyclingpodcast-ten-minute-tips-21-individualization-is-why-it-always-depends.txt",
+        "numeric_id": 1301979604,
+        "word_count": 12171,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1316155894-empiricalcyclingpodcast-ten-minute-tips-22-training-myths-part-2.txt",
+        "numeric_id": 1316155894,
+        "word_count": 17165,
+        "series": "Ten Minute Tips"
+      }
+    ]
+  },
+  "cluster_8": {
+    "count": 7,
+    "top_terms": [
+      {
+        "term": "behavior",
+        "score": 0.071
+      },
+      {
+        "term": "psychology",
+        "score": 0.0607
+      },
+      {
+        "term": "language",
+        "score": 0.0603
+      },
+      {
+        "term": "patrick",
+        "score": 0.0562
+      },
+      {
+        "term": "meaningful",
+        "score": 0.0487
+      },
+      {
+        "term": "emotions",
+        "score": 0.0471
+      },
+      {
+        "term": "metaphor",
+        "score": 0.0452
+      },
+      {
+        "term": "yep",
+        "score": 0.0445
+      },
+      {
+        "term": "clinical",
+        "score": 0.0405
+      },
+      {
+        "term": "values",
+        "score": 0.0395
+      },
+      {
+        "term": "skills",
+        "score": 0.0381
+      },
+      {
+        "term": "moment",
+        "score": 0.0376
+      },
+      {
+        "term": "value",
+        "score": 0.0373
+      },
+      {
+        "term": "individuals",
+        "score": 0.0354
+      },
+      {
+        "term": "uncomfortable",
+        "score": 0.0345
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "1144665736-empiricalcyclingpodcast-perspectives-4-high-functioning-lunatics-with-patrick-smith.txt",
+        "numeric_id": 1144665736,
+        "word_count": 16352,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1216529890-empiricalcyclingpodcast-perspectives-8-why-its-hard-to-rest-with-patrick-rest.txt",
+        "numeric_id": 1216529890,
+        "word_count": 9001,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1435296790-empiricalcyclingpodcast-perspectives-22-the-cognitive-dissonance-of-silver-bullet-training-with-patrick-smith.txt",
+        "numeric_id": 1435296790,
+        "word_count": 18923,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1482703081-empiricalcyclingpodcast-feedzone-news-announces-research-program-in-fitness-health-and-wellness.txt",
+        "numeric_id": 1482703081,
+        "word_count": 10635,
+        "series": "Other"
+      },
+      {
+        "filename": "1576148218-empiricalcyclingpodcast-perspectives-26-the-cost-of-change-with-kathryn-bertine.txt",
+        "numeric_id": 1576148218,
+        "word_count": 22564,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1830891714-empiricalcyclingpodcast-perspectives-33-the-psychology-of-excellence.txt",
+        "numeric_id": 1830891714,
+        "word_count": 15990,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1971970487-empiricalcyclingpodcast-perspectives-37-practical-performance-psychology-with-billy-ryan.txt",
+        "numeric_id": 1971970487,
+        "word_count": 23509,
+        "series": "Perspectives"
+      }
+    ]
+  },
+  "cluster_9": {
+    "count": 7,
+    "top_terms": [
+      {
+        "term": "chemical",
+        "score": 0.0895
+      },
+      {
+        "term": "electrons",
+        "score": 0.0832
+      },
+      {
+        "term": "carbon",
+        "score": 0.0828
+      },
+      {
+        "term": "bonds",
+        "score": 0.0807
+      },
+      {
+        "term": "bond",
+        "score": 0.0799
+      },
+      {
+        "term": "atp",
+        "score": 0.0792
+      },
+      {
+        "term": "reaction",
+        "score": 0.078
+      },
+      {
+        "term": "hydrogen",
+        "score": 0.0779
+      },
+      {
+        "term": "oxygen",
+        "score": 0.0762
+      },
+      {
+        "term": "nad",
+        "score": 0.0751
+      },
+      {
+        "term": "molecule",
+        "score": 0.0737
+      },
+      {
+        "term": "protons",
+        "score": 0.0737
+      },
+      {
+        "term": "equilibrium",
+        "score": 0.0707
+      },
+      {
+        "term": "pyruvate",
+        "score": 0.0702
+      },
+      {
+        "term": "cells",
+        "score": 0.0686
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "616780863-empiricalcyclingpodcast-the-watts-doc-6-lactate-myths-and-truths.txt",
+        "numeric_id": 616780863,
+        "word_count": 8340,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "702270595-empiricalcyclingpodcast-watts-doc-13-whats-so-radical-about-oxygen.txt",
+        "numeric_id": 702270595,
+        "word_count": 9224,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "760163593-empiricalcyclingpodcast-ten-minute-tips-6-high-energy-bonds-and-disequilibrium.txt",
+        "numeric_id": 760163593,
+        "word_count": 1517,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "793348642-empiricalcyclingpodcast-watts-doc-17-why-we-really-make-lacate.txt",
+        "numeric_id": 793348642,
+        "word_count": 5498,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "964966456-empiricalcyclingpodcast-watts-doc-29-why-fat-oxidation-is-anaerobic.txt",
+        "numeric_id": 964966456,
+        "word_count": 9179,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "996442741-empiricalcyclingpodcast-watts-doc-31-how-and-why-we-burn-carbs.txt",
+        "numeric_id": 996442741,
+        "word_count": 9119,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1099599595-empiricalcyclingpodcast-watts-doc-32-what-is-aerobic-fats-vs-carbs.txt",
+        "numeric_id": 1099599595,
+        "word_count": 8293,
+        "series": "Watts Doc"
+      }
+    ]
+  },
+  "cluster_10": {
+    "count": 7,
+    "top_terms": [
+      {
+        "term": "hours week",
+        "score": 0.0412
+      },
+      {
+        "term": "zone",
+        "score": 0.0393
+      },
+      {
+        "term": "vo max",
+        "score": 0.0392
+      },
+      {
+        "term": "adaptations",
+        "score": 0.0384
+      },
+      {
+        "term": "vo",
+        "score": 0.0375
+      },
+      {
+        "term": "threshold",
+        "score": 0.0372
+      },
+      {
+        "term": "sweet spot",
+        "score": 0.0371
+      },
+      {
+        "term": "intensity",
+        "score": 0.037
+      },
+      {
+        "term": "volume",
+        "score": 0.0358
+      },
+      {
+        "term": "sweet",
+        "score": 0.0354
+      },
+      {
+        "term": "crunched",
+        "score": 0.0351
+      },
+      {
+        "term": "aerobic",
+        "score": 0.035
+      },
+      {
+        "term": "time crunched",
+        "score": 0.0343
+      },
+      {
+        "term": "vo2",
+        "score": 0.0342
+      },
+      {
+        "term": "vo2 max",
+        "score": 0.0338
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "625992387-empiricalcyclingpodcast-the-watts-doc-7-what-is-base-really.txt",
+        "numeric_id": 625992387,
+        "word_count": 5901,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1199788219-empiricalcyclingpodcast-ten-minute-tips-17-sweetspot-vs-polarized-is-kayfabe.txt",
+        "numeric_id": 1199788219,
+        "word_count": 11493,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1270352152-empiricalcyclingpodcast-300k-time-crunched-training.txt",
+        "numeric_id": 1270352152,
+        "word_count": 18668,
+        "series": "Other"
+      },
+      {
+        "filename": "1333403119-empiricalcyclingpodcast-ten-minute-tips-23-how-much-ftp-training-is-too-much.txt",
+        "numeric_id": 1333403119,
+        "word_count": 10445,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1396150891-empiricalcyclingpodcast-ten-minute-tips-25-whats-so-special-about-zone-2.txt",
+        "numeric_id": 1396150891,
+        "word_count": 15716,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1514086555-empiricalcyclingpodcast-ten-minute-tips-28-ftp-and-vo2max-thoughts-and-listener-questions.txt",
+        "numeric_id": 1514086555,
+        "word_count": 16010,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1560449302-empiricalcyclingpodcast-ten-minute-tips-29-training-myths-part-3-volume.txt",
+        "numeric_id": 1560449302,
+        "word_count": 16855,
+        "series": "Ten Minute Tips"
+      }
+    ]
+  },
+  "cluster_11": {
+    "count": 7,
+    "top_terms": [
+      {
+        "term": "atp",
+        "score": 0.0599
+      },
+      {
+        "term": "adp",
+        "score": 0.0541
+      },
+      {
+        "term": "cell",
+        "score": 0.0539
+      },
+      {
+        "term": "mitochondrial",
+        "score": 0.0535
+      },
+      {
+        "term": "mitochondria",
+        "score": 0.0534
+      },
+      {
+        "term": "fatty",
+        "score": 0.0513
+      },
+      {
+        "term": "amp",
+        "score": 0.0502
+      },
+      {
+        "term": "mice",
+        "score": 0.0501
+      },
+      {
+        "term": "transport",
+        "score": 0.0497
+      },
+      {
+        "term": "ampk",
+        "score": 0.0495
+      },
+      {
+        "term": "acids",
+        "score": 0.0478
+      },
+      {
+        "term": "fatty acids",
+        "score": 0.0468
+      },
+      {
+        "term": "fats",
+        "score": 0.0461
+      },
+      {
+        "term": "kinase",
+        "score": 0.0444
+      },
+      {
+        "term": "fatty acid",
+        "score": 0.0435
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "973351033-empiricalcyclingpodcast-watts-doc-30-what-limits-fat-use.txt",
+        "numeric_id": 973351033,
+        "word_count": 12147,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1132133956-empiricalcyclingpodcast-watts-doc-33-fats-vs-carbs-part-ii-carnitine-and-vlamax.txt",
+        "numeric_id": 1132133956,
+        "word_count": 11748,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1280575006-empiricalcyclingpodcast-watts-doc-38-phosphocreatine-is-a-critical-aerobic-energy-system.txt",
+        "numeric_id": 1280575006,
+        "word_count": 10533,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1370242147-empiricalcyclingpodcast-watts-doc-40-endurance-adaptation-is-not-substrate-oxidation.txt",
+        "numeric_id": 1370242147,
+        "word_count": 19098,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1608430374-empiricalcyclingpodcast-watts-doc-45-how-high-intensity-aerobic-adaptations-with-ampk-do-and-dont-work.txt",
+        "numeric_id": 1608430374,
+        "word_count": 24628,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1681202379-empiricalcyclingpodcast-watts-doc-47-the-redox-role-in-adaptation-recovery-and-nutrition.txt",
+        "numeric_id": 1681202379,
+        "word_count": 21412,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2125738845-empiricalcyclingpodcast-watts-doc-54-glycogens-effects-on-ampk.txt",
+        "numeric_id": 2125738845,
+        "word_count": 14306,
+        "series": "Watts Doc"
+      }
+    ]
+  },
+  "cluster_12": {
+    "count": 11,
+    "top_terms": [
+      {
+        "term": "oxygen",
+        "score": 0.0603
+      },
+      {
+        "term": "cells",
+        "score": 0.0546
+      },
+      {
+        "term": "cell",
+        "score": 0.0519
+      },
+      {
+        "term": "alpha",
+        "score": 0.0507
+      },
+      {
+        "term": "mitochondrial",
+        "score": 0.0481
+      },
+      {
+        "term": "blood",
+        "score": 0.047
+      },
+      {
+        "term": "capillaries",
+        "score": 0.0429
+      },
+      {
+        "term": "proteins",
+        "score": 0.0425
+      },
+      {
+        "term": "expression",
+        "score": 0.0419
+      },
+      {
+        "term": "hemoglobin",
+        "score": 0.0415
+      },
+      {
+        "term": "transport",
+        "score": 0.0414
+      },
+      {
+        "term": "protein",
+        "score": 0.0409
+      },
+      {
+        "term": "mitochondria",
+        "score": 0.0406
+      },
+      {
+        "term": "pgc1",
+        "score": 0.0401
+      },
+      {
+        "term": "muscle",
+        "score": 0.04
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "832792420-empiricalcyclingpodcast-watts-doc-20-the-fick-equation-part-1-a-vo2-difference.txt",
+        "numeric_id": 832792420,
+        "word_count": 9731,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "851654107-empiricalcyclingpodcast-watts-doc-21-vo2max-and-the-most-interesting-protein-in-the-world.txt",
+        "numeric_id": 851654107,
+        "word_count": 11585,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "858372739-empiricalcyclingpodcast-watts-doc-22-the-fick-equation-part-2-heart-adaptations-for-vo2max.txt",
+        "numeric_id": 858372739,
+        "word_count": 14698,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "941747059-empiricalcyclingpodcast-watts-doc-28-why-hit-may-not-make-you-faster.txt",
+        "numeric_id": 941747059,
+        "word_count": 12628,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1419554557-empiricalcyclingpodcast-watts-doc-41-does-overtraining-actually-make-mitochondria-dysfunction.txt",
+        "numeric_id": 1419554557,
+        "word_count": 20431,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1537331443-empiricalcyclingpodcast-watts-doc-44-calcium-is-an-underappreciated-aerobic-adaptive-signal.txt",
+        "numeric_id": 1537331443,
+        "word_count": 12933,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1744278573-empiricalcyclingpodcast-watts-doc-48-how-pgc-1-does-and-doesnt-live-up-to-the-hype.txt",
+        "numeric_id": 1744278573,
+        "word_count": 21662,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1909855007-empiricalcyclingpodcast-watts-doc-50-hypoxia-and-muscular-adaptation.txt",
+        "numeric_id": 1909855007,
+        "word_count": 12001,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1949321231-empiricalcyclingpodcast-watts-doc-51-the-complicated-relationship-between-performance-and-phenotype.txt",
+        "numeric_id": 1949321231,
+        "word_count": 8685,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2051268868-empiricalcyclingpodcast-watts-doc-52-hypoxia-inducible-factors-diminishing-returns.txt",
+        "numeric_id": 2051268868,
+        "word_count": 10038,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "2086315650-empiricalcyclingpodcast-watts-doc-53-the-origins-of-newbie-gains.txt",
+        "numeric_id": 2086315650,
+        "word_count": 12548,
+        "series": "Watts Doc"
+      }
+    ]
+  },
+  "cluster_13": {
+    "count": 17,
+    "top_terms": [
+      {
+        "term": "recovery",
+        "score": 0.0413
+      },
+      {
+        "term": "rory",
+        "score": 0.0406
+      },
+      {
+        "term": "openers",
+        "score": 0.0395
+      },
+      {
+        "term": "stress",
+        "score": 0.034
+      },
+      {
+        "term": "clients",
+        "score": 0.0338
+      },
+      {
+        "term": "workout",
+        "score": 0.0331
+      },
+      {
+        "term": "watts",
+        "score": 0.0325
+      },
+      {
+        "term": "plan",
+        "score": 0.0319
+      },
+      {
+        "term": "intervals",
+        "score": 0.0316
+      },
+      {
+        "term": "fitness",
+        "score": 0.0313
+      },
+      {
+        "term": "year",
+        "score": 0.0313
+      },
+      {
+        "term": "block",
+        "score": 0.0312
+      },
+      {
+        "term": "recover",
+        "score": 0.0312
+      },
+      {
+        "term": "saturday",
+        "score": 0.0311
+      },
+      {
+        "term": "intensity",
+        "score": 0.031
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "599421588-empiricalcyclingpodcast-the-watts-doc-2-youre-training-too-hard-for-criteriums.txt",
+        "numeric_id": 599421588,
+        "word_count": 7569,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "1244788597-empiricalcyclingpodcast-perspectives-11-the-best-workout-is-not-working-out-with-adam-pulford.txt",
+        "numeric_id": 1244788597,
+        "word_count": 14654,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1363710067-empiricalcyclingpodcast-ten-minute-tips-24-you-are-not-your-ctl.txt",
+        "numeric_id": 1363710067,
+        "word_count": 8323,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1594046289-empiricalcyclingpodcast-perspectives-27-common-reasons-for-fitness-plateaus-and-their-fixes-with-rory-porteous.txt",
+        "numeric_id": 1594046289,
+        "word_count": 24721,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1675129809-empiricalcyclingpodcast-ten-minute-tips-31-how-to-take-a-rest-day-and-how-to-avoid-screwing-it-up.txt",
+        "numeric_id": 1675129809,
+        "word_count": 21579,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1775663571-empiricalcyclingpodcast-ten-minute-tips-36-how-to-leave-your-coach-or-yourself-workout-feedback.txt",
+        "numeric_id": 1775663571,
+        "word_count": 13682,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1799552662-empiricalcyclingpodcast-ten-minute-tips-37-pacing-and-programming-endurance-rides.txt",
+        "numeric_id": 1799552662,
+        "word_count": 22682,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1843418724-empiricalcyclingpodcast-perspectives-34-quantifying-training-volume-with-marinus-petersen.txt",
+        "numeric_id": 1843418724,
+        "word_count": 17808,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1849589265-empiricalcyclingpodcast-ten-minute-tips-38-balancing-training-and-rest-during-race-season.txt",
+        "numeric_id": 1849589265,
+        "word_count": 14977,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1889036004-empiricalcyclingpodcast-ten-minute-tips-41-how-to-try-new-training-methods.txt",
+        "numeric_id": 1889036004,
+        "word_count": 16482,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1955503299-empiricalcyclingpodcast-ten-minute-tips-44-whats-so-sweet-about-sweetspot.txt",
+        "numeric_id": 1955503299,
+        "word_count": 13250,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1960584159-empiricalcyclingpodcast-ten-minute-tips-45-the-simplest-training-plan-thought-experiment.txt",
+        "numeric_id": 1960584159,
+        "word_count": 13179,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2061437404-empiricalcyclingpodcast-ten-minute-tips-52-intermediate-training-mistakes-and-solutions.txt",
+        "numeric_id": 2061437404,
+        "word_count": 14344,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2090477523-empiricalcyclingpodcast-ten-minute-tips-55-when-to-take-a-rest-week-trusting-subjective-metrics.txt",
+        "numeric_id": 2090477523,
+        "word_count": 20820,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2114034129-empiricalcyclingpodcast-ten-minute-tips-58-why-rest-can-be-so-scary.txt",
+        "numeric_id": 2114034129,
+        "word_count": 13532,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2129494140-empiricalcyclingpodcast-ten-minute-tips-60-the-ftp-training-decision-tree.txt",
+        "numeric_id": 2129494140,
+        "word_count": 14935,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2265497594-empiricalcyclingpodcast-ten-minute-tips-72-the-roles.txt",
+        "numeric_id": 2265497594,
+        "word_count": 8701,
+        "series": "Ten Minute Tips"
+      }
+    ]
+  },
+  "cluster_14": {
+    "count": 10,
+    "top_terms": [
+      {
+        "term": "wheel",
+        "score": 0.0466
+      },
+      {
+        "term": "wheels",
+        "score": 0.0463
+      },
+      {
+        "term": "gear",
+        "score": 0.0457
+      },
+      {
+        "term": "position",
+        "score": 0.0446
+      },
+      {
+        "term": "kilometers",
+        "score": 0.0436
+      },
+      {
+        "term": "wind",
+        "score": 0.0414
+      },
+      {
+        "term": "equipment",
+        "score": 0.0397
+      },
+      {
+        "term": "speed",
+        "score": 0.0379
+      },
+      {
+        "term": "record",
+        "score": 0.0367
+      },
+      {
+        "term": "gears",
+        "score": 0.0364
+      },
+      {
+        "term": "technique",
+        "score": 0.0361
+      },
+      {
+        "term": "hour",
+        "score": 0.036
+      },
+      {
+        "term": "watts",
+        "score": 0.0359
+      },
+      {
+        "term": "seconds",
+        "score": 0.0343
+      },
+      {
+        "term": "rider",
+        "score": 0.0341
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "611724549-empiricalcyclingpodcast-talking-to-aston-lambie.txt",
+        "numeric_id": 611724549,
+        "word_count": 8079,
+        "series": "Other"
+      },
+      {
+        "filename": "750622018-empiricalcyclingpodcast-ten-minute-tips-5-how-much-does-rotating-weight-matter.txt",
+        "numeric_id": 750622018,
+        "word_count": 1427,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "890510818-empiricalcyclingpodcast-watts-doc-25-everesting-training-and-preparation.txt",
+        "numeric_id": 890510818,
+        "word_count": 10540,
+        "series": "Watts Doc"
+      },
+      {
+        "filename": "914859241-empiricalcyclingpodcast-ten-minute-tips-9-drills-to-hone-your-sprint-technique.txt",
+        "numeric_id": 914859241,
+        "word_count": 2330,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1169482870-empiricalcyclingpodcast-perspectives-5-coaching-the-process-with-cory-lockwood.txt",
+        "numeric_id": 1169482870,
+        "word_count": 14964,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1239908659-empiricalcyclingpodcast-perspectives-10-a-guide-to-time-trialing-with-cory-lockwood.txt",
+        "numeric_id": 1239908659,
+        "word_count": 12073,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1406970607-empiricalcyclingpodcast-perspectives-21-behind-the-new-american-40km-itt-record-with-cory-lockwood.txt",
+        "numeric_id": 1406970607,
+        "word_count": 19422,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1658393151-empiricalcyclingpodcast-perspectives-31-being-faster-than-your-watts-with-giancarlo-bianchi.txt",
+        "numeric_id": 1658393151,
+        "word_count": 25989,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1723883430-empiricalcyclingpodcast-ten-minute-tips-33-track-training-considerations.txt",
+        "numeric_id": 1723883430,
+        "word_count": 24837,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1884216615-empiricalcyclingpodcast-ten-minute-tips-40-training-mistakes-every-beginner-makes-and-solutions.txt",
+        "numeric_id": 1884216615,
+        "word_count": 16636,
+        "series": "Ten Minute Tips"
+      }
+    ]
+  },
+  "cluster_15": {
+    "count": 12,
+    "top_terms": [
+      {
+        "term": "collegiate",
+        "score": 0.0515
+      },
+      {
+        "term": "nationals",
+        "score": 0.0495
+      },
+      {
+        "term": "collegiate cycling",
+        "score": 0.0468
+      },
+      {
+        "term": "races",
+        "score": 0.0423
+      },
+      {
+        "term": "team",
+        "score": 0.0422
+      },
+      {
+        "term": "racing",
+        "score": 0.0408
+      },
+      {
+        "term": "year",
+        "score": 0.0402
+      },
+      {
+        "term": "stage",
+        "score": 0.038
+      },
+      {
+        "term": "stage race",
+        "score": 0.0376
+      },
+      {
+        "term": "road",
+        "score": 0.0365
+      },
+      {
+        "term": "teammates",
+        "score": 0.0365
+      },
+      {
+        "term": "riders",
+        "score": 0.0353
+      },
+      {
+        "term": "teams",
+        "score": 0.0343
+      },
+      {
+        "term": "raced",
+        "score": 0.0341
+      },
+      {
+        "term": "crit",
+        "score": 0.034
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "636044361-empiricalcyclingpodcast-student-union-1-collegiate-nationals-and-the-art-of-the-ttt.txt",
+        "numeric_id": 636044361,
+        "word_count": 7672,
+        "series": "Other"
+      },
+      {
+        "filename": "659340143-empiricalcyclingpodcast-race-report-2019-cascade-classic.txt",
+        "numeric_id": 659340143,
+        "word_count": 5130,
+        "series": "Other"
+      },
+      {
+        "filename": "857397553-empiricalcyclingpodcast-student-union-2-east-coast-roundtable.txt",
+        "numeric_id": 857397553,
+        "word_count": 15395,
+        "series": "Other"
+      },
+      {
+        "filename": "985640092-empiricalcyclingpodcast-perspectives-the-challenges-of-self-coaching-with-alex-carmona.txt",
+        "numeric_id": 985640092,
+        "word_count": 7639,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1138654516-empiricalcyclingpodcast-perspectives-3-usa-crits-2021-with-alex-carmona-and-taylor-warren.txt",
+        "numeric_id": 1138654516,
+        "word_count": 14775,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1174414534-empiricalcyclingpodcast-perspectives-6-2021-season-review-and-2022-planning-with-ingvar-omarsson.txt",
+        "numeric_id": 1174414534,
+        "word_count": 16004,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1266057934-empiricalcyclingpodcast-perspectives-13-overtraining-sucks-with-katie-aman.txt",
+        "numeric_id": 1266057934,
+        "word_count": 19045,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1622992359-empiricalcyclingpodcast-perspectives-28-training-takes-and-season-retrospective-with-maeghan-easler.txt",
+        "numeric_id": 1622992359,
+        "word_count": 16868,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1630053015-empiricalcyclingpodcast-perspectives-29-managing-fitness-and-rest-during-race-season-with-taylor-warren.txt",
+        "numeric_id": 1630053015,
+        "word_count": 20510,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1688639271-empiricalcyclingpodcast-perspectives-31-race-specific-intensity-and-tapering-with-alex-carmona.txt",
+        "numeric_id": 1688639271,
+        "word_count": 23470,
+        "series": "Perspectives"
+      },
+      {
+        "filename": "1874275173-empiricalcyclingpodcast-ten-minute-tips-39-individualizing-training-for-crits-cx-and-mtb.txt",
+        "numeric_id": 1874275173,
+        "word_count": 19029,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "1921582412-empiricalcyclingpodcast-perspectives-35-continuously-realizing-potential-with-cole-tamburri.txt",
+        "numeric_id": 1921582412,
+        "word_count": 18032,
+        "series": "Perspectives"
+      }
+    ]
+  },
+  "cluster_16": {
+    "count": 5,
+    "top_terms": [
+      {
+        "term": "erica",
+        "score": 0.0572
+      },
+      {
+        "term": "megan",
+        "score": 0.0445
+      },
+      {
+        "term": "goals",
+        "score": 0.0378
+      },
+      {
+        "term": "fitness",
+        "score": 0.0377
+      },
+      {
+        "term": "group rides",
+        "score": 0.0368
+      },
+      {
+        "term": "season",
+        "score": 0.0367
+      },
+      {
+        "term": "rides",
+        "score": 0.0367
+      },
+      {
+        "term": "races",
+        "score": 0.0366
+      },
+      {
+        "term": "racing",
+        "score": 0.0365
+      },
+      {
+        "term": "james",
+        "score": 0.0351
+      },
+      {
+        "term": "climbing",
+        "score": 0.0341
+      },
+      {
+        "term": "like maybe",
+        "score": 0.034
+      },
+      {
+        "term": "mentally",
+        "score": 0.0332
+      },
+      {
+        "term": "gc",
+        "score": 0.0329
+      },
+      {
+        "term": "crit",
+        "score": 0.0327
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "1943996043-empiricalcyclingpodcast-ten-minute-tips-43-off-season-breaks-and-massive-listener-qa.txt",
+        "numeric_id": 1943996043,
+        "word_count": 22610,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2073000300-empiricalcyclingpodcast-the-minute-tips-54-the-truth-about-junk-miles.txt",
+        "numeric_id": 2073000300,
+        "word_count": 12404,
+        "series": "Other"
+      },
+      {
+        "filename": "2150935608-empiricalcyclingpodcast-ten-minute-tips-61-coach-qa-on-limiters-low-volume-rest-weeks-resuming-training-under-optimized-training-more.txt",
+        "numeric_id": 2150935608,
+        "word_count": 18006,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2181253055-empiricalcyclingpodcast-ten-minute-tips-64-diagnosing-and-training-weaknesses-in-the-off-season.txt",
+        "numeric_id": 2181253055,
+        "word_count": 10905,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2269775624-empiricalcyclingpodcast-ten-minute-tips-73-things-we.txt",
+        "numeric_id": 2269775624,
+        "word_count": 9598,
+        "series": "Ten Minute Tips"
+      }
+    ]
+  },
+  "cluster_17": {
+    "count": 6,
+    "top_terms": [
+      {
+        "term": "james",
+        "score": 0.0479
+      },
+      {
+        "term": "megan",
+        "score": 0.0471
+      },
+      {
+        "term": "realistic",
+        "score": 0.044
+      },
+      {
+        "term": "goals",
+        "score": 0.0422
+      },
+      {
+        "term": "motivated",
+        "score": 0.0419
+      },
+      {
+        "term": "erica",
+        "score": 0.0408
+      },
+      {
+        "term": "season",
+        "score": 0.0393
+      },
+      {
+        "term": "fitness",
+        "score": 0.0387
+      },
+      {
+        "term": "year",
+        "score": 0.0384
+      },
+      {
+        "term": "expectations",
+        "score": 0.0383
+      },
+      {
+        "term": "seasons",
+        "score": 0.0375
+      },
+      {
+        "term": "improvements",
+        "score": 0.0374
+      },
+      {
+        "term": "gravel",
+        "score": 0.0371
+      },
+      {
+        "term": "consistency",
+        "score": 0.0369
+      },
+      {
+        "term": "habits",
+        "score": 0.0362
+      }
+    ],
+    "transcripts": [
+      {
+        "filename": "2012769243-empiricalcyclingpodcast-ten-minute-tips-48-avoiding-over-optimization.txt",
+        "numeric_id": 2012769243,
+        "word_count": 20640,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2110075104-empiricalcyclingpodcast-ten-minute-tips-57-our-coaches-answer-your-training-questions.txt",
+        "numeric_id": 2110075104,
+        "word_count": 14580,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2196447155-empiricalcyclingpodcast-ten-minute-tips-65-why-training-or-racing-experience-shouldnt-determine-training-volume.txt",
+        "numeric_id": 2196447155,
+        "word_count": 15064,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2201678679-empiricalcyclingpodcast-ten-minute-tips-66-the-best-and-worst-training-habits.txt",
+        "numeric_id": 2201678679,
+        "word_count": 13033,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2215377053-empiricalcyclingpodcast-ten-minute-tips-67-making-the-most-of-winter-training.txt",
+        "numeric_id": 2215377053,
+        "word_count": 13639,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2252506076-empiricalcyclingpodcast-ten-minute-tips-71-avoiding-panic-training-starts-now.txt",
+        "numeric_id": 2252506076,
+        "word_count": 12393,
+        "series": "Ten Minute Tips"
+      }
+    ]
+  }
+}

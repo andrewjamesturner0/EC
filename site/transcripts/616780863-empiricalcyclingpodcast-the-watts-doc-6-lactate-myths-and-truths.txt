@@ -1,0 +1,529 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined by Kyle
+ Helson. And as always, I want to thank everyone for listening. Thank you all for the donations.
+ We've got a page up on the website. If you guys would be so kind enough as to give us
+ a good iTunes rating and review, that would be really fantastic. And so for all coaching
+ inquiries or consultations, please email empiricalcycling at gmail.com. And for the show notes, just
+ head over to empiricalcycling.com and we've got the podcast episodes up there.
+ So today, what we're going to do is we're going to talk about the history of lactate
+ and we're going to kind of correct the historical record because a lot of misconceptions and
+ myths are still very present today. So Kyle, why don't you tell us about your experience
+ with lactate in the popular press and whatnot?
+ Yeah, I think probably...
+ Everyone is familiar with the... Or they've been told the myth that lactic acid or lactate
+ is what causes your muscles to burn when you're doing intense exercise or that not warming
+ down after hard efforts or hard workouts and clearing out lactate or lactic acid is what
+ causes muscle soreness the next day and all this stuff. And it turns out that's probably
+ all wrong. None of that's true. Everything that...
+ Even like a lot of these popular science fitness articles or whatever say about lactate or lactic
+ acid, it's probably all bunk. The other thing is I think people have gotten really into using
+ some sort of massage or compression things, which also they think might be clearing lactate out of
+ their muscles faster or whatever. And that's also not true.
+ Yeah.
+ And some of the other myths that I see on the coaching side of things like lactate, it comes
+ from like hypoxia or a lack of oxygen in the environment or that lactate is a dead end waste
+ product. And those are just false on their faces. So we're going to go through a lot of the history
+ of the discovery of lactate and we're going to kind of debunk these as we go. We're going to see
+ what these myths came from. And then we're going to talk about the modern science that we have now
+ that really gives us a whole picture that they didn't have up until as late as even the 1990s.
+ So lactate was originally discovered in the late 1700s from spoiled sour milk. So we get the name
+ lactate, you know, the prefix lac, L-A-C, that means milk. And it's the same root as lactose.
+ Lactose is a sugar from milk. Lactate is, you know, just a molecule from milk. But they're
+ actually, despite having the same names, they're actually not that similar. Lactate is a three
+ carbon molecule. And yeah, so lactose is a disaccharide, which means it has 12 carbons.
+ So the first chemist to isolate lactate is a German chemist named Scheele in the
+ late 1700s or early 1800s. And he discovered this,
+ with milk fermentation. So fermentation is a process that we're all familiar with now,
+ in terms of brewing beer and whatnot. But fermentation actually has a very specific
+ biochemical definition, which is that it just means happening without oxygen. So in this hypoxic
+ environment, lacking oxygen environment. And so that's where we get fermentation. So lactate
+ was originally thought to form by,
+ only fermentation. And so people thought that, yes, our muscles fermented.
+ Yeah. So if, you know, like you said, people have been familiar with fermentation for like,
+ you know, probably thousands of years at that point, you know, you hear of ancient
+ monks or whatever brewing beer or wine and things like that. And lots of cultures have
+ fermented foods, sauerkraut, kimchi, things like that. The difference is here, of course,
+ that there are these bacteria that you're taking advantage of that back,
+ even in the 18, early 1900s, we didn't really understand what bacteria were. So we didn't
+ really understand how the fermentation was happening. We just knew that, oh, if you mixed
+ yeast and with stuff, you got beer, you got wine, you know, to assume that the same sort of
+ biochemical processes are going on in the yeast as are going on, or the bacteria as are going on in
+ your muscles is sort of, they didn't have the tools to actually figure out and say, oh, is this
+ process going on inside your body different?
+ from what's going on inside of bacteria, what's going on in bacteria and yeast cultures?
+ Yeah, I think that's a good way to put it. Because in terms of the biochemical pathway,
+ which we'll get to in a minute, it actually is the same biochemical pathway, they just have
+ different fates. But we don't have to get into bacteria biochemistry right now. Just just know
+ that for alcohol, bacteria actually have a separate enzyme that if we had it, we would be permanently
+ drunk. But
+ that could be
+ Yeah, unfortunately, we don't. So we just have to get the yeast to do it for us. Okay, so the first
+ time lactate was found in muscle was in 1807, when it was isolated from the meat in hunted stags. So
+ you know, you chase a stag in a hunt, it would get tired. And, you know, shoot the stag at the meat.
+ And then, you know, instead of just eating it, now people had all these cool chemistry tools.
+ They're like, let's check out what's in the meat. And they found elevated levels,
+ of lactate. And lactate was also found in dead animals and bacteria. So like environments that
+ have no oxygen, like Louis Pasteur found this as well. And what he found was that in environments
+ with no oxygen, like, you know, you cover a bacteria tray with a lighted candle, like with
+ a little cup or something, then the candle burns out all the oxygen and then the bacteria doesn't
+ grow as fast or as big as the bacteria with the oxygen. And so that's why it's so important to
+ have that oxygen supply. And in the early 1900s, a lot of scientists actually did experiments that
+ showed that lactate occurs in muscles without oxygen, and then disappears again in the reappearance
+ of oxygen. So, so we have a really interesting data point here. And this is actually the beginning
+ of the theory that, you know, lactate occurs in these oxygen-less environments. And also,
+ in 1907, it was found that exercise made muscles acidic. So it lowers the pH. And, and this also
+ happened at the same time lactate formation increased. So, so this is our first really
+ big myth to bust, because this is the origin of the phrase lactic acidosis, because the lactate
+ happened at the same time that the pH was decreasing. So people figured it went hand in
+ hand. And I, you know, you really can't blame them. They had very crude tools. And at the same
+ time, there was little knowledge about acid-based chemistry. And acid-based chemistry is just like
+ where the protons are. So like an acid is something with a proton on it. And then when
+ it dissociates, it sends that proton out. Now that thing acts as base. And that proton is going to go,
+ you know, be caustic to something. So, so that's how, that's how an acid works. And that's one of
+ the things that you learn in Chem 101. And, you know, I, I took it for granted for sure until I
+ started, you know, learning about the origins of lactate a couple of years ago. And I was going,
+ oh my God, these guys didn't know acid-based chemistry. Like I, you know, I really feel like
+ it was so hard. Yeah, exactly. Like I, you know, we take it for granted. So right now, but at the,
+ at the time, you know, that was like cutting edge science. And in one of the papers that I've got up
+ on the website and the show notes called the biochemistry of exercise-induced metabolic
+ acidosis. It's kind of an easy read. If you've had some chemistry, if you have not, it might be a
+ little rough. They go through all of the origins of every proton that, that occurs during exercise.
+ Like they go through all of the steps of metabolism and they show how lactate is formed
+ and how it doesn't actually form as an acid. So lactate is not an acid. It's,
+ so acids are, have hydrogen ions on them. They have hydrogens attached and lactate is made
+ without this hydrogen on it. And so this, so this just really means it's not an acid.
+ If it was an acid, it would be made with that proton attached.
+ And then the proton would dissociate and go elsewhere and be caustic. So I actually did a
+ really basic chem calculation with this. I did the, I used the Henderson-Hasselbalch equation.
+ So the, the equivalence point of lactate as an acid, meaning an equal number of them have
+ the proton on them as have the proton like dissociated is 3.8. And that's the pH. So at the,
+ at that pH, you've got one lactate and you've to each lactic acid in normal conditions. It's
+ actually, it's actually pretty different from this, but just by this equation in, you know,
+ quote unquote, normal conditions, you've got,
+ 25 in the non-acid form to every one in the acid form. And under the very worst possible
+ conditions I could conjure for a cell, you had one acid to the 10, uh, not acid form.
+ And that's, and that's very, very brief, uh, those, those States. And, you know, like I said,
+ like it's actually more complicated than that. So the ratios are actually much wider. So you
+ actually have very, very few in the acid form. So actually lactate is therefore a base.
+ Uh, yeah.
+ It is formed. And, um, and the way that it's formed, it actually can absorb a little bit
+ of protons, which means it's going to act as a base and buffer some of that acid, uh, you know,
+ the same way that baking soda buffers acid. And so the other myth that we mentioned here already
+ is that, um, is that, you know, we've seen the experiments that show that lactate forms in low
+ oxygen environments. So, uh, so what happened was the scientists assumed that the opposite was true.
+ And, uh, you know, Kyle, what's, what's that old saying about correlation and causation?
+ Correlation does not equal causation. It's the classic.
+ So this paradigm here that we have with lactate and low oxygen, the, uh, the, the phrase is low
+ O2 evokes high lactate. So low oxygen environments means lactate is going to form.
+ With this, the, the idea that low O2 evokes high lactate is extrapolating the phenomenon seen with
+ lactobacteria fermenting milk in the absence of air to the functioning of human muscles. So yes,
+ while it's true that human muscles can ferment sugars to survive for short periods of time,
+ that's not, that's nowhere near our preferred method of, uh, burning sugars. And it's not
+ enough for us to actually subsist on for long periods of time. Um, and it turns out that
+ actually fermentation is a pretty inefficient way to generate, uh, low oxygen. So, uh, so, uh, so,
+ to generate energy, which is why all of the, uh, bacteria and yeast that actually only use
+ fermentation to survive are all single celled organisms. And all of the big organisms you can
+ think of, uh, don't survive just on fermentations. All the multicellular organisms are using aerobic
+ respiration or photosynthesis or something like that.
+ And so, uh, so they actually conjured up some interesting mechanisms for how this happens in a
+ human muscle.
+ So they figured that, um, that, uh, there was, uh, you know, maybe like muscle swelling happens,
+ muscle damage, uh, muscle occlusion and occlusion is just a fancy way of saying no blood's getting
+ to it because like, you know, you've got a pump on or something that's so awesome that you can't
+ get blood to your muscle, uh, which makes like no sense. But so, so they had these interesting
+ theories about how this happened, about how, um, you know, during intense exercise, uh, you could
+ exercise so hard that no oxygen is getting to your muscles. And so, uh, so they figured that that's
+ getting to your muscle. And so it's this, that's actually the origin of what we know as anaerobic
+ threshold. So we hear the words anaerobic threshold thrown around for, you know, the point at which
+ you start burning carbohydrates, or it's the point at which lactate accumulates in the blood
+ exponentially. Um, but it's, it's really neither of these things because they thought that if you
+ start using energy anaerobically, as opposed to aerobically, like it was like a switch or
+ something like a binary state. And if we know for a fact now that it's not, but you know,
+ for a long time, they assumed that that's what happened. And so some of the experiments that
+ they did was they would like, you know, make a muscle exercise hard and, or, um, or they would
+ like constrict the blood supply of it and then lactate would form. And then they would allow
+ oxygen back via blood supply or, or however they were doing it with their experimental model.
+ Uh, lactate would go away. They thought that oxygen was actually necessary for the combustion
+ of lactate. You know, that's untrue also. Potentially the other, uh, assumption here
+ that people are making is that, oh, maybe if you exercise hard enough, you're exercising at a point
+ where like your heart and lungs, your cardiovascular system couldn't keep up with the energy demands.
+ And so then your body was like, oh, somehow it was, uh, you know, monitoring this fact or something
+ and then switching over to this.
+ You're actually more on the money than you might think. Um, so, but we're, we're actually going to
+ get into that at, at some point in another episode when we, uh, when we look at the physiology and
+ biochemistry of FTP. So for now, uh, one of the significant findings on anaerobic threshold was
+ in a 1964 paper called, uh, detecting the threshold of anaerobic metabolism in cardiac
+ patients during exercise. And then, you know, from this paper to like 10 years on, uh,
+ this scientist named Wasserman, he defined quote unquote anaerobic threshold as the quote level of
+ work or O2 consumption just below that at which metabolic acidosis and the associated changes in
+ gas exchange occur. So this to me sounds like FTP, um, because FTP is, uh, where, you know,
+ lactate starts accumulating and, uh, you know, to him, quote unquote metabolic acidosis. So, okay.
+ So, so to quote, uh, one of the papers that we've got up on the show notes, quote Wasserman's
+ anaerobic threshold hypothesis implies that the accumulation of lactate during muscular exercise
+ is due to quote unquote dysoxia. Uh, dysoxia is defined by Conant et al, uh, is a sufficiently
+ low level of O2 such that cytochrome turnover is limited. And therefore there is O2 limited
+ oxidative phosphorylation. So what they're saying is like at the, at the, at the, at the
+ point, your aerobic, um, your, your true aerobic metabolism, the electron transport chain is tapped
+ out. It's pinned like at the top of the meter, like, like there is no more that they could
+ possibly work. And actually we know now that that is very untrue because now we know that, um, you
+ know, the appearance of lactate, uh, the, uh, the exponential accumulation in the blood happens
+ much sooner than you actually hear it.
+ Hit your VO2 max, and we can actually measure power output at these levels. And, you know,
+ FTP can happen anywhere from like 60, 70 to like 90% of VO2 max, uh, you know, 90% would be in the
+ super elite athletes, but, um, but the point is essentially the same. So, so Wasserman's hypothesis,
+ um, you know, and again, you can't blame them. They didn't know how it worked,
+ but it's calmed down in the exercise and, uh, coaching community.
+ And, you know, the medical communities too, as, um, as Canon, like, as if this is how it really
+ works. Like, uh, like as soon as you hit the onset of lactate, you are aerobically tapped out. You
+ can't deliver any more oxygen or your machinery can't work even if you can. Uh, and you know,
+ we just know that that's not true. I think it's worth noting too, like you said, if, if lactate,
+ if the rise in lactate is appearing, uh, is correlated with the onset of FTP, uh,
+ you can work very aerobically above your FTP for relatively long periods of time, you know,
+ three, four, five, six, 10 minutes, 20 minutes, something like that. And you're very much still
+ working aerobically. You're not, you're anaerobic for 15 minute hills or something, you know?
+ Yeah. Yeah. And so like, so actually some, there's been some really good experimental data on what
+ is a truly anaerobic effort, meaning anaerobic, meaning happening without oxygen. So even in
+ like a one minute,
+ all out effort, you know, depending on the athlete, you can still get like 20 or 30 up to
+ like 50, 60% contribution of, of oxygen and, uh, oxygen derived ATP into that effort. Um, you know,
+ like the low end is probably a track sprinter. The high end is like a track Enduro. If you want
+ to go for like the very fastest kilo times, uh, in the world, like about a minute, minute,
+ one 59 seconds, something like that. So even in a minute, there is a
+ good deal of oxygen being used, even though a lot of people think it's like the true anaerobic
+ effort. Um, but it's really not. And we're going to, we're going to get into that also in another
+ episode. Um, cause there's just, there's just so much to get into. So the reality is that hypoxia,
+ like the lack of oxygen inducing an increase in lactate is a real thing, but what they got wrong
+ is that it's not a prerequisite for the lactate appearance. So in about 1927,
+ uh, separately, the two Corys and another scientist named Warburg looked at animal models
+ with glucose consuming tumors, and they had high lactate despite normal oxygen conditions.
+ So everybody kind of figured like, this is just like a weird thing that happens in tumors and
+ it doesn't happen in, you know, normal tissue, but you know, like in 1966 or so, about the same time
+ that Wasserman published his, uh, paper on dysoxia, there was an experiment,
+ showing an animal model, uh, flexing constantly for periods of time up to like 60 minutes or so.
+ And what they found was an increase in lactate, uh, that was transient. Like it, it went up for
+ a couple of minutes and then it went down. And so this, uh, like we talked about in the, the two by
+ 20, uh, FTP episode is just what we were talking about with the first couple of minutes, not quote,
+ quote unquote, counting towards your time at FTP aerobically, because, you know, when your muscles
+ are, they cover that anaerobically, um, like any immediate onset of exercise of, of workout put is
+ covered in aerobically by your muscles until it can get this slower moving aerobic stuff, uh, you
+ know, like going up to speed, which, which is in a way, you know, it, it actually makes our aerobic
+ systems kind of lazy. Like, like you gotta like rousted out of bed, like for your FTP efforts.
+ And so that's what they saw with this is that.
+ Increase in lactate at first, and then they saw it decline, go, it went down to like near zero
+ or the muscle that was working, that they had contracting constantly would actually become
+ a net lactate consumer. It would start to take in lactate, um, with these continued contractions
+ at an unchanged metabolic rate and unchanged oxygen delivery.
+ It goes completely against everything else that was thought at the time.
+ But they didn't have enough to, uh, really get a theory for what was going on, right? Like,
+ yeah, they just knew that like that, uh, in these muscles, if they just kept them going long enough,
+ you know, sub maximally, they would just start taking in lactate at some point. And they're
+ like, they're scratching their heads. Like, why does this happen? Like, is this just like a passive
+ diffusion thing? Cause there's like, at some point there's less lactate in the cells and it's just
+ blood or like, like who knows? Um, well we do now the joys of being 50 years ahead of
+ in, in, uh, biochemical understanding. Um, okay. And so going forward, we actually have to gloss
+ over the next set of experiments because unfortunately there's so much biochemistry
+ now because the tools start getting better that it's, uh, it's not worth the time or the energy
+ to really explain without like a whiteboard or something like that. Um, however, if anyone
+ is interested in that kind of thing, I am more than happy to, uh, to do a consultation or, uh,
+ to start a Patreon or something like that, where I actually go through all of these pathways and,
+ you know, show people like how we can use this knowledge to become better cyclists.
+ Uh, so if you're interested in that, you know, give me an email, uh, give me a shout and let me
+ know. Uh, and, uh, if there's demand out there, I will be absolutely happy to do it. So going on
+ from there though,
+ uh, like we can't get into the mechanisms of some of these experiments, but, um, with fatigue and
+ lactate, uh, the thought that lactate causes fatigue because, you know, when you exercise
+ maximally, you get tired very quick. And this happens at the same time as lactate accumulation.
+ Um, but, uh, you know, some really good experiments showed that it's probably other
+ conditions with like, you know, the lowering pH, high levels of, uh, phosphate, high levels of
+ um, you know, neurotransmitter, uh, reuptake that's, uh, you know, not fast enough, stuff like that,
+ depending on the exercise intensity, but not lactate. But, um, you know, even with these
+ things, uh, fatigue has a lot of different factors and it's debatable, like what actually causes
+ fatigue and to what degree, um, because also like some of these, um, some of these chemicals can,
+ uh, act as regulators of the pathway glycolysis.
+ That creates lactate at some point. And, and so like, and so these, these things might actually
+ be more of like a feedback mechanism. Um, and if you, if you've ever studied any sort of pathways,
+ signal pathways or metabolic pathways, like, you know, that regulation is a super important part
+ of energy expenditure and control of energy expenditure. So just that as lactate is, um,
+ you know, once you see kind of how the body works,
+ it's, it's too simple of an explanation. Um, like all the very, very simplest things about our
+ bodies were discovered like by the Greeks pretty much. And after that, it gets much more complicated
+ very quickly. Uh, some, there are some experiments on rat muscle contractions that show that, uh,
+ lactic acid, now the actual acid version and, uh, propanoic acid also actually restores
+ force production of fatiguing muscles. So you can think about this as like a sprint
+ and so these rat muscles, they've got isolated and they're basically sprinting for, for all their
+ worth. Um, because you can electrically stimulate a muscle to contract on its own. And that's exactly
+ the same as a nerve, like a brain sending the signal to it. And so they're making these rat
+ muscles contract. And when they pour this acid on the muscle, like the contractions get stronger
+ again, because as it fatigues, the contractions get weaker, they produce less force, put this acid
+ on and they get stronger again. So yeah, this is,
+ this is one of those weird things that like, maybe like the actual acid version
+ isn't so bad. Yeah. But I mean, it's very complicated. So we cannot say that, you know,
+ pouring acid on your muscles is going to be great for sprinting. Like it's,
+ yeah, it's not that simple. Um, don't go around like adding lactic acid to your like
+ water bottles, like mid race. No, no, but aside from making your drinks taste horribly.
+ Yeah, definitely. There's another really interesting experiment with lactate and
+ fatigue. And this is, this is actually, um, I read this in a paper that was meant to present
+ this experiment, like they've done it and it's a very easy one to do. And it is very illustrative,
+ um, of how lactate doesn't cause fatigue when it's elevated in the blood. So what they did was
+ they had groups of students do eight 30 meter sprints with either 20 second rests or 120 second
+ rests. And what they did was they had a group of students do eight 30 meter sprints with either
+ 20 second rests. And what was interesting about this is that blood lactate increased
+ by similar amounts from the start to the end of the test in both groups.
+ But the difference is the 20 second rest group, their speeds tanked and the group doing 120 second
+ rests showed actually no fatigue, uh, between each of the sprints, like their sprint times,
+ even got a little bit faster. And so with the same amount of lactate in their blood,
+ you might expect that the 120 second
+ rest group would have fatigued. And they didn't also in this paper, they go over, you know,
+ what are the other possible mechanisms that would cause this fatigue? And so one of the
+ cool things that they, that they were talking about is the recovery of phosphocreatine.
+ Um, so it's not lactate, but the inability to reproduce phosphocreatine between these sprints
+ that caused their times to decrease. So also there have been other experiments that show that muscle
+ occlusion, you know, just putting,
+ a band around your muscle, like, uh, like just stopping the oxygen blood supply muscles under
+ these conditions cannot recover phosphocreatine. So the next good question is how does lactate
+ accumulate and why does it accumulate? So during exercise glucose, a sugar gets broken down into
+ pyruvate. So glucose gets split in two at some point and makes one glucose makes two molecules
+ of pyruvate. So this is always happening at a certain level, uh, at every exercise intensity,
+ even at rest. So at the, at the zero Watts exercise intensity of just existing,
+ you are making a little bit of lactate. Now, pyruvate has two choices. It could go into the
+ mitochondria and to the Krebs cycle. And this is the quote unquote, uh, aerobic cycle. Um, or it
+ could get turned into lactate and a note on the Krebs cycle being aerobic. Technically the entire
+ Krebs cycle happens without oxygen. So, um, so very pedantically in biochemical terms, we could
+ actually consider it fermentation.
+ Uh, even though it happens in the mitochondria and in just general biochemistry parlance,
+ um, you know, just talking to each other, we just, you know, we just say the Krebs cycle is
+ aerobic. It's, you know, good enough. So the enzyme that makes pyruvate turn into lactate
+ is called lactate dehydrogenase, and it's always active. You can't really turn it off. So it's,
+ so that's why you're always producing a little bit of lactate. The balance of pyruvate and lactate
+ are actually a little in favor of lactate. So if we, uh, you know, so if we let this
+ reaction, just if we stop everything below pyruvate, and we just let this reaction run out,
+ we actually end up with a little bit more lactate than pyruvate, uh, not a significant amount
+ though. So, um, during periods of intense exercise, when pyruvate's backing up and getting turned
+ into lactate, why don't we send pyruvate into the bloodstream? Um, and this is a very good question
+ there are transporters on cells, uh, in every tissue or almost every tissue that, um, that
+ send out and take in three carbon molecules, uh, with a, with a carboxyl group on them called a
+ monocarboxylate transporter. And, uh, MCT1 and MCT4 are the very most common ones. And I believe
+ it's, uh, with training MCT4 actually, uh, becomes much more prevalent on your muscle.
+ Muscle cells. And this is both to send out lactate and bring in lactate. And we'll get to that in a
+ little bit, but why does the pyruvate get turned into lactate? It's a very good question. Uh,
+ because, you know, we could just leave it at pyruvate, couldn't we? But we don't. So what's
+ the deal? Um, so there's another molecule that's very, very important in metabolism. It's called
+ NAD plus or nicotinamide adenine dinucleotide.
+ And there's also a second one called FADH, uh, and FADH2, but, uh, they're not involved in this
+ specific reaction, but know that they're important because they are what supplies the electron
+ transport chain, the actual thing that ends with oxygen and water. When there's a backup in the
+ mitochondria, you can't get enough pyruvate in and you still have to push hard. You still have
+ to exercise hard and you're burning a lot of glucose. NAD is actually very necessary for this
+ process. So in the breakdown of glucose to pyruvate, we use a lot of NAD and it gets turned
+ into NADH. And in order for this process to happen, because we're pushing really hard over
+ threshold, we need to have a lot of NAD. And as it gets turned into NADH through this process,
+ we would actually run out if we didn't turn it back. And then the process of breaking down sugar
+ would slow down very significantly, which means we wouldn't be able to exercise that hard.
+ Over what we could do aerobically. Okay. So evolution's solution, because evolution is,
+ if nothing else, very, very clever. It, it takes pyruvate and it takes, uh, NADH and it takes
+ another proton from the cell. So this is, so this is actually reducing acidity at the same time.
+ It's freeing up an NAD to go help break down more sugar. And then these two protons get put onto
+ lactate. So lactate is, is used to free up more NAD for a more breakdown of sugar. And it's used
+ as a slight buffer by absorbing a little bit of, uh, of protons that cause of acidity.
+ So even more proof that, uh, it's lactate is indeed not an acid and it's not actually what's
+ causing your muscles to burn there. No, not a bit. And, um, and also it's not a waste product. Like
+ it's a waste product because it gets turned into lactate and it gets sent out into the bloodstream.
+ Um, but you know, as we mentioned before, other cells take up lactate. And the reason they do
+ is because lactate dehydrogenase is always active. And if you have a lot more lactate than you have
+ pyruvate, you're actually going to make pyruvate. And now you can send that into the, uh, into the
+ mitochondria for the Krebs cycle. So it's, it's very, very efficient. And this is the reason that
+ we don't pee out a ton of lactate.
+ After intense exercise, because the body's like, no, there's still energy in that. Like,
+ it's like not, it's like not wasting your food. This is like your mother telling you to finish
+ your dinner. And if you don't, you're going to have it for breakfast.
+ Right. Yeah. I think the other way you can think about it is if you look at what a lactate or a
+ pyruvate molecule looks like, it's a, it's got many carbon bonds, um, on a lot of our bonded
+ hydrogen, but it's a much more complex molecule than what the normal true waste products from
+ carbon dioxide and water. So if it's a more complex molecule, that means more energy can be
+ derived from the breakdown of the molecule and your body's not just going to let you go, let that
+ go to waste. Exactly. Like you said, especially you can think humans back in the day were kind of
+ apex predators, which means we definitely need to conserve energy, you know, trying to track or hunt
+ or even farm food is very labor intensive and requires a lot of work. And so if it requires a
+ lot of work, you're going to want to be really skimpy on wasting energy at this, even at the
+ cellular level. Yeah, exactly. Um, okay. And so now that we know that lactate gets used as a fuel
+ also, so like really, where does it go? You know, to what degree does it get taken up by working
+ muscles and other tissues? So it was actually thought to be a dead end waste product up until
+ about the seventies. As a side note, uh, it was also wrongly assumed to be the cause of the slow
+ component of oxygen uptake, but we're going to do another episode on that later.
+ Uh, we're going to, we're going to give the slow component its own, uh, its own special look.
+ Okay. And so now that we know that lactate is not a dead end waste product and it's not an acid
+ and it doesn't cause fatigue. Um, so why do we have workouts like quote unquote lactate
+ tolerance workouts? Uh, yes, I think, I think these are actually pretty common amongst, uh,
+ anaerobic exercise and, and, you know, sports ranging from running, swimming, cycling,
+ everything. Um, I even remember back to my, even all the way through my collegiate swimming days,
+ we would have quote unquote lactate tolerance workouts where there would be hard race pace
+ efforts, one to two minutes long. So typically a hundred to 200 yards, um, where you get
+ almost full rest. So like three, four, five, six, seven minutes in between to recover.
+ The idea being that these really hard efforts would generate a lot of lactate. You wouldn't
+ get a full 20 or 30 minutes or something to totally recover. So you'd slowly build up more
+ lactate in your blood and somehow still having to work hard with lactate in your blood or whatever
+ was going to make you tolerant to lactate or something like it, like it's a, like it's alcohol
+ or something. If we expose ourselves to more alcohol, you know, we get, it takes more to get
+ us drunk or something like that. Yeah. Yeah. Um, yeah. And so
+ actually, uh, Joe Friel has a lactate tolerance workout in the cyclist training Bible. So what
+ was the protocol on that? So I actually have the book open right here. It's a, I have the
+ third edition. So for people playing along at home, it's the third edition page two 59,
+ which is an appendix C a five lactate tolerance reps. Uh, this is to be done on a flat or slightly
+ uphill course into the wind after a long warmup and several drums do four to eight
+ repetitions of 90 seconds to two minutes. Each, uh, intensity zone is five C, which I think is
+ pretty close to all out. Yeah. That's max. Uh, cadence is high. The total of all work
+ intervals must not exceed 12 minutes. Uh, recovery intervals are two and a half times
+ as long as the preceding works. That means if you did a two minute interval, you'd have five
+ minutes to recover, which actually pretty well drives that I was saying that I did when I was
+ swimming. Um, and then he talks about how, you know, you build,
+ you wouldn't do this more than, uh, twice a week. And you'd first start off with, you know,
+ only a few reps. Then you kind of add them as the, as the training cycle goes on. And he
+ really recommends doing these in the build and the peak phases. And curiously enough,
+ he recommends to not do these. If you're in the first two years of training for cycling,
+ which I think is a little, a little weird, but you know, we're not really developing the ability
+ to tolerate lactate because there's nothing to tolerate, right? It's actually,
+ something useful that your body is like, Oh yeah, we can do something with this. Hey.
+ Yeah. So your heart takes up a lot of lactate because the heart is a, is a very predictable
+ machine because it's just beating all the time. So it's very, very slow twitch. It's got a ton
+ of mitochondria. That's why, like, if you've ever eaten heart, uh, it's, uh, it's like the
+ very, very, very darkest meat you've ever eaten. So lactate is, uh, is a great thing because it's
+ full of mitochondria. And so it can just like turn lactate into pyruvate. And like,
+ voila, you have more food for the Krebs cycle and the brain likes lactate and, uh, you know,
+ muscles that are working sub maximally like lactate too. Like they'll take it up to one of my pet
+ peeves about the misconceptions and lactate, like, like the Michael Phelps thing, Kyle, like what's
+ the Michael Phelps thing that's happening recently compared to the Michael Phelps thing is like, Oh,
+ he was tested to have like twice or either it was either twice the lactate clearance rate or produce
+ half as much lactate or something as the average person. And so that must be why he was able to win
+ like 97 gold medals or something like that. Yeah. And you know, who else has, uh, you know,
+ has like twice the lactate clearance rate of the average person is any train cyclist, right? Yeah.
+ The other thing is like, even like, even do you think that about like his, if you think about the
+ events that he was swimming, it's not even like he was doing, he was rarely doing those short,
+ you know,
+ approximately one minute long efforts. Most of his races were actually longer than, and so quite
+ aerobic. Yeah. Yeah. You race a 200 or 400, like he was doing, like the majority of his races were,
+ and you were not, uh, they were not terribly anaerobic and like, and you're not, yeah,
+ you're not critically anaerobic for those races. Yeah. Um, and the test I actually did,
+ I found out was they tested his blood lactate after a hundred meter fly.
+ And anybody who's done blood lactate testing will tell you that that doesn't really reflect anything
+ about the person's physiologic state. But not only that, it doesn't matter because it's not a harmful
+ thing. And yeah, so that's like, that's, that's one of the pet peeves I've had lately. It's just
+ in the popular press is that, um, okay. And so, so what is, what does the training do? How does
+ this work? So trained cyclists have a higher rate of flux of lactate, which means trained cyclists
+ make more lactate, but also use more lactate.
+ So this is a very, very important distinction because it's not that, um, it's not that you
+ make less when you get, when you get stronger, you make more, but you use more. I mean, this is,
+ this is a critical distinction. So, um, so lactate clearance from the blood, uh, varies
+ by intensity and training status. Um, so this is from a paper called lactate kinetics at the
+ lactate threshold and trained and untrained men. So at FTP or, you know, if you're, if you're
+ their approximation of FTP trained subjects had 34% higher clearance rate than the untrained
+ subjects at 10% below FTP trained subjects had a 64% higher clearance rate than at FTP
+ and 97% greater clearance than in the untrained subjects at the same intensity.
+ So, um, so what, so the reason that the clearance rate is increasing is because the
+ intensity is decreasing. So you're not making quite as much lactate. So your cells take in
+ more to use it aerobically. I think this also kind of makes sense. If you consider that
+ the more you're trained, the more your body and all of your cells are going to be exposed to
+ lactate. So your body is going to respond in a way that allows it to handle those lactate molecules
+ better and more efficiently and, and, and higher flux rates than if you're, uh, just sitting on
+ the couch all the time.
+ Yeah, exactly. And they tested the, the muscles of the trained cyclists and they had a greater
+ percentage of MCT4. And this is, uh, this is the big, um, the big transporter in and out of
+ lactate. And so, you know, and so it's not just to like get rid of lactate, just stick it into
+ the bloodstream so you can pee it out. It's, it's very much the opposite. It's like, depending on
+ the intensity, your working muscles are going to be the biggest consumer of lactate. So when
+ you test somebody for, you know, lactate tolerance, quote unquote, and you do like a, like a ramp test
+ or you do a whatever test and you look at, you know, lower, like an FTP, a trained cyclist has
+ a lower level of lactate than an untrained cyclist or, um, or like a more aerobic cyclist has a lower
+ level of blood lactate at FTP than like a really good sprinter has. So, um, and so it doesn't
+ that one is, well, it does a little bit mean one is making more lactate than the other,
+ but like the level that's in the blood has two components to it that are very important that we
+ measure separately. So I think your basis in it, when you measure blood lactate, that, that is a
+ number that is affected by both your utilization rate of lactate and the transport rate of lactate
+ in and out of the cells. Yeah. And so, um, and so also like, let's also consider like, let's say we
+ have a cyclist who does like a 30 second or one minute all out hill rep. And we look at, uh, his
+ or her blood lactate, uh, from before and after, and during a couple of minutes after, uh, the hill
+ rep because lactate is, you know, it's just a fuel and, uh, and the appearance and clearance rates
+ are different for different cyclists, depending on training state. It doesn't actually provide us
+ with that much actionable information. Um, we have so much more data, uh, just from power alone that
+ can give us a lot of information. And so, um, and so also, and so also, and so also, and so also
+ actionable data about a cyclist way more than blood lactate. And, uh, you know, just personally,
+ I think this is one of the ways in which, uh, lactate is completely overblown or to put it
+ another way, as Dean Golich once told me, everything you want to know is in the power data,
+ uh, every physiological parameter that you can train or that you want to see improving or
+ changing as an athlete trains, it's all in there. You just have to know what to look for, uh, in the,
+ uh, patterns emerging from the training data and the racing data. Uh, granted, it does take a long
+ time to get used to seeing these patterns and knowing what you're looking for and why they
+ happen and how they affect the power data. But I personally think that this is a point that every
+ coach out there should be trying to achieve. So, so how do you feel that understanding
+ the process of discovery of lactate and metabolism has, um, you know, has kind of
+ affected, uh, the way that we view exercise and training now?
+ Okay. So I think like a lot of things in science, having a even shallow understanding of the
+ historical context in which these scientific measurements were made or discoveries were made
+ gives you a much deeper understanding for why things are the way they are, or maybe why
+ misconceptions are the way they are. So, uh, you know, I,
+ being a physicist, one of the famous things is of course, that when you study electrical current,
+ the first thing you'd tell you is that conventional current is the direction positive charges flow,
+ even though, you know, now it's like electrons that move and those are negative. Anyway,
+ you can also see why these things sort of permeate into the popular culture. Like
+ it's much easier to digest these small little tidbits of like, Oh, lactic acid is,
+ is what causes your muscles to burn during exercise. And you should warm down after
+ exercise. Like that's a very concise soundbite. That's
+ much easier for you to digest. Whereas actually going into all this biochemistry and all of these
+ physiological measurements took many, many minutes. And obviously that we've been talking about it
+ here and even more time spent in the lab and then digesting all these papers. And so I think
+ fortunately, unfortunately, like a lot of things, um, related to training and physiology, like
+ it's never as simple as you think it is when you first read it. Um, and that's good, I think,
+ because hopefully us trying to break these things down is provided a good route into someone,
+ some deeper understanding about lactate and the origins of all these myths. Um,
+ I think it also should hopefully give people a good appreciation for how far we've come. Like,
+ you know, people think, Oh, it's really cool. Cause you know, we've, we've got the internet
+ and all these other things. But if you think about how much we've learned, even in the last
+ 40, 50, 60 years about the way the human body works compared to,
+ to, you know, what the peak of medicine looked like in the 18 or even early 1900s, like it was
+ bleak, you know, we we've come a long way. And, and, and even just the things we, the sort of
+ whirlwind we've done here from early 1800s, Oh, uh, sour milk, lactate fermentation all the way
+ up to now being able to say something about how your body is actually utilizing these molecules
+ instead of just guessing. My, I think my favorite thing that we covered today is actually
+ a quote unquote anaerobic threshold because like once you go over FTP and your blood lactate starts
+ climbing, does that mean you're breaking down more sugar since you know, glucose is where the
+ lactate comes from originally? And the answer is yes. But does that mean that, um, that it's like
+ fully anaerobic, that it's like a hypoxic thing? Like, and the answer is that like, even, you know,
+ when you're in like zone two, when you're just going for an easy spin and you're like, Oh,
+ this is quote unquote aerobic.
+ You're still breaking down glucose and you're still making some lactate. The difference is not
+ like once you go over a certain intensity and you start burning more carbohydrates, that that's
+ anaerobic. The honest answer is that, you know, even at the easiest pace riding that you can be
+ doing, you are, you still have anaerobic processes going on. You're breaking down glucose. You're
+ not, you're not, you're not, you're not, you're not, you're not, you're not, you're not, you're not
+ anaerobic. Uh, the only place where you get oxygen in the entire chain of metabolism is in the
+ electron transport chain, which happens in the mitochondrial, uh, uh, inner membrane. So, um,
+ so the important thing to know is that the anaerobic threshold quote unquote,
+ isn't really anaerobic. It's not like you go over this and you're anaerobic. Um,
+ anaerobic processes are happening all the time at every intensity. So this actually makes, uh,
+ very inconvenient picture for people trying to, uh, describe these things in these very simple
+ terms. But now we have a historical context for why that is. And, um, and in another episode as
+ usual, uh, but we will get to it. I promise we're going to go over like, what is aerobic? Um, and
+ we, you know, we just sort of touched on it here. So like, let's let that be a little bit of a
+ preview. I think the other thing is that I always interpreted when people would say aerobic or
+ that that was also somehow like the tipping point, like, Oh, once you, uh, way back in the day,
+ once you exceed this level, that means you're, you know, you know, the, the, you've shifted to
+ 51% anaerobic contribution and 50% aerobic, you know, 49% aerobic contribution, which also isn't
+ even true. Like, as you said, as we said earlier, that's actually more right around the like one
+ minute ish all out effort. And so you're still quite, quite, quite aerobically dominated at this
+ threshold. Yeah. Or put another way, like, uh, like, you know, the old, um, Coggin training zones
+ of, you know, 120% of FTP is your VO2 max. And over that is your anaerobic. So if your VO2 max
+ power is 300 Watts and you shift to 301 Watts, it's not like everything like flips all of a
+ sudden. And now you're totally anaerobic. Like it's not at all how it happens. It's, it's very
+ it just depends on how fast are the processes happening. I think the other thing is that your
+ body is actually really adaptable. And so the, I think the cool thing about training is that
+ you're taking advantage of these evolutionary, evolutionarily enabled adaptations to like make
+ yourself good at this thing that isn't required for you to live at all. Whereas like, you know,
+ your body developed all of these things to help you stay alive. And now we're going to take
+ advantage of that to help you pedal bikes faster.
+ Okay. So, uh, I want to thank everybody for listening and we've got the show notes up at
+ empiricalcycling.com and we've got the podcast episodes up there. Uh, we've also got a donations
+ page. So if you like the show you just heard and want to donate to the podcast, we are advertising
+ free. So, uh, you know, if you want to show us some love, we would really love you back for that
+ by producing more shows that you're enjoying. Um, so if you have any questions, comments,
+ or coaching inquiries, please send an email to empiricalcycling at gmail.com. And, uh, if you'd be
+ so kind also as to give us a good iTunes rating, we would really love that. And if you want to tell
+ your friends, especially, um, all right. Uh, yeah. And so as always, everybody, thank you all for
+ listening so much. Bye-bye. Thanks everyone.

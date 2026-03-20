@@ -1,0 +1,873 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Today, we are joined by our excellent coach, Gideon Minas.
+ And I want to thank everybody for listening as usual. If you are new here, please consider subscribing to the podcast if you like what you're hearing.
+ And if you're a returning listener, we love having you back. Thank you so much for coming back.
+ And if anybody wants to support the show, it is currently mid-December, early mid-December.
+ And we usually get a big rush of people for coaching inquiries over the new year.
+ Obviously, New Year's Resolutioners, we are always happy to have those folks.
+ But if you want to get ahead of that, kind of like we had over the fall in September, October, shoot me an email at empiricalcyclingatgmail.com if you would like to work with myself or get me in this or any of my personally handpicked, very excellent coaches who I'm always super, super happy with their work.
+ And we're going to talk about that a bit today in terms of coaching process and using data and science.
+ But anyway, we do have negotiable rates for coaching for students and Neo pros because we know that folks don't have a ton of money and we still think you deserve really excellent coaching anyway. If you're also not looking for a coach, you can always reach out for a consultation and that's will kind of give you the tools to plan and adjust your own training. And that's kind of the best way to support the show because we are ad free and we always will be. And if you're not interested in any of that, just keep listening along. We are happy to have you listening anyway.
+ If you would like to support the show without spending a dime, you can always share the podcast.
+ Word of mouth goes a long way.
+ And giving it a nice rating wherever you listen to podcasts also is extremely appreciated.
+ We have a nice, very high rating.
+ And I'm told it means something.
+ But it's nice to see anyway.
+ If you would like to ask questions of the podcast or if you would like to participate in my weekend training Q&A up in the Instagram stories, go give me a follow on Instagram at Imperial Cycling, obviously.
+ And over on the website at empiricalcycling.com, head over to the podcast page.
+ All the way up at the top, there is a off-hours submission form if I don't have a question box up on Instagram, which I do somewhat infrequently.
+ I'd say like once, obviously on weekends, and then maybe occasionally before we do a podcast.
+ And we will have some listener questions to answer today.
+ So what I wanted to dig into today was using data and science in coaching.
+ And when I say science, I mean, quote unquote, science, because me and Kyle and Rory, a little
+ while ago, we did a podcast on interpreting, quote unquote, the science, because I was
+ personally annoyed at people saying, here's what the science says.
+ And that is a big interpretation question.
+ And we kind of dug into, we did a little bit of airing dirty laundry for exercise science
+ and small ends and methodologies and things not standardized.
+ We understand.
+ If you want to go back and listen to that, feel free to.
+ But one of the things we wanted to do today was to dig into the application of this stuff.
+ How do we use data?
+ How do we use really the scientific process in coaching?
+ I think it's a good way to say that.
+ And so, Gediminas, you are a newer coach with us.
+ you are actually our newest coach. You've been coaching for about two years now, a year on your
+ own after you had gotten done working with Fabiano and also a year with us officially. And you are an
+ extremely quick study on all the coaching stuff. You are an excellent coach. I'm super, super happy
+ to have hired you. And I know all of your clients are very happy to be working with you too. They
+ a lot a bunch of them have told me personally so keep up the good work but i think because you have
+ a different background you come from computer science um is that the right way to say that
+ engineering programming yeah computer science yeah i have a degree in computer science
+ okay so you're like a nerds nerd that's cool um and you've actually been very very useful when
+ i've had difficult programming things in wko5 to do so that's awesome to have you there for that
+ But I think where I wanted to start was due to your different background, what surprised you about being on the other side of a training calendar?
+ Instead of receiving it from Fabiano, what's it like for you doing the coaching process on the other side?
+ And where do you feel like people's expectations are versus what the reality is for coaching?
+ yeah when i started coaching people i was extremely nervous about basically being a fraud
+ because i don't have a degree in exercise science i don't have a degree in biology i have a future
+ science spoiler alert not a lot of coaches do i know i know but i still had this expectation well
+ uh more like a fear than expectation that people would be like oh why why we are doing this why
+ why why why and i'll be way out of my depth i was like i don't i couldn't explain what an enzyme
+ really is like so uh but it turns out and i can explain what enzymes are in detail greater than
+ anybody needs to know yeah well i could always forward people to you i never i never needed to
+ but I was definitely having that fear but never really happened and what surprised me was that
+ people have a lot of questions why I'm doing this but they are not looking for explanation at some
+ biochemistry level what they really want is a coherent logical framework that explains why
+ we are doing this right now what's next and why we are doing this not some other thing and i really
+ like having these conversations with people because as we always say trust but verify sometimes i'm
+ like well actually you know you might be onto something maybe yeah maybe we can change this
+ i didn't really think people reach out for the verify process uh part of the trust but verify
+ process yeah for sure they and that happens to me all the time by the way uh where somebody says
+ oh, I feel like this is happening. I feel like we need to lean into this because I feel a little
+ weaker here. And I'm like, great, excellent feedback. Let's incorporate it and we'll make
+ these adjustments. How did that sound to you? Great. Let's move forward. And you say it's a
+ logical framework. And like I said before, it does really feel like the scientific process
+ for N equals one because everybody's got a little bit different strengths and weaknesses. Everybody's
+ got a little bit different off by stressors and nutrition habits and sleep habits and these things
+ that all need to be accounted for and everybody's goals are different and their training histories
+ are different and you know when it comes time to start coaching somebody you've got to incorporate
+ all of that uh and so you know the logical framework as tim cusick would say becomes a um
+ he calls it a decision science you know your your logical framework becomes a framework to lean on
+ when you need to make training decisions for people uh yeah totally and that doesn't mean we
+ are not trying to understand why things work or why things don't work i mean that's what this
+ podcast is about uh at least half of the episodes uh and it's very useful to work on uh understanding
+ the fundamentals because you have more depth in your logical framework when you can reason
+ about your choices to greater extent. So you can have an informed guess why something worked,
+ why something didn't work. But I think people would be surprised by how far you can go in
+ in terms of programming training, programming workouts, just by being a good listener, first
+ and foremost, and just sticking with the basics, really.
+ You can get really, really far by doing F2P training blocks, VO2max, followed by VO2max
+ training blocks, going back to threshold.
+ I mean, this sort of framework, endurance training framework, has been around since
+ like what 70s 80s before that yeah even before that yeah so there's a lot of new stuff and we
+ can talk about how you know we incorporate more new and more experimental stuff but
+ yeah i think well let's i actually want to ask you this also while we're kind of on the topic is
+ what about your computer science background helped you with applying a logical framework
+ when coaching? Because I assume, I'm not entirely sure how this works, but I have been told by very
+ smart people kind of how programs work, how databases work. And it seems like everybody's
+ relying on a logical framework when they go to do this programming like we want to make this piece
+ and take it and you know we're going to transmute the data we're going to like log transform it or
+ whatever and then we're going to be able to do xyz with it and then this will give us this data and
+ then we can do whatever else with it and like that's the kind of logical framework that you
+ know you it's it's conceptual and i was i was actually because i don't know anything about
+ programming, but I was surprised that it was so conceptual. And in what stuff I've built in WK05,
+ I mean, this is what WK05 is fun about is it makes you ask, what do I want to know? Because
+ the data is available, but you need to have a question first. So that's my background on
+ understanding programming and logical framework, but it seems like that would be useful or was it
+ more useful to you or is it less useful to you applying it to coaching uh there's definitely a
+ lot of overlap between these fields uh way more than i thought and you're right that in software
+ there are so so many layers that build on top of each other and people are usually good that's a
+ pretty specific layer i mean um if i'm working on transforming data and storing data processing data
+ so that people can later analyze it i really don't know much about say how the uh processor
+ works i don't i don't know much about like the design of processors at like computer chips yeah
+ like a level above you know transistors and everything i rely on so many layers that people
+ built on uh over the years well decades uh so you always you're talking about like an operating
+ system that utilizes the hardware to yeah yeah do data processing yeah exactly i'm asking because i
+ don't understand this stuff no you got that right and okay uh whenever you work on something you
+ always need to draw the line like how deep do you want to go in terms of understanding because you
+ can go all the way down but uh at the end of the day you're paid to produce something of value to
+ deliver shareholder value and nerding out for the rather is fun but it's not it doesn't deliver much
+ shareholder value so the so the parallel would be something like if you think about i don't know
+ like threshold training or VO2 max training, and you start digging into the weeds about how does
+ this work under the hood? I think the difference there between computer science and coaching is
+ that in computer science, ultimately, somebody actually knows how something was built. And
+ coaching, physiology is such a black box. I mean, and I've said this on the podcast a bunch of
+ times, but if somebody's new listening, we're always getting a new listener. So hi, folks.
+ The reason that I called it empirical cycling in the first place is because, you know, I've got a degree in biology.
+ I studied biochem.
+ I studied systems phys.
+ You know, I studied math and stats and all the other science stuff.
+ And I knew that the human body is a really big, really complicated black box.
+ And I knew that we were never really going to understand probably in our lifetimes really how things work.
+ We might eventually have, we might clear out that fog of war, the war between us and knowledge of the human body.
+ But we're never probably going to have the level of detail that we really want, that we can get when it comes to how is this computer chip built.
+ You know, microtransistors and all that crazy shit that's so cool.
+ Yeah, and there's the interesting difference where in software engineering,
+ well, I guess any kind of engineering, it almost never works by accident.
+ It works because you kind of got the pieces right.
+ But in training, very often you can get something even vaguely in the right direction.
+ It will work surprisingly well, especially if you have someone gifted.
+ So that's a big difference between humans and computers.
+ The computer's not going to process data extra awesomely
+ because maybe it'll be like a hair faster or something like that.
+ But yeah, the outcomes are very, very different, I would assume,
+ because I think that obviously in computers, you are just crunching data.
+ It's just doing what it's told to do.
+ the human body, we think we understand the command prompts. Is that a good phrase? I don't
+ know. We think we understand the algorithms that we're using in terms of training stimulus
+ and the outcomes, but really, the black box analogy holds so well. We know the stimulus
+ is going in. We're hopefully measuring the outcome. And how is it working? Well,
+ you can't kind of develop a logical framework, but at the very, very base level, and I think
+ this is probably something that you've observed yourself, is you don't really need to understand
+ what's in the black box. And I mean, this is also partly what I'm here for, is I'm here to also
+ partly tell you, we know what doesn't work. In fact, in a lot of ways, that's one of the more
+ useful parts of understanding things a little better and as long as all of you trust my
+ interpretation and are willing to go oh what about this what about this uh you know together we can
+ all come to a pretty logical framework i think yeah yeah exactly because uh another um another
+ similarity between these two careers is that uh when i was working in tech and i was working on
+ bigger projects i would take months uh there's always the research phase where you are trying
+ to figure out what you're going to do how you're going to approach this but you can't do this
+ forever you can't try to design the perfect system i mean especially when i was working in a startup
+ you know when you are working 30 40 people company the company might not even exist in a year so
+ you really need uh to know where to draw the line and okay i'm confident enough that this should
+ work uh but i might be wrong and if i'm wrong that's how i'll know that this is not going to
+ the plan and the whole process is very similar to programming training plans because i mean
+ at the end of the day we need to put together a training plan uh that we are confident enough in
+ uh and to uh to monitor the outputs monitor how the thing is going but we don't have time and
+ don't have the need to spend forever about thinking the perfect training plan uh that has
+ i don't know 50 references uh and that does happen occasionally because i think i think when people
+ come to us you know um we are in a lot of ways people are like oh they're the science folks you
+ We are not the only ones out there for sure, but the media that I put out is I'm interested in understanding how things work.
+ That's been just a lifelong curiosity of mine, and I'm so happy I can spend almost all of my time just learning more stuff.
+ It's the coolest thing in the world.
+ It's the best job ever.
+ And a lot of the time people come to us and they understand the role of coach and the role of athlete.
+ And sometimes people want to know, hey, what do you guys know that isn't on the podcast?
+ Like what's behind the logical framework?
+ And why is all this working?
+ That's one of the things I hear the most often is I want to know why my training is – why I'm doing what I'm doing.
+ And a lot of the time I have very disappointing news for people in that the logic framework for
+ training is actually incredibly simple. And, you know, they're waiting for maybe, or maybe waiting
+ for some big reveal, but I don't have one because there's only a handful of levers that we can
+ realistically pull. And unless we're doing like race specificity, we are just pulling on one of
+ these levers. And so oftentimes the title of the workout VO two max threshold over unders you,
+ you understand what we're working on. Uh, we're working on muscular endurance. We're working on
+ aerobic capacity, or maybe it's a pacing workout. So we're working on something a little more mental,
+ uh, as well as physical in terms of like being able to pace and a TT that's got some hills in
+ things like that. So that's the whole logical framework. That's it. And I think one of the
+ things that I've seen in other training plans, because I consult with a lot of people every year,
+ and one of the things I see in training plans is little blurbs about why people are doing what
+ they're doing. This is why this works. And, and everybody's well-meaning with it. I don't want
+ to cast shade anywhere because everybody has their, their well-intentioned. I really believe
+ that even though sometimes it doesn't actually work like that. Like fat, like fat max training
+ is it's not, you don't get better stimulus. This is some of the science we do know. You don't get
+ better stimulus by burning more fat because the substrate used is irrelevant. Wattstock number 40.
+ Uh, that's, that's a reference I remember off the top of my head. That was, um, a, uh, like we kind
+ of worked through what are all the signals that point at PGC one alpha and mitochondrial biogenesis
+ and all that. And none of it was substrate, uh, choice. Uh, it's like, uh, it's a byproduct. It's
+ an innocent bystander, kind of like lactate in a lot of ways, innocent bystander. But I think that
+ what this says to me is that this is where a lot of people are at in terms of their consumption of
+ training media is a lot of coaches may feel pressure to be more sciencey when in a lot of
+ ways it's it's genuinely not necessary um all right so i've lied it on a little bit so you've
+ got a bunch of thoughts yeah i did have a bunch of thoughts and i think uh the first thing that
+ comes to mind i can and i can definitely relate to feeling pressure to sound science to some extent
+ because one of the surprisingly difficult things and coaching is uh refraining from
+ doing what I would call busy work where just you are making things unnecessarily complex just to
+ appear busy and especially this time of the year because for a lot of people uh the training right
+ now is just uh either off-season break where I literally tell them to do nothing uh just getting
+ back into training where it's just riding easy uh with little structure just easing back into regular
+ hours and good vibes training for sure yeah yeah and it's tempting to throw a lot of i don't know
+ complicate things unnecessarily but uh i mean people are paying for performance really people
+ are paying to to well at races their people people are i don't know they're paying for
+ paying me for long enough so that i assume they trust me uh so yeah i guess there's no need
+ to try to appear smarter than I am.
+ But I definitely understand the temptation and pressure,
+ especially, you know, coaching is a very competitive market.
+ It's a very cool job.
+ A lot of people want to do that job.
+ It really lived up to expectations.
+ It exceeded my expectations.
+ Best job ever.
+ I guess you'll need to delete that episode
+ if I need to go back to the corporate world.
+ But I definitely understand why people do this, even if it's like, it's well-intended, but not particularly useful.
+ It's funny you say busy work to me, because at least to me, this is where knowing your N equals one client makes a difference.
+ Because some people are, they love just vibing.
+ If you just put in a week of, yay, just ride the vibes, some people love that and some people go, oh, man, I don't – can you give me a couple intervals to do even if they're just faffing?
+ Just give me something.
+ And so some people want that and some people don't.
+ Some people want the borders to be open.
+ Some people want things to be relatively restricted.
+ And knowing who's in front of you makes a difference there.
+ And so I think that – but especially early on for me, I completely understand thinking about feeling an internal pressure about I've got to look like you're always doing something.
+ And people, cause I think this is where our assumptions of people's expectations can come to buy this too, in that people think that everything needs to be moving forward all the time. But like on a mid season break, you're not going forward. You're technically going backwards. You're losing fitness, but that is a step in a very long process.
+ And that's part of what having a coach I think is really good for is having somebody who's got the bigger picture in mind. Because as an athlete, you know, the short term is really, really easy to think about. Like, like, for instance, I've been working on my bench press recently. And I hit, you know, I PR for a couple weeks in a row for my one rep max. And then I kind of, I started to slide back and I was like, Oh, I need a rest week. Okay, cool. Take my rest week.
+ And I'm like, all right, I got to get right back to it, right back to that one rep max.
+ And I'm like, you know, I'm like 15 pounds low on my warmup set and my, on my nine out
+ of 10 single.
+ And I'm going, oh no, I've lost.
+ And I'm so short-sighted in that moment that, you know, I, I'm like, oh yeah, right.
+ I'm, I don't have anybody coaching me on how to like make my branch press better.
+ Uh, so, um, so I think that that's where that, that kind of thing is very, very useful.
+ Uh, so that, and, and that's, I think one of the things that, you know, just on the
+ coaching side of things that we internally talk about all the time is, you know, kind
+ of meeting your client where they are, but also not putting undue pressure on ourselves
+ to make things look fancier than they really are.
+ And looking back at some of my old training plans, I mean, we did that, uh, an episode
+ where Kyle and I roasted some of the plans I wrote in like 2015, 16. And it was a lot of busy work.
+ I was, I was putting in sprints when I shouldn't have been putting in sprints and people should
+ have been resting, but I was just trying to make things look, somebody has stuff to do every day.
+ And especially if you're somebody who wants to think that the harder I work, the more I'm going
+ to get out of this. I mean, technically that is true, but only up to a point because you can push
+ as hard as you want for two or three weeks. Um, like if, if you can do, you can go do that Hickson
+ study protocol. If you really want to do, what is it? Six by five and then 40 minute TTs. And that's
+ six days a week and you get one rest day. You can do that if you really want to, are you going to
+ be able to sustain that for like 6 12 24 months no not even close you could probably barely sustain
+ it for as long as those participants did in that study um so yeah totally and uh especially when
+ someone reaches out to us around october november where very often uh the best thing for the client
+ is again to head right into your season break because i would say 80 of the clients i have
+ when they reached out to me, they were not in a good place training wise. Uh, so it definitely
+ requires some confidence from the coach and a lot of trust from the client to accept that. Okay.
+ Like, I guess I I'm paying, I'm paying the coach to tell me to do nothing. And
+ well, they weren't doing it themselves and this is the, and they want, they want that opinion and
+ It feels weird, doesn't it?
+ It does, yeah.
+ And I totally understand because whenever I've gotten somebody, and this is part of how we use data, by the way.
+ This is a really good segue into that because when we start with somebody, one of the first things we do is we look at their data like we were doing a season review for one of our own clients.
+ But we see things that, you know, when we're looking at our own clients, we see certain things that we expect.
+ we see certain trends and certain metrics and we understand when the model in WKO5 is and isn't
+ valid and you know, all that, all that kind of normal stuff. And you know, we can look back a
+ couple of years even and go, okay, yeah, we've been making good progress on XYZ and this is great.
+ And when we get somebody new, I mean, it's like, it's like going up into an attic in a
+ to hold land familiar house you know you're like do i need to bring hazmat suits are there bats up
+ here are there rats or is this going to be a bunch of old dolls this is going to be a bunch of old
+ pictures am i going to find a treasure trove of old books this is going to be this could be amazing
+ but i could also get swarmed by animals um that that's that's how i feel loading up to bko5
+ for somebody new uh what's your experience there yeah yeah same uh it's always it's always pretty
+ exciting because like you say you never know what you will find out and for that reason one of the
+ first charts i check because at this point i have pretty streamlined workflow but i can't i don't
+ know give me an hour and i'll have a pretty good idea of what someone's training has been in the
+ past year uh one of the first things i look at is intensity factor over time if i see uh if i see
+ yeah if i see the floor is at 0.7 0.75 i know that there are easy gains available
+ almost so i can't say always because they're always exceptions but more often than not
+ but chances are i'm facing an uphill battle where i need to convince someone they need to write
+ way way easier and i understand if i understand the pushback uh i'm getting most of the time
+ because again takes trust but it's my zone too man i mean yeah a lot of people uh have been doing
+ this for so long that they're kind of used to it i mean the fatigue security blanket you yeah
+ Yeah, I did. I did coin the term fatigue security blanket, which amazingly was on the spot, like in a recording, the same way that I think it was our very, very first episode.
+ I on the spot speculated that people love sweet spot training because their FTPs are overestimated and they're actually doing threshold work.
+ Yeah. Um, but one of the, this, so this is one of the ways that we use the data. And so we have, you know, we're, we have, that's a metric and we are using the metric to assess somebody's training and we're using it to assess it quickly. We don't have to flip through hundreds of workouts.
+ Like when I consult with somebody and I am doing a deep, uh, like data review, I do flip
+ through a few hundred workouts.
+ I do look at those and I look at what are their training habits?
+ Like, where do they usually ride?
+ Are they indoors?
+ The outdoors, they have a favorite climb.
+ Um, are they a group ride person?
+ How did their races go?
+ Do I see any patterns?
+ So I see warmup things like, do I see like, what do I see in the workout comments?
+ Some people leave no comments whatsoever, and they have like whoop data or HRV and stuff, and I'll look at sleep data.
+ And so when we go back, we're looking for patterns and things that we know indicate all sorts of stuff, potentially indicate fatigue, potentially indicate aerobic fitness, potentially indicate the fact that somebody on their own may have fallen into that black hole of middle intensity where their easy rides are too hard and their hard rides can't be hard enough.
+ And so everything kind of falls into this middle.
+ It's like a chaotic attractor.
+ Yeah, and I think the most important thing you said there is that a lot of these metrics are shortcuts.
+ We could end up making the same training decisions we do, just in a much more manual way.
+ But we use metrics, we use dashboards to speed things up.
+ But we are not driven by these metrics, if you know what I'm saying.
+ We are not like, oh, the number is above some threshold, therefore we must do this.
+ For us, it's just like, no, it's just a faster way to answer a question we already had.
+ Like, is this person training too hard to offer now?
+ Is this person resting enough?
+ But we are not making decisions just because a number says so, a computer says so.
+ Well, yeah, you hit the nail on the head, really.
+ which is that like every time somebody asked me,
+ should I get WKO5?
+ My stock answer is it's a lot of data.
+ You need to understand the model.
+ In my opinion, it's the best power model available.
+ But the data doesn't tell you anything
+ if you just sit there and look at the data.
+ Data in a vacuum,
+ like you could be looking at the Fibonacci sequence
+ and it's not going to tell you anything unless you're asking what are the relationships between
+ these things uh yeah and uh when looking at slightly more complicated metrics like tsb
+ which is in some software packages called form i believe um you really need to understand how
+ this is calculated and the weird something like how do metrics emerge yeah yeah exactly and and
+ And, well, this is kind of where I was going, and I was taking forever to get there, so sorry.
+ You jogged my memory, thanks.
+ But what I ultimately tell people about WKO5 or anything is that the data won't inform you.
+ You have to have a question first, and then the data can help inform your question.
+ But you have to have that, like we talked about earlier, we have to have that conceptual framework to begin with.
+ you cannot just have you know like a blank mind and looking at data because you you and this is
+ this is one of the other challenging parts of coaching or self-coaching is you have to
+ you have to know what you you have to know the question and also what data will potentially
+ give you the answer to that question yeah uh yeah that's what i was trying to get to uh because
+ uh and i guess more importantly when you need to know when a given metric a set of metrics
+ might mislead you and i really like the form example rtsb uh because some people have strong
+ opinion about calling ctl fitness uh yeah i do yeah yeah um but anyway don't want to get lost
+ on the tangent something that's really kind of frustrating something's frustrating as i recently
+ was uh saying that peaking means having your tsb above zero and if your tsb is not too negative it
+ means you're not tired and you can push harder that's like the biggest misinterpretation the
+ metric i've heard so far and it's a good example of how if you're not asking what this metric means
+ you'll just end up making really bad decisions because the best way to make tsb positive the
+ form positives to get sick doesn't guarantee performance uh that is really funny um especially
+ if you're somebody who just keeps pushing really hard actually uh this is one of the patterns
+ that we do look for is, especially when I'm consulting with people, and I'm sure when you're
+ looking back at people's previous training, is how many planned workouts were there in a row
+ that got skipped? Usually that means either somebody got sick or somebody in your immediate
+ family got really sick. And neither of them are great. And especially if there's no record in that
+ training of what happened. But if you see that happening every couple of weeks and it looks like
+ the training is a little, like either a little too much or if the training is fine, but you were
+ seeing a little bit of inconsistency and then you see those like periods of just red, oftentimes
+ that does mean that somebody is either sick or they're under fueling or they're underslept.
+ And so you've got to start digging into, instead of just seeing a pattern like that, you've got to dig into why. And so the data can also inform a question that warrants further investigation. But the data itself is just a pattern. It could just be that somebody's computer dies every couple weeks and they just lose their workouts. So it could be that too.
+ Yeah, it could be that too.
+ And also it's important to understand how important cycling is in someone's life
+ because people might be skipping workouts simply because they love cycling,
+ but it's not even in the top three, top five priorities.
+ Again, you don't have data around that.
+ And that's where our questionnaire comes in.
+ I guess we can touch on that later.
+ I don't want to derail this data conversation.
+ But yeah, it's really important to have the context around someone's habits or patterns.
+ Yeah.
+ So let's also talk about – let's dig further into people's expectations on science and the application of science too.
+ Because I think we've kind of touched on a lot of the points that we wanted to make about using data.
+ But where are we at with using scientific literature?
+ And so, you know, you coming from a very different background than me, you know, you already mentioned a couple things along the lines of, you know, you expected people to – your expectation was that people would expect you to be a lot more science-y.
+ But what do you think this says about just people in general?
+ And when you see other training media, because I don't really consume any.
+ When I see something on Instagram that pops up too much, I remove it from my Instagram feed.
+ Let's put it that way.
+ Because partly, I'm just not interested in consuming other media.
+ And it was like this when I play guitar.
+ if I listened to one guitar player too much,
+ I would end up playing a lot like them.
+ And I would write riffs like them.
+ And after a while, people were like, are you Tom Morello?
+ And I'm like, believe me, I am not.
+ So that's part of one of the reasons I don't want to consume other training media.
+ But otherwise, one of the other reasons is that I personally don't find it very useful.
+ Like people have sent me like GCN videos and stuff like that.
+ And I'm watching it and I'm going, why am I here?
+ There's nothing new here for me.
+ And sometimes when there is something new, I'm like, oh, that's interesting.
+ I'll look into that.
+ And then oftentimes my conclusion going back to like the original papers or whatever is different than somebody else's.
+ And so I'd rather just get there on my own.
+ So where are you at with all this stuff?
+ And where do you think people are at in general too?
+ not uh i don't want to subsuite anybody but um yeah it uh takes a while to get rid of my tech
+ habits i guess and i'm very into cycling media for what i call uh doing uh research and competition
+ so i'm and i'm yeah i'm trying to keep up just to see what other coaching companies are doing
+ like do i agree with it what do i think about it i keep that to myself for the most part
+ yeah you've never mentioned it to me this is the first i've heard of it i know i mean i don't know
+ sometimes the content i can consume is so bad that i see it as a guilty pleasure uh well it's also
+ i mean i i appreciate that actually because um you know if you are just caught in you know my
+ little ecosystem, uh, you like, cause I'm always looking for other points of view and I don't get
+ it from training media. I get it from, I get it from like, you know, strength training media.
+ I get it from general health and fitness media. I get it from reading books about things that are
+ only tangentially related. Like the last book I read was about the evolution of life. Um, and
+ And one of the next books I'm going to read over here on my bookshelf, where is it? It's a book on natural selection and social theory. That's the next one in my queue.
+ And then the next one is a book on genes and inheritance and how that works, et cetera, which I actually had read like 10 years ago, and I wanted to reread it.
+ So that's where I get my other opinions from because I'm looking for things that are – that's just my curiosity, I guess.
+ and eventually it makes its way into coaching or maybe not i don't know anyway sorry i'm rambling
+ you go ahead no no i totally agree with you i think i get most of the valuable knowledge i guess
+ from other tangentially related things but i still think it's important to know what others are doing
+ in the field because i mean it's important to stay grounded like we have strong views on things but
+ doesn't mean well i mean it's still important to keep up you know so we are not in the information
+ bubble uh because we are i don't know all of us most of us have been coached by you or someone
+ else at empirical cycling so yeah i think it's important to stay up to date but i i think
+ uh the way i see the current trends in media is that there is this temptation that
+ If you do intervals in some, I don't know, in a way that's been proven superior in scientific literature, you will optimize your training.
+ So, you know, take 10% improvement from this study and then 15% from that study and 20% from that study.
+ Kind of like aerogains, you know, like you have so many claims on aerogains that, I don't know, I should be riding at 30k an hour just by sitting on a bike.
+ apparently doesn't add up that way uh so uh yeah i think this there's the temptation to find a
+ shortcut i think it's really i'll put it different way it's really hard to assess how something from
+ study from a study a set of studies would affect your own training what's kind of expected impact
+ if you apply something.
+ Well, and this is where I think being a consumer of training media is difficult.
+ And it's not like my training media is any easier to interpret a lot of the time.
+ I do my best, though.
+ But everybody knows I really get into the weeds.
+ Somebody sent me an AI review of the podcast,
+ and it was highly technical.
+ It takes a couple of listens sometimes and not for everybody.
+ And I was like, yeah, that sounds like me.
+ So, um, but the, um, so I'm not doing any, anybody, any favors.
+ Like I'm trying, I'm attempting to make the scientific literature and our understanding
+ of things as transparent as possible.
+ And that includes something I've been trying to do lately is try to communicate a better understanding of how much of a difference this stuff makes.
+ And we've recently been diving into statistics, partly because everybody knows I've been listening to the Mass podcast or Iron Culture now.
+ And they communicate statistics really, really well.
+ And I was like, oh, that's how to do it.
+ okay, cool. I can do that. So hopefully I haven't been doing a terrible job with that stuff, but
+ it's opened up some doors for stuff for us to tackle, but none of it's easy answers and none
+ of it is an easy heuristic. And I think this is what I'm getting to as a difficult part of being
+ a training media consumer is there's so much shit out there to process and parse that when it comes
+ time to, well, what intervals am I doing on Tuesday? That can be a really difficult question
+ to answer because there are nine different things everybody says you should do. If this paper says
+ this, this paper says something different, this medicine is this, like, what do I do on Tuesday?
+ And I think that this is where people, what I would call over-interpreting
+ the scientific literature is an easy trap to fall into because, and I genuinely understand this,
+ people want a heuristic. People want a simple rule of thumb to follow that is going to get them
+ the improvements that they want. And it's, um, it's an easy trap to fall into if you,
+ if you do make media and I, and it's something that I've, I've very deliberately avoided,
+ like do this one simple interval set and all, you know, it'll be your training panacea. I,
+ I, I feel like that's a, that on my part, that would be like a bait and switch. Somebody would
+ do those intervals and they would go, uh, okay, I got, I got a little bit, but nah,
+ uh, the reality is not going to match the marketing. And I would feel genuinely bad
+ about doing that to somebody yeah uh and i think uh as someone i don't know who communicates a lot
+ with people over the internet uh i think there's also another temptation of uh again just
+ uh use answers communication uh i mean i try to write something i write try to write an article
+ it kind of like didn't really live up to my expectations and one of the reasons was that
+ i reflected on it and you know what sure i wanted to write something used but in a way i wanted to
+ write something where people be read this and be like oh wow this dude's really smart he's he knows
+ what he's doing and yeah i understand the impulse for that yeah yeah i know uh so and you told me
+ that just think just take one of my episodes one of my articles and think how much i omitted there
+ i was like oh wow yeah that that makes so much sense and now whenever i read something non-fiction
+ especially if i knew if i have some prior knowledge on the topic i'm like oh wow
+ the author decided to omit so much and that's the reason why this book is readable to begin with
+ because right now I'm reading a book on the history of statistics and probabilities.
+ Fascinating topic.
+ Oh, send me the title of that. I want to read it.
+ Yeah, will do.
+ Actually, an ex-client recommended this to me,
+ and I get so many recommendations from current and past clients and books and podcasts.
+ It's a nice benefit of this job.
+ The temptation to use media to prove something about yourself to others is very real.
+ And I think that's one of the reasons we have the media landscape that we do.
+ Well, possibly.
+ I hadn't really thought about that before, about people using media to show themselves off.
+ Well, there have been a couple of very high-profile examples, I suppose.
+ Okay, well, they'll remain nameless for now, but I think everybody knows who I'm talking about.
+ I actually – this is one of the reasons that I picked you and I've picked the coaches that I have because when it comes to putting your client first over yourself,
+ It can be difficult. And I remember way, way back in the day, like right when I started coaching, I had a couple of clients who were having some pretty good success. And I tried using that to market myself as a coach. And it felt dirty. It felt icky. And I decided I just wasn't going to do that.
+ I figured what I would do is I would try to communicate for other people's benefits.
+ And if I could, if I could communicate things well, then people would think, oh, okay, maybe,
+ maybe they will be good coaches. And that that's what I try to do with the media is like, what's
+ going to help other people rather than what's going to make me look smart. If I wanted to make
+ myself look smart, I mean, boy, I would open up one of my old biochem textbooks. And you mentioned
+ enzymes earlier, we could go through all of the enzyme kinetics stuff. And it'd be like lots of
+ numbers, lots of equations. Wow. Isn't this guy so smart? Look at what he knows. Like, no, I learned
+ it from somebody teaching it to me. Like anybody could learn it too if they, yeah. So I'm not
+ concerned about that. I'm concerned about communicating what's realistic and expectations
+ and what's realistic for training goals and like what's realistic for what do we know about training
+ and putting the client first and putting the you know the audience first for this podcast that's
+ one of the reasons we scrapped yesterday's episode yeah that's true because yeah
+ and again we did a bad job on that one and i listened back i said yeah this this this this
+ was just us having a coaching chat this was not a conversation for the listeners yeah i felt that
+ Again, I felt I had a lot of decent ideas that sounded decent in my head,
+ but when it was time to record, I was like, oh, okay.
+ I can't go into specifics.
+ I can't do the whole storytelling thing because, I don't know,
+ it feels weird to talk about someone on here,
+ about someone I'm working with right now.
+ So, you know, again, but still wanting to sound smart and just rambling like I still do sometimes.
+ It's all right.
+ Me and Rory both do that too.
+ And, you know, me and Kyle and yeah, I mean, that's all right.
+ Hashtag long form, whatever.
+ Yeah, we had good intentions, but it's just like, yeah, two coaches having a casual chat.
+ it's like what what is it going to tell of value to listeners i mean yeah so okay let's let's let's
+ refocus and go back to value for listeners um so one of the other things that i think uh would be
+ useful to think about in terms of using data and you know quote unquote the science is watching out
+ for what I call mixed science. And, uh, I, I started calling it this recently and then I
+ Googled it because I figured I was like, I cannot actually be this clever. Somebody else had to
+ have come up with it. And they, and they had, um, at my definition of mixed science is a little
+ different because I'm thinking about the food and the other definition of mixed science is thinking
+ about packaging for profit, like some kind of financial dealings. Uh, but my definition is
+ close-ish. So to me, I think of mixed science as a really big flavor. You take a bite and you go,
+ wow, this is really hitting on a lot of stuff on a deep evolutionary level. My ancestors are
+ tasting this. This is awesome. But in terms of real true nutritional value, it's kind of mid-low.
+ You could eat fries from dawn to dusk, and it's going to be an amazing day, but where are your vitamins?
+ It's just potatoes and oil and salt, which is amazing.
+ And that's where I think the appeal of a heuristic and simple, easy conclusions is like, here's a for instance, is the next Wattstock is going to be on durability.
+ Because people asked me for it on the Instagram and I said, okay, fine, we'll do this.
+ Durability's history is not long as a concept in the scientific literature.
+ The concept of fatigue is actually a very long one, but pretty much since 2019, 2020, there's only been a handful of durability papers that came out.
+ So I have read all of them.
+ And I did something that I don't normally do, you know, prepping the durability podcast.
+ When I was done with the notes, when I had the framework worked out, I went and I looked at – because there's a couple things that are confusing about durability in the scientific literature.
+ And that confusion continues into the media that's made about it is what I saw.
+ And so, and not only that, but the conclusions that some of the media that I saw had made from the literature, I did not actually think were truly supported.
+ And I want to say that this is how you do it because the evidence so far is leaning towards the way that my coaching experience says that you train this stuff.
+ However, we're looking at like R of 0.4.
+ You know, we're looking at tiny effect sizes.
+ We're looking at not massive.
+ And part of it comes from the setup of the experiments.
+ Like the literature is, the experimental evidence is young.
+ And so scientists are still teasing out confounders and stuff like that and working on experimental setups and standardization of things.
+ And it's a work in progress.
+ But if you just rely on the evidence so far, I think that a lot of conclusions based on the literature are overinterpreted.
+ And that's one of the things I try to be transparent about.
+ But I understand the temptation to not because if this was like me five, six years ago early on in the podcast, I would have said, hey, look at this. The evidence isn't that great, but hey, this is what you should do based on this because coaching experience, blah, blah, blah, which is kind of what I have to do at this point anyway.
+ But right now I'm much more cognizant of saying the evidence is not that strong. It's really not. And here's some of the confusing things about what's in the science and trying to help people become wary consumers of that.
+ because when we're looking at utilizing this stuff for coaching, we have to be aware of all
+ these things as well. And making a very simple heuristic is tempting, but we can't do it. I could
+ not ask people for money. I could not ask people to listen to the podcast if we were doing that
+ kind of stuff that, you know, I want to set up realistic expectations. Sorry, I've gone on long
+ enough you got no i totally agree with you and i think durability is really interesting example
+ because it feels like the years of world world durability exploded sometime this year where
+ it's been from a pretty niche interest to something that pretty much every podcast every
+ cycling media felt the need to weigh in on, just to appear that they are keeping up with
+ the times.
+ And again, we are going back to the temptation of looking smart, temptation to show to the
+ potential clients that you're keeping up with this quote-unquote science.
+ yeah i understand all the reasons why people are doing this but it's just it is a bit strange how
+ this concept just exploded uh this year yeah and and the funny thing is like it's been a yeah the
+ fatigue like i said has been investigated for a very long time um and one of the things that uh
+ as a preview uh one of the things that i did when i was you know writing out the notes for that
+ podcast is I tried to emphasize that this has been something that coaches have been looking
+ at for a long time, way before me. I learned it from other people. And I'm relieved that it's
+ getting some actual rigorous investigation as a concept. And I think part of the appeal of having
+ a concept like putting a word to it is that it's something you can bite into otherwise it's like
+ this kind of protean concept of fatigue resistance how do you measure fatigue how do you standardize
+ how to fatigue somebody in in like individual muscle fibers in strength training like this
+ stuff has all been this this is all old hat like people are well aware of how to fatigue uh you
+ isolated muscle fiber um but it's difficult to think about how do you standardize fatigue for
+ a whole endurance athlete yeah and how do you train it or is yeah all kinds of training
+ durability training you know how do you draw the line where okay i'm working on exclusively
+ with durability today and not like, okay, I'm doing this, but it will also affect my endurance
+ more broadly, including my performance three hours into the ride. Yeah. Well, and here's a clue is
+ when you look at your workout, if you're working with us and you look at your workout titles,
+ what are we working on today? FTP, VO2 max, anaerobic capacity intervals, things like that.
+ I don't have any titles that say durability. Let's put it that way.
+ So yeah, that's a good point. And I think that probably the last little tidbit here is that
+ you as a training consumer, you have autonomy. You do not have to do something just because it's
+ either popular or somebody says it'll work or some author of some paper says it'll work.
+ Uh, like there was a, um, there was a post in a forum recently, somebody getting very frustrated
+ with this stuff. And I was like, I, I, I know that paper. And I was like, you know what?
+ When I read that paper, my conceptual framework of this stuff is such that
+ yeah, it's a tool in the toolbox, but I don't think it's really going to do blah, blah, blah
+ because of, and here's how this was set up and here's how it was analyzed. And, and this has
+ also been running and, you know, based on what I'm seeing, I don't think this is going to apply
+ to most cyclists. Uh, and so, so, okay, here's a limitation and the limitations of a conceptual
+ framework are as important as the applicability, um, in terms of like, what are the effects that
+ you're going to get uh so i think that that's the last part of what's difficult about this stuff
+ and not to say that you know i'm some genius who's got all the answers or anything like that i'm
+ trying to figure out like everybody else um i i'm just trying to be honest about where the limits of
+ my knowledge are actually i think uh heat training would be even a better example because it's been
+ out there for a while and a lot of people that was the other thing on the poll it was durability or
+ heat training because a lot of people are asking me oh should i do heat training for overall
+ performance gains because i know something something hemoglobin mass i mean does it help
+ well we will get into the evidence that that'll be the next watt stock after this one i think
+ yeah but yeah but again i think but if you zoom out and you know is the lack of heat training
+ going to make or break your season maybe if you're getting to race in the heat but there are so many
+ other things i would like to make sure that uh really in order actually uh you shared a review
+ paper on heat training and altitude training and uh i really like how the oh you mean like with the
+ coaches yeah yeah that's saying that uh the before considering introduction introducing heat training
+ the elite athletes should make sure that all the remaining aspects of elite lifestyle and love that
+ phrase elite lifestyle are in place and summarizes so well like yeah and when you get um when you get
+ authors like that, like what I would consider really good authors, scientific paper authors,
+ you get very reasonable conclusions because they're also thinking about how is this going
+ to be applied. And that's one of the things that I try to do as well. And, you know, I try to get
+ everybody else to focus on too, especially if you're like writing an article, for instance,
+ how is this going to be applied? Like who's your audience? How are they going to use it and have a
+ narrow focus? And so, you know, those authors I thought did a great job at summarizing the
+ evidence and having some really good conclusions to draw about, you know, like this is not going
+ to be your training panacea. This is going to be just another tool in the toolbox, but you've got
+ to have the basics in place first. And I think that, you know, there's a lot of, there's a lot
+ of folks out there who forget the basics and I forget them occasionally too. I'm certainly human.
+ I, I, it happens to me too.
+ Uh, but there's also a lot of really good people out there who are talking about, no,
+ you've got to nail the basics first before you start doing anything fancy.
+ And, and I, uh, appreciate that, that, you know, it's, uh, that they're out there too,
+ because whenever I hear them on training media, I go, oh, this is great.
+ So anyway, do you want to get to some listener questions before we call it a show?
+ Yeah.
+ All right.
+ Um, what are your most used graphs for reviewing a session and week slash month?
+ Okay.
+ So we, we touched on the intensity factor over time and I, I, I love that one too.
+ What do you use when reviewing a training session?
+ What's your favorite?
+ Uh, cause for me, it's the basic, it's the really very basic, you open up training peaks,
+ you hit analyze and you look at the thing and that's it.
+ and i'll zoom into things i'll look at patterns uh you know what was the average power for your
+ intervals same what was the pacing on the ride did fall off a cliff did it increase like these
+ are things i want to know but and i'll comment on things if they're they were warranted but
+ for me it's it's pretty basic for a session yeah yeah that's funny enough because uh from time to
+ time clients say well can you analyze this workout for me for example a threshold workout and like
+ you did more than last time so that's that's a good workout done progressive overload green
+ check mark yeah that's that's why i really i really like that we have this communication
+ i don't know framework like unlimited communication in place because if i felt
+ like i have to provide three monthly workout analysis it's like i have to do something like
+ there's not much to say you just you did more than you did a month ago congrats you're getting
+ faster yeah like i said earlier sometimes it's disappointingly simple um yeah but you know i
+ you've been listening to the podcast for a long time but i have i been doing an okay job at telling
+ people how simple it really is i thought i had yeah yeah but i don't know maybe that's at least
+ convincing yeah i've ever heard so i'll keep working on it i mean maybe maybe there is a
+ magic metric that you're not telling us about uh like coley ai ai magic that just tells you what's
+ the next thing god please do not all right uh next question is um how coaches feel about
+ communication what's too much what's too little um actually i will share that one of my largest
+ frustrations when coaching people is when they go radio silent. Uh, and radio silent, I mean,
+ not even uploading workouts. Like if I'm sitting down to plan their next week and I don't know what
+ happened this week, um, you know, I'm trying to, I'm trying to steer a ship and I don't know if
+ the ship even has a rudder anymore. All right. That's an okay analogy. I'll workshop it. But,
+ Um, that, that's, that's like too little communication where, you know, the, and if somebody is like having a hard time and I'm the last thing on their mind, that's fine with me.
+ Cause when they go right to a silent, I get concerned.
+ Is this person okay?
+ Uh, and oftentimes everything's fine.
+ It was a little busy and that's fine.
+ Um, and I'll get an email or a text or something like that.
+ Um, too much communication is like, it's almost impossible.
+ Like if somebody wants to call me for an hour every day, okay, that's a little much.
+ I don't have that much time.
+ And if I were to charge you for that time appropriately, you would not want to pay for coaching.
+ But in general, it's better to have a little more information than a little less.
+ And that is actually probably part of the data that we didn't talk about earlier.
+ somebody's feedback is an absolutely integral part of data yeah yeah definitely and i think
+ one common thing that comes up when you're talking about oversharing is it appropriate to share it's
+ in a menstrual cycle because it can absolutely feel weird to discuss your period with a stranger
+ over WhatsApp, but I mean, they're all adults. Yeah. Well, and one of the things I, I was talking
+ to one of my female clients recently and, uh, and you know, she was, she was telling me about this
+ and she was like, I don't know if you want to hear about this. And I'm like, I'm like, yeah,
+ that's fine. Um, and, and I asked her, you know, is it that I said, do you think, is this your
+ personal opinion and, you know, the women, you know, are they fine sharing it, but they're not
+ sure if the coach is going to be fine getting it shared with them. And they said, yeah, actually,
+ oftentimes that is the hesitation is you're, is you're not sure if somebody needs or wants to
+ hear about this. And as soon as they know that, like, oh yeah, it's fine to talk about this.
+ They'll talk about it in my experience anyway. Um, and some people don't want to talk about it
+ And that's fine too. But it is one of those things, especially if you're working with women,
+ that is a really good indicator of red S, but also that means that we need to know
+ other things like, is there a hormonal contraceptive involved? That's going to
+ mean that we may not be able to use this as a good indicator. And so we're going to look for others.
+ These are things that we should know, especially if we're dealing with people who are really
+ riding the edge of performance and nutrition and everything like that. And so, um, you know,
+ more data is better than less. And actually, uh, when we did this yesterday, I remember I,
+ an example I shared with you, it was one of our coaches, I think, um, I forget who it was, but
+ he had said that the, he was working with a new, a new client and the client said at some point,
+ you know i wasn't going to tell you this but i've actually been sick in the last week and you seem
+ like you're pretty cool and receptive to feedback so i figured i should let you know and get a mean
+ has leaned away from the microphone because he is laughing yeah yeah i had a very similar station
+ where i started working with someone uh just a month ago and she went for a long ride like what
+ it was planned on the calendar it said for our endurance ride and she went for a ride she felt
+ sick she turned around i mean as as a coach that's literally the best thing the person could do
+ uh feel bad turn around tell it to me but she was apologizing that i'm sorry that i didn't do
+ the right as planned i'm like i'm sorry about being a bad client i'm like no no no that's
+ literally being an amazing client because I would rather you tell me that immediately
+ and instead of me eventually figuring that out two weeks later. Yeah. Number one rule,
+ take care of yourself. Then we can think about the training. And I think that also that's sometimes
+ part of the expectation because I've certainly had clients where if they've had other coaches
+ who've had different training philosophies, like you do the workouts come hell or high water,
+ that is very much not our stance. Uh, and so when they are doing the workouts come hell or high
+ water, Oh, I'm, I'm sick, I'm stressed, but I got it done. And you know, I've, I've worked with
+ people sometimes for six months or a year before they tell me, Oh, I've been sick. And I, cause
+ I've like, you've got amazing consistency. They're like, yeah, I'll, I'll do a workout. I don't care
+ how i feel i'm like you should and then and then we have that that kind of come to jesus moment
+ yeah yeah and i think but in a uh popular media and i really mean like pop culture in general is
+ kind of part gets gets some blame for it because there is this image of a good coach being
+ basically a dictator you know uh yeah we are very much not that so i can see how someone
+ can have this expectation uh and idea and they're definitely coaches that have these tendencies
+ we don't uh but yeah yeah uh okay next question is
+ what's your favorite software for analytics and why wko5 uh because it's as flexible as we need
+ it to be and the it's got the best power modeling it interpolates means you got to keep it fed uh
+ but yeah it's it's the best by a long shot in my opinion um do you use anything else uh besides
+ that because i know you've you're able to be fancy shaking his head okay cool all right so we're good
+ uh, top three data, uh, as in DFA one, SMO, critical power, et cetera, analysis
+ from your perspective. Uh, my perspective is power, heart rate, RPE. Uh, I, I was on a,
+ another podcast recently, uh, with, uh, Chris bag and, um, and he, he, he wanted to do a podcast
+ on RPE asked me to be a guest. I said, yeah, hell yeah. That'd be awesome. Um, and I, I called
+ power heart rate and rpe the holy trinity of metrics i do use training impulse score from
+ time to time when i have some specific questions and i know you worked on that metric
+ wow sorry i still can't tell you how it's modeled but i'm not going i mean i know training
+ impulse score or seven sometimes feels so elusive that i go for a workout i come back it's six just
+ like why not seven i need i need to i need computer to tell me i did something good today
+ uh but looking back i mean it's been a few years how do you feel about that metric like
+ do you think what what part it plays in your toolbox how often do you use it
+ um sorry i was reading other questions uh
+ what was the last thing you said uh how often do you use something like training impulse score
+ uh like since you kind of built it you developed it you know um i use training impulse score
+ when i'm doing a review uh especially if i'm looking for what i would consider
+ evidence for a minimum dose for somebody to maintain like threshold or general fitness or
+ something like that. So I will, I will compare it to other metrics that I want to see and I'll
+ compare patterns or sometimes I'll just cross them directly. And sometimes with a, like a time delay,
+ um, you know, we'll, we'll do, I'll do like a, a direct comparison or like a shift comparison.
+ that's what i think of it in my head uh but otherwise yeah it's um it's not it's not the
+ first thing i reach for it's it's kind of like anything else it's like not it's it's useful if
+ you understand it and i do uh but i reach for it as often as i reach for anything else that's not
+ heart rate power and rpe yeah that makes sense uh okay so next question is
+ why does it take so long before compound score becomes widely used and understood
+ uh i don't find compound score to be particularly useful um
+ because it's it's another way to oversimplify something complicated and i don't find that
+ its predictive value is any better than thinking about like somebody's ftp or something like that
+ Um, I understand its intention, but I personally don't find it as useful because I think it's just as easy to build a logical framework of somebody's strengths and weaknesses and, and also their race results and what they're capable of.
+ And I don't need to boil it down to compound score.
+ That's, that's, that's just me anyway.
+ Yeah, totally agree. I think it's a useful metric because as someone who's 6'7", I'm very much aware of pains that come with comparing your watts per kilo to others being on the extreme end of that spectrum.
+ Yeah, it's a tool. I'm not sure there's huge ways for it to be widespread.
+ Yeah, and I think that's part of why it's not – it was interesting for a hot minute.
+ I remember a bunch of posts about it, and then it disappeared, which when stuff like that happens, that usually says that people stopped – they found it interesting, but they didn't find it useful.
+ It's when things have staying power that things have true utility, FTP.
+ It's got a lot of upsides and downsides in general, but it's proved extremely useful for a lot of people.
+ So part of the reason that I think it's stuck around.
+ Next question is, how to tell changing performance is due to training slash visible in data versus coming from off-bike factors?
+ Okay, so how can we tell on-bike versus off-bike stuff?
+ I think for me at least, when we are building, there's a progression that I'm expecting to see.
+ And if we're not seeing it, I know something is up.
+ Because it's worked a million times before and why isn't it now?
+ Yeah, especially if you are working with this person for a while and you can compare how this season so far is going compared to this season.
+ Either you're rebuilding faster or you're rebuilding slower.
+ Yeah, having a deep training history of somebody helps a lot being able to compare.
+ Yeah, especially if there is intent behind the training in the past instead of just doing whatever.
+ I mean, if someone's been doing whatever, okay, it's a bit harder to compare because you can't compare something that is just pretty random.
+ But yeah, and I think for attributing changes in performance and fitness, again, it's really important to start thinking about the fundamentals first.
+ Rest, nutrition, sleep.
+ I mean, this is the boring stuff, but more often than not, changes in nutrition, like figuring out your meal plan, how much do you actually need to eat of the bike, is going to have often much, much bigger effect than a teeny tiny adjustment on how you execute VO2 max intervals.
+ Yeah, definitely.
+ next question science versus vibes for coaching amateur riders uh i i think this is really comes
+ down to the client and what kind of what they want and also what they thrive on because i think if
+ somebody is is expecting a lot of quote-unquote science and structure and they actually do better
+ with fives uh you know i can split the difference pretty easily um how about you yeah same because
+ uh when i'm working someone i usually think about the long term uh how do i make sure this person
+ stays in the sport for the next two five ten years i mean they can move on to triathlon running
+ whatever but i really want to make sure the person's having a good time and it's sustainable
+ uh so and different people have different expectations like how much how many vibes
+ they want i had one person tell me they want more structure too many vibes it's fine
+ uh again you need to tell that to the to your coach that you cannot just um
+ and yeah and again uh thinking and if someone is approaching this questions this question from the
+ gains perspective again uh you'll see the most gains by studying this sport for longer uh so it
+ doesn't matter if you nailed the training kind of the science of training put it that way the first
+ year uh doing altitude training heat training uh eating uh stupid amounts of bicarb and just
+ quitting sports six months later like doesn't matter you know uh so just do what's fun for you
+ yeah it's because you've been bankrupted by how much bicarb you bought uh yeah more time in general
+ very expensive project yeah i've had a couple clients who have have been like i got this for
+ free so i'm going to try it but yeah they haven't spent their own money on i understand that okay
+ Last question is, is being science-based just cope for not having genetic talent?
+ I know he's probably taking the piss a little bit.
+ However, I think it's an interesting question because when you do compare, you know, some
+ of the best in the world and some of the training that they do, some folks like, you know, some
+ of them do train on vibes.
+ Some of them could train on vibes and get super fast.
+ Like I remember hearing Chris Horner once say that he never did intervals.
+ He would just, he would just do group rides and he would race and he would just kind of
+ go ride.
+ And that was that.
+ And like that worked for him.
+ Great.
+ But I think these days, I think the, the, especially at the top level, the investments
+ and the expectations are definitely going to lead people to trying to be a lot more
+ deliberate with the training. Uh, and I think that that partly leaks down into the amateur level,
+ but also at the same time, I mean, amateurs still like to optimize and there's absolutely
+ nothing wrong with that. Like I have horrible aerobic genetics. I've got sprint genetics.
+ My aerobic genetics are like they're, they're mid tier, like they're C tier at best. Like I
+ am perfectly average, if not a little worse than average. And so, you know, when I was training,
+ I had fun trying to optimize and reading about the science and thinking, oh, what if I do these
+ types of minerals? How would this affect my training? And I tried a bunch of stuff and it
+ was fun. But no, I don't think it's scope. I think it's people genuinely want to improve. I mean,
+ And when you do competitive cycling, you are competitive as a given in a lot of ways.
+ I know a lot of people compete because they enjoy the process of the training.
+ And also, like, and if that's your vibe too, then the process of the training, you know, you're trying to always refine your process.
+ And inevitably, you're going to look for what is the evidence that we have for improving our process.
+ Yeah, actually, the whole question is really funny, because I very clearly remember when I started listening to your podcast all the way back in 2019 or whatever, I generally believed, well, at that point, I was riding bike for like two months.
+ i generally believe i could outthink my lack of talent so yeah it does occur to for some time
+ you know uh it didn't take long uh for things for it to be evident that no i can't
+ outthink my way out of this out of mediocrity i mean and at some point everybody does hit their
+ genetic limit or a time limit even. And I think that that's part of the other appeal of trying
+ to optimize is that a lot of amateurs are up against the time limit. You've got a job,
+ you've got family, you've got other obligations. And in some ways, gamifying your training like
+ that, it's a fun pursuit. You try something new. Trying something new is really fun. I've been
+ enjoying upper body training this year. It's been really fun. It's been totally new. I almost know
+ how to use my arms now. I think I know what this, I think this is a bicep. Is this a bicep? I'm not
+ really, I'm learning the muscles. Uh, it's been so much fun. And when you get a new training thing
+ to think about or focus on, that's cool too. And I think that there's, there's really nothing wrong
+ with trying to do that, but we've also been on the podcast before cautioning about over-optimizing,
+ getting too sciencey and forgetting your inputs and outputs. Because, and this is one of the
+ things I tell you and all of our coaches and other coaches that I consult with,
+ your own two eyes need to be wide open. You need to be honest about what you're observing
+ and you need to understand your inputs and outputs and understand all your confounding variables.
+ And once you've done all that, then you can try to understand what's really going on or at least develop a, like you said, a logical framework for a coaching process.
+ Yeah, totally.
+ And I mean, even if you want to try something in your training that you're not too sure about, go for it.
+ Just assign a reasonable amount of time.
+ i think of how you're going to like one to two months something like that yeah i mean one to
+ two months is pretty reasonable uh so just go for it uh because i do think uh in long-term
+ development it is possible for training to get too boring because like doing two by 28 thresholds i
+ can uh sweet spot i can like there's some i mean you can make it more interesting if you want to
+ I don't know, sweet spot under row or stempo under row is different ratios.
+ Just try variations of things that work.
+ Just try something that just looks fun.
+ I mean, even the theoretical foundation for some workouts is a bit shaky.
+ That's okay if it keeps you riding, especially this time of the year.
+ Yeah, for sure.
+ Yeah, and you don't need theoretical underpinnings if you are observing actively that you are improving.
+ And I think that the last thing to consider here is that there's more than just FTP.
+ Just because your FTP might be stagnant doesn't mean that there's not other stuff happening.
+ There's more than one aspect to your fitness.
+ And I think being monometrically focused with FTP is an easy mistake to make.
+ And we've made it before as coaches.
+ We're definitely not immune to it.
+ A lot of amateur athletes have made it before, and they will continue to make it.
+ And especially as you approach the ceiling that you have for your aerobic capacity, for your genetics, or for your time available, that's when you start seeing those diminishing returns.
+ there's a lot of other stuff that you can work on like i i've i work with some people who have
+ been training for a very very very long time and we can still improve their race results even though
+ their ftp hasn't gone anywhere or even it's gone down 10 watts and that's and that could be
+ frustrating if your ftp is your identity or it's your you know measurement of x we'll be glad about
+ But yeah, I guess the durability has improved over the years.
+ And that's another thing that happens is being able to measure that and say, well, here's what we're seeing.
+ You are improving.
+ Look at your race results.
+ Leaning on the race results is, you know, that's what you're here for.
+ Yeah, actually I had a funny sort of station this year.
+ One of the clients replaced his power meter
+ in the middle of the season.
+ Oh no, I see where this is going.
+ Good ending to this.
+ The FTP went up 20 watts.
+ No, it didn't go up at all
+ because he went from single-sided to dual-sided.
+ to all his numbers stayed the same so in a way in a way that it was demoralizing a bit because oh
+ i'm doing all this work but numbers are not so there's no change in numbers some numbers are down
+ but looking at the race results looking at the people he's racing against now and a year ago
+ there's just no question you know there's a massive difference even though the numbers are
+ the same so i uh it was tempting to kind of calculate what his previous true ftp was like
+ i don't know maybe it was 10 5 10 lower but does it even matter not really i mean the most important
+ thing the race results are up so what's the you know what's the difference you know in if like
+ who cares about the f2 difference in ftp you know yeah and the longer you've been training the more
+ likely that is to happen, especially if you are, like we said, up against a, a really, a time
+ ceiling that really tends to, uh, be, uh, impactful, uh, for a lot of amateurs. So anyway, so yeah,
+ no science, science is not a cope. Um, not even close, but I do appreciate the question. And even
+ though I think that guy was taking the piss, um, cause he's, he's a friend of ours. Um, I, I think
+ we turned it into something useful anyway. So everybody, thank you for listening. If you'd
+ like to reach out for coaching empirical cycling at gmail.com again we have negotiable rates for
+ students and neo pros we will also consult with you if you want to keep being your own coach we
+ give you the tools to plan and adjust your own training i also do consultations with other
+ coaches and i know that we have a bunch of coaches listening to the podcast we appreciate having you
+ too so if you want to reach out and refine your coaching process uh you know feel free to email
+ me about that and if you are yeah if you want to get ahead of the uh of the new year's resolutioners
+ feel free to reach out a little earlier, even if you do want to start in January.
+ Good to secure a spot now.
+ Spots are going.
+ They're not limited, limited yet, but we're filling up pretty quick.
+ So if you are interested in supporting the show because we are ad-free
+ and you want to do so without any kind of financial commitment
+ or you don't want to have us as coaches or anything like that, that's cool too.
+ We're happy to have you.
+ Share the podcast.
+ Word of mouth goes a long way.
+ And rating it wherever you listen to podcasts.
+ and follow me on Instagram, Empowered Cycling, and go ask a question there for your podcasts,
+ future podcasts, or the weekend training Q&A. And I desperately need lunch, so we're going to go.

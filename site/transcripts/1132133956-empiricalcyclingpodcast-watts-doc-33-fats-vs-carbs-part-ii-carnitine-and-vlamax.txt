@@ -1,0 +1,797 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, and joined as always by my co-host, Kyle Helson, and I want to thank everybody for listening and ask you to please subscribe to the podcast. Most of you have probably done that, so if you like what you're hearing in the podcast, share it, and give us an iTunes rating and review. That certainly helps us a long way.
+ Also remember that we're an ad-free podcast, not that we could probably get advertisers anyway, but if you want to support the show, you can do so at empiricalcycling.com slash donate.
+ We have the show notes up there. We have a couple diagrams of some of the stuff that we're going to talk about, and we've got the references for the studies we're going to talk about, and we've also got some merch at empiricalcyclingpodcast.threadless.com.
+ And we did put these shower curtains back up there, so if you were looking for that and you didn't see it, they're back.
+ And so if you've got any coaching and consultations...
+ Consultation inquiries. I believe in it.
+ Questions or comments, you can please email empiricalcycling at gmail.com.
+ I am currently booked up, unless somebody decides to drop off my roster.
+ So we also have three very excellent assistant coaches.
+ We have Fabiano, Alex, and Katie.
+ So if you need a coach, now's the time to get started for next year.
+ So shoot me an email.
+ And also on Instagram at empiricalcyclingpodcast.
+ I've got the AMAs in the Instagram stories.
+ Give me a follow over there.
+ I've been told by many people it's one of the best things that, you know, best resources they have because they give simple, concise answers.
+ So come ask me a question.
+ So last episode, we went into the final details of how carbs and fats eventually become ATP.
+ So here's a very short, quick review.
+ I highly recommend you go listen to that podcast.
+ Glucose is broken down.
+ In the cytosol, that's the main cell body, into lactate and pyruvate.
+ And then they are imported into the mitochondria and broken down into acetyl-CoA.
+ Fats are also imported into the mitochondria and broken down into acetyl-CoA.
+ And acetyl-CoA is sent into the Krebs cycle.
+ And all of this generates electron and proton carriers, which are used separately, electron transport chain, to generate ATP.
+ The main takeaways that we kind of had were that aerobic metabolism,
+ has a maximal rate, you know, kind of.
+ And after carbs and fats become acetyl-CoA, it doesn't really matter where they came from.
+ And so now we've spent a lot of episodes setting up this, what I think at least, is a very interesting series of facts about metabolism.
+ So now we understand how things get broken down, and now we can get into some really, really fun stuff.
+ Remember, it's critical to understand, well, this is coming from a biochemist, so I would think this.
+ So it's critical to understand, at least for me and my understanding of training and physiology,
+ how acetyl-CoA formation is regulated, because it is what determines how much carbohydrates or fats we aerobically use during exercise.
+ And so once we've established that, then we can talk about VLA-max.
+ And maybe at that point, you know, everybody will see...
+ We'll see why we're probably only ever going to spend one episode on it, and that would be this one.
+ So for metabolism in terms of, like, fats versus carbs, I think we have covered it in certainly the previous few podcasts,
+ but also generally we've been dropping this fairly often,
+ that your body will cover more immediate demands for ATP,
+ with carbohydrate as opposed to fats.
+ And when we went through the whole discussion of how fats are actually broken down and burned,
+ it's like a fairly lengthy process.
+ And in several spots, we've said, like, hey, this is actually kind of slow.
+ So maybe that explains why your body will preferentially burn carbs first when you have to, I don't know,
+ run away from a bear that's chasing you because you're an ancient caveman,
+ and you just have to outrun your friend so that you don't get eaten by the bear.
+ Yeah, push your friend forward.
+ That's right.
+ That's part of the metabolism, too.
+ Exactly, yeah.
+ And so I think some of that, certainly within the cycling lore,
+ has gotten a hold where, yeah, people think, like, oh, like,
+ something about burning fats makes you maybe a more efficient rider.
+ Maybe they're, oh, you're more efficient.
+ Like, you burn more fats, and maybe that means people think that you're more well-trained
+ or that you're going to do better in races.
+ And then.
+ Yeah.
+ Yeah.
+ Yeah.
+ Yeah.
+ Yeah.
+ in terms of how that relates to lactate, I think generally, obviously, people, lots of people still
+ think that lactate, lactic acid, your muscles are working hard, it burns, and you feel like you're
+ going to seize up because of lactate or lactic acid, and then associate that with like burning
+ carbs, because you're trying really hard. And you think, oh, I'm trying really hard. It's like a
+ VO2 max interval or anaerobic interval or something. So I must be burning all carbs,
+ and therefore that turns into lactate. But when I'm riding tempo, that's all fat or mostly fat
+ or something. They hope. They hope. They don't really know, but they hope. But in terms of
+ strategizing about longer endurance events, which most cyclists are worried about,
+ you realize that in your body, you have way more fat that you could potentially burn for fuel
+ than you have glycogen storage.
+ You have, if you are a healthy adult, over a significant percentage of your body weight in fat.
+ You've got like 30,000 kilojoules or more, something like that. Probably more.
+ Yeah. And you've got 2,000-ish kilojoules of glycogen or somewhere in there or something
+ like that. Yeah. And that's even on the high side. People like you and me,
+ giant quads and glutes and stuff like that. We have huge glycogen storage capacity, but
+ we also are pretty heavy. So you're about right. Yeah.
+ In your best case scenario, you have 10 times as much fat potential to burn that you do glycogen,
+ basically. Yeah. And your body knows what's up with that kind of stuff. Evolution has
+ kind of gotten us to the point where we're like, oh, I'm going to burn this. I'm going to burn this.
+ We're at the point where, at least when we're exercising, it wants to burn more fats. And that's
+ one of the reasons that a lot of the, we're going to talk about this in a little bit, a lot of the
+ adaptations that we make from endurance and just aerobic adaptations in general are to have more
+ capability of transporting and oxidizing fatty acids. So Kyle, I now want to ask you to speculate
+ because Kyle is not, Kyle's so good at this. I'm going to ask you to speculate because Kyle is not,
+ Kyle is so good at this. I'm going to ask you to speculate because Kyle is not, Kyle is so good at
+ this yet. He, he hardly ever looks at the notes before we record and he is so on top of it. So
+ Kyle, you have not seen these notes yet. Um, but you kind of know what's coming up,
+ although you don't know the mechanisms of what's coming up. So, um, why don't, why don't you
+ speculate for a second on what a, for instance, might be like a mechanism for why the body might
+ choose or need to use carbohydrates over fats? Like what, like what will, how does one get
+ picked over the other?
+ Uh, aerobically at least.
+ Yeah. I would say an extreme example is of course, anaerobically. Yeah. Um, the fat in your body is
+ not stored like just next to every cell that may need it right away. So you're going to have to
+ break down fat and move it around and get it to those cells. Um, and if you're bad, I say bad,
+ if you're inefficient at that,
+ then you, if you have to get up and go now, even aerobically, like you're going to hunt down
+ some dinner. So you're going to chase some antelope or something across the plane. Um,
+ you're maybe going to use fats then or not. You're maybe not going to use fats then because you're
+ not good at, at mobilizing those and actually getting them to the cells in your legs or
+ whatever. So it sounds like your postulation is a transport mechanism. Yeah. That you have,
+ you have a transport or, um,
+ uh, problem where you, you don't have enough. It's not machinery, but you know, those, like
+ those fun little graphics of like ribosomes chugging along, like, like your tiny cellular
+ nano machines aren't good enough or there aren't enough of them. Okay. So I think actually we did,
+ we did spend an episode on that on, uh, like transport. Um, yeah. And, um, so this is actually
+ a good thought. Um, it's not the whole thought. It's not, well,
+ it's not the whole actual mechanism. So there are several things that come into play here that
+ we're going to get into. Um, and question is, could we burn more if we had better transport?
+ Um, the answer is actually yes. So, uh, why do we, um, well, let's, let's get into this.
+ Fats get transported into the mitochondria via something called carnitine. This is not
+ carnosine. This is carnitine. Um, and because of the size of most fatty acids,
+ it does not cross the membranes of the mitochondria by itself or themselves. Um, although there are
+ some exceptions, we'll talk about that in a little bit. Um, so there's an enzyme, a transport enzyme
+ that's embedded in the mitochondrial membrane. It's called CPT one. And what this does is it
+ adds carnitine to the acid part of the fatty acid. And this allows it, uh, the, you know,
+ being attached to carnitine allows the fatty acid to move inside the, um, mitochondria.
+ Um, so what does CPT stand for? Carnitine palmitoyl transferase. So go figure. Um, although I think
+ it's a weird name because, uh, it'll do the same for general fatty acids. It doesn't always have
+ to be palmitate as it suggests in the name, but most initial experiments get done with palmitate.
+ And so I'm sure that probably in physics, you've got stuff named after special cases that actually
+ are useful for general cases. Definitely. Yeah. Okay, cool. Um, so on the inside of,
+ the mitochondrial membranes, there's another enzyme called CPT two. You can guess what this
+ stands for. Carnitine palmitoyl transferase two, the sequel. Um, and what this will do is it's
+ going to split the carnitine from the fat and the carnitine is going to go back out of the
+ mitochondria and the fat will hang out inside to be broken down. And so most studies just look at
+ CPT one and we're going to do the same. But if you look at any of the diagrams in the show notes,
+ you're probably going to see it. So clearly,
+ as we discussed in the, what limits fat use episode transports a big issue. And so as Kyle,
+ uh, correctly, um, you know, mentioned, uh, earlier, um, and in my opinion and the opinion
+ of others, uh, this is what mainly use, uh, mainly limits the use of fatty acids at lower
+ intensities. So as we get into higher intensities, like let's say we're at 50%, uh, VO two max,
+ and how do we go from burning, let's say 50% fats to,
+ 60% fats transport would be a good way to do it. Um, and so that's just more aerobic training,
+ of course. So the expression of CPT one genes and subsequently the mRNAs, which are the things used
+ by ribosomes to actually make protein. Um, now CPT one genes expression increases with endurance
+ exercise. And this means that we have more CPT one. So we get much better, uh, fatty acid
+ transport and that means oxidation. Um, so there's the study reference,
+ uh, for this in the show notes. Um, but yes, this does mean that more endurance training
+ increases the ability to oxidize fats, but this is not the end of the episode.
+ Cause if you look at your episode counter, um, the rest is not just going to be silence,
+ obviously. Um, so all Rick rolls. Yeah. Never gonna. Um, so now we have a problem though,
+ because we cannot forever increase CPT one density.
+ It's only part of the limiting factor to oxidizing fats. Um, so because first of all,
+ there's only so much mitochondrial density to put the protein on. Right. So like I said,
+ cannot be infinitely dense. Uh, but even if we could, you know, cause it seems bad in terms
+ of evolution to wantonly limit, uh, or it seems bad in terms of evolution to wantonly just use
+ fats. Um, which is, you know, the body's hard fought for long-term energy stores, but,
+ you know, it's better to use them than carbohydrates, which can get burned through so quickly and
+ are more limited. Um, and so the last point here is that, um, you know, and probably the
+ most important point to consider going forward in this episode and possibly in life is that
+ rate of energy demand is variable.
+ And if you're sitting down watching TV, you don't need to burn so many carbohydrates.
+ And if you're sprinting for 20 seconds, you likewise don't have time to sit around waiting
+ for fat to be mobilized.
+ And transport and send through the Krebs cycle to generate reducing equivalence to generate ATP
+ aerobically, just saying it's longer than the sprint itself. So there is evidence that suggests
+ you sitting on the couch, just watching TV does make you relatively worse at burning fat,
+ even though, right. Cause we just said that even though you just constantly be burning fat,
+ because the, the energy demand is so low to operate that remote, um,
+ you're not actually getting any better at it. You're just maintaining how bad you are.
+ Yeah. Actually, that's one of the things that I thought about including in this episode,
+ and I'm not going to, I think we're probably going to talk about it in a future episode.
+ Um, but kind of what determines, you know, fat and carbohydrate use, uh, at rest is different
+ than what happens during exercise. Cause during exercise, we have interesting pathways and
+ things that are activated where during rest, we don't have those things. And so we actually have
+ different mechanisms, uh, kind of at play. And we're only going to be looking at one,
+ although others, and you know, I'm sure a lot of people who know a little bit about,
+ or, you know, know quite a lot, knowing our listeners, uh, about diet and stuff like that
+ will know that the body can actually shift what, what its primary fuel usage is based on your,
+ uh, what you're eating. Um, and so that's, uh, just an asterisk that we're going to have to
+ leave hanging for now. Um, look for the asterisk in future episodes.
+ So, um, so we need an additional mechanism to let mitochondria appropriately decide whether to burn
+ fats or carbohydrates. And, uh, it turns out that we actually have two, actually, I just mentioned
+ this. So yeah, we do have, so we really have kind of two, one is at rest and one that turns on with
+ increasing exercise intensity. Um, and so we'll let's gloss over the at rest mechanism for a
+ we're capable of burning almost entirely fats. Um, but you know, as it was, as we'll see in future
+ episodes, this is not necessarily always the case. Uh, if we have a large feeding of glucose
+ or something like that, or we can stimulate, uh, you know, in a stimulate something like this in
+ a lab, like with an insulin injection or something like that, we're going to have a large glucose
+ flux into the muscles. Um, and this causes an overload of acetyl-CoA in the mitochondria.
+ The acetyl-CoA is transported
+ out of the mitochondria and through one mechanism or other, let's not get into the details. It's not
+ our focus here. Um, this will cause an increase in another metabolite in the cell, uh, called
+ malonyl-CoA. And this might sound familiar to people, especially those of you who have had
+ some metabolism. Um, malonyl-CoA is a very, very potent inhibitor of CPT-1. And this stops the
+ mitochondria from importing fats. So this is a mechanism that takes a little bit to happen.
+ Right. Um, but this also shows the body's ability to burn multiple fuels at rest. And one of the
+ many regulatory mechanisms that exist. Um, and all this kind of makes sense, right? Because we were
+ kind of heading there before, right? Yeah. Yeah. Yeah. And this also maybe gives you a hint into
+ like, if you eat a diet that is really high in sugar and you just have high glucose or insulin
+ response all the time, your body is just gonna...
+ Preferentially not import these fats and just burn all this glucose that's available.
+ Yeah. Or then it'll get desensitized to insulin and stuff like that. Um, so yeah,
+ there's a lot of ways to have problems, but we will probably get into that in a future episode.
+ Um, although disclaimer, of course, we are not doctors or experts on diabetes or anything like
+ that. So, so in a perfect world, I think it would make more sense to describe the practical
+ implications of the next part first.
+ Yeah, I think that's a good point. I think it would make more sense to describe the practical
+ implications of the next part first. Um, but it's actually not going to make sense without
+ knowing what happens. So this is a chicken and egg problem for metabolic pathways. Um, the egg,
+ by the way, by millions of years. So the reason for this is that there's a question I would want
+ to have answered. Um, so why is the malonyl-CoA pathway to it that inhibits CPT-1, why is this
+ not used during exercise? Um, so during exercise, something called,
+ uh, AMPK is activated. And, uh, astute listeners will recall that this is the thing that's
+ activated, uh, during concurrent, that it means strength and endurance training together,
+ uh, training through which endurance training can inhibit the mTOR or strength adaptive pathway.
+ Um, because, you know, during these times that AMPK is activated, there's a lot of, uh,
+ AMP, adenosine monophosphate, which is the breakdown product from ATP or one of the breakdown
+ products.
+ Um, so AMPK properly inhibits the enzyme that creates malonyl-CoA.
+ And, um, this, this enzyme, by the way, is acetyl-CoA carboxylase. You can forget that now.
+ Um, so this happens because AMPK acts as a kind of quote unquote switch for the cell. Uh, if you
+ want to Google for fun, AMPK targets, you're going to see what I mean. So AMPK shuts down
+ pathways like energy storage and protein synthesis, because when the cell is exercised,
+ you need your energy to create ATP and make sure that the cell doesn't like, you know, go, go down
+ empty and start running on fumes. It's like, you know, if that happened, that would be like running
+ your car on no oil. Um, well, internal combustion engine, all you Tesla folks are like, ha ha, no
+ oil changes for me. Um, and so malonyl-CoA, uh, happens to be the first step in the creation of a
+ new fatty acid.
+ Right. So it makes sense to shut down the fat storage pathway as early as possible. So it doesn't,
+ you know, have like a couple steps of resources that are like piling up with no fat storage while
+ you're exercising. Um, cause you need to break it down while you're exercising. Let's get to
+ the big enchilada. So what does stop fats from being used during hard exercise? Now, uh, we
+ talked about in the beginning of this episode, uh, the coenzyme A, uh, or more accurately acetyl
+ coenzyme A. Coenzyme A is a cofactor in mitochondria and it binds to acetate. So acetate
+ equals and plus coenzyme A equals acetyl, acetyl coenzyme A. Acetyl-CoA, the pool in a mitochondrion
+ is actually quite small and it's common for something with a high turnover rate. That means
+ attachment and detachment. Um, so coenzyme A attaches to acetate and then it brings the acetate
+ into the Krebs cycle.
+ Now you've got just free coenzyme A again and grabs another acetate. So this cycle goes over
+ and over and over. Um, now it's common for something like this to have a limited supply
+ in the cell because it doesn't need to have a big supply because the turnover rate is so high.
+ And so things with a big supply are things like glycogen and fat. So like coenzyme A is not one
+ of these things that needs to have a big storage cause it's always turning over. So as exercise
+ increases from rest,
+ um, and up through FTP and all the way up to a full bore sprint, energy demands, and that means
+ ATP demands are increasing and we can actually measure it by watts. And so we can burn a good
+ amount of fats at low exercise intensities, but as energy requirements increase, we get progressively
+ worse at using fat rapidly enough. That's the big one. Let it sink in. We get progressively worse at
+ using fat rapidly enough.
+ Um, transported to one of those problems. So carbohydrates are used, uh, easily and rapidly.
+ And this is what starts to place demand on the coenzyme A pool in mitochondria. And so as flux
+ of pyruvate and lactate become acetyl-CoA, this can actually exceed the, uh, the immediate needs
+ of the Krebs cycle. Not notice I said needs, not a maximal rate, just the needs, uh, because in the
+ mitochondria,
+ um, most of you nerds have not, uh, read this, but some of you nerds like me have, and you know that
+ everything in the mitochondria is exquisitely regulated, uh, including, you know, the, uh,
+ proton gradient, uh, for making, you know, uh, ATP aerobically and all those kinds of stuff.
+ It can't be too much, can't be too little. And this is one of those things where it's got to be
+ just right. And so what happens is, um, the flux of pyruvate to acetyl-CoA.
+ Now remember acetyl-CoA is the thing that goes into the Krebs cycle.
+ So if enough acetyl-CoA gets made, there's no more coenzyme A.
+ And so what would happen is, um, you would very rapidly deplete the pool of coenzyme A available,
+ like very rapidly, like in a second or something like that. And that is, in case you're wondering,
+ not good. And it would inhibit, and I mean properly inhibit, in this case,
+ feedback inhibition, pyruvate dehydrogenase. And so the, uh, products of this,
+ this are, right? So, um, so the products of pyruvate dehydrogenase are acetyl-CoA and NADH.
+ And so that we can see without acetyl-CoA and NADH, we would probably have problems continuing
+ oxidative production of ATP. And this would greatly impair performance. At very high intensities,
+ the CoA pool would be all acetyl-CoA. And yeah, within about a second, uh, you would run out of
+ the ability to process pyruvate.
+ And in theory, this would inhibit oxidative metabolism completely. And you could see where
+ that would be a potential stumbling block in continuing, uh, exercise.
+ You would just like bonk. You would just immediately bonk and be like, oh.
+ Yeah. And if you got lucky, your cells would not become necrotic immediately,
+ uh, from having zero ability to operate. Um, yeah. So what happens is carnitine,
+ the thing that's used to transport,
+ fats into the mitochondria, it actually becomes an acetyl buffer.
+ So in order to maintain a free pool of coenzyme A, carnitine takes one for the team and actually
+ takes up the quote unquote spare acetyl groups. And so another enzyme called the carnitine
+ acetyltransferase, and this does exactly what you might think it does. It takes the acetyl group
+ from acetyl-CoA and puts the acetyl-CoA onto carnitine. And there's yet another enzyme,
+ that moves acetylcarnitine out of the cell and then carnitine without the acetyl group back in.
+ And this means that there's increasingly less and less carnitine to bring in fatty acids to the mitochondria.
+ And so this is, um, uh, one of the big parts of the mechanism by which increasing exercise intensity
+ inhibits fat oxidation. To throw a quick monkey wrench in here, I think I mentioned this earlier, not all fats are inhibited
+ from being brought into the mitochondria. So shorter fatty acids can actually diffuse freely
+ and be oxidized, but longer ones cannot. But, um, you know, the, uh, there's still a pretty small
+ percentage of oxidation at that point. And there is, uh, enough acetyl-CoA to go around,
+ um, thanks to this buffering mechanism. So how cool is that?
+ Yeah, I think that's really cool. I mean, you have to think that your body through evolution and, and trying to be
+ efficient is going to want to use mechanisms like this, where carnitine can serve two different roles
+ instead of having to have a separate mechanism that would mop up these extra acetyl groups somehow, you know,
+ somehow you could imagine, I don't know, some sort of method that required active input being significantly less efficient and less
+ like preferential, like if you had to actively pump energy into taking away acetyl groups to free up more enzyme, right?
+ Like you would be then instead of even more, instead of spending your body's energy on the work that you have to get done,
+ you're now spending it on overhead effectively.
+ Yeah, exactly.
+ Just to maintain the work that you are doing, let alone if you're like, oh crap, I gotta, I gotta work even harder.
+ Then you gotta spend more overhead.
+ Overhead.
+ Um, and so your body is going to do something that is firstly a little bit more efficient in going to preferentially burn these carbs and also not burn these fats and do so in a way that is not going to require significant inputs of extra energy to, um, to do so.
+ Yeah, I would, I would call it one of the more clever, you know, quote unquote engineering.
+ Like metabolism engineering things that I've ever encountered, um, you know, next to, you know, some of, uh, some of the more complicated pathways.
+ Like this is a really simple, elegant one that I really love.
+ And, you know, like you said about, um, you know, spending more energy and, you know, um, you know, you having more overhead to get less out of it.
+ Like, so mice that get carnitine transferase enzyme knocked out, uh, actually have increased glycogen and fat use and reduced exercise performance.
+ Like they get the worst of all worlds.
+ Like I feel bad for those mice.
+ Um, and so, cause it's exactly like what you're talking about.
+ Uh, um, evolution has found a really good, um, elegant, um, solution to the issue at hand here.
+ Um, yeah, you can imagine the worst solution is like a little, a little, uh, like filter that has to sense like, oh no, this is acetyl-CoA.
+ Like send in this other enzyme just to rip off the CoA and then, oh, got to shuttle this or this, the, the acetyl part or rip off the coenzyme, one of them, and then shuttle the other part that you don't want back.
+ And, you know, it just, you can imagine all of a sudden this becomes like a multi-step thing.
+ You're like, well, crap.
+ Now we need to have your cells or your ribosomes work over time to build these extra things.
+ And then if you're just a sedentary person, you probably.
+ Probably don't eat a lot of these, but then this is something else that you'd have to build up when you exercise more and it just really quickly becomes like, oh no, I have to do all this other stuff.
+ Let's imagine another like bad scenario here, which is like, what if we like, what if the step in fatty acid synthesis, the one, you know, malonyl-CoA that starts that pathway.
+ So what if we stop the pathway one step after malonyl-CoA and we had the malonyl-CoA, um, mechanism of.
+ CPT, um, inhibition, what if that happened and like, what if that was our thing during exercise?
+ And I think it would be a disaster because it takes time.
+ It's a slow process to transport things out of the mitochondria.
+ Like the, the, uh, buffering system happens in the mitochondria.
+ Like you don't need so much to happen.
+ Um, you know, cause you've got to like take the acetyl group out, then you've got to do the.
+ Equate carboxylase and then you've got a yada, yada, yada, um, like this whole thing takes longer and that transport would, uh, be detrimental and you would probably end up being a lot like these, uh, the, these unfortunate lab mice that get, um, they get these enzymes knocked out.
+ And so I think like if we started, if we went from zero to a full bore sprint in about a second, like, you know, oxidative metabolism, it's, you know, it's, uh, let, let's pretend it's like at.
+ Peak, like, uh, like we would need a mechanism to go from like, like let's say peak, uh, fat, um, burning and we've got to shut it down real fast.
+ Otherwise, like the flux of, um, you know, pyruvate and, uh, acetyl-CoA and NADH, like that would shut things down immediately.
+ Um, and so, you know, we would fatigue a lot faster, have like a really big spike and then we would like drop off real fast and be like, well, it's just the nature of human performance.
+ Uh, so it doesn't happen like that.
+ Yeah.
+ Um, all right.
+ So there's one more dimension to all of this and we need to talk about, um, VLA max two at some point.
+ Um, but I, well, I think that we need to talk about VLA max because it's kind of well known at this point.
+ Um, but I also want to use it as a point of contrast for the next section because this is complex shit.
+ Although I think the general principles are, uh, pretty, um, pretty easy to grasp, which is, I hope is what weird everybody's taking.
+ So, um, to understand what's coming up, let's review the order of operations for a muscle to contract.
+ So impulse comes down the nerve.
+ If the signal is strong enough, the muscle fiber contracts, it hits that threshold.
+ Uh, the contracting muscle fiber releases calcium, which uncovers actin strands.
+ So myosin can bind and pull.
+ And remember, this is an all or nothing thing.
+ If you want to learn about gradations and force or more about this process, listen to Wattstock number, I think it was nine.
+ Um, so the myosin cycle of motion uses ATP, like one ATP for each cycle.
+ And we have a lot of ATP that needs to be used for extremely hard efforts.
+ And so remember what happens.
+ Um, we tell the muscle to contract, the muscle contracts, and then the ATP levels drop and the cell goes, oh shit.
+ Uh, and then it, and then it does what it can to, um, to figure it out.
+ It's not like it's sitting there.
+ Well, I guess in a way you could think about it sitting there waiting, but like the ATP filling in pathways, they're reactive.
+ They're not proactive.
+ Right.
+ And so rate of demand, which is to say, how hard are you peddling?
+ Um, is a large factor in determining how fast do you need to produce ATP?
+ And that means how fast do you produce ATP?
+ So if you're riding at a very low power output, and this is relative, of course, um, then you're quite easily able to produce ATP aerobically.
+ Asterisk on fats versus carbs on that and yada, yada, but also refer to last episode.
+ Um, so as power output increases, uh, a couple of things start to work against us all, which are very dependent on yourself as an individual and training history and whatnot.
+ Um, which is why we cannot speak in definite terms here.
+ So first oxygen delivery becomes limited as intensities increase.
+ And I think we talked about this in the VL, uh, the VO two max.
+ And so regardless what you're burning at some point, you can't aerobically, uh, produce any more ATP anaerobic glycolysis as opposed to aerobic, uh, will become more relied upon, but will not supplant aerobic metabolism.
+ It will augment it.
+ So the second thing here is that utilization of fats can be limited by many factors, including those discussed in what's doc number 30.
+ Um, so we can take time to get blood flow to.
+ Muscles and immobilized fat stores and to get them moving into active muscle mass.
+ And this is also part of what a good warmup does.
+ Side note, um, all of you first lap warmup people, uh, probably want to do better.
+ Uh, that's why you feel so bad and feel like you're gonna, like you just burned all your matches when you don't warm up and then have to hold on for the first acceleration in a crate.
+ You're like, yeah, your, your aerobic metabolism hasn't warmed up yet.
+ So, uh, you know, so you're burning.
+ You're burning through way more glucose than you have to.
+ So third, um, additional constraints can cause the body to use more carbohydrates or fats at most exercise intensities from, uh, about threshold and below can be a bit higher.
+ So, um, altogether, you know, other things, uh, not listed.
+ These factors complicate the choice between carbohydrates and fats, particularly at FTP and below.
+ And this is to not even mention things like diet, which we.
+ Kind of touched on, um, and we'll probably get into this in the future episodes.
+ Okay.
+ So the next thing I think we should establish, what's a normal percentage of burning fats and carbohydrates, like relative to FTP, for instance.
+ Um, this is, uh, kind of an interesting question that I've always thought about, and it's not an easy one to answer because there's, as far as I know, no way to predict.
+ Um, but we can estimate.
+ So if we're looking, uh, at rest, you know,
+ quote unquote rest or very, very low intensity, most well-trained people for the sake of, uh, argument, let's say people are mostly or almost entirely burning fats in their working muscles.
+ So 20% FTP or 20% VO2 max, either way, take your pick.
+ Um, so let's take another set point, uh, that everybody knows.
+ What about at FTP?
+ And this seems to be a sticking point from, um, what I've encountered in the literature and, you know, just in general.
+ Um, I've heard it described a lot as at FTP, you're burning a hundred percent carbohydrates.
+ But when you look into the scientific literature that describes RER at MLSS, um, it usually varies from about a hundred percent carbohydrates to, uh, to about 60 to 70% carbohydrate use at MLSS.
+ That is to say FTP.
+ So, however, according to data that I've seen and other actions.
+ Actual exercise physiologists have seen and measured fat utilization at FTP can be as much as 50%, sometimes higher.
+ I've seen, uh, I've seen one, uh, test where it was about 60%.
+ Um, it was a little anomalous.
+ Um, I would not use it as an indicator of this person's actual exercise performance.
+ Um, but it was very interesting to see, uh, because I think it was like before breakfast, something like that.
+ Um, so, you know, there were other complicating factors.
+ So, these are things that can cause havoc when we try to predict, you know, what, how much carbs are we burning?
+ How much fats are we burning?
+ Like, so we have to kind of, um, you know, think about more the more complicated stuff behind just a simple test.
+ I mean, that is quite a range, right?
+ Like 50% to a hundred percent is, is a big range.
+ Um, and like you said, this is where training history and even genetics.
+ Genetics and diet and things like that come into play, right?
+ Where, where you're, you as a person will, uh, happen to appear somewhere on this scale from one end to the other.
+ And where exactly you are may be hard to tell and is probably not measurable using equipment you as the average cyclist possess.
+ One would think, however, in a future episode, we're going to talk about.
+ Um, we're going to talk about this a little more, actually, actually, or a lot more.
+ Um, and it'll be partly, um, my experience and it'll be partly science.
+ Um, and it'll be, uh, kind of one of the methods that I used, uh, when training people.
+ Um, and so we'll talk about that, uh, in the future.
+ Almost definitely.
+ I think I've kind of made up my, in my head, the roadmap of the next couple episodes.
+ So, um, and hopefully now that I'm not traveling to races anymore for the rest of the year, they will be coming more frequently.
+ Um, Joe.
+ Joe Martin was a lot of fun, by the way.
+ Um, so the point of this whole discussion here is to show that, um, the acetate or, um, yeah, the, the acetyl saturation point of carnitine where carb, uh, production inhibits fat use is not intrinsically coupled to a biological set point.
+ So at FTP, you may have a high enough fat transport rate and you may have enough carnitine.
+ You may have enough mitochondria.
+ You may have enough mitochondria to still have a very high amount of fat oxidation at threshold.
+ However, if you have a large set of RER data and a large set of athlete data, uh, hit me up.
+ I think we have a project.
+ So to summarize this point quickly, just because you're spinning super easy or you're at threshold doesn't necessarily, you're, you're using like 0% or a hundred percent carbohydrates.
+ I mean, we've got like non-zero blood lactate concentrations at rest, right?
+ So we're always using some, somewhere in the body.
+ And.
+ You know, usually blood lactate gets lower during exercise anyway, because you know, the active muscles are one of the biggest consumers of lactate.
+ Anyway, so we promised VLA max too, and we're kind of heading there now.
+ So where does this relate?
+ Let's establish what it is.
+ First of all.
+ So it is the maximum rate at which lactate is produced and can be measured by a blood lactate test, uh, with a short max effort.
+ And this also has complicating factors.
+ Because, you know, lactate is a thing that diffuses into the blood and other compartments and you've got certain muscle mass, you know, like there are complicating factors, but this is the basic version of it.
+ And beyond that, we need to make a lot of assumptions.
+ This is supposed to show the quote unquote strength of the glycolytic system.
+ And you're going to see why I'm using air quotes in a second, uh, or several minutes as in how readily will your muscles, uh, put carbohydrates through glycolysis.
+ And this is only to the lactate point.
+ And not through the Krebs cycle.
+ So Kyle, can we, um, can we get a thought on that before, uh, before we move on?
+ Yeah, I, I, I think it's one of these things where like, you can say, oh, if you're, if you're a type of rider that has a ridiculously high VLA max, then you're going to be more of a punchy sprinter anaerobic.
+ Like short hill rider type thing where, oh, um, your body is ready and willing at any time to use glycolysis to get you to that, you know, over the next hill and to the other side.
+ And it also means that you don't have this, um, you may not have as much of a delay if you need to do that short, hard effort because your glycolytic system is ready and, and willing to.
+ And it also means that you don't have as much of a delay if you need to do that short, hard effort because your body is ready and willing to do that short, hard effort because your glycolytic system is ready and willing to do that short, hard effort because your body is ready and willing to do that short, hard effort.
+ Um, all right, so let's move on to the next step here, which is that in VLA max theory, um, FTP ties in too, right?
+ So the idea is here that at some intensity, which is actually FTP, the rate of glycolysis becomes greater than the oxidation rate, as in the rate of lactate creation in the cell becomes greater than the rate of lactate oxidation.
+ So as far as we've seen, this is something that happens, right?
+ Because this is what happens when we saturate the, um, you know, the, the fat transport mechanism.
+ So this has one direct consequence though, which would be that fuel consumption rate at FTP would be necessarily a hundred percent carbohydrates.
+ Cause right.
+ Cause this is your maximal, um, maximal rate of oxidation.
+ So, uh, you know, in theory, like according to this theory, if you're at your maximum, um, maximum rate of oxidation, you're at your maximum rate of oxidation.
+ So your maximal rate of oxidation is all being used for carbohydrates.
+ Yeah.
+ Um, and so here's some historical context, by the way.
+ So the VLA max theory is from the eighties, which is as far as I can tell before the mechanisms behind fuel selection were really elucidated.
+ Um, they were somewhat known, especially at rest, but during exercise, I think it became more well known in the, uh, in the like late nineties, early aughts, something like that.
+ Um, I did not.
+ I did not do a proper history, um, on the papers.
+ I just found some that were really useful and did not have time to chase down all the refs.
+ So, um, so the next part of VLA max here is the strength quote unquote of the glycolytic system is what determines where this happens.
+ And this is to me at least where I'm, I'm already like, I'm already scratching my head.
+ So as, okay.
+ So as in for a certain VO two max, a quote unquote weak glycolytic system.
+ It means like tape production is lower at all intensities and therefore FTP will happen at a high percentage of VO two max and vice versa for a strong glycolytic system.
+ Now there's implications in this.
+ So one is of course that a sufficiently weak glycolytic system will have FTP occur at a hundred percent VO two max.
+ Um, that's a physiological impossibility, right?
+ And so that sounds awesome though.
+ Sign, sign me up for that.
+ That would be kind of interesting to have a person who can actually do that.
+ Um, well, for the most part, the ceiling seems to be in the mid to high 80% of VO two max.
+ And, you know, I would posit that most of these folks can have a different, uh, VLA max.
+ Um, well, we'll talk about that in a little bit.
+ Um, this also makes no room for certain dynamics of fuel use that we actually see during exercise.
+ Uh, like in a lot of instances where over a long bouts of steady state exercise,
+ we actually see fat usage increase through the effort, including at FTP at a hundred percent MLSS.
+ Like I'm thinking of one study in particular, I'm sure somebody is going to post it or send it to me immediately.
+ Um, so thank you for that.
+ Um, where, uh, it's some, I think it's like everybody does an hour at MLSS.
+ And I think the average, um, RER will goes from like 0.94 to like 0.9 or 0.91 or something like that.
+ Like it, it drops, like you, you are using more fats.
+ It's like throughout.
+ Um, so that's something that we see.
+ Uh, the other thing that actually kind of bothers me most about this is that, um, it makes fat kind of a filler resource rather than what the body prioritizes, um, at most aerobic exercise intensities, because this is the opposite of what the adaptive signals show that the body wants to do during, uh, for aerobic exercise.
+ And, um, endurance, uh, adaptations.
+ So it wants to increase things that improve fat oxidation, like mitochondria and transport proteins.
+ And one would say this would decrease VLA max.
+ And, you know, in theory, this would be correct, uh, I suppose.
+ Um, but that's my practical perspective because I'm kind of always inspired by Atkinson who said, uh, as biochemists, we must be thoroughgoing and unashamed teleologists.
+ So that's me.
+ All right.
+ So let's move on now before.
+ We.
+ We get into deeper discussion.
+ How do we elicit VLA max?
+ Because I think this is the last piece of the puzzle here.
+ So a good VLA max test necessarily starts with a balls to the wall sprint.
+ Go from zero to making max power and stay there as long as possible.
+ After the effort, you sit still or you lie for some of us.
+ Um, and then your blood lactate gets tested and you do a little bit of math and voila, you have VLA max.
+ So basically.
+ Based on this protocol, Kyle, can you take a stab at other issues that might be had, uh, with, uh, VLA max testing, uh, based on something like this?
+ Some of it's going to depend on if you have to start with like a, just a complete all out sprint.
+ Like you've seen those athletes that like can't sprint, right.
+ But they can like, that can like hold their five second power essentially for like a minute, right.
+ It's just like, they don't have that peak that some people have.
+ It's just like a plateau from like zero seconds out to like 30 seconds.
+ And then it starts to like roll off.
+ Like that person is going to be rate limited effectively and how much blood lactate they're going to develop versus someone who has a 3000 watt P max, like, you know, or something.
+ Um, like I heard, I heard one of the, you know, a friend who's a, who's a, um, also a track sprinter describe it like their shovel just isn't.
+ As big, like they can just not, you cannot dig as deep of a hole if you are a total slow twitcher ultra runner type person.
+ Their shovel isn't as big.
+ I love that so much.
+ Um, uh, well, no, you, you absolutely nailed it.
+ Um, because this is why I brought up, uh, what is the order of operations is if you have a bigger muscle, you make it contract.
+ And then glycolysis fills in how much do we need?
+ Okay, great.
+ Let's do that.
+ Uh, it's not that you make bigger muscles and then like suddenly you can do more.
+ Glycolysis.
+ I mean, like it doesn't need that much practice and actually like endurance training, by the way, like threshold training, uh, it increases the enzymes involved in glycolysis like a lot.
+ It's, it's not.
+ It's not like endurance training, like only increases fat oxidation, uh, enzymes, which is maybe the impression I've given people.
+ That's what, but that's not the case.
+ So my apologies if you are assuming that, um, you know, uh, I actually see a lot of people post their best ever, like one minute power after doing nothing but FTP work for like a month or two and then take an arrest.
+ And then like, suddenly they've got all these Watts in one minute.
+ Uh, the sprint doesn't get any better.
+ But, um, you know, well, I think it's like buffering.
+ So let's, let's, let's walk through this logically.
+ So the deal is that the test for VLA max requires use of as many motor units as possible, which means that you're using more or way more for like me and Kyle, uh, muscle fibers, uh, for this test, then you need to create like FTP Watts or less.
+ And a lot of these motor units might be absolute garbage aerobically and efflux, a ton of lactate.
+ And so you can do that.
+ And so you can get a 2000 watt sprinter who's got a 400 watt FTP because he's got massive aerobic capacity, but his 2000 watt sprint doesn't necessarily mean that, you know, his, his FTP is going to be any worse.
+ Like, you know, I was going to get to this later in the episode, but like these things are not coupled that well.
+ Yeah.
+ And like we've said before, when people talk about assigning work above FTPs.
+ Using FTP numbers, this is the other way.
+ This is, this is like assigning some, some quantity about FTP from doing supra FTP work.
+ Yeah.
+ Yeah, exactly.
+ So it is the other problem, but yeah, it's like a problem if you've thought about it more deeply.
+ Well, cause let's, you know, we haven't really gotten into this on the podcast before, but let's get into it for a second.
+ Briefly, which is let's think about what drives sprint power.
+ What drives sprint power is neural drive.
+ How fast can you turn on your motor units and how much neural drive signal, like how, how strong is the signal that you can send?
+ So that's one.
+ How, how strong are you?
+ Like just literally how much raw force can you push on the pedals?
+ And then you have other neural factors.
+ Um, like, uh, well actually those are, those are pretty much the big ones.
+ Um, so definitely, and you've got, you know, other neural factors, uh, here and there, like what's the rate at which you can turn on the neural drive, like rate of force development, like there's stuff like that, but those are the big ones.
+ And so that means that, you know, a lot of people will think, okay, oh, you've got, you're stronger.
+ You've got more type two fibers and that's going to, they're going to be less oxidative, but like you can train type two fibers.
+ There's type two a fibers for a reason.
+ Like they can have.
+ Just as good fat oxidizing capacity as a well-trained type one fiber, especially if you're somebody who's like, you know, somebody like me, I'm guessing I was probably at my most 50% type one and that I was using probably like 20 to 30% of my type two fibers, like at threshold or VO two max pretty well aerobically trained, especially if you can, you know, have a good repeated, you know, sprint ability, which I had.
+ Okay.
+ Um, you know, Kyle, yours was really, really good.
+ I would say that there's a possibly a diffusion.
+ Related aspect that would make your muscle fibers a little less efficient, but at some point, um, you know, it's, there's a lot of complicating stuff here that doesn't necessarily mean like, oh, you're just creating more lactate and therefore blah, blah, blah, because glycolysis is demand based.
+ So in other words, it reacts to large and deep perturbances in the ATP equilibrium until F applicable, more aerobic stuff can take over.
+ So like when you start an interval from easy spinning.
+ Up to like, let's say FTP or tempo or whatever, um, or even VO two, uh, or a sprint.
+ Um, you know, there's a huge use of glycolysis until more oxygen and fat delivery and utilization can happen.
+ And so the rate of ATP demand while sprinting is huge.
+ And the more power you can put out, the more glycolysis gets activated.
+ It doesn't necessarily mean like, let's say you, um, let's say for instance, you're brand new in the gym.
+ Uh, a lot of people going at the gym right now, let's say that you're a strong, you have a strong neural, uh, learning ability from lifting weights and you've never lifted heavy before.
+ And suddenly you go out and you've got an 1100 watt sprint and now you in two months, you've got a 1300 watt sprint.
+ Has your VLA max increased?
+ Yes, it has.
+ Has your FTP decreased by like a concomitant amount?
+ I would say no, like probably not unless you're not doing any aerobic training.
+ Almost certainly not.
+ Yeah.
+ Unless you, unless you've only been sitting on the couch, like doing squats and eating donuts or something.
+ Right.
+ Like, uh, just at me, bro.
+ Um, right.
+ So there's another thing here, which is that we'll never actually be able to tap into the actual maximum rate of glycolysis in human muscle.
+ Uh, and according to some really cool research that I hope to find an excuse to talk about one day, um, cause it's pretty complicated experiments.
+ Um, uh, but anyway, it means that the number one determinant of VLA max is your sprint power and having a better sprint, like 1500 Watts doesn't necessarily mean your glycolytic system is stronger.
+ It just, it is as strong as it needs to be.
+ Everybody's got an equally strong glycolytic system.
+ You know, it just means that you're capable of quickly generating larger ATP demand.
+ And so, yeah, you know, there might be a slightly lower FTP associated with having larger muscles and such in terms of like efficiency.
+ And stuff, but the mechanism is not stronger, like glycolysis.
+ So the Krebs cycle is overwhelmed with lactate.
+ Yeah.
+ I mean, clearly relatively big, heavy people.
+ You have your, your Andre Gripels, Marcel Kittle, Kittles, like Taylor Finney's, like they were all, you know, significantly above your average world tour road cyclist weight and could put out max powers significantly above your average.
+ They were not like, like putting around at like 200 watt FTPs.
+ Like they could do big, you know, eye popping P maxes and then also back it up with 400 Watts of FTP whenever they needed it all the time.
+ Constantly.
+ Yeah, for sure.
+ And like, for instance, here's one of the things that here's one of the hard data points that I have for one of the professional cyclists that I train.
+ So it's a guy with a 400 watt FTP and it's just, it's just 400 Watts.
+ It's just, that's what it is.
+ Um, his sprint is up and down his sprint power.
+ And so this means his VLA max powers also up and down.
+ He gets tired.
+ His sprint can only, is only like 1300 Watts when he's feeling really good.
+ It's like 16, 1700 Watts.
+ And does this mean that when he can sprint less hard, that his VLA max is lower?
+ I would say no.
+ Um, you know, would you say, you might say that, uh, you know, the maximal rate is what determines it when he's fresh.
+ Um, I would say that's probably true, but like.
+ Like when somebody sprint goes down, cause they're not using it for a while, this is the same as somebody who hasn't yet trained those motor units.
+ You know, it's, it's one of those things where like, yeah, I've got the physiologic data showing his V his, uh, VO two max is basically what it is.
+ It's ridiculously high by the way.
+ Um, and you know, his FTP is a certain percentage of that.
+ And that's something that, you know, we're working on in the longterm, but like his sprint going up and down, doesn't change the FTP VO two max.
+ Um, and you know, it's, it's one of those things that, you know, we're working on in the longterm, but like, you know, it's, it's one of those things that, you know, we're working on in the longterm, but like, you know, it's, it's one of those things that, you know, we're working on in the longterm, but like, you know, it's, it's one of those things that, you know, we're working on in the longterm, but like, you know, we're working on in the longterm.
+ So we trained him aerobically for a little while and he was targeting a tour of America's dairy land, which is a long criterium series.
+ And so it's like, okay, aerobically his FTP got up to like three 60 ish.
+ Um, and that stayed the same through the rest of the season, his sprint power and his FRC, his aeronautical capacity went up, um, up, uh, and you know, they kind of peaked around the start of tour of America's dairy land.
+ So it was a, you know, season worked out perfectly great training.
+ Uh, he did, he did awesome.
+ Um, and he, he destroyed a bunch of stuff.
+ So one of the people who had a criticism of that was like, oh, well his, you know, his sprint and his FRC are going up, his VLA max is going up and you would only need, um, you know, his VO two max to go up by this much in order to make up for it.
+ And I was like, it, it didn't, it really didn't.
+ It takes so much work to get somebody who's at their aerobic training ceiling to raise their VO two max that I, I guarantee you that if we relax.
+ Lab testing it the whole time, it would have just been plateau.
+ It would have been the exact same.
+ Um, so that's a challenge for you.
+ If you think that's, uh, if you have access to that equipment, uh, give it a shot.
+ All right.
+ So if you ask me, obviously at this point, uh, you know what I'm going to say, VLA max can in no way determine in whole or in part your FTP.
+ Well, maybe, maybe in a very, very small part and percentage based on having giant muscle fibers.
+ So, um, so in theory.
+ And also in practice, I find the number two determinant of VLA max is actually your aerobic ability.
+ So in testing people with the same sprint power and anaerobic capacity, but different FTPs, the higher FTPs, uh, which were up to about 400 Watts for the people I tested were harder to get good peak lactate values from them.
+ Because as soon as they were done sprinting, lactate levels just dropped.
+ So as soon as they were done sprinting, I had to like run over to them and stab them real quick.
+ Um, and you know, it's hard.
+ It's like, you're like, okay, you're sprinting.
+ You're like, put the alcohol swab in your, in the plastic bag in your pocket.
+ As soon as you're done sprinting, grab it and start swabbing your ear, like clean it off so I can get the lactate immediately.
+ Like, um, it was ridiculous.
+ Cause if I waited like 30 seconds or a minute, uh, average, you know, delay time is probably like 20 to 30 seconds.
+ So 30 seconds, you know, 30 seconds, a minute, minute 30.
+ So all, all down.
+ Um, although there.
+ There was actually an interesting comparison with two people where, um, they had actually the same, the same, everything pretty much, um, same sprint, same FRC, the same, uh, FTP, and they had very different VLA maxes.
+ And I think the, really the only variable was how much do is the difference between how much they ride.
+ One had a little volume and one road, like 20 hours a week, all the time.
+ And the one who wrote 20 hours a week had a very low VLA max.
+ Um.
+ Um, because you just have great capacity to utilize lactate in your working muscles when you do that all the time, probably had a lot more mitochondria or whatever, but, you know, functionally, if you looked at them in one dimensional space in terms of metrics, they were pretty much the same rider.
+ And you would think that they might have the same VLA max.
+ That was not the case.
+ Yeah.
+ So anyway, none of that was on script.
+ So I will get back to the point of what we were talking about.
+ Um, so thinking you're glycolytic.
+ Strength determines FTP, I think is like a cart before the horse thing.
+ It's sort of like, like you were saying, Kyle, like this, this is the other carpet for the horse of like thinking your FTP, um, is what determines your, like, you know, your VO two max power, quote unquote, VO two max power, uh, or you're like one minute power, whatever it is.
+ Um, yeah.
+ So basically if you cannot oxidize the lactate, really, you just shuttle it out of the cell.
+ So some other tissue can use it, um, even at the same rate of demand.
+ So anyway, blah, blah, blah.
+ So, um, all right.
+ So the last thing on VLA max.
+ So despite its recent popularity, and I mean, recent, you know, 20, 30 year term, because I, I, this, it feels like at this point in like late 20, what year is this?
+ 21.
+ Um, I think in the actual scientific literature that I've looked at, and I've tried to look at everything I could on VLA max, uh, in the last couple of years, you know, based on this popularity of like, oh, maybe this is, maybe this works.
+ Maybe we can use this.
+ Um.
+ Um, any real authority on lactate and exercise metabolism, uh, who does a review of possible mechanisms of how and why FTP, MLSS, LD2, whatever you want to call it occurs, not actually known at this point still, by the way.
+ Um, so the theory of VLA max affecting FTP is hardly given a sentence.
+ And in most cases, I have not seen it given any sentence in very extensive review papers.
+ Including by George Brooks.
+ So when others that I think are, I read that and I go, oh, there's no way like they get entire pages.
+ So, um, um, and not only that, I think, um, not, not to belabor the point, although there's nothing I love more than to belabor.
+ Um, I think, um, you know, I've talked to a lot of people who have used, you know, VLA max in their training of cyclists, rowers, swimmers, all sorts of stuff.
+ Um, you know, uh, basically they've, they've said that like, this didn't actually turn out to be as useful as we hoped it would.
+ And really though, for a lot of people, especially on like the cutting edge of, of elite sports performance, you can't blame them for looking for some sort of like new metric or advanced metric that other people don't have.
+ It's comparable to advanced statistics or something in baseball, like money ball.
+ Like if all of a sudden you are able to unlock this thing that gives you that little bit of edge on your competitors.
+ At the elite cutting edge of sports performance, that matters, right?
+ And so of course you're going to try this thing for a few years or many years even.
+ And then if it doesn't end up panning out, you're like, oh, well we tried, but we're going to keep looking for these other metrics that maybe, maybe hold some, you know, deeper insight or provide some more reliable measure of X, Y, or Z.
+ Yeah. And also like not to, uh, I'm not going to name any names specifically.
+ Um, but a lot of the.
+ But, you know, people who are very, very good in cycling, also not to name more names here, you know, they don't actually use this tool.
+ Like, it's, I think that's all I'm going to say on that.
+ So to answer the question, why would we need to inhibit fatty acids?
+ So the simple answer is, you know, we cannot use them fast enough.
+ The rate of energy demand is too high.
+ And carbohydrates are the, in case of emergency, break class pathway.
+ So the acetyl buffering by carnitine is also not the last gasp of fat use.
+ So like previously mentioned, this stops the active transport of long-chain fatty acids into the mitochondria.
+ But shorter ones like octanoate, they can still diffuse in freely and be used.
+ But they do have that coenzyme A available to them.
+ Thanks to carnitine buffering of acetyl groups.
+ So we also see that the quote-unquote inhibition here of using fatty acids isn't actually inhibition in the classic sense.
+ Where in the presence of thing X means target Y has lowered or stopped enzyme action.
+ Which is what malonyl-CoA does to CPT-1.
+ This is like classic inhibition.
+ It, you know, modifies a thing on the protein.
+ And the protein changes shape and it can't do.
+ So the inhibition here that we're talking about with carbohydrates quote-unquote inhibiting fat use
+ is competition for a limited resource.
+ Where if you lack the resource, you cannot assist in the reaction.
+ This is a competition in the mitochondria for coenzyme A.
+ And evolution has wisely seen fit to let carbohydrates win at higher intensities
+ by giving carnitine a shifting priority to ensure mitochondrial function.
+ And continued ATP supply.
+ Regardless, we couldn't rapidly transport enough fats from adipose tissue.
+ Or even from the residual fat stores in muscle.
+ Although those are obviously faster to transport.
+ We couldn't get those into the mitochondria rapidly enough during things like sprints and super hard efforts even if we tried.
+ So carbohydrates are there.
+ They can be used rapidly enough.
+ They're fairly readily available unless you are past a bonk.
+ In which case, I hope you have a gel.
+ Carbs can be used rapidly enough in the cell and transported into the mitochondria.
+ And then there's more than enough pyruvate around to become acetyl-CoA.
+ And so like I said last episode, after it becomes acetyl-CoA and goes into the Krebs cycle,
+ it does not matter at all where the acetyl group came from.
+ But beforehand, this is what's happening.
+ This is kind of what matters right now.
+ So are there practical take-homes from this?
+ Sure.
+ If you want to increase your FTP, you have to do a boatload of aerobic training.
+ If you want to increase your fat utilization at and below FTP, the same.
+ Lots of aerobic training, but especially focus on pushing out the duration of your FTP-type efforts.
+ Progressive overload, 2x20, 2x22, 2x24, et cetera, et cetera.
+ Add more time.
+ So we're actually going to get more into that in a couple episodes.
+ So we'll talk about that as an area of focus with the biochem background too.
+ So doing sprint or anaerobic capacity.
+ Capacity training will not drop your FTP, but it effectively can if you do little to no proper aerobic training to maintain, if not improve, those kinds of things.
+ Like me and Kyle with our donuts.
+ Deadlifts and donuts, y'all.
+ So increasing anaerobic capacity or preparing for other race-type efforts is right and normal.
+ Everybody does it.
+ It's okay.
+ It's like pooping.
+ So there's no need to unnecessarily.
+ Avoid it or be like, oh, my God, this is going to increase my VLA max.
+ What's going to happen to me?
+ Like, you're going to be fine.
+ So if you actually measure your VLA max, by the way, and it does not line up with what you see in the WKO5 model, just type in the expression VLA max, and it'll appear.
+ Then I'm going to suggest you probably need to do a whole lot more endurance training.
+ So if you feel called out by the you're training too hard for criteriums episode or article that this.
+ Might be you.
+ Or you should just switch to becoming a kilo rider, and then you can just do all the.
+ I'm not sure that's necessarily better.
+ Nothing about pain around these parts.
+ Do you like dark, dark, dark times in your life?
+ Do you like your vision going gray?
+ Try a kilo.
+ Exactly.
+ All right.
+ So let's think about the next couple episodes.
+ So I think next episode, let's take a look at keto diets and the metabolism of keto diets and the ups and downs.
+ Associated with them.
+ We'll probably rehash an old episode that I think was a little ambitious for what it was and our skills at the time.
+ I think we are ready to meet that challenge now.
+ I think we might want to do an episode on metabolic flexibility, quote unquote, which is a term coined by Inigo San Milan.
+ I think we'll look more at the arc of carbon fat use and stuff like that.
+ And then I think we're definitely going to look at a study about metabolism.
+ And then I think to wrap it up, we may do an episode on lactate testing and talk about all the things that drive me, possibly us, nuts about lactate stuff.
+ So how's that sound?
+ Sounds fun.
+ I actually think if we get one or two people to go out there and measure blood lactate on their own from hearing all this, that'd actually be kind of fun.
+ Yeah.
+ If you're doing that, feel free.
+ It's free to share data.
+ Yeah.
+ It obviously only appeals to a certain type of nerd.
+ But it turns out with some of this, given the recent decreases in the cost of certain testing equipment and things like that, you can actually test blood lactate levels on your own without spending thousands of dollars on a cart, like a metabolic cart that you have to be strapped to.
+ And you've got to ride a special airplane.
+ You've got to ride a large bike and not your own bike and all this stuff.
+ So, yeah, you can treat yourself like your own middle school science fair project.
+ Yeah.
+ And if you're looking to get a lactate meter, I recommend the Lactate Plus from Nova Biomedical, which is pretty much the standard these days.
+ Although in the lactate testing episode, I think one of the things that we may discuss is whether or not you should do lactate testing.
+ So a lot of people, it seems to be a curiosity.
+ But I also think that just based on power data.
+ And, you know, normal kind of stuff, I think it may not actually be necessary for most people.
+ So that is something to consider that we will consider in future episodes.
+ So if you enjoyed this episode, please share it with a friend.
+ If you thought it was great, if you thought it was crap, also feel free to share it with a friend.
+ And if you want to support the podcast so we can continue to make more things, feel free to do so at empiricalcycling.com.
+ Donate.
+ Donate.
+ Our show notes up on the website.
+ We will put in some diagrams of some of the stuff that we talked about.
+ So you'll be able to see the mechanism of, you know, carnitine buffering, acetyl groups, and the Malonyl-CoA thing.
+ That'll be in there.
+ If you want any merch, empiricalcyclingpodcast.threadless.com.
+ And if you have any coaching and consultation inquiries, questions, and comments, feel free to email me at empiricalcycling at gmail.com.
+ And on Instagram at empiricalcycling.
+ Go figure.
+ Weekend AMAs and the stories.
+ Give me a follow over there.
+ Have fun, everyone.
+ Have fun, everyone.

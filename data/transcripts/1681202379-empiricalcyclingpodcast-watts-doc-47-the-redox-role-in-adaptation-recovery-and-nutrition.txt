@@ -1,0 +1,1326 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson. Thank you, everybody, for listening as always. And if you are new here, please consider subscribing if you like what you're hearing on the podcast. And if you are a returning listener, thank you so much for coming back. We really appreciate you coming back, and we wouldn't be here where we are without you. And if you want to support the podcast because of that, let people know that you like the podcast, share the episodes, really appreciate all of that. Donate to the show if you want, because we are ad-free. I've turned down everybody who's asked to donate, so
+ So you can do that at empiricalcycling.com slash donate.
+ And if you really want to support us, you can become a coaching or consultation client.
+ We are always taking on clients.
+ Now's a good time to start thinking about it for next year for a build.
+ And also, if you want to consult about building for next year and planning out a peak and
+ stuff like that, feel free to shoot me an email at empiricalcycling at gmail.com because
+ we are always doing that.
+ And we always love to have new clients coming in.
+ So thanks, everybody, for all the inquiries.
+ Keep them rolling and love seeing everybody in my email inbox.
+ So thanks again, everybody.
+ And also on the Instagram, if you want to follow up on the weekend AMAs, I do a Q&A
+ there, nice short answers for short questions.
+ And also, that's where I ask questions for the podcasts.
+ And today, we don't have as many podcast questions as one might hope, probably because it's a
+ very obscure topic, right?
+ So what is Redox?
+ Now, I'm really excited for this episode because the tie-in.
+ Because you're a nerd.
+ Because I'm a nerd. Also, I got roasted by somebody recently in my Instagram DMs who called
+ me a nerd. And I was like, aren't you some kind of nerd too? I think he's like an engineer. And
+ he goes, well, yeah, I listen to your podcast. I was like, oh, yeah. All right. Fair enough.
+ And so today's episode is potentially a little bit of alphabet soup, but not really. And it's
+ going to be in, I think everybody's best interest to listen closely and really try to take this in
+ because we're not only talking about an aerobic adaptive pathway again, and this time we're
+ talking about redox stuff and we'll explain all the basics on that in a second, but it ties in
+ perfectly with recovery and nutrition. And we're going to see how the cell logic kind of really
+ works at its lower levels. And this is more than just making ATP. This is a truly a hub of
+ activity for the cells for exercise and also for recovery and adaptation. We get to see
+ some of the nitty gritty, a little bit of it, a glimpse into the nitty gritty of what's really
+ going on. And I am so excited to take everybody through this and get to the end and have everybody
+ go, wow, that makes so much sense. I hope that's where everybody gets to because that's where I got
+ to as I was researching all of this stuff over the last couple of weeks and months. And we get
+ to see that evolution is really ingenious about using the same thing, which is mitochondria,
+ not only for energy supply and exercise, but as a biosynthetic hub for adaptation while you are
+ resting. The nutrition is going to tie into this too. So having said all that, I cannot imagine
+ And most people sit around thinking about redox demand and redox stress in a cell.
+ So we've discussed it a little bit.
+ We did an episode on oxygen and its corrosive properties and all that kind of stuff a long, long time ago.
+ But Kyle, why don't you take us through a little bit about the basics of redox?
+ Because I see you've written in the notes, Leo the lion says grr, and I'm curious why you wrote that.
+ All right, all right.
+ So, uh, Leo, the lion says, Ger is something I got from my junior year, high school, AP chemistry teacher, Karen Matanowski.
+ I think she retired this past year, actually.
+ So yeah, shout out to AP chemistry, 2004, 2005.
+ But we were talking about the difference between like oxidation or reduction and her shortcut or it's not a mnemonic really.
+ It kind of is a mnemonic, I guess.
+ But her phrase that she used to like to tell students to remember oxidation versus reduction is Leo the lion says ger.
+ And that's Leo, L-E-O, lose an electron is oxidation.
+ And ger, G-E-R, is gain electron reduction.
+ Because you would have this, you know, you're, I don't know, 15, 16, 17, whatever.
+ You're taking chemistry in high school and they throw these words at you and you're like, ah.
+ And typically, you know, you try not to make chemistry all about just memorizing definitions.
+ Hopefully you actually do some solving, but if you know, if you get hung up on definitions,
+ then it makes it a lot harder when people present your problems. And so
+ Leo, the lion says, Ger, it sticks with me to this day, 20 years later, but, um, yeah. So
+ if you ever have trouble remembering what is oxidation, what is reduction, you can think
+ Leo, the lion says, Ger, I don't know what to do. If you don't remember how to spell Leo or Ger,
+ then you're kind of screwed. Well, ger, ger, G-E-R, like it's a weird ger. But I think about
+ it like, because I once asked one of my professors, like, what is all this about? And they
+ said, it's about the charge. And so if you add an electron, you are reducing the charge. And so for
+ our example molecule, we're going to be talking about a lot today, NAD. NAD has a plus sign most
+ of the time when you look at it written, because as a molecule, it has a positive charge on the
+ nitrogen. And if you are reducing it, you're going from plus one to zero. You are adding a hydrogen
+ atom that takes away that positive charge. And so you have subtracted one, so you have reduced it.
+ That's the way I think about it. That makes sense. Yeah. I mean, like electrons, since they are
+ negatively charged, they're always going to drag. If you add an electron, you're always going to
+ drag the total net charge toward the negative value. So if you're positive, you're going to
+ go closer to zero. And if you're a negative charge already, you're going to go even further
+ from zero. It's a little weird, but yeah. Yeah. Yeah. It's a little weird. And also,
+ because we're going to be talking about oxidation potential in this, we're also going to be talking
+ about negative voltage values. We're only going to bring it up like once or twice. So we're really
+ just going to talk about redox potential, which is in a way, it's like just the potential to
+ donate an electron. And if we're thinking about it, just basic chemistry, donating a hydrogen group,
+ which is why NAD plus or NADH, it's not NAD plus and E minus. You know what I'm saying?
+ So I'm going to say redox state and redox potential kind of interchangeably in this
+ episode. And I apologize for that. They basically mean the same thing. So redox state, meaning like
+ how much of our electron carriers that we're going to be talking about, how much H do they
+ have on them versus how much H do they not have on them? So for NAD, which is what we're going to
+ spend a lot of time talking about, we've got NAD and FADH2. NADH and FADH2 are our two electron
+ carriers slash reducing equivalents. Because like we've kind of talked about, like in the Krebs
+ cycle episode, one of the things that we do is as we strip stuff off of food, we are making
+ hydrogens. And instead of having all of them coupled directly to the electron transport chain,
+ we have to move them. It's sort of like currency. It's literally like currency. Like you can think
+ about it like you don't go to the grocery store and say, I worked five hours as a cashier, give
+ me like milk and eggs. They go, they say, give us money. And this is, this is exactly the same
+ thing. So, so even more background on that is we're going to do a quick review. Electron transport
+ chain maintains a pH differential in mitochondria, and this drives ATP synthesis. And if you remember
+ Wattstock 40, it's basically a giant waterfall that happens. So ATP gets used in contraction.
+ Second, various mechanisms work to reconstitute ATP stores, which allows ATP to do work and keep
+ doing work. And one of these things is aerobic ATP generation in the mitochondria via the electron
+ transport chain to keep this differential of protons high driving through complex five. You
+ can all google electron sphincter chain it'll make perfect sense um and so if we didn't do this
+ it would draw down the ph differential across the mitochondrial membrane and that would be bad but
+ we maintain it by consuming the reducing equivalents nadh and fadh2 like using these things
+ literally pumps protons across the membrane like upstream literally upstream like salmon
+ um it's kind of cool so yeah which requires work right you're doing work like you're you're going
+ against what the what nature wants to do basically yeah you're uh you're reversing entropy locally to
+ increase it elsewhere by you like it's like energetically favorable like falling down a hill
+ like it takes work to get up the hill but you could just fall straight down it
+ And that's exactly what's happening is the proton gradient is spinning the ATP synthase, which is complex five. It is spinning like a jet. And it's making ATP every time it spins around. It's literally smashing stuff together.
+ And if you look at the, this is off topic, but if you look at the evolutionary history of the ATP synthase, it originally seems like it started as an ATP, like basically like an engine for like a flagella to spin it around, like by consuming ATP.
+ How fucking cool is that?
+ That's kind of cool.
+ It's like how a generator and a motor are just run backwards.
+ Yeah, exactly.
+ And so one of the reasons that this is energetically favorable, the electron transport chain, is because oxygen has a role as electron slut. And that means it wants electrons so badly, it is willing to wait for electrons to come down the entire chain. And when it makes water at the end of it from oxygen, that is so energetically favorable, that basically is one of the things that drives the entire process.
+ It's called coupled reactions. So anyway, enough chemistry class. Now, we can see that the aerobic
+ supply of ATP is a multi-stage process. And each compartment, as it were, leans on the other one,
+ right? So ATP is one compartment driving the ATP from the mitochondrial electron gradient,
+ or proton gradient, sorry, that's another one. And then there's the reducing equivalence,
+ then there's a Krebs cycle and beta oxidation. And before all that, even there's, you know,
+ glycolysis. So those are each like quote unquote compartments. And we can even think about
+ creatine phosphate. So without reducing equivalence, allowing the electron transport
+ chain to pump protons across the mitochondrial membrane, the pressure exerted by this pH
+ differential would dissipate like letting the air out of a balloon, like we've already said. So
+ that would mean that we wouldn't be able to spin complex five to make ATP. And the demand for this
+ proton gradient, um, is basically what's keeping us alive. So that's good. Yeah. And some of the
+ experiments, by the way, that I looked at prepping for this episode are crazy. Like I'll tell you
+ about it when we get to the kind of the talking about the experimental methods section, but
+ they make perfect sense once you think about it in this way, that like we would die without this.
+ So this really, pumping the protons across the mitochondrial membrane,
+ this is the heart of what we call redox demand. So reducing equivalents are produced in the Krebs
+ cycle and the beta oxidation of fatty acids to pump protons across the membrane so we can keep
+ this quote-unquote balloon inflated and spin the atp uh generator so is that a pretty pretty good
+ way to summarize it yeah yeah i just think of the meme of like money printer go brr you can just do
+ that should make that the image thumbnail for that anyway um yeah basically you you take it
+ we're taking advantage of a of a great it's it's it's i think we said this in the in a previous
+ episode too it's it's like pumping water up into a water tower when you have enough water and enough
+ electricity and power to do that. And later the water is up there and uses all the potential from
+ gravity that you've already put in to then flow out of the water tank. Yeah. Yeah. I think that
+ was your metaphor actually. And that was a good one. So, um, so we're going to leave it there
+ so I don't muddle it. Um, and, uh, so let's think about redox state and redox potential for a second.
+ Now, this is the, well, if you remember energy state, like we've discussed many times with ATP and ADP and AMP, the ratio of ATP to ADP is what's called the energy state for short.
+ So referred to this many times. So the energy state gets detected by proteins in your cells,
+ because ATP, ADP, and AMP act on these proteins in very different ways. They have a regulatory
+ effect. So if things are chill, we're chill. But if things are not chill, we have a lot of AMP
+ building up. Something like the AMPK protein, like we discussed a couple of watch docs ago,
+ becomes very active in different ways, and AMPK detecting AMP, ATP, et cetera, et cetera. So they
+ have a regulatory role. We can do the same exact thing with our reducing equivalents, NADH and FADH
+ too. And we're mostly going to focus on NADH in this episode because that's where most of the
+ experiments have been done. So NAD and NADH. Now the ratio of the reduced, so the NADH versus the
+ non-reduced, the NAD+, this ratio can be called the redox potential or the redox state of the cell.
+ And just like the ATP and energy state, if you get that one concept on energy state, you've got
+ redox state and redox potential. So the ATP energy state, by the way, needs to be retained somewhere
+ for a free energy around minus 60 to minus 70 kilojoules per mole. So Kyle, explain the negative
+ number and why that's good. So some of this gets confusing, just the way that people like to define
+ energy, like, oh man. So I think the big, the big take home is that the energy is always
+ relative to something. So you have to define what zero energy is. And then once you've defined what
+ zero is kind of like when you have a, an X, Y grid, a coordinate system, you have to define
+ the origin. And so in this case, for various like historical reasons, and also because it tends to
+ make some calculations easier, a lot of times you define zero energy as being something that's like
+ infinitely far away in your theoretically infinitely large space or whatever. And so then
+ everything that's less than that is actually negative energy like obviously because energy
+ you lost me i'm right here with you but you lost me basically you just need to find an origin
+ somewhere and the historical choice is that the values that you typically see for things like
+ energy state for things like free energy all this stuff is a lot of them are negative and that's
+ just a choice of convention let's yeah okay so what i was hoping you were going to say is that
+ negative means it has more ability to do work because i see in a way you know the negative
+ number means it can actually donate work and the positive number means it's going to absorb
+ something like if you've got something with like like a reaction for instance of like you know if
+ we're going to split um you know water into hydrogen and oxygen it's going to consume energy
+ So that's going to be a positive thing. And if we're going to, you know, turn, you know, everything, you know, random hydrogens in the cell into water with oxygen, like that's going to give away energy. It's energetically favorable.
+ I see. I see. Yeah. But sometimes that gets confusing though, right? Because people will say, well, if it consumes energy, shouldn't it be negative, right? Like it gets a little strange there just because you have to talk about, you know, you're gaining or losing energy between one state and another, but that energy value has to be relative to something, right?
+ Right. I think that's a little beyond our ability to explain at the moment. Well, mine anyway. So let's talk about what the redox potential in a cell needs to be. So for like redox potential for NAD and NADH, like we're looking at negative 320 millivolts.
+ So another thing-
+ That's actually like-
+ Yeah, it's not small.
+ Yeah, it's interesting because, you know, people are probably most familiar with volts like out of a primary battery, right?
+ Like a AA or a C battery or something like that.
+ Or you're used to these days probably more like five volts coming out of like a standard USB port.
+ But this is a, you know, you can go to Home Depot and spend 20 bucks on a multimeter that will register, that will be able to measure millivolts.
+ So 320 millivolts is actually relatively large.
+ Like we've been able to measure millivolts for a long time.
+ Yeah, a third of a whole volt.
+ Yeah.
+ So that's where we are trying to stay.
+ And so one of the things that's really cool about this in ourselves is that we have proteins.
+ And really, this is just another kind of convention, another way to look at a reaction's energy.
+ So I usually just think about free energy because I come from chemistry.
+ And I was always a little weak on electrochemistry, and this is electrochemistry. And so it's just another way to think about if you make a circuit with this reaction, like what is the electron flow going to be like? That's really all this is saying.
+ Yeah. And free energy is the energy available to do work. So if you have a system that you're considering, free energy is the amount of total work that you can extract out of the system.
+ Right. So minus 60 kilojoules, minus 66, 70 kilojoules per mole for ATP, that's the free energy available to do work per 6.02 times 10 to the 23, right?
+ Yeah.
+ Numbers of that molecule. So this is another way to look at it for NADH.
+ And so when we, and this, by the way, confused the shit out of me when I was reading papers on it going, oh, well, this happens.
+ And so the redox potential goes, is reduced.
+ And I'm like, it goes down?
+ Wait a minute.
+ They meant it got more negative.
+ And once I got that, I was like, oh, this makes perfect sense now.
+ Finally, because I forgot my electrochemistry.
+ So really, what we're going to talk about today is we're going to talk about just the ratio of NAD to NADH. We're going to talk about what's not reduced versus what's reduced. And that is all we're going to think about because this is how our cells look at it.
+ Our cells aren't sitting there with a voltmeter, sticking voltmeter in themselves and going,
+ oh, what's my redox potential today?
+ It doesn't do that because we've got NADH and NAD floating around.
+ And any protein, any enzyme that needs to detect this because it has an effect once
+ the redox state goes up or down, it's going to react to either NAD or NADH or both.
+ And so for the proteins we're talking about today, it's mostly going to react to NAD,
+ but we need to think about what's happening to NADH also.
+ So this is all critical information for a cell anyway, just to stay alive.
+ Because remember, what happens if the redox potential goes to zero and it has no ability
+ to do work?
+ Your proton gradient and the mitochondria collapses, ATP can no longer do work, and
+ the cell dies.
+ RIP.
+ And the thing is, like, if you Google stuff, if you like look on PubMed for any of this, you're going to find that redox state of the cell has a lot to do with apoptosis, with biosynthesis, with disease states.
+ It is a really kind of like a multifaceted aspect of cellular health that has huge implications.
+ And people are just, you can get a PhD just looking at like NAD, like salvage pathways.
+ You know, like there's so much information on it out there now compared to, you know,
+ maybe 30, 40 years ago, people didn't really consider it was that important previously.
+ So, so the cell needs to know this information because it's absolutely critical. But during
+ exercise in the electron transport chain, we have massive electron throughput. And this is what I've
+ been calling redox demand. It's how much, how many reducing equivalents do we need to pump through
+ the electron transport chain to maintain that gradient to keep making ATP so we can keep
+ exercising. That's what it's all coming down to. So that's why reducing equivalents are just as
+ fundamental to ourselves as ATP. And I would argue more fundamental. Would you agree with me or not
+ on that or not, Kyle, do you think? Yeah, that's an interesting take because it's like the thing
+ that enables the cells to have ATP
+ and to exist in the first place?
+ I guess it's maybe like a chicken and egg thing.
+ You know, what's more important?
+ Having the thing that you need to stay alive
+ or the thing that you need to stay alive?
+ Yeah, it's like, what's more important,
+ the car or the gas you put in the tank?
+ Right, yeah.
+ Or I guess for us,
+ we would probably want to look at an electric car
+ and the potential for the battery to do work.
+ That's a little more parallel to what we're talking about today. So typically in a cell, there's a lot more NAD, NAD plus that is, than NADH. Because what happens like in a cytosol, if you run out of NAD, glycolysis can't happen.
+ because glycolysis, one of the byproducts is NADH. And so if we are like sprinting, for instance,
+ we are going through a massive amount of glycogen and glucose, and we need NAD to run that reaction
+ forward. Otherwise we would run out very, very, very quickly, very quickly indeed. So when we
+ exercise the ratio of NAD and NADH in the cytosol and the mitochondria, presumably the nucleus too,
+ all that stuff, it changes. And depending on how hard we're exercising, it's going to change at
+ different rates, and it's going to have different demand at different compartments. So we are using
+ NADH consistently when we're exercising. And so the more we use it, the more it's generating
+ NAD+. And so this is more like in the mitochondria when we are propping up our mitochondrial membrane
+ gradient, we are consuming a ton of NADH and FADH2. And so the breakdown pathways that we use
+ generate the reducing equivalence to kind of keep this thing up. We prop it up. And otherwise,
+ like I said before, the, if it all got used up, reduct potential goes to zero. Um, so, uh,
+ I've got a couple more notes on this. I, we may want to skip this, um, cause we kind of have
+ talked about it, but, um, actually no, let's talk about this one. Yeah. One more little example to
+ kind of explain this. So for NADH, for instance, if we have a regular ratio of NAD to NADH
+ with a lot more NADs, if we start consuming NADH, we generate more NAD. This decreases
+ the electron donation potential and the cell has to rescue it. And vice versa, if we are
+ resting, and we have an excess of NADH, the electron donation potential, the redox potential
+ is going to, well, I was going to say like, because the redox potential gets lower, but that
+ increases the ability to donate electrons. And that means we're fat and happy. But if we've got
+ excess NAD, that means we are exercising, or this is where we start to tie it into nutrition. It
+ means that we are in a caloric deficit. And so to generate redox potential, we have to eat food
+ and rest. So yeah. So does all that make sense so far in terms of like ratio, you generate more NAD,
+ while you're resting and you have greater potential to donate electrons and vice versa,
+ when you're exercising, you're reducing it and the cell has to continually rescue the redox
+ potential by turning stuff through the Krebs cycle and beta oxidation and all that.
+ Yeah. So you can, you can, that makes sense. Like you're, it's kind of this tricky thing
+ because you're, instead of having a, you, you have this, this sort of convenient
+ way to signal to the cell, right? That you need these, you need more food or you need to rest or
+ whatever, right? Because instead of, instead of you taking a volt meter and being like, oh,
+ this potential is low. Hey, someone tell, you know, I don't know the bloodstream to supply
+ food. You're, you're, you're measuring your, the, the lack of potential is doing the signaling
+ on its own, right? Like it's not like you have, you're sort of removing, you're being efficient
+ and you're removing a layer in there. And so it is, it is kind of slick that your, your body is
+ doing this, like telling yourself that you need to rest or recover or, you know, need more nutrients
+ by just the fact that exercise and existing consumes ATP. And then that drives the condition
+ of the cell in one direction and then your body is constantly trying to work to keep your cells in
+ something resembling i won't say exactly homeostasis but something resembling equilibrium
+ here um i think homeostasis is a good way to put it because there's always something going on because
+ if you just exist you know entropy is going to get you stuff is molecules are moving like they're
+ bumping into each other like this you know they're breaking down and so just that's why you've got a
+ like basal metabolic rate. You are not in like cryostasis, like you're just like waking up in
+ the first alien movie. You know, it's like you are like in a state of constant actual,
+ when you're sleeping, you're in a state of constant metabolic flux. So yeah, it is trying
+ to maintain homeostasis, but yeah, you're right. It's, it's a very strange homeostasis because
+ stuff's always happening. You're always trying to, you're always generating heat. You always need
+ food, et cetera, et cetera, et cetera. Your telomeres are getting shorter every day.
+ They are. And actually, the cool thing is that one of the systems that relies on
+ redox potential is telomere repair. And that's only one of them. Antioxidant systems need redox
+ potential to reset. After it's quenched like reactive oxygen and nitrogen species, we use
+ NADH to reset that system so it can go again. And not only that, biosynthesis requires a lot
+ of reducing stuff. And so there are a ton of systems and there are a ton of proteins in the
+ cell that detect this. And they detect it, like I said before, by looking at how much NAD versus
+ NADH is there versus a regular cell. Like, um, it's therefore really, really, really
+ good evolutionary design, I guess we could say to use redox state as an aerobic signal.
+ So why does this make sense? Cause it's not only keeping you alive, um, but it's also one of the
+ few reliable signals in the whole chemical chain that says reliably, we are exercising.
+ Because you'll not only always need ATP, you're not only always going to have calcium flux for
+ exercise, you are always going to need reducing equivalence to make ATP, always. And so as we get
+ better aerobically adapted, we get better at maintaining energy state, you know, ATP stores
+ being nice and high. And, um, you know, we see that with greatly reduced AMPK activation with
+ more training, um, refer to watch stock number 45. And as we all know from experience, you can't
+ train at a super high intensity every day to always activate the shit out of AMPK. And so
+ what do we have left? Calcium, uh, signaling contraction, we've got, you know, stress like
+ MAPK, P38, and we've got redox demand and redox state. And so as long as our muscles are contracting,
+ we're consuming ATP, even with excellent maintenance of energy state, we are never
+ going to maintain this proton gradient in the mitochondria. And how do we know this? Because
+ consuming oxygen is basically what maintains this gradient and our ability to generate ATP.
+ And nobody is so well trained that they just don't consume oxygen while they're riding,
+ even at low intensities. Like there is a linear relationship of somewhat linear relationship
+ between the exercise intensity and oxygen consumption. And so you can get better at
+ maintaining energy state, but you are still going to consume roughly the same amount of oxygen for
+ whatever workload you have. If you're riding at a hundred Watts and you are, you know, consuming X
+ amount of oxygen, a couple months later, you've got more mitochondria, you can better maintain
+ your energy state, and you've got better fatigue resistance and endurance, you are still consuming
+ the same amount of oxygen, because you still got to prop up that ability to generate ATP.
+ So how cool is that? Like, we never escape the need for reducing equivalence.
+ Yeah. I mean, you, you're like, you have to exist. I don't know. Like, uh, I, I, I mean, it might be really convenient actually, if you had a, like a, effectively, like you said, they fed like a BMR of zero where you just, you just don't need, you don't need anything else.
+ except if you're moving around like, oh, I, if I just lay here, my grocery budget goes way down.
+ If I, if all I do is sit, um, although even there, it's not necessarily even, uh, it's interesting.
+ I wonder, I wonder, you know, you are here, we're talking more about contracting muscles and things
+ like that, but your brain also consumes a lot of ATP thinking and reading and doing a lot of stuff
+ too. So, yeah. So, um, and so because of all this stuff and ourselves detecting redox state by
+ looking at NAD and NADH and all that stuff in order to stay alive, basically. For aerobic
+ adaptation, so let's bring it to the next logical step. Now, for aerobic adaptation, we have a
+ certain class of proteins that detect redox state and that react to redox state in the form of an
+ adaptive signal. These are called sirtuins. What the hell is a sirtuin? I know. I ask myself the
+ same question still every day. I'm like, why did they name it like this? Like, if you look at
+ apoptosis, you're going to look at proteins like Reaper and death and like cool names that are
+ like, yeah, okay. You, all right. We're going to, I forget how it all, the signaling pathway works,
+ but it's like, okay, we've activated Reaper. The cell's going to die, right? Yes. The cell's going
+ to kill itself. The apoptosis is done. Makes sense. SIR2N is short for- Is that like a 2N
+ that's been knighted? Is that what it is? Yes. SIR2N, SIR Lancelot 2N of Shaftesbury.
+ No, it's actually short for Silent Information Regulator 2 or SIR2, S-I-R-2, which was originally
+ studied in yeast sir to sir to win and so hold on there's more steps because we now need to name
+ them like there's one through seven right so so they're all related in a family we've got seven
+ of these are called homologues so the full and proper name of sir lancelot toon is silent
+ information regulator to homologue one up to homologue seven known to all their friends as
+ cert i was gonna say the existence of a sir to it implies the existence of a sir one in and maybe a
+ sir three in four in um yeah i mean sir four in sounds different i don't know sir foreign oh yeah
+ i like that i think i i think i had a sir foreign when i was in high school i uh i think it was a
+ Fondo-Surforen. That was a terrible joke. Sorry. So one of the things about this is that
+ this is this area of very, very, very active study. Like AMPK is kind of really well studied
+ at this point. CAMKs for calcium are really well studied at this point. P38 MAPK, not as well
+ studied the active area. This is an extraordinarily active area of research. So CERT1 and CERT3 are
+ the two most studied, but there is a little bit of weirdness in the literature. And Kyle will tell
+ you how many papers I read for this thing. I don't know. Dozens. Dozens. Like down at the bottom of
+ notes. I, I not only cut out like probably three pages of notes from this podcast that I had
+ written and I was like, ah, this doesn't work here. Um, and I, I also just put down the references
+ that I thought were useful. And right now there's like 30 down there. Um, and it's a fraction of
+ what I read. So, um, so one of the, so some of the stuff I'm going to say right now is a little
+ bit under debate. So like SIRT1 generally is implicated in caloric restriction. It's found
+ in the nucleus along with 6 and 7. Localization of this is also under debate. So it may not just
+ be like the cytosol and nucleus for SIRT1. SIRT3 generally implicated in exercise. So SIRT3, 4,
+ 5 are in the mitochondria, possibly elsewhere, under debate. SIRT2, cytosolic, if you're wondering
+ about our straggler. And the weird thing is like cert one has also been studied, not only in
+ relation to caloric restriction, which we'll talk about in a little while, but it's been studied in
+ relation to exercise. And so cert one, cert three, like it's, we're all just, we're just going to
+ pretend they're all about the same right now, because we really don't have the information
+ to say much more, and they all lead to the same place, PGC1-alpha and gene expression.
+ And we're going to talk about why it's expressed in caloric restriction in a little while,
+ but right now we're going to talk about exercise because that's really what we're all about,
+ but I really want to tie this into all the other stuff. So sirtuins react to redox state in a very
+ similar way to how AMPK reacts to ATP levels. So they sense a redox balance in their respective
+ in their respective cellular compartments, wherever they may be. And they take action to
+ turn that signal into something useful by doing what's called the cellulating various other
+ proteins, which amplifies the signal. Um, and this is the way that the, uh, the protein can
+ quote, quote, know the redox state and take action. It looks at, um, we'll talk about the
+ mechanism in a second. Uh, but we're gonna need to know this to understand our study. Um, so
+ the adaptations that we get based on the cell's redox state, remember, all adaptations are either
+ meant to, you know, kind of repair what's the damage that's been done or to future-proof
+ our cells against the stress that they just saw themselves undertaking, right? That's all of
+ aerobic adaptation. We are stressing these cells in a certain way. They're going to get better at
+ doing xyz so all that makes sense so far yes and you think about it that's that's useful generally
+ for even if you're not exercising if you're ancient humans running away from i don't know
+ saber-toothed tigers or whatever you if you survive the first time you want to make sure
+ that it's easier the next time yeah i don't have to run away they were running away screaming going
+ oh i'm getting some really good miles in i hope i don't get eaten i want to finish this run and
+ log it on Strava. Right. Yeah. Did not happen. Um, so let's take a look at what happens during
+ exercise and kind of talk about how the, um, how this all gets translated and talk about our,
+ our main study, which we'll look at very briefly. It's, uh, it's a cool study, but it's, uh, had a
+ lot of parts and we're going to just talk about a couple of them. Um, so using our, um, ATP analogy,
+ the ratio of useful stuff is different right so there's a lot more ATP in a cell than ADP and AMP
+ by like many many orders of magnitude like five six seven something like that I forget exactly
+ NAD and NADH are actually the opposite so NAD the potential the version that does that doesn't have
+ any really useful ability until it gets an H on it, outnumbers NADH by a lot. The cytosol,
+ it's about 700 to 1 is an estimate, somewhat reliable estimate, but obviously we'll talk
+ about how difficult this shit is to measure in a second. And in mitochondria, we're looking at 6
+ to 1. And I thought that this was interesting enough to consider. Because one of the things
+ in a lot of studies that look at muscle biopsies with exercise and NADH and NAD levels, they're
+ looking at muscle homogenate. And so they're taking the entire muscle, they're literally
+ putting it in a blender, like you're making a margarita. And they're looking at how much NAD
+ and NADH do we have. And the ratio is typically about 300 to one. So we're just about averaging
+ 700 to one and six to one. But back to our analogy, like AMPK, sorry, like AMP activates AMPK,
+ like more NAD plus activates sirtuins, but ATP serves to inhibit many enzymes that AMP activates,
+ but NADH does not seem to inhibit sirtuins except at really, really high levels in some experiments.
+ So we don't really have to think about the amount of NADH that we really have for aerobic adaptation.
+ We really just need to think about how much NAD plus are we generating due to our draw on NADH.
+ So when we're exercising and we activate proteins like SIRT1 and SIRT3, we can be sure that NAD plus is increasing in the cell because SIRT1 and SIRT3 are getting activated as we exercise. And unfortunately, this is the most accurate way we have to know that NAD plus increases during exercise. Kyle, please explain how nuts that statement is.
+ I mean, it always reminds me, right, like measuring a lot of these things is very hard.
+ Like we don't, it's one of the reasons why I would say advances and measurements in like bio and biochemistry are so hard.
+ is because directly getting into those cells
+ to measure these things is extremely difficult,
+ if not an impossible, if not one of those things
+ where if it's not impossible
+ and if it's not extremely difficult,
+ it's one of those things that's really painful
+ or something like muscle biopsies,
+ where you're just like, oh, how do we get these people
+ to volunteer to us?
+ To volunteer the core samples of their muscles.
+ Yeah, like stab them with needles while they exercise, right?
+ Really big needles, yeah.
+ You're gonna do a ramp test
+ and we're gonna stab you repeatedly.
+ We're going to make you suffer on a bike, but we're going to give you some food and encourage you at the same time.
+ That'll make up for it.
+ And maybe we'll give you 50 bucks.
+ You're right.
+ Yeah, exactly.
+ And so, yeah.
+ But for something so fundamental to the health of a cell, it's so difficult.
+ Ironically, it's really easy to measure too.
+ So, because I really want to show people some numbers on this, and I cannot, because, you know, I've done this in lab back when I was doing biochem. If you want to measure NAD and NADH in a tube, here's something that is really easy. NAD passes through light at 340 nanometers. Like, it just goes straight through it. NADH absorbs it.
+ And so you can track reactions that are coupled to NAD and NADH by just tracking absorbance at
+ 340 nanometers. It's so simple. And it's also, infuriatingly, virtually impossible to watch it
+ change dynamically in the cells, like quantitatively. It's an area of very active
+ interest. There are cells being made that have, you know, like cells grown in lab that have
+ reporters of cellular energy state, or not energy state, redox state. But like, we've got to,
+ we can't just like look at the cell, like pulling them apart is difficult. And separating them out
+ is also difficult. And keeping them in the same metabolic state is like, damn, you're impossible.
+ So it's really hard, but we have approximation methods. So fluorescent reporters are commonly
+ used in assessing NADH dynamics in isolated or cultured tissue. So the downside here,
+ of course, it's imprecise. It's not quantitative. And we don't really know how the redox state
+ changes in terms of like, we get more, this much more, that much more, like blah, blah, blah.
+ All we see is that we can do it qualitatively. So NADH also not only absorbs 340 nanometer light,
+ it emits fluorescence if you hit it with other types of light, other lights of light. And so
+ that way you can watch the redox state change in some cultured cells by watching the fluorescence
+ change when you add or subtract certain things. But the downside is a lot of the time we can't
+ watch cells contract repeatedly in solution like this, right? If you've got like, if you got like
+ muscle cells, like what are you going to do? Like, you know, put in calcium and then take
+ the calcium out of solution like that. It's difficult to do. So one of the cool things here
+ is that early but somewhat cruel experiments done on, of course, small rodents, thank you for your
+ sacrifice, rats and mouse, um, they're watching their organs get oxygen starved means fluorescence
+ was spiking because NADH was backing up. Why? There's no oxygen. Yeah, that makes sense.
+ And this is one of the reasons that like, if you're like, if your brain is deprived of oxygen
+ for not very long, you can die because it doesn't take long for everything to back up in the cell to
+ just like stop functioning. Like it's literally like that close to keeping us alive. That's how
+ fundamental this stuff is so anyway that's a downer uh let's keep going so during exercise
+ uh well i mean well of course why does this happen because the electron transport chain stops
+ there's no final oxygen like for the final acceptor to make water so the nadh all backs up
+ right yeah you you we and we've talked about this before like the real reason the utility
+ and inhaling oxygen and exhaling carbon dioxide and water.
+ Utility, I love that.
+ It's so fundamental to being alive,
+ and it's useful, utility.
+ So, well, during exercise,
+ that's why we're continually consuming oxygen, like we said.
+ So we're drawing on reducing equivalence constantly.
+ And this is so difficult to measure.
+ And this is one of the reasons I said before
+ that sirtuin activation equals more NAD
+ plus from NADH consumption. And I've got two references in the show notes at empiricalcycling.com
+ if you want to check it out. If you want to do some further reading, I'm pretty sure that they're
+ open text, but they're like, you know, somewhat recent reviews. And one of them is a recent review
+ on NAD and NADH adaptation to exercise. And another one is just on the process of,
+ and the experiments done using NADH fluorescence, you know, over the last like 50 years that it's
+ been used. They're really cool reads, but they're way beyond what we're trying to do here because
+ right now I'm just annoyed by the literature on exercise and sirtuins completely because-
+ Sirtuins. Yeah. I'm so sorry, sir Lancelot tuin. But no, seriously, every study looks at protein
+ or mRNA expression. And I found like one that looked at activation of SIRT1, like one, just
+ one. It's probably- Uno, one. One study, Kyle. I don't know this, but isn't it not easier to look
+ at protein concentrations and things like that, actually to take the measurement, right, that's
+ easier. Yeah, it's so much easier, I know, but the title of this paper that we're going to talk
+ about will tell you why that that's not important. It says, the title is Nuclear SIRT1 Activity but
+ Not Protein Content Regulates Mitochondrial Biogenesis in Rat and Human Skeletal Muscle.
+ Fair. I mean, this is not, it's not unlike when you talk about measuring lactate as a proxy for something else, right?
+ True, yes.
+ Just, you know, throwing that out there. It's easy to measure lactate. That's why we do it, right? It's easier to measure protein.
+ Lactate is used as a substitute, like an approximation method, like fluorescence, for cytosolic redox state.
+ But when we're exercising, we're really looking for mitochondrial redox states, especially at low intensities.
+ At high intensities, of course, yada, yada.
+ But anyway, the whole thing is complicated.
+ Like we can barely – like there's like an NADH transport system between the cytosol and mitochondria.
+ So when the cytosol generates extra NADH, it should get transported to the mitochondria, right?
+ Right?
+ We don't know.
+ We don't know because it's so hard to measure. It's so frustrating. Presumably it's consumed.
+ The shuttle exists for a reason, right? But nobody entirely knows why. It could also be that when
+ the mitochondria generates extra NADH, you can efflux it out into the cell for other purposes.
+ So it's hard to measure. And I'm frustrated by literature because of this. And this paper that we're going to look at about SIRT1 activity came out in 2011.
+ And by the title, you can tell that up to that point, the amount of a certain protein was debated as a potential for a stronger signal.
+ And this study showed that that's really not the case.
+ And this is something that we see with like AMPK and everything like that, PGC1-alpha, potentially debatable.
+ We're going to probably do that next episode.
+ Um, and a lot of the time, it's not just how much of this protein do you have?
+ Because let's say we have like, I don't know, we have like 10 or a certain number, a small
+ number of, um, like NADs in our cell and we increase it by one, like how many extra proteins
+ do you need to detect that increase?
+ Or do the proteins that are there, is it that sufficient to translate that signal into adaptation?
+ It seems like the amount of extra that you get is not really that important.
+ However, there is something that we're going to get to about this in a little bit, but
+ I want to get to this experiment first before we talk about why generating these proteins
+ is important, because it is important for sure.
+ It's not like we can just go without generating new SIRT1 proteins.
+ So we'll talk about that. That's kind of our finale. This paper did a couple of cool experiments. We're only going to look at two. They had female rats run on a treadmill for two hours at a moderate pace. I think it was about 15 minute miles, which is pretty moderate pace even for me right now. So I might lose a race to a rat.
+ I mean, rodents are built to run though. I mean, anyone who's ever had like a hamster or a gerbil
+ or a rat mouse, whatever, they run for hours and hours and hours. True. Yes. All the time. Like
+ they love to do it. It's a good thing. Right. Yeah. So after, and that's one of the reasons
+ that like rodents are used for these studies a lot because they do love to exercise. So
+ I actually feel bad every time they have to have a control sedentary group of mice because I'm like,
+ I bet they're so bored. So they had these female rats run on a treadmill for two hours on a moderate
+ pace. And then they increased the pace every five minutes until the rats stopped running.
+ So they got tired and they were like, yeah, that's enough of that. So then they took the
+ gastrocnemius, the calf muscle samples, both immediately afterwards after the running and
+ three hours after that also. And what they found was the rats had elevated SIRT1 and PGC1-alpha
+ nuclear activity because they have to go to the nucleus to do their thing um and it was
+ increased immediately after the exercise but increased more after the three hour mark
+ cool right yeah like you're chilling and this thing this thing is there's more signal how cool
+ is that resting you're resting and you're the signal is continuously anyway so you get it so
+ they also did human testing. They did four women and three men. I like this to study for that
+ reason, like the poor female rats, but also they got some females in the human testing too, which
+ is great. So they did, you're going to love this 10 by four minutes at 90% VO two peak with two
+ minute rests. Oh, wow. Yeah. Kind of, kind of hard work. Um, they did this seven times over two
+ weeks. So like one day on, one day off, et cetera, et cetera. So not as bad as some of the overtraining
+ studies that we've seen. Sorry, that just makes me... Every other day for two weeks, how many
+ workouts is it? It's a classic like bodybuilding.com forum thread. That's very true, yeah.
+ This is a deep, deep, deep cut internet reference here. But yeah, if you know, you know how many
+ days in two weeks this is where we learned that kyle is way more on the internet than even i am
+ um so what they did was uh with the human testing uh four women three men 10 by four minutes at 90
+ percent vo2 peak two minute rests uh seven times over two weeks uh they did biopsies both at rest
+ and they also did 48 hours after the final vo2 peak test uh because they of course do the ramp
+ test before the experimental protocol and afterwards. And they saw, again, the same
+ increased nuclear PGC1 alpha and SIRT1 activity after the exercise bout. So not only did they
+ respond to the exercise, of course, but it's more active still like 48 hours after the final VO2
+ peak test, which is pretty cool. And so that's all great, but that was all exhaustive exercise,
+ right? So what about not exhaustive pace? Well, they did an experiment without rest,
+ like at all. So they took rats and they chronically stimulated one of the hind legs
+ of the rats and they had an electrode that zaps the nerve on the rat leg
+ at a certain pace 24 hours a day for seven days
+ huh and this is actually a somewhat common experimental protocol for this kind of stuff so
+ um this is the first time we've been on the podcast so sorry if it's upsetting it's like um
+ I think, I mean, this is a sort of origin.
+ Maybe you remember these things, maybe not.
+ But do you remember those like, they were really popular in like the late 90s, early 2000s infomercials, like those ab belts that you would, oh, you get a six pack and like, you know, like one hour a day for a month if you just wear this thing that would just gently zap your abs to contract involuntarily while you sat on the couch like eating donuts, watching TV.
+ I mean, aren't there, what are those things called? Tim's units or something? Tems?
+ Yeah, yeah, Tems, T-E-N-S.
+ Oh, that's it, yeah.
+ It was like the, yeah, but this is like specifically sold to go around the abs.
+ Yeah, well, this one was specifically like a poor rat hind limb. And so, of course, this can't be like maximal activity because it's happening at a low level for literally a week straight, these poor rats.
+ So they had a massive increase in nuclear SIRT1 and PGC1-alpha activity versus the control, the sedentary controls.
+ So there we go.
+ Sirtuins turn redox stress of aerobic exercise into an adaptive signal.
+ So we've now shown this with this experiment.
+ And I spent so long looking for this experiment.
+ Thank you to the authors for doing it.
+ So you're telling them that they need better keywords on PubMed?
+ No, because most experiments just look for mRNA increase.
+ You know what I mean?
+ And here's the thing about those signals.
+ It's like, okay, we might see a better increase in protein synthesis or a better increase in mRNA after exercise for this protein.
+ That doesn't mean it's turned into a signal at all.
+ Like you might need to multiply, it might be like, okay, you got five times more mRNA transcription after this exercise versus control group.
+ Cool.
+ It might be that we need like 100 times or 300 times more to actually make the increased protein meaningful to the cell.
+ Like overexpression studies are a thing too.
+ And when you overexpress a lot of these stuff, like way past physiological levels, that's when a lot of the time, yes, we see ridiculous, whatever, mitochondrial density adaptations or something.
+ But a lot of the time with these experiments, like I saw a review going over these experiments and I saw the one, I saw this one in there and I was like, ha ha, yes, measured deactivation.
+ at every single other one, it was like mRNA or protein content, mRNA protein content, mRNA and
+ protein content, mRNA protein content. Like this was the only one I found that really measured the
+ actual cert activation. Um, so any thoughts here before we push on to understanding the signal?
+ Um, yeah, I mean, I guess this is like, I always wonder, obviously we love animal models for things. Um, but yeah, I'm always curious how this, how the animal model works. Especially for something like this, where it is like, uh, it is kind of like exercise. It's not really like exercise, you know, just because when you're voluntary, voluntarily, involuntarily having muscles contract, right.
+ You don't have the rest of the signaling, like the cardiovascular demand that you would have if just your leg is contracting.
+ Well, I mean, that's why like AMP homologues, like I think what's it called, ICAR or something like that, A-I-C-A-R, like that's a chemical that basically mimics AMPK in cells and activates AMPK and all that kind of shit.
+ And people, you know, if you read some clickbait articles and some people who don't understand how exercise works, they're like, oh, this is great.
+ This is our exercise in a pill.
+ And you'll see a lot of news articles about this that are like eight times removed from the actual scientists doing the research who are like, no, no, this is not exercise.
+ I suggest people look up an article, I think it was by Glenn McConnell, called Exercise.
+ It's the real thing with an exclamation point in the title.
+ And Kyle, tell me, how often have you seen an exclamation point in the title of a peer-reviewed journal article?
+ Not often.
+ Not often at all.
+ Sometimes people work them in, like, acronyms and names of things, but yeah, rarely is it actually used.
+ But also, the ICAR is formally banned by WADA.
+ So even if you thought that you're like, oh, man.
+ Also, don't go around, like, trying to buy iCar because, you know, I'm sure you can find some websites out there selling interesting bathtub compounds that will claim to be iCar.
+ Only bathtub compounds you should use is bubble bath.
+ I don't know.
+ Is that a thing anymore?
+ Anyway.
+ Yeah, what's your favorite bath bomb?
+ Do you have a favorite?
+ Yeah, that joke's just bombs.
+ Anyway, let's push on over my bombs.
+ Um, so let's talk about understanding our aerobic signal.
+ Um, okay.
+ So my thought here is that when you think about adaptation, think about the signals
+ that tell the cell it's exercising and spur it into action like calcium, that does our
+ signal to contract energy state, ATP, redox, and ADH.
+ These are all reliable signals for adaptation.
+ So if anyone tells you it's carbs and fat, feel free to ignore these folks. I have been all over the literature so far. I've clearly not read everything, but there's zero in the literature so far that says you get better at, you know, you get better endurance if you switch to a keto diet.
+ And the Burke studies on racewalkers really, really clinched that one for me.
+ If it were going to happen, it would have happened there.
+ And we've seen it repeatedly with studies on actual adaptive signals and yada, yada.
+ Anyway, because to me, it's bad and inflexible evolutionary design to make a signal rely on a potentially changing source like nutrition.
+ Totally, yeah. If you're an ancient human and you're a hunter-gatherer scavenging, who knows, right? You've yet to develop just having a field of potatoes that you can constantly just pull from, right?
+ here. Yeah. And like you could have an evolutionary pressure to need to perform endurance exercise
+ in a diet with a fuck ton of carbs. And you can also have the need to perform heavier explosive
+ exercise without much, many, many carbs at all. Like it's, we are so flexible with this stuff.
+ Like that's, um, I heard somebody say this recently that, that, um, that the main thing
+ that humans are is adaptable. And I loved it. I was all about it, full buy. And I'm like, yes,
+ adaptable. We are adaptable. I'm in. Because the origin of these signals goes way, way earlier than
+ humans also. Like sirtuins were first discovered in yeast. Okay, short so you carry out whatever.
+ But sensing redox state and energy state, this happens in bacteria and archaea too. This is so
+ fundamental to life that why wouldn't it be a signal? It's like, it's, it's, it's so multifaceted.
+ And it's like, if you are going to be, um, you know, it's, it's sort of like, if you're going to
+ measure, like this terrible analogy, but, um, if you're going to measure the, how much gas you have
+ in your car by like measuring the, like how much oil you have in the engine, you don't want to do
+ that right and you also don't want to measure the oil in the engine by how much gas you've got in
+ the tank yeah so like it so this is one of those things like redox state is so fundamental and
+ we're going to talk about how fundamental it is in a second but i want to do a couple things first
+ which is why there's no sense in big braining this with more watts so i'm sure people saw all
+ of this coming a mile away if you've been listening to this podcast for long enough
+ So the mechanism of action here matters because when a muscle returns to a normal state, the signal, quote unquote, goes away, right? And so this means the best way to get more signaling through this pathway is, drum roll, ride more. Okay, yeah, we've heard it.
+ More time, yeah.
+ Yeah, okay, sorry, I know. A million times.
+ I think that's a good point, right? If you want to increase your exposure to signal, typically people think, oh, there are two ways to do it. I either make the peaks taller so the integrated area is more, or I make the curve go on for longer so the integrated area is more.
+ Did you read ahead in my notes? Stop that.
+ No, no, it makes sense. Like people think, oh, maybe if I just do this thing, but harder, it will be a higher peak, right? That's the hope, at least.
+ Yeah. And here's the thing is like the, because to me, I think I mentioned something like this in the calcium episode. Like I think about it like an impulse. Like impulse is like the integration of, well, in physics, you can explain it better than me.
+ It's like the area under the curve of force that you put onto the ground, right?
+ Yes. Yeah, yeah, yeah. Usually you think of it in collisions, right? If you're throwing a ball at
+ the wall, what's the impulse of the ball coming into the wall? And then also, so you have to
+ absorb all of the momentum and energy of a ball hitting a wall and then return it all back as it
+ sends it out. So it's that total, total change. Right. And I think about this in the same way.
+ I think about a lot of things in training and exercise the same way.
+ I think about impulse rather than intensity, especially, well, for some things I think
+ about intensity for sure, but for all this aerobic stuff and all this stuff is like muscular
+ adaptation.
+ We're looking at making more mitochondria and getting better endurance and all sorts
+ of other things that happen in the muscles.
+ And, and I always think about like, what is the signal?
+ and if we can increase the signal by doing what?
+ So if we could increase the calcium signal
+ by contracting harder, okay, all right,
+ but that's not at all how it works.
+ You don't contract harder in a muscle cell.
+ You are contracting or not.
+ It is a binary state.
+ It's one of the few things in biology
+ that is a binary state, really.
+ That'd be funny too,
+ because then if you're contracting harder,
+ that means like, oh, heavy resistance training would be better. And this is not, you know,
+ it's just, yeah. Yeah, for real. Yeah. So one of the things that I always think about too here is
+ where do we get a confluence of all these things? And FTP training, like sweet spot training,
+ threshold training, let's call it, has the highest sustained demand for redox. You know,
+ we don't get a ton of lactate buildup, of course. We have a huge amount of NADH throughput, and we
+ can do this for the longest time at FTP. You can exercise for 30 minutes to like 80 minutes at FTP,
+ right? And the time that you spend at FTP and sweet spot, you can go even longer, right?
+ This matters because we not only have a huge amount of redox demand, we also have calcium
+ signaling and we also get ampk signaling because we are using a lot of glycolysis so energy state
+ in the cell is you know it's being sustained but we are getting some activation because it's
+ somewhat intense exercise and this is all kind of like the main big signals that we have for
+ aerobic endurance training that are happening all at once and this is one of the reasons i always
+ call ftp spicy endurance because we get roughly the same adaptations from like riding easy pace
+ a lot, but we can do it in a shorter amount of time, although there's a lot more fatigue.
+ And so this has to be managed, of course, in, you know, in the real world, but, but in theory,
+ um, you know, there should be in terms of gene expression, there should be a roughly equivalent
+ dose of like threshold training and easy endurance training. Of course, we've got motor units to
+ think about too, et cetera, et cetera. But, um, you know, if we're just looking at a basic
+ muscle cell, uh, you know, this, we can really make a rough equivalence. And I know people are
+ going to want me to put a number on it, but I'm not going to, so sorry. Um, like, oh, how many,
+ how many FTP workouts do I need to do to, to equate to like a four hour ride outside? Um,
+ I don't know. One four hour ride outside. Um, so that's the way I think about it is I'm thinking
+ about how much training are we doing. And so that's one of the reasons I've also kind of
+ come to my typical methodology of training. But I also think about over FTP, right? Like if we go
+ a little over FTP, we're not really increasing the redox demand that much. We're increasing the
+ mpk activation after a while probably kind of a lot but it's that's one of the reasons that we
+ don't get much more uh benefit from riding a little over ftp it's it's not anything that i've
+ ever seen really work that well to like increase aerobic adaptations in terms of this muscular
+ endurance other than i'd rather have somebody do like actually high intensity exercise like
+ instead of kind of going a little over ftp like oh i'm still working ftp i don't want to see that
+ happen because it's barely any more of these regular signals than we get by just riding at
+ ftp and going longer where to me we get a lot more area under that adaptation curve or under the
+ signal curve i guess we could call it so so you're not advocating for two by eight at 110 i am not
+ actually um i'm sure that's a workout that's fine for some folks i'm not the thing is i'm not going
+ to say it's like completely ineffective in all cases because obviously every workout every
+ potential workout philosophy is a tool and we can use all of them. They all have their place. Um,
+ but, um, one of the things I always think about here is like, like with, um, like intensity,
+ because, um, you know, with intensity, you know, we get to VO two max and like, now we have a huge
+ amount of redox throughput, right? To sustain exercise at VO2 max, excuse me. So that's
+ something where that signal might get into larger motor units. And that is something that can matter
+ too. So it's not like just doing FTP training is going to be your answer for literally everything.
+ It's not like you're going to get better at surging when you do just FTP training. That is
+ like leaving a whole dimension of bike racing on the table to that you're not training. If you are
+ just doing steady state exercise, like get into some harder efforts, do some race prep, do some
+ VO twos, like get into these big motor units and you can train them up that this is one of the
+ reasons that if you look at anybody who's been racing for a long time, like they can accelerate
+ a lot for hours and hours, partly because they've had gotten really, really well-trained large motor
+ units and this is one of the signals that happens if you uh in large motor units that you may not
+ get to if you are just training like steady state ftp so this is another aspect of of uh muscular
+ signaling where if you're not recruiting a muscle fiber it's not getting trained
+ so if only you could take something though that would let you just sit on the couch
+ not recruit muscle fibers and then get them trained that's the tree and you know what's
+ weird is like, there is a, like, it's like your muscles being contracted. Like there's some,
+ you know, tension and blah, blah, blah. Like, it's not like the muscles are like totally inert
+ if you're not recruiting them, but it's not like they're really being trained. Um, so all of this
+ is to say more is better. Less is also better. Uh, life is a contradiction. Yeah. Um, well,
+ I guess this is, I guess the last point in the section here is that doing like FTP or sweet spot intervals of the same durations over and over.
+ This is one of the reasons that this stops working as a signal, like pretty quickly, right?
+ It's like, it's like if you do two by 20 all the time, is your endurance getting better?
+ I don't know.
+ Try three by 20 next time or, you know, go easy and do a six by 10 and then a four by 15.
+ Tell me how that works for you.
+ I guarantee it's going to improve your endurance at some level.
+ Guarantee?
+ Oh, those are strong.
+ No, I'm just kidding.
+ Well, here's the thing.
+ It's more signaling, right?
+ And if you've never done that, more signaling, because I cannot tell you how many people I've consulted with over the last couple months, like prepping for next year.
+ Empiricalcycling.gmail.com if you want a consultation, by the way.
+ where I look at their files and the, one of the first things I say to them is you need to do more
+ time for intervals. And you, you also need to sometimes do more intensity for intervals
+ because I'll see something like, you know, two by 20 tempo. And next time they do a tempo workout
+ is two by 20. And the time after that is two by 20 and sweet spot. It's like three by nine or
+ something like three by nine. Come on, give me Rory. When he gives people sweet spot, his first
+ workout to them is two by 30. That's where they start. He's a mean man. He's cold Scottish heart.
+ Um, no, I just think of the thing of the, like more is more, you know, like, well,
+ well in, at certain intensities, more is more. And you've, this is one of the reasons, like we
+ talked about in the AMPK episode, if you were not contracting your muscles harder, because like
+ you're at altitude, you get less activation, your muscles know the difference and your muscles
+ also know the difference in duration too. So you can't big brain this stuff by doing more as more
+ and thinking it feels harder. So it must be better for me. Like if you are not progressing your
+ workouts in logical ways, like we've talked about for years now, then you are actually not getting
+ as much adaptation as you could be. So, and I kind of knew that this was going to happen when
+ we started the adaptation series, I knew that like just about everything that we talked about
+ was really going to support people just kind of doing what we know works and not trying to big
+ brain it. So, um, but you also cannot big brain this with less rest and more writing. So that's
+ why I said less is more. And we're going to talk about why. So Kyle, why do we make more mitochondria
+ with caloric restriction? So why is it that when we are not eating enough food and we're losing a
+ little bit of weight, or hopefully not a lot of weight, that we signal for more aerobic adaptation?
+ Why does our body activate sirtuins like this?
+ Because SIRT1 is typically associated with caloric restriction.
+ That's where a lot of the study on it has been.
+ So why is it we do this when we are dieting?
+ My guess is that the – or I guess guess is maybe not quite right.
+ My, my educated hypothesis is that it is because you have a, you have like this extra, you have extra stress because you're not eating enough, right? Like the, um, the, it's not exactly the same, not eating enough, but you're still limiting, you know, there are two components, right?
+ They go into burning. You need to burn oxygen effectively. You need to burn food. And so you're restricting one of those things. And so not exactly, but similarly to the way it was, you know, as you go through a workout, even if you are well-fueled to start, you will slowly deplete.
+ And then part of that is that toward the end of the workout, like doing sweet spot or FTP workouts, right?
+ Like as you, as you tack on that time, the intervals, the RPE goes up, it gets harder and harder because partially because you are getting lower and lower on glycogen or fat or both.
+ So my hypothesis is that the fact that you're under eating, you're sort of pre-starting in a state that is already like you've completed a few minutes and you're a little tired.
+ That is actually pretty close. So I'm going to put it this way. Nutrient deprivation is redox stress. So during exercise, we experience a draw on NADH due to more utilization. But while we are starving, while we're not eating, we experience the stress because we are lacking supply.
+ That's what nutrients, that's what food is.
+ It's, we are, especially, you know, fats and carbs is,
+ we are supplying ourselves with-
+ It's an econ lesson.
+ The law of supply and demand.
+ I, sure.
+ Well, I'm just saying, instead, in the same way that, like,
+ when you're exercising, the demand goes up.
+ Here, the supply is going down.
+ Well, it's not, yeah, well, it's not like the price of NADH goes up in your cell.
+ It's not like, do I hear minus 330 millivolts?
+ Nobody's doing that.
+ So during exercise, NAD levels, NAD+, the non-reduced version, they increase because we are using NADH for the electronic transport chain.
+ But in energy deficit, we are lacking the raw carbon chains that have hydrogens on them, so we can't make the NADH.
+ So the NAD increase is the same, and this is why we activate sirtuins in a diet. And this means the same, just about the same cellular response to dieting as exercise. And if you look up sirtuins in PubMed, you're going to see a lot more stuff on this than with exercise, by an order of magnitude, at least that's my estimation.
+ So sirtuins detect the stress and they also do things like acetylate Krebs cycle proteins, which increases their activity to make more NADH. So it's weird though, right? Because we don't have a lot of food. You would think, oh, we should probably calm the fuck down in the cell, right? We got to stop making so much NADH. No, this is how critical it is. You will die if you don't do this.
+ And it's making a gamble. Okay, we're going to upregulate how much NADH potential throughput
+ that we have. Even though we're starving, we see that we're lacking this. That's how fundamental
+ this is. You're going to die if you don't generate this. So we are going to increase
+ the activity of our enzymes in order to try to prop this up, even though it may backfire.
+ So, um, YOLO. Yeah. So another set of genes, by the way, that's your two ends target besides like
+ mitochondrial proteins and stuff like that. Genes for fatty acid transport and breakdown.
+ Cause you know, if you're hungry, wouldn't it behoove us to snack on our own fat asses? Uh,
+ rather if we don't have anything else to snack on, um, like my pizza, the hut, my fat ass,
+ Most people listening to this are rather skinny, so don't pay attention to me talking shit about my own fat ass.
+ So that's what happens when we are in caloric deficit.
+ We are not able to supply enough food to generate NADH, and this activates this whole thing.
+ And so we've got the same thing happening when we are – the same signal when we are in energy deficit as when we are exercising.
+ And for various reasons, which have only been hypothesized so far, all hypotheses, this is potentially one of the reasons that exercise helps us live longer is it increases our ability to guess.
+ My guess is we have more mitochondria with which to supply NADH if we are, I don't know, whatever.
+ There's a lot of systems that we're going to talk about in a second that lean on this state.
+ But everybody's probably heard about caloric restriction increasing lifespan of small animals.
+ Bacteria, mice, flatworms, stuff like that.
+ The jury is 100% out on this increasing lifespan with larger animals.
+ 100%.
+ So don't think that you can just skip a snack and live longer.
+ just keep doing what you're doing, you know, exercise, you'll be fine.
+ So any thoughts there before we talk about the kind of implications of all of that?
+ Yeah, I've heard that some recent former presidents believe that every body only has a finite amount of non-rechargeable energy,
+ so exercising ultimately leads to an earlier demise.
+ Oh, good thing that he wasn't president, huh?
+ I'm glad he wasn't in charge of making decisions that affect people if he doesn't understand them.
+ Sorry.
+ So anyway, so what we were talking about, all of this on caloric restriction and dieting illustrates something I think really beautifully.
+ And it's not that you can get tons of research funding by floating the idea that being hungry is as good as exercise because it's fucking not.
+ is that food and rest take us out of this state of stress. I'm going to say that again. Food and
+ rest take us out of the state of oxidative stress. And obviously that's important, but
+ here's an example. The study with the rats, with the chronically 24-7 stimulated hind limbs that
+ were contracting for a week straight. The whole muscle, SIRT1 protein content dropped in the
+ experimental animals versus the controls who did nothing. And normally we see exercise increase
+ protein content, right? But they never had a chance to rest and rebuild more protein. And so
+ over time these proteins that were being used broke down and because you didn't rest you did
+ not replace them these poor rats and so anybody who's out there who's currently not resting
+ just just stop it just just rest please it's so critical and this is this is we're going to dig
+ into this and more in just a second but these rats they are like this is a protein that makes
+ a signal. And like, you know, I said that if you have a lot more, you might enhance the signal at
+ some point, but you might need a hundred times more. But like, if you are, have dropped the
+ amount of protein in your body by like, I don't know, by memory, I think it was like, it looked
+ like it dropped about 20, 30%. Does this have an impact on the signal? I don't know, but I know
+ that it means that the muscle has not repaired itself in any way, shape or form. It's funny
+ there um it reminds me we had this uh when i swam in college there was one guy on our team he's very
+ unique let's put it this way and i swear the vast majority of his calories came from carbs like not
+ even just like oh yeah you know you eat more than 50 cards like dude only ate like like cereal bread
+ maybe some peanut butter on there like mostly cereal though like and you know his claim was
+ that he he didn't like meat or didn't like this or didn't like that and i remember we were we were
+ on a training trip and it's where i'll rooming together and be like convinced him to eat we
+ made i think we made like just burritos either made burritos or lasagna with like meat in it
+ right like just ground beef um we convinced him to eat it and a he was pleased that it a tasted
+ good and b i swear to god like two days later one of the coaches was like wow he looks really good
+ like what are you feeding him and like well you finally convinced him to eat some protein
+ and also some uh some some extra some other types of fats and some iron perhaps yeah like and he was
+ like a skinny distance swimmer so he wasn't he was not like a sprinter so he's not a very you
+ had a very slight build to begin with but still you're like dude you know the longest event here
+ is still only 15 minutes give or take like like those are still relatively high intensity on the
+ like continuum of of endurance exercise yes like oh man yeah you think like not eating woof um yeah
+ for real and so and so this is how bad it is though like um like the the rats not having a
+ chance to rest and regenerate any of the used up cert one proteins um this complements all the
+ studies that look at low intensity aerobic riding and find an increase in cert one mrna or protein
+ content too. Like this is, this is what I think is a good part of having seen all those studies.
+ I think we can, uh, well, no, there's still still withdrawing for sure. Um, but it's like,
+ if the protein is getting used, it's more likely to break down and you need to replace it. And so
+ if you never rest, you don't really replace it. And so one of the things that you can say is that
+ if this, you know, if you are trying to make a certain protein at a higher rate, then you would
+ be using it at rest, then chances are it is being used for its purpose somehow in the cell. Otherwise,
+ you know, otherwise all proteins would be breaking down and you would see a huge increase in all
+ mRNAs and that doesn't really happen. So, so if you never rest, you never really replace the stuff
+ that you're using. And, you know, all the other studies with rest show the same or increased
+ sirtuin content and most studies include rest these poor rats did not get to be in that study
+ yeah and i mean honestly even even not to slander a uh community but even even now the uh the gym
+ bros have learned that that rest is important what hashtag team no days off or something yeah
+ yeah rp just has like i just had just like i think a week ago posted like a 12 minute
+ rant oh i gotta watch this that sounds so great going off on why rest days are important
+ and why he's like yes even for anyone you know it doesn't matter who you are
+ he recommends you take at least one completely rest day a week like none of this seven days a
+ stuff all the time constantly oh god um yeah so let's let's dig into that even more because we've
+ got even more biochem nerdery coming up for you on exactly that so um so shorting yourself rest
+ and nutrition can be detrimental with this kind of stuff for all this reason so like
+ you are signaling you're sending the signal but nothing can happen it's sort of like um
+ It's sort of like sending an email to an email address that doesn't exist.
+ Like you're going to get that mail data bounce back.
+ Yeah.
+ Like you don't even get a bounce back in yourselves though.
+ You're just like, okay, we don't have the building blocks, the actual carbon chains of food that we need to make these new proteins.
+ But we're going to exercise really hard anyway and we're just going to hope for the best.
+ and your workouts are getting worse,
+ your power-up is getting worse,
+ like you're fatigued, you're groggy,
+ your muscles are always sore,
+ like everything sucks.
+ You need rest.
+ Potentially, you're also really sick.
+ Like, I mean, not in the head,
+ but like you have a physical illness.
+ But this is all bad, bad stuff.
+ So you don't get to build new proteins
+ until you chill the fuck out.
+ And so what happens when we actually get enough food and rest to actually repair our battered and beleaguered bodies?
+ Boy, I should not have made that so much alliteration.
+ It turns out what happens is exactly the opposite of redox stress.
+ We get a surplus of NADH and we get a reduction of NAD+, which increases the potential for NADH to donate electrons.
+ So our minus 320 millivolts goes down, but that's a good thing, more donation potential.
+ So this is such a critical piece of information, I'm going to repeat it.
+ When we get food and rest, we get an excess of NADH and a reduction of NAD+.
+ And this increases the potential for NADH to donate electrons.
+ And what do we do with this?
+ Well, it turns out we flip NADH into NADPH, which is only different by one P, but you've got to mind
+ your P's and Q's here. So NADPH is used in biosynthetic pathways. If you're making new
+ mitochondria, you know what you need? Mitochondrial DNA. Guess what you use to make new DNA? In part,
+ NADPH. Same with proteins, same with telomere elongation, like we were just talking about,
+ Same with a thousand other things. So caloric restriction or excessive exercise means you're
+ shorting your body's ability and time to synthesize the things that it needs to do to function well.
+ You are literally like never turning your redox state of your muscles off if you are exercising
+ a lot and not eating enough. This is precisely what's happening in your muscles and why
+ anybody who's been overtrained, this is, I don't know if this is what overtraining is, but like
+ it certainly feels like this. I've been there. Yeah. Also a good reason why, even if you think
+ it's a rest day and you're not doing as much activity, so you can eat less or eat worse or
+ something, probably not a great idea. Like it's one thing if you've got it calculated out and you
+ know that you say you're, you're, you're actively trying to lose weight while also exercising and
+ you've consulted with various professionals and understand that, you know, this, that you may have
+ a slight reduction on days when you have no activity, but that in total, it does not leave
+ you massively in the hole. If you're just winging it and just like, oh, I'm not going to, today's a
+ rest day. I'm not going to do anything. I'm going to sleep in, not eat, you know, have a cup of
+ coffee, hang out, not eat. Oh, you know, I'm not doing anything today. Oh, I feel so bad the next
+ day when I try to like get back on the bike. Oh man, I thought I had a rest day. Rest days
+ was making you feel good. Yeah. But you know how hungry you get on the rest day? You know,
+ when you get that really like extra hunger pang, you're like, man, I had enough breakfast. I had
+ enough lunch, but I'm just hungry. Go eat. Your body is telling you something. You need carbon.
+ You know, you could don't overdo it clearly, but eat more. Like your hunger is there for a reason.
+ And like, it has evolved too. And of course, you know, certain foods are made to short circuit
+ those evolutionary adaptations. Like if you've got fucking cheesecake and chips everywhere,
+ brownies and cookies and all the good stuff, like, yeah, those are extra tasty and you're
+ going to want to have, it's easy to eat more calories than you need. But if you're eating like
+ regular foods, healthy foods, you can definitely eat to hunger. And if you're working with a
+ nutritionist and you're starving and you're like, hey, I thought I was maintaining. Tell them,
+ say, hey, I'm really hungry. You know what they're going to tell you? Eat. Because they know this
+ stuff too. Well, presumably. Hopefully. But there's more. There's more. But wait, there's more.
+ But wait, there's more. The Krebs cycle matters here too. The Krebs cycles function during
+ exercise is to generate NADH, right? But while we're not exercising, not only does NADPH provide
+ reducing power for biosynthesis, the Krebs cycle is also a hub of biosynthesis. Citrate, like the
+ kind of the top of the keystone of the Krebs cycle, as it were, can leave mitochondria.
+ And this is broken down into oxaloacetate and acetyl-CoA. And acetyl-CoA goes into the synthesis
+ of fatty acids and sterols, like cholesterol, hormones, stuff like that. Alpha-ketoglutarate
+ is part of the glutamate synthesis pathway, as well as purines, like nucleotides, like adenine,
+ as in ATP or RNA and DNA. Oxaloacetate, needed for phosphoenolpyruvate, makes new glucose.
+ And through that pathway, a whole ton of amino acids, a ton of them. And remember,
+ not all amino acids we make endogenously. So another reason to make sure you're eating enough,
+ because there are some that are called essential, et cetera, et cetera. Everybody knows this.
+ Suctional CoA in the Krebs cycle needed for porphyrins. Guess what porphyrins are? Heme,
+ hemoglobin, myoglobin. Sounds pretty critical for endurance exercise, right?
+ Or existing, like oxygen. Oxygen is good.
+ Yeah, we've talked about this. Oxygen is very good. Pyruvate from glycolysis in the cytoplasm
+ can go straight to oxaloacetate for that pathway also. The Krebs cycle can even drive itself
+ backwards if it needs to. Since a lot of the... Blasphemous, the first time I heard it, by the
+ way. So if it sounds weird, don't worry. It was to me too. It can go backwards too, because a lot
+ of the enzymes in the Krebs cycle are equilibrium enzymes. They're not one way, they're two ways.
+ So like alpha-ketoglutarate can go quote unquote backwards to citrate if you have excess glutamine.
+ Glutamine, I believe, is the most abundant amino acid in the human body. And I think it's the one
+ that, if I'm not mistaken by memory, can get oxidized in the largest quantity during aerobic
+ exercise. So glutamine can go backwards to citrate if you've got excess glutamine, like if you're
+ breaking down your muscles, for instance, like you're not eating enough protein, et cetera, et
+ cetera. So you can turn protein into things like hormones and lipids and sterols for membranes.
+ And we consume NADH every time we make alpha-ketoglutarate go backwards to citrate.
+ Redox potential. We need it. And where do we need membranes if we are adapting to aerobic exercise?
+ Well, mitochondria has two membranes and we're trying to make more mitochondria. We might need
+ this stuff. It's very important. So none of this happens though. If we're exercising,
+ it physically cannot because biosynthetic pathways get shut down during exercise. And you can see
+ why. You can't turn glutamate into citrate because when we're exercising, that goes exactly backwards
+ against the chain. Glutamate is going to go in there and it's going to go straight to oxaloacetate.
+ It's going to get broken down because that's the way the cycle is running. So recovery is
+ biosynthesis. And biosynthesis is just adding things together instead of stripping them down
+ for parts like we do during exercise. So this also biosynthesis cannot happen in a massive
+ caloric deficit either because it takes energy to make stuff and it takes raw ingredients to
+ make stuff. So we're under redox stress if we're trying to repair things, but we're also using like
+ stored fats and proteins to make the things we need somehow. Right. Does this seem weird? Because
+ it's like, I think about it like being on a treadmill, like you're running, but you're going
+ nowhere because because when you're not eating enough and you're not recovering or whatever
+ you're just shuffling around the building blocks of your own body you're they're going nowhere it's
+ robbing peter to pay paul or whatever the phrase is yeah no i mean and and some people might be
+ like oh well if i don't want to gain weight can i just have you know the the protein the amino acids
+ from my arms and shoulders go down to my legs and my heart or something yeah i mean if you're not
+ using them you're like that's partly gonna happen but um you know if uh you still gotta you still
+ gotta eat yeah and you still have some natural turnover regardless of whether you're exercising
+ or not like your body obviously like you're making making hair that's made out of protein like
+ We're all victims of entropy anyway. We're all breaking down all the time. So in a minor deficit, by the way, that's why recovery gets slowed. In a major deficit, it gets stopped, obviously. Like stopped shortness track. So a minor deficit, we get a little bit of time for biosynthesis. And then once the energy runs out, then we get back on the treadmill and now we're just shuffling parts of ourselves around.
+ you know, but if we're eating in a surplus, by the way, if you've ever tried to build muscle,
+ if you are eating in a surplus, I mean, this is why it's like basically impossible to build muscle
+ when you are not in a surplus, when you're just like maintaining or in a deficit, you know,
+ your muscles can swell up a little bit from water retention and glycogen storage and stuff,
+ but like, you're not going to really build that much muscle over the longterm. You can't,
+ you need the wrong ingredients and you need the energy. So that's why if you are like, you know,
+ trying to gain muscle mass, you know, having a calorie surplus of like two, 300 calories a day
+ or something like that is what you're going to need to build muscle. And you've got to have
+ protein. You've got to have carbs. Like this stuff matters because otherwise, if you're in a small
+ deficit, like I said, like you can, you'll repair for a little bit. Then once the energy runs out
+ and your body's like, Oh, we're hungry. It stops. Now you're in stress. And so, yeah, this is one
+ of the reasons that, you know, a diet in cycling or any, any, uh, athletics at all is such a tight
+ rope walk. Yeah. And even, even like, you know, bodybuilders and stuff like that, when they're,
+ when they're losing weight and trying to get down to like, you know, straighted glutes and,
+ and like delts that look like, uh, you know, boulders or whatever, even though they're lifting
+ a lot and doing a lot of probably like steady state cardio, they are, they are still actively
+ losing their, their goal of lifting a lot is to a try to slow down getting weaker or try to
+ maintain only maintain strength and try to like lose as little muscle mass as possible. Because
+ like, like even though they, they step on the stage or whatever, and you look frigging huge,
+ like prime Ronnie Coleman, like, huh? Like, wait, you're telling me like that dude's like losing
+ muscle, but he is like every time he would diet down to like, you know, 3% body fat or whatever,
+ he was losing muscle the entire time. And the whole thing, the whole thing is just
+ trying to lose as little as possible. Yeah. Lose as little muscle as possible,
+ which is why you've got to have like, it's still got to have a massive amount of protein,
+ et cetera, et cetera. And like the rate at which you lose weight matters too. Um, and so it's one
+ of the reasons that we were just saying, like, if you are in a small deficit, you can repair for a
+ little bit. And then when you hit the end of your energy stores, like, okay, you're hopefully just
+ maintaining for a little bit or you're not repairing like you should, but if you're in a
+ massive deficit, you are stopped in your tracks. And that's why a giant deficit like crash diets,
+ they just don't work because they fuck your recovery so hard. Um, yeah. Among all the other
+ things we talked about. So that's why redox state in your muscles is so critical. It's such a hub
+ of literally everything of exercise, of like being alive, of biosynthesis, of stress. Like,
+ like this is such a central thing to cells, um, that I, I just, I wanted to, I wanted to tell
+ everybody about it. And I'm so stoked that we got the chance to do this. So why don't we make a
+ couple quick conclusions here, uh, before we get to listener questions. So, and some more listener
+ questions have poured in, by the way, not poured, they have trickled. Uh, so streaming in now, um,
+ I mean, it's redox. Who walks around thinking about redox besides me for the last three months?
+ So redox state is a signal that's active at all intensities of exercise. But this is why I thought
+ Kyle read ahead in my notes. I wrote in my notes, this is a personal hypothesis of mine, like my
+ calcium flux hypothesis, like area under the curve. I consider it like that. And so you don't get
+ things that are like extra active. You don't get sirtuins that are like more active than other
+ sirtuins. Like they detect NAD and blah, blah, blah happens and you regenerate NAD. Like,
+ like that's what's happening. So a protein is active or it's not. And well, okay. Some proteins
+ have extra, extra little like things that can give it extra nudge, but regardless for this,
+ it's, it's active or it's not. And you don't get extra activity by having either a ton more of
+ them, or you don't get extra activity by like doing super, super high intensity stuff and
+ crushing yourself to death. Because as we just saw, that leads to bad, bad, bad stuff for recovery
+ and adaptation. So if you are active longer, especially for like FTP, below FTP, et cetera,
+ et cetera, even sometimes higher intensity, repeated efforts, things like that, these things
+ can matter. So, um, that's, well, if I'm wrong about this, I told you it was a hypothesis, so
+ don't blame me. Uh, no, I'm not wrong. Uh, well, and, and I think, I think too, like,
+ you know, people might be wondering why, why does this matter? Like, okay, so, so what are
+ the takeaways? But, but yeah, the, the, this, this whole was, this whole thing was a, you know,
+ Pulling back the curtain a little bit on why does actually say not eating on a hard workout day make you feel terrible the next day.
+ And it's not just, you know, there are real biochemical pathway reasons, not just feels of, oh, your body needs sugar and your brain wants sugar and you get a headache when your blood sugar's low type thing.
+ Yeah.
+ It's true.
+ That stuff is true.
+ but also there's yeah i mean if you want to um yeah i was gonna say if you want to think about
+ all this kind of stuff you want a visual representation of of this kind of stuff just
+ google krebs cycle biosynthesis and you are probably going to get 3 000 versions of the
+ krebs cycle that show you know utilization of this to get to this pathway and and they
+ they can run in reverse too a lot of the time so um so our usual training recommendations
+ you know progressive sweet spot and ftp efforts uh ride easier for longer um you know don't go
+ harder because going harder limits how long you can go and that's a big thing here um i mean it's
+ endurance exercise go freaking figures um but recovery recovery recovery oh my god you use up
+ your resources while you're doing exercise because you are generating these reducing equivalents.
+ And that's how important it is. Like you were literally keeping yourself alive for exercise
+ in a way is trying to kill yourselves. You are, you are generating reducing equivalents NADH and
+ FADH2 in order to prop that back up. Um, and adaptation future proofs us against future stress
+ like this. And we also need to make new cell components like new CERT1, like those poor rats
+ that had the reduction in CERT1 protein content that never got to rest. So if you want more
+ endurance, you've got to make more mitochondria. And that means biosynthesis. You've got to make
+ membranes. You've got to make proteins. You've got to make mitochondrial DNA. And it's not happening
+ without recovery or food. And so the, I need to suffer constantly mentality fucks you up in terms
+ of recovery. It really does. And I, I, I hate saying that because I, you know, I fucking, I
+ grind, I know, I know what's up. I've done it. It feels good to really work hard and be exhausted.
+ And then you've got to take a step back and be like, I'm going to give myself some bourbon
+ tonight and I'm going to relax and watch movies. Well, and, and something with that too, is that
+ it is, it is the sort of thing where maybe people take the approach of, well, just like training,
+ if I do it long enough, I will adapt to it and I will get stronger and I will be able to
+ get by doing more with less. And you can't at some, at some critical level, you cannot keep
+ doing more with less. Like, yes, you can become more efficient. You can become, you know, really
+ good at burning fat. We've talked about that, but there is some fundamental core level you reach
+ where you cannot just keep doing more with less. You need to do more with more. Yeah, but you don't
+ get more efficient at all that other stuff. It's not like you starve your cells and your
+ mitochondria suddenly go, oh yeah, no, yeah, we got this. No, it's fine. Or like, oh, your body
+ has figured out a way to squeeze out some extra kilojoules out of ATP. That's a fundamental-
+ Yeah. So even, even though you might think like, Oh, I just have to get used to it. Like I'm going
+ to stay up a little bit late and get my body used to being harder and sleeping less and eating less
+ and I'll be fine. Oh yeah. Yeah. Yeah. No. And, and especially in a sport that prizes that mentality,
+ but also in a sport that prizes low body weight for a lot of it. Um, if you're looking to lose
+ weight, then prepare for your recovery and adaptation to slow. If you are not seeing any
+ progress at all, it has stopped. That is bad. Eat more. But if it's slowed, that's okay. You can
+ rework your workouts, readjust how many high intensity days you do, readjust how many long
+ days you do, because a long day burns a lot of kilojoules. And so you've got to eat around your
+ work as you've got to recover. And so it's literally difficult to do it genuinely is you're
+ not imagining that. But it's, but it's one of those things where if you prepare for the way
+ it's going to impact you, then you are going to be better off for that preparation. Because now,
+ hopefully, everybody's got a little more knowledge around the chemistry behind adaptation and repair.
+ But before we get to our listener questions, you can now go spread the good word about why nutrition and rest are so important.
+ And it's because Leo the lion says grr.
+ Somebody's like, oh man, I'm so hungry, but I need to lose weight, but I'm not getting faster.
+ What should I do?
+ Leo the lion says grr.
+ What?
+ No, it's your reducing equivalence, man.
+ You don't have any.
+ You're in a state of like, you've got extra NAD and you can't generate any biosynthetic.
+ Leo the lion wants you to eat.
+ What would Leo the lion do?
+ Sorry.
+ All right.
+ So here's a couple of listener questions.
+ Do adaptations from redox signaling scale with intensity or is more like riding is riding?
+ It's more like the latter.
+ But like I mentioned before, the motor unit recruitment is a factor here.
+ And of course, that comes with an asterisk because it's hard to say exactly what motor units we're recruiting.
+ Like we can look at the power and the cadence and figure out pedal force, but fatigue plays a role.
+ When you fatigue, you recruit larger and larger motor units.
+ And we talked about this in the podcast forever ago because larger motor units have more, well, they're more inefficient.
+ So they use more oxygen to generate the same power.
+ And that's why heart rate goes up.
+ You're delivering more oxygen.
+ And so, so it's hard to say what kind of training is going to get into the largest motor units and whatever, but, um, but yeah, like intensity is, um, is a factor for motor unit recruitment, but duration is the largest, uh, component in my opinion.
+ Yeah.
+ Who doesn't like those big units, you know, uh, spoken like a true track sprinter who can single ice squat over 300 pounds.
+ um anything i should be avoiding drinking or eating post-workout to not jeopardize adaptations
+ um you should avoid alcohol is a big one but you should avoid eating drinking nothing
+ that jeopardizes adaptations the most like you've got to eat and drink um and oh yeah sorry i would
+ also say and this is i don't don't always love this word because it you know has a lot of these
+ like dumb, like wellness things, but you know, quote unquote, empty calories. Like if you fill
+ up on like a bag of, you know, like a whole bin of like Cheetos after a workout, like sure you can
+ house down like seven, 800 calories of Cheetos probably pretty easily. God knows. I think
+ everyone's probably done it or not necessarily Cheetos, but something similar. And like
+ that maybe wasn't enough protein. That is mostly, you know, corn flour or whatever.
+ Yes. Yeah. Getting proteins in is definitely important.
+ And fat.
+ And fats. Healthy fats and the right amount too, because you can definitely short yourself on the fats and you need fats. Like your body cannot just generate everything you need. There are things called essential fatty acids. That means that your body doesn't make them endogenously.
+ Yeah, but alcohol is the big one that I would say, not eating. Within reason, sure, but everyone probably knows, drink a little too much, your sleep gets all fucked up, it's not good.
+ Yeah. And sleep is so critical for repair too. Um, I mean, yeah, we, it's, it, all this comes
+ right down to the basics again. So, um, so, uh, please explain, explain some basics. Yes,
+ we did that. Um, so if you miss the basics, go back to the first, what, half hour of the episode
+ or something. Um, uh, let me guess the TLDR get faster, ride a lot, sometimes hard and rest more.
+ Yes. Thank you for... Didn't see that coming. Yeah. We are going to actually get into some other
+ types of adaptation because mostly we've been looking at muscular stuff so far.
+ So I'm really excited to kind of move into other areas of the body. But here's one from... Oh,
+ this is great. Some of the youngsters need to hear the signs of red S in men. Can you tell
+ please and the the nervous laugh emoji um yes so uh i assume because she she knows a lot about
+ women's health the person who asked this question and um and she's she's very smart and uh and so
+ red s means just like relative energy deficiency in sport it means that you aren't eating enough
+ and you probably are exercising too much potentially as the other side of the coin so
+ in men now men don't have periods it's it's a useful thing to to have if you because a lot of
+ time for women if you lose it that's a really big sign oh no i'm not eating enough i'm over
+ exercising something's up we don't get that as men so so uh everybody's symptoms are a little
+ different but like the big one i've found uh with my clients especially sex drive
+ it's it's huge like it's it means that your hormones are kind of out of whack you're not
+ eating enough and if if you lose your sex drive like i guarantee your recovery is taking a huge
+ hit um so yeah i would say another big one and this is this is somewhat less common in in um
+ cycling because you're not like there's no impact but stress fractures are usually a big one like
+ and runners it's really common right yeah if you get like bad overuse not just like oh you know i
+ tweak this i tweak that but like you get like these chronic overuse injuries like stress fractures
+ chronic uh you know tendinitis and things um and a lot of people also have problems with their
+ heart rate where they just you know whether it's abnormally high abnormally low uh all these things
+ where it just, you notice that your heart is like totally out of whack from what you're used to in
+ your normal training day-to-day life even. Yeah. Um, yeah. And it's bad because, uh, cause in my
+ experience, um, especially with men, it's, um, you know, I've thankfully, I don't, I don't have a lot
+ of men on my roster or haven't, you know, in the past where this has been a problem, but you know,
+ it is now and then, and it will continue to be, I'm sure. Uh, but like everybody's symptoms are a
+ little different. You know, some people get hair loss. Some people get, um, get really cold all
+ the time. You know, that could also be a little iron thing. Um, depression, irritability, moodiness,
+ grumpiness. Like if, if your partner, your girlfriend or whoever is like, like, sweetie,
+ like go away. You are really stressing me out. That is a, probably a sign that you are not.
+ and here's another one that i've heard having sex didn't finish that's a tough one um so if any of
+ this has happened to you please go have some ice cream and take a couple rest days you definitely
+ need it um how do i big brain this so we just went over how not to you can't really um so let's see
+ Uh, other questions, time machine, go back in time, eat and sleep more. So you big brain this,
+ I mean, that's the biggest brain of all is like, um, is it better to balance energy every day or
+ is it fine to recover for a weekend, uh, recover a weekend deficit on the first days of the work
+ week? Um, here's the thing about there's yes and no, but both is fine for most people. It really
+ is. Um, I would say don't, don't short yourself, especially don't short yourself the nutrition
+ after the workout. There have been a lot of studies on this where they are restricting
+ calories after a hard workout and seeing if it increases the adaptation signaling. It does not
+ like emphatically, it does not. So don't do that. Um, but a lot of the time, even if you think
+ you've eaten enough, like on a weekend day, like you've got your non-exercise activity energy
+ accounted for, like you've got a step tracker or whatever, if you've got your basal metabolic
+ needs counted for, if you've got your ride kilojoules accounted for, you can still be really
+ hungry on Monday for a rest day. And it's just a sign that the math is wrong. I know math is math
+ and one plus one equals two,
+ but sometimes one plus one equals three.
+ And this is one of the cases.
+ Yeah, I would say the other thing is
+ it is tempting to be like,
+ oh, like I'll recover, you know,
+ in a couple of days or whatever.
+ I forget this.
+ But sometimes also,
+ if you are a person who has a regular nine to five,
+ you know, stressful job,
+ don't discount the fact that
+ what you thought might be an easy Monday, Tuesday, Wednesday
+ may all of a sudden not be an easy Monday, Tuesday, Wednesday
+ when you like show up to work
+ and have all this other stuff to worry about.
+ That's not just riding your bike.
+ So pushing it off, that kind of like I'll sleep when I'm dead type thing is not usually good for a long period of time.
+ Yeah.
+ Oh, you're going to sleep – you're going to be dead a lot sooner if you don't get much sleep.
+ That's for sure.
+ Yeah.
+ Oh, here's an interesting one.
+ Does dietary antioxidant have a useful influence?
+ No, it does not actually.
+ One of the cool things about exercise is that I haven't read anything on this, but I heard an interview with somebody who's doing research on reactive oxygen species generation during exercise.
+ And it turns out, according to him, that during exercise, reactive oxygen species generation is lower than at rest.
+ And so antioxidant stuff, like if you are, oh, NADH is used for antioxidants.
+ right? So like I said before, like you were like, when you quench the reactive oxygen and nitrogen
+ species, you have to, um, regenerate like glutathione, for instance, has to be regenerated
+ into the state where it can go do that again. And so it's, um, it's the body like takes care
+ of itself basically. And if I'm not mistaken, a lot of the studies on antioxidants that had
+ happen like weren't they am i dreaming this or were a lot of them retracted i i don't remember
+ a lot of them being retracted i do i do kind of remember the things that come to mind when i think
+ of like antioxidants is one is it definitely it's been a big trend in like wellness and health
+ recently but more of that is geared towards like if your body body is chronically inflamed
+ And that can lead to long-term health problems. And for a lot of Americans who are sedentary and overweight and also stressed out, eating poor foods, yes, you find that they have very high levels of stress and stress hormones.
+ And, you know, this is why people got really into, oh, antioxidants are good for you, blah, blah, blah, blah.
+ Oh, yeah, yeah, yeah.
+ But when it comes to, like, exercise, one is that inflammation locally is one of the signaling pathways.
+ It's a repair signal.
+ Yeah, that drives adaptation.
+ And two, I swear there was at least a couple studies that shown like when people are like mega dosing antioxidants, you can actually blunt workout adaptations by a few of your...
+ Yeah, I remember that study specifically.
+ Like I think it was vitamin E, if I'm not mistaken, was given...
+ It was like C or E. It was one of those.
+ It might have been either or both, but they were given in quantities of like 500 milligrams and it didn't show any effect really in terms of blunting adaptation.
+ But in the realm of like four grams, I think, it really stopped whatever they were measuring is my recollection.
+ I haven't dug into that study in a while, so I may not agree with that anymore.
+ I don't know.
+ But that's what I recall anyway.
+ So, yeah, so like, yeah, your body is like when you exercise, you are also increasing how much mitochondria you have and stuff like that.
+ So like that, you know, is great for the body in order to help maintain the cellular state.
+ That might be why exercise helps people live longer and helps against, you know, so many
+ other disease states.
+ I'm not an expert on this stuff, by the way, but this is what I hear from people who are
+ experts.
+ So it's such a good thing to have.
+ And, and if you, a lot of the time, like, unless your doctor tells you, you should take
+ this antioxidant. Most of the time, it seems like you just don't need it. You just don't need to
+ help your body do what it's already designed to do. Yeah. And I think too, some things like
+ the big, the big difference here, there is like acute versus chronic, like inflammatory responses,
+ right? Like even, even you break a bone, you like tear something in your, you know, you tear a
+ ligament or whatever, you get a lot of acute inflammation and a lot more research is showing
+ that previously the whole like ice compression,
+ like try to drive down the inflammation strategies,
+ taking big doses of ibuprofen and all these things.
+ Now, some studies are showing
+ that this is actually slowing recovery
+ because the buildup of the extra fluid,
+ obviously if it's so much fluid
+ that it's uncomfortable and painful.
+ Yeah, you don't want to get compartments
+ that are bad from it.
+ Yeah, but to a certain extent, it is actually good.
+ Your body is doing this
+ because it is what it wants to do to help you heal
+ and not, you know. Yeah, yeah, no, you're right. And did I ever tell you on the podcast, the story
+ of one of my friends from when I just got into cycling from 2011 or 12, he was, I shit you not,
+ I watched him do it. He was drinking twice a day, a cap full of hydrogen peroxide.
+ Why? White in his teeth?
+ No. No, no, no. He said, he goes, you know, your body has free radicals in it, right?
+ I'm like, yeah. He says, well, so by drinking hydrogen peroxide, you can get rid of these
+ free radicals. And I was like, I don't think that's the way it works. Hydrogen peroxide in
+ your body, by the way, is one of the free radical species that exists. And if you've ever poured
+ hydrogen peroxide on a wound guess what your body has as a defense mechanism against hydrogen
+ peroxide catalase that's why it makes bubbles in your blood yeah so i'm watching this guy
+ we're at a race and he wakes up in the morning he's taking hydrogen peroxide and it's like oh
+ how do i how did i know this guy oh man i mean just oh anyway it's like i'm excited for people's
+ DMs because I know some people listening to this also knew that guy. So DM me your guess as to who
+ it was. It's not going to make it through your stomach, right? It's going to hit your stomach
+ acid and it's like not anyway. Yeah. So, okay. Next question. We've only got three left or really
+ two left. What's the next knowledge frontier of redox stress? I think it's going to be measuring
+ redox state in cells in real time and actually being able to see what happens when in a more
+ quantitative way than just fluorescence. I think that's the next big breakthrough.
+ Very tiny volt meters. Hmm? Very tiny volt meters. I'm just kidding.
+ I mean, I've seen the size of chips these days. Tell me it's not possible before you tell me it's
+ possible. It's fair. That's fair. Um, so last question does, uh, does measure recovery slash
+ rest, improve mindset about it or add stress with further num NRS numbers, I think to care about,
+ um, he follows up with, of course the answer is it depends, but curious to hear your opinion. So
+ I, I appreciate this question. Um, I'm going to throw it to you first, Kyle, while I
+ gather a you know oh yeah i mean mentally mental stress like if you are stressing about not being
+ recovered like that's not it's definitely not going to help it's definitely counterproductive
+ like they're the same sort of thing i've heard people say you know oh they they had like one of
+ these hrv trackers or whatever for a while and then they got rid of it because they started
+ getting so focused on this number and if this number wasn't what they wanted to see on how
+ much of their, they were supposedly recovered, then they would be upset or it would, you know,
+ ruin their workouts and stuff. Cause they would think, oh man, I'm like not going to have a good
+ workout today. Cause this, this number says I'm not, not recovered as I should be or whatever.
+ Um, but yeah, like totally mental stress, like definitely does not help your recovery. Definitely
+ not good for you in, in, in the sense that like you can be compounding onto things. Um, yeah. Um,
+ And I, let's, let's read this question again before I give my answer. Um, does,
+ and I believe this was in, uh, English might be this guy's second language. So I'm going to
+ paraphrase it. Does measuring recovery and rest improve your mindset about it? Or does it add
+ stress? Um, I'm going to go to the premise of measuring recovery. Do you know how I measure
+ recovery in people? I asked them, I asked them a question. How do you feel? And then I look at the
+ workouts. If the workout's going badly, I assume they're not recovered or something else is going
+ on. If the workouts are going great, I assume they're recovered enough. And if they do the
+ workout and they tell me, ah, this is really all I had. Uh, and I expected them to have some gas
+ left in the tank. I'm like, okay, this person, uh, this workout was either my, you know, it was
+ either the first workout and I overestimated, or they went a little too far with it, or I went a
+ little too far with it. Like, you know, it's a process of figuring out the right dose and
+ regulating that kind of stuff. So that's the way I measure recovery because those are the most
+ reliable things that we have to measure recovery more than HRV, more than any whoop thing.
+ How do you feel? How are your workouts going? That's it. It's cheap. It's effective. And it's
+ effective every time. It's not like you don't get any measurement variation while you can get a
+ little measurement variation with like how you feel and RPE and stuff like that. But like,
+ it's so reliable. And if you're going to measure recovery in some way, measure it with how do I
+ feel? How do I feel on the bike? How do I feel in general? What's my mood? Have I, did I finish
+ during sex this time? Am I losing hair? Am I no longer cold? Am I no longer moody? Like these are
+ things that can point you in the right direction. So if you are, I mean, that's one of the reasons
+ that I love progressively increasing like time and zone for stuff. Cause especially for like FTP
+ and sweet spot, if you are not progressing time and zone, you are fatigued or you're structuring
+ it wrong. And in such a case that you are not recovered for this workout, you do it back to
+ back days. Great. If you need three or four days between great auto-regulation, that's what that's
+ called. Um, so that's how I measure recovery. I don't, I don't measure it any other way because
+ I've yet to see something that's reliable enough that doesn't get in people's heads.
+ Yeah. Yeah. I mean, I think there are some people who are totally fine with having, you know,
+ whatever their, their little gadget tell them and then not letting it negatively affect them. But if
+ you're, if you're one of those people who would, who would fix it, fixate on it, then yeah, it's
+ going to be bad. It may be not, it's not going to, but if you're someone with a potential to fixate
+ on that number, then yes, it may be not helping you as much as you want it to help you. Yeah.
+ I had briefly, I had a client who was more stressed by thinking about how they felt
+ than less stressed. And they just wanted, they just wanted workouts that were not maximal,
+ that did not test the limits of, or anything like that. It was like, just give me X, Y, Z,
+ and I'll just do them. And that's that. And I'm like, I want to know how you feel. And it was,
+ it was too much stress for them to think about how they felt. They wanted a number,
+ they wanted their whoop score. And that obviously did not last too long. And that was that was
+ generally it was okay. Because it was just not a good coaching fit. So that person went to somebody
+ who was better with that kind of stuff than me. And I hope that they're happy. I really do. So
+ Anyway, that's the end of our questions.
+ I would say the other thing too, not to like-
+ Oh no, please go ahead.
+ We're at two hours and what, 10 minutes here.
+ So yeah.
+ I had to like beat the dead horse too much more.
+ Thanks everybody for staying and listening this long.
+ If you made it to the back end of the podcast, boy, when that next Kyle and I are going to
+ get drunk.
+ Yeah.
+ But too, like this is even a common thing that people have when they, if they don't
+ have if they have like poor sleep just generally worried about life like oh you can't sleep you're
+ having trouble falling asleep you'll lie awake you toss and turn then you look over at the clock
+ you see it's like late much later than you want it to be and you're then then you start freaking
+ out the oh god i'm gonna feel terrible for tomorrow i have to get up i have to go to work
+ all this stuff right like this is not just not just something that happens to people worrying
+ about recovering for you know their hobby um it happens to people all the time so it's not if you
+ If this is you and you're worried about it, know that you're not alone, but know that also there are lots of resources out there you should probably look into about relaxation and mindfulness and these things.
+ Which is something I've never done, which is why I'm going to have a hard time getting to sleep tonight, probably because I had way too much coffee this morning and again this afternoon.
+ But I knew that was going to happen, so when I'm lying awake tonight, I'm going to go, I know exactly why this happened.
+ I'm not going to be stressed about it.
+ I'm just going to be like, you idiot.
+ So anyway, so thanks everybody for listening to this episode.
+ And I hope for everybody who got this far, thank you for listening.
+ And if you are thinking about coaching or consultation for next year,
+ shoot me an email, empiricalcycling at gmail.com.
+ And if you want to ask a question for the podcast,
+ empiricalcycling on Instagram as usual.
+ And don't worry, I'm not just a meme account.
+ I actually try to help people with things.
+ So tune in there if you are wanting to join in the AMAs in the weekend also.
+ And if you want to donate, empiricalcycling.com slash donate.
+ And if you want to share the podcast, we thank you for all of the sharing of the podcast.
+ We so appreciate it.
+ And I hope this podcast was helpful.
+ I really genuinely do because I think we got to a new place in this podcast in terms of turning the biochemistry into real-life stuff to a better degree than we probably ever have before.
+ So I'm super excited about this.
+ Thanks, everybody, for listening, and we'll catch you next time.
+ Remember Leo the Lion.

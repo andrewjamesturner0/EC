@@ -1,0 +1,1537 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson. Thank you, everybody, for listening. And if you are new here, please consider subscribing to the podcast. And if you're returning, thanks so much for coming back. We really appreciate having you. And if you want to support the podcast in any way, well, of course, you can always share it. And we really appreciate that. I've been seeing the podcast shared a lot. Thank you again. Always appreciate that. Thanks, everybody. And if you want to donate to the show, because we are totally ad-free, we are free content, you can donate at empiricalcycling.com slash donate.
+ And if you would like to become a coaching or consultation client, email me at empiricalcycling at gmail.com.
+ And right now it's about to be April.
+ So races are coming up.
+ And, you know, if you think it's too late to start with a coach or it's too late to get a second opinion on your season or your build for the season or whatever it is, it's not too late.
+ It's actually never too late.
+ And if this is something you're interested in, the earlier you get into it, the better for you and for us and for everybody.
+ So if you're curious, shoot me an email, empiricalcycling at gmail.com, if you would like to inquire about any of that. And I'm also doing still weekend AMAs up in the Instagram stories. Follow me there at empiricalcycling. And also that's where we ask the questions for the podcast episodes. And we got a whole bunch of questions for this episode. So you see the purple background, that is the podcast questions.
+ So as a follow-up to this at some point, if we don't get interrupted by an April Fool's episode, we are going to do a follow-up 10-minute tips episode along with this to kind of think about the more practical side, the application side, the coaching side of this.
+ But for now, we're just going to stick to all the nerd stuff because this is Wattstock, of course, and we also don't want it to go for three hours.
+ I know a handful of you would like that, but my voice would not.
+ So we are also going to be, yeah, it's been a couple of years since we thought about pacing endurance rides and like kind of the volume versus intensity.
+ And my recommendations have changed slightly, but not really that much.
+ So we're going to talk about that in that next episode.
+ But today, to follow up on the PGC1 Alpha Wattstock episode last time, you know, I really wanted to get into one of my very favorite ever meta reviews, looking at the relationship between volume and mitochondrial adaptation.
+ So there are actually a couple ways to look at and measure mitochondrial adaptation.
+ We've kind of touched on these a little bit in the past, but today we are going to go really deep on this.
+ And it's partly because it's fun, but also because it's a good way to understand.
+ Yeah, my kind of fun.
+ Partly to understand what the measurements are being made and the upsides and the downsides of these measurements and how it may or may not accurately reflect the adaptation that we actually get.
+ I mean, bottom line is, you know, we're always still looking for performance.
+ If you have better endurance, you feel like you have better endurance.
+ You feel like you can ride longer at the same power, all that good stuff.
+ You feel like you've got a better sprint at the end of a race.
+ All that stuff says better endurance, and there's no need to think twice about this stuff
+ because why overcomplicate something that could be really simple?
+ Well, I mean, we're all about why does this stuff work,
+ and how can we either support kind of the basics and drill into the basics better,
+ and also it does lead to some good coaching application stuff.
+ And we're going to talk about a couple questions that I get asked a lot
+ between this episode and the next 10 minute tips, we are going to really dig into these,
+ like how hard is too, uh, is too hard for your endurance rides or your threshold or whatever.
+ You know, we're looking at the actual adaptation of mitochondria versus how hard are you riding?
+ Also the same thing for how easy is too easy. And then how much is enough and how much is too much,
+ you know, because is there a plateau? Is there a certain amount of volume where things end?
+ Is there, well, that's one of the many questions we're going to do.
+ So, um, Kyle, it's been a while since we talked about this.
+ It's been like, what?
+ Well, the podcast has been on for five years now.
+ So there's that happy anniversary to us.
+ Congrats.
+ Wild, wild, uh, wild stuff.
+ Five years.
+ Yeah.
+ Who would have thunk?
+ Well, not me, but, uh, everybody keeps listening and we keep getting more coaching clients.
+ So thanks everybody for all of that.
+ Empiricalcycling at gml.com if you want to inquire.
+ uh and we we wouldn't be here without all of the listeners and people signing up for coaching and
+ people asking the great questions and i think i think i used to this time when i started doing
+ the weekend amas like what four ish years ago three four five whenever um i think we i probably
+ got like 20 questions a weekend right now i think we're at like i don't know over 50 100 maybe it's
+ a lot um you're gonna have to hire a social media manager soon you're just a big deal i i wouldn't
+ trust a social media manager to answer these questions i bet a social media manager would
+ be snarkier than me um but you know so so it's been a while and uh you know it's it's been a
+ while since we thought about kind of this easy riding like as a focus in the adaptation uh because
+ we we've kind of dug into the signaling over the last couple watts docs but um you know the quote
+ quote zone two stuff you know power heart rate rpe um and you know how how has the conversation
+ shifted since the last time we discussed this like you know what four and a half ish years ago
+ yeah i think i don't know zone two is still one of those things where it seems really catchy it's
+ a buzzword uh there's like a gcn video right that just came out about zone two i think and then now
+ it's even it's even funnier to me because i'll watch other content of like other you know sort
+ of sports training stuff and even even non-cycling non-endurance sports people have picked up on the
+ phrase like zone two cardio like even for like team sports which obviously that yes that is
+ important like if your sport is soccer or rugby or running it's something that you run a lot like
+ yeah in the off season doing something that resembles quote-unquote zone two cardio or zone
+ two endurance or whatever they want to call it is like beneficial um but it's it's curious it's kind
+ of funny to me how this is also sort of permeated out from the endurance world um but it i think is
+ always a popular for a lot of amateur competitive cyclists because volume versus intensity in zone
+ two and stuff like that because you're always limited on time generally and so you may not have
+ the time to log three four hour rides in zone two per week even though you'd like to but you know
+ you have a job and a family and other responsibilities so then the question is oh can i bump up the
+ intensity and cut the time back and try to be more efficient with my time even though in the ideal
+ world yeah go out and just slam zone two coffee rides with my buds like all the time yeah and
+ actually one of the things that we've seen with like ampk and stuff is that the harder you exercise
+ the more these signals get activated because i mean it just makes sense right like if we and
+ calcium as a signal you know we're digging to bigger motor units and the longer you exercise
+ the higher the basal you know blah blah blah and especially if you're untrained and you do super
+ high intensity exercise we've seen this on the podcast before you get calcium leak that kind of
+ goes away after you're pretty well trained but that's a that's a big signal too and so the you
+ know that that intensity versus duration trade-off you know we discussed this on the on that time
+ crunch training episode from god was it like two years ago now something like that um yeah something
+ like that yeah and you know it kind of came down to like you can only do so many hard intervals
+ and yeah but at the same time i appreciate how the conversations change because like what five
+ to ten years ago it was all about super high intensity intervals everybody was talking about
+ sprint training and hit and that kind of stuff and um you know i appreciate that that the pendulum
+ swung a little bit to the other side it might have swung a little too far at this point it
+ might be swinging back i don't really know i consume very little of this training media uh
+ so yeah, I pretty much listened to the inside exercise podcast and, um, that's, that's just
+ about it and only for selective guests. So anyway, um, anyway, so that's, it's good stuff though.
+ I think, because I w I think without his popularity, we wouldn't be able to have the
+ conversation that we're having now about this stuff. Um, because you know, people want to hear
+ about this and they want to know how do you pace it and i think generally speaking in a practical
+ sense before we really dig into the nerd stuff the intensity especially what we're going to be
+ talking about today like the intensities that we're discussing have all been uh assigned as a
+ percentage of w max as in the highest power output that you achieve in a ramp test you know your
+ quote-unquote vo2 max power if you're curious about that go listen to what was it was stock
+ like 18 or something like that. But the reality is that we've got two thresholds here. We've got
+ what we've been calling LT1, first threshold, and LT2 or FTP or MLSS or whatever you want to call
+ it. So the thing is that they kind of go up and down together, but they also kind of don't at all.
+ So the downside of what we're going to be discussing today is that nobody's really done any kind of standardization to these thresholds.
+ The standardization has been done to WMAX, especially in these papers.
+ And in the scientific literature, that's been historically the standard.
+ And it's really a convenience for researchers, for time and money.
+ And I do not fault them at all for that whatsoever.
+ And I think it really just kind of screws us on the application end sometimes because it's like, oh, this person wrote at 60% of WMAX.
+ It's like, well, is their threshold 85% of their WMAX or is it 65%?
+ Because these numbers matter.
+ Yeah.
+ I think that's a good point you bring out, too, where we've talked about this before, the disconnect between how you would design as a scientist, how you would design a study,
+ and then how would you would translate that into actual um you know uh feedback or input into a
+ coaching plan and so yeah and and especially in research we're looking at averages right and you
+ know we're looking at does the average go up or down we're not looking at the individual and it's
+ like when we really dig into the individual that's when we see all this wide variation and today
+ we're actually going to see we've got some big error bars and some of the charts that we're
+ going to look at today or the figures from this paper. And I think that these, well, you would
+ call them confidence intervals. So these 95% confidence intervals are fairly telling about
+ the range that we see. And so we're going to get into these ranges. Anyway, so now let's start
+ digging in because what we're discussing here today is mitochondria. And they're one of, they're
+ not the, they're one of the big determinants of endurance performance, especially muscular
+ endurance performance and so building new mitochondria however you want to think about
+ that um and more of the proteins in it it's one of the most studied endurance adaptations out there
+ and one of the very first papers to really notice this was john halsey in the 60s
+ and i think way more people these days should go read his stuff because
+ like you know i remember what five no not five like probably seven or eight years ago i graduated
+ in 2014 i think and so yeah right around 2014-15 um i was like kind of lost in the sea of physiology
+ and what happens and why and all the like lactate and fat and all that stuff and then i started
+ reading john holsey's papers and everything became so clear to me so i think a lot of people
+ should really go back and even though it's in the 60s you're gonna go wow this they really knew a
+ lot like that big that big well-referenced holiday paper in the 60s with adaptation to endurance
+ training like oh my god he's he lists out so much stuff i think a lot of people have kind of
+ forgotten today um not that it's anybody's fault a lot of people are looking for new papers on blah
+ blah blah so you know there's there's always that pressure too right i mean like how many times have
+ you been asked like can you get a more recent reference for x yeah and i think that just
+ happens just because if it's an older reference not only do you not have it fresher on people's
+ minds but sometimes that when they're uploaded to uh to any sort of electronic file you know
+ paper service that the files aren't searchable because they're like they're like xeroxed scanned
+ of like a typed out pdf you know a typed out paper that was then turned into a pdf and so
+ they can just be harder to deal with because you can't control f them and and everyone is so used
+ to having a paper these days that you can just pull up you can actually digitally electronically
+ search through and find what you're looking for and the older paper is just not the case or the
+ figures are terrible because they were like hand-drawn figures and then like they got scanned
+ and and then now they look like garbage because the xerox like way like ruin them with the contrast
+ or something like that yeah you pull up these older papers and it literally looks like that
+ teacher's copy meme yes yeah yeah and the other thing is like they are it's like you're not going
+ to find find them like at least the newer papers yeah you might be able to go to a library that
+ has a journal the subscription and then maybe you can actually find that in print but the older ones
+ like unless that library has been really good they probably don't have and this is like a research
+ library so not everyone's going to have access to this but like a physical research library in
+ person there you're probably not going to find you know copies of these things like no that's true
+ in real life actually one of the things that i'm going to do is i'm going to i'm going to add that
+ john halsey paper to the show notes for this episode so if you're interested in this kind
+ of stuff i highly highly recommend people go read it anyway so mitochondrial adaptation
+ you know we're gonna we're actually going to do a podcast on noob gains uh in the near future too
+ because we're going to start thinking about central adaptations and that's where people
+ usually think about noob gains is like that immediate increase in power and you know central
+ adaptations are a big part of that but the but one part of noob gains that i think is a little
+ under appreciated sometimes uh including by me i'm no stranger to this stuff um i'm guilty too
+ where the endurance adaptations are actually pretty rapid like as soon as you start getting
+ off the couch and start exercising and holsey's paper kind of gets into that he was you know
+ like i said he's the father of modern exercise physiology really um well besides av hill him
+ and av hill are the two big ones so um a quick review from previous podcasts on the main benefits
+ of improving this muscular endurance and mitochondrial mass let's call it you get
+ better maintenance of energy state via spatial and temporal energy buffering. So go check out
+ Wattstock. I think it was 40 on that one. And this seems to be the primary determinant in sparing
+ muscle glycogen because it's pretty clear now at this point that the scientific literature
+ does not really see any sparing of glycogen by eating food. You can spare, well, not muscle
+ glycogen. You spare liver glycogen like that, but not muscle glycogen. So this type of endurance
+ seems to have a very outsized impact. It also seems to be better with recovery, not only from
+ hard efforts during your workouts, but also day to day, since mitochondrial are also central to
+ many pathways and biosynthesis. And we talked about that in the redox episode a little bit,
+ we brush the surface, there's a lot more there. And also, you know, it's blah, blah, blah for
+ health and longevity and stuff like that but i mean i'm always more interested in performance
+ um because i mean at some point right the exercise gets ridiculous and actually starts becoming
+ unhealthy for people or it can and that that sucks but um we're really thinking about performance
+ here so technically speaking most of what we've discussed most of what we've been discussing
+ expanding is what's called the mitochondrial reticulum and kyle do you remember your one
+ giant mitochondrion joke from forever ago i remember when i sent you a week later
+ yeah yeah yeah and then it turns out it is kind of true because mitochondria are able to
+ sort of interconnect and share share share is air quotes around here because it's not like
+ they're like they have little hands and they're like you know passing things off to each other
+ but yeah yeah well a little a reticulum like what's uh how would you define reticulum
+ uh it's like the it's like a network i would say network yeah like a mesh not mesh mesh but yeah
+ kind of like an interconnected sort of like interdigitated type thing yeah like so here's
+ a way to think about it is when you look at a cross-section of a muscle and biopsy and you and
+ we see mitochondria and they look like little beans and you're like oh it's a cute little bean
+ like what we're actually looking at is we are think about it like a slice of a tree
+ we're actually looking at a cross-section of like a tree this these are like tree rings that we're
+ looking at when we see the mitochondria and the crista inside and stuff like that so when you
+ like get um uh this this actually was done a while ago like this is kind of old knowledge but i think
+ everybody kind of forgets about it i certainly didn't really know um until i saw this whole
+ last textbook um or if you take cross sections of like muscle biopsies like section section section
+ section section you stack them on top of each other the um the mitochondria actually are this
+ giant network that look kind of looks like tree roots almost but they're not like getting smaller
+ as they go they're like you know roughly the same size but they branch and they go out and uh you
+ know have multiple you know etc etc so like so it it's kind of like um if you know what the
+ endoplasmic reticulum looks like it's kind of like an endoplasmic reticulum and and uh but it's like
+ not clustered like that it's just spread throughout kind of like ivy through the cell maybe that's
+ an okay way to put it maybe yeah i i think that's interesting too because i think it's it's one of
+ those easy sort of easy mistakes to make like you see just a single slice a single cross section
+ and you assume then it's a little bean you know yeah you lose all the information sort of coming
+ into and out of the page right if you can envision that in like three dimensions because you just
+ have this now two-dimensional projection and so anything that's sort of before or after that plane
+ is lost and so you don't know that maybe that does and then you also lose information like if you see
+ another mitochondrial you know cross-section bean-shaped thing somewhere else in that page
+ those two points might be connected because of some you know tentacle root type thing that is
+ coming into and out of the page that you can't see but you don't know because you aren't actually
+ looking um you're actually looking at that and you've lost that information so that it's i was
+ gonna say based on the language that you and i both just used i think people can tell which one
+ of us actually took calc three and which one of us did not um so actually nobody actually knows
+ how many mitochondria are in a cell um but there's a non-zero chance this number is not like
+ you know millions it's like maybe actually a very small number of continuous mitochondria
+ um and that's yeah so it you know it might be like 10 it might be 100 but it's certainly not
+ like millions um could you might not like take one cell and like you know smash it up and then
+ send it through mass spec and see how much i guess if there you need some tracer that correlates to
+ to mitochondrion mass or something yeah um i don't know if anybody's done that i bet
+ it's maybe possible at this point i i really don't know i haven't looked it up um
+ but the point being that that's why this is called a reticulum which you know uh as in a network and
+ so when we think about the mitochondrial reticulum it's actually very difficult to measure how much
+ is actually in a muscle cell um because you know it's um like yeah if you think about the
+ endoplasmic endoplasmic reticulum it's usually depicted as like kind of like blobfishes stacked
+ on top of each other, like a cross sections of that, you know, like, or like a, like if you
+ slice through a stack of pancakes that are kind of, you know, in volcanic shape, it kind of looks
+ like that. And sometimes it looks like that in the cell, sure. But, but, you know, we're talking
+ about a country here. So yeah, I think maybe Ivy or like tree roots that don't like get smaller as
+ they go might be a better way to picture it. So and so when we think about the adaptations we're
+ getting. One of the things that's not actually very well studied is this increase in surface
+ area and volume, like total surface area or total three-dimensional volume of mitochondria. It's
+ kind of an unknown thing. And one of the things that we're going to look at in this meta-review
+ today is the handful of studies out there that use transmission electron microscopy.
+ because this is the actual gold standard but there are very very few studies and i think this
+ meta review says there were like six um something like that so it's not a ton um more typical
+ because this i i haven't used a tem kyle have you i assume they're large and expensive i have not
+ yeah they're not they're not uh inexpensive devices and usually what happens is a lot of
+ places will have them so for people who don't know basically a tem is instead of having a
+ microscope that uses light where light passes through you know your little classic picture of
+ a glass microscope slide with a little glass cover and you've got some out of the little
+ like amoebas in there or something and you look at them in in high school bio this instead uses
+ a beam of electrons and it blasts this beam of electrons through from one side of the thing
+ you're looking at and then is picked up by uh you know some sort of uh particle detector on the
+ other side um but they're expensive and usually they are operated by people who are specially
+ trained or like a lot of like universities and schools will require you to take some sort of
+ class or classes before they'll let you just go in and you know um use their uh very fancy
+ expensive pieces of equipment um that's a good question i've never actually looked at them
+ for cost i i sort of imagine that they're in the like you know five to seven figures range if i had
+ to guess a lot of stuff is that sort of yeah it's it's it's it's a large expense and it is a large
+ expense that like a whole department will use like university money to buy not just like a single
+ research group is oh we're gonna buy this you know two million dollar piece of equipment
+ right yeah and actually we know a microscopist um and we should we should probably just ask him um
+ but anyway so so that's uh that's a cost prohibitive thing and an access prohibitive
+ thing for a lot of small research groups especially people who are working on like
+ you know molecular adaptation to cycling not a lot like you said not a lot of schools have this
+ And if it's there, you may not be able to access it.
+ And it may be in a different department.
+ It may just be the sort of thing where you don't know because you're in the exercise phase.
+ And sure, if you go over to microbiome and start knocking on doors, you might be able to find someone.
+ But you have to know that this thing exists in the first place and then hope that someone you know knows the person to talk to and things like that.
+ Yeah, you've got to be dating somebody in the biophysics department for that kind of stuff.
+ Exactly. Yeah, there you go.
+ Yeah. So a more typical measurement technique is isolating enzymes from whole muscle homogenate.
+ And so what is whole muscle homogenate? Think muscle margaritas. I'm not kidding.
+ When I was in biolab, this is what we did. Like if we're setting an enzyme that was in tissue,
+ the first one that we did was lactate dehydrogenase from bovine heart. And what do we do?
+ we took cubes of heart and we stuck it. We literally put it into a blender and it waited
+ until it was a nice liquidy mess. Um, and then we put it in the centrifuge and started fractioning
+ out, uh, what we needed. Um, and so with this method, you could easily imagine that the
+ mitochondria kind of get, uh, parted out or, you know, they kind of get their cells, uh, surface
+ gets disrupted, potentially, or they get chopped up into tiny little bits. And even when you spin
+ in a centrifuge, and you look at like the mitochondrial fraction of this, it's hard to like
+ get a really good measurement of that kind of stuff, too. And it's also hard to measure how
+ many proteins are in it. So a lot of the time, you know, there's a lot of different methods that we
+ could get into here. But it's, it's easier to think about it, for simplistic terms, just like
+ you've put the entire muscle sample in a blender and you are measuring the activity of certain
+ enzymes in it um and so usually citrate synthase is the big one and we've kind of discussed this
+ on the podcast before i think we discussed it in the ampk episode at length so citrate synthase
+ being the entry point for the krebs cycle uh where acetyl-coa um you know makes its way in
+ and then the Krebs cycle starts stripping electrons. So in this case, using citrate
+ synthase as a proxy for total mitochondrial mass, volume, reticulum size, whatever you want to call
+ it, this is what's usually called mitochondrial content. And content kind of means like,
+ you know, just how much of the mitochondria generally is in this muscle. And so, and here's
+ where we start getting into the weird stuff with these measurements because you could read the
+ literature for a long time and still not be entirely clear on what some of these terms mean
+ so so like um one of the things about this though is that the reticulum like the surface area the
+ volume the uh the membrane area exposed into the cell the enzyme content like your electron
+ transport chain, Krebs cycle, important export shuttle proteins, and they don't always necessarily
+ move hand in hand together. And in that mitochondrial overtraining study that we looked at
+ a while ago, this is one of the things that they got into in that paper. And guess what?
+ Their lead author is the lead author on this meta review. Nice. So yeah, so go figure there's some
+ kind of overlap in the, in the approach to the analysis here. So I think, oh yeah, that was
+ wastock 41 non-stoichiometric changes in mitochondrial protein content during overtraining
+ some of it lags and there was some really really cool stuff uh graphs in there which took me a
+ while to get my head around but if you just stare at it for long enough i find that it
+ it appears like a magic eye so it's like suddenly it makes sense and honestly that's how i studied
+ for biochem back in the day um and so also looking at wastock 47 it would make sense that um
+ You know, the volume of the mitochondrial reticulum can sometimes outpace the synthesis of a lot of proteins in the cell because the cell that's exercising is not repairing itself.
+ And so you might get one type of adaptation and some of it lags behind because you're exercising too much and you've got to chill and let all that stuff happen.
+ Anyway, go listen to that episode. And yeah, we'll skip all the other details on this one. So
+ okay, we're about to get to the paper, but we need to do one more thing. We kind of touched
+ on this already, but I wanted to kind of bullet point this before we get into the paper.
+ The signals, the adaptation signals that we've been discussing for the last few episodes.
+ These are all signals that say we need more mitochondria because we've only got really a handful of like quote unquote programs that can get switched on in the cell in response to a training stimulus.
+ And like in the last episode, we discussed PGC1 alpha, which is kind of like a bottleneck for all of these signals.
+ They get integrated here.
+ And then then this is like, OK, we got one big program.
+ It's like, so if you're, you know, so if you're like reading something and it's like, oh, doing this kind of training means an increase in this kind of protein, that's part of the larger mitochondrial, you know, or the endurance adaptation quote unquote program, as it were, that's one protein of many.
+ And if they measured all the other proteins, you would see a lot of those other proteins too.
+ It's like, you don't always, you don't ever see just one protein increase in size, unless that's what you're looking for.
+ And that's the kind of interpretation you want to have for it.
+ Realistically, it doesn't happen like that.
+ Does that kind of make sense?
+ Yeah. I mean, that also makes it, it kind of explains why things are, uh, um, hard to measure.
+ Yes. A lot of things in bio are hard to measure because of things like this. You're like,
+ what exactly are you looking for? And then you have to correlate all these different signals,
+ et cetera, et cetera, et cetera. So, yeah. And, and sometimes, you know, it can also reflect how
+ the experiment is done. And we're actually going to discuss that in great nerdy detail later here
+ today um but you know it's stuff like uh if you take like cancer cells you feed them different
+ amounts of like lactate for instance like the cancer cells that get more lactate they grow more
+ go figure um and then you could look at like any kind of marker of uh you know uh genetic
+ transcription or translation you go wow look this lactate means this thing is growing it's like it's
+ a cancer cell of course it's growing if you give it food like let's standardize a little better
+ here with these things. So the signals that we're looking at for exercise, change in cellular energy
+ state, ATP, ADP, AMP concentrations. And this is really the main thing that's what we're trying
+ to prop up as we get better with endurance training. We're trying to maintain cellular
+ energy state. This is our big adaptive signal. This is why mitochondria are so good because we
+ can do this aerobically, which means we can do it sustainably, kind of regardless of what fuel we
+ use carbohydrates or fats, um, or even proteins. So protein, yes. Sorry. I know I need, I need food
+ too. So, um, so when we're very untrained, uh, you know, uh, the energy state will plummet
+ in a little bit and it'll yield a good signal during pretty much all intensity,
+ intensities of exercise. And this is one of the things that John Halsey saw many years ago.
+ Another signal, elevated calcium via CAMK. This is where the muscle is contracting. So we are
+ exercising. It's all we need to know. Redox stress via sirtuins. So we get a change in the NADH-NAD
+ ratio, which happens during all sustained exercise, all of it. General stress of exercise,
+ P38 MAPK via mitogens, which are small peptides that usually signal for things like mitosis,
+ inflammation. The list goes on. It's a very long list. So even epinephrine, which increases the
+ harder that we're exercising and we're increasing very, very hard, we get massive increases in
+ epinephrine slash adrenaline slash catecholamines, we could just call them. And this helps with the
+ transcription of pgc1 alpha um and actually remember in the last episode how i said i had
+ a short half-life and i mentioned i think it was like two hours or something like that um
+ i was way off it's like 20 minutes okay yeah it's way more rapid um but i mean the conclusions don't
+ really change for between friends you know yeah it's not an order of magnitude like physicists
+ usually think about as being large so um yeah so i didn't i should have written that down i didn't
+ that was my bad but anyway for our purposes those are the big signals that we can think about
+ that yield adaptation and with that in mind we dig into our main paper today
+ so this is called training induced changes in mitochondrial content and respiratory function
+ and human skeletal muscle. So we encountered Granada before, who's the lead author here.
+ And another author here, David Bishop, who's been studying NPK quite a bit. I used a lot of his
+ research for that episode and also for some of the other stuff. He's been really great. He was
+ actually on it as an exercise and he had a pretty good interview, I thought. So the main point of
+ this meta-analysis was to look at how manipulation of different training variables affects mitochondrial
+ content and respiratory function so what are our main variables how hard can you go how long can
+ you go that's the end of the list volume and intensity yeah and usually people say frequency
+ but you know in these studies frequency is uh in a in a handful of the studies that they looked at
+ for this meta review they change frequency but really more frequency of the same duration just
+ means more total volume uh and so right that's what i was going to say there it's sort of yeah
+ there's sort of two sides of the same point with yeah with with volume yeah yeah unless you're
+ unless you're studying like what if i work out 15 hours in one day versus 15 hours 15 hours a week
+ in one day versus spread out over six days uh that's a paper i would read
+ let's put it that way um so what we're going to be looking at in this paper is the actual change
+ in mitochondrial content and various measures so it's not really going to be just like you know
+ the strength of the, you know, uh, MRNA transcription after exercise, after, you know,
+ four hours and 24 hours or something like that, we're going to be looking at what is the actual
+ phenotype change of the muscle. And a lot of this is based on citrate synthase, but we got a little,
+ little more detail to go when we got new measurements that we're going to talk about.
+ So, uh, this is going to be really fun. So, um, so this is actually, this meta review is a rare
+ opportunity to really look at one of the main actual physiological outcomes of endurance
+ training in the muscles across different exercise intensities. And so we're going to see the range
+ of adaptation for a variety of intensity and volume combinations. And this is going to let
+ us make a fairly objective assessment about what is actually superior. And the answer is a little
+ bit surprising, but it's also not at all surprising. So I like a lot of the things that
+ they did here. And one of the necessary evils here is they had to, like I said before, they had to
+ normalize everything to ramp test values. But they mostly focused on cycling, which is great for us,
+ because we're all cyclists. Well, most of us are cyclists. I know there are a couple non cyclists
+ who listen so hi out there so unless otherwise mentioned in the paper they were just looking at
+ cyclists which means a really homogenous exercise modality which helps with the analysis greatly
+ they also left out any papers that had incomplete uh information on the exercise protocol that was
+ used or they also left out any elderly or unhealthy and diseased populations so we have
+ a really good group that's good yeah of healthy people some of them fairly well trained and a lot
+ of the cases not very well trained um but you know at some point you know well you can you can
+ read the paper if you really want to it'll be linked in the show notes so the authors start
+ their analysis by breaking down their categories for training induced changes in mitochondria and
+ they're they've got three categories they've got content protein synthesis and respiratory function
+ We're going to kind of gloss over protein synthesis, but content, this is the one that I've kind of talked about the most in the podcast so far.
+ It's a combination of how much mitochondrial surface area there is, plus how much mitochondrial protein content there is.
+ And that's for this paper, for this meta review.
+ So here they're using basically citrate synthase because it's so commonly measured, but occasionally in other papers we'll see electron transport chain proteins like SDH will get measured, and that's a kind of crossover between Krebs cycle and yada yada.
+ Sometimes it'll be like HAD, and there's a bunch of ways that other papers have done it.
+ We've talked about those, but here they standardized it to citrate synthase, which I think is actually really smart.
+ So for protein synthesis, it's actually way too in the weeds for this episode, and we don't actually get a ton of actionable information on it.
+ It's interesting to read, but for our purposes, we can really just ignore it.
+ Because this is like the first step in adaptation response once the aforementioned signals actually get sent.
+ And it would be measuring how much of certain key proteins are made immediately in response
+ to training or even in 24 hours or something like that.
+ So most of these studies are in the meta review, or all of them rather, are looking at just
+ what's pre-intervention and post-intervention, and that's it.
+ They're not looking at the immediate response.
+ So the last one is respiratory function, which means mass-specific respiration, which is
+ to say if you isolated just uh your muscle sample or your mitochondria and you measured the vo2 max
+ therein like relative to that weight and you know usually this is like picomoles per second per
+ microgram of mitochondria like in other words very very small very very small like how many
+ was how many zeros are in picograms pico is 10 to the minus 12 right nano it's like
+ yeah nano is 10 to the minus 9 pico is 10 to minus 12 yeah yeah okay um
+ thank you uh it's a lot of zeros a lot of leading zeros i don't spend a lot of time thinking about
+ picograms in my life picograms are like there are still you know like this is kind of looking
+ it's actually pretty impressive that we're able to measure such small small amounts of things
+ i always think i always find that pretty fascinating that you know you think about
+ okay what's a gram in your life like a gram about you know the mass of say like a paper clip or
+ something like that right and so imagine chopping that up into 10 to the 12 pieces um and then we
+ have we have things that can can measure that it's kind of cool uh yeah i agree and actually
+ whenever somebody overspends on a bike to save like 50 grams you should show them in paper clips
+ how much money they spent like they're like you just spent two thousand dollars on these 50 paper
+ clips um anyway so the one last thing to note about the standardization stuff in this paper
+ is that when they discuss volume and intensity they had to standardize across everything so
+ for intensity i quote the paper here quote exercise intensity was expressed relative to
+ the maximal power output w max or and or estimated w max based on the bioenergetic model unquote
+ bioenergetic model meaning the critical power model so this is really standardized stuff and it
+ like i said before it kind of misses the thing about threshold kind of appearing as a range
+ relative to WMAX, but we just have to live with it here. For volume, training volume, okay, sorry,
+ quoting the paper now, training volume was calculated by multiplying the exercise intensity
+ relative to the WMAX or WMAX prime by the duration of exercise training in minutes by the total
+ number of training sessions, unquote. So this is actually a direct correlate to what Kyle, you and
+ i have been calling the area under the curve way to consider aerobic signaling how like how hard
+ is the stimulus and how long is the stimulus going for and you know so does that need any
+ further explanation do you think or does this yeah i mean it's just yeah it's looking at to just for
+ people who aren't familiar right with area under curve you're looking at not just like how long
+ something goes for or how tall the the maximum signal is but sort of the it's a sum of all of it
+ So, yeah. And we can tell, and there are socks, sorry, go ahead. Oh, I was saying, and like the other thing with area under the curve is that, that there are, are many different, perhaps an infinite number of different ways that you can draw curves that come up with the same area. So, um, it, it is, it is both instructional that in that way, but also depending on how you do it, you may have to be aware that, you know, you can have very different curves that integrate out to the same number, depending on what you're looking at.
+ so yeah is is that related to our um to our discussion on infinite sets earlier this week
+ uh kind of yeah yeah yeah oh god i thought so oh no it's it's my nightmare i'll coming back
+ calc 2 coming back at me right now um okay so now we know their methods to standardize things
+ for this meta review uh and you know i'm not terribly happy about it but i'm also like there's
+ no way you can fault them for it because this is just how things are done in exercise physiology
+ these days. You know, especially with like ramp tests and saving time, you know, you hook somebody
+ up to a ramp test on a bike and you get their VO2 max and sometimes you measure lactate and it's
+ been pretty standardized for a very long time. So the other thing to standardize in this paper
+ was what counts as different exercise intensities. And so what they really did was they broke down
+ the protocols individually, paper by paper, and they label them. So you'll actually see like a
+ moderate intensity continuous training at the same percentage of W max as like a HIT, um, high
+ intensity interval training paper. Like they overlap in quite a decent range. And so it'd be
+ like, wait, what's going on. So they, they look at the protocols and they kind of assigned it based
+ on that so mict mict middle intensity continuous training is was assigned as 45 i know 45 to 75
+ percent of w max which can be all the way under lt1 for some people and all the way over ftp for
+ others but it's a decent range and for the average it's fine um sprint interval training sit is
+ basically anything over 100% of W max. Most often, it's done as like 30 second sprints in these
+ protocols or the papers they looked at. They looked at quite a few. So the other one is HIIT,
+ high intensity interval training. They assign these as intervals done at 75 to 100% of W max,
+ which can be FTP for some, but eliciting VO2 max for others. And these are rough definitions.
+ And like I said, they classified all the papers they looked at individually.
+ And in the text of the papers, they actually discussed the individual papers, interval protocols, and all that stuff, kind of at length sometimes to illustrate different points about, oh, this paper found this, this paper found this, when they're trying to address questions that their meta-analysis has brought up.
+ So the studies on content or volume density is the big section for this paper and has most of the juicy stuff.
+ And they start by looking at only six studies that use the gold standard of TEM for looking at training interventions in healthy young participants.
+ Six out of like, I think they looked at in total, maybe 70 or 80 papers.
+ We've got six here.
+ So, to me, this is interesting because, well, they also only had healthy young participants.
+ Like, they didn't have any trained cyclists in this stuff.
+ So, there's that.
+ But I wanted to bring this up because they have a really interesting range for change in mitochondrial volume density.
+ And so, they've got a range of 1.1 to 1.6-fold change.
+ That's a big range.
+ yeah that's a pretty surprise like you know and keep in mind none of these are like you know 10
+ year long studies or something right like yeah those things just don't exist so i think the
+ longest study that they looked at was like 12 weeks yeah no that's a lot 12 weeks yeah there's
+ a lot that's halfway to getting somebody ready for a proper race um so i i thought this was
+ interesting because it actually shows a lot how variable the individual response can be to the
+ same protocol. And another reason that individualizing training helps a lot, some people
+ need a little more, some people are fine with less. And, you know, sometimes, you know, when we get
+ into the weeds of this stuff, like there can be selection bias at play, when we look at, oh, this
+ worked for this person, this didn't work for this person, you've always got to not compare across
+ people like that, because you get a lot more variation between people than, you know, even
+ between groups of people. So. So the downside also of these protocols is that not a lot of long term
+ study on this you know kind of like i mentioned so when we look at the papers figure one we see
+ we actually see a plateau in mitochondrial volume density as volume gets to about 10 or sorry 100,000
+ au uh that au being arbitrary units not like astronomical units kyle sorry i'm gonna say
+ these are big very large yeah you're like oh i thought they weren't that well trained they did
+ 100,000 AU. Wow. Yeah. So we cannot draw many conclusions about what happens in the super
+ long-term with well-trained people. And the authors also conclude the same thing. But I
+ wanted to really just highlight the variability here with the few studies that use our quote,
+ unquote, gold standard. But we can draw some great conclusions in the next section. This is
+ the real meat of the paper. They spend the most time, most body of the paper here. And this is
+ where we can actually make the most conclusions too. So this is where we're measuring mitochondrial
+ content by citrate synthase activity. You know, like I said, it's the entry point to the Krebs
+ cycle and with endurance adaptations. So we not only need to have more electron transport
+ proteins to make ATP, to maintain the energy state, we need to strip more electrons off of
+ food stuff to supply that stuff. And so check out what stock number 29 to 33 for explanations on
+ that. And sorry, they're basically biochem lectures. I tried to make them as interesting
+ as possible, but I knew if I just said, go look at these things, nobody would go learn up on what
+ happens with like, you know, fat breakdown, et cetera, et cetera. So anyway, that's why citrate
+ synthase is an enzyme that's been fairly well associated with endurance adaptations and is so
+ frequently measured because it's such a critical part of adaptation and the entire quote unquote
+ machinery in order to, you know, strip energy from food. So measuring citrate synthase activity
+ from whole muscle homogenate also means they're measuring whole muscle activity, which is an
+ upside and a downside, because the upside is we don't need to control for individual motor unit
+ recruitment, which in a way might actually be impossible to do with any precision at all.
+ But on a downside, we're also not controlling for individual motor unit recruitment.
+ So, you know, we're looking at whole muscle activity.
+ So if we get higher exercise intensity, we might have citric synthase activity increasing in more muscle fibers than we would use just riding easy.
+ So that's kind of the downside here.
+ But the nice thing is we can fairly compare different studies and different intensities, which we can do here.
+ So we've got 56 studies total in this section.
+ And the headline news is, greater training volumes are associated with greater citrate
+ synthase activity, R equals 0.59.
+ But, and Kyle, you can scroll down in our notes here to figures 2A and 2B.
+ But when the authors remove, yeah, hold on.
+ We're going to get to that.
+ I want to set this up right.
+ So when the authors remove the sprint interval training studies, the R goes up to 0.71.
+ and as far as your data concludes well we can we can save the we can save that juicy little
+ mic drop that's coming up for a second so yeah go ahead kyle tell us what's in these figures
+ yeah so there's there's a lot of different point data points and it has on the x-axis it has
+ training volume and it goes from 50 sort of zero to 250 000 arbitrary units and on the y-axis they
+ have cs activity so it's the fold chain so it's kind of confusing because it goes from one to 1.8
+ and you think that's not very high but it's actually looking at like we said it's a one
+ it's fold chain so it's like doubling um it's like an exponential uh uh kind of logarithmic
+ type scale right not just a linear scale so it's not like going from one to 1.2 is not 20 percent
+ it's um it's an exponential so the generally speaking sort of if you envision these points
+ they're kind of scattered about and um there is a trend sort of that more of the points at the
+ higher training volumes see more of the more response in the you know um the cs activity
+ which is good it's kind of what you would expect you'd hope oh god you hope blocking more time
+ um uh but what's interesting is that there are definitely some big outliers that that like so
+ so generally you have a clump in the middle that kind of is in that sort of monotonically
+ increasing direction with more more cs activity with more training volume um and then like you
+ said in the one plot they've included the sprint intervals and then in one plot they've removed
+ them and the correlation sort of between more cs activity goes and training volume and more
+ training volume goes up when you actually remove the sprint interval training and if you actually
+ look at where the sprint interval training data points are clustered a lot of them have relatively
+ low training volume because that's like the set one of the selling points of of uh that type of
+ training right is that you um don't have to do that much time and they're all really hard and
+ so you get a lot of sort of time efficiency um but none of like not none of them go particularly high
+ on the activity on the y-axis yeah like the highest sprint interval training that you see
+ is like 1.5 ish fold change but the volume doesn't go anywhere like the highest volume we see for the
+ studies is like what is that like 40 000 ish but like the average like the middle of this chart
+ here is like uh 150 000 or 175 ish or sorry 125 is the exact middle and you get similar numbers
+ like a lot of so sort of yes in the sense that the highest like sprint training uh number that
+ you see is sort of in the 1.5 ish but you see a lot of the other types all the other types of
+ training can offer a similar amount of activity increase it but with substantially higher training
+ volumes not that that means that there's it's substantially harder but the sprint interval
+ volumes are just so low that you think like oh the difference between 10 000 and 100 000 of these
+ arbitrary units like yeah it's a lot but the when you talk about the total amount of time and the
+ interval training it's just not that high yeah and um and they're all so clustered around the
+ bottom i mean no wonder they're really kind of thrown off the uh the r of uh of this you know
+ linear regression um and one of the other things though is that you couldn't do a ton of sprint
+ interval training you know to 200 000 arbitrary volume units like there's no fucking way because
+ you're just gonna be so tired maybe you couldn't no i absolutely could not like um no that that's
+ right it's it would be really really hard and um it would be a sort of uh a death march yeah for
+ sure um and so there's one of the other things i like about this or not that i like but that i
+ notice about this that kind of leans into the way i like to train people is that it doesn't seem like
+ there's an upper limit. Like, it's not like this is plateauing. Like this is just like a line
+ straight up and the range, you know, it's, it's a, it's a fairly wide range. So at basically zero
+ arbitrary units, we have anywhere from like a 1.3, no, sorry, 1.1 fold change up to like 1.4.
+ That's all the way at the, like the bottom, bottom, we go up into the middle range. We're at
+ like a 1.25 to 1.5 fold change or you know 1.6 fold change as the range we go all the way up to
+ the top and the range is like 1.5 to like 1.8 and so that range just keeps going up and up and up
+ and kind of regardless of what exercise modality is like the middle intensity training high
+ intensity training which could also be via two max slash ftp intervals who knows what they were
+ for these people. Like, more is more. And so realistically, this suggests we need obviously
+ need further research. But this suggests that there's really no upper limit to the volume,
+ where you could, the more you can ride, the better endurance you're going to have. And in my coaching
+ experience, that's exactly what we find. And when we run into issues with how much can people ride,
+ It's not like we really find, I mean, there are some diminishing returns, obviously, but I find that if people could recover faster, they could be even more fit by riding more.
+ And it's the recovery that really limits us rather than the actual, like, you know, like the riding adaptation itself or the stimulus rather.
+ Yeah.
+ And that's interesting because we've talked about this before when you talk about like, oh, if people are, how do you know whether someone's actually at their genetic max?
+ And it's like, yeah, if you're not a pro, you're generally restricted just by how much time you have to train and recover.
+ It's not like you most people are not going to reach there like, oh, I'm just totally tapped out on my fitness and I'm never going to be fit any any faster on my nine hours of training.
+ Yeah, well, it's like, well, the other thing I was going to say is that we're also looking at full change.
+ We don't have a baseline here.
+ We're looking at full change relative to the person.
+ So somebody could have amazing natural endurance abilities and somebody could have, like me, really bad ones.
+ And, you know, we're not looking at like what is, you know, what is somebody's peak potential for endurance here?
+ We're looking at just what is the change from what they had before the intervention.
+ That's all we're looking at.
+ This doesn't say that, you know, if you just ride more, you're going to get, you know, you're going to have endurance as good as like Pagacar.
+ Like that's not going to happen or it might not.
+ It might also, who knows?
+ And I think also a lot of people are thinking about when they think about improvements,
+ they're mostly thinking about the power, the absolute power output.
+ What's my FTP?
+ What's my watts per kilo?
+ And we're talking here about endurance.
+ We're not talking necessarily about increasing your VO2 max.
+ We're talking about muscular endurance.
+ And all my data says you ride more, you've got better endurance.
+ You still have to do intervals, but, and we're going to get into much detail on that in just
+ a little bit, but this is pretty much the match between the data here and my coaching experience.
+ That doesn't mean that you have to ride more. And also, of course, this means that some people can
+ ride 10 hours a week and still have great endurance. You know, the training history
+ matters a lot too. So we can't really make any conclusions about any one individual, but
+ as a whole, we can certainly make conclusions that riding more is better for your, um,
+ citrate synthase activity fold change to be technical yeah but i i think this means that
+ you know it it also like you said with this a lot of these studies and this probably matches
+ people's experience that you know because these were not very well trained experienced cyclists
+ like this is definitely what you would class as like noob gains for some of these studies where
+ like oh man they were generally healthy active but hadn't really trained cycling and then all
+ of a sudden in the first three months they saw really great improvements right and a lot of
+ people remember that when they first started riding in a serious controlled uh sort of planned
+ periodized manner instead of just riding around even as much fun as just riding around is you
+ know yeah that's true i get that well well that actually reminds me i got one more thing to add
+ to my list of uh of mistakes that uh the intermediate and advanced people make for that
+ podcast that we're going to do eventually i've got notes on a lot of this stuff so um and that
+ is one of the mistakes is thinking that you know your noob gains are going to keep going for your
+ you know when you're an intermediate and advanced cyclist so oh that'd be great i know right oh
+ anyway so part two but how hard should we ride kyle how hard should we ride so i've included in
+ our notes figures exactly as hard and no as needed and no harder in a way yes so so i've got figures
+ cnd here on the left we've got again with the sprint intensity studies here and on the right
+ without them so why don't you describe kind of what we're looking at these are all going to be
+ in the show notes too yeah it's it's a little it's a little confusing because it's also there's a lot
+ of points again um not surprising because they like you said they looked at a lot of different
+ studies and you have a um like a i would say a general cluster of all of the other programs that
+ were not the sprint interval training and sort of the 50 to 100 of w max um range which is makes
+ sense with the descriptions that we gave so so the so the x-axis is like relative intensity
+ percentage of W max from zero to 400%. Uh, but on the right where they, where they excise the
+ interval training, it goes just from 40 to a hundred percent. Yeah. Um, but there's a big
+ clump of the sort of non sprint interval training where it's just kind of that it's almost kind of
+ Gaussian shaped, actually like a pretty high, taller cluster in the sort of 60 to 80% range,
+ then fewer programs that that wanted people more down in the 40 50 percent and also fewer programs
+ that had people sort of up above 80 and then there's this whole band of sprint interval training
+ at the 175 percent all the way up to this one program at 350 percent which is like oh god which
+ also has very low full change it's like 1.1 yeah um but you tend to see on average the programs like
+ if you were just to average out all of the programs that are not doing sprint interval
+ training their fold change on the y-axis would average out higher than the sprint interval
+ training average um yeah we're looking at like 1.3 ish versus like for the sprint interval the
+ middle of the road is like 1.25 ish it's it's not a huge difference but you can definitely see not a
+ huge difference but it's it's clear and you can also see that you know sort of there there is a
+ much what not hard cap but there's a much firmer uh sort of peak that the the high the sprint
+ interval training programs never crack above like we said that 1.5 and you have several data points
+ for all from from the grouping of all the other programs that exceed that 1.5 yeah yeah the range
+ the range except for those uh kind of well they're not they're not really outliers the real results
+ But like, you know, those upper limit, because from the super high volume training studies, this is what we're seeing here is like, we're looking at 1.5, 1.55, 1.58, 1.6, 1.75 fold change for those really upper limit.
+ And on the sprint interval training, like, yeah, there's that kind of like cap at like 1.4. And part of it's probably because you couldn't get to higher volumes, like we just said, but also, you know, for, you know, fairly noob gaining kind of people, this does show, well, not that all of these participants were noob gaining people, but, you know, there were definitely some trained cyclists in there.
+ But we are definitely looking at, you know, some equivalence of these two things.
+ Like, you know, a lot of people have kind of discussed and, you know, they're not wrong about it.
+ Yeah.
+ So on the right here.
+ I would say the other thing is.
+ Oh, yeah.
+ Sorry.
+ Go ahead.
+ Oh, the one other thing I think is unfortunate is the, you have a couple, two, three data points down of the sprint interval trainings that are down in the sort of 100% level of WMAX.
+ and they're they're interesting because they're pretty close on the x-axis to a bunch of the
+ other traditional more maybe we'll say more traditional um training modalities and the
+ results are comparable or maybe slightly worse yeah actually yeah very much true um well i mean
+ because also um uh now we don't get to that anyway so on the right here what they've excised
+ the sprint interval training studies again. And so now we actually have, we can actually look at
+ the distribution in the ranges that normal people train in, which is, uh, we've got 40 to 90% of W
+ max for these protocols here. Uh, so tell us what we're looking at. Yeah, it's, um, yeah,
+ it's broadly Gaussian. I would say that the sort of relative intensity exercise, the average of
+ these sort of more traditional programs is somewhere in the high 60s percentage ish maybe
+ maybe just just under 70 um and that's actually the range where you see the highest cs activity
+ as well sort of in that middle range um sort of between 60 and 80 you see the points that are
+ that show the highest activity and if we go up actually that that's one of the studies that had
+ the highest training volumes too that was a 225 000 au yeah oh that makes kind of sense i guess
+ if you think you're logging like a lot of volume of moderate intensity but then it it sort of the
+ cs activity tapers off towards the extremes of you know sort of the 90 level um it's sort of
+ interesting because you can look at the a bunch of the programs in the 90 level saw very similar
+ results to a bunch of the programs down at the 50 the 45 to 50 ish percent intensity level i mean
+ which means that they were doing a lot of hard work and getting they could have like cut the
+ intensity in half almost and got the similar results which is kind of rough yeah yeah mentally
+ well one of the other things i noticed here is that the um is that there's a lot more studies
+ in the middle and that may actually contribute to why this looks gaussian because uh like at the
+ very low end of like 45% W max. And on the very high end of 90% W max, we only have a handful of
+ studies compared to that cluster in the middle where more studies usually assign 60 to 75% W max
+ as like continuous training. Uh, and so that's one of the reasons that, you know, we may be looking
+ at selection bias. If we had more, like the same amount of, uh, studies at the low end and the high
+ end, we may actually see a wider range of CS activity, depending on potentially depending
+ on the volume that you could do. And at the super high end, actually, one of the things I think is
+ interesting is that that cluster at 90%, they're all HIT, except for one middle intensity training,
+ or micked, as you would read it. I know, that's why I haven't been saying it. I also can't bring
+ myself to say HIIT training either. So that cluster is, you know, when you're doing interval
+ training like that, you are limited by fatigue, you're limited by how much you could physically
+ do. And so in the middle where you're where you're looking at being able to do more volume,
+ that's where potentially we see the highest improvements. And the average though, the average
+ across all of it is about the same 1.3 fold change yeah yeah yeah like it's like the um r is negative
+ 0.01 for this yeah distribution basically means it's not correlated yeah zero relative intensity
+ is not correlated to the cs activity yeah so this is something that is fascinating to me
+ Because the first time I saw this, I went, no fucking way. This paper came out in 2018, by the way. And I saw it, I think, like late 2018. I was like, really? You're kidding. That's so cool. So it's, I'm sorry, I'm just marveling at his beauty right now.
+ like because you would think if you had if if higher intensities yielded higher cs activities
+ just because they're higher intensities you would see a positive slope here and it's flat
+ yeah in the middle yeah and in the middle you know most volumes um for these studies uh
+ you know, they're not exactly, you know, spelled out here. But basically, the highest volume shows
+ the highest change, and it's right in the right in the middle. And if we had, I'm sure if somebody
+ had lowered that intensity, and had people do even more volume, you would probably still see
+ a similarly high increase. And so this is the big conclusion here is that, according to this data,
+ intensity is much much much less important than the total volume way less important the bottom
+ intensity here is 45 w max 45 this is about i would say for the average person somewhere around
+ 60 of their ftp and it doesn't look like it's dropping off at that point it's flat which means
+ you could probably ride at 50 of ftp and get about the same thing um and so yeah sorry go ahead
+ oh no no i agree like it's it's and we've talked about this before right where sometimes people
+ get hung up on exactly what percentage and they're like yeah these are kind of zones so
+ you can kind of round and squint a little bit one way or another and it's fine yeah actually
+ the um that uh uh episode i did with rory about um how training zones screw you or whatever the
+ title was i had this written and i deleted it at the last second because i'm a chicken but
+ it was originally going to be there are no such thing as training zones and this is one of the
+ things i was thinking about when i wrote that uh yeah but i mean i but i went with a more practical
+ like you know you know how they're steering you wrong or something because when you think about
+ these training zones oh i have to be in this range to get this adaptation you fucking don't
+ it's pretty clear like yeah and this is this is why for a long time i've i've said ftp is spicy
+ endurance you get a lot of the same muscular adaptations as you do at lower intensities
+ it's just harder because obviously we're recruiting different amounts of muscle mass and yada yada
+ um and so there's you know they're not exactly equivalent even though in this sense in some ways
+ they are, but, um, you know, it's, it's, it's a less important distinction than I think a lot
+ of folks would think it is much less important. So, um, yeah, so kind of my reading of this is
+ that for the same unit volume, regardless of intensity, the average adaptation of citrate
+ synthase activity across all studies was about 1.3 fold change across all and so
+ the intensity less important than the volume by a lot does that mean there's a minimum intensity
+ does that mean you can go out and ride at 20 watts no obviously you cannot do that that would
+ be way too low even if your ftp yeah even if your ftp is like 150 like mine sorry my 200 we talked
+ about this we want to we want to have that study of like what is the lowest lowest intensity
+ like high volume that you can ride at and still and still see see gain so like is it under triple
+ digits probably under triple digits right like it's you know i think it depends on 15 hours a
+ week of like 80 watts yeah well for somebody like me my my threshold is actually about like 210 right
+ now and so for me my easy endurance riding is like 60 to 80 watts sometimes i go up to 100 and if i
+ go outside i'm having fun and i'm on a good day and i feel like smashing a little bit i'll average
+ 140 for two three hours and that's fun it's it's hard could i do that day to day no absolutely not
+ even at even riding as much as i do easy which is like what somewhere around six hours a week right
+ now. So it's not a lot, but you know, it's enough to stuff to keep me healthy. There's that H word
+ again. But yeah, it's like it's, I know for a fact that what we're really dealing with here,
+ and we're going to really dig into this in the next 10 minute tips episode on this is fatigue
+ management. Because if you cross over that LT one, you do six hours there, and you do six hours just
+ under it the fatigue is disproportional once you get over a threshold you gather a lot more fatigue
+ and you get just a tiny bit more adaptation and it's not worth it an ftp is the easy one
+ like you ride at 110 ftp versus 90 ftp 110 right like you and me we can we can go longer than most
+ people at 110 but it's not going to be equivalent to like you know going more than twice as long at
+ 90 because the the duration is going to be so much more impactful there and it gets real hard at the
+ end like like if you've ever done that like made the mistake of like thinking that you can hold
+ just a little bit too much and like and like you think you're starting out like fairly aerobically
+ and then it like starts to kick in that you're like pretty not you're working over your aerobic
+ maximum you're like oh this is it's getting bleak yeah when you're trying to get that you know that
+ like one minute where you're like controlling your breathing like no it's not that hard and
+ then like a minute later yeah like severe regrets yeah that's a good time and like sometimes it's
+ it's just that slow descent until like you just try to hold on and like white knuckle but that's
+ it's a different workout right that's that's an entirely different workout than like a high tempo
+ workout very very white knuckling the end you know all the time yeah every the or the end of
+ every interval should not be a white knuckle experience like it is on like vo2 maxes i agree
+ yeah like just you know at some point you're like that was some hard work just you know
+ unless that's the workout is to is to go that deep especially if you're doing threshold intervals
+ like you know it starts getting hard you're like oh i better catch my chips and get out of here
+ like this is this is gonna turn on me real quick like yeah you you you made it you you escaped
+ you beat the house um anyway so the other section of this paper to get into i can't believe we're at
+ over an hour right now but there's one more section and i want to get into this because
+ this is a paper uh the section of this paper on respiratory function and i would normally skip
+ this section because you know we just got through all the big stuff so if you want to skip to the
+ end for the listener questions be my guest but this section for me i think is necessary to include
+ at this point in what year is it 2024 um yeah i was gonna say it's 2024 well it's march 24th and
+ i was like is that the day of the year um because they're usually not the same anyway sorry the
+ mitochondrial function phrase is everywhere that I see. And it bugs me a little bit,
+ not only because I'm pedantic like this, but because mitochondria have a lot of functions.
+ If you say mitochondrial function, which function? It would be great for somebody to clarify if they
+ use this phrase, which function? The function about calcium buffering? The function about
+ apoptotic signaling the function about biosynthesis the function about oh resp respiration okay cool
+ respiratory function and that's what this paper is looking at at this point um and i'll warn you
+ right now this is some pretty hardcore nerd stuff so um i'm looking forward to it but if uh if your
+ eyes gloss over don't worry um and i'm sorry so yeah this is the pleasant reminder that you're
+ mitochondria do a lot of things that aren't just like help you ride a bike they're very important
+ for a lot of other reasons like we we've looked at those studies right where they they knock out
+ in like mice like various mitochondrial functions they don't lead very high quality lives no and
+ yeah and people with actual mitochondrial diseases do not have easy lives they really genuinely don't
+ and it's like oh are my mitochondria dysfunctioning like can you see can you walk like yeah you're
+ probably fine you just need to exercise that's all um which is a gross simplification of yeah
+ of exercise and yada yada and health but yeah cdc recommends like what is it like three hours a week
+ or something yeah it's 150 minutes of like basically slightly over walking intensity
+ exercise a week i mean honestly from having you know from my hip injury and like barely exercising
+ for quite a while besides lifting as soon as i started riding about three hours a week i actually
+ felt my health improve. So I'd say there's some merit to the CDC's claim. I'd think, you know,
+ if you go to six to 10 hours, you'd probably be a lot better, but who knows? You don't have to
+ write hard. You know, especially if you're looking for mitochondrial function. So which function are
+ we talking about? Respiration. So anyway, this is an aspect of training that's been observed in
+ previous studies um but they're in a lot of ways it doesn't seem to have a specific thing in
+ performance that we can tell and so that's that's the kind of caveat here but we've encountered mass
+ specific respiration on the podcast before especially in the previous granada study
+ watslock 41 or 2 i forget which one um but we kind of glossed over the technical explanation
+ other than to say it was like, you know, the mitochondrial mass specific VO2 max in a way.
+ But here, the standard for these papers is actually not to isolate the whole mitochondria,
+ you know, and then check them out. But it's actually looking at permeabilized. Did I say
+ that right? I've been reading this word and I don't think I've said it more than twice ever.
+ muscle fibers. Muscle fibers were the cell surfaces made permeable. And so this is mass
+ specific respiration. And this term in this paper usually means muscle sample. Instead of grinding
+ up the muscle sample into a margarita, spinning it in a centrifuge and taking out the specific
+ mitochondrial bits, we're not looking at that. We're looking at, we leave the mitochondria in
+ the cell. And basically how this works is imagine your cell is a house and you want to know what's
+ going on in the house. And so you knock down all the exterior walls, but you try to leave as much
+ of the interior alone. And the holes are pretty big. So especially because you're in solution here,
+ like you are immersed in a liquid, small stuff gets washed out of the holes. Like I'm looking at
+ a paperback right now this is gonna get washed out but my desk is not getting washed out and so
+ it's just too heavy and i mean the i actually looked up how big are the pores that get made
+ with this stuff and they're about two nanometers and i had oh sorry go ahead oh i that seems pretty
+ big nano like nanometers for a cell is fucking enormous like yeah that's pretty big it's like
+ a garage door like you could drive a car out of that thing if you were a cell um but i looked up
+ some of the sizes of school bus yeah well i looked up some of the sizes of certain proteins in order
+ because i'm thinking about some of the results they got and um and you know like uh myoglobin
+ is three nanometers not two so like that's probably going to stay in the cell um but there's a lot of
+ small stuff that'll go away but the cytoskeleton stays intact and the mitochondrial membrane stays
+ intact. Nuclear membrane, I'm not sure about. The endoplasmic reticulum membrane stays intact. So
+ in the muscle cell, that's sarcoplasmic reticulum. And one of the things that happens, well, one of
+ the things that we're doing is actually we are using a plant toxin called saponin. Or saponin?
+ i always say saponin i don't know which is correct um and this is actually a really cool aspect of
+ plant defense because a plant plant can't like swat you away or eat you unless it's a venus fly
+ trap i suppose but they can certainly poison you and so this is one of the ways they poison you
+ is they basically um well way back in bio 101 uh or cell bio which i forget which but it was like
+ Professor drew a circle.
+ Inside the circle is a smiley face.
+ Outside the circle is a frown.
+ And inside the circle, the smiley face is homeostasis.
+ And saponin, as a toxin to a living being,
+ is going to ruin your homeostasis
+ by just making you exposed to the outside world in your cells,
+ which is really kind of scary,
+ but also, like, in this sense, it's really cool
+ because it means that we can do experiments
+ on a wall-less house of a muscle fiber. And in order to, oh, by the way, in this paper,
+ they call this the gold standard of mass-specific respiration. I personally do not consider it the
+ gold standard. I mean, who the fuck am I? I'm just a guy on a podcast, but we'll talk about my
+ the issue with that in a little bit. So once we have this wall-less house of a muscle fiber,
+ we can add massive amounts of things like ADP and inorganic phosphate and oxygen at
+ super physiological concentrations. And then we can run experiments on mitochondria in situ,
+ as it were. And so this is like kind of in situ VO2 max for your mitochondria.
+ But since we have a bunch of other extra mass around it, and actually the rates themselves, even regardless of the mass, are lower for the permeabilized muscle fibers than it is for isolated mitochondria.
+ Which in a way makes sense, but also in a way is like, how does that happen?
+ You know?
+ Yeah.
+ So, in practice, what we're actually looking at when we add these ridiculous amounts of O2 and ADP and phosphate, we're looking at the maximal electron transport chain flux capacity.
+ Like, what is the absolute max rate that we can make ATP or basically consume oxygen, really?
+ That's how we're measuring it in the experiments.
+ Like, how fast is the oxygen dropping down?
+ And I've seen the traces.
+ I've spent way too much time on the Ouroboros YouTube page and reading their manuals and stuff.
+ I swear to God, if I ever went back into bench science, this is the kind of stuff I would love to do.
+ So if you are looking for somebody to be a lab tech with all that stuff, don't call me.
+ I'm way out of practice.
+ So this is actually way faster.
+ When we run these experiments, this is a lot faster than we can have our cells do as living tissue because in our living muscles, oxygen transport and delivery is actually the limiter of ATP synthesis.
+ But when we are looking at these isolated things, the limiter is how much of the total machinery do we have around?
+ So how does this work?
+ Because, right? Because at first, when I first heard of this, I was like, that's curious. Why? So when we make ATP, we discharge the proton gradient through complex five to create the ATP. And complex five spins at a certain Vmax, a certain maximal catalytic rate to create ATP.
+ And this cannot increase just because you've got extra oxygen around, right?
+ Because it kind of happens regardless of oxygen.
+ It just has to, you need substrate and it'll just like shoot protons through and just going to drive the motor forward.
+ What we're doing is we're looking at parallel throughput.
+ How do we get more ATP generation from the same mitochondria?
+ More complex five.
+ That's how.
+ we're in danger now because we're discharging the proton gradient and if we discharge it enough
+ the balloon deflates and the cell dies or well in our right in our isolated fiber case we don't care
+ because it's already out of the tissue but in our body this is very much a care so we also need a
+ lot of copies of the electron transport chain proteins around two in order to pump protons to
+ keep that uh the proton gradient normal uh and we also need a lot of complexes one and two to
+ strip electron transport uh electron transports sorry electrons from our uh reducing equivalence
+ in adh and fadh2 and now we can maintain the proton gradient but also to keep this up well
+ this isn't really a limiter in these experiments so far as i know we're not really using the krebs
+ cycle here this is just like what we're gonna give the electron transport chain all the stuff
+ it needs and we're going to let it go hog wild. So why are we talking about this? I'm sure you're
+ wondering. It turns out low intensity volume does not have a big effect in this volume,
+ in this department. It has some, according to this paper, it has some, but it's not massive
+ compared to sprint interval training, which has a very large outsize effect on this specific
+ measure of adaptation, like way more than citrate synthase activity. And it's especially when you,
+ the paper, you know, in the last couple of figures looks at relative to the total time spent
+ exercising. When you look at sprint interval training and this effect of mass specific
+ respiration compared to the other types of, to the other lower intensities, relative to the amount
+ of time you actually spend exercising you actually get massive benefits here massive and like you
+ know we're talking what kind of volume are we talking about like you know eight by 30 second
+ sprints four by 30 second sprints like etc etc like those are the kind of typical interval
+ protocols that we're talking about so why this effect is seen is not entirely clear
+ the authors have a theory i have a theory um so the author's theory and partly they're kind of
+ quoting the authors that they're reviewing too, is that it's related to larger motor unit recruitment
+ being seen here as an outsized response in the adaptation of the mitochondrial content in
+ larger motor units. And I find this completely plausible. And it might actually be part of the
+ explanation of what's happening here. And this actually, think about it, this actually does have
+ some practical application we'll talk about, but just some. So my personal theory here is actually
+ related to the limitations of the permeabilized fiber model interesting yeah so i think i think
+ i'll be able to explain this well enough so due to the isolation and measurement methods
+ the mitochondrial content increase could be the same as measured by citrate synthase but
+ in the permeabilized fiber model the measurement may be biased more towards surface oriented
+ mitochondria interesting i yeah i guess that that makes sense it's gonna make more sense in a second
+ because here's why i think that one of the limiters of sprinting physiologically one of the
+ reasons that we fatigue fatigue is multifaceted so this is just one of the many it's electron
+ excitation contraction coupling energetics like this stuff fatigues the actual resequestration of
+ like of of the signals between the neuron and the muscle fiber for instance like this needs training
+ itself and also like we're looking at you know a lot of contraction energetics too like in terms
+ of calcium handling um you know what happens we are looking at like where are our signals coming
+ from like you know they're coming from the cell surface a lot of the time because what um because
+ sub-sarcolemma uh um you know glycogen and mitochondria are totally a thing like this is
+ actually a studied part of physiology and so if sprint interval training increases the things like
+ glycogen content under the cell surface for instance for excitation contraction energetics
+ you would of course increase mitochondrial content there in order to help handle this
+ stuff more aerobically and so it's totally possible that this sub-circulable increase
+ in mitochondria should it happen um is actually being biased for because that's the first thing
+ that the oxygen hits once it starts going into a permeabilized muscle fiber
+ and then that means all the uh all the mitochondria on the inside are kind of getting short shrift
+ with the oxygen because like it's like all those mitochondria up top are like really kind of going
+ at it um and it's kind of like yeah it kind of sounds like the you know when trees grow in a
+ forest right like the tallest trees that are able to get the sunlight sort of block out like the
+ canopy creates a uh like a shield over the smaller trees that are then unable to get um as much light
+ to actually function and live and you know utilize their chlorophyll that's a great analogy yeah um
+ so there's another possible thing here which is that uh with sprint interval training we are
+ actually getting more hypoxia induced response with uh sit um which could increase proteins like
+ myoglobin and help shuttle oxygen further into the permeabilized muscle fiber. All of this is
+ a possibility. I have no evidence. This is all just like a somewhat educated guess. So I could
+ be totally wrong on all this stuff. Anyway, so taking all this stuff together, along with the
+ citrate synthase enzyme assays with the sprint interval training studies, there may be some sort
+ of non-stoichiometric increase there may be in the electron transport chain proteins relative to
+ Krebs cycle proteins like citrate synthase. And there's possibly even a cristae density
+ thing going on here. Again, just a guesstimate. But it's possible that the stoichiometry over
+ time returns to normal um depends on kind of where relative to the training did all these
+ things take place did the measurements take place uh if you are doing easy endurance training and
+ then you do sprints on top of it and you're doing high volume like how does this affect it we don't
+ really know um so it's possible that there's some sort of sub-circle level activity going on here
+ that's maybe not who knows but actually the the kind of practical takeaway from this section of
+ the paper though is that um while there's nothing really actionable we can bank here for training
+ advice um it does show that there that there are some somewhat specific adaptations to very high
+ training and i think in a way this shows that you don't get every possible adaptation you want with
+ just low intensity and threshold training or even vo2s it's it's interesting that that uh i you say
+ that because there was a uh i was listening to a podcast with dan bigum and he was talking about
+ you know preparing for the pursuit and the kilo and the team pursuit and stuff and um yeah he i
+ guess after a while and focusing more on like road time trials and a lot more endurance stuff he came
+ back and was like oh like why isn't you know say the his like pursuit start or his kilo start like
+ as fast as it used to be and he was like oh look i spent you know an hour in the last year total
+ doing sprint maybe maybe i should do maybe i should and i'm probably sure i'm misremembering
+ exactly but basically he said yeah like you know even for someone as him like him who is who is
+ doing mostly aerobic endurance type efforts that yeah that you know there isn't a substitute
+ for for doing some of that that sprint training yeah i mean i mean the real um you know this goes
+ all the way back to the some of the original advice from uh what do you call it andy cogan
+ where he said train for performance and let your physiology sort itself out
+ and i i still agree with that um because you know like i've said in the podcast a billion times
+ performance is the gold standard for me because if you can do all sorts of fancy moves and be like
+ oh your lactate's gonna blah blah blah yeah but did i get faster that's all i want did i get faster
+ did you make somebody faster did you make yourself faster if you did great and a lot of the time
+ if you think it happened for xyz reason it maybe didn't happen for the reason you think it did
+ i'm sure i think a bunch of stupid shit where things aren't happening for the reason i think
+ they are but i'm always willing to learn and try and change my mind about stuff and when it comes
+ down to it somebody says oh i'm lacking performance in x okay we're gonna work on x um or the things
+ that i know are going to support x like somebody needs uh more sprint power and they're very slim
+ um okay we're gonna get you in the gym you're gonna start lifting weights i want you to put
+ on a couple pounds this fall this is going to increase your sprint power right right okay now
+ we know this physical limiter and we're going to work on it and that's a goal and everybody's on
+ the same page great later sprint power improves great mission accomplished um and it's it's it's
+ that simple um and it's not necessarily like oh well this is going to have a trade-off of this
+ and this is going to have a problem with this and like i'm gonna get out my my always sunny you know
+ conspiracy theory board um and i'm gonna be the guy with the funny hairs going aliens uh
+ like it's it's not like that it's like it's very very very simple so anyway so i did kind of like
+ this to get an opportunity to talk about premiumized muscle fibers as a model um but
+ also at the same time i did kind of like that this shows that there's a there's a different type of
+ adaptation uh sort of we don't know why it's happening exactly but it's different and if you
+ could talk to anybody who's done nothing but threshold training versus somebody who's done
+ nothing but sprint training and be like hey try to do what the other person does most of the time
+ it's you're gonna be like i'm not trained at this this is kind of hard um like yeah go figure
+ so anyway so is that does that all kind of make sense before we jump back into the endurance thing
+ yeah i think so i think the the biggest thing is that you know not that you we don't want to
+ completely disregard you're you're not trying to complete disregards for an interval training here
+ you're just saying that you know it's it's not clear and these studies you know and perhaps
+ you know in a few years on more studies and and we can revisit this but right now just looking at
+ these studies specifically there isn't a great conclusion that you can come to you know yeah
+ other than you can't just do one thing yeah and i don't think we even needed to look at this paper
+ to realize that yeah um so anyway so back to endurance um i think the the headline for this
+ for practical takeaways before we get into listener questions is that all activity for
+ the recruited muscles counts quote-unquote counts like continuous contractions are continuous
+ contractions if we go back to our list of what causes aerobic adaptive signaling calcium check
+ contractions um you know redox demand through the electronic transport chain check like continuous
+ exercise got it how hard are you training ampk check like the list goes on so so i think in a way
+ you know people who like somebody asked me this uh um over the weekend uh on instagram somebody
+ dm me or it was one of the ma questions said like oh so like all the people who commute an hour
+ twice a day like we're actually increasing our training volume i said yeah you are
+ absolutely yeah yeah yeah as long as you don't do it so hard that you're like wrecked for your
+ workout don't like you know sprint from every light in traffic but yeah
+ it's interesting because you think like i kind of always thought people i won't say knew this but
+ that's like kind of a a hack if there is such a thing just to get um to get extra volume in to
+ like sneakily get extra volume in you know yeah you know obviously you don't want to like obviously
+ people who are who are uh there with i don't know two hour bike commutes each way obviously they
+ know they're getting in more training oh yeah um but you know an extra half an hour a day
+ adds up right like yeah it does nothing and i i actually find that um that the less volume
+ somebody has the more that that commuting volume makes itself known in the fitness like if somebody
+ is training 10 hours a week and four out of them out of those 10 hours are commuting and somebody
+ stops commuting we're down to six there's a noticeable impact on their fitness i mean that's
+ almost 50 yeah it's like yeah exactly that's a lot yeah so um and so that's one of those things
+ where it's like if we can get it back i'd like to but sometimes it's not possible and i remember
+ when in the pandemic when things closed down i had a client who uh was you know commuting an hour
+ each way on an e-bike and as soon as lockdown happened he started working from home and he was
+ no longer commuting um we lost like what 10 or 20 watts from his ftp and we never got it back
+ yikes yeah i mean also there was possibly a lot of stress going on uh with the pandemic and all
+ yeah weird that a physician might be stressed during a global pandemic
+ so that might have been part of it too who knows uh i don't but anyway um so
+ the other couple conclusions that we can make here is that um ftp while recruiting more muscle mass
+ um and if it's not selection bias by just having more of that kind of like middle 60 to 80 percent
+ of WMAX kind of papers here in this study, then the FTP intensity, like sweet spot, tempo-ish,
+ might be the best explanation for why we see the studies with the greatest full change of
+ citrate synthase activity. Because it's a combination of not only volume, like high
+ volume, but higher kind of intensity at like 60 to or 70 to 80% of W max. You know, that's basically
+ threshold training for a lot of folks. And if you are doing that much of it, I mean, if you can
+ physically do that much of it, like it's going to have an impact on larger motor unit recruitment.
+ So that might be because remember, this is citrus, this is the citrate synthase assays are from
+ uh what i've been calling it muscle margaritas so don't drink that
+ uh it's a meat shake yeah um so we're not specifically looking at the motor units that
+ got the stimulus necessarily we're looking at all of the motor units um so that's could be part of
+ it but again like refer to our previous discussion so i also feel like that this paper supports what
+ i've been suggesting as best practices uh and also other people like seiler um you know ride as easy
+ as feels good basically and pepper in the intervals make sure they're high quality intervals make sure
+ they're progressing the way you want them to like this is super super basic stuff and as soon as
+ somebody says you know what percentage of ftp should i ride at like you know where's your lt1
+ feel that out and then we'll talk about it most of my very experienced clients who have very high
+ LT ones, like we're talking like, I can name a couple guys,
+ threshold, low 400s, LT one, like 350 360 watts, where do
+ they spend all their time riding between 200 and 280 watts.
+ It's also like when people ask you, how easy should you go
+ should you go between your say, FTP or sweet spot intervals,
+ you're like, and you know, and people make this assumption
+ that's like oh maybe if i sneak in you know make it like zone three in between these zone four
+ intervals like no dude just just paddle around easy like who cares yeah just don't lose your
+ warm-up that's all if you got yeah if you got an hour between efforts you don't need to like
+ spin at 50 watts but if you got five minutes yeah spin at 50 watts if that's how you feel
+ like you're gonna have the next best interval yeah yeah um and so very practically speaking
+ and we're going to get into this a lot more in the next 10 minute tips is, um, this all comes
+ down to fatigue management. If I'm going to put my coaching hat on for a second. So if you're tired
+ from pushing your endurance too hard, then your intervals are going to suck ass and not be nearly
+ as effective if they're effective at all. And nobody wants ass sucking intervals. You want
+ good high quality intervals, or as some coaches I know would call this kind of, this kind of
+ training triathlon training where you're always at race pace this being sorry triathletes uh
+ i know the ones listening here you're all good folks but i know you know people who do this
+ so do i um so all this stuff says you know that uh or well actually to keep my coaching hat on for a
+ second um as you become very well trained and you know if you're riding it well if you're lt1
+ it's 350 watts right and you've got a eight hour ride yeah you're not gonna do it at 350 watts are
+ you kidding me like how much energy is that it's a lot and you could technically do it yeah it's
+ great it's great on race day um where if you're at 350 watts you're like i could literally do this
+ all day, it's fine. But this is what I call a kilojoule burden. Because this is this becomes
+ about we're not talking about fatigue management. Now we're talking about energy management is what
+ I call it. So and so I call this also a kilojoule burden. Because if you burn enough energy on top
+ of your basal leads and your daily activity expenditure, well, if you're riding eight hours,
+ not gonna have a lot of activity besides that, but you would be very burdened by the duty to
+ replace the lost energy. And it can take days to get it back to baseline, especially if you've got
+ an eight hour ride with like hard intervals becomes very, very difficult to catch up with
+ this stuff. And so, so that's all the practical stuff. And we'll get into a lot more of that,
+ like I said, but I guess my last note here is that, is that actually if we control for the
+ same intensity then for the same intensity we can say that duration matters the most
+ so if somebody's going to ride at 50 ftp regardless of where that is for lt1
+ um if somebody's doing four hours and somebody's doing six person doing six hours is going to
+ get better adaptations than the person doing four like just because it's more
+ more is more more is more sometimes more is more so going back to our questions from the start
+ how hard is too hard depends on what you want to get out of it so if you're doing ftp intervals
+ do ftp it's cool if you're doing endurance riding it's to me it's it's an afterthought
+ i tell people pedal at an intensity that feels good and actually one of the things is that the
+ rpe decoupling is very weird this is something we'll get into in the next episode again but
+ But when it comes to how easy is too easy, like I've got clients where, you know, we'll start working together.
+ And the first thing I'll say is like, go out and I want you to ride at a pace that feels all day pace.
+ And like, you know, pace drops off.
+ Somebody's a little fatigued.
+ I'm like, okay, give me 20 or 30 watts easier.
+ So somebody's got a 300 watt FTP and they go out and they do that ride at 220 watts, let's say.
+ And they put down like a five or a four.
+ Okay, cool.
+ Is the LT1 that high?
+ I doubt it.
+ So what do I do?
+ Give me 180 watts.
+ 180 watts.
+ Okay, this one comes back at a 2 RPE.
+ I barely felt like I was doing anything.
+ I'm like, good.
+ This is very good.
+ I smile so big when I see something like that.
+ Because we drop, what, 40 watts?
+ And we drop the RPE significantly.
+ And it's a weird decoupling of RPE.
+ because you know a long time ago i said like what like a four to four to five out of ten rpe
+ what i didn't realize at the time was that's my personal scale endurance pace for me is like a
+ four four to a five for a lot of people especially as you get better trained two maybe a three
+ and so i've learned to meet people at their rpe scales rather than dictating mine to them
+ and you know it's a kind of a language common language between a coach and an athlete and so
+ um so when we look at that now i know okay i gotta give this person a two to a three
+ it for for you know an eight hour ride give me two to three rpe fuel well have fun that's it
+ yeah nothing else stop if you need to you know don't worry about oh no stop too long for food
+ and now my eight hour ride is technically two four hour rides split up and yeah yeah no yeah
+ It all comes out in the wash.
+ I mean, this is where I just look at how many hours a week.
+ It's a really simple measurement.
+ Is it perfect?
+ No, absolutely not.
+ But is it close enough?
+ Yeah, yeah, it is.
+ And so the last question, how much is enough?
+ If you got more time, I mean, if you're looking for endurance performance, yeah, you can ride more.
+ Until you get to fatigue management and energy management.
+ That's realistically the limit.
+ Of course, most people have jobs and families and things that are way more important than riding a bike.
+ In which case, you do what you can and don't worry about it.
+ And take care of your family obligations.
+ Take care of your job obligations.
+ Be a good person.
+ Be a good human.
+ And riding a bike is for fun.
+ But, you know, if you're a professional, yeah, feel free to do more.
+ It's only going to help you until you get to the point of fatigue management and energy management.
+ the intensity you know forget the intensity forget oh i did it only at 45 ftp that's great
+ that's great have fun especially if your lt1 is like 55 of ftp 45 is great in my book
+ so any other thoughts before we dig into listening to questions
+ no i think i think it makes sense like i think what the biggest thing here is that you know
+ it it's maybe like a a not it's maybe like not particularly exciting conclusion that you just
+ came to so many of these podcasts are just letdowns i'm so sorry everybody and but i think
+ it is good and bad right every every few years months decades whatever various things come back
+ into popularity with training fads and training what's in and what's trendy and all this stuff but
+ it's it's kind of predictable i guess and maybe good to see that some of these tried and true
+ things um still work or were true and like you said maybe not they they're true for maybe not
+ the reasons that people thought um but old wisdom about you know riding a lot in the little ring
+ is maybe not wrong but it's just not correct for the reasons that whatever some stupid website
+ says it's correct um and at least know that you don't have to nail it like super perfectly like
+ you said and like i think people can give themselves a lot of extra stress mental stress
+ if they're worried that oh this this workout wasn't an a plus that they need to have a plus
+ like nailed workouts every day or it's gonna be ruined yeah every time you work out it has to be
+ an a plus like it doesn't have to be an a plus and you don't have to nail it exactly to four decimal
+ points or something can you even measure four decimal points in watts you can barely measure
+ a lot accurately on our power meters right exactly yeah so even even you know let alone that right but
+ just that you didn't oh you know i don't know yeah you you you went out of zone two oh no yeah
+ exactly or like yeah oh you had to get over some hill and you couldn't do it in zone two like yeah
+ it's fine like don't worry about it yeah and this is where i tell people like i i want people to
+ pull back and and in use use uh more qualitative assessments of the right intensity did you get
+ home feeling like about the same as when you went out if it's a three-hour endurance ride you should
+ pretty much feel about the same which is great you okay yeah well you do exercise yeah sure you
+ ate some stuff on the bike yeah okay you need a little extra food you're a little hungry yeah
+ sure but like you didn't get home smashed and like you crawling to your couch and going i could
+ barely unclip like yeah that's not a good endurance ride um so and also you know the practical sense
+ fatigue management, you've got to just make sure that your good quality interval training days
+ are good quality. And, you know, that that's that and otherwise, the you know, the intensity is
+ kind of an afterthought. Do you're doing intervals? Well, do your easy endurance
+ riding easy, like don't fuck with your recovery days, and you're gonna be fine.
+ First question, just jump right in. Classic one, 10 hours of zone two or 10 hours, sorry,
+ 20 hours of zone two or 10 hours of sweet spot. Lol. Okay, well, okay, I mean, well,
+ what's the most amount of sweet spot of reasonable person would do in a week? Like,
+ let's say it's two sessions. And somebody is really amazing. Got a big diesel, like what
+ could they do? Probably two to three hours of sweet spot. Okay, we're gonna go ridiculous and
+ say three hours all right i'm six hours a week so 10 hours 10 hours a week of sweet spot if you
+ work out if you ride six six days a week right that's an hour and 40 minutes a day so that's
+ five by 20 a day five by 26 days in a row of sweet spot like oh my god yeah yeah okay okay
+ practically speaking fatigue management is not happening if you're doing 10 hours a week of
+ sweet spot so um so here's the thing it's like this is kind of a preview of the next episode um
+ think about your heart intervals first think about the quality of intervals think about
+ progressing them in the way that they need to be progressed and then once you've kind of reached
+ the limit on how many of those you can do in a week and that varies of course based on stress
+ and recovery and all that stuff once you figured that out and you figure out how many recovery days
+ you need you can backfill the rest with easy riding because even even with those interval days
+ that training still counts as training and it's slightly higher intensity sure you get slightly
+ higher full change of straight synthase you know on average potentially sure for the intervals but
+ like for everything else it doesn't matter and this is one of the reasons that when i'm looking
+ at um you know building fatigue resistance with somebody i one of the first things i look at is
+ how many hours a week have they been riding on average for the last like year or two and if it's
+ pretty low most people it's pretty low and if they got time to ride more yeah cool we ride more
+ Anyway, so that's the right way to balance.
+ But no one's doing 10 hours of sweet spot a week.
+ Yeah, please don't.
+ Oh, God.
+ Oh, next question is, of course, can you ride endurance too easy, or do you just have to ride longer?
+ You know, in a practical sense, if your LT1, let's say, is like 70% of your FTP, and you've got two hours to ride, but you could easily ride for five without feeling it.
+ You know, like, you know, I'm going to ride a little high today, but it's still going to feel easy under that LT1 kind of RPE decoupling.
+ That's fine.
+ But you don't need to.
+ You really don't.
+ So this is, again, a question of fatigue management.
+ Just make sure that your easy rides aren't too hard, I guess.
+ So, yeah, and again, LT1 is that first threshold occurs at wide range for people.
+ Like for me right now, it's like 50% of my FTP.
+ And if I ride right at it for six hours a week, I can feel the fatigue.
+ I really can, which kind of sounds stupid, and that's how badly trained I am.
+ But that's okay because that's where I'm at, and I don't pass judgment on me, and I don't pass judgment on other people.
+ So if that's you too, then if I were your coach, that would be fine in my book.
+ And you're getting what you want out of it, right?
+ you know yeah it's yeah it's exactly i'm trying to be well yeah it's like at this point i'm old
+ and injured enough that i no longer i no longer train i exercise um a lot of equivalence questions
+ we're gonna skip these um oh my actually these different people asking basically the same
+ question i wonder if they all saw something on a forum or a podcast somewhere um
+ uh okay that's off topic let's see i get faster with higher intensity plans at half the volume
+ of a quote-unquote high volume zone two plan is this normal um yeah guys this actually comes down
+ to kind of what we said about you don't always get the same adaptations you don't get you don't
+ get the whole suite of adaptations you want in all the muscle fibers you want by just
+ riding easy endurance like i i don't know if anybody has ever said that's a good idea i don't
+ think i've ever heard it but i think it's i don't know do you think it's easy for people to like
+ just read that and conclude that like oh i should do zone training zone two training so therefore i
+ should ride like all my my next three months will all be 15 hours a week of zone two i'm sure that's
+ an easy conclusion to make i think a lot of people i think a lot of people will try things if like
+ that maybe not go completely whole hog where they're like i'm only gonna do zone two um but i
+ think if you're if you're just gonna try it it that could be a natural sort of easy i won't say
+ mistake to make but like just like the first thing what's the easiest sort of simplest most
+ straightforward thing you could do is just just gonna just do a bunch of endurance rides you know
+ just like squeeze them in as i can and just all endurance rides um yeah yeah so like
+ so here's the thing is like if you feel more fit like doing intervals yeah do intervals
+ it's it's that simple and i would say i would say at some points of the year it's better to
+ just ride easy but at some points of the year you absolutely have to like start increasing it because
+ Here's the other thing is that doing the same thing all the time gets stale.
+ And the adaptations you get kind of start to plateau, like, because you can't increase volume forever.
+ Like, there is a limit for volume.
+ And some people have reached it, and that's fine.
+ And if they could recover better, they could ride more and be in more fit.
+ That would be cool.
+ But realistically, it's not going to happen.
+ So, um, so you've got to kind of think about it holistically and, you know, if, especially if
+ you're racing, you know, train for your racing and everything else is going to sort itself out.
+ So no need to overthink it too much. Let's see. Um, how low is too low in terms of an IF
+ for an endurance ride? Yeah. So, um, like I said, LT1 happens at a different place for a lot of
+ people. So find that and here's here's my quick guide on finding it. Start at like 40% of FTP
+ should be under LT one for most people. Start there, ride for 20 or 30 minutes, this should feel
+ eminently doable, then go up to 50% of FTP. This for most people, but you know, for some,
+ it'll be like okay this is getting tough but i could do it for sure um and then you start bumping
+ it up until you feel that rpe decoupling you may at this point start to get cardiac drift you may
+ get it below depending on how well trained you are or how your muscle fiber type or how hydrated
+ etc etc um so cardiac drift is not a great indicator you can use it to start to triangulate
+ but it's not perfectly reliable. And so yeah, so try to find it. Try to find that kind of
+ threshold and ride under that threshold. It's that simple. Regardless of where it is relative
+ to your FTP. I think that's an easy mistake to make. And I think a lot of people make it and a
+ lot of people want that kind of marker. But it's also the same as like, what percentage of FTP
+ should i do my vo2 max at i can do them at 140 to 150 percent for like three to five minutes like
+ what about you 110 cool we're different all right so you've got to individualize this stuff
+ yeah and some of that just comes from being more experienced and riding more and just knowing how
+ you react to different intensity domains yeah yeah because you know that kind of stuff can be
+ very individual like i i coach a handful of people who kind of feel sluggish uh after they start
+ training again after the off season until i start giving them like a couple sprints and like
+ anaerobic capacity stuff then they go oh now i'm feeling switched on now i feel good like that's
+ not everybody but it's a handful of people in which case i'm gonna try to pepper those in
+ occasionally to keep somebody feeling good but without adding undue fatigue and yeah so everybody's
+ different um and and that's okay i don't judge anybody for it like i said um is an endurance
+ ride bookended with intensity a good way to improve fatigue resistance uh yes actually you
+ don't have to even bookend it you can kind of pepper that intensity throughout if you want
+ uh yeah we've talked about that before right yeah do like a three-hour ride and every hour do some
+ sweet spot yeah oh my god that must have been like five years ago now four or five years ago
+ we talked about that. So yeah, like that was one of my recommendations for FTP training.
+ I believe that was that episode. Like I said, it's been a long time. But that is still a way
+ that I assign FTP training is I'll give somebody like five hours and you know, give me 20 minutes
+ of 20 minutes FTP. You know, on the turn of each hour, between hours one and two, three, four,
+ and five, and four and five, like, yeah, give me 20 minutes of FTP around that doesn't have to be
+ perfect, obviously. And that's a good way to do it too. But you know, especially if you feel like
+ you need work mentally pushing later on, like you can bookend it for sure. There's there's short
+ answer is there's no wrong way to do this necessarily find a way that you feel is enjoyable.
+ And you're seeing improvements. So like if you do a five minute max effort in hour one, then you do
+ one in hour two, three, four, five, what happens most people, we're going to fade over those
+ efforts if you have good fatigue resistance what are you going to drop 10 watts maybe 20
+ somebody like me i would probably drop all the watts i'm kidding yeah like 100
+ 50 100 i would basically be doing like barely above ftp for my last effort after five hours
+ right now that's how bad my endurance is but again i'm riding like six hours a week so
+ why would it be good uh and i'm not naturally talented at this at all whereas some people are
+ highly talented. So, um, again, it's like wide range of abilities, but yeah. So yeah, pick a
+ ride that you can track your improvements on and just have fun with it for sure. Um, am I losing
+ endurance by riding three hours, 30 instead of four hours, if going slightly harder in the
+ kilojoules are equivalent. Yeah. Don't think about this by kilojoules. Like, I mean, think about how
+ much you need to eat by kilojoules approximately. It's not, not a perfect number, but you can go by
+ it. Uh, and if, if you go from four hours where it's like under LT one and three and a half,
+ where it's a little over LT one, you're adding a little extra fatigue. You don't necessarily need
+ to. So, and here's the thing is like with my clients, if I, if they've got three hours,
+ normally they do six for endurance riding. I would expect them to do about the same Watts
+ for three as for six. That's it. Um, I'm not like, Hey, give me another 20 Watts. Cause you're going
+ shorter um no like slicing the salami pretty thin that's a phrase for you um
+ that might help with permeabilized muscle fibers too um actually that's how krebs did his early
+ experiments actually a lot of his experiments they um they i'm sorry kidneys liver take your
+ pick um no really they what they would do was um sorry for the animal lovers out there uh they
+ would uh sacrifice an animal and take the organ out and slice it super super super paper thin
+ and then put it in solution and it was thin enough that um that it was it was basically
+ kind of permeabilized in a way um and so that's how they did a lot of their experiments to find
+ the um um you know to find the krebs cycle but also especially before that um you know that's
+ how warburg was working and that's how um krebs discovered the uh uh urea cycle so if you if you
+ read his biography um i haven't read volume two yet but i've read volume one the uh um the one by
+ ames oh homes not ames um it really goes into detail on the biochem so if you're into that
+ kind of stuff, highly recommended. Let's see. Um, quote unquote, muscular endurance is just volume
+ at relevant intensity. Changed my mind. Um, no, I will not because I agree. Like this is the thing
+ about training for racing the way we do. If you are doing 20 minute climbs and all you're doing
+ is like or you're if you're doing criteriums and all you're doing is easy endurance riding
+ and you jump into a criterium you're like wow i suck at accelerating it's like yeah you haven't
+ trained it um weird yeah sorry just like dan begum found yeah he fucked around he found out so
+ yeah i think the biggest thing is like that comes with that like phrases like muscular endurance too
+ is like everyone has their own weird terminology and stuff like that so i think sometimes when
+ people say things like muscular endurance it's not exactly clear what they mean um mitochondrial
+ function yeah so that's another thing i think where questions like this come up it's like
+ we need a we need a better you know universal glossary of terms or whatever yeah i i completely
+ agree uh let's see uh unless you're trying to sell someone something and then you want to
+ pepper in all those little fancy buzzwords fancy buzzwords and your own preparatory terminology
+ complete with, ah, nevermind. Um, is volume more important than sustaining the same watts
+ because variable ways are easier. Yeah, I agree. And it's definitely total exposure to exercise.
+ We could call it, I think that's what David Bishop called it anyway. Um,
+ total exposure to exercise is to me for the same muscle group. Cause if you're swimming and using
+ your arms, this does not count towards cycling, but if you're running, this counts a lot more
+ towards cycling because you're using your legs right so uh so to me total exercise volume on
+ this on the same muscle groups is what counts the most i literally look at it in terms of
+ total volume and i include recovery rides in that total number of contractions really is your
+ yeah but now i'm sure somebody's got a big brain about the contractions let's
+ what do you want to bet it's the it's those uh those let's let's bet the next listener donation
+ um but we have to spend it on chipotle okay no it's the um it's those the the muscle
+ contraction things the way to big brain is that is sit on the couch and use one of those emg
+ stimulator things so you get a lot of contractions eating donuts on the couch oh god uh well they've
+ done experiments on that with mice for i don't yeah i think i think 24 hours yeah we did yeah
+ because because they're not really exercising um it's just anyway so next question is thoughts on
+ pokey uae switching coaches because of any goes over focus on endurance volume um i actually have
+ heard i don't know how he coaches i have no idea i actually have heard this is hearsay so actually
+ is this hearsay i've been told i don't know what hearsay is i heard somebody say it is that hearsay
+ so it it depends when you're talking about the lawyer answer it depends in a legal in a legal
+ context okay so not this is not legal context so i heard somebody say that uh that sam alan
+ has actually not coached pagachar for years i don't know this to be true i have no fucking clue
+ um but i don't know um so yeah so this is this this is like it's like cycling super inside
+ baseball honestly i don't really care i know his new coach he's a good dude i like javier um i i
+ think javier likes me we've worked on a couple projects together he's a good dude he's a good
+ coach um i mean from what i've seen anyway so yeah so all power to javier um good job on getting
+ pagachar that's um i would pay to coach today pagachar i couldn't afford it but yeah just just
+ to see the date and just seeing the data right that's always the thing is that cycling says now
+ is even more so than ever is such a data-driven uh venture that it just to see some of it and to
+ know like what's real what's possible is uh be pretty cool yeah um yeah so i i have no thoughts
+ in this question whatsoever. Is it possible to gain fitness on low hours like sub 10? Or is it
+ just maintain? Yeah, well, for muscular endurance, for sure, because you can only do so many threshold
+ intervals, you can only do so much total volume. So you know, you will plateau with the endurance
+ stuff. And the same goes for for most people, the same goes for higher intensity and building VO2
+ max. But for a rare handful of people, it seems like they can still do 10 or 15 hours and keep
+ building it up until they reach their actual true genetic max. But this to me, is not the norm. This
+ is a very, very rare exception. So yeah, like Tim said, when he was on the podcast, Tim Cusick,
+ he said that most people reach their training max. And I think most people, the huge majority
+ who are writing about 10 hours a week do reach their training max at some point. But there's
+ always different stuff to tweak. And of course, if this is you, you can totally change your
+ approach to a season. You can be like, Oh, well, if this is about as fit as I'm going to get,
+ well, maybe I get to start to work on my sprint, or maybe I get to work on, um, maybe I get to
+ be more fresh for races. If I, if this is about the level of fitness that I'm just doomed to have,
+ uh, and that can actually work advantageously for you to imagine being more fit at more of
+ your races. Like how cool would that be? Instead of like peaking for like three.
+ uh is there a difference between a five-hour ride and two two and a half hour rides over two days if
+ i'm time crunched um you know in a way from the big picture it doesn't seem to make a big difference
+ but uh this is something that where we could see a small difference if we really dug into
+ the individual variation on this. And, and, you know, these people ride two and a half hours,
+ or let's, let's make it easy. These people ride two hours for three days a week. And these people
+ ride three hours for two days a week. And this group rides six hours for one day a week. What's
+ the difference there? I don't know if that's been done. But what I do know is I'd like to see it.
+ So the realistic thing here, and this is the advice I give to everybody, including my own
+ clients is let's do whatever is least stressful for you because the this i am absolutely certain
+ about the impact of the stress you get from like having to shuffle your life around
+ is greater than the impact of the difference between two two and a half hour rides and one
+ five hour ride yeah i would say when my first reaction to that is the only reason that it would
+ be a really big potential hindrance is if you were originally scheduled to have like a day off off
+ and then now you've just tacked on extra volume and that makes you not as recovered for say a
+ harder workout the next day or something like that yeah that's when splitting it up like that
+ maybe isn't isn't the best um yeah or also um if you've got a workout that takes more than two and
+ a half hours. Like if you, if you're really working on your fatigue resistance for like
+ gravel racing, you're like, I need to do five hours with like five by 20 minutes, sweet spot
+ efforts like that. I mean, that's not a bad gravel workout. Uh, should that be your only
+ gravel workout? No, but it's not a bad one, like for race specificity and whatnot. So in which case
+ you can shuffle that around to do that every two weeks or something like that, if that's a little
+ more stressful, but that's a good specific thing. So there's a balance point and you've got to find
+ that for yourself um what the hell kyle maybe you've heard of this does intermittent squatting
+ or lifting during a ride improve muscular endurance renato canova style work who is that
+ i don't know that one oh interesting um no i i don't know uh shout out to jeremy by the way
+ all dude this dude asks so many like really interesting like oh i've never heard of i
+ wonder kind of questions um so shout out to him um and he's asked several but they've been a little
+ bit um they've been a little bit uh a little bit off topic or a little too tangential for our
+ purposes um but google says this guy's a marathon coach old interesting kind of old guy he's like
+ stunt born in 1944 oh so it's running actually well strength training has is pretty well
+ been shown to increase uh is it running efficiency or economy i think it's economy
+ um so maybe there's something about that but uh genuinely i have no fucking clue for for cycling
+ i would hate to ride back to my squat rack over the course of a long ride um i know there are
+ track sprinters who like to do the potentiation stuff lift something kind of heavy then go do
+ sprints uh if that works for you personally that's the way i would use it but yeah for muscular
+ endurance um i probably would rather do a high quality strength session instead of kind of
+ mixing the two into a into a muscular endurance uh margarita as it were and then you're then
+ also you're what you're restricted to only doing like a 30 minute like lollipop loop so you can
+ come back to your squat rack every hour or something i don't know that's just yeah um
+ oh that's an interesting one if you do a block of only endurance is there a better
+ stimulus from slightly higher watts um you know given that uh you know a volume block is probably
+ going to be 15 20 hours a week for most people um or even like a week where you get a week off
+ of work and you're like i'm gonna ride as much as i want 25 hours let's do it um the difference
+ between like the 20 watt difference or even 30 if you're pushing it versus not pushing it
+ is going to lead to so much more fatigue and realistically you don't want to get back from
+ one of those blocks smashed you want to get out of that block feeling really good and ready to
+ rip your pedals off so that's a fatigue management thing so that's where i would go with that
+ yeah yeah i agree like sounds sounds a good plan yeah does duration trump frequency given a fixed
+ total volume of say 20 hours a week of endurance. Uh, my experience, it does not. I know a lot of
+ people, this is not how I prefer to ride or to schedule stuff, but I know a lot of people who
+ do three to four hour workouts more frequently because I'd rather give somebody less frequent,
+ like six plus hour workouts. Um, but it seems to not make a big difference realistically. So, um,
+ if you've got certain goals where one is a little more specific or more practical, I would say for
+ your uh for your life then i would go with the one that's more practical
+ let's see um oh here we go uh total contraction wait who owes who the
+ the next donation for chipotle if totals contraction matter
+ can i do a six hour ride in three hours by doing 200 rpm
+ no we we talked about this too right where it's it's uh it's also like some combination of
+ contractions plus contraction intensity where like your average force per contraction
+ in your 200 rpm uh endurance right there is not particularly high oh and you're and you're um
+ your what do you call it the contractile energetics about just contracting your muscle
+ repeatedly that fast like that gets very highly taxed i mean not there's not a lot of people who
+ can ride for over an hour at like 120 rpm um but in theory one here's one of the other things that
+ happens this this is getting into the nerdy weeds again but it's wattstock so let's do it um
+ there's um what's i forget who jim jim uh who's the by uh who's the bio mechanist um jim what's
+ his nuts um calls it i always forget his name i'm so i'm so sorry dr what you're nuts um but it's
+ he calls it a duty cycle and yeah so the duty cycle at higher contract even if we assume
+ the same muscle mass recruitment um the duty cycle is shorter with the faster contractions
+ with the higher cadence and so your total time exposed to the contraction is shorter
+ right and so over time it's it all comes out in the wash you spent the same amount of time
+ under contraction. It's not the amount of contractions, it's also the length of the
+ contractions. Because what happens when we contract our muscles? We actually occlude the muscle
+ due to the contraction, right? And this is one of the reasons that strength-trained athletes
+ get thicker heart walls because of the peripheral resistance from all the occlusion of tightening
+ your entire body under a heavy lift. And so when we occlude our muscles, we are actually cutting
+ off the oxygen supply real quick and so if we do this faster cool like that that's okay but
+ like in the end we are getting about the same amount of time with calcium in the muscles and
+ the same amount of time of the electron transport chain being active and the redox signaling
+ happening so um you know and at higher intensities the same thing happens at like ftp and so now the
+ question is like if we're getting into bigger motor units you know like what would i say about
+ that i would say then do more power ride harder do like 15 15s or something like that if you want
+ to get into big motor units um because one of the other things about doing super low cadence
+ sometimes is that there's a lot of fatigue and so i don't see people having good success with
+ that stuff i have not personally found it that useful um might also just be the nature of like
+ what are we training versus what are they training so um it all kind of seems to be the same in the
+ end so yeah yeah it when you big brain the muscle contraction thing um it at first it's like oh i
+ can get more contractions but at the same time it's like the total time under tension you could
+ say i think actually jeremy asked me this question earlier and i skipped over it sorry jeremy um but
+ yeah like the time under tension let's say like you would think about for lifting would be
+ approximately equivalent or the time spent showing your muscles i am exercising would be approximately
+ equivalent the duty cycle time is the equivalent the what have we been calling it the time the
+ area under the curve of contractions yeah would be basically equivalent to so does that does that
+ all make sense and who owes who this money i i want chipotle uh next donation comes in uh
+ kyle and i will figure it out later um but is 100 being earmarked for burritos uh let's see
+ you've mentioned the benefits of long rides six or eight hours what am i missing if at the most
+ time i have is four hours you are missing getting divorced you're missing about four hours yeah
+ you're missing four hours but you're you're gonna keep your spouse yeah so you also get to you know
+ have other hobbies or something yeah um a life you can read books you can yeah and still eight
+ hours like you're like man i gotta eating after this is gonna be an actual chore and then you get
+ to your rest day the next day you're like i i gotta block out five hours today just stuff my face
+ um everyone's hit that limit though when you like you've done just a little bit too much
+ that week or something and you like go into work and you're just like i am a shell i am an empty
+ husk of a human very true yeah um here's a good one should i add volume after doing my intervals
+ or should i ride longer before starting them um this is actually in the big scheme of things to
+ me it's irrelevant i would say first do what's more practical for you because if you got to like
+ ride two hours to your interval area and then do your intervals and ride back like that's fine
+ or if you want to bookend your rides with them that's fine if you want to spread them evenly
+ throughout that's fine if one thing seems more specific to your event or if something you want
+ to just work on that's fine too so yeah if like if you dread them or something being at the end
+ and you're just like gotta get them over with and then just keep going great yeah
+ what sort of weekly volume do you want to see for cat one riders and what does it depend on
+ it depends on how much time do they have that's it nothing else how many times kyle i'm sure you've
+ heard this as much as i have where somebody says oh this guy i know he only rides 10 hours and he's
+ way faster than me well yeah i can congrats that guy like hit a bigger number on the genetic lottery
+ than you did i guess like there's or he's got a bigger train better training history or he's
+ naturally gifted or who knows i don't don't need to compare yourself with him or her or whoever
+ it's too hard like in a vacuum yeah who can even breathe in a vacuum geez
+ um want to know if higher volume training has worked what's the minimum minimum session length
+ if you're well-trained minimum session length is just like what's most practical or just what's
+ fun for you because i've got people we're all giving six hour rides and they'll do eight because
+ they want to ride more and at a certain point i gotta random in but for the most part that's
+ that's fine as long as you know all the training is progressing as expected um but to know higher
+ volume training has worked um you still have to try to measure your fatigue resistance in some way
+ and so there's a lot of ways to measure this the easy way to do it would be to like
+ a simple way to do it that anybody could get a nice objective number from without getting into
+ the nerdy analytics and that all has biases built into is go do some max max efforts like once an
+ hour for like four hours or whatever your long ride is and when your last interval is basically
+ equivalent to your first interval or watching that improve your fatigue resistance is improving
+ congratulations that's an easy way to do it you did it yay yeah or like in a race in a race you
+ get to the end where the you know if you've got like a 1500 watt sprint cool and then you get to
+ the end of a race and you're like barely cracking a thousand you're like i mean i can't even have
+ four digits like it's not your that your sprint needs improvement it's that your fatigue resistance
+ needs improvement so especially for most people in a race when you can hit good numbers at the
+ end of a race that's a really good sign um but that doesn't mean that you can race like an
+ asshole you've still got to manage your energy um because nobody's got infinite watts like not even
+ wout can do this so yeah and also i mean vanderpoel only doing six races this spring
+ you kidding me smart man very smart man managing energy yeah yeah let's see um
+ on the other hand,
+ Kopecky is doing like every race.
+ I mean,
+ look,
+ some people are just overachievers and I don't fault them for that.
+ But at the same time,
+ like if you're,
+ if you're Kopecky's management or you're the team manager and you're going,
+ man,
+ she can win like every race she enters.
+ How many races do you want her to enter?
+ What's the,
+ what's the question that you ask?
+ The question I would ask is how many races can she enter before she's absolutely fucked sideways from fatigue and doesn't want to look at a bike ever again?
+ Let's do one less race than that.
+ Okay.
+ What if we want her to like not be, not be like depressed about looking at a bike?
+ Okay.
+ Let's go like 10 races less than that.
+ So, so she might end up racing frequently, but also she may enjoy racing more frequently.
+ And, or, or if she's choosing her own race schedule or working on it with management, like she's going to be like, I want to race more because maybe she feels more fit when she races more.
+ I know a lot of people like that.
+ I personally, when I was racing, I preferred to race more.
+ I wanted to hit the weekly training crit because I felt like I was more fit by doing that.
+ And so there's a lot of stuff in here where we don't really know the answer.
+ Yeah, and I want her to be fresh for this Paris Olympic Omnium battle.
+ Oh, God, yeah.
+ Actually, you know who was fucked sideways from fatigue is Vanderpoel that year that he decided to try to climb every hill hard in the Giro.
+ And he did altitude or he went from the Giro to altitude camp.
+ Then he had like five days and then he started the tour or something like that.
+ Like some ridiculous thing where it's like, I don't think he thought that one through very well before he did it.
+ no but the uh the paris road race course is like not particularly climbing it's kind of punchy and
+ you're sort of you know not ever doing you know obviously no long long climbs um so yeah punchy
+ classics reduced bunch sprint yeah i mean likely yeah i mean we're talking vanderpoel wow capecchi
+ boss boss there we go now i'm interested in this battle let's do it um anyway so
+ fanboying out here on pro racing um question why is endurance volume sorry we're almost done we
+ got like a couple questions left why is endurance volume cumulative in a week but not threshold and
+ sweet spot i would say it is it is yeah yeah um i actually think about total volume and interval
+ time as somewhat separate variables. Like if somebody can do 20 hours a week, but they're
+ kind of tired and like just riding easy is going to be better for them. I don't even think about
+ interval volume. Um, but you know, if we're looking at interval volume, I think about how
+ many hard days and the fatigue that you accumulate from doing intervals is non-zero it's far from
+ non-zero. And so, um, yeah, so, so I don't really necessarily think about accumulating time there.
+ I don't think about like sweet spot total volume for a week.
+ I think about how many hard days have we done and are we trying to progress time here or are we just looking to maintain time here?
+ And I want to know the difference or, you know, the time of year and somebody's feedback will kind of dictate that.
+ Let's see.
+ We're going to skip that one.
+ Sorry, sir.
+ Are there useful hard workouts in 30 minutes, or should that always be a recovery ride?
+ I think we know the answer to this.
+ I mean, you can do Tabatas in 30 minutes, but...
+ Yeah, you can do 30-second effort sprint interval training.
+ But, I mean, honestly, yeah, you could do a quality workout in 30 minutes if you are ready to smash yourself silly,
+ or if you're just looking to maintain.
+ yeah, like you can do just kind of a maintenance dose, like just do a 20 minute. No, yeah. One by
+ one by 20 minute, like warm up for 10 minutes or 15 to a 15 minute interval. Do like a couple
+ minutes, cool down. Don't go right from smashing yourself to not. Yeah. Spin the legs out. But
+ yeah, like if you can, if you can do like, depending on your goals, yeah, you can do it,
+ work out in 30 minutes. But if you're like, man, I'm, I'm really progressing time and zone for
+ threshold. And I'm at, I'm at three by 15 next time I'm doing three by 17 or something. And I
+ can't do that in 30 minutes. Of course you can't. So yeah, just spin easy and just wait for the day
+ where you've got more ride time. Um, and yeah, it's that simple. Hmm. Okay. Last question. This
+ is a good one. Within each intensity domain is the total dose, basically duration times intensity.
+ Well, that is exactly how this paper broke it out. So in a way, yes, but as we saw, the intensity
+ kind of doesn't matter until it does. So like I said, you've got your total volume,
+ you've got your interval training, and you've got fatigue management and energy management.
+ And practically speaking to me, at least that's kind of what it all comes down to.
+ So to each intensity domain, I don't really think about them as separate things.
+ Like I said, I think about total volume.
+ I think about progressing intervals.
+ And I think about managing fatigue and, you know, working on somebody's weakness if we need to, you know, race considerations, that kind of stuff.
+ So it's all basically basic coaching stuff.
+ So, yeah, we don't really need to big brain this stuff, even though it's tempting.
+ so i think we're all set for today yeah sounds good all right we're a long one but you know
+ people people sometimes like that there are those diehard fans out there yeah um we appreciate
+ everybody if you're if you made it to this point um i'm gonna buy you chipotle how's that so five
+ five years made it yeah thanks everybody for sticking around for five years and i really
+ appreciate it. And, um, uh, yeah, we got a lot more stuff coming out. Uh, thanks everybody for
+ sticking around, especially for the last couple of weeks where I didn't put out a podcast. I was
+ so busy. Um, but yeah, here we are. So if you would like to sign up for coaching with us,
+ empirical cycling at gmail.com. If you want to consult with us too, we will answer all of your
+ questions. We can help you look at your training and, um, you know, help you analyze whatever,
+ help you periodize your year. Uh, our time is your time. Anything you want to talk about,
+ we're here so uh piraclacycling at gmail.com for all of that if you are sharing the podcast giving
+ it a nice five-star rating and a nice review we've had some really nice reviews lately by the way i
+ just looked for the first time in about a year and boy you we have great listeners thank you all
+ you are all fantastic thanks so much um if you want to donate to the show because we're ad free
+ and piraclacycling.com slash donate uh and if you want to check out the weekend amas or ask a
+ question for the podcast uh follow me over on instagram at empirical cycling and uh we will
+ see you all next time i hope my voice recovers sounds good see you everyone

@@ -1,0 +1,1087 @@
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, and today
+we have a very special episode. We have a very special guest in for an
+interview, and I'm super, super excited to have him. But before we get started
+with that, if you're new here, please consider subscribing to the podcast if you
+like what you're hearing. And if you are a returning listener, we thank you so
+much for coming back. If you want to support the show, you can always invest in
+a coach with us. You can hire me or any of my handpicked coaches. We have about
+75 years of collective experience and over 1,000 individual seasons coached. You
+can always reach out to me at empiricalcycling at gmail.com, and we are going to
+be happy to support you. We work with athletes of all levels and amateurs all
+the way up to the world tour. So if you are looking for a coach, feel free to
+reach out. That's also one-on-one coaching, by the way. But if you're looking to
+keep coaching yourself, you want to stay self-coaching, but you want to run some
+ideas by us, get some tools to plan and adjust your own training, you can always
+hire us for a formal consultation. And you can also reach out, again, same
+place, empiricalcycling at gmail.com. And if you want to ask any questions for
+our future guests or the podcast itself, you can always do so on my Instagram,
+follow me up in the stories. Empirical Cycling on Instagram is where you're
+going to ask those questions. But we also have a question box up at the top of
+the podcast page on the website. Today, I've got to apologize first for the
+audio quality. I don't know what happened to our microphones, but it sounded
+great while we were recording. And on the recording afterwards, it was not so
+great. So I've done my best to clean up the audio and make it kind of clear and
+good quality as you expect from the podcast. So I did my best, but the
+conversation was so good, I, of course, didn't want to rerecord it. So you are
+about to hear a very unedited conversation with Tim Podligar. Tim has been an
+exercise physiologist. He studies nutrition. He did two years as a performance
+nutritionist for Bora Hansgrohe. They won a couple of world grand tours with him
+working for them. And he's currently a nutrition consultant for Tudor Pro
+Cycling. He's also currently a lecturer at the University of Exeter in the UK.
+And we kind of go deep on macros. We go deep on energetics, nutrient timing. We
+talk about some of the more modern research. We talk about some of the old
+research. We talk about glycogen. What should you eat on your rides? We talk
+about replacing carbs versus replacing energy and fats and stuff like that. We
+talk about protein and fat needs. We talk about glycogen loading strategies. And
+we talk about maximal rates of absorption and the work that they're doing right
+now to measure that kind of stuff. We also talk about overfueling and
+underfueling signs and Tim's strategies for dialing in somebody's nutrition over
+a couple of weeks, or actually longer than that, if you listen to the interview.
+We also have a couple of good listener questions. We got a whole bunch, but I
+didn't want to take up too much of Tim's time. He's a very, very busy person. So
+I narrowed it down to just a handful of questions. And what I thought were the
+best ones that more of the audience would be interested in the answers. So we
+have questions on some fad nutrition. We have questions on supplementation, like
+vitamins and iron and stuff like that. And we also have a question on hydration.
+So there's a bunch more besides all of that stuff. So we can stop listening to
+me blathering. Let's get right into the interview. So, Tim, what's your job
+like? Because you were formerly at Bora Hansgrohe. What was your job like at
+Bora Hansgrohe? What was your day-to-day? I was a bit of a special nutritionist
+because I've been a ghost to the team. So I never was there, but I was always
+present in the WhatsApp groups, just sending out messages. But it sometimes
+happened that some of the riders never actually saw me in person in the whole
+season, even though I was in their nutrition. So because I had a double role in
+being academic, working at a university and then working as a nutritionist. And
+I kind of thought that the best use of my time is to be remotely accessible to
+the riders and everyone else. So I was doing all the calculations from home and
+just messaging everyone involved. And the food, sometimes we even had a
+dietician there. So I was just communicating with everyone that the riders got
+what they needed getting. But other teams are in the team I currently work with,
+working. So Tudor, the nutritionists are more involved in day-to-day operations.
+So they travel to races and then they're responsible for making sure the chef
+prepares the food and then the hotels. So yeah, provide what needs providing and
+the soigneurs prepare all the drinks and stuff like that. So I think that's
+interesting because a lot of people have remote coaches, have remote
+nutritionists. And so I think it's a little, I mean, to me at least, it's a
+little unexpected that it would be more normal to be at those races and at those
+training camps and see the riders more often. It's funny, Tim, the ghost is a
+very interesting thing because in most coaching type situations, that's pretty
+normal. So is that more of an expectation on the big teams? I think so. It's
+just that they want someone around and they can ask the person in person rather
+than message them. So it's always an option that like, if I'm working from home,
+I'm in the middle of something and they need to reply straight away because they
+just go to dinner. So for me, it was equally stressful to be in the race or
+working from home because I had to have my phone around me all the time and I
+was going anywhere with my computer in the backpack just in case I needed to do
+some calculations or some adjustments to the plan. So tell me about
+calculations. Because I presume that this is, you know, how much should somebody
+eat in a day? Like if somebody's in a grand tour, like you guys won the Giro
+when you were working with Borah Hansgrohe. And I remember you actually put up a
+map of a nutrition plan for a stage. And I recall it was like olive oil and
+hazelnuts. But I presume that it's something like that, but like with the food
+that riders would actually eat. Am I more or less on track with that? Yeah, I
+mean, things are evolving from the time when I started, when I was doing all the
+calculations in my Excel spreadsheet and doing my own kind of like estimations
+to these days, a few years later, when most of the teams have an app, be it
+Hexis, be it the food coach, and it just allows much easier for riders to do
+their calculations. The riders to log in what they actually have, because you
+can do the best calculation possible. But if you don't then have a control over
+what the riders are actually having, then you have a bit of a problem. So when
+we won the Giro, for example, I estimated the amounts they had, but I'm not 100%
+sure that I was actually correct in what they actually ended up having. Whereas,
+for example, when Roglic won the Vuelta two years ago, and I was the responsible
+nutritionist, everything was logged in. So I had a confidence that the amounts
+that I prescribed were actually consumed. And we had an internal app at the
+time. Now Bora has the food coach and in Tudor we have Hexis. And this allows us
+to basically kind of fine tune the app and the way how it calculates stuff. I'm
+still a big supporter of just doing the planning manually. I'm a big supporter
+of just doing the planning manually. What happens when somebody falls short?
+Because I think this is the thing that we see in amateur cycling a lot, is
+people don't have time to eat enough or they are feeling very, very full and
+they really can't eat enough in a day. And then that deficit kind of carries
+over to the next day. So does that happen often for those guys? Or is it more
+like pretty much everybody is dialed in with their nutrition and you don't
+really end the day with a deficit? It depends. So this is when being present in
+the race as a nutritionist is really good because then you can see the rider and
+talk to the rider. And you see the rider sitting in front of the rider on the
+kitchen table, in the dining table. And you see that they just can't take in all
+the pasta. And then you find a solution. So replacing pasta with some juice or
+something that is kind of sugary, but can be easily like go down and be eaten. I
+remember, I think Jai Hindley said that on Sundays on the Giro, it was more
+difficult to eat than it was to ride the bike because the amounts were so
+enormous. And we didn't have a really good communication on like swapping some
+of the pasta or some of the gnocchi or whatever we had for something that's
+easier to digest because I was not there and we just were not that well
+prepared. Whereas these days with so many people around, I think this is much
+easier. So most of the time it does not happen that you just eat, that you can't
+eat enough. You just have to distribute something to the next day's breakfast
+and like somehow try to sort it out. And I also don't think that once you kind
+of reach the targets in terms of like grams per kilo of carbohydrates, and if
+the day is really big in terms of energy expenditure, at some point you just,
+some deficit is just fine. Extra food will make, perhaps just worsen the sleep
+and you might not sleep that well. So, you know, it's fine. I've experienced
+that for sure. So speaking of calculations, let's talk about apps versus doing
+it manually. Because I think a lot of people are looking for a bit of an erg
+mode for their nutrition. And so is that really possible to do? Or is there a
+reason that you prefer something manually as opposed to something in an app?
+Well, it depends on the app in terms of like how flexible it is. So the best
+scenario is that you just add your body weight and your body height and your
+age, and then you get a number. Because that means that you can't change
+anything and you don't need to worry about changing anything. And that's in the
+simplest terms, that's the simplest. But it's actually, yeah, can be really, you
+can be really wrong. If you do the calculations manually or like be able to
+control more of the things, then it becomes really complicated for you as a
+nutritionist, because you need to kind of decide why you change some of the
+numbers and you have to have a really good idea of why, what, why are you doing
+that? But I think estimating energy expenditure is super complex and I think
+pretty much impossible to do. And I always say we are just guessing because it's
+purely guesswork based on how many kind of variables we are dealing with on a
+daily basis. So tell me about the guesswork, because I think a lot of people
+assume that if they take their BMR and they take kilojoules equals Kcal from the
+bike, they will get a number and that number is going to be sufficient or
+they've got some other calculation method. So tell me why it's actually
+estimation rather than a proper calculation. So when we just talk about the
+energy expenditure on the bike, let's take a ride that is around 4,000
+kilojoules. That's quite a big ride, big day in the saddle for most pro riders.
+And then what we don't have in this equation is we just have that external work,
+but we don't actually have the information about how much energy the total
+energy turnover. So how much energy went into the heat production, which is
+another component. So efficiency. Yes, efficiency. So I just have it open here
+because I calculated it a while ago for these purposes to demonstrate how much
+of an error we are making. So if we take efficiency of 20%, we get an energy
+turnover in kilocalories of 4,780 calories. If we take efficiency of 25%, we get
+3,824 kilocalories. So we have a difference of around 900 kilocalories just by
+switching the efficiency from 20 to 25%. So what is the efficiency of our
+riders? Who knows? And is this something where you, I think a lot of people,
+myself included, probably a couple of years ago, I don't think that this would
+work now, based on everything I've learned since then, but I would presume that
+you could get an efficiency calculation from a lab test and then you could make
+something a little more accurate, but also it sounds to me, but like doing that
+would still add several assumptions and sources of error along the way. And it
+probably wouldn't actually make the calculation any more precise, or it might
+bring it down from like a 900 calorie delta to like seven, or six or something
+like that. Yeah, probably because one of the issues I see with testing elite
+athletes is that in the lab is that they're usually not accustomed to riding
+indoors. So if you put me on an indoor bike that I train like 10 hours a week,
+pretty much every week on the kicker, I am pretty efficient on the bike indoors,
+but then they are not because they're just not accustomed to riding indoors. So
+their cadence might go like through the roof, just because they just don't know
+how to pedal on the bike indoors. And there's, that's why the efficiency would
+be completely kind of, yeah, wrong, wrongly calculated, usually overestimated.
+And then the second issue is that you don't have efficiency that's the same for
+all exercise intensities. Efficiency actually changes as the, depending on the
+exercise intensity. So the higher it is, usually after the first threshold, the
+intensity, the efficiency will rise. So again, like which number do you pick?
+And then not to mention what happens when you go above the first threshold and
+you maybe exercise at the second threshold, you can't even calculate efficiency
+using the lab equipment. So suddenly you're again, like just doing guesswork.
+And it's just guesswork. And this is just one part of the equation. So even if
+we get the exercise wrong, then we have the problem of what happens outside the
+exercise. And that's another story. So it's kind of completely, yeah, guesswork.
+And when we're talking about energy expenditure of 7,000 kilocalories, you know,
+you can easily be wrong by four, five, 600 calories, and that's 100 or 150 grams
+of carbohydrates plus minus, which is a massive amount. So, you know, I've seen
+the, I've seen the step count data for riders at grand tours and a thousand
+steps for them is a very, very big day. Um, you know, I think I've seen numbers
+that are 300 or less for some people. Um, and so when it comes to amateurs, the
+level of off-bike activity has a huge influence on how much somebody should be
+eating. Like I think you, you and I have have DM'd about this a little bit. Um,
+I think you've got, um, estimations for like if riders have kids or if don't
+have kids and stuff like that, cause you know that the kids are going to have
+them a lot more active than otherwise. So how does that influence your
+calculations for like somebody who's just regular training routine, uh, you
+know, to, you know, forgetting about grand tours for a minute. Yeah, pretty
+much. When you are really good at like tracking and the riders are actually
+tracking the food every single day, you probably need like a month or two of a
+calibration period. When you're adjusting the numbers so that the recovery of
+the rider is fine and that the weight becomes stable. And then once you have the
+number of like whatever number you're changing, either the efficiency on the
+bike or the pal factor or whatever, then you kind of are happy for the rest of
+the season because you kind of know the rider. But before you do that, like
+you're just guessing. Okay. So two things here. First, um, it takes one to two
+months to come to some kind of equilibrium with this stuff. Like it, it, it's,
+it takes a while. Like I think, um, I think I've talked to people who, um, want
+to lose weight and I usually tell them if you've been tracking your food, you
+know, you probably can just cut X calories for like per day or on a certain
+couple of days and you know, you should see your weight start to come off. Um,
+but then at the same time, I think if somebody hasn't been doing that and they
+don't have a good routine with their food, that's where people can, um, make
+some quick estimations because a lot of the time somebody wants to lose weight,
+they want to lose weight starting yesterday. They don't want to have to wait two
+months to equilibrate and go, okay, this is my true calorie needs. Here's a good
+routine. Um, so is that, uh, have you had that experience too? When you, uh,
+when you, uh, do nutrition coaching and consulting with people, um, where they
+want to start losing weight like right now and you're, and you've got to be
+like, hold on, we need to make sure that we know what your actual caloric needs
+are based on your life. Yeah. I mean, I, I have like, we had two examples of the
+professional riders, um, or the winter period. So one was a young, um, kid, um,
+I think 19 or 19 or 20 years old. Um, started with the same calculations that I
+would start with everyone else. Um, and basically we call him a black hole
+because we needed to kept increasing, uh, the estimations because his weight was
+just going down all the time. And then you increase the estimation once and then
+increase the estimation second time. And then you think that the weight is
+actually starting to go up, but it was just like a hard training week. And he
+started to accumulate water and then suddenly the weight drops by two kilos and
+you're like, Oh shit, like we need to go back up again. So it took us a long
+time to actually come to the number, the calculation that actually we can keep
+him weight stable for a prolonged period of time. And we are confident that
+actually the estimations work. Um, and then on the other hand side, we had the
+professional rider that, um, had the opposite problem. So he was in energy
+deficit of like 1000 kilocalories or 800 kilocalories per day. And his weight
+would be the same. Like it would not go down, would not move for weeks. Um, and
+then you're like, this is just impossible in terms of like calculations is, is
+he reporting it wrong? But now like he was reporting, well, it was just that
+after two weeks or so, the weight just suddenly dropped. And, and we just
+couldn't explain it. Um, so it's really complex when it comes to body weight.
+And I think it becomes even more complex when you put into the equation of large
+volumes of training. And there is always, um, a chance of a risk of water
+retention due to like a lot of stress. Um, and not to mention like changing the
+hotels, changing the shafts, perhaps at home you cook with more salt or, um, a
+training camp, you get more salt, you get more fiber, less fiber, and it's all
+influences the way. So it's really complex. Um, might be a bit easier with
+amateurs, but I think it's not really, um, I actually find that, um, that, uh,
+one of the things that happens with a lot of people is they, they know that they
+should lift weights while they're losing weight to maintain muscle mass. And
+that influences their calculations. Uh, cause I, I see this all the time and
+I've had it happen to me too, where I, I start weight training at the same time
+I start dieting and my weight just go anywhere for two or three weeks. And I'm,
+you know, building up, you know, uh, like probably muscle glycogen stores and a
+little bit of tissue and all that kind of stuff. And then after two or three
+weeks, if I'm going, I'm really hungry, but my weight's not going anywhere. And
+then suddenly it falls away. Um, and I think it's also points towards, I did an
+episode with, uh, Eric Traxler who works at Herman Ponser's lab. And I know
+you're aware of, uh, kind of what they do, but also the energy compensation for
+people, um, is pretty, uh, is pretty eyeopening sometimes. Cause I felt that
+too, where I'm dieting and I can barely do the dishes or go get the mail. Sounds
+familiar to you, huh? Yeah, exactly. Yeah. That's, I think very often, like you
+see them, the riders or people just like trying to lose weight. They just don't
+move from the sofa for the rest of the day. So yeah, that's also not the way you
+want the weight loss to happen because probably the recovery will go, will be
+impaired and yeah, not to mention the, the home or the house will be a mess.
+Yeah. Uh, yeah, believe me, I know that one. Um, so since we're on the topic,
+why don't we talk about signs of low energy availability? Um, like how, how can
+you tell if you are not eating enough or how can you tell if you are eating too
+much? Huh? Good question. It's tough. Like, and we sometimes wonder ourselves
+when you work with an athlete, like, did we put this athlete into energy? Yeah.
+Deficit. Uh, was it too much? Um, like going too high? I think that's not too
+much of an issue. Like you see that the weight would start to slowly creep up.
+Um, that means that you probably, um, over the calories, but then when it comes
+to energy deficit, you don't really know how much is too much because at first,
+again, you need to have a really good baseline. So usually athletes come to you
+and say, well, I want to lose weight. There is rarely an, like a situation when
+the athlete would come to you. I want to maintain weight. And then you have like
+this kind of calibration period when you can figure out how much actually the
+energy expenditure is. Um, they usually say, well, I want to lose weight
+yesterday. Um, and then you might be really wrong in doing the estimations
+because you want to kind of show the athlete that you are worth, um, hiring. So
+you want the weight loss to happen pretty quickly. And then you might overdo the
+energy deficit. Um, and that means that the recovery will go down. Um, I mean,
+yeah, training volume will be too much. Um, you then start risking a lot of
+issues, problems with iron, um, in females, um, losing the period and things
+like that. So you need to be really, really careful. Um, and I think you need to
+be very transparent with the athlete that, well, first we need to establish a
+baseline. Then we can start thinking about weight loss. Um, you've done a lot of
+damage, uh, before, um, coming to me. So now, I think you need to be patient.
+That's, um, yeah, I think that's, that's a reasonable, uh, set of expectations
+for folks. Um, and so I, so I think the take home message, uh, would be
+something like if your weight is going up, you're probably eating a little too
+much. Uh, or if your weight is stable, but you are getting any signs of, um, of
+like lethargy or you're getting sick more often, uh, you know, the typical LEA
+signs that you are probably under eating, would that be safe to say? Yeah. I
+mean, also the weight going up, if it's acutely can actually be a result of
+water retention that can actually be caused by not eating enough. So you always
+need to look at the trends over like a week or so, uh, to actually know what is
+happening. You just can't guess or, um, yeah, base your kind of energy balance
+on one base weight. So just to give you an example, I did a, for my second ride
+outdoors, uh, on a Saturday, I did some intervals. The next day, my weight was
+one kilo up just because, you know, I was fatigued and it was the first time I
+did like a proper efforts outside. Um, and I didn't overeat, um, which is that I
+was tired. Um, and I felt my legs that were heavy and yeah, I was tired. So you
+need to be really careful how you interpret the body weight. Um, and that's kind
+of like one of those things that nutrition is inside cycling teams are just
+like, it's so difficult to understand sometimes what is happening with the
+weight. Yeah. And I think also because, uh, probably riders are very concerned
+if they see their weight go up one or two kilos. Um, but, uh, one of the things
+that I have in one of my energetics dashboards in WKO5 is I have body weight
+alongside like CTL and ATL and stuff like that. It's one of the few times that I
+use those metrics. Um, and I find that kind of thing to be very, very useful
+because, um, and especially if, uh, for, um, for the female clients, uh, having
+it alongside menstruation can also, um, show a good trend of like, Oh no, you
+know, it's that's, you know, we're getting to about, you know, so many weeks
+since your last period. And so like historically your weight always goes up. So
+like, don't worry about this right now. Um, and you know, for like training
+camps or stage races, um, I, I just tell people like, don't weigh yourself
+unless you are actually in danger of under eating. Don't weigh yourself. You're
+not going to like what you see oftentimes. Yeah, that's very, it's a difficult
+topic because as an attritionist, I always wanted to see the morning body weight
+because it very often told me or gave me feedback on how successful I was in
+fueling the athlete. So any large deviations in body weight probably mean
+something to me. So for example, it happened during run tours that the rider
+would be really light in the morning. The rider would be super happy and I would
+be very concerned. So I would probably be wanting like, Oh, let's try to have a
+bigger breakfast or more nutrition on the bike. Um, and make sure that the
+recovery is bigger just to kind of go back on track. Um, if the weight went up,
+then I'm like, okay, did I do glycogen loading? Well, and I'm happy about it. Or
+perhaps there was a crush that happened and then the weight went up because of
+the crush and the medicines that the riders were taking. So it's kind of really
+telling. The problem is that if the rider sees the number, um, and if the sports
+director sees the number, then, then it's an issue. Yeah. I think this is
+actually a pretty good illustration of the difference between professionals and
+amateurs. Like professional cyclists, you know, your weight is such a critical
+factor in your performance, but with amateur cyclists, oftentimes, um, you know,
+people can get fixated on the numbers, a lot of body image issues. And so, um,
+so I, I find that, you know, depending on the rider, you know, you can say, all
+right, well, you may want to weigh yourself here. You may not want to weigh
+yourself here and that kind of stuff. One of the other things I think is
+interesting, that's becoming a little more prevalent is doubly labeled water
+studies. And you and I have talked privately about some of these studies. Um,
+and I, I remember I was actually going to do a podcast on one. Then I started
+double checking some of the calculations presented in one of the tables. And I
+found that the calculations didn't actually match up with where they should
+match up. And I was like, oh, I don't think I can actually do a podcast on this
+paper. Uh, and I asked you about it and you were like, I think if people like
+that much, they would get fat. So, um, so talk to me about doubly labeled water
+studies in professional cyclists, because, um, I think that there it's being
+used more from what I hear, not just in the published literature, but among
+world tour teams. Um, I've consulted with, uh, riders and world tour teams and a
+couple of world tour teams. And, uh, one of the things that either they've heard
+about or they've done is doubly labeled water stuff. So talk to me about how
+much utility there is in doubly labeled water and also, uh, where the
+shortcomings might be. And, um, and what, what do you think, how do you use it
+if you do? Well, um, I use a lot of techniques in the labs, but doubly labeled
+water is one of those that I have never used. Um, so I'm no expert, um, on the
+topic. Um, I just see studies and read studies. And when I then compare my
+calculations with a doubly labeled water calculations, I just see that, yeah,
+the riders would be gaining weight if I use those equations presented in some of
+the papers. And I think fundamentally that it's, it's, it's, it's, it's, it's,
+it's, it's, it's, it's, it's, it's, it's, it's, it's, it's a gold standard, um,
+in measuring energy expenditure. Um, but we need to know that it has some
+limitations and it's kind of an estimate. So what we do with doubly labeled
+water is pretty much, we try to figure out how much CO2 is being, um, produced,
+um, in a free living environment over the period of, um, time when we're
+tracking it a week or two weeks or whatever we are doing, um, based on the
+methodology we're using. So when we use this kind of methodology, we make a lot
+of assumptions, um, and these assumptions can then, uh, lead to some errors in
+estimations. There are quite a few different equations out there, um, that
+estimates, um, or like differently, um, uses the numbers to actually get the
+numbers out. And everything kind of seems to be fine, like in theory, everything
+works, but then in practice, if you apply the same numbers, it's just a bit off.
+And the study that you had in mind, I think it was, uh, from published a few
+years ago, it was, I think, Vuelta, España or whatever it was, uh, the race, and
+they reported, um, energy expenditure, um, during those, um, the grand tour. Um,
+and the values, when I look at my calculations, I would be severely
+under-fueling the riders, uh, but the body weight was pretty much constant. And
+one of the things that they did not report, for example, was energy intake. So
+we have absolutely no idea if the energy intake actually matched the energy
+expenditure, because that's the only way to basically see if the calculation is
+actually correct or not. Um, because kind of, if you can, if you maintain that
+rider to be in energy balance, that means that the energy intake needs to match
+energy expenditure. And in that case, they did not measure the first, uh,
+component. So I just don't see, um, that to, yeah, to hold true. Um, and
+interestingly, before this conversation today, I looked at some of the really
+old papers and one of the old papers was, I think from the eighties or
+something, they tried to use doubly labeled water in, um, professional cyclists,
+the same way, I think it was either Vuelta, Tour or Giro, whatever. I thought it
+was, I remember that one. I think it was the Tour. Um, and they measured body
+composition using the skin fold. So they estimated the body composition and they
+also had a, apparently a good recollection of what the riders were actually
+eating. And there was a pretty big, significant mismatch between the actual
+intake and the energy expenditure. I think the expenditure was like 10 or 15%
+higher than the actual energy intake. While the riders were maintaining energy
+balance. So 10 to 15% means 200 grams of carbohydrates on a day. Um, if you
+think on like, yeah, on a hard day. So that's a lot of an error. Um, so I'm not
+sure where this error is coming from. There are a few theories, there are
+different options, um, where kind of like how the, this special water is
+behaving and the components are behaving. Um, but I think the error is going to
+get bigger and bigger with higher energy expenditure. And we are at the limits
+of energy expenditure with, um, elite riders. And that's when basically we are
+seeing a bit of a mismatch and equally, we might be very wrong or I might be
+very wrong in, um, estimating how much energy the riders are actually getting,
+um, in, into the system. Because if you think about how do we give, or how do we
+measure the food, the riders might be weighing everything, uh, very precisely.
+But for example, when we talk about pasta or rice, we don't really weigh the raw
+pasta rice because it's cooked in batch. So you weigh cooked pasta. Um, and I
+think one minute different cooking time can have a much, a large, um, cause it
+can cause a large error. Um, not to mention like energy gels, you don't squeeze
+everything out. Um, so I think in energy intake, we are probably like at least
+10, 15% off as well. Um, either way. So again, we are back to like, we're just
+guessing. Um, and nutrition labels have like 20% error allowed and absorption is
+not a hundred percent. It's like something between 85 and 95%. And, uh, should
+we go on at the weird equation, modified weird equation, uh, RER assumptions,
+like, like the, the stack of assumptions, you're yeah. And that's, that's one of
+the things that I, you know, when you first read those papers, you go, wow,
+there's a lot of awesome information in here. And then you actually go through
+the methodology and you realize how many assumptions there are built on this.
+And one of the, when you, uh, you know, when you like take stats classes, one of
+the things that they drill into you and like, you know, uh, like PhD level stats
+classes on like more of the theory of stats, they, they drill into you that
+your, your null hypothesis testing and such is only valid if your assumptions
+are fully valid. Yeah. I think this is one of the things we need to kind of
+understand. And this is kind of becoming more and more problematic, um, in
+today's, um, age, which is that we're bringing the scientific method into the
+everyday life. And I think scientific method as such is really useful for
+understanding and describing phenomena, um, to describe like what athletes are
+going through, um, extreme energy expenditure. Amazing. Like that's really
+interesting. Yeah. That's not, but how can I use this information or this kind
+of methodology to actually help the athlete? Cause, because for example, doubly
+labeled water, you do a grant tour and you will only get the results of the test
+like few weeks later because you need to analyze everything. So how useful is
+this to me as a practitioner? Because the grant tour has just finished. Um, and
+unless the riders were losing body fat or body weight, then probably my
+calculations were pretty accurate now. Um, and doubly labeled water only gives
+you average value, uh, because over a period of time, rather than like day to
+day. So you just like having a number just for having a number. Um, and I don't
+think it tells you much as a practitioner. So I'm still wondering what, what you
+can do actually with this kind of this piece of information. I think it's useful
+for research to actually study stuff, but even if it's accurate, I just don't
+see how I could use it in day practice with my athletes. So I can tell that you
+are a trained scientist because you are looking at what is my ultimate outcome,
+what variables are affecting my outcome and what is my input and what is my
+output. And so, you know, regardless of how much theory there is on the black
+box in between that is the athlete, you, you can do just fine by looking at your
+inputs and your outputs. And this is one of the things I've always preached in
+coaching is even if you think that, you know, over under should do this thing
+with lactate and this'll do blah, blah, blah. You can really only be sure if it
+actually has the effect on performance that you want. And you know, you're
+pretty much talking about the same thing. Same exact thing with nutrition. You
+have to watch your inputs, watch your outputs and just make sure that you are
+having the results that you want rather than presuming there's going to be an
+outcome. Yeah. I mean, also one of the problems in science is that we do
+averages. So we have a group average and that's what we're interested in. And
+then if there is an outlier, we say, well, this outlier is probably because the
+person didn't sleep. Well, or something like that. So we try to find averages
+and in real world, that's not just not how things work. And you have individuals
+and you have, yeah, variations. And there are so many studies out there that
+like, because they average things, things seem to be working, but they're
+actually not working because there is too much interindividual variability and
+that's not explained. I actually just did a whole podcast on exactly that. There
+was a great strength training study that used a double randomized crossover. So
+they went from, it was like two leg, leg press, and they were looking at the
+effect of volume and they randomized each leg both times. So that way you had
+four possible outcomes of like high and low volume, low, high, blah, blah, blah.
+And they were basically trying to figure out is there actual, the
+interindividual variability between training response to high and low volumes.
+And they didn't actually have enough data for it, but like in principle, that's
+how you have to do the control is you have to have people as their control, but
+you've also got to look at day-to-day variability and all that other kind of
+stuff. And, and it's, it's fucking hard. It's like, because you're, you've got
+one person and one person cannot be a control group for themselves because you
+can't run the same person in two different universes in parallel. So it's, you
+can't do that 10 times each or ideally like a thousand times each. So yeah, it's
+like you have to really be vigilant about the assumptions that you make and the,
+the inputs and the outcomes. Yeah. I think having an understanding where the
+numbers are coming from, it's really useful because you then kind of know what
+assumptions you're making. And I think that's kind of the most important thing.
+So you know where the error can be occurring. And then, when you spot that
+something is wrong, then you know kind of how to tackle the problem and what
+might, what might have gone wrong in that case. Yeah. Like last thing on this
+before, cause I want to move on to one more topic. When people say I'm eating
+enough, but I'm really hungry all the time, that always says to me, they made an
+assumption that is not being reflected in, you know, in their outcomes. Cause,
+you know, like a lot of energy compensation I see when I consult with people
+like this. And so, yeah, you've, like I said before, people want erg mode for
+nutrition. They just want to set it and forget it. And it actually takes a
+little bit of time and effort. And one of the things that I always try to tell
+people is to find a routine for nutrition that works. Because if you're, if you
+are training roughly the same and you're doing roughly the same thing for your
+nutrition and you are having good training and you're making progress, and
+you're not really having any off bike issues like lapses and concentration and
+such like that, you're probably doing just fine. But getting there, I think
+sometimes takes more energy and, and thought than a lot of people think actually
+need to go into it. Yeah, exactly. I think also like long term, I'm not a big
+fan of like asking people to track the food all the time. I think, it's about
+education and finding what works and how do you listen to your body to get the
+right results out of it. To think what your training demands are and like
+calibrating your kind of feelings with what you actually need. I think that's
+kind of the most important, especially for amateurs, because you just can't
+live. It's like having, like being on a keto diet and living anywhere because
+you just can't, A, you can't weigh your food or you can't control how much
+carbohydrates you will be getting. And it just becomes too stressful. I
+understand the professional cyclists. I understand the professional sports. They
+are paid to do what they're doing. But when it comes to like 99% of other
+people, I don't think that's the way to go. Perhaps it's good to calibrate
+yourself to kind of like have an idea of what you have. To maybe when you cook
+pasta, to just weigh the pasta so it, you have like either using a cup or
+weighing scale, but not go obsessive about the amount. Yeah, I completely agree.
+So let's talk about energy replacement. Because I think one of the things I
+still see a little bit is the assumption that you only need to replace the
+carbohydrates that you've burned. And speaking of assumptions, that is an
+assumption. You don't have to replace the carbohydrates on certain training
+rides. So why do we think about replacing energy versus replacing carbohydrates?
+Well, at the end of the day, if you want to stay in energy balance, that
+probably means we need to replace, yeah, carbohydrates and fat. So just like an
+extreme example would be if you do like fat or fasted ride or a normal ride. So
+you will be burning different amount of fat. And carbohydrates. But then what
+happens for the rest of the day? So if you burned more carbohydrates during the
+ride, you will be, yeah, storing more for the rest of the day and perhaps using
+more fat. So it just basically balances itself out what you're basically having.
+So that's, yeah, the energy balance at the end of the day, like really matters a
+lot. I'm kind of a feeling that carbohydrates are the most important to
+basically replace and maintain the glycogen balance, if we call it that way. So
+it's kind of you replenish glycogen stores day in, day out. But that will also
+be affected by replacing the fats as part of the energy budget. Because the more
+carbohydrates you have in a diet, the more you also oxidize the carbohydrates.
+So everything is like super, super complex. And it just doesn't work like the
+way that, I don't know, you predict how much carbohydrates you expand it on the
+bike. And let's say it's 400 grams. And then you eat 400 grams of carbohydrates.
+And then, oh, my glycogen stores are full again. Like it just doesn't work like
+that. One of the things that I always tell people is that the botergy is a good
+energy accountant. Like within certain parameters, it doesn't matter. Like for
+somebody like me who doesn't, I'm not that active these days. If I get most of
+my calories from carbohydrates or fats, it doesn't seem to really matter as long
+as the energy intake is kind of where I need it to be. But once we are doing a
+ton of riding, like you said, the glycogen is such a big factor. And what was
+that first paper that showed that glycogen is related to time of exhaustion? Was
+it Bergstrom? Yeah. Oh, if you remember anything about that paper, I actually
+plan to do a podcast on it one of these days. Like, well, neither of us were
+alive when it was published. But is that still like one of the foundational
+papers in terms of nutrition and performance? Yeah, definitely. I mean, it was
+also replicated a few years ago and a bit advanced in terms of like
+understanding what they found out. So basically saying that the more glycogen
+you have, the longer the time to exhaustion is. Like as simple as that. And we
+see these like, so when you have riders or athletes, you have certain energy
+budget because the way how we calculate, let's say that we calculate correctly
+how much energy you can have. And then you need to basically with the energy
+budget you have, you need to kind of replace the energy and replace the glycogen
+stores. And the way how you distribute the carbohydrates in a day can have a
+profound effect on the next day's performance. And this is something that I see
+most of the people getting wrong, for example. Dig into that for a second.
+What's getting wrong and what are the effects? Yeah. So we basically like can
+think about the energy intake or carbohydrate intake in two different ways in
+athletes, which is on the bike or off the bike. So if you have carbohydrates on
+the bike and we have, for example, a scenario where you have a four hour long
+ride and let's say 90 grams of carbohydrates per hour versus having 120 grams of
+carbohydrates per hour, which is kind of the norm, the new trend these days. So
+90 versus 120. What do we know about carbohydrate intake during exercise? We
+know that you will spare liver glycogen stores and you will probably spare them
+when you have more than like 60, 70 grams per hour. So no probably difference
+between 90 and 120 grams per hour. What about muscle glycogen stores? There is
+not a lot of evidence that you will be sparing muscle glycogen stores with
+carbohydrates, let alone with 120 versus 90 grams per hour. What happens mostly
+is that with 120, you would be just simply burning more carbohydrates and less
+fats. In other words, by the end of the training session, these four hours, you
+will have exactly the same carbohydrate stores in the body. So you will be
+sparing glycogen stores, but your energy budget is four times 30 grams, 120
+grams of carbohydrates lower. So that's for some athletes, two grams per kilo
+less that you can have for the rest of the day to replenish glycogen stores. And
+we have a really good evidence that there is a dose response relationship
+between how much carbohydrate you have in recovery and how much glycogen stores
+you have the next day. Meaning that 120 grams per hour will give you less
+glycogen stores. So you need to be really smart how you distribute these amounts
+because you don't have unlimited budgets for the rest of the day. And it
+sometimes can happen that in World Tour races, if it's a sprinter stage and the
+rider has 120 grams per hour, but the average power output is, I don't know, 108
+watts. Yeah, 150 watts, yeah. Yeah, then there is either no dinner, you go over
+the budget, and the next day might be a mountain stage and you have to go over
+the budget. And the rider will not be feeling that great the next day because
+simply the glycogen stores will not be full for the next day. So it's really
+difficult to kind of move things around and distribute appropriately. Because at
+the end of the day, the total energy needs are the same. And you're really
+thinking about where do these get distributed to have a good effect on
+performance day to day. Yeah. And I think this is kind of like what we kind of
+lost in translation over the last few years. When, I don't know, is it
+manufacturers, some nutritionists, just pushing for more and more on the bike.
+We're hearing numbers like 200 grams of carbohydrates per hour. But then you're
+thinking, oh, what is actually the energy expenditure? And that's not that high.
+So how do you replenish glycogen stores with 50 grams of dinner? It's just
+impossible. So, yeah, it's... I see what you're getting at. So did you actually
+see that paper? I'm sure you did. That was on immediate versus delayed
+post-workout carbohydrate fueling. What were your thoughts on that? Because the
+glycogen stores the next day were identical. But the performance was, what,
+about 30, 35% worse? Like they did fewer intervals. Did you have any thoughts on
+that? Yeah. I think that was a very interesting one and kind of, in a way,
+supported what they found earlier, that kind of for glycogen stores, there is no
+kind of window of opportunity, similar to like probably for protein, that you
+can replenish glycogen stores even if you prolong the, yeah, or delay the
+carbohydrate intake, at least when it comes to the next day's values. But it
+clearly kind of shows that probably like, in my mind, it's just that the
+recovery processes have been delayed. And that's probably... It's not just
+energy that, you know, you can have full glycogen stores, but you feel rubbish
+because you simply are tired. And it's what probably was happening. Like you
+delayed the recovery by a few hours. The body was still in kind of like, yeah,
+catabolism mode. And probably, I think, yeah, that could explain it. Something
+they measured was liver glycogen could also have an impact, but definitely shows
+like, yeah, it's not just glycogen. It's multifactorial, but you definitely need
+to have the carbohydrates as quickly as possible after a session. Yeah. Our
+podcast episode on that was Wattstock number 59. It was called the muscle
+glycogen paradox because, you know, I kind of came to exactly the same
+conclusion that you did here, which is that there's more going on than just
+muscle glycogen. And so we need to, I actually framed it in terms of a delayed
+acute energy deficit, because I think that the body seems to be very, very
+sensitive to those types of things when it comes to aerobic performance. And it
+would actually not surprise me if the body was, you know, depleting liver
+glycogen. I think that was one of my first thoughts. And I think one of the
+author's first thoughts too was about that. But it wouldn't surprise me if liver
+glycogen, you know, really took a hit over the next couple hours to maintain
+blood glucose. And so I think that was one of my first thoughts. And I think one
+of the author's first thoughts was about that. But it wouldn't surprise me if
+liver glycogen, you know, really took a hit over the next couple hours to
+maintain blood glucose. And I think one of the author's first thoughts was about
+that. But it wouldn't surprise me if liver glycogen, you know, really took a hit
+over the next couple hours to maintain blood glucose. And I think one of the
+author's first thoughts was about that. But it wouldn't surprise me if liver
+glycogen, you know, really took a hit over the next couple hours to maintain
+blood glucose. And I think one of the author's first thoughts was about that.
+But it wouldn't surprise me if liver glycogen, you know, really took a hit over
+the next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And he was like, yeah, it was fine. But I was like, I'm glad you did
+this in training first. And I think one of the author's first thoughts was about
+that. But it wouldn't surprise me if liver glycogen, you know, really took a hit
+over the next couple hours to maintain blood glucose. And I think one of the
+author's first thoughts was about that. But it wouldn't surprise me if liver
+glycogen, you know, really took a hit over the next couple hours to maintain
+blood glucose. And I think one of the author's first thoughts was about that.
+But it wouldn't surprise me if liver glycogen, you know, really took a hit over
+the next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. And I think one of the author's
+first thoughts was about that. But it wouldn't surprise me if liver glycogen,
+you know, really took a hit over the next couple hours to maintain blood
+glucose. And I think one of the author's first thoughts was about that. But it
+wouldn't surprise me if liver glycogen, you know, really took a hit over the
+next couple hours to maintain blood glucose. In other words, you can figure out
+that somebody can only absorb, I don't know, 50 grams of carbohydrates per hour.
+So if you're going to give this person 60, 70 grams of carbohydrates per hour,
+that might cause you issues. Equally, there might be an athlete that can absorb
+in total 150 grams of carbohydrates per hour. And that might be very handy
+during really long endurance events, perhaps like Ironman for triathlon. And
+perhaps like run tours on really long days. And we kind of like now have this
+option to kind of personalize the carbohydrate intake. It's a test that is kind
+of complicated to do. You need to have at least two hours and a half of cycling
+at the same intensity in the lab. You need to be ingesting a special drink with
+a tracer. So it becomes very costly. You need to be kind of, the methodology
+needs to be spot on, but it is possible. I think we are now trying to kind of
+bring this to the market. So in Birmingham and with me in Exeter in the UK,
+we're doing the test and the test is soon coming to Germany and some other
+places as well. So that we can actually like get people in the lab and test.
+Does it make sense to test? That's a question that it's kind of difficult to
+answer. It really depends on what type of an athlete you are, but for like
+extremes. So elite athletes, I think it makes sense because it's not that you're
+always going to be fueling with this super high amount, but knowing that you can
+go for two hours in the last two hours of the race with a higher amount can
+actually help you perform better. And equally, if you keep having GI issues,
+this might be the problem because you just might be over fueling all the time.
+So you need to kind of revise your strategy. So what I'm not sure about is does
+gut training work? Can you increase the absorption rates? And at the moment, we
+don't really see the evidence that it does, that the values would go up. But
+yeah, this is something we still need to kind of look into it. Interesting.
+Because, you know, that actually reminds me of one more thing, which is that
+when you were talking about making sure that somebody has sufficient
+carbohydrates left over in their energy budget for after their ride, I was
+thinking, and I forgot to mention something, but for really hard, long one-day
+races, I bet that some people feel like they are better performing at 120, 150
+grams an hour, especially some of the larger athletes. Like I've got a couple of
+people with FTPs in the low to mid 400 range. One person, you know, in the 460,
+470 range. And, you know, when they're racing, I mean, the kilojoule expenditure
+is absolutely insane. And especially for one-day races like nationals and some
+of the other stuff that we have around here in the US, and some of the big ones
+in Europe, I'm like, they're like, you know, should I fuel more than 90 grams an
+hour? I'm like, I think if you can stomach it, I mean, it's certainly not going
+to hurt if you're not getting GI issues. So have I been kind of more or less on
+track there with my recommendation? Yeah. I mean, this is what I'm also seeing
+with my athletes, especially when it comes to one-day races, like especially
+like in triathlon, because you have like eight hours of really high effort. You
+want to maximize it because you don't really care if your energy balance, if
+there is enough budget for the next day, because it's one-day race. It's now or
+never. And it applies for classics and everything like that. So just go with
+carbs. And what we do is usually like with those athletes, we don't go like
+super high the whole day. We just like started like 80, 120 in the first hour.
+And then in the last two hours, we go higher. And we need to kind of know where
+the limit is. And then we are very confident like, oh, that's the limit. That's
+fine. Like you can stomach it. It gives confidence to the rider. Like I can do
+it. It will benefit me. I will be using those carbs. So it's kind of really
+useful actually to know this. And yeah, it's especially like in bigger riders.
+That's especially the thing. But equally, for example, I tested one of the GCs
+in the past and his absorption was textbook, you know, like, and for him, that
+means like we don't go crazy high because there is no need to go crazy high. So
+we just stick to the numbers he can actually achieve. And then we make sure that
+we have more in the recovery and stuff like that. So it's, it can be very
+useful. Very often the athletes know themselves where the limit is. So they
+would basically get the same number of times. So it's, it can be very useful.
+Very often the athletes know themselves where the limit is. So they would
+basically get the same number of times. So it's, it can be very useful. Very
+often the athletes know themselves where the limit is. So they would basically
+get the same number of times. So it's, it can be very useful. Very often the
+athletes know themselves where the limit is. So they would basically get the
+same number of times. So it's, it can be very useful. Very often the athletes
+know themselves where the limit is. So they would basically get the same number
+of times. So it's, it can be very useful. Yes. Yes. Yeah. Yeah. Yeah. The
+advertising. Yeah. That was pretty much my read because as soon as I started
+hearing about it, I went into the literature and I was, I'm pretty skeptical to
+begin with. And I was, my skepticism I felt was a little warranted when I looked
+at the evidence. And I figured pretty much any Jews would probably do because
+one of the things about during exercise is that people, you know, when you are
+doing tons of aerobic exercise, your body's actually getting really, really good
+at mopping up any kind of free radicals. Like you have natural antioxidant
+systems in all of your cells and all of your body. And the fact that you are
+just exercising at all seems to seriously help with that kind of stuff. And, you
+know, like how many dedicated endurance athletes, you know, who have like
+chronic inflammation issues that aren't like, you know, that aren't like
+autoimmune problems. Yeah. I mean, this is kind of, again, like the evidence,
+like the nitrates, you know, like they were really popular for some times and
+like, they're just not popular anymore, at least that I know of. Well, cause
+also they taste like shit. Yeah. These things just come and go in, like it's a
+trend. And same, like we have this trend now with the cherry juice. I'm
+skeptical just because I think, I think most athletes first need to figure out
+their carbohydrate and they can optimize that. And then they can start thinking
+about protein and then they can start thinking about the quality of food and
+then they can start thinking about cherry juice. You know, it's like the last
+thing on the list. Um, yeah. My, my favorite saying with this is that some
+people major in the minors. Um, I bet a lot of pro cyclists are just happy that
+it's not ketones anymore. Um, they're coming back. Oh, great. Uh, okay. Second
+question is how can I be hydrated, but not stop to pee constantly during five
+hour gravel races? So I think I've actually, I remember my very, very, very
+first race. Uh, I was told to put chia seeds in my bottles. And so I did, and I
+stopped to piss like three or four times, uh, during the road race because it
+was, I was so hydrated. I didn't have enough salt with any of that. Um, and so
+I, it seems easy to get wrong. Um, and I think hydration is a bit of a mystery
+to a lot of people. So what are your recommendations for hydration practices?
+Well, the question is then is the person hydrating too much? Um, if it's like
+cold day, you might actually, the body would want to naturally get rid of the
+water because of the vasoconstriction. Um, in the, uh, in the skin. Um, and then
+you will just pee more and then you think I only need to drink and then you
+drink more and it doesn't help. So I think the first question is like, am I
+drinking too much? And then the second advice is probably like get more
+electrolytes, um, but not drink more as a result of them, uh, which is easier
+said than done. Uh, but you know, electrolytes should retain a bit more water.
+Uh, but it's really individual and like, it's a tough one. Um, to answer, but I
+think it's, yeah, urinating is excessive. That probably perhaps means that the
+levels of water intake are too high. Um, speaking of which I have a question on
+this, which is, is it absolutely necessary to replace electrolytes on the bike?
+I think a lot of people are under the impression that you need to get a sweat
+test and take in as much sodium and calcium and potassium and chloride. That
+you're losing. Um, but my impression is that it's the daily balance that matters
+a little bit more. Am I right on there or have I gotten this totally wrong?
+Yeah, there is no evidence that you need to replace electrolytes during
+exercise. I think especially if the duration of exercise is less than four
+hours, um, it's pretty clear that probably you don't need to replace any of the
+electrolytes and it will find if you replace them for the rest of the day. So I
+think we are kind of overemphasizing electrolytes in general. Um, obviously
+there are athletes that are more prone to having problems with, um,
+hyponatremia. Um, those need to replace them. So we, again, to back to
+individuals, but measuring sweat, um, composition is in my opinion, pretty
+useless because you measure it once and those numbers will only apply for that
+particular day. Um, and then next time they're going to be different. So, yeah,
+cause, cause, uh, cause he trained in, well, change the sweat composition, uh,
+what you're taking in will change sweat composition. Um, everything, everything
+will change sweat composition. Even the intensity levels changes like
+composition, you know, like, Oh, I actually didn't know that. That's
+interesting. Yeah. Um, okay. So last question, uh, how should one decide on what
+supplements to take? Like iron, vitamins, et cetera. I, I'm, I always tell
+people, talk to your doctor about this. Uh, but is there any better advice?
+Should people get, uh, like vitamin panels, um, when they get their bloods done?
+So we usually advise that, yeah, people do like vitamin D and iron status. So
+ferritin, um, I not a fan of like adding supplements for the sake of adding
+them, um, and vitamins and minerals and stuff. So the professionals I work with
+usually are like a hundred percent of, um, recommended daily allowance or
+whatever it is for, um, all the vitamins. I don't want to go higher than that.
+Um, and yes, usually I try to stick to the doctor's, uh, kind of, um,
+recommendations when it comes to like kind of supplementation of the vitamins
+and stuff. What I found recently is that when it comes to ferritin and
+especially the ferritin is that the doctor's task is to prevent anemia. So the
+doctor will be really good at spotting that iron levels are kind of really low.
+And that's when like IV and stuff like that would come into play. But if you
+have an athlete that goes to the training camp, uh, at altitude, the doctor will
+be happy with the values. And as a nutritionist, I would not be happy with the
+values I'm seeing. Um, in that case, I would need to supplement extra. So
+basically, how I see this kind of supplementation is doctor's task is to keep
+athlete kind of healthy. Um, and my task is to improve performance. Um, and
+they're kind of sometimes to distinct things very often similar. So I need to
+kind of consult, but often I would need to take action when the doctors
+wouldn't. Awesome. Do you have anything else on your mind that we didn't touch
+on or, um, or do you have anything to plug? Do you got any papers coming out? Do
+you have any, uh, business ventures that people can patronize? No, trying to get
+funding for some research. Yes. Tell me about your research. What do you, what
+do you got working on right now? Uh, not that you could probably tell me a lot,
+not much because, um, yeah, no funding. So, um, I'm just trying to talk about
+science and do some teaching and, um, dream about doing research, but yeah. Um,
+well, I think that you're doing awesome. Uh, I love all your publications when
+they come out. I have a, I have a, um, I have an alert for, uh, for you, uh,
+among other authors that I like reading. So, uh, keep up the good work and where
+can people find you? Where can they get in touch? Um, I used to be very active
+on Instagram. Um, I'm not that active anymore, but I am there. Um, so yeah, I
+think it's Instagram that where I kind of appear and, um, I guess I'm also on
+LinkedIn, I guess. Um, but I'm kind of trying to remove myself from social
+networks a little bit. Because I don't want to get a Kardashian, Kardashian
+index too high. Um, a what? There is, there is a thing called Kardashian index,
+which is, has been described in scientific publications. Um, and it talks about
+how many citations you have in relationship to how many followers you have on
+social networks. Oh, interesting. Um, okay. Well, I'm not going to judge. No
+matter what your Kardashian index is, I appreciate talking to you, man. And, uh,
+I, uh, it's been awesome to have you on the podcast and I can't wait to have you
+back. Thanks for having me. All right. Thank you everybody for listening. If you
+want to get in touch with Tim, I can also recommend that you reach out to him
+through his website, T pod, lagar, P O D L O G A R.com. And you can get in touch
+with him and see his resume and all the other good stuff, uh, over there. And if
+you want to get in touch with us, empirical cycling at gmail.com, uh, for
+one-on-one coaching or consultations. And if you want to support the show, you
+know the deal. And, um, yeah, I think that's enough for today. I hope everybody
+enjoyed the episode. Sorry for the audio quality. And also sorry if I sound a
+little lethargic, I had gotten a double vaccination the day before and I was a
+little feeling under the weather. So, um, yeah. All right, everybody, please go
+ride safe and we'll see you next time.

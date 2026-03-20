@@ -1,0 +1,923 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Thank you, everybody, for listening.
+ And if you are new here, please consider subscribing if you like the podcast.
+ And if you are returning, we really appreciate having you back.
+ And if you want to support the podcast because you're enjoying it, you can always share the podcast with a friend,
+ with somebody you ride with, on a forum, anything like that goes a long way.
+ Thank you so much for all of those.
+ And if you would like to support the podcast because we are ad-free, well, we are.
+ If you really want to support the podcast, empiricalcycling.com slash donate, but we are asking until the end of the year people actually donate to Hurricane Helene Relief instead.
+ So if you would like to, one more way to support the podcast that is not related to donations, it is becoming an empirical cycling client.
+ You can always hire us for a consultation or for coaching if you are looking for either some input on your plan for next year or looking over what happened last year and want to improve on it.
+ Consultations are the way to go, especially if you like coaching yourself.
+ We're going to keep you coaching yourself with just a little professional input.
+ And if you would like to have somebody take the reins and coordinate with you on your training and help you plan the best around your life that you can to get the best results you can and get fast, faster, or as fast as we can get you anyway, well, reach out to me at empiricalcycling at gmail.com if any of that sounds good to you.
+ So today we have an interview. And if you would like to ask questions for our guests, you can always do so by following me at Empirical Cycling on Instagram. And I will post a link, I'll post stories, a question box up in the stories for our interviews. And we didn't really have anything in the question boxes for this one that we didn't cover in the interview. So we just kind of skipped over those. So sorry about that. But we already got to all of the questions that we saw asked.
+ So if you would like to check out the weekend AMAs, I also do one of those every weekend.
+ So check out my Instagram stories for that.
+ All right.
+ So today we have an interview, and it's a really fun interview because I like to think
+ I pick really interesting guests.
+ Well, at least they're interesting to me.
+ So I'm so sorry if you disagree.
+ I had a great time with this conversation, as I usually do.
+ And so today we have somebody who's done research into LEA and REDAS, low energy availability
+ and relative energy deficiency in sport. And we go deep on this one because we have a lot of
+ questions, or I had a lot of questions that I wanted to ask. I sort of knew the answers,
+ but I sort of also didn't. And I feel like a lot of people are in the same boat when it comes to
+ this kind of stuff. So there's just a lot of stuff about LEA and Red S that has yet to be elucidated
+ really. Uh, but there's a lot that we can recognize and do about it already. And so, uh, in our
+ interview, we start with the female athlete triad. We define Ilya and Red S and we, uh, we also are
+ going to be linking to a ton of really interesting papers. And I encourage everybody to read those
+ papers. Just go to empirical cycling.com under the podcast notes, and you will find these papers.
+ And I, as far as I know, they're all open text. Um, at least the IOC one that we refer to many
+ times, that one is definitely open text. Uh, so go check those out. Um, but also, you know,
+ we talk about, uh, um, men versus women. We talk about symptoms. We talk about kind of the, um,
+ like the impact and the diagnosis, uh, and the things that can happen if you are in LEA for a
+ very long time, or if you are suffering from red ass or something like that. Um, we are also,
+ I should warn you, we are not professionals at helping people with this. Uh, so our, our guest,
+ Dr. Carson, she's a researcher and she's done research on this kinds of stuff. Uh, and she's
+ had experience with this herself. And as, as probably a lot of us have to some degree or other,
+ Um, but you know, we are not going to be talking about, um, you know, the more serious sides of
+ this in terms of like disordered eating and eating disorders and all that kind of stuff.
+ And so if you do know somebody who's got a problem with that kind of stuff, um, and you're
+ wondering how to broach it, well, we do not have the answer in this episode. Uh, I do hope well
+ for them, or if that's you, I do hope well for you. Uh, but we are not professionals in that regard.
+ Uh, so we are talking about more of the physiology and the social impacts of LEA and red S and,
+ uh, and without further ado, I guess we should just get right into the interview with Dr.
+ Tracy Carson.
+ Dr.
+ Tracy Carson.
+ Thank you so much for coming back onto the podcast.
+ Uh, you were here when we were discussing Kristen Faulkner and the continuous glucose
+ monitors.
+ but I really wanted to talk more about red S and low energy availability, but I wanted to start
+ with you a little bit of your history. How did you get to be a doctor? How did you get to be a master
+ of the domain of public health? Yeah, I could, I'll give you the short version. So thank you
+ for having me. My name is Tracy Carson. I did all of my training at the university of Michigan,
+ ultimately got my PhD in public health epidemiology. And within that, I focused on
+ female athlete research within the domain of epidemiology, which was a very strange kind of
+ web that I weaved to make that happen. But all that to say, you can make your PhD whatever you
+ want it to be, whatever department you end up in. I also have my MPH in behavioral health from
+ Michigan. And I also have my bachelor's from Michigan in kinesiology with a focus on sports
+ management. I thought I was going to work in sports and be an athletic director or something
+ like that. And then my own, I don't know, I don't like to overuse the word journey, but my own
+ journey with health as an athlete, as a D1 college athlete led me to women's health and women's
+ sports research, did my master's, ended up doing a PhD because I love the research process. But
+ if I'm being honest with you, my personal experiences are what led me to do this work.
+ It wasn't just kind of something I fell into. It was me trying to figure out my own health,
+ my own kind of issues I ran into with disordered eating and low energy availability.
+ And back then, 2013, 14, 15, there wasn't really a lot of information available for female athletes.
+ And that really fueled me, I guess, pun intended there, to pursue this work and stay in school.
+ Yeah.
+ Was it 2014, the first IOC consensus on Red S and LEA?
+ Yes.
+ And then there was updates in 2018, 2021.
+ Oh, 21 also.
+ Okay.
+ Because I've read the 23 one, like front to back and the 2014 one also.
+ But I don't know why I skipped the ones in the middle.
+ You know, it's like, uh, I don't know. I was going to say it's like star Wars, but no, all the good star Wars were the first ones. Um, the, uh, uh, tell me about your, your journey with this stuff. Um, because what, what sport did you play? What was your experience? What was your experience like with your teammates and your coaches?
+ Oh my gosh. Yeah. It goes back pretty far for me. So I was always an athlete. I started playing
+ soccer. I played, you know, from the age of three to the age of 17. Um, I also ran cross country and
+ track in high school and I was the kicker for our football team one year in high school. Um, so all
+ that to say, I was always an athlete, like since the day that I could walk. Um, but with that came
+ kind of, you know, for whatever reason I had, you know, very perfectionist tendencies, very type A,
+ high anxiety. I became really interested to an unhealthy degree with nutrition and training
+ from the age of probably about 12 or 13. I started to really look into, you know, nutrition and
+ dieting and all these things. And at that age, you don't understand physiology, how your body works,
+ the needs of a young athlete, especially as a young woman around puberty. So my disordered
+ eating started way back then. And then in college, I walked onto the rowing team at Michigan. We were
+ a D1 team. And that's really when my disordered eating behaviors and then the health consequences
+ started to show up for me. So I lost my menstrual cycle. And that was the catalyst for me to start
+ digging into this type of information around female athlete triad is what was talked about
+ back then in like 2011, 2012. But then really just talking to doctors and not really getting
+ any information. And I was told so many times, well, you're very athletic and you work out,
+ so it's natural not to have your menstrual cycle. It's okay that you're not getting your period.
+ But this went on for years and years and years. And I was told, just go on birth control. It'll
+ regulate your cycles and don't worry about it. You're just really athletic. And for a while,
+ I thought that was fine. And that was true. But then, I guess I was always a researcher to some
+ degree. I started to just try to find out any information I could. And what I did find did
+ not align with what I was being told by my doctors and athletic trainers and all of that.
+ And I think we'll get into this more later, but a huge part of it for me was I was never
+ clinically underweight. So I was never flagged as being at risk. And that's, I think, a really
+ common experience of all athletes who have muscle mass and they don't have a clinically low BMI,
+ that they just kind of are never seen as having, you know, being at need, I guess,
+ of a nutritional intervention or someone to talk to about, you know, oh, maybe you should try to
+ figure out how to get your menstrual cycle back. And so that was, I guess, a long answer, but that
+ is a little snapshot of how I got into this work. Yeah. So how did that inform your academic study?
+ Because you mentioned that you kind of wove together your PhD a little bit.
+ Why was that a little difficult to do?
+ Is it that time there wasn't as much resource dedicated to women's health?
+ Yeah, absolutely.
+ And so within public health, there wasn't a huge focus on women's health in public health.
+ But then there also wasn't a huge focus on women's health within sports science yet.
+ And that has come such a long way.
+ I mean, it's been almost 10 years since I started this work and there is, you know, it's kind of almost cringy when I look back at some of my, my, um, like first papers I wrote or my intro sections, because that research has come so far, even in the past, like eight to 10 years.
+ Um, and when I look back, I'm like, wow, my, my research was pretty rudimentary because it was
+ just, it was all new. And, you know, the, the scales and measures I was using and in my studies
+ were, um, you know, just, they should have been a lot better than they were. Um, but it's great
+ to look back and see how far the field has come. Um, what was your full question? I lost the train
+ of thought. No, it's okay. How was your, how did your personal experience influence your, uh,
+ your academics experience. So like, so what were, what were some of the research things that you
+ did? Because obviously I've, I've looked up your, your published papers and I've, I've, I've read
+ the ones that I could find. And, and so, so, so talk about like the populations that you studied,
+ talk about the methodologies and kind of where the field was at that time.
+ Yeah. So I, so I, I chose to go into public health because I really liked the idea of
+ public health was more geared towards prevention and intervention rather than simply like a medical
+ treatment and intervention. And so I like the idea of thinking about how do we prevent this from
+ happening to other women. I studied only women within LEA and REDS, but of course now we have
+ more research and REDS opens up to including male athletes as well. I chose epidemiology really
+ because I wanted to gain those skill sets because I saw epidemiologists were able to
+ design their own studies, do their own analyses, do the coding, pretty much design and carry out
+ a study from ground zero all the way through publication. And that really attracted me to
+ that specific field. But within that, I wasn't the typical epidemiologist in that I did a qualitative
+ part of my dissertation, which isn't typical within the epi space. And then I used that
+ qualitative study, which was interviews with division one cross country runners that were all,
+ all women. Um, I use that qualitative piece to really build into my, um, qualitative projects.
+ And I did that because there wasn't a lot of research in this field. I wanted to actually
+ talk to the women who were experiencing this, talk to the women on the ground, if you will,
+ within athletic departments, they were, you know, division one, high achieving athletes.
+ And I wanted to know what was really going on for them. Like, what were they experiencing?
+ Not just what we saw in these, you know, articles or blogs that popped up or the couple of studies
+ that existed, but I really wanted to hear from them. Like, what did they need? Like,
+ what are they being challenged by? And then use that to build my larger cohort study that I did
+ with, again, division one cross country runners, all being women, um, to really assess what did
+ the state of reds look like in that specific population. Um, and you know, I think, uh,
+ right. Dissertation research is always limited by time and money, of course. So my cohort included
+ a little over 200 athletes. I would have liked it to be closer to 500, but I also wanted to graduate,
+ eventually. And so I had to cut it off at about 211. I'll never forget that number.
+ 211 is what I ended up with. And that, you know, I really built that cohort from the ground up and
+ it was everything from emailing women, getting them to be involved, trying to find them on
+ Instagram and get their, their, you know, captains involved and send it out to their teams.
+ And that study really looked at the broader framework of reds and really trying to understand
+ what were women experiencing in that sport. Um, and you know, using our, had to use some
+ fancy ish epi methods in order to, you know, you know, satisfy my, um, dissertation committee. But,
+ um, yeah, that was a really fun study. Oh, I've heard all about the fancy epidemiology methods.
+ I mean, and I know that epi 211 people is the world's tiniest cohort and it's like,
+ and it's like, you can barely actually say anything definitively about 211 people.
+ But absolutely. Yes. For people used to looking at applied exercise physiology studies,
+ where we might see 15 to 25 people, like 30 people is a large study, like 211 people is
+ phenomenal. But like, it's, it's nice that you didn't have to actually take them away from the
+ normal training, have them do something that may or may not help or may even be detrimental.
+ um so so in a lot of ways like there's only upsides for that kind of stuff and so i i guess
+ if anybody's listening who want who's ever uh got the opportunity to be part of that you absolutely
+ should yeah please do and right student athletes are a really protected population so they are
+ harder to engage with um for good reason right we can't have everybody walking and wanting to study
+ the d1 athletes that would be like very burdensome to them but if you have the opportunity to engage
+ in a survey or something that isn't like too extensive, it really helps people like us help
+ people like you, um, or at least try to. Yeah. Well, because people like me read the research
+ and we go, how can we help people? Uh, how can we recognize what's going on? How can we, um,
+ how can we best serve the people that we are working with? Uh, so with that, why don't we
+ start to talk about what is actually going on with REDS and LEA. Because personally, I'm actually
+ very, very happy to know that I remember from the 2023 IOC consensus on this, I think the study
+ population was more than 80% women. So this is one of the few areas of research that applies to
+ both women and men where women are actually disproportionately represented, which I think
+ is probably a good thing. Yeah, it's really interesting. I was refreshing my memory on it
+ yesterday and it denotes in the consensus statement that even the kilocalorie recommendations are
+ specifically for women and we don't know what those cutoffs are for men. Although it's all
+ individual level at the end of the day anyway, but these general recommendations that we may
+ talk about or i may say in a few moments were specifically for yeah the female athletes in the
+ in these studies and not for men but yeah there's enough on men well why don't we start why don't
+ we even take a step back because um let's let's talk about the female athlete triad um because
+ uh as far as as far as i know it started in it begun in like the 70s or something like that
+ where, oh God, who was it? Was it Anne Luke's, um, was studying populations of women who had
+ amenorrhea. So they lost their period or oligomenorrhea where they had a disrupted
+ menstrual cycle. Um, and I think it started with, they were looking at either, was it the,
+ the actual stress of exercise? Cause this was back when they, when everybody was like,
+ can women handle exercise? That era. Or they were like, was it insufficient energy intake?
+ And they very quickly came upon the latter. Did I recall that correctly?
+ Yeah. So really, it's kind of funny, right? Thinking back on how this question came about.
+ And you can trace it back really far to not just should women be involved in exercise,
+ but should they be in school? Should they be allowed to work because of the stress and energy
+ demands on the body? Does it disrupt the female reproductive system? Because of course, that's
+ the primary function of women to a lot of people at that time is, is like reproduction, right?
+ Reproduction. Yeah. Which to be honest with you is like the central, you know, kind of thing that
+ this question always comes back to is how does it affect reproduction? But then right within the
+ 1970s, especially with Title IX and more women becoming involved in sports, it opened up so
+ many opportunities for women to be included in sports. However, then we kind of started to see
+ maybe some of these physical and mental health effects of being involved in sports. And then
+ in 1993, officially, the first female athlete triad consensus statement was published, which
+ I like to say, um, is not just a coincidence that that's the year I was born, but it was. Um,
+ and so in the early nineties is when female athlete triad became like a much more commonly
+ talked about, um, phenomenon, if you will. And, you know, clinicians, um, athletic trainers,
+ et cetera, started to be aware of this triad, um, of related syndromes, um, in female athletes,
+ which of course is low energy intake, meaning caloric energy, disrupted menstrual cycles,
+ and then bone health issues and bone health stress fractures and things like that.
+ Yeah. I remembered it as amenorrhea, low bone mineral density, and disordered eating was the
+ triad that I learned. Yeah. And we can get into the nuance there too of disordered eating versus
+ just unintentional um low energy intake yeah it's a spectrum right yeah yeah like disordered eating
+ versus eating disorder versus low energy intake versus like oh yeah there's it i mean the list is
+ very long um so yeah um so what happened when we moved away from the female athlete triad
+ yeah so then this is where conversations were had noticing that with this disordered eating
+ our low energy intake state, that it wasn't just amenorrhea or menstrual cycle disorders and bone
+ health issues coming up, but we were seeing this, you know, kind of a larger framework of health
+ outcomes that were hypothesized to be related to low energy intake. And so that's where the REDS
+ framework came about, which is the Relative Energy Deficiency and Sport Framework. And that includes
+ 10 chronic outcomes, but then also 10 more acute performance-related outcomes as well.
+ And that was much different from the original triad where we were now looking at what are
+ these short-term consequences that you're going to see in your performance and in your
+ day-to-day life versus what's going to happen if you chronically are under-fueled over time,
+ which is really helpful because I think it allowed clinicians and athletes and others who support them to start to identify low energy intake as being a root cause of lots of physical and psychological outcomes.
+ Yeah. Okay. So let's dig into low energy intake for a bit.
+ So how do we define low energy intake?
+ And this is kind of a rabbit hole in itself.
+ where do you want to start? Yeah. So we can define energy. So if we talk about low energy
+ availability, we can define energy availability as energy intake. So calories, caloric energy intake
+ minus exercise energy expenditure. So the amount of calories you're burning on your ride or whatever
+ sport you're participating in divided by your fat-free mass, right? And that's something that
+ not everyone knows their fat-free mass. There are some like calculators online you can use to like
+ very roughly estimate that, or you can get like a VOD pod DEXA to do that. Um, so that's energy
+ availability. And if that number is less than 30 kilocalories per kilogram of fat-free mass per day,
+ that's putting you at significant risk of especially things like amenorrhea, um, and some
+ of those more severe outcomes of low energy availability, but anywhere from 30 to 45,
+ Anything less than that, so anything less than 45, let's just say it like that, is putting you at risk of REDS, any of those REDS outcomes.
+ Is that just for women?
+ All this work has been done on women, yes.
+ So, um, I, it's, I think pretty well known that women are more, our physiology is more sensitive to being in a low energy state. So low caloric energy intake than men are. And that's because of our endocrine system. That's because of our reproductive system. Um, men are slightly less sensitive to taking in fewer calories relative to their needs. I'll just say it like that. There are still consequences. They just look a little bit different.
+ Yeah. Yeah. It's like, it's like, we don't have a menstrual cycle to lose.
+ And actually in the, I think it was in the IOC consensus, but it might've been in another paper
+ I was reading where it seemed like the best criteria that's available at the moment is
+ nighttime and morning erections. So correct. So like, so guys, I mean, I, every, every time
+ somebody asked me like, Oh, how do I talk to a guy about this? I'm like, tell them that there's
+ going to impact your deck and they're going to go, Oh shit. Yeah. I mean, I'm glad you said it.
+ So I didn't have to, but that's exactly it. Low libido, low testosterone. If you get your
+ blood markers taken. But yeah, the easiest one, right. Women can obviously tell if they're having
+ their period or not. And men can tell if they're having regular morning erections or not. Those
+ are kind of the easiest ways to detect this. Although there are a lot of other more subtle
+ signs. Yeah. But actually going back to that, going back to that equation, this is one of the
+ things where it's actually not as easy to calculate as this equation has it, unfortunately, because
+ everybody's got a slightly different resting metabolic rate. Everybody's got a slightly
+ different level of non-exercise activity and everybody's activity levels are drastically
+ different. So like if you're a male with a 400 watt threshold and you're doing your endurance
+ rides at 200 to 250 Watts, you're going to be burning twice as many kilojoules as a woman,
+ half your size, uh, who's riding at like a hundred to 125 Watts.
+ Yes. And so, right. I think this, this brings up and we don't have to go too far down this rabbit
+ whole of using things that trap calories. Any wearable tech is not what you should be using
+ as your absolute measure of how many calories you should be eating. It can be a rough estimate. I
+ think sometimes it's an interesting tool to just see, educate on how many calories you're possibly
+ burning when you're training. Although I would never say look at what your aura ring or your
+ whoop or whatever it is tells you as your calories burned and eat that, right? I mean, that's just
+ like a very rough estimate. I think something that has been newer in the research I've seen
+ around this that was not talked about when I was doing Red's research is low carb availability
+ and really focusing on carbohydrate intake, not just your overall calories, right? There's a huge
+ obsession on social media with protein right now. Protein is the number one diet fad trend.
+ Not that protein intake is a trend, but it's a little excessive, right? People's obsession with
+ cottage cheese right now and protein powders and all these things. When really, and we can go into
+ this later too, when really carbohydrates for endurance athletes, you can be eating,
+ say you need 3000 calories a day. If you're not eating adequate carbohydrate intake,
+ your body can still respond negatively despite your overall caloric intake being say it's it's
+ sufficient for your energy needs but you're eating high fat high protein low carb you're still going
+ to have negative consequences of that um and so that's another point that right it's just it's
+ not only about overall calorie intake but it's about your macronutrient um distribution especially
+ focusing on carbohydrates. Yeah. I remember back in the day in like 2011 to 2015, 16, when I started
+ experimenting with low carbohydrate stuff because I didn't know any better at the time. Of course,
+ I hadn't gotten to school yet. I was just cycling, trying to get faster. And it was like,
+ oh, do low carb. And I felt those consequences in a day of doing low carb, of going out for a ride
+ on just an omelet with cheese. And then coming back and being like, I guess I'm going to have
+ a whole chicken. And like, that's your whole meal. And it sucks. It's horrible. Yeah. Yeah. My back
+ in the day when I was had disordered eating, I was paleo and I was a division one rower. It was
+ it affects everything. It affects your brain function, especially your mood, all of that.
+ It's crazy how much carbohydrates can just make your life so much better if you eat them.
+ Yeah.
+ Well, and there's another thing that's going on with this equation too that's difficult for people is because, yeah, the equation is energy intake minus energy expenditure.
+ Expenditure, like you said, is very difficult to measure.
+ Yeah.
+ And there was a paper recently on a woman racing the Tour de France, I think last year, and she burned something like 2,000 kcal per day more than predicted by just about anything.
+ And she lost like two kilos during the race or something like that.
+ So, yeah.
+ And this also gets into what people know as the exercise paradox.
+ And eventually I'm going to see if Eric Trexler or Herman Ponser himself wants to come on the podcast and talk about it.
+ But it's one of those things where there's a lot of fudge factors.
+ And eventually I think we're going to try to do a podcast on that specifically as well as how to account for it while you are trying to lose weight in what is known as adaptive LEA.
+ So why don't we get more into LEA?
+ like so there's there's kind of a spectrum of lea uh so what's on the spectrum because like i am
+ currently on a diet i am in lea uh what is my risk of red s um like what's how bad can it get if if
+ i'm losing like a pound a week well first let's start how do you feel on your diet and your energy
+ deficit. I'm doing great for real. Yeah, for real. No, no, no mood changes, energy, anything like
+ that. Okay. I guess I'm a little grumpy. Okay. There you go. Exactly. So that, that's my point.
+ I think there's always, um, there are always, and I'm talking about athletes. I'm not talking
+ about like our general population, right? Because that's a whole different conversation when we're
+ talking about dieting. But for athletes, there's always going to be some consequence of being an
+ energy deficit, right? And it might be subtle. It might be you're a little moody. You're a little
+ grumpy. Your sleep's a little off. You have a little bit of brain fog. It's hard to get out
+ of bed in the morning, right? That's like the lower end of the spectrum of I'm in a calorie
+ deficit, but it's not ruining my life. It's not negatively affecting my entire day. You might just
+ feel like not optimal energy levels throughout the day. Right. There's that. And then everything
+ on the spectrum from that all the way to a clinical eating disorder, which is, you know,
+ something that is diagnosable by your clinician, psychiatrist, et cetera. And then everything in
+ the middle is where you're going to start to experience some of these consequences that are
+ well represented on that REDS framework. So starting from moodiness, brain fog, you may
+ start to have irregular menstrual cycles. That's usually the first sign. You may not lose your
+ cycle entirely, but your cycle may be late or it may start early. And everything in between.
+ We can go into the entire framework, but you're going to have performance consequences that you're
+ going to start to see pretty acutely the research shows really like changes in um coordination which
+ you may not really experience on a bike like you would if you're playing soccer or things like that
+ um i know some people who've experienced the coordination problems on a bike for sure
+ i'll tell you about it later interesting yeah okay um but things like that focus um recovery
+ time especially right if you're thinking about performance if you're going out to ride four
+ hours and you're only taking in 30 grams of carbs an hour, the next day, you're probably not going
+ to feel very good. Right. And that will probably affect your, um, your training that following day.
+ So, I mean, the spectrum is, um, a very broad, I don't know if we need to go all the way into like
+ eating disorder territory, but disordered eating territory is what that fuzzy gray middle ground is.
+ Um, and that is, you know, opening up a huge can of worms. So if you want to go there, we can,
+ If you want to take it another direction, you can do that.
+ I think we should, I'd actually like to stick to the spectrum of like LEA to Red S.
+ Like where does, because we've got adaptable LEA and, you know, to always go back to the IOC consensus, because it's probably the most comprehensive document with like the list of heavy hitters and their author list is pretty significant.
+ So like adaptable LEA and problematic LEA, and then they've got moderating factors here, but also eating disorders and disordered eating behaviors.
+ And then all the way down at the bottom is red S.
+ So where are we on the spectrum of like adaptable – adaptable?
+ I always call it functional for some reason.
+ Adaptable LEA to red S.
+ Like what's that spectrum look like?
+ Yeah, well, I mean usually how I think about it is, right?
+ There's the whole framework of Red S, which includes, you know, if we're looking at our
+ chronic outcomes, the 10 outcomes ranging from, you know, like immune health, cardiovascular,
+ menstrual cycle, all the things.
+ And LEA is really like, it's the central cause, right?
+ It's literally depicted in the middle of the framework as the root cause.
+ And so, I mean, if we want to talk a little bit about one of my dissertation papers that
+ was looking at, right? If you have LEA, the reason I did the paper I did was because I saw this
+ framework and I was like, right, this is great, but no athlete's going to walk into their doctor's
+ office with all 10 outcomes, right? So how do we start to see these overlapping patterns? Like,
+ what are these profiles that can emerge within this framework? Because you're not going to walk
+ in and have all 10. And so what combinations of these 10 could start to kind of point, you know,
+ athletic trainers, doctors, whatever it is towards LEA being the root cause. And so that's really why
+ I did that paper. And I think that it was really interesting because we started to see that like
+ mental health concerns, like anxiety, especially in OCD, like tendencies were a common experience,
+ related to the root cause of under eating. These are people who did not have a previously diagnosed
+ anxiety disorder, OCD disorder, et cetera. But seeing how did that overlap with things like,
+ okay, they have a really low heart rate. They have some of these cardiovascular concerns that
+ they're reporting. They're getting sick all the time. They're reporting this certain profile
+ of outcomes or symptoms, if you will. And that helps to kind of elucidate what is the root cause
+ of that. These are not just random outcomes that are showing up together, but there's actually a
+ central, I hate to use the word cause because, you know, I'm not allowed to say that in epidemiology,
+ but a central root issue that could be explaining it potentially, right? We always have to say
+ maybe sort of potentially. Um, but that's really, I think the, the most interesting part of REDS is
+ that, um, it's a fairly broad spectrum of outcomes, but the root issue can be quite simple to fix
+ in some cases, or it can be incredibly complicated in other cases. And that's usually the case of
+ like a clinical eating disorder or disordered eating, right? Because that, that takes a lot
+ more, um, focus intervention than an athlete who is under eating because they just don't have the
+ education around nutrition. That can be a much more straightforward, um, you know, issue to
+ address. Whereas if it's more intentional, that becomes a much, you know, typically a much longer,
+ um, process. Yeah. And actually one of the fascinating things, uh, that I learned is that
+ diagnosing red S is actually very difficult. Um, because like there's a paper, uh, I think it was,
+ uh, I think Trent Stillingworth was the main author, but I remember that Margo Madjoy and
+ Louise Burke were on it too. Um, on kind of like the, the differential diagnosis between
+ overtraining syndrome and red S and how between those two and even like some, um, I think they
+ discussed also, uh, some types of hypogonadism and male endurance athletes, how like there's a
+ huge overlap in, uh, in clinical presentation. And so, so getting to a, like a proper diagnosis
+ for OTS or red S is like, it's like almost, um, like diagnosis by exclusion. Like you've got to
+ make sure that everything else is not happening first, but like, it's, it's such an interweaved
+ web of symptoms and root causes potentially. So I forget where I was going with that, but please.
+ No, I, yeah, I think that's such an interesting question and, you know, I'm certainly biased
+ because this is my area. Reds is my area of interest and, and, you know, training, but
+ I can't think of overtraining without reds being some component of it. Like the root cause of reds
+ with LEA being some component of overtraining, right? I, it's kind of like overtraining syndrome
+ reds as a Venn diagram is almost just a circle. It's almost just a circle because, right. If I,
+ I don't, I'm not an expert on overtraining syndrome, but that's, you know, significantly
+ related to recovery or lack thereof. Right. And so if you're not recovering a huge aspect of
+ recovery is nutrition. And if you're not, um, getting the nutrition into recover, you're gonna,
+ end up in this, you know, kind of circle loop of, you know, being under, under recovered training,
+ continuing to be under recovered. I had a coach once, I don't necessarily agree with this,
+ saying there's no, there's no such thing as overtraining, there's only under recovery.
+ And that always stuck with me for some reason. But I think there is actually something interesting
+ to that. I don't think that applies to everybody, certainly. However, right, if we, if we think
+ about fueling as a central aspect of recovery, then I certainly don't know how that could not
+ be part of overtraining syndrome. I know there's various case studies we could look at that might
+ point to that not being true. I remember on a podcast once, I actually addressed this question
+ directly, which was somebody asked, is there really no such thing as, what was it? There's
+ No such thing as under fueling.
+ There's just under recovery, right?
+ No such thing as overtraining.
+ There's just over training, just under recovery.
+ Yeah, no, that's, that's definitely not true because you can train with such an intensity
+ and such a frequency that nothing you can eat, no amount you can sleep, no amount of
+ anything is going to actually get you to recover between.
+ And so, yeah.
+ And so I guess, because one of the things about that statement is that it doesn't necessarily imply that there is a certain expected timeline for recovery to begin with that we must adhere to or obey for each person.
+ Like if somebody does a high intensity workout on Tuesday, some people are fine for Thursday.
+ Some people are fine for Saturday.
+ So, yeah.
+ So that one's always stuck in my craw too.
+ I agree.
+ Yeah.
+ And again, I'm not definitely not the expert on this, but I, I believe overtraining syndrome is
+ also a little bit more related to like central or like your nervous system dysfunction, where
+ reds is a little bit more related to some like endocrine dysfunction. And I think that is like
+ an interesting differentiator too, but I, I would have to look into that a bit more.
+ Well, I mean, well, one of the, one of the things that makes them both
+ diagnosed just by exclusion is that there's no single validated biomarker or even multiple
+ validated biomarkers for either for a proper diagnosis. So, yeah, but, but I mean, I know a
+ lot of people used to think kind of like the, um, actually it's funny because in overtraining,
+ it used to be thought that adrenal fatigue was part of it, but like your, your, your adrenal
+ are producing plenty of everything they're supposed to when you are overtrained, uh, that,
+ that one's been pretty disproven, but like, but so that was, that was funny that like, cause the,
+ female athlete triad was like a small circle that became larger
+ and the previous thoughts about overtraining were like no this is bunk
+ yeah it when you said adrenal fatigue it just reminded me of um i felt like that was such an
+ internet trend for maybe a few years ago it had a good like six to twelve months being like the
+ central focus of like health instagram and just noting how that has changed over time i feel like
+ lately that, you know, there's always a new, uh, buzzword that everybody has. If you're tired and
+ experiencing, uh, if you're experiencing, um, regular human fluctuations of, um, energy,
+ emotions, et cetera. Um, I think it's, everybody has insulin resistance right now is what I'm,
+ I'm learning. It used to be adrenal fatigue. Now it's insulin resistance. Um, at least
+ according to my algorithm, but it just, yeah. Um, stop clicking on it. It'll go away. Yeah.
+ My algorithm is like cars and puppies right now.
+ It's great.
+ Oh, that's great.
+ I feel like this is a good time to note too that for athletes, I think especially endurance athletes or any athlete who's training to a fairly high degree, nutrition information, the vast majority of nutrition information that's available to you online, the vast majority is not for you.
+ It is not for you.
+ It has nothing to do with you.
+ um and i think that's really challenging especially for younger female athletes that
+ are just inundated with this diet culture you know this diet and health trend culture that
+ changes every three to six months on the internet um it is just not for you you just have to look
+ at it and say that is it's none of my business it is not for me and that is even challenging for me
+ as a 31 year old who works in this field, right? Um, you just have to know it is, that is not about
+ you, um, and let it go. And I think that, you know, it is really challenging for younger athletes
+ who grew up in, in the social media kind of inundation, um, of all of this stuff. So I just
+ always like to make a note of that. Yeah. I mean, I remember in the nineties and aughts when I was
+ becoming socially aware of these things, uh, there was a lot of backlash against like what
+ the ideal female image was. Um, and, uh, cause you know, that was the era of, uh, who is that
+ really skinny supermodel? Was it Kate Moss? Um, I mean, yeah, she's the archetype of that. Yeah.
+ Yeah. Yeah. So there was a, there was a lot of backlash against that, which I thought was great,
+ but at the same time, like depending on, you know, the social media algorithm and the sports
+ you follow and what you click on, like you could certainly get inundated with like more
+ unrealistic images of like what you assume like men and women would look like, uh, you
+ know, as an archetype for, Oh, you've got to look like this to be good at export or
+ to be this attractive or to be whatever.
+ When in fact, uh, I've heard that a lot of those folks, uh, are actually experiencing
+ some sort of adaptive LEA pretty constantly.
+ and they've actually arranged their entire life around just looking okay for Instagram.
+ When in fact, it probably sucks to actually be them.
+ Yeah, absolutely.
+ And I think too, this is a time that we can highlight being right, just because you have
+ a certain aesthetic.
+ This may be obvious, but I think it's worth repeating.
+ Certain aesthetic does not mean you're healthy, does not mean you're strong, does not mean
+ you're going to get a new FTP tomorrow, right?
+ Like your external physical appearance does not correlate, um, to your actual, like, you know, health at the cellular cellular level. Right. Um, or, or your self worth. Oh, I mean, yeah, certainly. And I think what's often missed in female athletes often get caught up in is just because you are not losing weight or you're not underweight or you don't have a quote unquote low BMI does not mean you
+ you are eating enough for your energy output. So you can be in a state of low energy availability,
+ a long chronic state of low energy availability and not lose weight. That can be true. You can
+ be in a chronic state of low energy availability and your body weight can go up. You can be in
+ chronic low EA and look a certain way for many years. So your external appearance and your weight
+ on the scale is not necessarily a marker of being under fueled. And that is a hard pill to swallow
+ for a lot of people, especially those who are like, well, I'm at this body weight and I would
+ like my Watts per, you know, whatever to be X, Y, Z. So I need to lose weight. And it's like,
+ well, if you're already under fueled and you want to under fuel more, I guarantee that it doesn't
+ matter what your Watts per kilogram is. If you can't perform, like you're not going to care.
+ on paper, right? It's all these like markers of, you know, watts per kilogram, your whatever,
+ your FTP is one time. But if you reach those, but you can't show up on race day and perform,
+ who cares? Who cares? If you're chronically under fueled, and you know, you're miserable,
+ I guarantee your performance is going to be horrible, no matter how low your body weight
+ gets right so it's like it's this very interesting trade-off and honestly luckily i i don't hear
+ female cyclists talk about this as much like the watts per kilogram obsession and things like that
+ um i hear it much more among like my male peers in this sport um oh yeah i should also mention i
+ do ride bikes so i do know what it's like to ride bikes and race bikes um but just noting that
+ there is a significant trade-off between weight loss and, you know, trying to reach a certain
+ Watts per kilogram. Um, if it's not done correctly, I'm not saying it can never be done.
+ I'm saying if it's not done correctly. Yeah. Well, when I, whenever I've got a conversation
+ with somebody who's like, I want to reach X body weight, like a lot of the time, my first thought
+ is this is going to be a year, a multi-year project, like based on your timelines for
+ training for racing for your goals you know we are not going to get there in one year because it
+ like it's taken me like i've i've was i've lost like about about 40 pounds in the last three years
+ or so um and it's taken a long time to do in such a way that it stays off and yeah that i i'm like
+ not experiencing really bad symptoms on the way. Like I know that I can't diet longer than like
+ eight weeks. I can't lose any more than like six to eight pounds in that time. Cause like no matter,
+ no matter what I am going to have an issue when I get to about that time. And so I know I got to
+ cut it off. I got to maintain for a little bit, got to do other things, et cetera, et cetera.
+ So like that, and that's me personally, cause I've done this for a while, but like
+ with my clients, it's the same thing. And actually whenever I consult with people,
+ one of the things that if I suspect any of these things are an issue, I look for more corroborating,
+ uh, criteria, like, are your performances inconsistent? Are you not sure when you're
+ going to have a good day or a bad day? Are there a lot of bad days? Um, yeah. How's your endurance?
+ Uh, you know, how's your mood? How, how's, how's all that other stuff? And, and I'm,
+ I'm certainly no clinician, but I can, I can at least, I like to think, figure out enough where
+ I can point someone in the right direction. If I suspect that something like that's a problem,
+ whether it's under fueling or overtraining, or even if they're like full blown red ass and they
+ need to like take a couple of years off the sport. Yeah. I think a huge marker of that too,
+ is can you do your workout well, but then you can't do anything the rest of the day. Like you
+ are on the couch, you like, it feels hard to even go get in the shower or like make yourself lunch.
+ Like if that is also happening, right. Maybe you can show up on the bike and do it for two hours
+ and meet your, you know, do your workout successfully. Um, but if the rest of the day
+ you are complete, like potato, like you have no brain function, every little thing feels hard.
+ Like that's, that's also a huge sign. And a lot of people actually, um, a lot of people experience
+ that. And that might not mean that you're headed towards like horrible reds the rest of your life,
+ but it may be like, Hey, that I should check in on how I'm feeling on the bike because this
+ probably isn't, isn't enough. Yeah. Yeah. We'll, we'll, we'll call that Instagram fit where it
+ looks like you're doing fine, but you know, behind the camera, yeah, you're a sack of potatoes,
+ uh, or, or a potato or a baked potato to pick your favorite potato. Yeah. Or like your Strava
+ looks good. You got that KOM. At least you got that KOM, but you can't do anything the rest of
+ the day. Yeah. Actually, that was one of the big questions I had for you is like, can you be an
+ LEA or have red ass with stable body weight? So the answer is absolutely yes. Absolutely yes.
+ Can all of this occur at any level of leanness?
+ I didn't hear that.
+ Can you be in LEA, can you have red ass at a high body fat percentage?
+ You can.
+ If we're thinking about our typical athlete though,
+ you're probably not at a super high body fat percentage. If you're at a high body fat
+ percentage and you're in a calorie deficit and you're in a state of LEA, you're probably,
+ you're going to lose weight, right? I mean, that's kind of just the, you know, I never say
+ calories in calories out. It's not that simple because it's not that simple, but in a fairly
+ well-trained athlete, um, you can certainly maintain your same body mass, body weight in
+ a state of LEA. I mean, your weight can go up, it can fluctuate, it can go up and down.
+ And that doesn't mean that's necessarily correlating to your amount of energy intake,
+ right? Your body has to adapt, especially in a chronic state of low energy intake.
+ And that's something that I think frustrates a lot of people. But if you think about it and
+ remove your own self from the equation there and think about your body has to adapt to being
+ under fueled. And if I'm talking about women specifically in the reproductive cycle, your body
+ has to shut down non-essential functions, um, like reproduction. So the menstrual cycle in order to
+ conserve energy to maintain essential functions like breathing, um, you know, your heart beating
+ all of those things. And so, I mean, your body is slowing down, literally it is slowing down
+ to conserve energy. So with that, your metabolism is slowing down to conserve energy.
+ And your heart rate is slowing down to conserve energy. And so that's kind of the simplest way
+ to think about it. But when people are like, well, I'm restricting my energy intake,
+ trying to lose weight, and the scale just stopped moving down. It's like, well, your body had to
+ adapt to that lower energy, the lower amount of energy that I had to work with to keep you
+ going every day. And right, if we're talking about cyclists, especially like we tend to be pretty
+ like type A anal people who are high achieving, not just on the bike, but off the bike as well.
+ And that requires a lot of energy, right? Like if you have a pretty high demanding job and you're
+ using your brain or using your body all day, we have to think about like, that's also requiring
+ a lot of energy. So if you're trying to restrict that and you're doing a full training load and
+ you have a demanding job and maybe you have kids you have to chase around or dogs you have to chase
+ around at the end of the day um you probably are using and requiring a lot more energy than you may
+ realize especially if you grew up in like a diet culture mentality like a lot of
+ um my friends and my peers have um there's a a huge gap in what we grew up thinking was
+ enough food and the right way to eat versus what our bodies actually need to function optimally,
+ right? There's your body can function, it'll adapt, but there's certainly a trade-off between
+ functioning optimally and just surviving. Yeah. Um, actually that's, um, that's, uh,
+ what you mentioned about your body's reducing its metabolism. It'll also reduce your activity
+ level, like you also mentioned. Um, and, uh, and, and there also seems to be, uh, some, uh,
+ compensation in terms of energy efficiency in your movements, like walking, like just moving around,
+ like you, you may do it a bare minimum of like bending down to, you know, get the dog food as
+ opposed to what you might normally do while you're like playing around with the dogs. This time,
+ you're just going to like, I'm just going to go scoop and into the bowl. I'm done. Have fun. Um,
+ And that's – I know that a lot of people actually – that's a little – becoming a little more popular these days because – wow, God, what's that German nutshell channel?
+ They did a video on the hunter's exercise paradox.
+ And it's like, I think the larger phrase is like metabolic adaptation.
+ And I've experienced this in long diets.
+ Like when I've dieted past like eight, 10 weeks, at week like nine, I stopped losing
+ weight, even though I'm doing everything the same.
+ And I'm a creature of habit.
+ And so I'm sure that I'm like, oh God, maybe I'm moving a little less.
+ Maybe my body's trying to conserve energy.
+ And so in order to keep that moving, I'm like, oh, no, I've got to cut another 200 calories out of my day.
+ This is going to suck.
+ But that's when I've learned, like, I hate that.
+ So I'm just going to stop right there and quit while I'm ahead.
+ Yeah, absolutely.
+ If you essentially starve yourself of energy, you're not going to have energy to do the things that you typically would do, right?
+ People talk about that a lot with dieting and, like, even just getting your daily X thousand number of steps in that you try to get.
+ those little things become more challenging and start to fall off because you are just
+ literally so fatigued. Yeah. Um, and actually that's, um, that's something else that I thought
+ was interesting is like, um, there's at the moment, there's really no, uh, estimates cause
+ I don't think it'll ever be hard numbers, but, uh, there's no estimates for what, like the
+ magnitude of energy deficit and duration of energy deficit to actually drive somebody to
+ those adaptations or even towards like or even or even towards red s i'm aware of right
+ right it's it's so bio-individual it's so like as an epidemiologist right i'm trained at population
+ level research we can't there isn't like a population level recommendation and i don't
+ know that there ever will be like we have the broad um you know no less than 45 kilocalories
+ per kilogram of fat free mass per day as like a general recommendation for you know optimal body
+ functioning um but when it comes to more specifics it just right everyone is so different that i
+ don't know that you know we'll be able to do that it's such a complicated framework as well
+ it's too multifaceted, I think. Um, okay. So can you get red S without disordered eating or eating
+ disorders? Oh yes. Yes, you certainly can. So right. As I mentioned earlier, that's kind of
+ like the easier, um, population to target and intervene on, um, in terms of preventing kind
+ of those more problematic long-term consequences, right? Often athletes, I mean, especially if you
+ just don't have a high motivation towards food, or you don't have really an interest in nutrition
+ and learning about nutrition and what your body needs, or you just never really had access to
+ that information, but you are, you know, highly active, you may just really have no idea what
+ you need to fuel your body. And it may be a mismatch in, you know, overall calories. It could
+ be, you know, you're not eating enough carbohydrates specifically for your sport, especially if you're
+ doing an endurance sport. Um, and that can be, you know, easily targeted essentially with talking
+ to a registered dietitian or if you're on a team and you have access to, you know, if you're a
+ university athlete and there's a registered dietitian in your athletic department that
+ comes and talks to your team or talks to you, just getting that information. Um, right. And
+ if you're seeking out information by yourself because you're starting to notice oh i'm tired
+ all the time or i'm not getting any stronger i'm not getting any faster maybe i need to eat more
+ or i'm even going backwards yeah or i'm yeah getting slower i'm just i'm not progressing how
+ i should be um right doing your own research but with that it's being highly discerning of the
+ research that you are looking at making sure you know if you're a cyclist you're not looking at
+ research that was for, um, you know, like a soccer player even, or a weightlifter, right.
+ That's going to look different, especially as it comes to carbohydrate needs. So making sure that
+ you are a little bit sports specific when you're looking at, um, dietary recommendations relative
+ to, you know, your activities, um, and not, you know, falling victim to these, you know,
+ podcasts and such that claim all this information about nutrition that is just complete bogus,
+ but hopefully, but this was pretty good. Yeah, this one's pretty good. Um, and then, you know,
+ on the other side, if it is, you know, low energy availability due to a disordered eating or an
+ eating disorder, that's a much more like multifaceted approach. Um, because eating disorders
+ and disordered eating are psychological at the root, right? It's not behavioral. It's not,
+ oh, just eat. Yeah, just eat 90 grams of carbs per hour on the bike. No problem. It'll fix
+ everything. It's not just a behavioral change. There needs to be psychological change that comes
+ with it. Usually, right, there's a fear around eating more. There's a fear of certain foods,
+ It's a fear of especially gaining weight and body composition changes.
+ And it's not sending them a diet plan and say, hey, go do this because it's not going to happen.
+ I know from personal experience, it's not going to happen.
+ And it takes, you know, typically, you know, a therapist being involved, working on the psychological aspects around your relationship with food, working with a dietitian who I would say, especially a dietitian who understands disordered eating, right?
+ And it's not just a sports dietitian who has never worked with individuals who have a hard time increasing, you know, their calorie intake or intake of particular food groups.
+ And that often can take a lot longer. I mean, if we're talking about getting, you know, well, improving your relationship with food, one, but then also those physiological improvements, like getting your menstrual cycle back, that doesn't happen in, it doesn't happen in one month, right? It certainly doesn't happen in, usually doesn't happen in two months. It can.
+ But in the more chronic states of being under fueled, it can take, you know, three months, six months, 12 months to have your menstrual cycle resume. Sometimes it can take longer. Sometimes that comes with weight gain. Sometimes it doesn't, you know, there's no one size fits all. Yeah.
+ And sometimes there's lifelong impacts from, from this. Cause I've, I cannot, I cannot even count. Unfortunately, I cannot count the number of women I know who are suffering lifelong consequences from these issues.
+ Are you, um, is it bone health things?
+ Bone, bone, bone, yeah, bone health, but, um, also, um, like GI problems also, um, also libido problems. Um, you know, like just, just go down the list and like,
+ I probably know somebody with a lifelong problem because of that.
+ But actually, speaking of the menstrual cycle, what are the additional considerations around menopause or hormonal contraception for women?
+ I love this question.
+ I truly do not know much about reds with menopause.
+ But when I saw your question come across, I was like, somebody should really look into that.
+ I don't think that there's a lot there.
+ But I can come back to that.
+ But as it comes to birth control and contraception, this is my favorite topic. I could talk another hour about this, but I won't. It is still quite common, unfortunately, that a female athlete will present to their doctor without their menstrual cycle and they will say, go on the birth control pill or go on, get an IUD, et cetera, for the specific reason of quote unquote regulating your cycle.
+ And we know that that is not the case. If a female athlete needs to be on contraception for contraception purposes to prevent pregnancy, that is obviously a different situation that should be fully supported, in my opinion.
+ But if they're going on contraception just to regulate their menstrual cycle, that is simply just masking kind of the underlying issue of not having a naturally occurring menstrual cycle.
+ So if you go on birth control, you will not know if your natural cycle resumes or not, right? Because you have this chemically induced cycle, essentially, where you're getting a withdrawal bleed when the hormones, either you're taking like a sugar pill, or if you're on IUD, you may not get a bleed at all. But you won't know actually, if you're having a normal menstrual cycle or not. And that, you know, is sometimes a barrier to understanding how your physiology is operating.
+ Are you having a normal monthly cycle or not? And it can be complicated for women who are on
+ contraception for pregnancy prevention purposes. They may not always know if they would be getting
+ their natural cycle or not. Just something to consider. I will say this is not a sponsored ad
+ because I am not sponsored by Oura Ring, but on an IUD, you can, not always, but you can still
+ ovulate. So if you have something like an aura ring or do temperature tracking, like basal body
+ temperature tracking, you can still get a sense if you're ovulating or not. And if you're ovulating,
+ you have an idea that you are having a cycle throughout the month, which is what we want.
+ But with the aura ring, you can actually look at your temperature tracking, your basal body
+ temperature throughout the month, and it can show you when your ovulation starts. So basically when
+ you enter, you know, your period follicular phase, it can show you when you're ovulating.
+ And then when you enter the luteal phase. Um, so if somebody is interested in that and they have
+ an IUD and they wonder if they would be getting a cycle, something to consider for, um, not a small
+ fee, but, um, can give you some additional insights. Interesting. I've never heard of that
+ before. So my, I would assume that because the, um, because the menstrual cycle is so energy
+ intensive, uh, I would assume that your basal metabolic or your basal body temperature would
+ go up because of the increased metabolic needs, right? Um, sorry, I, I don't think I understand
+ your question. Oh, so, so if I, so were I, uh, a woman with an IUD and I were wondering if I were
+ getting a regular cycle, um, so would I look for an increase in my, uh, in my body temperature?
+ Yes. At ovulation, your body temperature increases, but it's by like 0.02. So it's not something that you can do. Yeah. It's very, very minimal. So that's why like if you are using, um, a basal body temperature, um, tracker, it has to be like the correct type of thermometer to do that. Right. There are certified ones. You can buy, you can buy one at CBS if you want to. It's not going to be as reliable as something that's a little bit like natural cycles or something like that. Um, that are connected to abs.
+ and track it a little more accurately, but the Oura Ring does a decent job at that too.
+ So there are ways to kind of understand when that initial temperature fluctuation happens and then
+ the rise and fall of the temperature as you progress into the luteal phase. But you can see
+ how long your ovulation window is as well, which just can give you really good insights into
+ your hormone health, especially for athletes who may be looking to, you know, conceive in the near
+ future, which is kind of an interesting subset that I'm yeah. Passionate about. Awesome. So you
+ said you said you had a couple other thoughts on on menopause and red S or is it just more
+ research is needed. Oh yeah. No, just that somebody should do that. Somebody should look
+ into that. Um, but I think also just noting all of the, you know, more short-term, um,
+ side effects or consequences, if you will, of being in low energy availability will show up,
+ but then specifically kind of the bone health implications I'd be really interested in around
+ menopause, especially if somebody kind of entered menopause in a low EA state, how that would affect
+ like their bone turnover and all those things as they go through menopause from perimenopause
+ through menopause. Badly, I would assume. Yeah, we would need to see some real data.
+ Yeah, I would assume quite poorly, but I do not have the data on that. But I think it'd be
+ Interesting. And kind of the public health advocate in me, it's worth noting that poor
+ bone health, we know that if you fall, the risk of falling as you age is highly correlated with
+ early mortality. So if you think about the importance of bone health, it's that if you fall
+ at an old age and your bones are very weak and frail, you have a much higher risk of breaking
+ and fracturing bones. And we know that breaking and fracturing bones at old age is highly
+ predictive of dying earlier. So if that makes you want to focus on your bone health and nothing else
+ does, I will leave that with you. So speaking of bone health, what are the long-term consequences
+ of not really solving any issues that come with red ass? Because I know bone health is a big one.
+ And I actually know a couple of women who have been in really bad states.
+ And then when they get their menstrual cycle back, they're like, I'm done.
+ I'm cured.
+ It's awesome.
+ Everything's great.
+ And it's like, oh, you got a lot more work to do.
+ Yeah.
+ I, I think, you know, bone health being a central, you know, one of the earlier kind
+ of issues recognized to be related to low EA with the female athlete triad is so important
+ because we see cases still, you can have osteoporosis at like age 19, right? It happens.
+ It's fairly common, especially in female runners. And yes, you can slightly improve your bone health
+ over time, but the damage you do to your bone health early on is going to stick with you the
+ rest of your life, right? And it's not a hundred percent permanent, but when I say that you can't
+ fully repair your bones, that is true. Like that early damage, um, you get one set of bones,
+ you know, you, you get, you get one shot at your bones. Um, and I think with, with young athletes,
+ that's like, uh, not as often, um, appreciated. It's hard to, it's hard to convince a 13 year
+ old girl that, um, you know, to learn about and focus on bone health, right. They were like,
+ they're just not probably going to be super jazzed to like, think about their bone micro
+ architecture. Right. But I mean, I barely even, you know, I'm interested in that, but, um, that,
+ that's a huge consequence, but then, right. You know, you start to see, like I studied runners
+ when they get one bone stress fracture, they got six bone stress fractures. The, the increasing
+ rate of re-injury is significant. Um, and that's something they could experience the rest of their
+ life. Right. And if you're constantly getting injured, um, it takes a, it's a high energy
+ demand to repair that injury. So it kind of becomes this, um, interwoven web of LEA injury
+ back to LEA injury again. The vicious cycle. Yeah. Yeah. So it's easy to get caught in that
+ vicious cycle. Yeah. Um, so having said all of this, what are our best preventative measures
+ for red ass? Yeah. I mean, if I'm talking about younger athletes, um, it would be like early
+ education, early intervention with the dietician. If you know, there were any early flags of
+ restrictive eating or disordered eating, or just like not eating well to set yourself up for
+ performance and health. Um, and then in kind of our age group of athletes, um, you know,
+ whether they're competitive athletes or kind of your, um, more casual athletes, just
+ staying, um, you know, on top of your nutrition, prioritizing your nutrition and recovery.
+ I think it's so easy to let that slip right before many other things.
+ But the way you feel your body and the way you treat your body in terms of recovery,
+ not only is important to your physical health, but it's important to your mental health.
+ It's important to how you show up for other people in your life.
+ It's important to literally every aspect of your life.
+ And I think people let nutrition, sleep, et cetera, go when things are stressful and hard.
+ But if you prioritize that, you're going to just be better off as a whole person, not
+ even just as an athlete or not even just on the bike.
+ But I think our society doesn't always encourage that.
+ It's seen as selfish or kind of indulgent to be so focused on your nutrition and things
+ like that. But if you don't take care of yourself, nobody else will. And if you don't take care of
+ yourself, you can't take care of anybody else. Indulgent to focus on your nutrition. That's
+ the first I've ever heard that. Yeah. In our society. Yeah. I mean, I guess my world is a
+ little different because I work with so many cyclists. I work with a lot of professional
+ cyclists. Um, and certainly a lot of amateurs too. And the, and the amateurs, I, I completely
+ agree actually that, um, that I would bet a lot of them would feel indulgent thinking about,
+ Oh, I need a little more protein at like family dinner when, you know, it's like, Oh, we didn't
+ make enough. Um, I'm, I'm sure that that's definitely a thing. Uh, and that's, that's
+ personally when I would recommend like, just have a little protein powder on the side that you can
+ reach for. I reach for protein powder, probably two meals out of three. Cause I'm like, Oh,
+ I don't have enough of this whey protein.
+ Good enough.
+ Um, yeah, but I think with, uh, the much more competitive professional cyclists, um, I,
+ my impression is that not all of them, but a lot of them actually take their performance
+ and their nutrition somewhat seriously, even if it's like backwards from what it should
+ be because I think there's a lot of people who can get addicted to the initial performance increase
+ from a little bit of decreased energy intake and then you lose a little weight and you're
+ climbing a little better and you're like oh my god this is awesome and you get addicted to that
+ right yeah yeah I think when I or when I said indulgent you know I'm surrounded by a lot of
+ women my age are now moms and whatever. And to them, getting meal delivery or meal prepping and
+ all these things, it's often seen as one type of way, right? We don't need to go down that rabbit
+ hole. But just the focus on taking care of yourself is a priority because it will spill
+ over into the rest of your life. But I mean, with professional level cyclists or even your cat one,
+ to cyclists who race all season. Um, yeah, if you don't prioritize your nutrition, you're probably
+ not going to be racing all season. Um, especially if you're over a certain age, um, but just, um,
+ the focus needs to be different, right? It is almost as part of the job. It has to be a part
+ of the job, um, or else you're probably not going to be able to do your job. Yeah. Um, so how would
+ you grade the cycling world with education and awareness on red s oh that's a really good
+ question i i think on red s specifically i would grade it pretty low pretty low probably c minus
+ d maybe i never hear people talk about barely passing barely passing but when it comes to
+ carbohydrate intake, I would give it like a B, B plus because, um, there is a really interesting
+ focus on carbohydrates that hasn't been a part of my life until I started cycling, which was
+ only about three years ago. And I think that that the direction that that conversation is going is,
+ um, really good from what I have seen. And I, I wouldn't say this for most sports, but
+ female cyclists, I've seen a really positive trend around nutrition, especially eating on the bike
+ that I couldn't say that I've ever seen in any other sport I've been a part of. Although,
+ right. Like that was much longer ago that I was as involved in any other sport. Um,
+ like I, I love, um, the gravel cyclist page on Waller. Is that how you say her last name?
+ I have no idea. I don't follow the gravel world.
+ Okay. Well, she has this Instagram video and it's on YouTube somewhere too,
+ but said something along the lines of not a direct quote that like, she can't control every other
+ competitor, but she can control being the best fueled athlete on the star line. And like that
+ to me, like as somebody who has struggled in the past was such a like amazing, super quick,
+ like little, um, like anecdote to keep in the back of my mind, like you can set yourself up
+ to be the best within your control. And a huge part of that is fueling adequately and being
+ prepared, like having fuel on you during a ride or a race, all of that, and doing the preparation
+ that that takes. Um, and you know, if there's a YouTube video of her, like going through setting
+ up all of her, you know, bottles gels for every aid station she was going to stop at throughout
+ the gravel race and it being like all laid out for like, that takes time. That takes dedication,
+ but you know what she's really fast well and i'm a fan now i'm a fan that's awesome
+ oh yeah you should have her on she's great i love watching her and um her content and i don't even
+ own a gravel bike or anything i'm not a gravel rider at all but just that sentiment of she can
+ control that aspect of her race and of her training oh i love that that's great um yeah so
+ So how big a factor do you think the cultural normalization of like red ass symptoms might be in like keeping people from getting help or even recognizing that they're having problems?
+ Yeah, I think that it's definitely in my lifetime gotten better. Although our culture around leanness is still something that keeps, especially female athletes, just because that's my area of work, but male athletes as well, often stuck in this mindset of less is more when it comes to nutrition and fueling.
+ And just, right, we talked about earlier, your external appearance and the way you present in terms of what you look like does not necessarily correlate to your performance, right? It just, it simply doesn't. But we still in our culture see athletes who look a certain way and perform a certain way being rewarded in a certain way.
+ And I think like that is hard to ever let go of because when we're in our most vulnerable state, which is when we're not feeling great about ourselves, we're probably under fueled. We're probably tired. And we consume media. We see the people getting the most coverage, the most sponsorship, et cetera, typically being people who are in great bodies, right?
+ It's still, that's still the case. They present a certain way. They have the typical look of an elite athlete. Um, now that's not always the case in every sport. However, endurance sports, I think that is still happening a lot, but every month, every week, I'm surprised in a good way of seeing media coverage around like different bodies performing well,
+ or an athlete who may not look like the stereotypical, like picturesque, um, endurance
+ athlete being on like amazing ad and getting sponsorship from companies. And, you know,
+ it just showing the diversity of, you know, a certain aesthetic within a sport. Um,
+ like I started my dissertation around the same exact time that the Mary Kane story broke out.
+ Mary Kane was that Nike elite Nike runner. And she came out with her story of her eating disorder
+ and all of the really horrible effects that she suffered when she was with Nike and the
+ encouragement at Nike for her to continue her disordered eating. And since then, since that
+ story, which literally came out the day I proposed my dissertation prospectus through now, I've seen
+ how much progress we've made um especially in media around female athlete bodies athlete bodies
+ and highlighting the differences you know in aesthetic of athlete bodies um
+ so i'm i'm hopeful of that continuing in a positive direction uh i'm gonna join you in
+ being hopeful uh i don't think it's amazing yet um like personally i would grade the cycling world
+ that like for the for the cultural normalization of stuff i would grade it at like a at the amateur
+ level i would put it more a grade of better than at the at the even middle professional level um
+ or i would grade it actually pretty bad like i would give it a d um and that actually leads me to
+ another question I have, which is, um, what advice would you have for an athlete who's having
+ trouble navigating team or coach or peer pressure, uh, to continued to continue bad eating habits at
+ the consequence of their own health? Because teams obviously have a lot of power, especially at the
+ professional level um and so because i mean i i'm aware of even some teams who do regular skin
+ caliper testing and will like rob people of of dinner or make them do extra miles after after a
+ race or you know you name it and it's like i you know i've heard of teams that like lock the cupboard
+ like it's not it's not like a thing that happened 30 years ago like it still happens um so how would
+ you advise somebody navigate that kind of world to, to attempt even to put their own health ahead
+ of, you know, pressure? Yeah. I mean, that's really hard because of course it's not just,
+ Oh, leave the team. It's not that simple, right? It's just not how it works. Um, and so of course,
+ if that was the easiest thing to do, they would have already done that. So, um, right. And there
+ is nuance here. If it's somebody who actually has an eating disorder and is also in this
+ environment that's encouraging it, or if it's an athlete who doesn't necessarily have an eating
+ disorder, but they are having this pressure to continue to like restrict their food intake or
+ whatever it is. Um, I think if you can specify like the source, if it's coming from your,
+ your teammates, your coach, your directors, if it's coming from the entire culture within your
+ team, that that's going to be a lot harder to navigate, right? Because there's literally no
+ escaping that type of pressure. If it's coming from one or two individuals, right? If it's coming
+ from your coach and it's something that you can do is get a different coach, then you should do
+ that. I actually talked to an athlete last week that said, I fired my coach this week because I'm
+ already struggling with my disordered eating. They were encouraging my disordered eating. All they
+ cared about was how I weighed in, et cetera. They were able to get rid of that specific isolated
+ contributor to their, their issues with food and diet and enter into a healthier relationship with
+ a different coach. Right. So like, that's one example that hopefully is something most people
+ can navigate. Although if it's coming from an entire culture within an entire team
+ and you are full-time with this team within this culture, I mean, it's, it, it would be incredibly,
+ challenging in the short term to remove yourself from that. But if you can start to navigate other
+ options, right. Or at least bring in people into your life that are a better influence,
+ whether it's like in someone external, like a dietician, you can talk to a therapist,
+ you can talk to you. Right. I mean, I don't want to make it sound like that's easy to navigate
+ because it certainly isn't. And honestly, that athlete may not really realize all that's going on
+ until they're removed from the situation. That's a pretty common experience, especially if you're
+ like a younger athlete or especially younger female athletes. If it's so normalized within
+ your everyday environment, like constantly being reinforced, you may not really recognize
+ the disordered, um, you know, things going on within that environment until you leave.
+ Yeah. And I, and with the younger women that I coach, um, yeah, I've actually, a lot of the time I feel like I've had to confirm that like, no, they're not nuts, that this is fucked up. Um, that, you know, there's like not enough food in the house or there's, or the, you know, there's not enough, whatever, like the, because a lot of the time they'll be like, is this, is this weird?
+ This is what's going on. Is this weird? Is this okay? And I'm like, well, clearly not because you're hungry. Your, your performances are suffering. Like this is, this is clearly not okay. Get out of there as soon as you can. Um, and you know, trying to work with them on that stuff. But like, it's, it's tough because a lot of the time I feel like both men and women both are trying to figure out what's the best path forward.
+ like what opportunities can I get? What support can I get? But also navigating a potentially
+ really toxic team culture with, in terms of health. Uh, so the, the trade-offs are awful sometimes.
+ Yeah. And, and this might be a whole different podcast, but like who, I don't have the answer.
+ It's kind of a hypothetical question. Who can they report that to that they could actually
+ trust with that information that something would actually get done. Right. I don't, I don't know.
+ I'm sure it depends on like the sport governing body and you know, what type of team they're on
+ and all these things. But if they don't have that, if they don't have those resources,
+ then what are they going to do? How are they going to get out of that without, you know,
+ losing their opportunity to compete, um, and being tied to a contract and all those things.
+ Um, which is kind of a whole nother can of worms. Yeah. I mean, I, I know, uh, I know a couple
+ people who have actually just quit the sport because of the consequences of this stuff.
+ Because I know a lot of the time, uh, if people don't get a ride for the next year,
+ they feel like that they're through and that you'll never come back. I mean, and I mean,
+ just look at the number of people who have taken a break and then come back. I mean,
+ like Ruth, uh, Ruth Winder, um, no Edwards, Ruth Edwards, um, is a great example. Like she was
+ like, ah, I think I'm okay with this does gravel for a bit. And she's like, you know what road is
+ pretty great. I'm going to go back and she's still kicking ass. Yeah. Yeah. I, I was just going to
+ say at right, there's so many levels to like this sport specifically and lots of sports, but I think,
+ um, you know, as you move up in the sport, that's where we're seeing those kind of old school
+ mentality still present. Um, whereas like in the domestic crit racing scene, I actually feel like
+ things are really moving in a pretty positive direction. Um, I can only speak for my experiences,
+ of course, but just the mentality and the conversations, um, also crit racing, right?
+ There's less emphasis typically on your actual body weight a lot of the time. And it's more
+ about power and, um, actually having muscle mass and all of that. Um, so that's, you know,
+ that's the space that I have been a part of. I cannot speak to, um, like the world tour teams
+ and all of that. But, um, I imagine that a lot of those mentalities, less healthy mentalities are
+ still common there. Yeah. They're, they're less common than I think they once were. Uh, I've,
+ I've got some friends on some big teams and, uh, a lot of the time they're actually telling me like,
+ oh, we've actually got nutritionists or like there's, there's a, one guy was like, there's
+ signs everywhere. Like if you're hungry between meals, like have some of this, have some of this,
+ have some of this. They're encouraging people fueling because they know it's better for
+ performance. Um, so, so do you have any other thoughts before we wrap up anything that, uh,
+ that we kind of glanced on that you wanted to dig into, or did you have anything that we wanted to
+ get into that we didn't touch on? The only other thing, because I'm obsessed with this paper and
+ I can send it to you after if you want to link it, is we talked about this a bit, but your overall
+ calorie intake, your overall energy intake, especially as cyclists, there's research that
+ shows, right, it's not just about your overall intake, but how you distribute your calorie
+ intake throughout the day. And there is this great paper that specific to menstrual cycle
+ dysfunction or amenorrhea that you might be eating, you know, whatever, 3000 calories in a
+ day. But if you're not fueling around your training during your training, like focusing on
+ the points of your day where your energy needs are actually the highest, you can still have a lot of
+ those, um, consequences, especially hormonal consequences and endocrine consequences. Um,
+ as you would, if you were just overall under fueling. So a lot of people, especially with
+ disordered eating might like save food, like save food for later in the day. They, you know,
+ or save food for their favorite meal of the day and not necessarily fuel properly across their
+ entire, you know, however many hours they're awake throughout the day. And so, right. There's like
+ that nuance that is important often, um, that gets missed. So wanted to point that out, especially
+ for those who have lost their period and maybe trying to get it back. You have to focus on
+ fueling, um, consistently, especially around your training. Uh, that's actually fascinating to me
+ because I, I think that points towards, you can actually not be, um, in LEA and actually still
+ have some of these consequences? You can be in LEA throughout the day, not if you take the day
+ overall. So say you train at 7 a.m. You wake up, you eat a banana. That's 110 calories, right?
+ And you get on the bike and you do a two-hour session with no carb intake. You may have burned,
+ 1200 calories easily and you have taken in 100 calories, right? You're in an 1100 calorie deficit
+ at nine o'clock in the morning. Your body's under significant stress, right? It's that stress
+ response. Um, and you're probably rushing to get ready for work. You're probably chugging a coffee
+ out the door, right? Like your body is, um, under stress. And so that stress response is going to
+ affect you. Even if you eat a 1500 calorie dinner later in the day, because you want to save your
+ food for later in the day. Because that's common with disordered eating as well. It's like saving
+ food. And so if you're trying to get your period back and you think you're eating enough and you're
+ not eating around your energy demands throughout the day, that could be contributing to why you're
+ not recovering. Interesting. Because I think a lot of people just figure in a 24 hour span,
+ As long as the numbers add up and approximately equals zero, then I'm good.
+ But I think also people don't understand how much energy being asleep takes.
+ Like you're not doing anything, but your metabolic rate like ramps up a couple times through the night.
+ And you have just gone hopefully seven to nine hours without food.
+ And you might have eaten two hours before bedtime.
+ So now you're at 9, 10, 11, potentially 12, 13, 14, 15 hours.
+ That's more than half the day that you've had nothing.
+ So I think that's a really good way to look at it is that just because the numbers add up at the end of the day doesn't mean that everything's awesome.
+ Yeah, and also there are studies around body composition and timing nutrients throughout the day too.
+ So that also, you know, calories in, calories out is not necessarily going to help your overall body composition. Again, if you're like eating 70% of your calories after 6, 7 p.m. because you wanted to save them for the end of the day. So not only like hormonal implications, but also body composition. So yeah, I think that's important because I think it's easy to kind of skip over that part of the equation.
+ Uh, I'm going to link a whole bunch of papers in our show notes and I'm going to link first the 2023 IOC consensus because, um, cause they have really good figures, um, and they have really good definitions in their, uh, in their tables.
+ Uh, so those would be good. We'll link, um, the, I think we'll link, uh, one or two and Luke's
+ papers. Uh, uh, there's one I think would be interesting called energy availability,
+ energy availability, not body fatness regulates reproductive function in women. I know,
+ you know, that one really well. Um, the selling worth paper on overtraining syndrome versus red
+ um yeah and i want to link i want to link a couple of your papers so send me the links to
+ anything we talked about and um also if people want to get in touch with you may they get in
+ touch with you and how would they do so yes um instagram i'm on it too much it's at tracy
+ underscore carson tracy with an i and yeah that's the best way to get in touch with me
+ I will see your message. Awesome. Thanks so much for coming on. Thank you. All right. I want to
+ thank everybody for listening. And also, of course, thanking Tracy Carson again for coming
+ on to the podcast and talking about LEA and Red S with me. And I hope everybody found that very
+ informative. And if you have any follow up questions, I highly suggest you get in touch
+ with Tracy, shoot her a message on Instagram. She really is very responsive there. And she's also
+ excellent resource and just a wealth of knowledge and a really cool person, obviously, as you just
+ heard. So if you'd like to get in touch with her, that's how to do it. If you want to get in touch
+ with me, shoot me an email at empiricalcycling at gmail.com. And if you would like to sign up for
+ consultation or coaching, please shoot me an email and we will get the conversation rolling.
+ Even if you're looking at next year, well, it's late November right now. So now's a good time to
+ start thinking about it. If you're thinking about it. We also have Instagram AMAs on the weekends
+ up on my Instagram at Empirical Cycling
+ and donations to Hurricane Helene Relief.
+ And otherwise, I hope everybody's healthy and happy
+ and we will see you all next episode.
+ Later.

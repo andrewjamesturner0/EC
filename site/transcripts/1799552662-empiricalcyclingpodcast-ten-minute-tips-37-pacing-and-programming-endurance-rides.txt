@@ -1,0 +1,1336 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kole Moore. Today, we are joined again by our Empirical Cycling Coach, Rory Porteus.
+ Thank you, everybody, for listening. Please consider subscribing if you're new here, and if you like what you're hearing especially.
+ And if you are not new here, thank you so much for coming back. We really appreciate having you.
+ If you want to support the podcast because you're liking it so much, you can share the podcast. That always goes really well.
+ Thank you so much for all of the sharing the podcast that I've seen.
+ You can also donate to the podcast at empiricalcycling.com slash donate.
+ Right now we are collecting funds for get the get Rory a new microphone, a really nice one like I've got. He's grimacing right now. And also if you want to kind of do our ultimate Patreon, as it were, that would be hiring us for coaching or consultation. So we're always taking on clients and we are coaches of all disciplines. We've coached people of all levels. And I've heard this a lot where it's like, I don't know if I'm fast enough to work with you guys. If you want to work with us, we want to work with you. That's what it comes down to.
+ So reach out to empiricalcycling at gmail.com if you want to get an inquiry started or kind of talk about if coaching is right for you, et cetera, et cetera.
+ We also have Instagram questions for my Instagram at empiricalcycling.
+ And if you want to ask questions for the podcast, which we are going to answer at the end of this episode, you can go check out my Instagram and keep an eye on the stories.
+ That's where I will be asking for questions for the episodes.
+ And also on the weekends, I do a training AMA.
+ And unlike these episodes, they are unusually concise.
+ So if you would like to go give me a follow on a pair of cycling, I'll see you over there.
+ And I occasionally post some memes too.
+ We have been coaching with memes since when was my first meme?
+ 2016 or something like that.
+ I don't know.
+ It doesn't matter.
+ So today, let's get to the main thing.
+ We're going to talk about endurance rides.
+ So I promised this episode in our last Wattstock where we dug into the Granada Bishop, and I always forget the other author, I'm so sorry to him, paper on endurance riding and intensity versus volume.
+ And Rory, so you've listened to this episode recently.
+ What was your very general takeaway from it?
+ My general takeaway was I shouldn't have listened to it on the ride where I was doing 30-30s because that made it really difficult to take in.
+ I mean, it's a lot of what we've talked about in the past in terms of, you know, that balance between intensity and duration, particularly at our lower durations of lower durations, lower intensities of an intended ride.
+ So once again, Cully's brought me on here to tell you all to slow the fuck down.
+ but as I said,
+ I don't remember much of it because I was in the middle of a suffer fest as I
+ listened to it. Things will click as I go through this episode.
+ I remember you talked about time at one point and I was like, Oh,
+ we talked about time at many points.
+ One of the ways that I kind of thought that paper was really interesting just
+ to give it a quick review is you should go listen to that episode.
+ It's not as alphabet soupy as a lot of our other recent watchdog episodes have been.
+ But the basic gist of it was they looked at a whole bunch of papers on endurance training in various groups.
+ They compared it to high-intensity interval training, and they went through and defined that.
+ And they also compared it to sprint interval training.
+ And so what they did was they looked at citrate synthase, which is a marker of mitochondrial enzyme density in the muscle, and they compared it to, for volume, it was the combination of duration and intensity.
+ So the kind of area under the curve that Kyle and I have been talking about in the Wastock episodes for quite a long time now.
+ And they compared that to just the straight up intensity.
+ So how much intensity is going to give you how much adaptation.
+ And the cool thing was when they looked at just intensity versus citrate synthase, it was flat across the board pretty much, except for the handful of studies that did much higher volume at kind of like a middle slash lowish intensity.
+ And they had kind of an outsized bump.
+ But if you kind of remove those outliers, like there were three or four studies that were way up there.
+ If you kind of remove those outliers, for the most part, pretty much all the studies they looked at were pretty much flat across the board for duration and intensity.
+ And I included all of those figures from that paper in the episode notes for our last Wattstock.
+ So go check out the Wattstock number 49 show notes to go see that.
+ Although the paper I believe is open text.
+ If it's not, then I'm not saying you should CyHobbit, but you shouldn't not CyHobbit also.
+ So it's worth a checking out.
+ Um, and I actually had some, uh, one of my friends give me some criticisms on our interpretation of those things and the study itself, which I thought were somewhat valid. And, uh, so we're going to have him, um, on our next episode to discuss exactly what we, and they did wrong. And we're going to debate about that because it's not often that we get a really good debate on this podcast. So, um, but I thought it was really, really a cool study because it showed that there really is a trade-off between volume and
+ and intensity and it kind of goes towards what we've been talking about but it doesn't really
+ go towards the programming considerations of duration versus intensity so in terms of the
+ adaptation worry have i refreshed your memory enough to kind of you know get some thoughts on
+ duration versus intensity and uh and endurance because we're mostly talking about muscular
+ endurance here like what is your fatigue resistance in your muscles to push watts
+ yeah i remember a wee bit more now uh so like one of the summations we came out of the last episode
+ was you can do a little bit of everything and it's all going to help in its own way but also
+ is it going to help in the right way and is it going to help in a way that's going to be
+ long-term sustainable is it something that fits in with like your own personal training history
+ one of the things in there i think was the sprint interval training which had its own benefits
+ uh sort of thing you probably do if you're a very very time crunch person it's the sort of thing that
+ often gets advertised as the was it's like if if you only do eight minutes of exercise a day do
+ this uh on popular websites that we don't recommend uh but like there is a reason why
+ like that sort of thing gets recommended to people because even though it's short even though it's
+ extremely intense is going to have a beneficial effect in some way.
+ It's just,
+ is it going to be the sort of thing that is going to drive the sort of
+ endurance adaptations that we're looking for as cyclists?
+ Well, I think for a little bit, it does. I mean,
+ according to all studies for a little while it does, but like it's,
+ it's infrequent that those studies go for a long enough duration where we can
+ really see accumulated fatigue show up in the participants.
+ And so that's one of the considerations that we're going to talk about in a
+ little bit, but I wanted to stay on the adaptations that we get from endurance stuff because,
+ you know, one of the things that, um, that's in, remember the, uh, that training and racing with
+ a power meter, the, I'm looking for my copy on my desk. It's a little buried right now,
+ so I'm not going to grab it, but everybody knows that chart. Uh, or, well, if you've been listening
+ to this podcast long enough, you definitely know that chart of adaptations versus different
+ training zones from Coggin. And it's pretty much like everything does everything to a greater or
+ lesser degree. And the quote unquote, the best quote unquote bang for your buck was like threshold
+ sweet spot type, but it's all the same adaptations as like endurance riding. So one of the things
+ that I think we should spend a minute on, and we've done entire episodes on this previously,
+ but it's worth reiterating. Are there any special adaptations with any different intensities or
+ zones? And the answer, according to my interpretation of the scientific literature,
+ and the huge vast majority shows this, is that no, there's not anything special about like,
+ quote unquote, zone two training. So burning fat doesn't make you better at burning fat.
+ If you do endurance riding or if you do threshold riding or whatever, there's a very similar
+ adaptation. And one of the reasons for this, we spent many, many hours in the last couple
+ Watsok episodes talking about the signals for endurance adaptation, and none of them have to
+ do with substrate oxidation. It's not whether you're oxidizing fats or lactates, it's whether
+ you are creating enough signaling to go through our main kind of quote-unquote bottleneck of
+ aerobic adaptation signaling of PGC1-alpha, PGC1-beta, and PRC. There's a reason we talk
+ about training load in general and not training load in terms of grams of carbohydrate intake.
+ Well, that's why we do that. I know that some other places do that. And I am,
+ well, we're going to leave that open-ended. And so, so one of the things that's cool about this
+ bottleneck that we've talked about previously is that it turns on an entire suite of genes.
+ So it's not just that you're going to make more MCT transporters.
+ It's not just that you're going to make more Krebs cycle enzymes or whatever.
+ Because if you look at a study that says, okay, you do X training, you burn blah, blah,
+ blah, and you turn on this one gene that we're looking at, that doesn't mean the other genes
+ are not turned on and expressed.
+ And we've also talked about mRNA versus translation and actual integration.
+ Then all the way up to performance, there's a lot of steps that you got to have in between.
+ And so my bottom line is, are we increasing performance? And that's really regardless of all the studies and whatever they say in terms of like mRNA or protein synthesis and whatever. Did you get faster and can we see it in your performances? That's what I am most interested in.
+ I mean, that's what some inside baseball here, which I'm not actually going to get very specific about.
+ Kolie and I, whilst we were ADHD-ing out for an hour before we started recording, were talking about, you know, what are different ways we can actually tease out whether or not we see these benefits?
+ And specifically, is there ways you can tease it out while trying to remove some of the noise of data to see, you know, does field to max go up, for instance?
+ And that's quite difficult if you don't know what you're doing.
+ It's relatively difficult if you do know what you're doing.
+ But at the same time, did your power go up?
+ That's an easy way to see if your VO2 max intervals worked.
+ Yeah.
+ Did the number at the end of the FTP test go up?
+ The number go up is surprisingly a good way of just quantifying everything in the sport.
+ Yeah.
+ It's why you definitely don't need a lactate testing meter.
+ so okay so let's um yeah so i think yeah time versus intensity there's a trade-off and we're
+ going to talk about kind of how we program that kind of stuff and the considerations the actual
+ coaching considerations that papers like the granada paper did not uh really get into um so
+ i wanted to start with rpe because god what was it what 2019 or 2020 we did a podcast on pacing rpe
+ stuff uh for um uh you know endurance rides and my conclusion was like pace it to like a four out
+ of five out of ten rpe because to me that's where i feel like my endurance pace is like it's four
+ out of five out of ten rpe um context i tell people two to three well that's which i think
+ is what cole is going to talk about in a moment yeah because one of the things that happened was
+ I was, I was saying, you know, cause I was using my personal scale for RPE and this is selection
+ bias, right? Cause this worked for me, therefore it might work for everybody. And I pretty quickly
+ realized that everybody, and I'm talking like within like a month or two of me starting to
+ assign rides by RPE, um, which I had, I guess arguably I kind of did before, but I think I
+ just put down Z two cause that's what my coaches had done for me too. And I didn't really know how
+ to pace that or what. So I pretty quickly realized that everybody's got a slightly different RPE
+ scale. And the more experienced and the better, uh, the better, uh, a diesel engine somebody has,
+ we could say typically the lower their RPE is. And so an example might be, uh, I'm thinking of
+ one particular client right now. Um, her, she was always doing like between 200 to 230, 240 watts
+ for her endurance rides for three, four, five, six hours. And I could tell that there was a lot
+ of fatigue associated with this. And her harder intervals were not as good as I would like. And
+ a lot of things were kind of inconsistent that should be consistent, like FTP intervals. Some
+ days they were X watts. Some days they were like X minus 10 watts. Some days they were X minus 20
+ watts. And I'm like, okay, X minus 20, you got to like not do these. But I was trying to figure out
+ where's this fatigue coming from? And I said, please pace your endurance rides easier. She said,
+ I don't feel like I'm doing anything. I said, that's kind of the point. So she had been putting
+ down like a five out of 10 for like 230, 240 Watts for like a five, six hour ride. And I'm
+ like, okay, that, you know, that should be reasonable, but I can tell that there's fatigue
+ somewhere. And I think it's this. So what I want you to do is I want you to pull it down to 200
+ watts, 180 watts, 160 watts. And so 180 to 200 watts is still like a four. And then as soon as
+ she gets to 160 watts, now we're at two. It's a massive drop off and it fixed all our problems.
+ All of her harder efforts got a lot more consistent and she actually got faster by
+ doing those easy rides even easier to her own chagrin because she likes the hard work. And I
+ mean, we all do, right? I mean, it's kind of one of the nature of endurance training is you've got
+ to kind of enjoy the suffering, but you've got to enjoy the suffering strategically for it to be
+ most effective. You know what I mean? Yeah. The problem with endurance rides is it's one of those
+ situations where if you do something like an ftp interval for instance like i've talked about it in
+ the past as being like there's a concentration gradient to like interval intensity and for
+ such a science word concentration gradient that's part of the joke uh but you've got to actually be
+ thinking about it maintaining that effort and endurance riding is sort of like similar but in
+ an inverse way where you've got to really concentrate on not pushing too hard because
+ like ultimately the thing about endurance riding is it's just you know the simplest form is go for
+ a ride and don't do it too hard and the problem is if you have a really good time the legs just
+ pick up themselves you get that extra 20 30 watts no problem but you have to actually think about
+ you know holding back a little something i struggle with i get to the like the final hour
+ of an endurance ride i'm like okay i need to get home and that's where the watts suddenly start to
+ creep up but yeah it's a it's very much a case of uh do you want to get fast or do you want to get
+ fast faster uh because if you you know don't apply the extra intensity when you don't need to
+ uh you're leaving more opportunity to you know do your intervals correctly or potentially do more
+ intervals throughout the week than you otherwise would have been able to can be the difference
+ between someone who can do like two sets of workouts a week versus potentially three is
+ are you actually giving yourself that opportunity to recover between those uh workouts yeah and it's
+ it's a massive jump you're not going to manage it's a massive jump uh between like you know
+ number of hard sessions you can do where you know in some ways you get you can get different
+ adaptations you know if you're looking if you're looking to improve your sprints you got to be nice
+ and fresh for those sprints you got to have all the all worldly manner or watch when you do those
+ Or if you're looking for VO2 max stuff, you can do potentially more VO2 max sessions. If you're looking for race prep, you can potentially do more race prep sessions, depending on how you manage your energy.
+ And so I would even say it's not necessarily a case of getting fast or getting fast faster. I would say it's a case of potentially plateauing and burning out versus do you want consistent improvements from hopefully month to month and hopefully year to year.
+ And this also kind of depends on your personal genetics and how much time you have to train and all that kind of other stuff, which we'll get into in future podcasts, which is definitely worthy of really, really good scrutiny.
+ It's also a reflection. I'm sure at some point today we're probably going to talk about what you can do with different ranges of weekly volume available to you. But one of the questions you've got to ask as part of that is why is your weekly volume what it is? Are you sitting at a desk for seven hours at home each day and it's relatively low stress in your work life? Or are you doing manual labor for seven hours a day, but you've also got an hour commute at the beginning and end?
+ those people could both have 15 hours available to them after work but the situation in terms of
+ like total accumulated stress that people are under is very very different yeah i wouldn't
+ expect the person doing the really hard manual labor to manage three workouts a week yeah let
+ alone uh you know any more than that and but the person that's just sitting at home all day
+ relatively relaxed basically people that live the pro cyclist lifestyle almost where you're able to
+ devote more of the actual energy you have from day to day are obviously going to have much more
+ of an opportunity to use that time well but that just means it's more important for them to make
+ sure that when they get to the really important workouts they're able to do them fresh because
+ they haven't overdone it in all the other days but also for the people that are already quite
+ stressed possibly quite tired when they get to the end of the day before they even ride a bike
+ even more important for them to chill out you know take it easy yeah use the bike as much as
+ stress relief is for performance yeah i mean i had personal experience with this for years
+ where i was doing you know 40 hours a week of carpentry work in boston and you know that kind
+ of manual labor like constantly up and down on your knees up and down stairs lugging heavy stuff
+ around. Um, and it, it sucked. I was bad at fueling. I was bad at pacing those days. I would
+ get home very, very tired a lot of the time and I would go out for rides and I don't really know
+ how to pace those. I didn't know what I was looking for. Uh, my coach at the time, I was
+ not paying him much. I wouldn't expect much. And you know, we're talking like 50 bucks a month.
+ Was it less 40? Um, and it was, um, you know, and he wasn't really, you know, kind of hands on with
+ me. And so I had a lot of, you know, just not getting faster for years. And then during periods
+ where we ran out of work, because that happens sometimes in the trades, where I would have like,
+ you know, a couple weeks to, you know, a month or two off at a time, even my training got really,
+ really good. And I got a lot faster. And then it fell off a cliff again, once I started working a
+ lot again, and I didn't really know how to balance those two. And if I had known at the time about
+ balancing those two, I think, I think I, I think it would have been a lot more enjoyable of a
+ process at the very least to say, to say that. So one of the things I also wanted to touch on
+ before we kind of get into, uh, kind of programming considerations is what I call fatigue burden and
+ energy burden. Um, and this is one of the costs of doing any ride at all is how much fatigue is
+ it going to give you and how's that going to affect your intervals afterwards and how much
+ energy have you spent during this ride and for some considerations you know for some for a lot
+ of people it's not a concern at all uh as long as you're eating enough of course there are some
+ people who don't eat enough and in which case we can talk about that but uh at some point you've
+ burned so many kilojoules where you like literally cannot eat it back in a day uh and depending on
+ the intensity, you know, we can like for some of my clients who ride a lot, you know, who do six,
+ seven, eight hour rides regularly, you know, sometimes a lot of the time we're looking at
+ like four to 5,000 kilojoules, maybe up to six on a ride. But some days when they're going hard,
+ we're talking like eight it's and how many, how many people can eat 8,000 calories in a day? Plus
+ what you've what you like burn off the bike just to keep your body alive you know 2,000 2,500 2,800
+ for a lot of uh for a lot of men uh it's a huge amount of calories and how many people i mean it
+ sounds glorious to stuff your face with like 10 12,000 calories a day but you know at some point
+ it just stops being enjoyable it's just a lot of chewing and swallowing um so we're already smirking
+ at that well one of the things like we come back to a lot is um obviously like how much food you
+ need to get into be able to ride and obviously as you start to have that greater availability
+ of time to actually use obviously that goes up but that's a consideration that people maybe don't
+ think about enough when you are a you know right hand side of the bell curve strong athlete
+ particularly as you get to like either like world tour level or um very strong amateur you know
+ the people in the uh at the top of the british time traveling scene for instance
+ uh very big walks available to them potentially a lot of time to ride
+ if you're especially if you're the sort of person who's doing your endurance rights too hard like
+ the energy demands of that are just catastrophic when it comes to like thinking about long-term
+ training and like one of the things you mentioned last week about all these different training
+ modalities and their effects on endurance is you that it's basically impossible for any sort of
+ scientific study to actually pull together and look at the effects of you know what happens if
+ you're riding your endurance too hard versus doing you know endurance at a much more sustainable pace
+ because that sort of study is never going to have the time to work you're never also going to get
+ the availability of subjects to be able to do it and it's only ever going to tell you things you
+ kind of already know which is ultimately the problem with a lot of studies yeah well i mean
+ I mean, you're right on about that.
+ So actually, why don't we kind of focus on the fatigue side of things first?
+ I was about to coin the term food max.
+ Well, let's think about fatigue first because I think this is the one that more people are concerned about is fatigue and not necessarily energy management.
+ I mean, if you're burning like 1,000, 2,000 kilojoules on your longer, harder rides and you're having trouble getting that back in, well, we should talk.
+ mostly we should talk over food. Uh, let's, let's have a lunch. Um, but if, um, you know,
+ but for the most part, I think it's just the acute fatigue of doing a ride is way more than
+ zero for a lot of people for even, uh, you know, a two, three hour endurance ride, because I am
+ fairly convinced that, you know, if you're doing even like, you know, you can kind of get away
+ with it at some point, but after a little while it's, it's, you got to pay the piper on this stuff
+ with the intensity. And so let's talk about that first threshold. We usually call it LT1,
+ but even if you measure it with lactate, it's kind of decoupled from RPE a little bit. So I
+ prefer to think about RPE. So that RPE threshold where you jump from like a two to a four or a
+ five, for most people, for me, it's where I jumped from a four or five to a six.
+ That's where you really want to stay below.
+ And so my clients who have the highest LT1, we're talking like in the mid 300 watt range,
+ like 350, 360 watts.
+ Typically, they do their endurance rides at 200 to 250.
+ And they are perfectly capable of doing six, seven, eight hours at 300 watts if they want
+ to.
+ But that's one of those things where too much food, so they don't.
+ but the max, um, but you absolutely can do those rides, but like the fatigue that they accumulate
+ is very small because they're used to doing those long rides. And so that accumulated fatigue for
+ even a two or three hour endurance ride that you do just a little too hard for, for once a week,
+ maybe it's okay. If you know how to program the rest of your rides. Now, if you do this every
+ single endurance ride because you just want to maximize the time or you don't want to feel like
+ you did two hours of, oh, I barely did anything. I need to feel like I did a workout. That's the
+ kind of thing where you do that, then the next day you've got intervals. Those intervals may not be
+ as good as they would have been otherwise. And so the first consideration that I have, and I'm sure
+ Rory has as well, because we kind of talk about this a lot, is how many quality interval days can
+ you do in a week. And then you've got to fill in around that with recovery and easy endurance
+ rides. And when you do that, when you consider how many quality hard days can you get during a week
+ and how do you not impact those hard rides with your endurance riding? I think that's actually
+ a really good place to start rather than starting with, I need to do X amount of endurance riding
+ per week. Because as that Bishop study showed or Granada study, Granada Bishop and Mr. I need to
+ remember his name um the intensity is almost irrelevant as long as you get in the same the
+ ride time nicola chapman thank you uh yeah i think i've said this in a previous podcast but when it
+ comes to programming in people's weeks i'm not thinking about it in terms of how do i fit as
+ many good workouts in as possible it's how do i based on what we did last week and what we need
+ to do in the next weeks or when an event's going to be how can i make sure that you get to every
+ workout feeling good and that's ultimately what decides whether or not someone's going to be like
+ a two workouts a week versus the three workouts a week sometimes one depending on like the sort
+ of intensities you're working with because i can't tell someone to do say three sweet spot workouts
+ in a week knowing that oh the third one they're just not going to be ready for i give it to them
+ because I know they're going to be able to do that.
+ I program everything out with the understanding of what time they have available,
+ how stressful is their job normally, how good are they at eating really,
+ trying to take into account as much as I can to know what kind of athlete are you actually
+ and what do I think you can cope with.
+ And it's never about how do we just make sure that TTE goes up three times this week.
+ It doesn't work like that.
+ it's uh how do we make sure that next week you're going to feel good to go again because it's that
+ thing of people doing like all their rights too hard whether it's a workout or not a workout
+ is like it's that long-term sustained fatigue you know not overtraining that's a very overused term
+ for what we're talking about but it can lead to overtraining uh if you do that for a month you'll
+ be tired at the end of it but you can probably recover from it and then get back to your workouts
+ and learn your lesson well uh if you do it for a season you're in trouble and you're going to
+ notice throughout that season that all the workouts i should be able to do i'm not able to do and
+ that's that's where people usually start to double down on their efforts too rather than pulling it
+ back and going i'm tired i must be able to uh do this it must be a problem with me it's not a
+ yeah yeah i've got a client right now i've got a client right now who is sort of midway through
+ his uh target race series uh got through like the practice one at the start of the year pretty well
+ uh some bad course marshalling caused him to come second in the series i think uh but
+ unfortunately that wasn't his target so we were able to like uh call that a productive use of our
+ time uh and then he's into his main series right now he's in a sort of like in between point between
+ the start the first half and the second half and after his last race uh legs kind of haven't been
+ there and he's done one workout in like three weeks because you know there was two paths we
+ could go down there one is that it's like a similar sort of thing you get at the end of a
+ recovery week where it's like oh the legs have just switched off and they need woken up so you
+ do some openers or it's i'm tired i'm fatigued i need recovery and what we're talking about with
+ the people that just decide i'm going to try after is they think of option one and they never regard
+ option two but i think it's always more valuable if you have the opportunity and the time to assume
+ it's option two because if you take the recovery and then try and pick it back up again the worst
+ case scenario there is that you rode your bike for a couple of weeks and didn't do anything intense
+ and whereas you know that scenario one is the worst case scenario is you just kept riding
+ intense and that's actually something i think we need to dig into a little bit is that that bit of
+ recovery because a lot of the time i i get this question all the time actually where people say
+ how do i recover should i just not look at my bike for a week or two and i think i think in the old
+ school coaches would say, yeah, don't look at your bike for a recovery week. I mean, I think that's
+ a bad idea. Your muscles get stiff. You know, you start to, you start detraining a little bit. If
+ you're not keeping the legs taking over just a tiny little bit. You always notice when you go
+ into like a sweet spot workout and you didn't do anything the day before. You always notice like
+ that. Sometimes. Yeah. Some people feel great doing that. And that's, that's a little
+ individualization there. So Rory, watch your peripheral at John Mister needing openers all
+ the time. I'm actually one of those people too. I've learned that lesson a couple of times.
+ So when you're talking recovery, because if you do 8, 10, 12, 16, whatever weeks of really good
+ training, and then you've got a goal event, you go well, or you don't, or whatever, at some point,
+ you need to kind of chill out and looking at that history of what have you been doing up to this
+ point is hugely impactful in terms of what the decision is. The coaching decision is moving
+ forward of, do you need rest? Or like, why aren't we seeing the same watts? So like, if you go do,
+ if I just say, give me like three, 10 minute FTP intervals, just as a legs check.
+ And your FTP previously was 300 watts. And you're used to doing, you know, you could do three by 20
+ 300 watts before all of your races and stuff. And now you're feeling a little fatigued and you go do
+ a three by 10 and you're at like 270, 280 watts. And this was like after, you know, you know,
+ four or five days, kind of easy riding, kind of chill. And you're thinking, am I, am I here yet?
+ Am I, am I back? You do that ride and you're like, ah, legs weren't good. Okay. What decision do we
+ do now? Now it's either you are fatigued or you need openers. And so I would say the next day,
+ do an easy endurance ride. Day after, try a couple more efforts, do a couple of sprints,
+ do another FTP effort, maybe do a handful of efforts over FTP, not max. Just feel out the
+ legs. Just kind of get a sense of the range of intensities and how your legs feel doing them.
+ And if you're still not there, that's a sign of needing more rest. And this is one of the things
+ that actually is very impactful during a week too, during a training block, where if your
+ performance starts to drop your training, like it's your, your performance shouldn't be dropping
+ while you're improving. Um, and in some cases, okay, sure. Like we want to cluster some stuff
+ together, get a little blah, blah, blah. Okay. Sure. There's a, there's a handful of rare
+ exceptions where that kind of thing is like, okay, well we'll keep pushing handful like one in a
+ hundred. Um, for the most part, if we're seeing your performance decrease while you're training,
+ that's actually a red flag that something is off.
+ One of the things you often have to consider here,
+ and it's something like when it comes to people
+ that are either new to coaching or self-coaching,
+ I think one of the hardest things for people to pick up on
+ and actually really understand how it works for them or others
+ is periodization, thinking about how a week comes together,
+ several weeks come together, et cetera.
+ And I think it's a mistake if a lot of people just lock themselves into a pure three weeks on, one week off, when in reality you can be significantly more fluid about that, especially when it comes to really hard workouts.
+ if you're doing a bunch of like anaerobic stuff and you're thinking oh i want to try two workouts
+ a week which may or may not be uh enough for you then you could maybe do like the two a week at the
+ start you know you get a nice three days between them properly recover really send it the next one
+ you might need four days after that one five days towards the end of the block like really
+ loosen up in terms of like how you define what a quote unquote a week is, um, in terms of like
+ how you put together your training. And actually one of the things that I, I, I don't know if it
+ was you, I don't think it was, uh, somebody told me, uh, I think I was consulting with somebody
+ and I said, um, you know, you're, you know, you get to Tuesday and you're probably still tired
+ from your weekend. And, and they said, um, and they said, Oh, I thought your legs kind of reset
+ every monday because monday is usually a rest day for most people and then tuesday you're good to go
+ and it and it didn't really occur to them that riding hard saturday and sunday you could still
+ be feeling fatigue on tuesday um if you're the sort of person that races one weekend day and
+ does a long ride the next uh you're not going to turn up on monday feeling good and all like yeah
+ well and you're probably not right but we're talking what we're really talking about is like
+ how big is the blast radius of the fatigue like where is your next high quality workout like when
+ you clear from that fatigue. And that's one of the big considerations in that. I mean, that's why
+ we program the way we do individualizing stuff for people because everyone's different. You're
+ off by considerations are different. Like you, you know, you're at work and you can't, um, you know,
+ you're doing a 12 hour shift at the hospital and you can't eat, you can't drink. Uh, you've got to
+ stay masked up and, and, you know, you get to the end of that and you've got to take a day to like
+ reconstitute just your frigging, your hydration, let alone everything else, just, just to get back
+ on sleep and all that stuff. So there's a lot of considerations with this stuff. And, and as long
+ as you're paying attention to like, where am I high quality workouts? And am I progressing them?
+ That alone can tell you where your fatigue is. So let's bring this back to our endurance rides.
+ Um, if you are doing your endurance rides too hard between your interval rides,
+ that can be a sign that, you know, if your interval rides are not progressing,
+ you've got fatigue somewhere like if if you're progressing things logically and you're giving
+ yourself enough space between workouts like let's say you've got only one or two hard workouts a
+ week and it's not high quality something's going on and it doesn't it's not always your endurance
+ pace but oftentimes it is yeah um in the private empirical cycling coaches chat fabiano shared some
+ interesting data uh about delayed recovery from someone after a view to max block because they
+ did they had an opportunity to do like some extra high volume work uh before the athlete i think was
+ gonna have like a total week off due to work and he was able to see in the data the exact effect of
+ recovery not being permitted to happen after like three good hard weeks um and that's a case where
+ Fabiano's probably done a pretty good job already managing you know how hard is this person riding
+ their endurance ride so the endurance rides themselves in that case are actually uh being
+ done right you can see in the data that recovery is happening it's just that when they switch to
+ the recovery week the next week you see it skyrocket in terms of uh how well they do uh but
+ that's happening a smaller scale between the hard workouts and the easy workouts in terms of like
+ where the drift is going in terms of you feeling good versus you feeling bad um which is why
+ like ultimately like that story there is why recovery weeks are themselves important but it's
+ also why pacing the endurance right well is important because if the athlete wasn't pacing
+ endurance rights like first off the high volume week would be an absolute disaster by the end of
+ it but also you'd have seen it already in the endurance rates between all the via to max workouts
+ that that athlete would have been in the toilet within two weeks let alone yeah and the harder
+ and and more compact your hard training is the more you can see the effect of
+ anything that causes undue fatigue or impacts recovery uh and right doing your endurance
+ paces too hard uh not eating enough not sleeping enough you know getting a tiny little tickle in
+ your throat, like you're fighting off a cold, like, uh, stress, anything can make that happen.
+ And so you've always got to kind of account for all of those variables. Um, but you know,
+ when it comes to recovery also, like, you know, talking about food and eating, like let's discuss
+ the energy burden. Cause we just, you know, cause that was like fatigue burden. Let's talk about
+ energy burden for people who are doing ultras, people who do gravel races, people who do like
+ a hard six, seven hour ride to prep for unbound or big sugar or whatever it is, or, you know,
+ take your pick. Um, the calories you burn on that ride, I mean, and forget about just if it's
+ carbohydrates or fats. Um, cause this is, this is actually something that we've seen in forums
+ recently where people are like, Oh, well, I only want to replace the carbohydrates I burn on my
+ right. Okay. Well, first of all, don't do that. Your body is an excellent energy accountant and
+ it's going to, and your, your fat cells when they're empty are like, Hey, feed me. Um, we've
+ talked about that on the podcast before. So you've got to account for all of your energy. Otherwise,
+ you know, otherwise things are going to try to make themselves whole again. And that's,
+ and if you're not eating enough, you are, you're keeping the account in a, you're keeping the
+ count in the red, let's say, and that doesn't allow you to build back anything. I'm aiming for
+ that two to two and a half thousand calorie deficit. Thank you. Um, I also recommend you
+ don't do that. Go get some haggis, my friend. Yeah. Don't do that. Um, so with those big rides,
+ not only does it take time to eat back everything you can, well, first of all, you can't really do
+ it all at once. Because if you give yourself an 8,000 calorie meal right after an 8,000 kilojoule
+ workout, well, first of all, you can distend your stomach like a boa constrictor in that case.
+ But also, your body doesn't know what to do. It's hard on the digestion. It's blah, blah, blah. And
+ it takes time for your glycogen stores to restock no matter how well you're eating. And we're not
+ just talking about like, there'll be better the next day. We're talking, sometimes it takes two,
+ three, four days, sometimes five for your, just your glycogen stores to be restocked. And you may
+ be feeling fatigue residually at that point anyway. Um, and so, you know, if you're, if you're
+ like, all right, I'm going to go do my, if you're doing unbound 200 or, you know, whatever the,
+ the super, super long one at the X what's the XL, like 300 something. Um, and you're doing a prep
+ ride for that. And you're like, all right, I'm going to ride for 14 hours overnight. And just
+ to make sure that my lights all work and my gear is all good. And I've got my nutrition dialed in
+ and you go do your ride. I mean, you might be fucked for like five, six, seven days after that
+ or more. Um, and it's partly, it's just because you spent so many kill jewels. If you're not used
+ to that kind of thing, your body is like, Holy shit, what just happened? Like we got to fix this.
+ And as you do it more and more, but you've got to recover first, you will get faster at the
+ recovery but it comes at a huge cost regardless yeah i i feel bad when i have to do it but i do
+ always do it is i've got a couple of people that do ultras whether it be of uh like you know 12
+ plus hour time trials and uh gravel races i almost never give them anything tough until
+ at least the weekend after because i'm gonna i'm gonna one it's an event that's gonna have
+ happened at the weekend so they're gonna spend all the recovery time at work the next week so
+ you've got to also account for the you know everything you're doing off the bike again
+ and your ability to recover like uh coley i think you've mentioned to me in the past that you will
+ you will often give out days off at the weekend because it's just the best time to make sure that
+ someone's actually going to take it chill because there's no other responsibilities there but if
+ you're trying to get someone to recover mid-week like that's going to be that's going to stretch
+ out the process someone did the race on friday and then they took you know if they did a 12 hour
+ 24 hour race on friday and then were able to take two days off saturday and sunday that's going to
+ help a lot it's not going to do all of it but it's going to help a lot more than when it comes to
+ monday and tuesday and you're sitting down at your desk again yeah and actually one of the
+ other considerations, you know, in terms of the life stuff and just, just general happiness is
+ that, you know, if you always give somebody long rides on weekends, they're missing time with
+ friends and family a lot of the time to get that stuff done. And that comes at its own cost of just
+ missing those personal relationships. And that's something that when you can take a weekend day off
+ and kind of spend that time with your spouse or with your family or with your friends, uh, or just
+ kind of just fucking around doing some cross training. Like you go climbing, you go surfing,
+ um, you go cross country skiing, you go to the gym, uh, you go to somebody's CrossFit class,
+ please don't get hurt. Um, like these are things where it's so much more fun and you can actually
+ feel like really energized and motivated to get back on the bike after, after having like a day
+ off or even a whole weekend off. So, uh, especially with a lot of my clients who've got families, I,
+ there are multiple of them who say, can I get like a weekend day off either Saturday or Sunday?
+ And then, you know, give me just two hours on the other day.
+ I'm like, absolutely.
+ Yeah, no problem.
+ In fact, if this is something that you're asking for, I mean, if I said no, I would be some kind of asshole.
+ Get divorced.
+ Yeah, that's the last thing I want.
+ Yeah, I've got someone who, what feels like every other week, goes to Disneyland with his family.
+ It's like, great, perfect.
+ I know you're going to be walking around all day, but you're going to feel good after it.
+ You're going to have a good time.
+ That's a very, as you said, it's a very, very common request when it comes to availability side of things.
+ It's like, yeah, I don't mind.
+ My job is to work around you and not the other way around.
+ Yeah, for sure.
+ And here's the thing.
+ People say, is this going to cost me some kind of fitness?
+ And usually if you're kind of time crunched, like you're under 10 hours a week, or even
+ some people consider time crunched under like 15 hours a week, even if you're missing out
+ an hour or two of riding to do this kind of stuff, I actually find most of the time the
+ trade-off is actually worth it.
+ And also here's the thing, sometimes it's not even a consideration.
+ You got to spend that time with your family, go spend the time with your family.
+ It's like, oh, I've got 10 hours to ride, but I need these two hours to spend time with
+ my family is no, you've got eight hours to ride, not 10. And that's, it's like 10 isn't even on the
+ table at this point. So, all right. So we'll talk about more of the super high volume stuff and the
+ energy burden and programming stuff in a minute. But I also wanted to discuss whether you can
+ overtrain on volume because I've heard so many people say, and this is like athletes, this is
+ coaches of all levels uh oh they're so-and-so's volume isn't that high so they can't be over
+ training right now rory is looking dumb i didn't realize that was a question i i was just throwing
+ it out there into the ether just kind of getting and getting your sense of getting your reaction
+ unvarnished as it is right now uh can you over train with too much volume or like a lot of volume
+ Yes. Is it automatic? No.
+ Right. Is it like, oh, somebody's doing 20 hours, they're overtraining? No, that's ridiculous.
+ I've got clients who regularly do 20 to 30 hours a week. Are they overtraining? No,
+ they're actually getting a lot faster and they're better for the volume. And sometimes we want to
+ pull it down. There are other considerations along with that, that we don't have to get into
+ because there are myriad. But really, the pacing on the volume, that's where you get the overtraining.
+ That combination of energy expenditure and residual fatigue, that acute fatigue from
+ going over that LT1 for extended periods of time. If you do a five-hour ride, let's say your LT1 is
+ 50% to 60% of your FTP, like it is for actually quite a lot of people. If it's higher and you're
+ doing low volume, that's great. You're genetically gifted and lucky, or you've got a very deep
+ training history. Um, but you know, once you go over that, the fatigue goes up a lot and it
+ decouples like it's, it's a non-exponential or sorry, it's a non-linear increase in fatigue for
+ a linear increase in adaptation. And so your cost to benefit ratio changes quite a lot. And that's
+ where I'm usually thinking about, you know, if we, okay, so this person has like, you know,
+ eight hours to ride and this endurance ride, can this be a little, can this be paced a little hot,
+ you know, over LT1 and it's going to be fine, you know, on eight hours a week. And if all the other
+ training is going well, it's fine. If it's 15 hours a week and it's a four or five hour ride
+ and somebody's logging and time trialing to get to the end of it at 70, 75% FTP when their LT1 is
+ like 55 that's not worth it to me the fatigue is so high and the adaptation you get would be better
+ served by going easier going longer and then maybe even adding another hard day or adding intervals
+ to that ride like doing ftp intervals on your long ride it doesn't ruin the long ride it actually
+ not every long ride right but like if you've got like you know if you're a time crunch and you've
+ and you're like, man, I've got one four-hour ride on the weekend, and during the week,
+ I've got an hour to an hour and a half on my rides, and you've been building out your TTE,
+ you're doing long sweet spot efforts or whatever it is, and you're like, man, I just don't have
+ enough time during the week, and I've got this four-hour ride, but I've got a zone to it.
+ You can easily add intervals. They improve the adaptation you get,
+ and they improve it in such a way that you can progress it very easily. You get your four-hour
+ ride and you start with three by 10 FTP efforts. And after, uh, after like maybe two months,
+ you're at like three by 20 fucking awesome. That's great. Um, and you've, you've got definite
+ improvement. The long ride definitely helps and you didn't ruin the long ride by doing intervals
+ on it. Yeah. I think I've said this quite a few times, but there is a point where you're not going
+ to be able to do some interval sessions during the week if you're limited. And that's not the
+ sense that it it's not that if you're not doing a 25 hour week you're not getting the benefits
+ and you shouldn't pack it in it's that you have to think about how you are distributing the time
+ you've got available and how the intensity you want to apply to that time actually works
+ so you can make uh like i'm a perpetually eight to ten hour a week athlete for years
+ and the way that my own training has gone has largely been i do all my intervals and longer
+ rides effectively i'm i am usually a once a week type person simply because that's kind of what
+ works for me but like if i wanted to go out and do like an hour and a half a sweet spot
+ say uh but i've only got an hour and a half available to me after work i'm not going to
+ jump on the bike and immediately get straight into a sweet spot interval that like that's the
+ sort of thing that's going to take a ride that's like two two and a half hours of time yeah you've
+ got to open up another dimension to like squeeze in extra time into the same time like how do i
+ get in like a 20 minute warm-up and like you know 15 to 30 minutes of rest intervals between my
+ sweet spot efforts and now i've got to like get on some kind of time cube like you know weird
+ four-dimensional sphere of ride so i can squeeze all this into an hour and a half you need to get
+ what are those under desk, uh, pedal things? There you go. I have clients who do that. And,
+ uh, and you know, they, after some trial and error, they can actually ride while they work.
+ It's not a lot of people. Um, some of them actually have done meetings while they're riding.
+ Um, and I think for most places of work, that's, uh, um, well, hats off to you if you can get that
+ done. Um, yeah. If you become an empirical cycling coach, chances are when it comes to the
+ if you're on the bike, I'm actually encouraging people to do that. Um, so, so the big question
+ is like what over trains you on volume? And my answer is intensity. Um, and just doing all your
+ endurance rides too hard. And a lot of people who say I can't do, cause I had a client like this
+ years ago he got lactate testing done he said okay my he was very very strong guy he said my
+ power at two millimoles like 240 watts um or 280 watts or something like that and my threshold's
+ like 360 i've got it up to like 400 before i'm like okay cool um i don't think that's going to
+ be your your actual where you should do your endurance rides and he was like yeah i can't i
+ just can't get over 17 hours a week i'm like are you riding at your lactate measured two millimole
+ And he's like, yeah, that's my LT one.
+ Right.
+ And I'm like, no.
+ Also, do you need to get over 17 hours a week is part of the question there as well.
+ He could, he could easily ride more.
+ He could have ridden more.
+ Um, and I mean, I showed him if you just, if you just ease it back, ease it back a lot, do more easy volume, uh, you know, do your interval workouts as high quality.
+ he was getting faster and he was actually impressed that he could actually ride more
+ than 15, 17 hours a week without overtraining because, you know, the fatigue and the kill
+ drills that he spent doing all those rides, he wasn't, he wasn't recovering fully from any of
+ them. Um, and so, I mean, I, I know people who will look at somebody's training schedule and
+ go, wow, they're doing 20 hours a week. They're overtraining. Um, it's like, I don't think that
+ some of these folks have considered the um you know the trade-off between the volume and the
+ intensity and a lot of the time if you want to push up that lt1 which is a huge factor in racing
+ by the way especially high level pro racing having that high lt1 is a massive benefit um
+ not only just a high ftp and all manner of big watts but like having that and how do you push
+ it up you do the same thing as threshold you ride underneath it well how do you well kind of how do
+ push it up for threshold. Okay. That's new gains of FTP. Sorry. We need to clarify that. Um, but
+ for endurance riding, it works the same. The more you ride, the higher that pushes that up.
+ And I've got some pretty good data showing that this is the case with just about anybody who can
+ ride, ride more. And my clients with the highest LT ones, they ride the most and they ride under
+ that threshold all the time. And when they don't, boy, they can feel it.
+ And they certainly wouldn't come to you for coaching if they were suddenly going to start
+ writing above it. Well, we would have a discussion on that for sure. Um, so I wanted to touch on one
+ more thing before we talk about programming, uh, these kind of low, medium, high volume weeks and
+ endurance pacing for sprinters. I hear this all the time where doing more volume is going to blunt
+ your speed quote unquote and does it change your fiber type um and i think fiber type is actually a
+ little overblown especially in the course of considering a season um so i would say that's
+ that's not really a consideration for me it is kind of in the long term if we're looking on the
+ very very small margins uh but for the most part i'm not considering it um now one of the things
+ I'll say on fiber type though is I think it's the sort of thing that people bring up because they
+ bought WKO and looked at it once and I think the thing people should actually remember there is
+ that fiber type measurement is largely just a reflection of the shape of your power curve anyway
+ yeah that's true and there's so many things that go into sprint power that are not just fiber type
+ and we'll talk about that at some point in the future but the thing about
+ endurance rides, kind of, you know, quote unquote, blunting your speed is that if you're doing your
+ endurance rides too hard, yeah, you're going to lose some top end because of fatigue, because
+ you're tired. And I've got, I've got sprinters, um, you know, at the professional level, 18,
+ 1900 watt sprints. They've got thresholds in the, you know, 400 watt range, 400 plus LT one,
+ you know, 300, 350 Watts easily. They're doing 20, 30 hours a week training volume
+ and their sprints are getting better every year. There's just, that's what the data says. Uh, and
+ they're riding easy enough. We do an appropriate amount of proper sprinting. So that way they don't
+ like, you know, lose all their sprint ability. They race enough and they rest enough. They eat
+ enough. And so doing volume isn't going to ruin your sprint, but it will, if you are riding too
+ hard or you're not recovering enough, or a lot of people also will think about more endurance
+ training, but they'll kind of forget to do sprint training. And a lot of the time for some sprinters,
+ they've just naturally got it all the time. Uh, and for a lot of sprinters, it's the case where
+ you need more practice. You need to actually keep the sprints into your program on a somewhat
+ regular basis even if they're just short little bursts um in order to kind of maintain that
+ neuromuscular pattern of being able to put out big power on the bike
+ no comment completely agree um okay it's like one thing i'll say there actually i won't comment
+ i'll take back everything i just said is uh when it comes to like a warm-up for your
+ like regular you know sweet spot field to max any other kind of workout you're probably at some
+ point going to do uh some sort of sprint as part of that just to like really wake the legs up it
+ doesn't even have to be like a fully maximal sprint but like that's an opportunity to you know
+ practice form you know yeah we're talking we're talking like five seconds we're talking a handful
+ of pedal strokes we're not talking because i because i've i've talked to people before where
+ they think a sprint is like 20, 30 seconds and it can be, but now you are creating a lot of fatigue
+ before a somewhat demanding workout, but a handful of really short sprints, uh, can actually, yeah,
+ be a part of a really good warmup, but especially if you're kind of time crunch, sometimes you don't
+ want to do this, but if you've got more time, cause you know, sprints can cost a little bit
+ of acute fatigue during your warmup, you know, do a couple of sprints, spin around for 20,
+ 30 minutes and then get into your intervals. Like, you know, at, well do your sprints after
+ your regular warmup, uh, that can actually be a really, really good way to kind of keep them in
+ your program without really having like a dedicated sprint day until you're ready to like, get ready
+ for proper racing. Okay. Let's get to what probably everybody's waiting for. Let's talk
+ about the difference between pacing, endurance riding and programming short, uh, or let's call
+ it low, medium and high volume weeks. So how do we want to define low, like about 10 hours or less?
+ Yeah.
+ All right.
+ Uh, medium, like about 15 hours average, maybe like 12 to 17, we'll call it.
+ And high, we'll say like 20 ish or more.
+ Over 15 is usually when I start to call it high.
+ Actually, that's, that's fair.
+ I think, I think the best results I ever saw personally was when I was training probably
+ 17, 18 hours a week ish.
+ And so for me, that was actually fairly high volume.
+ Um, so yeah, I think that's reasonable.
+ um so endurance pacing on low volume weeks under 10 hours
+ is it i would say it's kind of well here's the thing because i think the first thing you need
+ to establish is why are you a low volume athlete and it comes down to the scenarios i suggested at
+ the start of busy difficult life versus relatively relaxed work life you know which camp are you
+ falling into why are you a low volume person it could be my choice obviously but a lot of people
+ especially if you're thinking about training uh there's going to be a reason why you're low
+ yeah actually i think that's a probably a better place to start than i was going to because
+ because we usually talk about the benefits of high volume training, but I think that's
+ also partly because of the way that we've kind of collected the audience so far.
+ And I think there's a lot of folks out there who every time we talk about, you know, people
+ regularly training 20, 30 hours a week, they're like, oh, come on the fuck. And I think that's
+ reasonable. So probably the best place to start is what are your personal priorities?
+ And if your personal priorities are to have fun on the bike and you kind of want to get a little
+ faster and that's fine, but it's mostly not that serious a pursuit or, or you'd rather spend more
+ time enjoying it than really being a hundred percent focused on adding more Watts and adding
+ more endurance. I think that's something that you need to acknowledge yourself first before you
+ really start to make these considerations. Because if you're thinking, well, I don't want to stop my
+ fun riding, that's a little too hard. That's fine. Just be honest with yourself about it,
+ about your trade-off and priorities between performance and fun.
+ This time I actually have no comments.
+ Two peas in a pod right here. And so once you have established that balance for yourself,
+ and I usually, or actually almost always, whenever people consult with me or they come on as one of
+ my coaching clients, this is one of the first things I ask them is like, what's your personal
+ balance point between fun and performance? And some people say it's performance all the way.
+ Some people say I'm way more on the fun side. A lot of people are in the middle.
+ And I try to give them recommendations or coach them in such a way that that meets their expectations and their set of priorities. So after you've established that, and you think about low volume programming, I am in the dubious position of not having a lot of clients who don't train that much volume.
+ I have a handful who train under 10 hours a week. Um, and well, first of all, I think this is good
+ for me because it means that I'm not just in my ivory tower of coaching professional athletes.
+ Um, but I think it's actually really cool to see the differences between how people take their low
+ volume weeks differently. I've got one client where we're on two hard days a week and I have
+ one where we're anywhere from three to four on like 10 hours ish. Um, and a lot of that was kind
+ of like what, what you've talked about already, Rory, in terms of starting with it, like a
+ conservative, a conservative estimate, and then balancing your on-bike performance with how well
+ you recover off the bike. Um, cause one of those clients I'm thinking of has, has had a lot of
+ work stress and I mean for years, literal years, and it's just started to ease back this year.
+ And now we're starting to see the old legs that he had, you know, a couple of years ago before all this stress started. And, you know, we're, and so we're seeing really good numbers or even personal bests. And it's been a while. Um, and that's the impact that the off bike stuff has. And, um, and so, so we're, we started with like one or two hard days a week and we're kind of stuck there right now. And I'll, sometimes I'll give him a third workout that, Hey, if everything's going well at work, try this.
+ And I would say three times out of four, he skips it. So that's, that's my kind of preferred
+ approach. And, but for one of my athletes who's doing like four hard workouts, sometimes
+ he's recovering really well. He also is very, very good at skipping the hard days when he knows he
+ should. Um, he knows it's like, we need to see progression or don't even bother. And he's kind
+ of awesome at, you know, I'll give him like an, like a, okay, this is my, my kind of idealized
+ week for you but when he gets there he knows that he doesn't have to stick to it you know what i mean
+ yeah like yesterday i had someone uh he had some like maintenance sweet spot stuff to do
+ he did one effort and then pulled the plug good something because he could feel like
+ not the day he just described it as feeling strange uh but you know like the the smart
+ decision he made there like i i was asleep at the point in which he made this decision
+ but he knew i don't want him to force himself through a workout that's not going to work out
+ like he gave it a go didn't pan out and then just chilled and recovered for like the remaining 20
+ minutes or so that he rode for yeah rather than completing something and you know just digging
+ that hole even further yeah actually one of the things that i've noticed with the way that
+ with kind of the training philosophy that I slash we have developed here at Empirical Cycling
+ is that the way we program stuff and the way that we look at interval progression,
+ it's a little bit different than I see sometimes, like when I'm consulting with other clients or
+ other athletes who have coaches of their own or have programmed their own workouts,
+ where a lot of the time they'll program stuff and it's like, it's very, very submaximal.
+ They'll do the same, you know, like four by 10 minute FTP workout every single week for like months as if that's going to be sufficient overload.
+ And okay, like sure, you're just getting off the couch, you get those nice noob gains and then it's going to stop after not long at all.
+ And when you're doing that kind of stuff and you're not really pushing yourself to your limits and then recovering and push to the limits and recover, you don't have much objective criteria about either whether you're getting faster or whether you're fatigued.
+ yeah an awful lot of like the guidance you have to end up giving to athletes at least the guidance
+ we give is you know like really think about how you feel like the reason we're talking about rpe
+ is it's not just about like how do we make sure these intervals go to plan it's also so that in
+ future you know when they're not going to plan yeah when it should be uh also like the inverse
+ of that is obviously like uh you ride to rpe there's someone uh the weekend uh he was riding
+ to the rpe like wasn't looking at the bike computer and then looked down and he was doing
+ like 20 watts more than he's ever managed that sort of intensity and it's like yes it worked
+ but like he's only able to recognize that properly because he's got a good sense of how it should all
+ feel and like felt it out it's not chasing numbers which i think people move way too far
+ into sometimes numbers definitely help um but like understanding it's it's the pro there were years
+ during like the sky dominance era where people are like we need to get rid of parameters from
+ the pro peloton because it's just making uh that's why they're racing like this and it's like no
+ they're going to race like this regardless like come on uh like they understand how this feels
+ like maybe mikhail kwiatkowski blows up five minutes earlier but at the end of the day chris
+ froome is still going to end up winning that stage like wow what's the last tour de france you watched
+ i was thinking about kwiatkowski uh like the past week and thinking about how he's like a
+ sagan level athlete that sold like himself to be a domestic very good one very justified in
+ his decision but very much a what if uh if he doesn't go down that route um like pro cyclists
+ are very much into uh you know i i'm told to go up the mountain at this wattage and now i know
+ what that is how that feels how hard it should be and if you took the power meter away from them
+ they're only going to learn that even more and that's kind of what we're talking about when it
+ comes to like training is like understanding you know how are you meant to feel in an ftp workout
+ for instance you know what's the change from the beginning to the end ultimately that's what the
+ ftp test is testing yeah for sure training you for and that's one of the things that uh you know
+ that you know we really do as coaches is like we really drill into people like how does this feel
+ or how should this feel we give a lot of different cues uh we try to cue people uh differently
+ according to what seems to work for them or not. Um, and you know, that should help a lot,
+ like, especially, you know, for FTP efforts, for VO twos, for sprints, for whatever. Um,
+ you know, we tell people our objective criteria, like if you're not feeling really good doing your
+ 32nd max efforts, please don't do them. You need to be feeling really good for this workout. And
+ if you don't skip it, and especially the closer we are to a race, the more I think that's the case.
+ And especially when we're building sometimes I'm a little fatigued, but I can definitely do the workout. Cool. Go on. Um, and there's only, you know, like I said, there's only like one exception out of a hundred where it's like, oh, my watts aren't that good. I'm like, yeah, well today just keep going. Well, you got some recovery coming up or whatever it is. Um, so when the low volume weeks, my other thing to really consider is don't fuck with your recovery days ever.
+ Most people need two, especially if you are stressed and busy, you might even need three.
+ And so my client who does four hard days a week, a lot of the time, he's got two recovery days or
+ three. Most of the time it's three. Because that's just, it seems to be the best way that it's
+ working for him. And if I skip one of those like VO2 efforts or like the over-unders or whatever
+ it is in order to get in like an endurance ride i'm only going to do that because i think he's
+ he needs that more space of not doing the intensity between his harder rides and sometimes
+ when he's going well all right cool we get four in a week it's awesome but the next week i'm like
+ okay well he rode hard four days last week he did four three recovery days next week i think i'm
+ probably not gonna have him do anything hard until like we get to like maybe in wednesday
+ and so we'll do a three ride hard ride week um and so we can kind of balance the two that way
+ i've got someone doing a vo2 block now they're halfway through it's been two weeks and they're
+ halfway through because they did uh i think they've done three or four workouts total
+ but i was noticing although i'm seeing the right things in the training i think they just needed a
+ bit more recovery and like that's really gonna actually augment the output of this so he had
+ five days of just like a recovery day then just some endurance yeah because that's like that's
+ how you um modulate what the training box going to end up being rather than just sticking to these
+ rigid patterns that people fall into yeah um all right well so let's move into kind of medium
+ volume weeks, like around, you know, kind of 12 to 15 hour range. Um, so now we start adding in
+ more volume, pretty deliberately, like, uh, like, let's see, we got Monday off, let's say maybe
+ Friday off too. So that's Tuesday, Wednesday, Thursday, you probably got two hours each day.
+ So you're at six hours. And now in order to get up to 15, you're writing nine hours in the weekends,
+ which means you're doing, you know, four to five hours each day. Um, that's a pretty good
+ training schedule. So like now we've got more energy expenditure, presumably this person is
+ better at recovering. Um, and also, uh, we've got potentially more fatigue if you are pacing
+ everything too hard. And for a lot of folks who are doing all their endurance rides and all their
+ between interval rides at 70 to 70, whatever percent FTP, which might for most people at
+ this volume is over lte one um you know now we're at the limit of their total volume of what they
+ can realistically recover from kind of regardless of the intensity so how do you start thinking
+ about programming these kind of medium intensity weeks between the endurance rides and the hard
+ rides well first off it's that thing of you know it's not it's not so much when can we fit workouts
+ in but rather how do we fit everything else around them first usually when someone tells you their
+ availability they're gonna it's gonna be some effect of like uh i have up to two hours on week
+ days and then i'm open on saturdays and it's like family day on sunday say yeah so it's like okay
+ family day on sunday is either day off or like 30 minute spending on weeks out which means that
+ we're probably going to use saturday to do something more productive and it's also going to
+ be the longest ride of the week uh okay so coming out of that that means that it's probably been the
+ same schedule uh the previous week so monday they should be maybe not completely fresh but they're
+ going to feel good so we can probably just do an endurance ride tuesday is probably going to be
+ your productive day because it's like spaced nicely since the last workout you've had a bit
+ of recovery you're also going to have a long tail before you get to that really long workout in the
+ next saturday and then it's just going to be what are those two days going to be if you're doing
+ to a week because maybe you'll think about using thursday as well but otherwise it's you know we're
+ just gonna take our time for a lot of those um the days where you're otherwise not going to be
+ available obviously taking into account you know anything that might also be happening in those
+ days not uncommon for people to say i'm going out for drinks and it's like okay that's two days we're
+ not doing much uh but it's about fitting in the things that are important to your training plan
+ and the mistake people make is thinking the workouts are the important bit and it's not
+ it's making sure that when it comes to the workout you feel good and so everything leading into a
+ workout is important the workout is just like the outcome if everything else goes right the workout
+ will go fine if uh you're trying to make it so that the workouts are important you're going to
+ underestimate how important the recovery is and how much or rather how little uh you might need
+ to do in those types of spaces yeah um and actually and this is um and one of the other
+ things i i i also consider here is because this is kind of like the um kind of the middle between
+ you know the low volume stuff where you know if you're recovering well you can might be able to
+ squeeze in an extra hard ride per week like like for most people on average two hard rides per week
+ even if they're at 10 hours or less is pretty average. Three hard rides per week at 10 hours
+ per less, that's probably the top end of the middle of the bell curve. And then four hard
+ rides per week, I'd say that's a very small minority of people who can really do that well
+ and keep recovering and keep progressing. So now we're in the middle where I would expect people
+ would not be able to do four properly hard rides per week. And I would say probably two to three
+ is going to be more optimal if you're in this middle range. And now at this point,
+ um, I'm actually thinking less about, um, scheduling anything in terms of what's the
+ best way to put this. I'm not really thinking about interval days versus long rides. I'm
+ thinking about hard days versus not so hard days and what's my fatigue burden and what's my energy
+ burden from these. And especially when it comes to the super intense rides, I'm thinking about
+ putting those in places during the week and figuring out what's the recovery. And then I
+ can manipulate those kind of regardless of what the other writing is. Does that make sense? So
+ it's almost like, um, like you can have, you know, Tuesday, Wednesday, Thursday are all two hour
+ rides, Saturday, Sunday, or four-hour rides. And whether we put the hard ride on Tuesday,
+ Wednesday, or Thursday, or Saturday, or Sunday, it might change every week. But having some kind
+ of regular pattern is really nice. So if it's Tuesday, or Wednesday, or whatever, or Saturday,
+ or Sunday, or... I think most people default to Tuesday, Thursday, Saturday as their hard days.
+ And that's not a bad place to start. But I would say, depending on how hard some of those hard
+ rides are you want to move them around so you might want to go wednesday saturday sunday
+ or you might want to do wednesday thursday saturday or something like that like you don't
+ necessarily have to you've got to manipulate them in such a way where you can always see
+ that progression and the recovery is what you need it to be you can also um if you're trying
+ to think about it in terms of spacing things throughout a day you can have like a uh like a
+ block structure of three weeks that ends up being okay this week's three hard workouts then two hard
+ workouts then three hard workouts again simply because that might just be what offers you
+ uh the ability to get that work in because if you're the sort of person that does two a week
+ normally and you do something like a three two three then all of a sudden in the space of like
+ one training block you've managed to get more in it's just that you offered yourself that opportunity
+ to do it by taking that middle week a wee bit more relaxed than the two on the other side of it like
+ again like don't be rigid about how you think your training should be unless there's something
+ within your normal schedule that demands it yeah yeah i completely agree and i mean there's nothing
+ wrong with skipping a hard day um you know because as long as whatever you're doing is not a slog
+ you're seeing the progression, um, it's probably fine. Um, so now we come to high volume weeks,
+ like 20 plus. Um, and I would say for 20 plus, uh, getting to three hard days is actually a rarity.
+ Um, your, cause usually when we go to 20 plus there, there's two ways to do it. And I prefer
+ one way. And I see a lot of, I see a lot of coaches to good success, by the way, I'm not
+ saying my my approach is typically better but um but it's like the two approaches are you do a
+ handful of much longer days or you do a bunch more kind of medium volume days medium volume i'm
+ talking like three to four or five hours whereas a lot of the time when i'm remember that remember
+ that's medium volume by the standard of someone doing 20 hours not medium volume by my standard
+ of i do 10 hours right exactly and i'm saying like medium volume for somebody who's doing super long
+ rides where an average long ride is like six to eight, or it might be five to six or might be
+ three to four, but they're doing a lot of them during the week. So it would be like Tuesday,
+ Wednesday, Thursday are all four hours. Right. And now you've got 12 hours a week and to get up to
+ 20 Saturday, Sunday, four hours each. Now we're at 20. Um, so like, that's a pretty typical way
+ to program that kind of stuff. Personally, I would rather do two days of harder rides, um, and, uh,
+ four days of much longer rides and then three days of recovery. That's where I come down on this.
+ And for those much longer rides, I usually will kind of default to like one or two hard days per
+ week. And that's it. Occasionally we'll sneak in a third, but it's more of an exception than a rule.
+ And part of this is because the energy burden of the longer rides is very, very high. And it's not
+ the fatigue so much. If you're used to this kind of stuff, if you're well-trained, it comes down
+ to like eating your energy back and recovering in that aspect much more than it is um like acute
+ fatigue from an eight-hour endurance ride because all my clients who could do eight-hour endurance
+ rides regularly they're really not that fatigued by the end of it they're hungry because you know
+ they've spent a lot of energy and eating even 100 120 grams an hour you're still going to be in a
+ deficit at the end and that's the bigger consideration for me and so when you've got a
+ long ride that's also a hard ride a lot of the time i'm going to put in a couple easy days
+ before that so that way you can actually kind of like top back up before your hard day
+ and a lot of the times once people start doing those very high volume rides that recovery
+ uh like unlike kind of what your experience has been rory of like oh i need i need kind of like
+ a day to open up a lot of the time people doing that kind of volume will feel the most fresh after
+ three or four easy days uh rather than like needing openers they'll be like wow i'm feeling
+ topped up i'm good to go let's do this yeah sometimes there are exceptions but like that's
+ that seems to be more of the case the bit about reducing intensity i think is uh very true i've
+ got an athlete who uh at the start of this year did 53 hours i think over two weeks that's a lot
+ he was programmed for 20 and opted to do more
+ so it's not my fault
+ but his
+ sum total of intense
+ days in that
+ excluding times where he might have
+ ridden too hard which he was actually pretty good
+ not doing
+ programmed one
+ which was like a tempo
+ ride to try and help open things up a bit
+ but
+ that was a
+ high volume block for two weeks in which it was largely defined by his sort of normal weekly ride
+ ends up being three to three and a half hours uh but he did i think it was eight and ten hour rides
+ uh each sunday because he's an ultra cyclist so like going along is his thing but like the
+ consideration there was okay he's doing really long rides at the weekend i don't want him to go
+ into those rides with fatigue because he's going to come out of them with fatigue um even if he's
+ riding them at like a steady you know desirable intensity uh because it's the nature of eight or
+ 10 hours of riding like even when you are well below lt1 uh well let me just pull up uh he did
+ 6 000 kilojoules of work for the eight hour ride and he did 6 800 for the 10 hour ride
+ that's gonna carry a bit of fatigue like there's no way to avoid it in those instances that's the
+ energy burden yeah he like you are at food max at that stage yeah it sounds glorious and in some
+ ways it is but in other ways like you cannot just like get home and just eat an entire birthday cake
+ um if you are proper fucked i actually recommend ice cream over cake
+ sticks of butter
+ yeah um all right so do we have any more thoughts on all of that before we get to listening to
+ questions yeah i think a lot of what we talked about is obviously like the balance of getting
+ the intensity right and if you are a lower volume athlete out of choice that's something where you
+ can get away with it if you're not doing it well if you're a lower volume athlete not by choice
+ you're playing with fire and as you start to add volume regardless of what's causing the limit in
+ volume that's only going to get worse and worse and worse all the way up to when we talk about
+ like high volume athletes uh like you can do you know a few weeks of riding two hours with a lot
+ of volume and it's going to do good things for your fitness but you need to recover after it
+ And you need to recognize what you've actually done was, you know, beyond what is normally recommended.
+ You know, you've basically done a purpose training block of slightly too hard rather than, you know, a repeatable training block of, you know, well-managed intensity.
+ That's not to say everyone should go out and do a 25-hour week too hard every so often.
+ but you know it's the thing of like you go on holiday for a week or more if you're like me
+ lucky uh and you take that opportunity to like do 10 15 more hours than you would normally do
+ and like it'll do great things for your fitness provided you like to do good things for your
+ fitness just chill afterwards you know don't go overboard in the climbs like i did uh you've got
+ to really look after yourself and understand what you're doing is out of the norm of what you
+ normally do but equally there's no expectation that that's the reason uh that that's the sort
+ of thing that's going to transform your fitness because you're going to revert to your normal
+ volume after that yeah you'll see the benefits here's something here's another question i've
+ gotten over the years is whether or not if you regularly cannot do the high volume is it worth
+ doing that one high volume week when you get a chance and i think the answer if everybody can
+ tell that you and i have is absolutely it is and i've uh from our clients or well for my clients
+ personally i'm sure you've had similar ones where they can feel the improvement in fitness and
+ endurance for months afterwards sometimes so like usually it's weeks a lot of the time it's proper
+ months and also like who doesn't want to just go ride their bike more for a week how fucking
+ awesome is that like just on the just on the face of it just for fun value you should definitely do
+ that um and also like you know then you get to ride you get to ride longer it's like oh i got
+ two hours today but i'm in this i'm in the dolomites and i really want to do i want to really
+ want to do these like three big climbs but it's gonna take six hours today and that's gonna be
+ like most of my volume for the week it's like so what go do more it's gonna be awesome and then
+ go eat pasta often get asked by clients what should i do on this trip i'm doing i'm like
+ uh have fun do as much as you can take the opportunity i've got two clients right now
+ that are have just gone off to gerona and my advice to them was ride your bike as much as you
+ can you know take advantage of that opportunity you're you've paid the money to go and do that
+ so go and do it like really do it i have someone that just came back from uh south of france and
+ while he was there he did a four-hour ride two eight-hour rides and another four-hour ride
+ that's like great had a great time great weather took advantage of it he'll rest now he'll get a
+ bit rest and then we're back to normal but like he's had a good time and he's also gotten that
+ training benefit out of it he's occasionally ridden hard because you're on holiday it's what
+ you do i did two exceptionally ill-advised efforts uh when i was in new york a few weeks ago one of
+ which coley told me is physiologically impossible well actually well then i i i kind of looked at
+ your data a little bit and i was like yeah edge case very much an edge case
+ yeah 117 of ftp for uh 25 minutes uh but like i keep telling worries ftp is actually 10 watts
+ higher than it is which affects the speculation quite a bit wko is stuck into thinking that it's
+ 30 watts higher than it is which is why i don't look at the incomplete data mr mr porteous you
+ know this um all right actually i have a i have a more important uh topic to get to which is our
+ listener questions because the first one is and i think this is uh something we are probably going
+ to spend too much time on again how do you find the right heart rate zones i don't same okay moving
+ on uh knobs um so here's the thing about the heart rate and endurance pace rides is it's a good piece
+ of data to have. I definitely want people to track it, but there's a lot of stuff that can
+ affect your heart rate day to day. And some days it might overpace you, and a lot of days it might
+ underpace you. And either way, the heart rate itself is really just a reflection of the total
+ cardiac demand. Cardiac demand is not just what work are your muscles doing. It's also how much
+ Do you need to vent heat from your body because it's warm out?
+ Or are you dehydrating?
+ Is that why it's rising?
+ It doesn't necessarily reflect anything internally other than you are either recruiting larger motor units, probably.
+ Well, all other stuff the same.
+ I mean, that's almost definitely what it is.
+ Does that mean that you're riding too hard?
+ No, it just means you're recruiting larger motor units and they're a little less efficient.
+ So what?
+ Who cares?
+ So heart rate zones are something where I think, yeah, it's a piece of information I want, but I usually don't want people writing to heart rate.
+ I want them really writing to RPE kind of exclusively.
+ The thing that I will look at with heart rate in someone's workout is what is the actual pattern of the trace?
+ Because that's usually a good insight into how the body has responded at that moment in time.
+ so we talked about this before you do an ftp interval and you expect a sudden spike as you
+ come from the start of the interval and then it just sort of plateaus for a very long period of
+ time until you either stop the interval or you hit the limits of tte and what i'm looking for
+ there is does the heart rate do that during it or does it start to like wobble a lot more maybe you
+ had a little bit more in you maybe it's higher than it would normally be expected in terms of
+ absolute value but the trace is right in which case that probably suggests something else is
+ going on you know it's that thing of if you were to go and do an ftp interval on the turbo and
+ turned your fans off uh you you notice uh in a lot more than a couple of years but you you see
+ that directly in heart rate data as absolute values just skyrocket like above what you'd
+ I've got people who say, guess where I turn the fan off. Uh, and I see that in their comments. Then I, I go look, look at the, the, the trace for the ride and like heart rates, like nice and steady with power. And then like in the last hour, just like shoots up and it's like, Oh yeah, I, I definitely see it. Yep. Okay. Um, so yeah, so heart rate is, uh, it's, it's useful thing to track, but it's, it's not as, um, it's not like some magical piece of physiologic insight.
+ um so our next question is uh how much do power spikes oh god i love the direction of this
+ question i i love the framing of this how much do power spikes influence fatigue in endurance
+ pace rides so most people would say does going beyond my zone affect my adaptation
+ this listener um of the podcast who shall remain nameless uh knows better and is saying
+ is framing it in terms of fatigue, which is exactly how I think of it. It adds to fatigue.
+ It doesn't, it doesn't detract from adaptation because that, that, that review that we're
+ talking about, the, um, uh, it, the, if you add more power, you had more adaptation,
+ like the signaling gets stronger, but when it's like intermittent through a ride,
+ it's not really, it's, it's adding a little bit sure, but it's adding more fatigue and that's
+ actually at the bigger cost of it. And so usually with my clients, especially those who live in like
+ hilly areas who can't really just get into a steady rhythm, I just tell them, I know that the
+ normalized power and the average power is going to be a little different. Like I know that some
+ of these rides, some of these hills, you're going to have a little too much power, but as long as
+ you get back feeling like it was a pretty chill endurance ride, you did it right. Kind of regardless
+ of how how much you kind of stray outside of the zone quote-unquote it's the thing of what we're
+ saying earlier in terms of sometimes when you're endurance rides you should just add some sprints
+ because you might need technique practice sure that occasional bit of stimulus and like that's
+ going to be a very different sort of ride in terms of like the expected fatigue during it compared to
+ just a bog standard endurance ride you know a normal endurance ride you should feel good most
+ of the way through when you add the sprints in uh if you're doing them like fully maximally maybe
+ not to time but to effort you're gonna notice that you did some sprints uh and that's like
+ part of the difference there um so our next question is how bad are coffee stops or short
+ ish sprints efforts slash hills so we already kind of talked about the efforts and stuff like that
+ uh especially with intervals on longer rides they're great uh how bad are coffee stops um
+ i would say the worst thing about coffee stops is when you go to a place that burns their espresso
+ beans too long yeah like it's just you you're like you're there in line and you're looking at
+ all the pastries and you're like oh i'm gonna have one of these we have one of these you get a latte
+ and you and you start drinking it and you're like oh my god these people i think i'm drinking
+ charcoal. Did they, did they put charcoal in their espresso grinder? What is wrong with these coffee
+ beans? Um, so check out George Howell coffee. That's my preferred brand. Um, not sponsored,
+ not sponsored. I actually, I've been buying George Howell. I mean, they're a, they're a
+ Boston company. Um, they used to have coffee connection in Cambridge. Anyway, that's local
+ news anyway. So, um, yeah, the, I mean the, the worst part about a coffee stop in a ride
+ realistically is when you sit there on star.
+ Yeah.
+ When you start again,
+ you get,
+ you're there a little too long.
+ Um,
+ cause you should stop.
+ It doesn't ruin anything.
+ You should stop.
+ You should get food.
+ You should hang out.
+ You should sit there in the sunshine.
+ It's going to be awesome.
+ Same for your turbo.
+ Yes.
+ Turbo rides.
+ Go get food.
+ Go take a piss.
+ Um,
+ refill your water bottles like the one I just dropped.
+ Um,
+ it stretch.
+ Yeah,
+ it's great.
+ Um,
+ it doesn't ruin the ride to stop.
+ It does not. It absolutely does not. And this is why when I think about total volume in somebody's
+ plan, I look at the hours per week, regardless of the intensity. And I'm not necessarily thinking
+ about how many of these hours were zone two, how many of these hours were zone four. That's not
+ the way that I think about it. I'm like, how many hours total? Great. That's the only piece of
+ information I need. And so, yeah. Oh, yeah. So what happens is if you stop and you have a ton
+ of carbs and you sit there for like maybe 30, 40 minutes, something like that, and you get going
+ again, your body has actually started to create insulin. Cause when we are exercising, we have,
+ we have a glucose uptake. That's not insulin mediated. Like our body's not making insulin
+ when we are writing and eating carbs. It just gets taken up because we're exercising.
+ When we sit down and have a pile of carbs and our body starts making insulin after, you know,
+ what, 20, 30 minutes gets into the bloodstream. Then you start exercising. You now have insulin
+ and exercise pulling on your glucose, uh, in your bloodstream. And that can actually cause a, uh,
+ a bit of a bonk. And then it takes some time to get back to normal. And I've, I've experienced
+ this many, many, many times. Um, and a lot of my ride buddies did not experience that ever. Um,
+ I think I maybe just had, I got it bad. Yeah, I got it. I got it real bad too. So it's,
+ that's the only real thing to consider and it's not like bad it's not fucking up your adaptations
+ doesn't feel great for like 20 minutes but after that um after that stopping for carbs also because
+ looking back now i see that i was perpetually under fueled and that i was fueling up on these
+ rides and that i would feel amazing for the rest of the ride um yeah so it's it's great to stop um
+ yeah it doesn't doesn't hurt anything but still find a good place with good beans for espresso
+ absolutely critical good cake good cake too sure um let's see um next question is low end as in 55
+ to 60 z2 but more volume or high end 70 to 75 z2 but less volume um stop penning a specific number
+ Yes. Stop it. Please stop. RPE is your king slash queen slash monarch of everything. So if your LT1 is 50% of your FTP, you're riding at 60%, that's too hard.
+ And if you are really trying to peg it at 70%, I mean, okay, but the fatigue cost is more important to me than the trade-off exactly of the equivalence between intensity and volume.
+ And I'd rather somebody ride easier and not accumulate that fatigue and then have really quality intervals.
+ That's where I come down on that.
+ And so as long as you kind of obey your RPE, um, I I'm, it's also, it's just kind of irrelevant
+ to me how hard or easy or where you are in your quote unquote zone two.
+ I've got people who ride fucking 40% of their FTP for their endurance rides a lot of the
+ time.
+ And you know what happens to them?
+ Nothing.
+ They get faster.
+ That's all there is to it.
+ There's, there's nothing special.
+ Sorry.
+ Oh, sorry.
+ Was that all the thoughts? Okay. Rory's nodding at me like he's got nothing. I already,
+ I emptied his brain out of ideas as he was listening. Um, once again, no comment. Uh, let's
+ see. Oh, for a 68 year old, any ideas on how to manage two times long endurance rides and four
+ hours plus per week with an intervals day. Um, yeah. Eat and recover. That's it. And if you want
+ to put your intervals down a longer ride yeah that's cool too um yeah especially for older
+ athletes the same principles apply but realistically uh we just start recovering slower as we get older
+ and i'm in my very early 40s and man i'm feeling it already so yeah but if when i'm 68 should i
+ live that long um i'm sure i'm going to be complaining endlessly about the oh my god right
+ my adaptations aren't coming i can't recover to do more training i'm so old did anybody seen my teeth
+ so that's now you think your hip spot oh my god dude
+ i hit the cell phone um all right uh how to determine your quote-unquote easy pace what's
+ your field test for lt1 how easy is too easy uh okay so this is just an rpe thing and like i
+ mentioned before i want to see that decoupling of rpe like if it's if you're at 200 watts for most
+ of your endurance rides and you're at like a five and you pull it down to 180 or 170 and suddenly
+ you're at a two i want you at that 170 watts or even a little less is fine um that's that's where
+ it is feeling good and they feeling good in the hours after your ride is usually a good marker as
+ well because it's an indication that oh the body hasn't collapsed after it gets out that
+ one hour the endorphins have gone it's also an indication that you realize what it's done
+ yeah um and a field test for lt1 is just that it's not only that rpe but your breathing
+ should be like fully untaxed like yeah you should be you should pass the talk test you should be
+ able to get on a zoom meeting with your video off and nobody should be able to tell that you're
+ exercising that's you should be able to do that apart from the background noise was just yes
+ except for the background noise oh no it's my fan it's really hot in here yes um and how easy is too
+ easy. Uh, let me put it this way. Most of my clients do most of their endurance riding between
+ 60 and 80% of their LT one. That's it. So if your LT one's 50%, do the math. Um, so like right now,
+ mine, I've said this on the podcast a million times. Mine is like about a hundred, 110 Watts
+ ish. And I spend most of my endurance, easy endurance riding around like 70 to 90 Watts.
+ It's pretty simple. Um, and it's, I'm getting a little more fit. It's, it's cool. I can't ride
+ that hard anymore, but, um, yeah, it's, it's still like a totally fine. Um, so, so stop thinking in
+ terms of your FTP with all this stuff and start thinking in terms of fatigue management and total
+ volume and things will get a lot easier i've got a client who uh just started with me
+ a few weeks ago and he's been able to keep up the volume back to back to back
+ recovery week next week i think uh but his comment on his four hour sunday ride was something to the
+ effect of uh i never imagined that after four hours of riding i'd feel better than i did after
+ the first one uh and like that that's like poster for uh having you know he's got his he's dialed in
+ exactly how he should feel in his endurance right that's great um uh all right oh next question is
+ a doozy fasted or not and he follows up with why not i i believe i did an entire podcast with you
+ I believe we – oh, I've done so many podcasts now, I don't remember.
+ Fasted training, the reason it's supposed to work is because it's supposed to – in one interpretation, it's supposed to allow you to burn more fat.
+ Is fat burning a signal for adaptation?
+ The answer is no, it's not.
+ So that's a big reason why not.
+ Another thing in terms of low-carb riding, which I've done some experiments with, which also don't really seem to have that much more benefit in terms of riding fully fueled with carbs, is the MAPK P38 pathway.
+ What's that for?
+ Yeah, it's the, it's the mitogen signaling pathway and mitogens are just things that signal for like, you know, mitochondrial fusion and fission and things like that. Like there is, there are marker of stress and it's, it's not that powerful if you ask me, a signal and it's way better to fuel up and be, and get in more riding and be better recovered.
+ and uh and that's that and in my coaching experience it's it's a thousand times better
+ ask yourself if you were to sign up to get an empirical cycling coach and you thought maybe
+ i should try fasted rides what are the chances that they also would agree or find a million
+ other things that are going to help you a lot like if you like that that sort of fasted right
+ thing is a you know pro tour looking for that fraction of a percent more type thing and it
+ doesn't even work that well for them even then yeah you're you're scraping the barrel and
+ potential improvements there there's a lot more you can do even within like restricted time and
+ here's the thing it's like if if you're doing these things looking for improvements you better
+ be able to see them and measure them and you've also better be able to say it's definitely because
+ of this thing because a lot of time when people start doing this stuff they start riding more
+ and so like regardless of or they start riding easier on their easy rides because you're
+ under fueled and you absolutely have to um so there's a lot of things in that context that
+ can actually change the outcome and so you've better you better have control all your variables
+ is what i'm saying um like as a you know somebody who's been signed trained in the arts of the
+ sciences, that's a turn of phrase. If ever there was one, geez, um, you know, controlling variables
+ is high on my priority list, even for coaching. Um, actually next question is I usually do Z two
+ on lower carbohydrates, about 45 grams an hour. Is this good, bad, or it depends. Um, so
+ for somebody as poorly trained as I am aerobically speaking, I'm going to say it's
+ Well, let's put it this way.
+ If you are doing, if you're eating 40 grams an hour, you should probably be averaging about 50 watts to make it energetically neutral.
+ That's fine.
+ But if you're doing 100 watts to stay energetically neutral, you need like 80 grams an hour.
+ and if you're doing 150 watts um stay to stay neutral you need like 120 grams an hour
+ it sounds ridiculous you don't necessarily need to feel like that but um this is actually a future
+ podcast i want to do is fueling recommendations and considerations about how much you should eat
+ and why versus like you know your glycogen stores and fat versus carbohydrate burning and stuff like
+ that i think there's a lot of detail in here that we and nuance that we could get into that um
+ that i think would be very informative for people but i would i suggest um if you are
+ you know if if i suggest trying to stay energetically neutral as much as possible
+ um and within restrictions of like how comfortable your gut is with your fueling
+ so if having 120 grams an hour makes you bloated and fart a lot then probably drop it if you can
+ um or oh my god i farted so much in mallorca
+ that's how it propelled myself off hills is just constant poor lady oh my goodness
+ oh she was as well oh boy couples that fart together something else together stay together
+ or on opposite sides of the house for a little while um okay is it okay to do z2 around 70 rpm
+ does this cause too much fatigue if it's comfortable um yeah you don't i don't think
+ people should be big braining the cadence i think you should just write it yourself selected cadence
+ and that's it nothing else to it i made someone i made someone do high cadence endurance uh during
+ my early coaching i've done it myself yeah he did he did not have a good time i did two hours at 110
+ 10 RPM at like,
+ I think that's what I said.
+ Yeah.
+ It sucked.
+ I mean,
+ I could do it.
+ It didn't benefit me.
+ My breathing was higher.
+ I that's,
+ that's the only thing I noticed.
+ I didn't,
+ I wasn't like extra fit afterwards.
+ I was actually a little tired.
+ Um,
+ anyway,
+ so yeah,
+ don't,
+ don't worry about it.
+ Uh,
+ ways to combat boredom slash drop and perceived fun when spending 80% in Z two,
+ uh,
+ root selection.
+ I'm going to,
+ I actually,
+ know you coach this guy so i'm going to tell you when we're done recording who that is uh and you
+ and you two should have a chat um ftp intervals during long endurance like six plus hour rides
+ pros and cons um i don't see a lot of cons unless you're not eating enough i see a lot of pros i i
+ definitely have people do this stuff like we talked about earlier doing intervals on longer
+ rides is actually great training it enhances the adaptation you get rather than detracts from it
+ it has it has fatigue and kilojoules but you know overall it's i'd say it's the only thing i'd maybe
+ highlight there is make sure you can do the six hour ride first before you do the six hour plus
+ intervals you know like that that the uh one thing we maybe didn't talk about um is how do you add
+ volume which we've talked has been talked about in the podcast before and ideally it's like
+ relatively steady but i think most people can add more than they think provided they are getting
+ the intensity side of things right um but when you're trying to transition you know your long
+ ride each week into long ride plus intervals just make sure you can do the long ride first
+ because if you can do the long ride as long as you're feeling well and you're being smart about
+ it you'll probably be okay doing the intervals yeah i actually um yeah i think on a conservative
+ of, uh, side of things, I'd say add an hour a week and don't do it on your recovery days.
+ Those are sacred. Fuck not with the recovery days. Leave them alone. Actually recover. Um,
+ let's see. Is it, Oh God. Uh, is it better to do two big Z two rides spread, uh, or spread the
+ volume across the week? Um, my answer and I, this is more true. The longer I coach, uh, do whatever
+ is least stressful for you the stress that you get from trying to nickel and dime little volume
+ bits here and there or to rearrange things to get into one long ride like that amount of stress is
+ not worth it it's more impactful than whether or not you're doing like three two hour rides or one
+ six hour ride or whatever like just make sure that your intervals are good and that you're keeping
+ the stress low there's a reason when i ask people for their availability i ask them for the least
+ amount of hours they think they'll have each day because then they've got a plan they know they'll
+ be able to do and if they have 30 an hour more available to them they can just keep going riding
+ or they can use it to relax yeah but if people were saying oh i think i've got four hours after
+ work every day one i know you do not and two uh if i tell you okay here's all here's all your
+ workouts for the week it's just gonna stress you out trying to make sure you fit them all in whereas
+ if you tell me i've got two hours every week day uh you know you'll have no trouble fitting that
+ in like yeah you'll be be consistent be on the conservative side when it comes to trying to
+ work out what you can do yeah for sure um is z2 watts target the same at the start versus at the
+ end of a z2 ride or decreasing oh you don't ever want to be decreasing power through a ride that
+ usually says that you started too hard or you're not eating or drinking enough. Uh, so yeah, I,
+ I, my usual guideline for this, and we haven't talked about how to pace the rides themselves
+ in terms of the long ones. So I figure most people are decent at this, but my actual advice I give to
+ my clients is let the Watts come to you. Don't go looking for the Watts. So like when I start my
+ rides, um, I'm usually at 50 Watts because my legs don't feel like they can turn any harder.
+ And if I tried to make them, I would actually be costing myself later on in the ride,
+ or usually for me, because I'm going to lift weights right afterwards. Um, it's going to cost
+ me when I go to lift weights and that's a problem. So let the Watts come to you, let your legs open
+ up at their own pace. And if it takes you forever to open up, then you're too tired to be out riding
+ and go home. Is there an approximate amount you should drop your, oh, geez, how do these
+ questions get clustered together? I did not actually rearrange these questions. These are
+ as they were asked in chronological order. Is there an approximate amount you should drop your
+ target zone two power for rides over two hours? No, just pace to feel. And if you're doing a super,
+ super long ride obviously you've got to have that consideration in your head um but it is actually
+ one of the ways to probably know whether you are getting the intensity right is that you come back
+ from a two-hour ride and you come back from a five-hour ride and you feel just as good after
+ both assuming that you are doing the five-hour rides regularly because the first time if you've
+ never done a five-hour ride before and you're doing two mostly and you go out and you do five
+ you're gonna be fucking tired at the end of that five-hour ride even if you pace it right
+ so if it's a regular thing if it's a regular thing yeah for sure and especially if you're
+ increasing the volume kind of linearly and progressively like an hour a week or something
+ like that that's a super easy way to pace it and as long as you're fueling right you're going to
+ be great so if you're yeah again if you're if your watts are dropping off bad but if you want
+ to like if you want to pr some watts you start easy you eat well and like and you push at the
+ end of the ride like worry does because he wants to get home to pee or something see my cats
+ and and see your cats um i also want to see your cats if they meow on microphone nobody's going to
+ be upset um one of them's right here but she is asleep and has been asleep the entire day
+ uh well hopefully our listeners are not asleep um we are pretty late to this podcast but we're
+ almost done so ad hoc uh ride more z2 as time permits within plan or stick to plan and it's
+ periodized volume. I see we're looking confused. So, um, okay. So the question, the question is,
+ can you, can you add more endurance riding kind of as you feel it, or should you stick to the
+ plans prescribed volume? Um, I tell all my clients, if you have more time to ride and you know, it's
+ not going to impact what you've got coming up in the week, then you can ride more. And especially
+ if you bring the right amount of fuel, uh, fuel for it, like food hydration, or you know how to
+ stop and, and like, you know, bring your, uh, bring your stores back up, um, and your pockets
+ and your bottles, then absolutely you can do that. But if you're having trouble stopping and refilling
+ water, I don't want you riding more. If you can't drink enough, I don't want you eating. I don't
+ want you riding more. If you can't eat enough on those rides, go home. But if you, if you've got
+ all supplies. Yeah, please do as long as, and especially if you know, it's not going to screw
+ up what we've got coming up in the week. Is it ever bad to do more 45 minutes Z one slash two
+ rides? Yes, it is actually. Um, especially if you do them on recovery days, if you are, if you're
+ doing like I've worry, I'll tell you who this is. Uh, after we're done recording, um, I've consulted
+ for a couple of people, one of them who are, and I both know where they would squeeze in an hour
+ ride at many, many, many points through the day every day. Oh, okay. Yeah. I figured I got an
+ hour. I can ride an hour zone too. Um, I would not recommend doing this because of two things.
+ First of all, like where we're saying in the pacing, a lot of the times, if you pace, um,
+ you can pace an hour ride way harder than you can do for like a five hour
+ ride.
+ And with an hour,
+ unless you're super dialed in your super experience,
+ you can easily overpace it,
+ which is going to add a lot of fatigue that you don't even know is there.
+ Yeah.
+ You'll,
+ you'll overdo it before you realize the RP is decoupled.
+ Yeah.
+ And,
+ and the person I'm thinking of who,
+ you know,
+ was doing this on recovery days too,
+ because he figured it wasn't that much of a,
+ it wasn't that bad,
+ but when you are doing that perpetually for months on end, it adds up. It really adds up
+ because you are basically not letting your body ever get a full day of recovery. Um, then you
+ pace it a little too hard and now you've got more fatigue and yada, yada. And it's, and he was just
+ kind of like, it wasn't getting worse, but he certainly wasn't getting better. Uh, and that's
+ the kind of danger that you face if you start to pepper these things in. So if, um, for the most
+ part like i would say if like you do like maybe an hour recovery ride in the morning or something
+ like that then you've got a if you got time for that then you've got time for like intervals in
+ the evening that's totally fine as long as you actually pace it right but keep your recovery
+ days your recovery so those are my big warnings with that i've got a question i've spotted yes
+ if you do high volume and if you do high volume amount of hours one season would it be possible
+ to keep the gains if you go back to a more normal amount the next one or it will let slowly die out
+ depends on what you mean by gains so for for some people and actually this depends on your
+ genetics genetic propensity to keep these adaptations around too and the depth and uh
+ and quality of your training history so if you are typically doing like 20 hour weeks or more
+ and you get to a really high level and then you like you know you put cycling on the back burner
+ and you have a family or whatever and it's just like you're not training as much odds are if
+ you're still training kind of hard you're probably going to keep your ftp around uh you might lose a
+ handful of watts or you might lose none uh your muscular endurance might stay as good as it was
+ but this is kind of a rarity it's more likely that you are probably going to lose some endurance
+ especially if your long rides go from like five six hours down to like two um and you'll probably
+ feel it especially after a couple years as as those kind of adaptations start to go away you'll
+ probably feel it in your longer road races or your longer rides whenever you go do them
+ um but it like i said it depends on your genetic propensity and the quality and depth of your
+ training something that's probably uh in terms of like how that sort of situation comes about a wee
+ bit more applicable to women as well especially if they get pregnant which is why like keeping
+ fitness while pregnant is actually quite difficult but it doesn't mean that women suddenly are
+ incapable of holding the highs they were previously at just because they had potentially nine months
+ of not being able to ride from you know the point where the pregnancy becomes too much into
+ you know child care continuing on for a year but then ellen van dyke came fourth fifth sixth
+ at paris roubaix and she just had a baby granted she's in the wonderful world of pro cycling where
+ she can do whatever she want but like that's a an extreme sort of example of where someone's
+ ability to ride and train consistently can be significantly impacted yeah and actually that's
+ part of fitness not necessarily yeah and that's part of a larger conversation on uh on that aspect
+ of uh of training and you know having children and stuff like that and uh and i actually do want
+ to have that on the podcast at some point but i want to have a real expert uh on to discuss that
+ kind of stuff um so uh so we're going to give that a pass for now but uh yeah it's definitely
+ on the list of things to consider because there's a there's a lot of individual variation on that
+ stuff too even so um okay we'll do like two more questions i think so we got a couple longer ones
+ some of these are a little big brainy uh but i think i want to tackle will i see any benefits
+ by doubling my volume from 15 hours a week to 30 hours a week for two weeks by mostly riding z2
+ we kind of just talked about this but i provided enough yeah yeah i would say yes but you've got
+ to make sure you recover enough and afterwards or even beforehand you do some training well
+ without overdoing it you still got to make sure you get all the right recovery but you might want
+ to do some training that where you are going to benefit from those extra hours so you might want
+ to either after you recover or before you do this try some vo2s and you might see some extra benefit
+ from the hours because that's what most people think about in terms of i'm going to do more
+ volume. So therefore I should get more FTP. And that happens sometimes, but you can't just be
+ riding endurance pace all the time and expect that your FTP to blow up for a handful of people.
+ That happens for most people that does not happen at all. So you've got to be careful about what
+ you're looking for in terms of your adaptation. I would say your endurance capacity is going to
+ skyrocket for sure. Um, especially after recover and that's, you're going to hang on to that for
+ a little while. But yeah. And also it's just fun to do that. Just if you haven't ever, if your
+ typical week is 15 hours a week, I would say your first week of big volume do like 20 to 25. And if
+ you handle that, okay, maybe do 30 the next week, but be very careful about it. What's a good rule
+ of thumb to, uh, for a zone split on low volume, 10 hours a week, one hour rides a week, max two
+ on weekend more sweet spot or threshold well so like i think this person is asking how should i
+ distribute my energy and my training volume for the time i've got to train because a lot of people
+ are thinking i've got 10 hours a week if i 80 20 this shit i'm not going to have that much
+ time like it's mostly going to be like just easy riding and i bet i can get more out of it and
+ you're right about that um so we did an episode about this a long time long long time ago like
+ maybe two or three years now where, um, I was saying, don't pre-plan your training distribution.
+ That is a post hoc analytic tool, not a, um, what's the other propter propter Hawk. Um,
+ no, not, I don't know. I don't speak Latin anymore. Nevermind. I'm trying to big brain Latin.
+ Um, just like, don't plan it out ahead of time, plan how many high quality interval days you can
+ get and then, you know, plan, plan around that mostly, and then just do kind of chill riding
+ other than that and figure out how many recovery rides you need or recovery days off the bike.
+ So, um, I hope that answers everybody's questions. Um, so do we have any, uh, kind of wrap up
+ thoughts on all this? And, um, uh, and I know we've kind of really hammered this one a long
+ time but um do we have any real real good take-home thoughts uh kind of like endurance training versus
+ intensity and volume and um or is distracted by a cattail in his face again i think it's feeding time
+ yeah as evidenced by her currently eating a sandwich bag for me too yeah so um yes my
+ recommendation is really, really focus on RPE, uh, focus on high quality interval days and not
+ carrying too much fatigue from your endurance riding and really watch that RPE in terms of,
+ uh, that decoupling point. Cause tracking that over time can actually be really hugely beneficial.
+ And so like, if you're at, you know, 150 Watts for your LT1 and you're like, I want to ride more
+ and then you recover more and then you find, Oh, now it's 170 Watts. That's awesome. You've got
+ progression um that's a probably going to be a good thing for you in the future so i'd say watch
+ for that and rory uh what do you got quick tips uh understand why your weekly volume is what it is
+ and understand what your weekly volume does and doesn't give you so manage manage you're off by
+ stress yeah there are advantages to being a low volume athlete there are also advantages to being
+ high volume athlete um and understanding why you fall in any particular camp is going to do a lot
+ more for how you assemble a training plan than looking at a bog standard training plan and trying
+ to make it fit you rather than um but trying to force yourself into it rather than uh making it
+ fit you yeah and not probably not only not only fit you in terms of your physiologic profile about
+ like you know how well you recover and um for he's trying to do this with a cattail on his face
+ um how will you recover and all that kind of stuff but um just like yeah you're off by stress
+ because you because you're when it all comes down to like the first thing that you should think
+ about when programming on bike versus off bike stress. And, um, yeah, so I think we should leave
+ it there because Roy is being very, very cat distracted right now. So thanks everybody for
+ listening again, please share the podcast if you want. And, um, uh, if you want to shoot us a
+ donation, cause we are ad free and we kind of live on your donations and, uh, and people signing up
+ for coaching and consultations. Uh, so donations can be at empirical cycling.com slash donate and
+ shoot me an email at empirical cycling at gmail.com. That's ridiculous. Um, and, uh, if you
+ want to reach out for coaching or consultations or anything like that, or if you just want to,
+ um, or if you want a picture of a cat, go find Rory's Instagram. I'll probably tag him on our
+ memes that I put up for this. Uh, if you want to ask a question for future episodes, go give me a
+ follow at empirical cycling, uh, on Instagram and, uh, check out the weekend AMAs up there.
+ if you want to get your question answered in extreme brief
+ rather than in a two-hour epic again.
+ So thanks, everybody, for listening.
+ We'll catch you next time.

@@ -1,0 +1,648 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson.
+ And thank you, everybody, for listening as always. And I want to ask you to subscribe to the podcast and share it with a friend.
+ That really helps us out. iTunes ratings of five stars also helps us out.
+ And also, we are ad-free, so you can donate to the show at empiricalcycling.com slash donate.
+ I have been flattered enough to have had advertising offers on the show, and they've all been turned down because your donations make this keep going.
+ Also, your coaching inquiries make us keep going, too, so you can send those in to empiricalcycling at gmail.com.
+ Also, with consultations, we can look at any questions you want to know about your training or physiology or whatever.
+ So shoot me an email there. If you have questions or comments about the shows, also contact me there and also on Instagram at empiricalcycling.
+ My DMs are open. I don't check them that often as I should, but they will be checked, especially on the weekends when I'm doing the weekend AMAs.
+ And we had some really fun ones this weekend, and a lot of people said thanks.
+ And these are great.
+ And I appreciate that, and we'll keep going with those.
+ Kyle, also, I thanked everybody last time for the donations that they gave us over the last month and a bit.
+ How flattering was it for you for those donations to come in?
+ Oh, that was outrageous. Yeah, I felt – I was shocked, genuinely shocked and super thankful.
+ You know, it's cool.
+ I think it's just another way that I think people –
+ It can show that we actually have some sort of impact or meaning, which is kind of fun.
+ Yeah, it is fun. And I got to get a new inline compressor for the microphone, so my audio quality is hopefully better than ever.
+ And next couple big ones come in, I'll get one for Kyle, too. Why not?
+ So let's move on to our main topic, which – thank you for clicking our clickbaity title, The Fat Max Fallacy.
+ So let's get to why I called it.
+ So in the last Wattstock episode, we saw that keto itself does not improve performance, despite that the studies that we looked at, and many, many more, all show that the markers or some markers of adaptation show improvement, but the actual performance did not show improvement.
+ So the reasoning is understandable, I think, and correct, which is that carbohydrates are in short supply, and the limiting aspect of endurance and most sport performance is endurance.
+ Indeed, availability of carbohydrates among muscle power and oxidation power, like the usual list of stuff.
+ So in theory, if we could get better at using fats overall, while still having the ability to use carbohydrates at times of high demand, then we could have better endurance and race performances.
+ And all these adaptations would make it worthwhile.
+ Well, it's like Andy Coggan has said for years, like the best predictor of performance is performance itself.
+ Because I think at some level, when I talk about kind of digging down into –
+ The adaptations that you want, a lot of times, we can actually – this is one of the pitfalls of good science, actually, is reductionism, right?
+ So we want to really, really focus in on a very narrow thing.
+ So like Kyle, for you in physics, I'm sure there are some things where you go, oh, this is a thing that we find interesting, and if we do X, Y, Z, we'll find this.
+ But also, it may or may not include extra layers of things in between.
+ What you're studying and the ultimate end goal, right?
+ Yeah, definitely.
+ I mean, I think this actually – you run into this actually being a problem where, say, you have some very rare phenomenon that you want to try to measure.
+ And that maybe you actually don't know how to measure that phenomenon, so you have to indirectly measure it.
+ So you have to develop some metric or some proxy that you think gives maps well onto the thing that you actually want to measure.
+ Right.
+ If it's too hard or too complicated or impossible.
+ But then you may find later that the assumptions that you made to make that mapping from this proxy that you could measure to the thing you actually care about doesn't hold up or some assumption that you made is not exactly true.
+ So you may have some huge systematic error in the measurement that you made, and this has happened more than one time over years in different fields.
+ And I think for reasons that are understandable, it happens a lot.
+ It happens a lot in particle physics and in cosmology, which is my field, because it turns out some of those things are really hard to measure, whereas like a lot – not to bag on condensed matter physics, but if your experiment completely fits inside of a regular size high school gymnasium, like you have a lot more control over that experiment versus if your experiment is, I don't know, the LHC or building telescopes and instrumentation to measure things that are really, really far away.
+ Like you sometimes have to get really creative.
+ But you have to actually not measure the thing that you really wish you could measure.
+ And so you can – you could in theory develop a whole field based around doing this measurement that you find out later doesn't actually mean anything or doesn't mean what you thought it did.
+ To be fair, with biology and a lot of – especially any experiment that involves things that are alive and that you can't like immediately, I don't know, perform an autopsy on to like exactly confirm, like that's just super hard.
+ Like no one is going to sign up for extremely invasive studies if it requires like massive surgery afterward or something to figure out whether their assumptions were correct or not.
+ Like, oh, you want to come in here and then run on a treadmill or whatever and wear this funny mask?
+ Fine, but you're not going to like take a chunk of my leg muscle or something, even though a biopsy is not like a huge chunk.
+ It's still like – that's even enough to deter people, let alone anything more invasive.
+ Yeah.
+ And I think also it gets to kind of what we're getting at here is like when a lot of studies look at markers of, you know, like PPAR or PGC1-alpha or, you know, the COX kind of stuff or, you know, even CPT expression and things like that or mRNAs, they're looking at markers that we associate with good performance because, you know, high performance have a lot of X, Y, or Z.
+ And therefore, if we see an upregulation of this, that, or the other thing, that's something that may – and a lot of the language in these papers that I've been reading are very equivocal and for good reason because they may associate with X, Y, Z.
+ And so we're going to take a good look at a couple papers today, and the first one is the original Fat Max paper.
+ So this is the one by Oskar Jukendrup and Jule Achten, which I'm hoping I am butchering.
+ I don't know if I read those correctly.
+ So they coined the term Fat Max that I'm aware of.
+ This is originally published in 2001.
+ So what is it?
+ It's the intensity where, quote, unquote, fat oxidation is maximal.
+ So it's pretty simple.
+ In the paper, they look at fat oxidation in grams per minute, which is an interesting way to look at it, I think, because it's where the work rate is high enough to require energy but not quite.
+ It's not quite high enough that we're getting the fat transport inhibited.
+ So this paper, the original Fat Max paper, looks at theoretical uses.
+ It's LinkedIn that's shown us, by the way.
+ So it looks at theoretical uses of knowing the exercise intensity at which fat is maximally burned.
+ And this is a good paper showing good equivocal language in a scientific paper.
+ It says it may be useful for improving diabetes.
+ Training at Fat Max could, and I'm quoting here, could at least theoretically.
+ Result in optimal adaptations in these pathways.
+ These, quote, unquote, referring to fat transport and metabolism pathways.
+ And also training at Fat Max might increase weight loss.
+ So for 2001, I think it's a really good paper.
+ And this is good language.
+ Yeah, I think that's interesting because a lot of times now people immediately want to take away of like, oh, this paper says that X, Y.
+ And Z training will make me better.
+ And to approach it entirely from this theoretical, oh, this, we have coined or identified this particular regime.
+ And here, now that we have like a name for it, it's easier to talk about what are the good things that might exist, right?
+ Because that's how you can kind of tell it was a brand new thing.
+ Because they didn't have a backlog of.
+ 50 years to say, oh, we've been looking at Fat Max for 50 years.
+ And this is what it looks like.
+ This was a new idea.
+ And so this language does remind me of in physics or something.
+ If you see a paper that comes out, oh, we made this measurement and we don't have enough statistics on it to say that we definitely discovered something.
+ But this could hint at this new physics or this might be an indication that X, Y, and Z, you know, is, is or is not a correct assumption based on ABC.
+ For example.
+ Yeah.
+ And I think, I think this gets to a translation issue between scientific literature and the general public.
+ Because a lot of the times when people latch onto a certain thing in, in science and translate it into such a thing as we can, you know, bring it to the general public.
+ Like in WKO5, like I, I, I, I feel.
+ Like I was instrumental because I asked, I asked one of my friends to program this for me.
+ And we worked on it together in bringing the force velocity curve into, into something easily accessible for people with just your regular aggregated data.
+ And, you know, the question is like, how do you use this kind of stuff?
+ And it's a question that is, it's a good question.
+ Like if you know your optimal arbitrage.
+ RPM, the, the cadence at which you make the most power.
+ How do you use that in a race?
+ The question, I mean, you kind of can't unless you're on a track and you're just, you know, kind of the speed that you're going to achieve and you can gear up and down for it.
+ But if you're on the road, if you're in a crit, like nobody's looking around going, Hey, hold on.
+ Let me, what cadence am I at?
+ Don't hold on.
+ Don't sprint yet.
+ Yeah.
+ And so when it comes to things like fat max, um, I think, uh, I think a lot of people don't realize why they're riding a fat max or why they're trying to find it, what they think is necessary about it.
+ So, um, so before we get into that for a second, let's actually talk about where we find fat max.
+ Um, because when we look at a lot of the papers, it shows a pretty good arc.
+ Uh, like a, a hyper, is it a hyperbola or a parabola?
+ I'm going to call it a hyperbola for now.
+ Um, and it's, it's an idealized hyperbola and the X axis is pretty short compared to, uh, what you might see in an actual, um, actual test with gas exchange and, uh, whatnot.
+ Um, and, uh, it looks like it has a certain peak and it should be pretty easily identifiable.
+ Like, okay, here's our fat max.
+ And we go a little to each side.
+ And we're going to lose about 0.1, 0.2 grams a minute or something like that.
+ But in reality, um, one of the, some of the data I have for one of my, uh, pro athletes, um, his threshold is about 400 Watts and his fat max range.
+ Um, the, where he's burning the most grams per minute of fat is between 180 and 300 Watts.
+ So we have a 120 range and, um, this, this is going to be.
+ This is going to come into play a little bit later.
+ Uh, but I think it's really interesting that a lot of people think that fat max might be, well, we're talking about what is fat max, you know, I think it's interesting that it's, uh, in reality, it's not a, you know, very small range.
+ It's actually pretty large.
+ Yeah.
+ I mean, that reminds me a little bit of the, what is VO two max power and you're like, surprise, it's not, it's not a specific power, but yeah.
+ And so for this, in this.
+ Individual, if you were like, oh, go do a ride at fat max, there would be a follow-up question of where, you know, like I know before we, we said prescribing too precise of a, of a power target for a workout is, is not ideal, but this seems like too large of a range.
+ Yeah.
+ What are the fat max fallacies?
+ Uh, let's get into this.
+ So I have two here.
+ One, the first one we're going to go into quite deeply.
+ The second one is actually fairly simple to answer.
+ And we're, and it actually hints.
+ At a lot more episodes that we're going to get into a lot of stuff we're going to get into in the future.
+ So the first one here, riding at maximal fat utilization rates will not in and of itself, get you better at burning more fat beyond what you normally would get from just riding at endurance pace.
+ The second one is that burning more fat does not mean you're losing more weight.
+ And so let's, okay, let's get into the first one.
+ So.
+ When we think about aerobic adaptation, usually when we think about aerobic adaptation, we think increased VO two max increased fat reliance and carbohydrate sparing, um, you know, the typical range of things.
+ So I spent a very long time.
+ I think Kyle, I told you I had read about, uh, like a hundred odd pages of research papers.
+ Yeah.
+ Um, total is now, uh, into the mid 200 page range, um, for this episode of reading, because I wanted to make absolutely sure that I could say that statement.
+ So I spent a very long time.
+ I think Kyle, I told you I had read about, uh, increased VO two max increased fat reliance and carbohydrate sparing, um, you know, the typical range of things.
+ So I spent a very long time.
+ I think Kyle, I told you I had read about, uh, increased VO two max increased fat reliance and carbohydrate sparing, um, you know, the typical range of things.
+ So I spent a very long time.
+ While knowing all of the asterisks that exist.
+ And there are a couple small ones that we're going to talk about in future episodes.
+ But for now, um, the idea is that just riding at maximal fat utilization is not going to get you extra aerobic adaptation.
+ So let's get into this.
+ Yeah.
+ Okay.
+ So there's nothing special basically, right?
+ Like there's nothing necessarily special.
+ As, as far as training goes for riding at maximal fat utilization.
+ Well, I think one of the interesting things here that we're also going to talk about is that this kind of shows that there's no such thing as exercise in a pill.
+ Cause I think Kyle, you would type this in one of our shared notes, things about, you know, the exercise in a pill thing or, uh, whatever that was.
+ And, um, there are such things out there like, uh, I don't know how to pronounce it.
+ I car AICAR, um, which is an A.
+ AMP memetic. And it actually doesn't do anything because no matter how many mitochondria you have
+ in response to taking this and having increased AMPK activation and yada yada,
+ you're not actually going to be spending any kilojoules and spending energy is sort of the
+ essence of exercise. I don't know if I'm crazy here. I don't know. Kyle, what do you think?
+ Yeah, I think another maybe more straightforward example would be like, why can't I just
+ drink a bunch of caffeine, drive my heart rate and blood pressure up and get VO2 max adaptations,
+ like sitting on my couch, sweating and like having the caffeine shakes? Like, well,
+ it turns out even though doing VO2 max efforts, like you get higher blood pressure and you get
+ higher, you know, stroke rate, stroke volume, like,
+ you don't you miss out on a huge component if you're just drinking a lot of caffeine and sitting
+ on your couch. Yeah, well, it's so like, like I car a car, I don't know. It actually, so like I
+ said, it activates AMPK. And it, you know, turns on that signaling pathway. But this means that the
+ anabolic signals that you have at rest turn catabolic. So the anabolic meaning muscle
+ building, or not muscle building, just like the building anything in general,
+ like restoring glycogen, and blah, blah, blah, it turns them off. Because you're going, you're
+ telling your cells like, oh, hey, we are using energy, we need to fix this. And so the cell
+ shifts priority, as it should, because evolution is pretty smart, I think. No, okay. So this
+ actually reminds me of a lot of people ask me in jest, but some of them occasionally, it's serious.
+ And, you know, don't make fun of these folks, because I thought the same thing. But, you know,
+ it's true, it's true, it's true, it's true, it's true, it's true, it's true. It's true, it's true, it's true.
+ It's that when people say, oh, my heart rate, like this morning was the last F1 race of the season,
+ my heart rate got up to max, like, how many TSS do I get? The answer is zero, because
+ your, I tell them my, my canned line is, you get zero because your cadence was zero.
+ But there's something really important in there, which is that cadence is something called muscle
+ contractions. Okay, so let's get to muscle contractions. So we need to talk about order
+ of operations. Again, this is going to be a lot like the VLA max discussion where energy gets
+ utilized, and then metabolism fills in based on the rate of demand and other factors until
+ homeostasis is again reached, should it be reached when you stop contracting your muscles,
+ you would stop running away from that lion, and it's time to sit down and have some potatoes again.
+ So,
+ because
+ this is what stock, let's get more technical. So nerve impulse comes in, the sarcoplasmic
+ reticulum releases calcium, which binds troponin and moves tropomyosin out of the way of the
+ actin filaments. And so myosin combined, and the action of the myosin head, contracting the muscle
+ and, you know, pulling the two sides of the sarcomeres together, this consumes ATP. Notice
+ there's no fat in here either, the same way there was no carbohydrates like in VLA max,
+ right?
+ So we might consider an analogy of metabolism, and I'm going to stretch this a little too far. I
+ apologize ahead of time. It's like two bucket brigades. So your carbohydrate brigade has a
+ smaller pond to pull from, and it can go really fast, but a little too fast, and you can get
+ pretty tired pretty quick, right? But the fat brigade gets to draw on the world's biggest lake
+ and does not fatigue, but the buckets come in very slowly.
+ And so consuming ATP is like a fire in that it's releasing energy, and the bucket brigade's job
+ is to resupply ATP, which I guess keeps the fire going in this analogy. So I told you it would go a
+ little too far. So anyway, the muscle only cares that it's not inhibited in its contraction. And
+ if it's not, when it gets the signal, it's going to contract. I think that's a pretty important
+ distinction, the same way we had to make it with the VLA max, right? Yeah. Yeah. I mean, I think,
+ and we talked about this before, right? Like when you're actually looking at the
+ muscles contracting and using ATP, at some level, they don't, yeah, they don't care where the ATP
+ came from. And you can even go up before that when you talk about like the Krebs cycle, you know,
+ the, your body doesn't, hasn't like specially marked some of those, you know, NADs or whatever
+ is being, oh, this one's from, you know, this pyruvate is actually from fat oxidation,
+ or glycogen. And you can't tell once it's been broken down far enough, right? Like they're not
+ special some way. Like these are the special fat ones and these are the special sugar ones over
+ here. Yeah. What's important is the rate. And if the rate is high, then your body has to supply it
+ with the faster metabolic pathway. And if the rate is low, then your body can supply it with
+ the slower metabolic pathway. And you can improve indeed those fat metabolic pathways,
+ the fat burning ones that save your high energy carbohydrate stuff. This is all, you know,
+ uh, coaching and bioenergetics and sport performance one-on-one. So let's dig deeper
+ now. Uh, so muscle contractions are like, we just, we just went over them. They're critical for us to
+ understand because the muscle already understands this kind of stuff. Like we are, we don't want to
+ impose our will on the muscle because the muscle is going to prove us wrong every time. Just like
+ when we're doing experiments and we think we're measuring a thing and we're not, then, you know,
+ comes out in the end. Um, so substrate availability on its own, and even with most training, like see
+ the last episode on keto diets, uh, these can change various markers for utilization and
+ substrate use, but I've never found a case where you get faster by just that alone, right? You need
+ to do the training and what counts as training is muscle contractions. So this is a very, um,
+ you know, sorry. So I feel like I'm talking to kindergartners, but, um, I think it's, this is
+ really crucial to understand. And so we're, you know, this is like saying one plus one equals two,
+ but we're going to make it philosophical. So how does the muscle doing the sport helps you get
+ better? So how does the muscle know the difference between we are exercising and we need to use more
+ fat, right? So to detect endurance exercise muscles look for many signals, but right now we're only
+ going to look at two because these are, um, these are the most common ones. And there were two of
+ the oldest signals that we know of for aerobic improvements. Uh, and these are elevated calcium
+ levels in the cell and AMPK activation, right? So I know it might be simple and it sounds very simple,
+ but a huge amount of things,
+ but it's in a muscle cell detects elevated levels of calcium. And that can lead to aerobic adaptation
+ via PGC one alpha and mitochondrial biogenesis and the whole shebang. Like if you just go under,
+ go into pub med and look up calcium signaling and mitochondria or something like that,
+ and you're going to go, wow, this is a lot of papers, but yeah, it is. Yeah. Everybody's
+ going to have things in a muscle cell elevated over normal levels because obviously we always
+ are going to have some. So if you, um, so if you take a slice of muscle and you put it in a solution
+ equivalent to normal resting calcium concentration, nothing's going to happen. Right. And if you make
+ the concentration pretty high, as if your sarcoplasmic reticulum has gotten the signal
+ and has spilled out as calcium, the muscle is going to contract, right? And then the muscle
+ is going to stay contracted until it either, or it's going to contract. And then the muscle is
+ either runs out of ATP and then everything kind of relaxes like rigor mortis, or you dilute the
+ solution and then the muscle can relax. But if you give it just enough calcium to avoid contraction
+ above your baseline levels, but not high enough to make it contract, you actually end up with
+ mitochondrial biogenesis. So this is one of the things that we saw in Wattstock number 28, by the
+ way.
+ Now, this, this looked at, uh, high intensity interval training caused a fragmentation of
+ rianodine receptors. And this led to sarcoplasmic reticulum leak of calcium into the cells. And this
+ led to a good amount of, uh, muscular aerobic adaptations that actually were indeed visible in
+ performance. Right. Yeah. So I think that is, uh, a pretty good example of this
+ signaling pathway at work. So AMPK is the other one, and we're going to have to go into AMPK probably
+ several more times over the life of this podcast. Um, and probably the entire life of science. Um,
+ it's a really important signaling molecule. And, um, this is the one that we mentioned in relation
+ to ICAR, the exercise in a pill, which actually has the cute little name, exercise memetics.
+ We're going to mime exercise. We're not going to do exercise. We're just going to mime it. Um, so
+ AMPK is one of the,
+ uh, the energy sensing signal pathways. So during exercise, AMP levels rise due to muscle
+ contractions, which means AMPK gets more and more activated and starts to shut down the ATP consuming
+ rest and digest, uh, anabolic pathways in order to activate carbohydrate and fat utilization
+ pathways, our catabolic pathways. And this was discussed in Wattstock number 33. So, um, so ICAR
+ chemically being similar to AMP and blah, blah, blah, the whole thing. And just this,
+ just this little bit of AMPK directly phosphorylating PGC1 alpha is one of the many,
+ many, many, many ways that all of the transcription factors, stabilizing things, and mRNAs, and like
+ the whole way down. It's very complicated to look at, and people are still looking at it and
+ discovering things in this. And so I think this kind of gets to a question that a lot of people
+ have right now is, so how do we connect the science to the performance? Based on currently
+ available evidence that I've read, which I guarantee is not comprehensive, because there
+ are thousands of pages about this stuff, and I've only got so much time. There's nothing in the
+ whole body or muscular specific aerobic adaptation.
+ Where burning more fats is better or worse, or burning more carbs is better or worse in and of
+ itself. So if you change what you can burn based on, let's say, diet, this can improve some markers,
+ but it does not necessarily improve performance. That makes sense. Kind of like we said before,
+ like your body, your body cares, but it also doesn't care.
+ Well, yeah, that's true.
+ Say with diet manipulation, right? Like your body's going to be like, well, this is what I have
+ available, and this is what we have to do. So I'm going to make this work so we don't die
+ effectively, right? Like if your body was completely rigid and refused to be able to
+ switch fuel sources in a hypothetical situation where you are some sort of prehistoric human,
+ and it is a bad season, and you didn't, I don't know,
+ harvest enough, and you also can't, and so you don't have enough carbs because you haven't found
+ enough fruits or whatever, and you only ate meat or something like that, you would die because your
+ body wouldn't be able to adapt. And so it would be nice if it was always a one-to-one, especially
+ for science, right? It would be great if you could always measure some marker, and then that
+ definitely only had one conclusion that you could reach from making some measurement. Science would
+ be a lot easier.
+ Yeah.
+ Well, I remember there was, there were a couple of papers that Keith Barr wrote way back in the
+ day, and he was instrumental in uncovering mTOR and PGC1-alpha and their relationship with
+ everything. And, you know, obviously a lot of other scientists too, but he's the one who's on
+ all the podcasts and written the articles and all that kind of stuff. So I think about him. Sorry
+ for anybody I'm sliding here accidentally. You know, one of his papers had an R-squared value
+ of 0.99 with...
+ 0.99 with like some certain, you know, like it was like exercise duration or something like that,
+ and expression of, you know, PGC1-alpha or mTOR or something like that. It was one of those things
+ where you look at it, and in normal science, you think, "I definitely asked the wrong question. I'm
+ measuring the wrong things. There's no way this actually works like this."
+ Right. Yeah.
+ And it was one of those rare instances where, you know, it was kind of like finding a point mutation
+ for a disease like...
+ like sickle cell. A sickle cell is a point mutation, and it was found really fast and really
+ early. And from then on, you know, genetic basis in disease has been extremely complicated. Like,
+ all the easy stuff got found out pretty quick. Like, we found out 1+1=2 and 2+2=4 pretty quick,
+ and now there's like, you know, very esoteric branches of math.
+ Yeah. I mean, that happens in every field, right? That's definitely been the case.
+ It's definitely been the case for modern physics. People talk about, "Oh, all these developments that we've made, say, in quantum mechanics and
+ relativity and all this stuff from the early part of the 1900s all the way to today." But all of that...
+ the heyday of particle physics was them discovering things that were much easier, and that's why it took however long to find the Higgs boson, right?
+ Because all the other easier-to-find, easier-to-measure particles were already measured first.
+ And I think what we're kind of getting at here is that... well, let's also not forget that a lot of people got very fast doing a lot of long endurance rides while eating carbohydrates.
+ It's understandable. If you are a professional on the cutting edge of competition and you need an edge, you're going to leave no stone unturned in your pursuit of an Olympic medal or a world title or something like that, and so you're going to try all these things, and naturally, some of those are going to
+ filter into the popular level topics and articles, and messing around with diet has certainly been a popular one the last many years.
+ Yeah, and diet manipulations can certainly have impacts like measurable performance impacts on aerobic adaptations, but it's not necessarily the way that you think it happens. It happens from other things, and you still need to do the training.
+ Hamilton's book, what was it? Secret Race. He talked about, you could take all the drugs in
+ the world, but you still had to go out and ride. Like that was, that was very much impressed upon
+ the reader about like what happens when you dope is you still have to go train. You know what I
+ mean? And so you can do all these diet manipulations and whatever, but you still have to exercise.
+ And so I think, I think kind of, again, like we touched on this earlier, but I've, I've written
+ a couple of points down here that we should think about, um, when it comes to connecting
+ the science with actual training and performance improvements, like measurable in all dimensions.
+ So, yeah, I think it makes sense. Like it's not, um, all these measurements, especially on their
+ own are all a relatively incomplete picture. If you're just looking at one thing versus looking
+ at this rather complex system as a whole. Uh, it would be nice if, if,
+ if, uh, if all of these markers or individual measurements you made only had one implication,
+ but unfortunately, especially as systems get more complex. And as we said, the human body
+ is extremely complex and well-regulated for a lot of these things. There are multiple implications
+ that could be true and also could be not true given the same measurement. Like you could make
+ one measurement and then go back later and come to a conclusion and then realize, Oh no, there's
+ actually a few measurements that are not true. And then you can go back later and come to a
+ conclusion and then realize, Oh no, there's actually a few measurements that are not true.
+ And then you can go back later and come to a conclusion and then realize, Oh no, there's actually a
+ few options. And you had to do four more measurements to figure out which one of those
+ options is actually correct. Yeah. Yeah. I mean, and that's why I kind of like, um,
+ Louise Burke studies of race walkers is that they measured actual race performance in people
+ as opposed to, um, you know, as opposed to just measuring certain markers and calling it a day.
+ You know, I've really liked that. She took it to that next level of actual performance. And
+ I like a lot of studies where they look at time trial performance, or they look at, um,
+ you know, sprint performance or, uh, one of the studies from our early, uh, early in the podcast
+ where we looked at, uh, you know, keto adapted diets and they had people ride for like two,
+ three, four hours or something like that. And they had them do like one in four minute,
+ like maximal efforts during that thing to kind of simulate like a race day. And I thought that
+ that was a really interesting and fascinating protocol. And that's, I really liked that kind
+ of stuff. Yeah. And you have to imagine too, in order for our research team to
+ come up with those measurements, they must be a slightly more connected with actual sports
+ performance and not just be more on the, the laboratory measurement side, because there are
+ lots of ways where you maybe for some other more pure research based endeavor, you could want to
+ do a study say about keto or diet manipulation or whatever, and want to measure these markers
+ and then move on. And if that was not done at all with a
+ performance goal, if it was just on, Oh, what happens to the body when you do X, Y, and Z? Oh,
+ this happens. Okay. You know, that in of itself is, is a finished result for some people in some
+ fields, right? Like they're not, they're not going to, they're like, okay, great. Yeah. That's what
+ we wanted. But then to, you know, you're basically misapplying the science. If you take that and then
+ immediately jump to, Oh, this must mean X, Y, and Z for, for sports. Yeah. And actually when it does
+ work like that, I mean, it's fascinating and it's really useful and it's like, whew, dodged a bullet.
+ It could have been a lot more complex. Yeah. Okay. So I think this brings us to one of the last
+ points that I wanted to make right now, which is that, um, you know, when it comes to using
+ a substrate, um, you know, this is kind of one of those happenstances where, you know, at first
+ glance, it can actually seem very promising where, okay, you're using more fat, you're using more
+ so therefore wouldn't the body want to get better at, uh, the things that allow us to utilize this
+ kind of stuff. And actually that's exactly what we see when we do diet manipulation and kind of
+ stuff like that. So when we do diet manipulation, like we've seen with keto, it does not actually
+ lead to performance enhancement, despite the fact that it does lead to markers of enhanced fat
+ transport and, um, enzymes and stuff like that. So, so there's a very important distinction here
+ because if we were going to use a substrate, we're going to have to use a substrate that's
+ actually really see, um, just burning more fats in and of itself, we would see keto be extremely
+ effective at enhancing endurance performance, but that's not what we see. And so what I, what this
+ really makes me think of is the fact that the body is actually reticent to add more actual performance
+ enhancements than it actually has to. So if you are burning more fats, like on a ride, uh, through
+ power or diet or any kind of thing that does not necessarily mean your body's going to go, oh, we
+ need to make all these aerobic enhancements. Like, you know, if you're eating a lot of fats, your
+ body's going to increase the amount of fat transport it can, um, it can have, but that
+ doesn't necessarily mean that it's going to improve performance. And that's why we paralleled
+ with, uh, quote unquote exercise memetics, which are there to kind of stimulate some signal chains
+ to yield some adaptation, but does it yield all the adaptations that we want? No, the fact is
+ pretty much that it doesn't. And so let's say we have a certain manipulation where we can ride for
+ two hours and four hours. And for both durations, we can actually burn the exact same amount of
+ fats in grams. The longer ride is going to yield more adaptation in my opinion. Um, and according
+ to the research I've done, so I can, I'm ready to be wrong on this, but it's going to take a little
+ bit of time to prove it if it's, if it's a thing, um, you know, and I'm talking performance
+ enhancements. So if, um, if we do the two hour ride and we burn less fat, it's only two hours
+ of calcium signaling of AMPK activation and yada, yada, yada. And so therefore it's actually not
+ going to yield the whole systemic adaptation that we want. And so I, I think that is a pretty
+ important distinction here, but really what we want is like blood volume. We want capillary density.
+ We'll want all kinds of things. And when we actually, when we actually, when we actually
+ ride, we develop the whole range of adaptations. That is why even before we had all of these
+ studies, people knew that some sort of progressive overload was important. Yeah. Because if you could
+ get super strong just by doing two by 20 at 200 Watts for the rest of your life, that would be
+ awesome. Yeah. Well, I mean, uh, Tim Cusick talks about this in the WKO webinars all the time,
+ which is the said principle, the specific adaptation to imposed demand. And it's,
+ it's a really good way to look at it because I've thought long and hard about how do I apply this
+ to something? Like what are the training implications of knowing these facts and to
+ proportionally to the amount of stuff I know, to the amount of stuff that I can successfully apply
+ to improve performance is it's, it's disproportionate to say the least. Yeah. It's not,
+ it's not the ratio you would like it to be. No. And it's, well, I mean, that's why there's not
+ more podcasts. I mean, there's not more podcasts. I mean, there's not more podcasts. I mean,
+ it's because I'm like, like, if we actually want to help people improve their performance and show
+ how I help people improve their performance based on what I know, um, you know, it's not like every
+ paper you read is a home run in terms of, Oh, now I do these intervals this way. It's, it's a very,
+ very, very long process, unfortunately. And that makes sense. Like that kind of goes hand in hand
+ with the fact that not every idea or every measurement someone has ever made in
+ science has, has resulted in a Nobel prize, right? Like not everything is going to be
+ super cool. Like, like I said before, some of these things might be just doing measurements
+ to sort of round out or complete some set of measurements, or you, you perform an experiment
+ and do some measurements. And that brings in line with the other state of the field or the sort of
+ expected results or expected style of paper or style of study that is common for X, Y, or Z fields.
+ And that may not immediately result in a awesome, like an amazing new interval style or whatever,
+ whatever you would want it to be. Um, yeah. So, yeah. All right. So I think, um, let's,
+ let's kind of, um, move on to the next fat max fallacy before we totally, uh, beat this one to
+ death. Uh, and then we can beat it to death a little more when we're wrapping up. Um, so,
+ you know, we still haven't touched on will riding at fat max help you lose more weight,
+ right now, is this too good to be true? Is this normal? Is like, how, how are we getting,
+ how would we get such a thing? Because don't forget that we can not exercise and still lose
+ weight. Right. So yeah. Let's talk to uncle thermodynamics,
+ for a second. That's my name for you right now, Kyle. It's uncle thermodynamics. Um, so Lisa
+ in this house, we obey the laws of thermodynamics. Um, so let's talk about the mass energy
+ relationship because I think a lot of people think that in order to lose weight, you need to ride
+ in such a way to burn a lot of fat. But when you look at people who do high intensity interval
+ training, they can lose weight too. When you look at people who are sedentary, they can lose weight
+ too. They're not riding at fat max while they're sitting on a couch, eating less Twinkies than they
+ otherwise need to maintain their body weight. So how does this work?
+ Well, the secret here is fortunately or unfortunately, it's pretty simple. It's that
+ to first order, if you expend more calories than you are intaking, you tend to lose weight. Now,
+ this is a basic, uh, you can call it an extension of the first law of thermodynamics kind of,
+ because, you know, it says energy is neither created nor destroyed. You can just turn it
+ into different types, but basically it's just a matter of the first order. It is a matter of,
+ uh, basic balancing of what you're actually, body's actually burning and how much food or
+ how many calories you have available at any one time. And to first order, your body's actually
+ is fairly ignorant about what kind of calories those are. If they're all strictly following a
+ keto diet or not, like your body isn't aware of that. Yeah, definitely. And so that's why you can
+ do, you can, a lot of, a lot of more modern diets that aren't, that are actually trying to be
+ founded in science typically start off with a, with a rough calculation of how many calories it takes
+ every day for you to maintain your weight, given your current weight. And then they say,
+ okay, so first order is eat like 500 ish calories fewer than that number. And because that number
+ that they initially give you based on your body weight may or may not be exactly accurate, given
+ your age and how much muscle mass you have, blah, blah, blah. Then they adjust that later on. It's
+ and, and it doesn't care whether you are actively exercising a lot or not. Like you can just follow
+ the plan and adjust.
+ Yeah. Well, I think it's difficult for a lot of people to figure out how many, uh, calories they're
+ actually using. And actually the hardest thing is people have a hard time figuring out how many
+ calories they're actually consuming because proportion size, did you know a tablespoon of
+ peanut butter is actually pretty small? Like it's not the whole jar.
+ Oh yeah. Yeah. Yeah. It's weird. Yeah. I mean, you'd think, you'd think they would have,
+ like, uh, you know, someone would advertise this by now. Oh, that. And I also think that
+ if you are a, like you can read the back of the labels. And even if you are someone who knows like,
+ Oh, about how much a tablespoon is the vast majority of people aren't out there weighing
+ all their food, which is like, if you're a, if you're a Mr. Olympia bodybuilding competition
+ and you are having to get just like ridiculously shredded,
+ that's what all of those people have to do. They literally have a food scale and they're weighing
+ out all their food and because they do have to be so precise and it does matter. But for the vast
+ majority of people, they don't have to be precise down to the hundred calories a day or something
+ to hit their goal. Um, and it's just tedious, right? Like no one, no one wants, you don't
+ really want to say, I don't say no one, some people do want to weigh their food, but yeah, it,
+ it can be hard because you aren't,
+ it's your first thought when you're like, Oh, I'm going to make a peanut butter and jelly sandwich.
+ Oh, got to get out the food scale and weigh how much peanut butter I put on it.
+ I've done it. It is a giant pain in the ass to like be on a diet and weighing your food.
+ But like once you get used to the proportion sizes and you're like, Oh, I actually only need
+ about this small ish handful of whatever to have my carbohydrate needs for the next four or five
+ hours. Um, first it's depressing. And second, you know, you go through the day, you're like,
+ hey, and you're like, I'm not hungry, but I'm still losing weight because you're in a deficit.
+ And that's, I think one of the most important things here is that it's important to note that
+ the, well, cause this is Wattstock, right? So let's really dig into this. So it's important
+ to note that the energy we expend is stored in chemical bonds. And we've actually spent the last
+ few episodes going into this in very great detail, right? So carbs and protein have about
+ four K-cal per gram. That's K-cal of energy, energy available to do,
+ work, even though technically we lose a whole bunch of it to heat, whatever. So fat has more
+ about nine K-cal per gram. So remember in previous episodes, we discussed this as being energy
+ density. So when we store fat, we're storing energy, which is a dense and efficient way to
+ store it. Otherwise we would have to have more than twice as much volume in carbohydrates.
+ And so carbohydrates and protein could be converted to fats,
+ to store energy, right? So fat and protein can also be turned back into carbohydrates by the
+ liver, which is why someone eating zero carbs can actually maintain a blood glucose concentration
+ in the normal level. So the body knows how to convert substances between each other to make
+ use of its appropriate energy needs, right? So here's the thing, empty fat cells are hungry
+ and they will take up whatever substances they need to make themselves.
+ Whole. They can take up glucose. They can take up fats. They can take up proteins.
+ So the math, if we want to do the math works out to something like this. If you ride for five hours,
+ you'll burn about, uh, if you're riding at one gram of fat burn per minute, which is high,
+ but that's, uh, that was my pro athlete example here. He can burn maximally about one gram a
+ minute. So if he rides for five hours, he's going to burn about 300 grams of fat or
+ about 0.6 pounds, which is 2,700 calories worth. So does this mean if you don't eat 300 grams of fat
+ that you're going to keep that fat off? No, obviously. Well, it might be obvious. It may
+ not. So if this is new to you, that's cool. Um, at some point it's new to all of us. So,
+ so really you would actually need to go without all 2,700 calories,
+ not just in terms of, you know, fat, but calories just in general, the energy and running that kind
+ of deficit in a day is murderous. So you burned all that fat, but you don't actually get to keep
+ it off because if you do, your body's going to be really, really in a bad place. So if you want to
+ maintain your weight also, does this mean you need to eat back 300 grams of fat? Okay. Also,
+ no. So the body already knows the first law of thermodynamics,
+ which is why just planning burning fat is only half of the equation. And it's also why if you're
+ sedentary and you're running an energy deficit, guess where we have stored energy in our fats.
+ So if we're running an energy deficit, the body goes, Oh, we need more. We're not eating enough.
+ Let's go grab some extra stored fuel. It'll do that. No peddling needed, but there's also no
+ aerobic adaptations that way either. Um, cause this kind of gets to the, the, the,
+ the episode wrap up, which is why does fat max writing seem to work anyway? Like why does it
+ seem to improve us aerobically? And why does it seem to help us lose weight? Um, even though when
+ we look at direct consequences of writing at these intensities, they, you know, don't enhance these
+ things. And I think that's an important distinction is when you are doing the writing, you are causing
+ aerobic adaptation to happen.
+ And you are expending energy, but you are not adding any additional adaptation by,
+ by burning more fats. Otherwise we would see people doing keto diets, like just shredding
+ all of the heroic adaptations. Like they would just get like, they would be the aerobic equivalent
+ of Mr. Olympia or Miss Olympia. Right. Mrs. Miss. Um, but, um, and the same thing happens with
+ uh, spending energy is these are, you know, if we look at, um, my athlete, his fat max range and
+ grams per minute, he's burning about one gram per minute, you know, between 180 and 300, uh, watts.
+ His endurance pace is in the middle of that. Does he have to ride at 300 watts to be burning a gram
+ a minute? Like not necessarily. He can ride at 250 if he wants, he can ride it 200 if he wants.
+ That's fine. But when you kind of get,
+ you know, your sustainable pace, that's your, you know, your endurance pace, that's, you're going to
+ finish feeling good. You're not going to be too empty. Even if he eats, by the way, like a hundred
+ grams of carbohydrates an hour, he is still going to have enough energy deficit by the end of that
+ ride that it doesn't matter that he's been eating. He's going to have ridden a ton and he's going to
+ have expended a lot of energy. And so looking at, you know, the crossover or the overlap between
+ like fat max and just general endurance riding, there is a lot of overlap. Does that kind of make
+ sense? Yeah. And I, I think additionally here, if, if there was, if you are, I say not,
+ not necessarily for someone who's worried about racing and training to actually compete,
+ but someone who's just at the gym on the treadmill or spin bike or something, just
+ sitting there to, uh, try to lose some weight, try to increase their calorie expenditure for the day.
+ The idea that you'd have to sit at fat max instead of working a little bit harder.
+ If you just calculate how much work you would do and you would, you would burn more calories
+ and who cares if they're fat, if you work just a little bit harder above fat max, say, you know,
+ that's kind of right in that endurance.
+ Range. So if you're only going to go for a gym for an hour and sit on the spin bike and you're
+ going to do so at zone two, effectively, if you're solely just worried about losing weight and not
+ about training, why not do it at zone three or something higher where you're just going to burn
+ more calories. If we know that calories in versus calories out to first order is the most important
+ thing. Yeah. And so, well, I mean, cause I think it's more sustainable to bring it down a little
+ bit from that, but it depends on how long you're going. Like if you're going to ride for 10 minutes,
+ yeah. Very different set of equations here. Cause like you can burn 4,000 kilojoules on an
+ endurance ride. It's hard to do 4,000 kilojoules with hill reps. Oh God. That sounds terrible.
+ Yeah. Yeah. I mean, it's, it's doable. You can do it, especially if that hill is like,
+ I don't know, Von two, but are they called hill reps then if it's, you know, it's the
+ we're going to do hill reps. Like how many reps do you get up at? Yeah. No. Um, but yeah, I think
+ that's where the, the fat max thing kind of, to me feels like it bleeds over from sort of popular
+ level fitness is that it, that idea of working at, of doing all of your aerobics, quote unquote,
+ aerobic work or conditioning work at fat max, because you want to lose fat is a very big thing
+ that you see on these posters or even, even physically on the screens on treadmills sometimes
+ when you go to the gym and you're like, why? And yeah, they just took this paper, took a paper
+ like this one and made the wrong, like extrapolated from it and made the wrong conclusion.
+ Yeah. I mean, and you can't blame people for that kind of thing. I mean, I've, I've had, um, this
+ misconception myself. Like I've done this myself, like, oh, I'm gonna, um, I'm gonna do what I can
+ oxidation. Like I'm going to eat less carbohydrates and I'm going to eat more eggs and vegetables. And
+ then I'm going to go out and ride and I'm going to lose more weight that way. I actually, I thought
+ that like way back in the day, like 2011 or 12 or something like that. Um, I, I was doing that
+ cause I was, I was wrong too. And so maybe, maybe the whole premise of this episode is just a
+ projection. And I, if that is true, then I completely accept that fault. That's fine. And
+ it's definitely a misconception that lots of people have, right? Especially when keto started
+ becoming popular or Adkins or South beach. And I think looking at it though, when, what you just
+ described, like eating more fat and more vegetables and protein, those are the things that end up
+ keeping you feeling you keeping you feeling full anyway. So that's not necessarily a bad thing,
+ right? Especially if you're trying to eat a little bit less and lose a little bit of weight.
+ If you find that you're staying fuller or feeling fuller longer, that is going to help a lot. If you,
+ if you can imagine just eating, I don't know,
+ the opposite is like eating tablespoons of sugar over and over and over again. Like you never get
+ full. Well, I think, I think the big, the conclusion, right. Is that it's not that fat
+ max is bad. There's nothing wrong with it. It's just that it isn't special. Kind of like when we
+ talked about keto for, it looks bad and for a sports performance, but putting sports performance
+ aside, it's fun to bash on keto, but there's nothing inherently bad about it. There's just
+ that makes it extremely special regarding if you're going to go out and try to be a,
+ an elite race Walker. Yeah. You know, there's no, um, like we've said a lot of times and a lot of
+ people have said a lot of times there's no silver bullets here. Like you, and, and also sometimes
+ just putting in the work is also not enough. Like, cause what is the work? What is the quality of the
+ work? If you go out and you do 30 second sprints four days a week and you do that for 10 years,
+ is that going to be the right,
+ the best training to make you as aerobically fit as possible? I would argue, no. And also if we
+ just, if we do a lot of keto and we do a lot of low intensity riding, is that going to do the same
+ thing? I would also argue, no, it's like, you've got to put in the appropriate work at the
+ appropriate places. And that's, what's going to bring you the farthest. And in my experience,
+ and to the best of my understanding, all of the little, Oh, maybe we can increase a little more
+ adaptation here. We can do a little bit more signaling here, all that kind of
+ stuff, um, really is not going to be the difference between you making it to the world tour and you
+ staying a local cat three, it's picking your parents. You got to pick. Yes. Yes. Um, all it
+ really does, all these little things, what they do is they help speed the process up.
+ And I wouldn't even say that it's within power meter measurement. It's just that
+ when I look at things over years of working with somebody, um, I think, you know, can this person
+ have improved a little faster? Could they have another 10 Watts of threshold? Could they have
+ a little better endurance at this point? Could their sprint be a little better? If that's
+ something that we need to work on? Um, you know, I think in like year cycles, you know,
+ if I'm working with somebody young, I think, okay, well, how do we get this person to their
+ full potential, uh, before they kind of age out of, you know, going to the world tour,
+ or wherever their potential is. You know what I mean? Yeah. So the fat max fallacies, um, you know,
+ it's funny. I think as a final note here, I've asked a couple of people, uh, what they think
+ of fat max training and a lot of them have said, what's that? So, um, so maybe not the most popular
+ thing here, but I think, uh, for people where they want to think about fat max training, um, I,
+ I hope this episode helps kind of put it into perspective.
+ And I think as a very last question, Kyle, I want to know if E equals MC squared applies to,
+ you know, energy expenditure and, you know, losing fat and whatnot.
+ That's an interesting question, right? So we've talked a little bit about this before,
+ like where does the energy come from when you actually break down carbohydrates and fats?
+ And we went over that in very, fairly gory detail, but we never mentioned E equals MC squared.
+ And that's, and even, even though if you are someone who's never taken biology and maybe in
+ to a, to a deep level and never taken physics to a deep level, you might say, Hey, Oh, energy equals
+ something related to mass. Is that how I get energy out of the food I eat? And it turns out
+ the answer is no. And that's because I don't have to ride at the speed of light to lose fat, right?
+ Yeah, exactly. You both don't have to work at the speed of light,
+ nor are you actually physically, is your body physically capable of taking advantage,
+ of the way that E equals MC squared. So this formula famously Einstein is part of Einstein's
+ energy mass equivalence formula. And the best example that people are maybe familiar with
+ about this is a large particle collider, like the LHC, the large hadron collider
+ in Geneva, Switzerland, where they're actually able to take particles that are
+ lower mass particles and slam protons and slam them together at very, very high speeds that are
+ at very, very high fractions of the speed of light. And they're able to take that and actually
+ make particles that have more mass than the two protons that went in. And that's because
+ they're literally converting the kinetic energy of those protons into mass.
+ Another way you could think about it is if you have a really heavy particle,
+ or even a lightweight particle, if somehow you could completely convert that into
+ photons, which have no mass, the amount of energy or light that you would get out,
+ if you could somehow spontaneously turn a, an electron or a proton or one of these things
+ into light is equal to the mass of that particle. But your body is capable of doing neither of those
+ things. So unfortunately. So if I move fat through the, through the LHC,
+ at such a high rate, can I convert it into carbohydrates at the right speed?
+ Maybe, maybe. I mean, so the, the, the thing is that the LHC, they're typically only slamming
+ nuclei together. Um, so at that point, fat and carbohydrates are made up out of the same nuclei
+ at the core, they're either carbon or hydrogen. All right. Well, maybe I'm just going to stick
+ to colliding it with my mouth.
+ Yeah. Between your teeth is a pretty good speed, right? That's like, that's a good speed.
+ Millimeters a second.
+ Sub light, sub light, fractions of the speed of light.
+ Some.
+ Except if you see that donut, then you maybe start moving it faster at a faster speed.
+ The appropriate thing. Um, all right. So, um, anyway, all those show notes, uh,
+ are going to have the references to, um, I'm actually going to put up a couple extra papers.
+ Um, one of them that I read was my, one of my favorites, cause it's titled exercise,
+ it's the real thing. So, um, like talking about how there's no such thing as an exercise and a
+ pill or something like that. So I thought that was a pretty cool. So, um, check that out at
+ empiricalcycling.com. Uh, so if you've got any questions or whatever, or if this episode upset
+ you, or you think we got something wrong, also let me know. I, I, uh, have been corrected by
+ our listeners on many occasions and I will continue to learn like that. So I appreciate that. Um,
+ thanks for listening. And if you want to donate to the show that keeps us going,
+ that's at empiricalcycling.com.
+ slash donate coaching inquiries also keep us going. So, uh, if you want to, uh, inquire about a
+ coach, uh, we are always taking on athletes. We have a couple of coaches with roster spots right
+ now. And when we run out of that, I add more coaches. Uh, they're getting really hard to
+ find good ones, but, um, rest assured we have plenty of roster space right now as we are set
+ up. So, uh, shoot me an email empiricalcyclingatgmail.com and, uh, uh, consultation stuff.
+ We can answer any and all of your training
+ questions. So if you want to check us out on Instagram, that's at empirical cycling and, uh,
+ weekend AMAs in the stories and sorry, my main feed is kind of boring, but, uh, we're working
+ on that. If you want me to look at your FTP, uh, tag me on Instagram and, uh, I'll look at your
+ FTP and I'll probably repost it and maybe I'll take a stab at what it is just based on your
+ power curve. So, um, with all that said, thank you all for listening and we will see you in the
+ next episode. Bye everyone.
+ We'll see you next time.

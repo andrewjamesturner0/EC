@@ -1,0 +1,1321 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kole Moore. Thank you all for listening as always. And of course, please subscribe to the podcast if you haven't yet already and give us a nice five-star iTunes rating and perhaps even a nice review would not go amiss. Thank you so much for all of those. Remember, we're also an ad-free podcast. If you'd like to donate and support the show, you can do so at empiricalcycling.com slash donate. We've also got our show notes up on the website. We're going to reference all the studies. I've even included a couple of the figures from the studies.
+ although I think a lot of them are actually open access, so not a problem there.
+ And I'm not encouraging people to pirate science, but Sci-Hub is always an option if you are so inclined.
+ Arr, matey.
+ And, of course, for all coaching and consultation inquiries, please shoot me an email, empiricalcycling at gmail.com.
+ We have always openings for athletes, and we are always looking to do consultations.
+ So if you have any questions about your training, about, you know, training stuff in general, athletes, coaches, teams, we are here to answer all your questions.
+ So email empiricalcycling at gmail.com for that.
+ And of course, up on Instagram, we have the weekend AMAs up in the stories.
+ That's at empiricalcycling, of course.
+ And give me a follow there.
+ But also, this is where we ask our listeners for questions for the end of the podcast.
+ So at the end of this podcast, I'm going to open up my Instagram, and I'm going to answer everybody's questions about the topic.
+ And I usually post this just as we're recording, so we don't get 500 questions.
+ But we get a pretty decent few, and if you'd like to ask a question, please kind of stalk my Instagram stories, and that's where we'll be there.
+ So I'm going to apologize ahead of time, by the way.
+ I've had the flu now for, this is going on, getting into my third week.
+ It's been two weeks now.
+ Oh, not fun.
+ No fun.
+ Yeah, so my voice is a little rough.
+ I apologize for that.
+ But yeah, it's going around pretty bad this year.
+ So I got it.
+ What fun.
+ I've been to the gym once and it hurt.
+ So yeah, it's not fun.
+ So I apologize.
+ my voice is probably going to get pretty, uh, pretty gravelly and Tom Waitsie by the end of
+ this one. Um, so sorry about that ahead of time. I'm going to ask Kyle to do some lifting for me,
+ uh, while we're, you know, getting into here. So, so the podcast, um, you know, has to go on.
+ So here we are. And I was, I had gotten over the last like month or so, probably 10 to 15 people
+ sent me this study, the Flockhart overtraining study in mitochondrial dysfunction. And Oscar
+ Ukendrup also had a blog article about this. And that's where I actually found the official
+ response from John Hawley and David Bishop that we're going to get into later in this episode too.
+ And so it was a pretty fascinating study. And I actually had a lot of high hopes for it at first
+ when I saw the title and I saw the main graphics and I went, oh, wow, maybe this is a clue into
+ mechanisms for overtraining. And I was super excited. So then we went to the study and we're
+ going to take you through what I went through reading this study and also another study from
+ Nature Communications that is very, very relevant to this. And then we're going to go into, like I
+ said, the Bishop and Hawley response to this. They also raised some very, very interesting points.
+ And so, Kyle, why don't you describe the main kind of graphic that we're looking at here on, you know, it says, does overtraining result in mitochondrial dysfunction? So week one, training, week two, week three, and we see different things happening. So kind of describe what we're looking at here that summarizes the study.
+ Yeah, so there are four vertical columns, and you have week one, two, three, and four as each vertical column. And each line, there are three plots of a particular metric. So these metrics are performance, mitochondrial function, and glucose tolerance.
+ And week one and two, when you're ramping up the load that you can take and you are still below the maximum amount of training you can recover from, your performance is going up from week one to week two.
+ Your mitochondrial function goes up from week one to week two, and your glucose tolerance goes up from week one to week two.
+ And then week three in that column, when you exceed or you overtrain, you exceed the amount of volume or an intensity you can recover from, all three of those things dip down.
+ And so your performance decreases, your mitochondrial function decreases, and your glucose tolerance decreases.
+ However, week four, when you do less as a recovery week or you are taking it easy, all of those things go back up and actually go back up to a higher point than they were at the start of week three or the end of week two before you got into the overtraining or the sort of red zone, if you will, on this chart.
+ and that kind of suggests that after you even if you do over train if you aren't throwing away all
+ the training that you did as long as you recover from it uh you know i think there's some fear that
+ oh if i over train and i take a week or two easy am i just gonna lose all those gains or something
+ and you're like well no at least not not according to this uh this chart or not how this chart would
+ This chart would not suggest that.
+ Yeah, and another reason to get into the study is that there are actually a lot of practical takeaways from the training design that they have here and also kind of the things that we see happening to folks.
+ So let's get right into this study because my voice is not going to last that long.
+ So we're going to start with six female and five male athletes in this study.
+ So good representation of women, finally.
+ It doesn't happen a lot in studies, but I love it when I see it.
+ Now, here's the interesting thing.
+ They're all recreationally active.
+ They do regular endurance and strength training, but they excluded any potential subjects who were doing more than five hours of systematic training per week or regular HIT training.
+ So this makes sense because, well, why would we want this to be the case for our participants?
+ Wouldn't we want well-trained people?
+ Well, well-trained people might get nothing out of the protocol here.
+ We might not see any kind of adaptations. We might see some people responding and some people not. And so we want all of our participants to respond to the training stimulus. And we want to make sure that things like mitochondria are growing and responding to the stimulus. So getting moderately trained people actually makes the most sense for this purpose.
+ So the training intervention, Kyle, you're going to get kicked out of this. HIT session as five by four or five by eight minutes intervals at about 95% VO2 max with three minute passive rests. And so week one, light training, two sessions of five by four. Pretty dual, right?
+ Week two, moderate training. Three sessions, five by eight twice and a five by four. Week three, excessive training. Three five by eights and two five by fours. Week four, recovery, three by eight, three by four, three by eight, and then a performance test of five by four.
+ And it's not explicit, but presumably this entire study was not four weeks.
+ It was five because the last day is day 38.
+ And the figure says, yeah.
+ So I think the week four actually went from week four also went to week five.
+ But, you know, the study is not explicit about this.
+ So I kind of had to do a little reading between the lines.
+ The other thing is that in their main figure about this, about their protocol,
+ because a lot of most studies now actually have a graphic, something to represent visually the training protocol.
+ And so it said in their last week, they did 53 minutes of total HIT time, even though doing the math.
+ And even though I'm not great at math, I can plug things into a calculator.
+ Minus the test session, they had 60 minutes.
+ And also, like, if you've got 53 minutes of HIT and all of your interval lengths are even, that doesn't add up, like, to begin with.
+ So a little math error.
+ I don't begrudge them that.
+ I've definitely made some very public math errors.
+ Not an issue.
+ So, you know, but they gave us the protocol.
+ Yeah, the three 5x8s and two 5x4s.
+ That's like when we joke about, oh, just do VO2 max every day of the week.
+ Yeah, no.
+ And the thing is, like, even with somebody like Corey, where we're, you know, just crushing that poor man's soul with VO2 max training, there's a lot of rest days.
+ Like, he only does, like, two to three actual days per week, usually three, of real VO2 max training.
+ And the other four are pretty chill.
+ Even if you're, you know, he's riding long, it's pretty chill otherwise.
+ So doing these back-to-back-to-back-to-back, et cetera, et cetera, like, oh, my God.
+ Okay, excessive training, yes, probably excessive.
+ Nailed it.
+ Got it.
+ So they did a biopsy before the training started, and after the last exercise session of each block, they did the biopsy 14 hours after the finish of the last session.
+ So that is presumably overnight.
+ So you finish your last session, you have dinner, you go to bed, you get up, you go back to the lab, and now you get stuck with a needle.
+ So while not having had breakfast yet, I would be very grumpy.
+ But it's a pretty good training intervention, right?
+ So you're progressively overloading the training, and you're allowing recovery, and then you're doing a final test.
+ So let's look at the headline now, because now we can get right into the results.
+ mitochondrial dysfunction. So the values we're going to look at here are from state three
+ mitochondria. And so we need to know what that is and why it's important. So in mitochondrial
+ physiology, if you want to see what mitochondria's absolute maximal rate is, you isolate them,
+ and then you throw in a bunch of ADP with everything else being sufficient too,
+ so saturating conditions, and then you measure the rate of O2 consumed.
+ And that gives you a measurement usually in picomoles of O2 per second.
+ And so if you want to normalize it to mitochondrial mass or perhaps muscle mass, if you don't isolate the mitochondria out of the muscle, you're going to get picomoles of O2 per second per microgram of wet weight.
+ And the authors call this intrinsic mitochondrial respiration or IMR.
+ We're just going to call it maximal mitochondrial respiration rate or something like that, because IMR is a bit confusing for reasons that we're going to look at.
+ So in context, the authors state in the intro that, quote, mitochondrial capacity is tightly correlated to whole body maximal oxygen uptake, which itself is a strong proxy for metabolic function and health, unquote.
+ All right, so what do we see indeed?
+ yes mitochondrial maximal respiration during week three we're just going to call it hell week
+ is reduced from 15 to 7 picomoles per second per microgram and this carries through to many other
+ isolated mitochondrial respiration metrics because they did quite a few of these because once you've
+ got the mitochondria isolated you could do some a lot of interesting stuff um so like leak state
+ and others you can look into. It's all, it's all in the paper. You can check it out. Um, and they're
+ all relative to the mitochondrial mass. So the same way you would do a VO two max relative to
+ weight, uh, is the same thing with these mitochondria. So now we have a pretty good
+ parallel between isolated mitochondria, relative respiration and whole body maximum oxygen uptake.
+ right? So, um, so it makes pretty sense, pretty good sense. And it, and so what happens basically
+ in the study is it looks like the maximal mitochondrial respiration rate goes up a bit
+ from baseline, uh, when you go from baseline to light training, and then again from, uh,
+ to moderate training, and then it goes down for excessive training and then only rebounds,
+ uh, to sub baseline levels. Um, so the, that, that, you know, during rest weeks,
+ So that would be like around 10 picomoles per second per microgram versus baseline's 12.
+ So sounds pretty bad, right?
+ Yeah.
+ You would – that is not exactly illustrated in that plot they showed at the outset, but yeah.
+ Yeah.
+ So not reaching baseline is not ideal after –
+ Yeah.
+ And actually, you know what's interesting about that is that was the Oscar Ukendrup version of that graphic.
+ In the actual graphic at the top of this paper, which a lot of journals are now including, so they've got like an in-brief section and highlights and yada yada.
+ they actually do look at mitochondrial respiration going up, like over baseline, then going down below baseline, then returning to below baseline.
+ So in the actual paper, that's well represented.
+ And so I thought it was interesting to start with having you describe that, because now we can compare these two things about how some things can get lost,
+ even for people who are extremely well-educated like Oscar Ukendrup, who can try to draw a cartoon
+ of this kind of thing and replicate the graphic and not quite get it right. So no fault of Oscar
+ Ukendrup's for sure. So, okay, next thing here is oral glucose tolerance test. And we're going
+ to return to all these points, by the way, and kind of break it all down. So this was done with
+ biopsy at all points, except for the moderate training. I don't know why they didn't include
+ it there. They must have had some sample corruption or something like that. So this
+ was at rest while overnight fasted. And they looked at the area under the glucose curve for
+ minutes at zero to 120. And so you're just lying there and you ingest 75 milligrams of glucose and
+ 300 milliliters of water every 15 minutes for two hours. And they're looking at blood glucose and
+ watching what happens. And so the area under the curve, which is typically how these things are
+ looked at, is indeed higher. But when you look at the area under the curve, generally speaking,
+ no areas, like no points are significantly different than any other points from baseline,
+ normal training or excessive training or recovery week. Like they're not quite different. When we
+ look at the area under the curve, yeah, then we get a difference. And so looking at the specific
+ traces, minutes 60 to 90 are actually the only trouble spots that we can obviously see in the
+ actual blood glucose curves over the two hours. Everything else looks actually about normal.
+ And so my thought for this was that actually it's explained by insulin and how the beta cells can
+ actually fatigue sometimes. So after a week of really, really hard training, I could see them
+ being a little sluggish kind of getting insulin out. But once you get to the two-hour point,
+ Everything is normal. So that's, you know, that's, that's where my brain goes with that.
+ And so the, the last interesting figure to me, if you're going to read along with this is 3C,
+ they plotted the, the maximal mitochondrial respiration rate versus the glucose area under
+ the curve. And so plotting these two things together implies a, at least a correlation,
+ if not causality, right? And so, because the three normal, uh, uh, baseline and rest weeks
+ are all clustered together and the hell week is very, very far away. Uh, so graphically it looks
+ really, really bad. But, you know, we can look at other ways where it's not so bad. Anyway,
+ last one I think is really interesting is performance, because these are our three
+ big headline pieces, right? So, Kyle, why don't you take a look at C for this chart? So, I've got
+ I've got the figure up in our show notes. So Kyle, look at C. This is the power output during HIT in watts per kilogram. So because they actually recorded power output for two of the regular training sessions, and then one for excessive training, and then recovery week. So we got baseline, normal, yada, yada. So Kyle, why don't you tell me what you see here?
+ So the first week is, or the first bar is baseline. And it is, it's a number. It's just
+ under 3.2 with an error bar that reaches just over 3.2, maybe 3.3. And then the low training
+ is slightly higher. And then the moderate training one and moderate training two, both of those power
+ outputs are slightly higher than the moderate training two is very much higher than the
+ moderate training one the moderate training one is only a little bit taller than the low training
+ but then when you get to the excessive training regime the amount of power goes down slightly
+ compared to the moderate training or stays the same honestly it's like it goes down like a pixel
+ yeah it's barely noticeable but then after the rest or recovery it the power output goes way up
+ another, you know, probably 10%, um, on this plot. So the total change from baseline to
+ after the recovery week is something like 30% probably. Um, so I'm like just under 3.2 to 3.5
+ almost. Um, is that right? Is that my math? Right. That's like 10%. Sorry. It's like 10%.
+ So that's actually a pretty significant change, but there is a very big jump between the overtrained regime and then the recovered regime.
+ Yes. And in the second chart that we have here, it actually looks at the delta from one training regimen to the next.
+ And for the excessive training, it's actually at zero with an error bar up.
+ So it basically stays the same.
+ And so, but our headline was that performance went down, but we've got actual data here that says it was flat. Um, so I don't necessarily think that, um, you know, that, that, that part of the headline actually holds any water.
+ I would say, you know, if you're looking at this kind of training, because, you know, in practical terms, if you're doing like a VO2max block, you know, super, super good responders.
+ Although, to be clear, five days in a row is not how you do a VO2max block.
+ But, you know, a lot of people will have like kind of flat-ish performances and will look at other stuff to make sure that the training is working.
+ But in terms of power output staying steady, that's pretty normal.
+ So you want to overload a little bit and then recover, and then you bounce back better than before, and that's what we see happening.
+ Look at E for this.
+ So the mean VO2 during HIT in milliliters per kilogram per minute.
+ So do you see any flatness when we get to the excessive training?
+ No, it's actually sort of monotonically increasing from baseline to low training to moderate, moderate one, moderate two, excessive, and then recovered.
+ you are using more oxygen the whole time yeah and if we look at uh parts f and g for this
+ we're looking at max heart frequency during hit and also max heart frequency at 100 watts so they
+ had people warm up at 100 watts and they uh hook them up to a metabolic cart or they tracked you
+ know carbs and fat usage and we'll get into that in a minute um but it goes down yeah it goes down
+ once we get to excessive training.
+ So our heart frequency is probably at,
+ for low training is averaging probably 178 BPM.
+ Once we get to excessive training,
+ we're doing like 174 average for everybody.
+ Yeah, and that is a common symptom
+ people always mention about overtraining
+ is the inability to get your heart rate up.
+ So that-
+ Yeah, well, I would say this is different
+ from the inability to get the heart rate up
+ because it looks to me like the heart rate's getting up,
+ but not as high, which to me for via to max training is something that we commonly see
+ as via to max goes up is the stroke volume gets higher. So for the same power output,
+ we're going to see slower heart beating because it's beating with larger volume each time. So we
+ can actually achieve the same cardiac output, uh, you know, over the course of, you know,
+ 20 seconds or a minute or whatever, but the heart has to work less hard to actually achieve that
+ output. So that's what I see here. And then it recovers a bit for the recovery week. But also,
+ you know, there's also other stuff here, which is like, you know, your, you know, your nervous
+ system, your heart tissues, like your whatever might be getting a little desensitized to
+ adrenaline also. And so that could be another reason for heart rate depression as well. So
+ there's a couple things here. And, you know, we would have to look at another study to really
+ tease those apart. So, so that's where, that's where we stand with the performance stuff is the
+ performance doesn't necessarily drop like the headline says. It kind of stays flat. Although
+ if you are looking for performance to, like you said, monotonically go up every single training
+ block, then we would see something suboptimal if that's what our expectation is. So I would say
+ that the performance doesn't decrease, it stagnates, whether that's good or bad. The
+ glucose tolerance thing, um, you know, I would say the quote unquote intolerance was temporary.
+ Um, and you know, they actually, in this paper, they actually look at another, um, we're not going
+ to get into it, but they look at, uh, professional athletes, like well-trained athletes, blood
+ glucose throughout the day. I think they measure it every 15 or 20 minutes or something like that.
+ And actually see times where blood glucose is like way higher and way lower than like a control.
+ Uh, and so, but it's temporary, but we don't also have workout times.
+ We don't have feeding times.
+ Like it's, it's hard to tell.
+ So we're going to, um, we're going to let, uh, Holly and Bishop, uh, discuss that in
+ a little bit.
+ Um, so, so, okay, so here's where I want to go with this, uh, is I could rewrite the headline
+ as from X is not impaired by excessive training.
+ or sorry, I could rewrite the headline from X is impaired by excessive training to X is not
+ impaired by excessive training or X increases with excessive training. We could take the same
+ data and rewrite the headline many ways. So we could say excessive training reduces blood lactate
+ with the maintenance of performance. We could say it increases fat oxidation during exercise,
+ despite increased taxokinase activity. Crazy, right? Increases whole muscle GLUT4 expression.
+ So that's the main glucose importer. Does not show significant impairment of function relative
+ to citrate synthase activity or expression. So if we look at our normal way to... Most studies
+ would normalize things to mitochondrial mass would be citrate synthase activity. So we don't
+ find any significant differences in mitochondrial respiration if we normalize to that. We also would
+ say it does not impair performance, might stagnate performance. We would also say excessive training
+ does not affect resting metabolic rate because that's something else they looked at. We could
+ also say excessive training does not show differences between male and female subjects,
+ which across the board is what they found. So I think that's actually a really, really
+ important thing here. It's a big headline. Yeah, that's a nice takeaway. Yeah. We could also say
+ excessive training reduces maximum heart rate during HIT. And we could also say it increases
+ VO2 max despite performance stagnation. So, you know, what do we, so what do we have here
+ as takeaways before we kind of start breaking this down even further?
+ Yeah, I think that this is it. They try. I mean, I think that to maybe give them some credit on the headline of, you know, performance decreases, you might expect that constantly training, you should be constantly getting better.
+ And so if you do have a region where you don't get better, if the expectation is you always get better and you do not, that might be a decrease in performance.
+ Like it is a deviation from this monotonically increasing line of measuring performance.
+ So I can see why that would be one interpretation or they just, they like splashy headlines, you know.
+ I mean, who doesn't?
+ Yeah, exactly. And who doesn't? And especially when you're trying to get published, a lot of times a splashier headline can help. But I think that this is, I wouldn't, it does not seem to me like they were trying to be disingenuous with that title.
+ No, I don't think so.
+ Yeah, so.
+ transport chain subunits because they look at this too so complex one through four uh and five
+ um it increased their expression um and this is something that i think doesn't square with the
+ data at the moment because respiration rate of mitochondria was impaired per total unit of
+ mitochondrial mass during hell week. But if the electron transport chains all got a significant
+ bump, what's going on? Because if we're looking at maximal respiration rate, we're going to
+ maximally tax the electron transport chain that's in our sample. So what happened?
+ Well, it looks to me like the creation of new mitochondria does not happen while maintaining the same ratio of mitochondrial proteins.
+ So we probably got a larger bump in volume while getting electron transport chain lagging.
+ So that's the only way I can square this.
+ So remember, VO2 max kept going up even during hell week, and the performance stagnated, didn't drop.
+ And so it seems like the pattern of muscle glycogen actually, reported in dry weight, by the way, matched actually the performance stagnation because muscle glycogen also the amount stagnated as well.
+ So it didn't increase from moderate week to hell week despite VO2 max increasing.
+ So all this says to me that the maximal mitochondrial respiration rate, the IMR, the intrinsic mitochondrial respiration, the quote-unquote impairments are not actually part of the performance drop or stagnation.
+ Like if we see real mitochondrial dysfunction, something we're going to talk about as we get towards the end, by the way, if we see real mitochondrial dysfunction, we will probably see it in the performance.
+ And we see VO2 max going up.
+ And what happens if you screw up your mitochondria?
+ They've got to use that oxygen, don't they?
+ Wouldn't VO2 max drop?
+ Who knows?
+ Yeah, that's interesting.
+ It seems like it was interesting when I'm reading that plot that VO2 max just kept going up.
+ And I guess it's not – maybe it's not VO2 max, but it's peak V anyway.
+ VO2 peak, VO2 max, something like that, yeah.
+ But, yeah, it's interesting that it keeps going up because your body is doing something with the oxygen, right?
+ It's not going to inhale it and then just have it sit there and then exhale it.
+ Well, if you don't use it, that's what happens.
+ You're right.
+ Yeah, yeah.
+ So it's using it.
+ know they're not just measuring the amount of air you're inhaling they're actually analyzing the gas
+ and so they know that you're actually using it and you're outputting co2 as a result so it is
+ strange to like what what your body's doing something with the oxygen it's not it's not
+ just giving it away uh it's not just so that does seem interesting this is maybe also a glimpse into
+ why the science or studying overtraining and what actually happens during overtraining is so hard
+ because there are all these little different things you can measure and they measured a half
+ a dozen of them. And it's a mixed bag of, oh, is it actually like, how would you actually be able
+ to tell what's happening during overtraining if a bunch of the metrics, maybe they don't conflict,
+ but they don't necessarily present a consistent picture of, oh, this is bad. This is what you
+ should look out for, right? Like you have, you have to kind of weigh them all together.
+ Yeah. Yeah, exactly. Um, and, um, you know, something that we've actually mentioned on
+ the podcast before is that, uh, mitochondria in the muscles, they're not maximally taxed in terms
+ of rate. Um, like if, if you get there, um, chances are you are not a healthy person, um,
+ like by a long shot. And I'm not even sure that it is possible even in unhealthy people.
+ So I think it's really interesting that this is something that we're relating to each other because it shows that there's, you know, there would be a disconnect between isolated mitochondrial maximal respiration rate and what we do in the body.
+ Because if that, you know, if that impairment in respiration rate were really a big problem, you know, it's, we're going to see it in the VO2 max.
+ If we actually hit that max, we would see it drop.
+ But remember what we discussed in Wattstock 40 is that, and actually many, many other Wattstock episodes on like fat oxidation and stuff, is mitochondrial mass, like the surface area to import things like fats and lactate.
+ This is hugely important for our actual rate of ATP production to maintain homeostasis in the cell.
+ It's like one of the biggest adaptations that happens.
+ And so it would kind of make sense based on that, that the body, you know, evolution would prioritize mitochondrial mass versus like, you know, making sure that the electron transport chain subunits are actually keeping up with the mitochondrial mass.
+ And they've got to have some, obviously, like you can't have none.
+ But the stoichiometric ratio is not quite maintained is what all this data points to for me.
+ So, um, and so I think also that this article shows that there's a need to actually define mitochondrial dysfunction. Um, you know, since some people would say mitochondrial dysfunction is not enough whole body fat oxidations, these authors, Flockhart, that Flockhart was the, you know, lead author on the study.
+ So Flockhart and the other authors say that it's a decrease in isolated mitochondrial maximal respiration rate. So which is it? Do we have other ways of mitochondrial dysfunction? We sure do. We'll talk about that in a little bit.
+ And so, you know, we would really want to have a good way to define mitochondrial dysfunction, but we also need better normalization metrics to make sure that what we're measuring is in fact normal.
+ Because if we don't have a consistent stoichiometry between electron transport chain density of subunits and mitochondrial mass, then we're going to get things like seemingly impaired mitochondrial respiration rate at max for isolated mitochondria.
+ So, you know, all this is actually supported in figure five, by the way, for Flockhart, because their mitochondrial fission and fusion protein expressions track with expected mitochondrial biogenesis responsive training.
+ So they did include quite a lot of data.
+ I really like the study.
+ But my brain goes right to, I think we need more evidence.
+ What do you think, Kyle?
+ Do we need more evidence or is there enough for this paper that we can make any definitive judgments?
+ I think this paper is a good effort.
+ I am generally hesitant to make any definitive judgments off of just one paper on anything.
+ It's a little risky and that's why probably things like science and nature, the big headlines, have a pretty high rate of retraction.
+ Because if you have one, just in general, in a vacuum, one big headline from one paper is hopefully going to be repeated by someone else or repeatable and not just a one-off result.
+ And so generally, it would be maybe a little premature, let's say, or a little too optimistic to go off of just one paper.
+ Yeah, we've got 11 subjects here.
+ There's not a lot of statistical power that we can actually confidently have at this point.
+ That is also an excellent point.
+ Yeah.
+ Um, so I then remembered a study that might tell us a little more about this. So, um, speaking of
+ nature retractions, this, this, no, this paper has not been retracted by nature. Uh, I think
+ it's actually quite robust. Um, I mean, when you say retraction rate, you mean like 1% up to like
+ 4% or something like that. Yeah. It's, it's high. It's not like it's 50% of the papers are,
+ garbage. It's just relative to other journals with a lower impact factor that get fewer eyeballs,
+ science and nature tend to have higher retraction rates. I also wonder if that's a fact or an
+ artifact of science and nature getting more eyeballs. So you've got more people being
+ critical of papers and calling for retractions and stuff like that. Could be. Yeah, that would
+ be interesting. You'd have to normalize it, I guess. Yeah. Well, that's for people smarter
+ than me to do. Um, but anyway, so people smarter than me also wrote this next paper. So, so this
+ paper is really cool because this is the first paper. Cause I remember, um, you know, back when
+ I was in school, bioinformatics was really starting to be a thing. Um, like because really
+ large throughput sequencing of proteins, DNA, RNA, stuff like that was really just starting to be a
+ thing. Um, and so it's been a little while since I've really looked into it because the, first of
+ all, the methods and the math are intimidating to me. Um, but, uh, I, I sat there for many hours
+ learning about bioinformatics and, uh, learning how this data was put together. Um, and so it's,
+ it's actually pretty simple. It's like basic bioinformatics at this point. Um, but, and Kyle,
+ I asked for your help at a couple of points with this stuff too. So, um, so this paper,
+ anyway, spy informatics, and they did it on isolated mitochondrial RNA. So when you are
+ adapting to a thing, um, and you are going to increase the amount of protein that you have,
+ or something like that, you're going to increase the amount of RNA, which is the thing that goes
+ to ribosomes to make protein. So it's like, it's like an intermediate. It's sort of like putting
+ in your order and then that's your order slip at the restaurant. Like give me a burger and fries
+ and a soda. And then you sit there and wait and your burger and fries and soda shows up at the
+ counter after it goes through the, I don't know, five guys ribosome chain. So they did this with,
+ uh, RNA, they did it with proteins and they did it with lipid content. So we're not going to look
+ at RNA or lipid content, really. We're just going to look at proteins because this is the most
+ interesting and this is what we're after. So they didn't also just look at five or 10 things.
+ They looked at hundreds of genes and proteins, like over a thousand actually at one point.
+ And we're going to keep an eye on the closer...
+ Oh, fuck. Sorry. So we're going to keep an eye on the classic ones, the same as
+ Flockhart did, like citrate synthase, electron transport chain complexes. And this paper also
+ does this too. And also this paper is open access, by the way. So you can just go to
+ empiricalcycling.com slash podcast episodes and just go to the show notes and click the link,
+ and you're going to see everything that we see. If you want to follow along at home. If you're on
+ the bike, I apologize. We'll do our best. You'll need an iPad, like an iPad stand or the paper
+ reader. Oh yeah. Yeah. Like right on your stem. So it's like the world's biggest Garmin. Um,
+ so, but peripherally for us, but centrally for this paper, they were actually looking at whether
+ super complexes form to a greater degree than normal with training. Um, so they actually find
+ out that this is not the case, uh, according to their data. Um, but they are also attempting,
+ and here's what I like, a new method to normalize protein expression.
+ So most studies, like with Flockhart, will use isolated mitochondria.
+ And you do this by you take a little bit of muscle, you grind it up in a blender,
+ literally a blender, and you centrifuge it.
+ And then you isolate different fractions of what you've centrifuged because it all separates by weight.
+ And then you can have isolated mitochondria or whatever.
+ Yeah. Yeah. Two patties. Sorry. Yeah. Liquid muscle. So let's see, where am I?
+ Yeah. So most studies will use isolated mitochondria from centrifuged muscle homogenates.
+ And when you see homogenate, that literally means blended up. Or they're looking at straight
+ synthase activity, which is pretty typical, like Wattstock 37, by the way, the oxidative fast
+ switch fiber paper that we looked at, they didn't have a training intervention, though. That was
+ just like a one snapshot of people who were well trained, past tense, or, you know, are still
+ trained well. So when you look at these things in the middle of a training intervention,
+ they might have unexpected behavior. So that's what I like about this paper. So this paper,
+ this is the Granada paper we're going to call it because that's the lead author. It begins its
+ results in discussion section, stating that the traditional view is indeed that the stoichiometry
+ between the number of mitochondria and respiratory proteins is constant, right? And this is actually
+ a pretty large tacit assumption by a lot of exercise physiology. And pretty much up until
+ like a couple of weeks ago when I was looking at this stuff, I held it too. I mean, I was
+ questioning it a little bit, like I think most people do. Like I even, I remember once I emailed
+ Andy Coggan about this. It's like, Andy, does this happen? He's like, well, yes, but no, but also
+ close enough. Yeah. It depends. Yeah, it depends. It depends like everything. And Andy probably
+ didn't want to spend all the time explaining it to me. So I understand that. So the other thing is
+ that Granada starts the results section by looking at these pretty typical normalization methods to
+ mitochondrial mass, citrate synthase. They mostly focus on citrate synthase activity for this paper
+ as the normal normalization method they have for mitochondrial behavior, let's say.
+ And they actually thought that these normal metrics were so kind of blasé that they put
+ them down in these supplemental figures nice like it wasn't even part of the main paper it's like
+ you've got to like go to the website click on the supplementals and then you get them like they don't
+ even publish it in the physical nature um unless you get like i think there's like a maybe a
+ supplemental issue with all the figures maybe i forget it's been a long time since i felt a
+ physical copy of nature it's probably a page count cost thing where they don't want to they don't
+ want to pay the extra fees just to get all of the figures. Yes, you have to, a lot of journals make
+ you pay per figure more. So yeah, I don't, I don't exactly know for nature communications what the
+ rules are, but yeah. Anyway, actually, you know, what's interesting about the Flockhart paper as
+ well as they also put some of these metrics down in the supplementals, like, like citrate synthase
+ normalized activity and basically like non-results or like typical results that you would see from
+ typical papers. So, you know, you know, they're very similar papers in a lot of regards. And
+ we'll see more of that in a second. So the title is, by the way, ignore this if you don't want any
+ spoilers, because this is classic academic writing. So the title is high intensity training
+ induces non stoichiometric changes in the mitochondrial proteome of human skeletal muscle
+ without reorganization of respiratory chain content, as in super complexes.
+ There you go.
+ Well, there you go.
+ Yeah.
+ So if that's enough for you, okay.
+ Thanks for listening.
+ We'll see you later.
+ For everybody else, the setup of the Granada paper is similar to Flockhart.
+ And they had also used this same training intervention in a previous study
+ because they knew that it would give them the changes in mitochondria that were needed.
+ So they had 10 male subjects, moderately trained, same as Flockhart, less than four hours of activity per week, not engaged in regular cycling training.
+ So the training intervention, buckle your seatbelts.
+ They did baselines with biopsy, biopsies done after each training period, et cetera, et cetera.
+ So they had a normal training period, which was two weeks with six HIT sessions.
+ So they did five to seven by four minutes, two to one work to rest.
+ And they maintained the intensity between lactate threshold and VO2 max power W peak.
+ So over FTP for all.
+ So not maximal efforts, but you could imagine some people were having a really hard time at many points.
+ Especially once you got to seven rounds.
+ Yes.
+ Now, this is not hell week.
+ This is hell weeks, plural.
+ So they did three weeks.
+ I can't believe I'm going to say this.
+ These poor people.
+ 40 HIT sessions for 20 consecutive days.
+ Ugh.
+ Let that sink in.
+ Oh, man.
+ So I think we also need to redefine what constitutes excessive training as well.
+ So I think five sessions in a week is pretty mild compared to this.
+ Yeah, no question here.
+ They're like, we don't want anyone to question our methods.
+ Yeah.
+ Excessive training, we'll give you excessive training.
+ Don't doubt us.
+ Oh, God.
+ I think these are Aussies, too.
+ So, yeah, high standards for excessive training for Australians.
+ So they did the sessions for the overload week, weeks, sorry, 7 to 10 by 4 minutes or 15 to 20 by 2 minutes, also 2 to 1 work to rest ratios.
+ Oh, gosh.
+ Ouch.
+ 20 by 20 by two minutes even at like 90 sounds pretty awful no 20 like 20 reps you just like
+ just don't even tell me how many left right you want a lap counter there just counting them down
+ so you can look at them occasionally but you don't have to stare at it i wouldn't even want that i
+ would want no feedback just let's just like this is me now just just always and forever
+ god these poor people um so the reduced training period was one week with six hit sessions in six
+ days with decreasing intervals so they did 10 9 8 7 6 and then 4 by 4 minutes on the last day
+ so compared to yeah compared to 20 and 40 i mean that's a new way to do 20 40s too um
+ this is uh pretty mild so performance tests so they did the regular via to max step test they
+ did a 20k tt and they also made sure that there was 48 hours of no vigorous exercise before these
+ tests, but also different than the Flockhart. Remember, Flockhart had 14 hours. You finish
+ your last session, you go to sleep. After you have some food, you wake up, and then you get
+ stabbed, and then you drink some glucose serum, and then they check your blood glucose and stuff
+ like that. This was no vigorous exercise for 72 hours before these biopsies. So a much, much
+ larger thing here. So I think it's interesting because the Flockhart subjects are probably not
+ fully recovered, but were similarly not recovered each time. Similarly, sorry. And the Granada paper
+ made sure that they were better recovered. So 72 hours, not bad. So Kyle, do you think with
+ 58 hours of extra recovery, we're going to see something similar to the Flockhart paper,
+ where we see potential lagging of respiratory proteins, or do you think it normalizes in 72 hours?
+ I'm going to guess – 72 hours is a while, so I'm going to guess that it comes back to normal just because you've got a lot of sleeps in there, hopefully, and a lot of food.
+ But –
+ Yeah.
+ Well, I thought so too, and we're both wrong.
+ Oh, no.
+ I know. All right, let's get into this. So we're going to get right into their proteomics. So a quick note on the proteomics they did here. The caveman way of measuring protein is not to put it on a scale unless you've literally got a whole muscle. So when you've isolated proteins, you can no longer slap it on a scale because, like Kyle, what's the smallest weight that you think a scale can measure? Like against gravity?
+ So you can get, I know for a fact that you can get really nice analytical balances.
+ And these, these costs sort of in the, the, the many thousands of dollars, um, you can
+ get them that will measure like, I think micrograms.
+ Yeah.
+ Yeah.
+ Like fractions of a milligram, definitely.
+ but they're once you're into that range like fractions of a milligram you know sort of like
+ if you want if you want 10 microgram precision like you have to put it in a box to prevent the
+ air from pushing things around right like you it's got a cup and you tear it and then you put
+ the stuff into the into the cup or into whatever the weighing dish is or the surface and then you
+ have to close a plastic box around it because yeah and then wait for the air currents to go away
+ yeah it's exactly yeah yeah so they're a pain in the ass so um so in an actual wet lab one of the
+ things that you do is you actually dilute it in distilled water and you measure it against like
+ a spectrophotometer spectrophotometrically um you just pass light through it and you measure
+ different wavelengths um for certain amino acids and you measure it against known quantities of
+ protein. So you make like a standard dilution series for like bovine serum albumin or something
+ like that. And then you make a standard curve and, you know, you're looking for really good
+ precision, like R squared of 0.9999 or something like that is basically the standard. And then you
+ can measure your sample and see how much is in there. But you're looking at a test tube of clear
+ liquid. So that's how little protein you can measure. And if you try to measure that on a
+ scale would be very, very hard. So that is the old school way of doing it. And it's already fairly
+ precise. So it also has a drawback. Like if you have a mitochondrial protein fraction, and it has
+ bits of myosin heavy chain or lactate dehydrogenase in it, you would never know unless you assay for
+ it. Like you put in chemicals that these things are going to react with, and then you look at
+ what happens on the other side. That's how you would look for it. So you don't have the greatest
+ idea of how clean your sample is. There's always going to be some kind of other stuff in it. So
+ we can also do things like you can Western blot, which is basically a highly specific
+ way to probe for proteins. And then you basically run a gel and then you put your stuff in it.
+ And then you, the Flockhart paper actually has a bunch of gels that they ran.
+ They did a lot of Western blotch for this in order to assay how much of a thing you have.
+ And they also, when you look at this, they have a standard curve and they know how much is in each fraction.
+ And they don't have like, this is how many micrograms or milligrams of this we have.
+ They have arbitrary units because they're literally measuring how much black splotch they have versus this other black splotch.
+ so not a very precise method it's it's it's precise enough to track
+ large changes over time but it's not amazing so
+ one of the things that the granada paper does that's awesome they use label-free quantification
+ they use mass spec which uses tiny tiny samples but you can get much more precise about what
+ you're looking at and how much, especially the relative amounts. So Kyle, give me, give us the
+ three sentence definition or explanation of how mass spec works. So a mass spectrometer measures
+ the charge, like electric charge to mass ratio of the molecules or atoms or whatever you dump in.
+ And it does so by applying a known electric and magnetic fields and then measuring how much
+ the path of the molecules or atoms bend in that electromagnetic field, that tells you the ratio
+ of the charge to mass. Yeah. And so there's basically some tube that's curved and there's
+ a detector on the outer wall of the curved tube. Imagine if you walk into a room and the wall on
+ your left is the detector. That's what it looks like. Yeah. And basically just depending on where
+ along that wall the molecules or atoms hit, that tells you something about the charge to mass ratio.
+ Yeah, exactly. So they looked at isolated mitochondrial samples and they found 1,411
+ proteins differentially expressed across the training phases. So that's how many things
+ changed in their samples across these phases. And so in order to start narrowing this down to just
+ genes for mitochondria and proteins for mitochondria, they compared it against two
+ databases for known or predicted mitochondrial genes. And by the way, mitochondria don't have
+ a ton of genes. They have their own DNA. It's a circular DNA. It's not like the chromosomes that
+ we have, but they don't have a ton of genes on it, but they have some. Most mitochondrial genes
+ have by this point migrated to the host cell's DNA. And I say host cell because mitochondria
+ used to be independent bacteria. And so you've got to look for both mitochondrial DNA and nuclear
+ DNA for mitochondria. There are other ways to suss that out. We won't get into it, but
+ But they pulled out proteins that did not match because there were unavoidable sample contamination like we talked about.
+ And they ended up with 584, which is only 32% of the isolated proteins by mass out of the 1,411 proteins that were differentially expressed.
+ So a lot of contamination, a lot of extra stuff.
+ Like most of it was from the, you know, sarcomeres and, you know, blah, blah, blah.
+ Because it's muscle.
+ Like, of course, that's what you would expect.
+ Yeah, you blend it up.
+ You can't – it would be extremely difficult to somehow take this biopsy and then like pre-extract.
+ I guess you could maybe centrifuge it.
+ I don't know how you would go about trying to decrease the amount of extra stuff you get in that biopsy.
+ Yeah, exactly. So it's really difficult to do that. And so I think one of the things that they noted was that they call this in the paper mitochondrial protein enrichment MPE. And don't worry about that. We're not going to spend really any time on it.
+ But it might be interesting to note that as people trained, the amount of mitochondrial protein in their samples actually went up.
+ And it peaked.
+ It started at 32%, and it got up to 39% after the hell triple.
+ So we're going in the direction that we want for this stuff.
+ We are now taking a sample of mitochondria, and we're really going to be able to look precisely, quite precisely, at how much protein we have versus how much mitochondrial total protein that we have, mitochondrial mass, et cetera, et cetera.
+ So they went one step further than this.
+ So I said they've got 584 proteins, and they also removed proteins identified in less than 70% of the samples.
+ Okay. Yeah. I mean, that seems like a reasonable strategy to try to make, improve your odds that these are actually things coming from the mitochondria and not, you know, when you do a biopsy, I'm sure you get some skin in there and, you know, all this stuff.
+ Yeah, exactly. Yeah. Yeah. When you do a muscle biopsy, I mean, I've seen them do it. They like, they sit there and remove fat and connective tissue from it. Like there's, you know, you gotta, you know, you gotta clean it up. And so they also removed proteins that were not high confidence mitochondrial proteins. They're not like, okay, wow, this matches both of our databases, yada, yada. If they weren't entirely sure, they were like, great, get it out of here.
+ So now they go from 584 to 498 proteins total.
+ And so instead of normalizing against citrate synthase activity, which they also did, like I said, as one data point to normalize against, they now normalize against all 500 proteins or 498.
+ So does this seem like a better normalization strategy or what?
+ Yeah, this certainly seems like they're trying to give a very conservative way of trying to normalize, right?
+ They want to take only high-confidence things or at least things that appear twice and make sure that they appear in both databases.
+ They appear every time in their samples or almost every time, 70%.
+ So, yeah, they're really trying to be as conservative as possible, you'd imagine.
+ And they still end up with a ton of proteins to look at.
+ A ton.
+ We're going to hire 500 grad students, and each of them is going to get one protein.
+ Okay, so if you're reading along with this paper, they have one more thing for us to cover.
+ And this is how they report the fold change from their normalization values.
+ So a log two fold change is a standard omics, like, you know, proteomics, genomics, et cetera,
+ et cetera, way of looking at fold change. So one fold, you know, if, if, if it increases like one
+ fold, it goes up a hundred percent. If it increases two fold, it doubles, et cetera, et cetera. So
+ they do, uh, remember a log is an exponent, right? So log base two is two to the what is my value,
+ right so if a two-fold change is reported as kyle is what for it'd be it'd be one like a factor of
+ one yeah you know uh or factor of one some strain is not correct it'd be an increase of one a unity
+ increase yeah yeah it's a log two-fold change of one so a four-fold change reported as two
+ eight as three, et cetera, et cetera. So it's a nice way to linearly scale this kind of stuff.
+ And so a lot of it, when you look at log two-fold change in a lot of these informatics papers,
+ they will color code it. And so you can look at a very large swath of proteins, like the group
+ of like 30 proteins together or 30 RNAs together. And they'll look at, like they'll color code the
+ log twofold change. So you can actually visually see real quick what goes up and down over, you
+ know, the course of some intervention. Like you add some chemical to this thing, it goes up or
+ goes down. Like it's pretty, pretty simple to see and interpret that way. And you can, you can also
+ get technical with it. Like they also have all of their supplemental data is available if you want
+ to download it and run your own analysis on it. It's pretty cool stuff. That is kind of cool. Like
+ that's nice that they they give away their data like that like a lot of people feel this weird
+ sort of extreme i don't know possessiveness over their data and once once the data have been
+ collected and even though they publish their paper they are some people are just weird about giving
+ it away or letting other people see it for whatever reason um yeah and and i understand for
+ For a lot of people, they want to be the first to publish on the data they collect, which is fair.
+ But once you've published on it and you got to be like, first, hey, look at this new data, it kind of feels, especially if you're supported by public funds like government research, it kind of feels like you should make it publicly available after that.
+ Yeah, that's our data.
+ I paid taxes on that.
+ You get the first crack, sure, because you did it, but you did the work primarily.
+ Although I've heard of also another thing, this is a little sidetracked, in academia where if you are aware of a major property of something, you can leak papers out and make predictions about stuff too.
+ So you can increase your output and you can also increase the predictive value that you have of certain things if you know how something works and nobody else does.
+ And so this can actually be something to really improve your, I guess, brand as a scientist?
+ Yeah, I guess if that's what you're into science for.
+ Yeah, I don't know why anybody would be, but I hear about it.
+ Anyway, so I think the other thing about the log two fold change is that once you look at this paper, the normalization method that is used does not mean that your first value is zero.
+ So your fold change might start as plus two or minus two and go up or down from there.
+ So if something starts from plus two to minus two, that's like, that's quite a large full change to see.
+ It's not like, oh, wow, it's just like minus four.
+ It's like, that is a huge amount of reduction in expression.
+ Yeah, absolutely.
+ Yeah.
+ It's kind of, that is one reason why sometimes log is nice and also log can be deceiving.
+ Yes.
+ So what is our result?
+ So as spoiled in the headline, yes, indeed, proteins in the electron transport chain are deprioritized during times of mitochondrial biogenesis.
+ So we're talking about log FC values from plus two to minus one or minus two between baseline versus normal training values and also from normal versus the intense training period.
+ And so, Kyle, do you have this paper up?
+ Yeah.
+ Let's look at normalized versus – or not normalized versus their best normalized.
+ So best is their way of – their name for their own normalization scheme of like isolating proteins and looking at only mitochondrial proteins, et cetera, et cetera.
+ Oh, so clever.
+ Ha, ha, ha.
+ Yeah.
+ So, I mean, look at complex one for electron transport chain, like not normalized versus their normalized.
+ So like what's the difference in the two?
+ It's huge.
+ Yeah, yeah, yeah. You see, so what they do in these plots, they show a grayed out area of all of the proteins, and then they highlight the ones that they think are the ones they want to track for their best normalized.
+ And so it gives you an idea of the fraction of total amount of proteins as well as the ones that they are actually looking at how much they change.
+ And again, it is a little weird just because it is a little bit of a log plot.
+ Okay, anyway, so yeah, so normalized versus non-normalized is fascinating because in the normalized, complex ones through five, they all start at like a plus two or something like that, and they all drop to like minus one.
+ Yeah, and immediately too, right?
+ It's just with – it's not even – it doesn't even take getting to the intense, clearly overreaching regime.
+ Yeah, it's baseline to like the first, the normal week of training. So, and then they start to creep up again, like even through hell weeks, plural, and then, you know, the reduced volume week. Like they just, they have a linearly increasing amount.
+ But one of the things that I think is fascinating is the mitochondrial ribosomes.
+ Baseline, they start low, and they increase in a linear fashion until you get to hell week.
+ So this is post three hell weeks.
+ We have increased linearly mitochondrial ribosomes, and then it starts to drop.
+ So why does this make sense?
+ that we would want to increase mitochondrial ribosomes at the same time that we are probably having a large increase in mitochondrial mass.
+ Well, ribosomes are there to replicate DNA, right?
+ Not DNA. They make proteins out of RNA.
+ Yeah, sorry. They read the RNA and they make the proteins.
+ So if you are actually making proteins, you need to make more proteins.
+ You can't make ribosomes work faster, so you have to parallelize it.
+ Yes.
+ Yeah, so it's really cool.
+ During these expansion periods, or what we would expect to be expansion periods, and judging by the increase in mitochondrial protein fractions, which you can actually see in figure 2a.
+ So the mitochondrial proteins they have as purple over like a salmon kind of thing.
+ And the mitochondrial protein amount is increasing linearly along with ribosomes.
+ And then it starts to decline once we get from the hell weeks to recovery week.
+ But once we normalize it, straight across the board.
+ So anyway, so this is, I think, fascinating.
+ So I spent probably too much time staring at figure two.
+ I also spent too much time staring at figure three.
+ Beyond that, it's a little beyond our scope, but it's fascinating nonetheless.
+ So, yeah, so no, we do not have a steady stoichiometry.
+ We do not have a steady ratio between mitochondria, the volume, and mitochondrial respiratory proteins.
+ So kind of like I speculated probably 20 minutes ago, this is actually what happens, that we get mitochondrial expansion because it's more important to be able to consume substrate for the electron transport chain in a large, more surface area, more import area.
+ This is more important than having mitochondrial electron transport chains because our electron transport chains are not maximally taxed.
+ that's what is happening. So, um, and what I think is also interesting is that even with the extra
+ 50, whatever hours of recovery from Flockhart's 14 to the Granada's 72, we still don't see this
+ normalization, which is why we're both wrong. Yeah. That's fascinating. I mean, so you really
+ dig in a hole there with that extreme overtraining. Yeah. Yeah. And this is exactly how Flockhart and
+ probably many others would see decreased mass specific respiration rates or mitochondrial mass
+ specific, uh, since we're maxing out what's there in the electron transport chain when they're
+ isolated. But, um, you know, having more, uh, in the sample would increase the maximum, you know,
+ we've been over this. So, um, I think one more thing that really interests me here before we
+ wrap this paper up. So in addition to everything else they did, uh, and this is figure three,
+ they looked at six clusters of mitochondrial proteins designed to do certain tasks.
+ And the clusters don't break out exactly the way I expected them to. So some of them are
+ Krebs cycle and fat oxidation. Some of them are for translation. Some of them are for
+ electron transport chain, but it's like 70% of the Krebs cycle proteins. And this one has,
+ this cluster over here has 30%. They might be like close on, you know, certain areas of DNA
+ and usually be co-expressed together. It might be something like that. I'm not entirely sure.
+ Um, but they looked at, um, they looked at the two consecutive periods.
+ So they compared baseline versus normal, normal versus excessive and excessive versus reduced
+ training, uh, using their normalization methods.
+ So two things that stand out to me is that during recovery, after the three hell weeks,
+ the cluster that had the biggest increase that was, you know, it was deprioritized during
+ the training and then increased while recovering cristae formation and protein import
+ like i don't know why this is so fascinating to me it's because you're a nerd that's why yeah
+ because i mean what's so important about cristae so cristae are the very very inside folds of
+ mitochondria. So, um, so this is, this is the, uh, uh, what textbooks would call invaginations,
+ uh, inside the endometrial membrane. Um, and so this is where we get electronic transport chain
+ stuff happening. Like this is where, this is where it all happens. Um, and so that makes sense. It's,
+ it's, it's a way to internally have a lot more surface area. You think about charcoal or things
+ like that, as opposed to being just a smooth ball, it's a very wrinkly surface on the inside.
+ And that adds a ton of surface area. Yeah. And so it goes from, you know,
+ like a minus one, minus two expression to like a plus one, plus two, you know,
+ some genes are kind of neutral-ish, but this is the biggest change that I see from training to
+ non-training for all of these. And other things are really interesting, like proteins for
+ translation have the, you know, they actually drop off after excessive training. Mitochondrial
+ fatty acid beta oxidation, 30% of Krebs cycle proteins, 25% of, you know, amino acids and
+ derivatives proteins. These have the highest expression from baseline to normal. And then
+ they drop and then they start to come back up. Uh, so, you know, you, I've, you could stare at
+ this, uh, you know, this figure as long as I did, um, and just keep going, oh, wow, that's
+ interesting. Uh, but nothing that we can really talk about too much at this point. Um, yeah,
+ yeah. When you sent me this figure, I was like, this is an intense figure. I've seen some,
+ I've seen some figures in my day, but there's so much going on. You're just like, uh, I know
+ But informatics, right? It's just so much information at once.
+ Because the figure caption is on a different page, you're like scrolling up and down and being like, wait, what's part A, part F?
+ Like, what am I? Yeah, it's a lot.
+ I know. That's one of the reasons this took me so long to kind of get my head around it.
+ But yeah, I expect most people who are reading this are like, oh, it took you that long?
+ I'm sorry. I'm not that smart, people. I'm just doing the best I can.
+ Anyway, so Wattstock number 40 kind of goes into more details again about why more mitochondrial surface area might be more important than electron transport chain stuff, et cetera, et cetera.
+ So the other thing is that –
+ Would you say that Wattstock number 40 is a non-friction episode?
+ I would say WD-40 is intended for – to create less friction.
+ in some ways. Just don't leave your chain with WD-40. So the other thing that's interesting to
+ me is figure three. So they have Krebs cycle, TCA cycle. They have each protein expression and also
+ subunits of each protein. So isocitrate has four subunits. They look at each of the subunits,
+ no, not as a citrate, um, alpha-ketoglutarate, um, you know, suction, like, et cetera, et cetera.
+ So I am fascinated by this stuff because a lot of the Krebs cycle stuff actually has its highest
+ expression from going to baseline to normal training and then starts to fall off a little
+ bit as we get into recovery week. Um, but it still looks like it's like lagging until we get to
+ recovery. But we have the same thing happening with fatty acid oxidation. We have the same
+ thing happening with protein folding. We have the same thing happening for reactive oxygen species
+ formation, mitochondrial translation. So that's ribosomes and stuff like that.
+ All this stuff has the highest expression going from baseline to normal training.
+ And if we scroll down to the second half of this, so this is our electron transport chain, oxidative phosphorylations.
+ We have subunits for complex one, assembly factors, et cetera, et cetera.
+ All has the lowest expression going from baseline to normal training.
+ And then has some more expression going from normal to excessive and then, you know, et cetera, et cetera.
+ And so looking at the two, this actually supports our hypothesis that being able to consume more fats and lactates are much more important than maintaining the electron transport chain stoichiometry and normal mitochondrial physiology.
+ because during excessive training, you've got to really, really be able to support the ATP demands.
+ And this is one of the best ways to sustainably without, you know, with the least amount of
+ homeostasis disturbance. This is another reason why during excessive training for Flockhart,
+ we saw the highest amount of fat oxidation because we had the most mitochondria that we had the most
+ surface area. Even if our electron transport chain density isn't quite as up to snuff as we
+ might expect it to be. Yeah. Yeah. And kind of like you keep saying that the electron transport
+ chain is, is not the limiting factor, like just raw processing volume, like throughput of all
+ this stuff as you're working so hard is what, is what all, you know, making more mitochondria is
+ addressing. Yeah. Okay, cool. So do we have any more thoughts on this article before we push on
+ to our last topic, which is the
+ Hawley and Bishop response to Flockhart?
+ I found
+ a 5 gram
+ maximum weight analytical
+ balance that will measure 1
+ microgram increments.
+ It's only a cool
+ $11,000.
+ It probably takes
+ like 1 or 2 grand
+ in maintenance fees every year too.
+ Yeah, calibrating
+ this thing must be an enormous pain. Yeah, but oh my God, can you imagine having a kitchen scale
+ like that? I mean, this thing maxes out at five grams though, so. So no.
+ Maybe to measure out like five grams of creatine, that's it. You're very precisely loading like
+ espresso shots with it or something, you know, I don't know. Oh, there we go. If anybody does that,
+ let me know. I'm curious about your setup. Uh, okay. So let's get into the Holly and Bishop
+ response. So, um, I was, I didn't actually know that this existed until I read the Oscar. You
+ can drew up article about it, um, about this paper. And then, and then I was like, Oh, I got
+ to go back to my show notes and actually add this in. So, so, um, uh, I'll have a link to this in
+ the show notes as well. So, so they go through a lot of background information. They go through a
+ lot of pretty standard stuff, but they have a couple really good points, a very good different
+ take than I've got on the Flockhart paper. So their first point is to question whether
+ isolated mitochondria can be representative of all mitochondria, like in the same muscle.
+ And so, you know, this is, you know, this is me talking, but I think this will probably remain
+ an open question until somebody wants to get biopsied a whole lot more during a hell week
+ protocol. Oh no. Like imagine getting 20 or 30 biopsies from the, from like your, um, from your
+ quad muscle on the outside, your vastus lateralis. Yeah. In three weeks, like a biopsy a day.
+ God, I, I, well, you would want to get them all at the same time. So not a good time. Um,
+ Although if somebody wants to do that, I bet somebody out there is starting to set up that study as we speak.
+ They're going to get so many participants.
+ Yeah.
+ So many.
+ I mean, because so many people probably read this Holly Bishop thing.
+ They're like, oh, that's a good experiment.
+ We should do that.
+ So if you're probably in Australia, which is where this is probably going to happen, go sign up for it.
+ So, uh, Holly and Bishop also follow this up with the fact that, uh, in muscle fibers,
+ both skinned and permeabilized, um, they show normal respiration function versus isolated
+ mitochondria. So what are we talking about here? So when you take a muscle sample and you get all
+ the bits off of the outside of the muscle, um, you can actually take off the muscle sarcolemma,
+ the muscle membrane and have isolated, um, muscle fibers basically. And now you have a good way to
+ get, uh, your solution into them very quickly because the membrane is the barrier between
+ the inside of the cell and the outsides. When you remove that, you can actually have, uh, muscle
+ fibers operate somewhat like normal, but also kind of not. It's, it's another, it's an interesting
+ prep where, um, you know, we don't quite have all the data to relate to whole body, yada, yada. So,
+ um, yeah, it's anyway, it's a really interesting prep. And so it's actually a very common prep,
+ uh, because Granada did this prep as well. Um, Flockhart did not do this prep. They were looking
+ for isolated mitochondria. Um, but they did have, uh, mitochondrial max rate normalized to citrate
+ synthase activity and Bishop and Hawley point out that these were not significantly different
+ when normalized to surgery synthase activity, which is, uh, as Bishop and Hawley point out
+ the normal method to normalize, uh, respiration and all mitochondrial related things. So, um,
+ so they're basically saying, you know what, this is, this might be a nothing burger. Don't worry
+ about it it's you know isolated versus normalized like if we normalize to our normal usual thing to
+ show mitochondrial mass not a not a big not a big difference it doesn't take a hit
+ so yeah and and this is one one of those things when you read the the nature paper when they're
+ looking at all this normalization like it it that was definitely when i was reading the in the skimming
+ the paper like, oh, there's a huge sort of question mark in there about this normalization
+ scheme and they try their best. And certainly that's probably where lots of people can take
+ the same data and give you significantly different results. Yeah. Yeah. I mean, how many times have
+ I done that in the past where like I'll open up determinants of endurance, that coil paper,
+ they've provided so much data. I'll go, oh, I wonder what the correlation is between these
+ two things and I'll just be able to do my own analysis on it. Uh, I've done that, I don't know,
+ five, 10 times over the last couple of years. Um, so yeah, it's, um, anyway, so guess who did do
+ the permeabilized muscle fiber prep? Granada. So, right now, do we have any guesses on if the
+ respiration rate was impaired for the, uh, for the stripped muscle fiber as opposed to isolated
+ mitochondria? Did we see a reduction in
+ maximal respiration rate per unit muscle mass?
+ Hmm. All right.
+ Time's up. Yes or no?
+ I'm going to say no. I thought yes.
+ I was wrong. You're right. It's no.
+ See, now I'm going with what I think is not
+ like since we were wrong.
+ So, yeah. So relative to muscle wet weight, cause you can't dry it out and have functional muscle. Um, it was not impaired for how weak. And in fact, it actually kept going up, uh, not significantly different from the normal training, but it was trending up a little bit. Uh, but you know, basically statistically the same. Um, even more interesting, Granada normalized the muscle mass specific respiration to their mitochondrial protein normalization.
+ Like their, their, their particular normalization method straight across the board.
+ So, yeah.
+ So like, so muscle mass, like per unit, like doesn't matter what the mitochondria seem to be doing.
+ It seems that they're just fine.
+ Like they were able to process the same amount of oxygen, uh, given saturating conditions, like maximally, uh, in muscle, the same, pretty much no matter what, like given these normalization, uh, schemes.
+ Huh? Yeah, that's, that's interesting. I, it, oh man.
+ Well, and also I think as much as I like the Granada normalization scheme for looking at all these proteins and picking your 498 of your best friends to track, and this is the kind of specialization that a lot of labs don't have the ability to do.
+ You've got to get your mass spec, and you've got to get people who know how to work that stuff, and you've got to do all the stats, and you've got to do all the number crunching.
+ It's difficult. It's a whole project in and of itself. Yeah. Yeah. And so this is like the start
+ of finding a good way to normalize things. But for now, if we're looking at citrate synthase
+ activity, normalizing to that, that also shows no significant differences across the board for
+ both Granada and Flockhart right through these training sessions. So that might just be a fine
+ method to, um, to use with the asterisk, knowing that, um, it may not always have a good stoichiometric
+ consistent ratio during periods of training adaptation. Um, and as long as, yeah, as long
+ as you know that going in, then yeah, you can take that into account. Yeah. So, uh, so the other
+ question raised by Hexen and Bishop, uh, is they actually focus in on the, uh, the 14 hours, uh,
+ for a flock heart after the last training session before biopsy. Um, and so this is me reading
+ between the lines. They seem to be implying that they caught the mitochondria mid adaptation with
+ mitochondrial pants down, if it were so very tiny pants, if mitochondria wore pants, would they wear
+ them like this or like this? I will make that a meme. Um, actually, I don't know if I have the
+ Photoshop skills for that. So lastly, they ask whether the maximum mitochondrial respiration
+ rate for isolated mitochondria can actually cause a role in whole body glucose control,
+ because they note that it's difficult to reconcile reductions in glucose tolerance when whole muscle
+ GLUT4 expression on whole muscle was the most abundant, and also whole body fat oxidation
+ peaked. Because if we look at some of our other ways to talk about mitochondrial function or
+ dysfunction, if fat oxidation is peaking, this is a sign of mitochondrial function,
+ according to some, and not dysfunction. So we have, again, they're pointing out that
+ the data doesn't quite square for what the headline is. But this is also pretty typical
+ of headlines. Yeah. I think it's also interesting because you're getting into this regime of,
+ of, yeah, you, you want to know why, like, okay, so in a vacuum you say like, oh, you're,
+ you're training too hard and you're not recovering. Why aren't you recovering? And you're like, oh,
+ well, it turns out just like everything else, we're even recovering and adaptation to training
+ has all these different knobs to turn. And so you, you can spend decades, right. Of people
+ chasing, trying to chase down all this stuff. And it's, it, and it takes some pretty advanced
+ science and methods to, to track some of these things down, which is one reason why this is so
+ difficult to, and it's not just, oh, we can just track this one metric and we know how close you
+ are to overtraining. Yeah. Yeah. Um, yeah. And, uh, you know, um, I, I, I swear, like I,
+ I was so hopeful for this paper and I was, I'm still hopeful for, you know, for, uh, for science
+ to uncover something. But, um, you know, it looks like for now, at least the Flockhart paper does
+ not give us what I hoped it would. Um, cause I honestly, like I, I was like, as soon as I saw
+ the headline, I, I was hopeful too. Uh, I, I immediately opened up a new show notes and I was
+ like, what's luck number 41 overtraining question mark? Like, are we going to have a potential
+ mechanism? And the answer is no, unfortunately we don't. Although maybe we do, who knows? I don't
+ know. Is this part of a mechanism for overtraining? Is this something that we see happening in people
+ who are chronically overtrained and chronically, you know, just hating exercising and feeling
+ sluggish and lethargic? And is this something that happens? I don't know. Should we check them out?
+ Probably. So I think it really provides an interesting potential window into a gap in
+ our understanding of not only overtraining, but also just exercise in general. We still don't
+ know a lot of some things that might be considered fundamentals about mitochondrial biogenesis. Do
+ certain proteins maintain stoichiometric ratios during mitochondrial biogenesis in response to
+ training? Seems like no. Some yes, some no. And I'm sure that there are even a lot more details
+ to be sussed out. You know, what if we do threshold training? What if we do endurance training? These
+ are all high intensity training. So there's a lot more questions that this opens up like good
+ science does, which is why both the Flockhart and the Granada papers are excellent for this kind of
+ thing. So anyway, Holly and Bishop make one last point in their response, which is that, you know,
+ They're talking about our gaps in our understanding too, and they're talking about the need to integrate cellular, tissue, and whole body level responses in context of each other.
+ Because this is actually one of the – I've said this in the podcast before many times where being able to go from cellular mechanism to whole body performance is a really, really difficult bridge to build.
+ Yeah, that sounds hard.
+ And you think about this, all these metrics were very, you know, essentially cellular level measurements, right?
+ You're doing muscle biopsies.
+ So, you know, you're very down in the weeds, quote unquote, relative to whole body things.
+ Yeah.
+ And I agree with Bishop and Holly fully.
+ But I think we should take this a step further because this is Wattstock.
+ And if it's worth doing, it's worth overdoing in regular old Mythbusters fashion.
+ Not that we're Mythbusters, although I wanted that job for the longest time to be on that show.
+ It did seem like a cool job.
+ Oh, my God.
+ Yeah.
+ So I think we need a better definition of mitochondrial dysfunction.
+ So clearly in Flockhart and Granada, mitochondria are probably functioning just fine.
+ I think it's interesting to see if the overtraining goes longer. Will we get to a point where we see some actual dysfunction? Like is the question is like, is this like the first step for overtraining? It's sort of like, if you're overtraining, you know, your power output stagnates. First step in overtraining.
+ Once it starts to go down, you know, that's possibly non-functional.
+ Like if your threshold is 300 watts one day and now you're really, really training hard and you feel like it's only 270, that's a problem.
+ And so, yeah.
+ So like, so, you know, so cellularly in terms of mitochondrial physiology, is this uncovering a first step?
+ We don't know.
+ I don't know.
+ Well, mostly I don't know.
+ Maybe somebody else out there does. I hope to talk to them someday.
+ So for flock heart granada, mitochondria seem to be functioning just fine because, you know,
+ periods of, you know, hard training happen to people and they come out the other side. All
+ right. With enough recovery, of course. So are mitochondria dysfunctioning when you're training
+ hard? Probably not. Others though will define mitochondrial dysfunction as not using fats.
+ but just sort of weird yeah like whole body like fat oxidation is reduced why um is this
+ mitochondrial dysfunction but typically when i see this i don't see any attempt to control for
+ known factors that improve fat oxidation like mitochondrial mass so they have even less type
+ of normalization than flock heart or granada do like no citrus synthase activity no total
+ mitochondrial protein content, like none of that kind of stuff in terms of normalization.
+ But do you know what real mitochondrial dysfunction looks like? Elhan, Lieber Hereditary Optic
+ Neuropathy. Kyle, you used to be pre-med. You know this one, right? I've heard of it, but I don't
+ remember anymore. Yeah, it's rough. It's a bad one. This is one of the ones that I remember from
+ school, which is there's a mutation somewhere in mitochondrial DNA that causes an actual dysfunction
+ of complex one in the electron transport chain.
+ So using NADH to shuttle electrons and protons
+ into the electron transport chain
+ is greatly reduced or like not done entirely.
+ So this results in a loss of color vision,
+ eventual blindness,
+ because the function of complex one is impaired or lost.
+ And the eyes are hungry for energy.
+ So mitochondrial dysfunction means pathology.
+ And so clearly there's a pathology in overtrained people, but we still don't know why it happens.
+ And we can see normal mitochondrial dysfunction, if we can say mitochondrial dysfunction is normal to any degree.
+ We can see it as neuropathies, diabetes, seizures, heart problems.
+ And as far as I know, they're all genetically produced.
+ Yeah.
+ And so I would hope the authors of the Granada and Flockhart papers would have definitely noted if their participants started losing their vision or having seizures or heart problems.
+ It sounds like one of those drug commercials where they're like, side effects include.
+ Side effects of 20 days of 40 high-intensity workouts might include punching investigators in the face.
+ And so also remember how many things were going well during the excessive exercise training in Flockhart from improving fat oxidation to improving VO2 max despite this performance stagnating.
+ Yeah, it's interesting.
+ And I think, too, like, it is, yeah, the word dysfunction is like a, you know, there's no formal definition, right?
+ Like, especially I'm sure in these contexts, people are using dysfunction in a much more colloquial term and not necessarily meaning a specific pathology or pathologies like this.
+ And so I think this is one of those realms where the crossover between science and then like popular science gets a little messy.
+ Yeah. Yeah, it does.
+ Although I, you know, I attempt to do the same thing sometimes.
+ I certainly want to, you know, bridge these things.
+ And it's hard. It's genuinely hard.
+ Because, you know, we can't yet directly compare function of isolated mitochondria versus in permeabilized muscle fiber preps versus whole body athletic performance.
+ Because they haven't been investigated in relationship to each other enough that we can draw any conclusions.
+ It's like how many times in science, like if you look at like one isolated thing, then you put it in the context of a whole, its behavior entirely changes.
+ Right, right.
+ Yeah. Or its behavior doesn't matter because it's never got a rate limit or whatever. So
+ that's part of what we're dealing with here. So this is literally the edge of science. We've
+ gotten here on the podcast before, and I wish I had better conclusions for people. I apologize
+ for that. But I think we can definitely say five HIT sessions in a week and 40 in two weeks
+ is probably too much. I think we can conclusively say that.
+ We found two training protocols that are too much for most people.
+ Yeah.
+ Or for many people.
+ Yeah.
+ Although, actually, I think it's interesting because this is another thing that Bishop and Holly mentioned is this was a one-dimensional training program.
+ It's only high-intensity training.
+ And most training programs don't look like this.
+ Even when I've got people doing VO2 max training, the rest of their training is very, very easy.
+ Very, very easy.
+ I mean, I wonder, too, if it's a time thing where if you wanted to do an overtraining study with aerobic base volume, like, oh, 30 hours a week, 40 hours a week.
+ Yeah, I think you'd have to.
+ Yeah, for sure.
+ And that's another thing where you have to get people to do that.
+ It's going to be difficult to get somebody to ride a bike 40 hours a week, and how do you control the intensity, et cetera, et cetera.
+ So, um, so the, um, but, but, you know, they, uh, uh, Holly and Bishop and, you know, everybody listening obviously recognizes the fact that if you want to overtrain somebody, you're going to have to fucking crush them with intervals.
+ Um, and, and that's going to be the easiest and most effective time effective way to do it.
+ Um, and they did.
+ So I think that's probably, you know, a pretty obvious reason for this.
+ But the, you know, the next big step in, you know, getting an overtraining protocol would be to figure out some kind of thing that's all intensities.
+ Like, you remember the Hickson study, you know, heavy squats and deadlifts, like four or five days a week or something like that.
+ Yeah.
+ Oh, for eight weeks, nine weeks. Oh man. Um, yeah.
+ I want to see, uh, yeah.
+ See someone having to do like eight by 20 sweet spot or something for their,
+ for their overtraining sweet spot, you know, or something,
+ something ridiculous like, Oh, every day, six by 20 for four weeks.
+ I mean, that does sound like that. Niels Vanderpool training.
+ He's like four by 30 at threshold five days a week. Okay. Okay. Niels.
+ Have fun with that.
+ Actually, I think there's one more thing that these papers prove that we need beyond a doubt.
+ Recovery.
+ So, snacks and naps, everybody.
+ Snacks and naps.
+ We need a T-shirt that says snacks and naps.
+ Oh, that's a good one.
+ Yeah.
+ I will say, though, I guess in hindsight, it kind of makes sense that the extra 72 hours maybe wasn't enough if these people are just so royally beat up from 40 sessions in two weeks.
+ Well, actually, I think it's pretty telling.
+ I actually had a thought to write that down for our notes, but I didn't.
+ But I figured you would think that up, which is we don't have a recovery day and after – or even like two or three days and after that, we're like back to 110%.
+ Like that's not how long the super compensation takes.
+ It can take many days.
+ It can take a week.
+ It can take more than a week.
+ Like, so it clearly takes a little while for things to normalize and, you know, uh, having mitochondrial proteins and Christi, uh, you know, come back up to normal and, you know, the mitochondria not having to support so many freaking ribosomes, um, you know, that can, you know, be a big energy sink is just like making and maintaining ribosomal content.
+ Um, and so it can definitely seemingly take some time. And if you've got more mitochondria and
+ they're going, Hey, we need extra stuff. Um, yeah, you're going to have to take some time
+ to adapt. It seems that's another thing that these papers are definitely showing is that
+ you are not fully recovered. Everything doesn't return to baseline, like after a couple of days
+ or weeks. And the question I would have also is how long does it take for things to recover to
+ baseline? Or are these stoichiometric ratios changed once we are well-trained and forever
+ training from being sedentary? Another open question. So that's, like I said, another reason
+ that these papers are great is they ask more questions than they answer. Well-done science
+ always gives you new avenues to chase down. Yeah. That's interesting too, because I don't know the
+ answer, but I would be interested to know what, so your body has to constantly overturn cells and
+ renew and regenerate just, you know, your skin, all the tissues in your body, like just get turned
+ over periodically, right? So what fraction of that, like how much energy does your body spend
+ doing that versus the amount of energy your body spends recovering from exercise? So you figure
+ basal metabolic rates, right, for people can be thousands of calories. And you figure doing a lot
+ of exercise, you may burn, you know, another 1,000, 1,500, 2,000 calories, however many kilojoules
+ you burn on your long ride. But that's not energy that you're, not all that is energy that your body
+ is then subsequently using to recover. Like what fraction more, you know, of your basal metabolic
+ rate goes up because you're recovering or like, you know, people, you hear people like they crash
+ and they break a bone. You're like, oh, you should probably eat a little bit more when your body's
+ like, oh, we got to like heal a hole in your bone or something like that, because that's a very
+ like intensive process. That is actually a very interesting thought because they measured basal
+ metabolic rate in the Flockhart study. And give me a second to pull it up. And if I'm not mistaken,
+ it was pretty much the same. However, there is definitely a thing called the EPOC, E-P-O-C,
+ elevated post-exercise oxygen consumption. And this is why after like a super, super,
+ super hard training ride, you're going to have elevated heart rate the next morning,
+ stuff like that, because your body's still repairing itself and it takes oxygen and energy
+ to do that. Um, and so as you are, excuse me, and as you are recovering, it takes more energy. Oh,
+ here we go. Resting metabolic rate and kilojoules per minute. So they did this, uh, before the
+ biopsies. Um, and it looks like there were, yeah, nothing, really nothing. Although visually I see
+ there is a little bump for recovery week, but yeah, nothing really. Um, and here's the thing
+ is that it, you know, all this kind of thing is more complicated because you might be more
+ lethargic afterwards. So you might have the same, um, you know, uh, energy expenditure needs,
+ but you also might not get up and move as much because you're tired. And so that energy would
+ be spent on repairs. And also like, it just also can show that sometimes, you know, you're not
+ going to be breathing hard when you get up in the morning after a hard workout, right? Because that
+ would be a sign of, oh, wow, the oxygen consumption is really elevated. Yeah. Although I think
+ everyone, a lot of people are probably familiar with that feeling of you get done with a hard
+ workout and you're still hot, right? You're warm and you're sweaty, even though you're done. And
+ you're like, yeah, my heart rate's definitely up. I'm warm for not doing anything. And then also
+ that, that like fatigue where you hit a certain training volume and intensity, and you're just
+ like, I am a shell of a person at work. Like I just can't, I can't think I'm just, you're like,
+ oh, I gotta look at the calendar when that rest week is coming. Cause you're just like,
+ absolutely. Um, yeah. So I think, um, yeah, recovery snacks and naps. Um, anyway, you want
+ to get to a couple of Instagram questions? Yeah, let's go. Before we go. Um, all right. So, um,
+ I love our listeners by the way, because they ask great questions. Um, I, I took a sneak at
+ sneak peek at one or two before we started recording and there were only a couple, uh,
+ at that point. Um, but, um, yeah, great questions. So the first one, is it, uh, this dysfunction
+ that in fact elicits the signaling to create the adaptation we want.
+ And I would say that it is probably, so the quote-unquote dysfunction would be
+ electron transport chain proteins lagging behind mitochondrial volume. And I would say that there
+ is probably some kind of sensing mechanism. Obviously, nobody really knows exactly how this
+ works and it's probably decades before we even get a clue, but that there's probably
+ some kind of mechanism where, yes, when these things lag, there is some kind of sensor that
+ says, okay, we need to bump up these things that are lagging.
+ So that would be possibly, yes.
+ That answer.
+ I know.
+ It's the most hand wavy.
+ It depends.
+ I'm so sorry.
+ I mean, everybody now, you all know as much as I do about the study.
+ So, you know, you can make up your own mind about this.
+ My answers are just mine.
+ I have not thought any of these through.
+ I like that question a lot, by the way.
+ So not a question, but make a drinking game anytime you say mitochondria is the powerhouse of the cell.
+ I just said it, so drink.
+ That's the first time, though.
+ I don't think we said that.
+ We'd never said that the whole rest of the previous episode.
+ No.
+ So thank you, kind listener.
+ How much overtraining is too much overtraining to get adaptations versus crash and burn?
+ This is actually a really interesting question, and I don't exactly know.
+ With VO2s, when I'm coaching somebody, we'll get to a point where somebody's legs kind of fall off,
+ and then we recover as much as needed.
+ That's pretty normal.
+ well, for the way I operate anyway, uh, for threshold stuff. Um, you know, sometimes it's like,
+ that's, well, I think this is one of the other reasons I like TTE training. It's like adding
+ time and zone. Cause when you stop adding time and zone and you're like, man, I'm only at two
+ weeks into a three week block. What am I doing? You are, you might be riding too hard besides that,
+ besides the intervals, um, you might not be recovering very well. And like it exposes a
+ weakness. And so, you know, yeah, I don't know. Because, you know, you can't just retread old
+ pathways. You can't do the same thing because your body doesn't get that stimulus to adapt.
+ We've said this on the podcast probably hundreds of times. And so you do have to overreach at some
+ point. Where is the limit? You know, I don't know, but I recognize it when I see it. That's a
+ Terrible answer.
+ It's the worst answer.
+ I don't know what pornography is, but I know it when I see it.
+ Yes.
+ Kyle, you can tell Kyle's a Supreme Court fan.
+ Yeah, there you go.
+ Yeah.
+ Does overdoing volume cause the same results?
+ We do not know.
+ I mean, obviously, yes, it can.
+ You've got to build up to the volume.
+ So if you go from couch to, like we were saying, like 30, 40 hours of riding easy a week, sure.
+ Especially if you're not eating enough or sleeping enough.
+ Yeah.
+ Yeah.
+ Why not?
+ But there's another question where you don't know what the conversion rate is, right?
+ Like, oh, how much overtraining, you know, an hour of too much zone two you would think is going to be less overtraining stimulus than an hour of HIT intervals.
+ Yeah. So like we said before, these studies open up a lot of questions, and that's one of them. But I would also say, typically, if you're overtraining while doing volume, you're probably riding too hard or not eating enough, possibly both.
+ What if we come up with a new metric that gives you more TSS if you eat less?
+ I think that's stupid.
+ Did you see that?
+ Why would anybody do that?
+ No, I did see that. And I, yeah, I think it's a good way to encourage people to not eat on their rides, which is a horrible idea. Terrible idea. Yeah. Like even, even when I was doing experimentation with, with like low glycogen rides, you still have to eat on the ride. That's like, you don't just go fasted, like you eat on the ride.
+ And just because the ride gets harder while you are riding doesn't mean that you are actually increasing adaptation because that's the implicit thing about training stress score is that you're increasing training stress and tacitly on the other side, there should be adaptation.
+ So I don't see that happening if you're not eating enough on your rides.
+ Typically, if people are not eating enough on their rides, their adaptations actually don't happen.
+ And so I could see if that score, I didn't read into it, but I just saw the basics.
+ But if that score were like, we're going to increase what we expect your fatigue level is, but dock you for adaptation.
+ Okay, yeah, sure.
+ I could see that.
+ So I don't know a lot about it, but, you know, at first glance, I was not a fan, but I probably am, you know, misunderstanding a lot of it.
+ So I apologize if I don't want to malign something I don't fully understand.
+ So, uh, I, I, I retract calling it stupid. Uh, I, I, I, I reserve the right to, uh, to pass judgment at a later time. Um, so how big was the overtraining and what does an easy week look like? Uh, okay. So 40, uh, workouts over threshold in 20 days is a pretty big overtraining.
+ And I would say that their easy week where they go from 10, 9, 8, 7, 6, yada, yada, down to four intervals was probably a little rough.
+ It's definitely a reduction in the training.
+ But it's not like a proper recovery week.
+ Yeah.
+ It's not easy.
+ Yeah.
+ Easier.
+ Yeah.
+ And to be fair to them, they all – both Flockhart and Granada called it reduced weeks instead of recovery.
+ I kept calling it recovery because I keep thinking about recovering and going, ah, I don't have to do 40 more workouts in the next three weeks.
+ So a proper easy week I would say is like one or two days off the bike, probably one or two days recovery rides and maybe like a two to three hour kind of easy, moderate paced group ride.
+ And, you know, then kind of make the call about how you're doing for the next weekend or next training block.
+ Um, so what are the signs of mitochondrial dysfunction? So for whole body, um, yeah,
+ you're looking at like real problems, like real pathologies. Um, you know, diabetes is another
+ sign of mitochondrial dysfunction. Named diseases, not just, oh, I feel tired because I've been
+ riding my bike too much. Yeah. Oh, actually, you know what I thought was really interesting while
+ I was researching mitochondrial diseases is, um, when you get mitochondrial disease, um, uh,
+ diabetes, um, rates of like losing feet and stuff like that are apparently reduced. So it's, it's a
+ slightly different, uh, you know, kind of manifestation, I guess, which I thought was
+ really interesting. Um, yeah. So do we have to find this overtraining or just stop at the limit?
+ Um, I, for the purposes of the study, you kind of have to find the overtraining, but, um, you know,
+ I think, I think there's, yeah. So did they train more than they needed to? Yes. That is
+ overtraining. Um, is it overtraining like chronic overtraining? Like a lot of us probably think of
+ when we first hear that word? No, it's not because you recover on the other side of it.
+ Like chronic overtraining, it takes you months and you possibly never recover. So that's, um,
+ you know, it's a very different realm. Yeah. Yeah. Um, not a question about the study. I'd
+ like to hear your story about overtraining and burnout and learnings. Um, I was one of those
+ more as more people before I knew shit about shit and, uh, I fucked myself up. Good. I really did.
+ Um, I was doing stuff like eight by one minute, all out followed by threshold training.
+ Um, and I was doing many, many, many days in a row. Um, and, uh, by the time I got to my first
+ race of the season, which was bat and kill, I was out the back in about 10 miles. Um,
+ then I took that summer off the bike and, uh, pretty much what I learned is, uh, don't do that.
+ The hard way. Yeah. No, I, I, I don't have any like really acute memories of,
+ of extreme overtraining aside from my, um, 10 years as a competitive swimmer doing like 20
+ hours plus a week. I'd say that qualifies as chronic overtraining. But it was not acute,
+ right? It was just the, like, you're like, Oh, we are, you're in a slog and like, you're always
+ tired. You're always tired. And, and I think it was fairly evident to me that I was definitely
+ always tired, maybe a little bit more than other people, because sometimes we would have bigger,
+ bigger meets bigger competitions and we'd rest two three four days before them so like not not
+ very much but like a lot compared to just like training through everything which is what most
+ in-season um competitions were and i would still swim like shit and and like a bunch of my teammates
+ would go faster and it's like oh i did the three days easy or whatever not enough um you know and
+ I remember coming back from a lot of training trips. We'd go to training trip on into Florida
+ in January and spend 10 days, 10 to 14 days training two days, two times a day. Um, we,
+ they give us every, what was it? They would give us every eighth or every seventh session off.
+ So if you're doing, you know, double days every day, every once in a while, you got to,
+ there were two days where you only did one workout. Jesus. Um, so anyway, so that, uh,
+ fucking swimming, I'm sorry, but Oh my God, Katie's got the same stories about swimming.
+ Whenever we talk about it, just, and yeah, she's, she's rightfully much more upset about it in
+ hindsight than you are. I think you should probably, uh, where's your moral outrage, Kyle?
+ I have Stockholm syndrome.
+ But a lot of times we would have a meet like the weekend after getting back.
+ And I remember just like swimming all the races that I was racing and just being like, I'm not even going to look at the time that I went because I know it was so bad that it's not even recording as a memory.
+ Like, is that even worth recording as a memory, as a time?
+ You know, you're just like, oh, you know.
+ And it made sense because we got back then and then our big championship meet was in February.
+ So you like destroy yourself in January and then you have a three or four week taper into championships and it worked.
+ But like, oh, man, I think that actually highlights something really interesting, which is people have a different tolerance for that kind of overtraining.
+ And also it might actually reveal that some people have different strategies during the training of like being able to kind of dog the workouts a little bit.
+ So that way you're not slogging through it.
+ Like, like you and I have talked about maybe on the podcast, I forget, uh, about, um, way back in the day with Russian and Bulgarian weightlifters, how their coach would sit to one side and to reduce the load, they would like load the bar differentially, like 10 kilos less on the far side.
+ and they got used to like cleaning and jerking like less weight like that just to just to get a
+ little bit of recovery and on that left side oh god my strategy was just blowing up like i you
+ like cruising along in a workout right and it'd be like a the equivalent of like a vo2 max workout or
+ a threshold like sweet spot session and eventually i would just like blow up and not be able to hold
+ the pace anymore and just like get lapped basically it was my strategy like because yeah you'd be like
+ I'm going to hold on until, until that feeling of like, when you're doing VO twos or when you're
+ doing, you know, hard anaerobic work where you're just like, I literally cannot keep going, you
+ know, like your body's just like shutting it down. Cause this is, this is clearly too much,
+ you know, and obviously you get more fatigued and you're overreaching more. And you're,
+ for me, you're going like probably just going more anaerobic every time.
+ Yeah. You just blow up and die. That was the, that was my strategy.
+ Oh God, that sounds terrible. Um, all right. So next question for those of us who can't measure
+ mitochondrial respiration slash OGT, uh, oral glucose tolerance, are there any clearly defined
+ quote unquote friendlier? Uh, so are there any better ways? Uh, yes, I actually have an easy
+ way to watch for, uh, fatigue and overtraining, which is your RPE at threshold. It's that simple.
+ Like does threshold feel like threshold?
+ It feels harder.
+ Maybe you need some rest.
+ If it feels easy, great.
+ You're getting more fit.
+ It's very, very, very simple.
+ That's it.
+ And having a good RPE when you're feeling good and like kind of keeping that in your memory or in your periphery somehow is it's absolutely necessary.
+ So you've got to start with a good baseline because if you start with what threshold feels like when you're on death's door, that's not going to be a great reference point for you.
+ Yeah.
+ Peak power, also a good one that correlates really well with being recovered.
+ So if your sprint watts are looking pretty decent, all right, you're probably good to go.
+ If they're kind of shit, maybe you need a better warm-up or maybe you're really fatigued.
+ So that's something where you need to really consider what your situation is and why things might not be right. Same with threshold. Like if your threshold feels terrible and you haven't eaten enough that day, maybe you should go eat more and maybe things will feel better. So there's, but it's just a good way to start cluing in on something's off.
+ If you don't get on the bike right away and feel something's off, some people can.
+ I'm kind of hit or miss with that kind of thing.
+ I always need a couple efforts usually to figure it out.
+ So, yeah, those are my two easy kind of not quite foolproof but reliable ways to gauge fatigue or being off.
+ You mean heart rate variability connected to a 12-lead EKG isn't your go-to?
+ I have a one-lead EKG that barely works.
+ For all of you with a home 12-lead, maybe six leads is probably fine.
+ I think six leads is reasonable, definitely.
+ Let's just hook that up to the metabolic cart, too.
+ Yeah, just get all the data all at once.
+ Next question, what's the mechanism here?
+ Excessive reactive oxygen species?
+ What's going on long-term on a chronic level?
+ So long-term on a chronic level, we don't know.
+ I wish we did.
+ It's not adrenal fatigue.
+ that's for sure. That used to be the mechanism of overtraining is your adrenal glands have a
+ hard time producing epinephrine and norepinephrine and yada, yada. But it turns out that that's not
+ the case. It's been very definitively disproven. Yeah. It sounds like a nice explanation. It's just
+ not. Oh, way back in the day, I gave it to people too before I knew any better. I was like, oh,
+ it's adrenal fatigue. Um, and you know, and the thing is, if having a, an explanation of some
+ sort for people is enough to go, okay, yeah, I need to chill out. Um, and I think some people
+ are like, oh, it's not adrenal fatigue. My adrenal glands are fine. Some people will keep going,
+ not everybody, but some people will be like, ah, that's bupkis, whatever. Just keep hammering.
+ It's fine. Um, actually I think it's interesting to note, this is why I love our listeners so much.
+ Um, so excessive reactive oxygen species, um, there is on, um, I've actually looked
+ at this quite a bit because for a little while I was thinking maybe it is reactive oxygen
+ species.
+ And the answer is actually no.
+ Um, there is not excessive reactive oxygen species produced during times of overtraining.
+ And, uh, I've seen quite a few papers now that look at this.
+ And actually, the amount of things like superoxide dismutase and catalase and all sorts of stuff that are made specifically to counteract reactive oxygen species, they actually increase in expression.
+ and, um, uh, uh, you know, superoxide and other reactions of oxygen species, things like that
+ are actually reduced typically, uh, during times of training, because that's one of the basic
+ mechanisms of, um, adaptation is you have to mop these things up or they're going to really damage
+ yourselves. Uh, and so that is like, uh, something that does not seem to, um, happen. Uh, cause for
+ a long time, I was like, I had on the back of my mind is that's a potential mechanism for
+ overtraining. And I, uh, downloaded a lot of papers that I, that I half read. And I was like,
+ I'll just really get into these later. And then I started seeing stuff that was like, Oh, maybe
+ that's not the case. And it seems not to be. So, um, if the flock heart study down to figure six,
+ um, the, the headline for figure six oxidative stress is maintained during excessive training
+ owing to reduced mitochondrial H2O2 emission with a simultaneous loss of NRF2. There you go.
+ Last question. Would functionally understanding mitochondrial function and its fatigue lead to
+ better training modalities? I think it might if, you know, not only not quite understanding
+ mitochondrial dysfunction, because we have to define that first, but yeah, understanding
+ mitochondrial physiology better and muscular physiology and mitochondria's role in the cell
+ and what normal training adaptations look like versus abnormal training adaptations,
+ excessive training adaptations, what they look like. Um, yeah, I think that that would possibly
+ help quite a bit. I think we're a long way from that though. So, um, yeah, uh, more, more science,
+ please people do more science we like science um all right kyle so where are we at um
+ let's uh let's put a bow on this yeah we still don't know a ton about exactly why overtraining
+ happens nor have we unfortunately identified a go-to fail proof metric for telling you when
+ you're getting too close to the sun. It'd be cool if we did, but we don't. That being said,
+ as you kind of said, there's a holistic way you can kind of view. There are a couple sort of
+ self-checks, sanity checks that you can use in addition to if you just take a step back and just
+ listen to your body generally. If you feel like shit, that's a pretty good sign for overtraining.
+ But ideally, yeah, in the future, there would be some sort of metric where even if it was kind of inconvenient to get and it was like a blood test, at least that could be a useful definitive tool in high-performance sports, national teams, Olympic teams, things like that, where you could arrange for team doctors to do this or something like that.
+ That would be super interesting.
+ But unfortunately, you know, if muscle biopsies aren't a very clear, yeah, practical solution, like odds that it would, that a, something as simple as like a blood test would be able to tell you this, you know, secret metric that we're all searching for also kind of low.
+ So, you know, it's just, it's, it's interesting. And it feels like one of those things where you're, it's not, you're not even like tantalizingly close. You're just like, oh, if I just, you know, this seems like the right route to go down, but you still feel like you're really far away from being able to say a lot of definitive statements on this is why overtraining happens.
+ aside from just you're doing too much and your body can't keep up like that. That is in a holistic
+ way, just saying you're, you know, your body can't keep up with the demands you're placing on it.
+ That's true. Right. That's a, yeah, no, I wonder about that in the longterm too, because so yeah,
+ when it comes to all this stuff, like, you know, nothing that we've seen today says that you should
+ deviate from your normal amount of training routine, except for maybe more recovery.
+ if you're not getting enough. That's really about it. And having a good sense, Kyle, like you said
+ about some people tapering for like two or three days, not being enough for you and being enough
+ for others, getting a good sense of where you personally are in that spectrum versus your normal
+ training routine and training load is actually a great idea. Because some people do way better
+ with more recovery and some people need recovery and then to kind of get their legs back under them
+ with a little bit of riding and training first. Um, and knowing where you are, there is a big,
+ big thing to watch for. So, um, and also everybody's got personally different, um,
+ signs of overtraining. Um, like I get really, really grumpy when I'm training too much. Um,
+ even, even if I'm eating enough, like I just have the worst brain fog. Cause you know,
+ what we do is all like, it's all neural, like it's all maximal contractions, like
+ a lot of the time. Um, and so I get that kind of fatigue from it. And I, when I was doing endurance
+ training, it was very much the same. Um, so that was me personally. It may be you, it may not be
+ you. So, uh, individualizing that kind of stuff, um, is something that's quite necessary. So, um,
+ yeah, is that about, uh, is that about wrap us up? Yeah. Sounds good to me. All right. Um, so if you
+ like this podcast, we don't usually get into papers like this where there's not much on the
+ other side of it for actionable conclusions. Usually I like to have something that people
+ can go, oh, cool. I know this about this, or this will inform me about this. This will inform you
+ about different normalization schemes for mitochondria and all that kind of stuff. But
+ there's not a lot of practical takeaways here, really. So if you want to hear us do more of this,
+ let me know, uh, DMA on Instagram or respond to one of the AMA questions in the weekends or,
+ uh, email me, let me know. Cause we can do more of these. Cause there's a lot of papers out there
+ that I think are really interesting where I'm like, eh, there's nothing on the other side of
+ this. I don't know if we can turn this into a good Watsok episode. Um, yeah. Although I would
+ say the takeaway here is if someone tells you that they have a clear cut reason on why overtraining
+ happens or the impetus behind overtraining symptoms, they're wrong.
+ Yeah. Oh, no, for sure. I mean, I think actually, I think we talked about, this was on a podcast,
+ I forget exactly which one, so many now, where I think I was saying that having the background
+ that I do, it doesn't give me that much better idea of for new training methods, but I feel like
+ it allows, at least me personally, it allows me to sniff out things not to do. Cause you can go,
+ oh, this won't work because this, this, that, and the other things. And everything I've learned
+ for the most part really reinforces the basics. And it's not sexy. It's not fun. It's not a good
+ headline grabber of, you know, ride your bike and have a snack. That's not a good headline.
+ Actually, it's a pretty good headline, but yeah. Yeah. Sometimes, you know, sometimes this stuff
+ is more about recognizing, you know, the BS and recognizing the hype people versus actually having
+ a good practical takeaway. And so I think, I think in a way it can be helpful because I think if we
+ can help people, um, you know, arm themselves with some kind of knowledge like this, then they can
+ actually, uh, make better decisions for themselves rather than potentially jumping on every single
+ training bandwagon, which, uh, not everybody does obviously, but, um, you know, I'm, I'm not beyond
+ it myself for sure. So hopefully we can save some other people some time, uh, that kind of stuff.
+ Um, all right. So thank you everybody for listening, uh, subscribe to the podcast as
+ always iTunes ratings. Thank you all for all of those reviews, wherever you listen to your
+ podcasts. Hopefully they're nice. Um, appreciate them. Um, we're ad free. So if you'd like to
+ donate to the show, empirical cycling.com slash donate. And of course we've got our show notes
+ up on the website, empirical cycling.com head over to the podcast episodes, or, um, yeah,
+ you can get a link to all the studies, uh, especially the nature one is open text. I
+ I remember Flockhart, maybe I forget, but go check out the studies.
+ They're really, really fascinating. And honestly,
+ even if you only look at the figures,
+ that is the way I start reading every paper is I look at the figures.
+ If they've got a main point, it's going to be in the figures.
+ Go understand those, read the captions. It's good stuff.
+ And let me know if you have any questions on that. I'm always happy to help.
+ So if you have any coaching or consultation inquiries,
+ email me empiricalcycling at gmail.com. And of course,
+ We're always taking on athletes and we're always looking to do consultations to answer your questions.
+ Our time is your time.
+ We will look at your training files.
+ We can consult with coaches.
+ We can consult with teams.
+ We can do the whole shebang.
+ Up on Instagram, Empirical Cycling.
+ We get an AMA stuff in the stories.
+ And if you would like to stalk these stories and ask some questions for future episodes, I will give you a prompt.
+ You can ask some questions on what we're going to be talking about.
+ So thank you, everybody.
+ Thank you for sticking through my raspy voice.
+ I apologize for that.
+ Hopefully I'll be better for the next episode.
+ So we'll see you then.
+ Bye.
+ Thanks, everyone.

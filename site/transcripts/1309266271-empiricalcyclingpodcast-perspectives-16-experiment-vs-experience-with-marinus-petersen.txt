@@ -1,0 +1,1052 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Our usual co-host,
+ Kyle Helson, has the day off today because, of course, we have a guest in for an interview. So,
+ of course, the usual stuff, subscribe to the podcast, five-star ratings and sharing it.
+ Those are all great. Thank you so much. But really sharing it, we so appreciate that. If you are
+ passing our advice on to people with or without credit, we understand. If you want to share the
+ podcast up on a forum or something like that, that is so fantastic. Thank you so much for all of that.
+ And of course, remember that we are ad-free, so if you'd like to donate and support the show that way,
+ empiricalcycling.com slash donate is the way to go.
+ We have some show notes up on the website.
+ We do talk about a couple papers in this one.
+ I will link all of them.
+ And actually, the main one is actually open text, so you can definitely head in and read that
+ and form your own opinion, as we always encourage.
+ If you have any coaching or consultation inquiries, of course, that is our main business because the podcast is free.
+ You can reach out empiricalcycling at gmail.com.
+ Of course, we are taking on athletes at all levels.
+ We are negotiable, of course, for students and professional athletes because we know some pros don't make a lot of money.
+ That's cool.
+ We understand.
+ We want to work with you anyway.
+ And, of course, if you have any extenuating circumstances, please reach out, and we are happy to find you a good coach and a good fit at the right budget for you.
+ And, of course, if you just want to reach out once and have a consultation, we can do that, too.
+ Our time is your time, and we will answer any questions you have.
+ We will look at your training.
+ We will give you training advice.
+ We will help you sketch out a season or something like that.
+ We'll talk about periodization, lifting, or whatever you want to discuss with us.
+ We're happy to do that.
+ So thanks so much for all of your inquiries, by the way.
+ And of course, up on Instagram, at Empirical Cycling, of course.
+ We have the weekend AMAs up in the Instagram stories.
+ And give me a follow there and check out the stories.
+ I've been told that they're fantastic because they're really, really short.
+ It's better than Twitter, but not as good as a podcast in terms of duration.
+ So for a lot of people, it's just the right amount in the middle.
+ So thanks, everybody, for participating in those.
+ Those were a lot of fun for me, too.
+ And now as we get into the interview, I want to apologize first for the audio quality again.
+ Sorry, we are working these bugs out.
+ So my mic clips a little bit, and as a recovering audiophile, that really bugs me.
+ It probably doesn't bug a lot of people, so I'm jealous of you for that.
+ I was not getting any feedback that I was clipping.
+ So, uh, on the recording. So, um, you know, otherwise I would have adjusted my levels,
+ obviously. And our guests had to, uh, had to go find, um, refuge in a cafe. And, um, of course,
+ that means there's a little bit of background noise. I've gated him, uh, tried to get the
+ background noise, but of course it comes in and out. Um, you know, I'll, I'll do my best as I can
+ with that. Um, but it's a really good interview and I thought we had a great conversation, so
+ we're not going to take another crack at it. It is what it is. So obviously this is the 2021 Welsh
+ road race champion. He's a coach at Kilowatt coaching, his own coaching company. We discuss
+ his recently completed education at Loughborough university and some of the research he did
+ on potentially supplementing citrulline. Is there a result? Well, you're gonna have to listen to
+ find out. So of course, we also, the main reason that we got together for this podcast is recently
+ a paper on bias and research results came out and, and, you know, he's done stats a lot more
+ recently than I have. And so we wanted to discuss that. So we go into that paper quite a bit. And
+ we also get into things like lactate and critical power and warming up and all sorts of other usual
+ stuff that coaches have in conversation. So I was, I was caught a little bit on the back foot on some
+ with these topics because, um, you know, I like to do a little bit of research. I'm not so quick
+ on my feet. So that definitely comes through and I apologize for that. Um, but, um, yeah,
+ so our guest is really, really smart. He's really cool. Uh, we have a really good conversation. The
+ more I talk to him, the more I like him. And I think the more everybody hears from him, the more
+ you're going to like him too. Uh, and of course he is a coach. So if you want to reach out to him,
+ you can do so at kilowatt coaching up on Instagram. He says, that's probably the best way to do it.
+ and of course you can reach out to him you know his name is Marinus Peterson and I'm really
+ looking forward to everybody hearing this conversation so without further ado let's
+ get into it and I'll see you on the other side one of the things that I was struck by as we as
+ we talked is that you know as we chatted I felt more like I was talking to a peer and that's
+ definitely kind of your you know your education coming through but also I think it was interesting
+ in that there was some questioning of the education because, you know, you had said that
+ there's a lot of emphasis on like high intensity training and stuff, where at the same time,
+ you know, in your experiential, I don't know, experience, I guess, wow.
+ So yes, and so in your experience with training, you find that, you know, violating the principles
+ that you were taught in school actually are somewhat beneficial and i i really appreciate
+ that level of doubt and also just trial and error um so tell me about uh your education and um and
+ you know the kind of the strengths of it and uh why you know what's the emphasis on high intensity
+ interval training uh coming out of the best uh exercise physiology university in the world
+ Well, first of all, one thing I do, what makes you start doubting it or makes you start questioning things,
+ is when you can see you're at the best place in the world.
+ These are all the leading experts.
+ And they even work together in the same office.
+ And you can still ask them a question about something and they can all give you a different answer.
+ They still don't quite agree.
+ So like you could ask them say like do you think there's anything to sort of training with low glycogen stores?
+ Do you think that can drive adaptation at all?
+ And some yes two experts who work in the same lab literally one would say oh I think I think there's there's there's something in this fuel for the work required.
+ And they're really on something and then equally my supervisor he thinks there's nothing in it at all.
+ He thinks it's all a hoax and he thinks it's bullshit.
+ And they literally work together on the same projects, publish studies together, done research in training and nutrition.
+ So, yeah, like you sort of realize at some point you learn all this stuff and then you do have to be critical about it and make your own mind up.
+ And there are some things that people are more agreeing on and some things that still really divide all the top experts in the world.
+ That was, yeah, that's been, it was really helpful in that. And they are, and you do get taught, especially as you go along the course, to be more critical and to, every time you look at a paper, think like, actually, you know, who was the, what was the study design here?
+ does that really can you really interpret the results of that and apply it to the population
+ you're looking at and and and that's kind of a skill that they they do um they do try and
+ encourage and they do teach you but i think perhaps as we'll go into more that that's that's
+ still almost underdone um and there's and there's other there's other aspects to to consider when
+ you're looking at scientific research that and the limitations of it that that isn't quite
+ understood or emphasized enough well you said uh well let's start on the positive note first before
+ we kind of get into what we oh yeah before we slate it yeah just get slating it yeah what do
+ you find that people actually really agree on um one thing is that uh high training volumes
+ whether you're a rat or mouse running on a hamster wheel or whether you're a world tour cyclist
+ that high volume of training generally correlates with better endurance performance
+ um i'd say that's that's one thing that's pretty constant um and then i'd say even that and then
+ again that for elite performers most with the exception of one thing i well i think i was
+ listening to recently that generally seems to be a consensus that most of your training needs if
+ you're an elite athlete needs to be below your first very easy and below your first threshold
+ um and i the last thing i'd say is that yeah for for high intensity exercise you need carbohydrate
+ um i guess that that would be it sound yeah yeah well no one really disagrees about that
+ Well, you bring up first threshold, and in our first attempt at this recording before Internet Connections took a poo, I think you had talked about how it felt like the first, like LT1 was the only real threshold, and that LT2 or whatever we want to call it is actually highly controversial.
+ And so why don't you tell me a little bit about that and we can try to unpack it, because I think this is going to be really, really interesting for people to hear about.
+ Okay, so what we got in one of our lectures, we actually presented with, like, this is how sports science does it, which is you have three zones.
+ Your first zone is from rest to your first lactate threshold, which is what you should apparently do most of your easy aerobic training in.
+ And then you've got your second threshold, which they call critical power, which is what they use.
+ And then you should do your high intensity intervals above your critical power.
+ and you should minimize almost at all costs time spent between your first lactate threshold and
+ your critical power and then they they mapped that against like andy cogan zones and i don't even
+ think they did it quite correctly and so they even put all they put like threshold training
+ was all below cp so fdp and everything was below cp and they just and and they almost they were
+ they like they just completely take the piss out of like sweet spot tempo they just lump it all
+ into they just call it oh it's all tempo or some pointless like rubbish like that and it all just
+ gets kind of like lumped together um and then yeah and they talk about how you kind of get
+ magic adaptations that happen above your cp which they are treating as being something very
+ a very definite point um and that there's no point training harder than your lt1 unless you're going
+ to go above cp because it just induces more fatigue but no more training benefit and um
+ and yeah yeah so that's that's a summary of yeah that's that's really interesting um yeah because
+ i think um you know our our experience in the real world as cyclists and cycling coaches uh
+ is actually quite contrary to that um and and you know i think i think you had said in take one that
+ um that basically are it was something like there are so many definitions i'm really going to badly
+ paraphrase you now i'm sorry uh there are so many definitions of lt2 um that it's that it almost
+ doesn't seem like it's possible to actually measure yeah yeah um although i did put out a
+ podcasts a couple uh weeks months ago now um basically i basically bashed um all lactate
+ threshold tests and that that's not to say i was in favor of critical power but i was just saying
+ that if we look at the power curve um like an athlete's full power curve for you know last 365
+ days usually captures most max values and usually somebody's best performances from last year which
+ I think it's pretty fair to do. We can actually see that threshold that everybody's looking for.
+ Over it, we fatigue faster. Under it, we fatigue slower. It's really, really simple to look at and
+ that's it. And I think when we start to try to make physiological definitions to define that
+ point we can get lost because there's so much individual variation like i found that doing an
+ mlss test at mine um my lactate accumulation was actually greater than would be allowed in the mlss
+ you know like stabilization and after first 10 minutes plus one millimole i was actually like
+ 1.6 or 1.8 millimoles after like after like at 30 minutes or something like that um so it didn't
+ capture me because i'm badly aerobically trained i have no mitochondria so i cannot oxidize
+ lactate or fat i have i have three mitochondria they're all in my my fingers because i type all
+ day that's it yeah you know um well i i think what you're saying though about how so you you get
+ your method depends on having a really complete power profile which is perhaps well at least very
+ good with lots of points so you can clearly see where you get that inflection point where i think
+ that's that's very difficult to do in i think a lot of these sport science studies they'll they'll
+ be on sort of like very recreationally trained people who and and like who even over the course
+ of an intervention their fitness is probably going to increase or change because they've they've just
+ Just going in and doing each test is going to make their performance change.
+ Knowing where to pinpoint these durations is also going to be difficult because you
+ don't know what would be appropriate length of their year because of what their time to
+ exhaustion would be.
+ It's possible to do in the scenario with you and your athletes when you know what durations
+ you need to test them on but in a like uh like lab setting in the study conditions it's it's near
+ impossible i'd say it is and that's that's one of the very difficult things about it is that um
+ you know in the real world we actually have the luxury of being able to aggregate performances
+ where in a lab setting we don't and i've um i've been part of a cycling research group and people
+ ask me like oh what's your uh you know protocol for this and i'm like i don't have a protocol
+ because i get to talk to the athlete and i get to um i get to look at their data and that means i
+ have if we're looking for lt1 and lt2 i have very easy ways to to go okay we're gonna we're gonna
+ test in like 15 watt increments more or less and then we're gonna measure lactate and we're gonna
+ also measure rpe and we're gonna measure hrv and we're gonna do all these other things and then
+ we're going to look at the data afterwards and go okay this corroborates because because we we have
+ a point to start looking you know um and so it is it is very much a luxury that i think um in some
+ ways can really stymie the quality of you know definitions of threshold and academia let's say
+ yeah yeah and i think i think this would be kind of the turning point for sports science
+ to be researched to be like more respected by coaches would be if it could they could start
+ finding better ways of just gathering like race and training data from races and training that
+ people are doing anyway and processing that rather than trying to go along the route of
+ like which they've all it's always been that so everyone has to go into a lab everyone has to do
+ exactly the same protocol and and and really like that's it's not ecological and it's it's not gonna
+ yeah lead to finding the best information really yeah no and but um you know when it comes to
+ actually uh having a good study protocol you know you want to control as many variables as possible
+ you know getting people in the lab having to do the same thing is would really be the gold
+ standard so it's a it's a difficult choice to make because if we start taking like like actual
+ performance data from on the road we don't know if somebody's power meter is off one percent or
+ eight percent and we don't know if that was a max effort or not um you know we can assume it was
+ probably 95 to 99 percent of a max effort like in a race but there's fatigue to contend with like
+ you know who knows um so i think i think it's a difficult spot to be in um and actually that
+ reminds me i wanted to ask you did you see the um the paper uh factor artifact um so like 50 years
+ of controversy on critical power or something like that no i'm not familiar with that actually
+ oh man i should have sent that to you instead of the one that we're going to talk about
+ but yeah it sounds much more interesting it's funny because what they do is they basically
+ look at what they start taking you know like um they take a bunch of performances um and take
+ like three minutes, like 12, 15, 20, 60, 90, two hours, five hours, et cetera, et cetera.
+ And they look at what's the critical power when we put in all of these data points.
+ And they found that as the longest duration of the critical power calculation goes longer,
+ they actually are finding that the critical power is always like 95 to 99 percent of their
+ longest calculated value.
+ Right, so it just gets lower the longer you extend the test durations out to.
+ Yeah, and the response to it was interesting too, because they were like, well, 3 in 12 or 3 in 15 minutes is pretty much the gold standard these days.
+ Yeah, yeah. And even though in the original Manon paper, they had said that, I think he recommended that the longest, or the minimum long duration was like 20 minutes.
+ or something like that yeah yeah whereas they say that's the the maximum pretty much and it's yeah
+ it's always 3 and 12 is the classic thing with critical power tests yeah well and i i think it's
+ funny too because i um this might be interesting to hear your opinion on is um is because kyle and
+ i had actually recorded a podcast on on that paper and then we scrapped it because it wasn't very
+ well organized um because yeah i didn't do enough prep for it it was it was a 10 minute tips and we
+ which should have been a Wattstock because Wattstock I'll do like eight hours of prep for
+ an episode where 10 minute tips, I literally do 10 minutes. Um, but one of the things I came up
+ with an example of an athlete I have, um, who I've been coaching since like, you know, November,
+ December, something like that. And I did a critical power calculation with him, which last year,
+ 2020, uh, 2021, um, came out to about 403 Watts or something like that. And his FTP was like 363
+ 370. This year his FTP is actually 400 watts. Um, and so like, it was an interesting, and his
+ critical power calculated this year is the same. Yeah. Um, and so I thought it was a really
+ interesting example of the performance coming up to meet the calculation, but that's not going to
+ be the case with everybody. And ironically it's because he's done a lot of middle intensity
+ training yeah yeah that that that all makes perfect sense to me and perhaps even you could
+ use critical start to see and use critical power as something like vo2 max where it's like it
+ represents the ceiling of how good you could be whereas your your threshold or your ftp is more
+ like this is what you can actually do in the real world and that's why it's functional so that would
+ be actually a really interesting idea yeah um well now that i've got some world tour data i
+ actually i can do that calculation and see if anybody violates or exceeds that um although yeah
+ i doubt it but um maybe some folks can't sure um but uh actually this kind of gets into statistics
+ because i think uh because this kind of will work into the paper that we're going to talk about
+ initially is whenever I see people doing like correlation studies on whether this threshold
+ matches with this threshold and stuff like that like MLSS with critical power or LT2 with the
+ DMAX method or whatever it is yeah I usually see things like bland Altman plots and you know
+ they're looking for you know a distribution they're basically looking for the distributions
+ to line up and like be you know our 95 confidence interval overlaps with this 95 confidence confidence
+ interval or something like that uh i'm not i'm not entirely sure though because my stats are
+ really rusty last time i took stats was like 2012 or something like that so um i've done it slightly
+ more recently yes you have which is why i think it would be interesting uh if you wanted to comment
+ on kind of those correlational studies on finding that these things are at least statistically
+ not significantly different yeah so i mean the this paper that we were looking at here
+ um is quite yeah quite shocking really it just shows how how bad of an issue it is in research
+ that you've got way more um like results that are just like only just statistically significant
+ so like and and so like if if if if you just if everything was in an ideal world it would it would
+ follow a normal distribution like when you but what you can see with that actually happens is
+ you've got like a massive spike of values that of like studies that are coming out was just like
+ only just statistically significant on either side of the distribution and then almost nothing
+ coming out as as like you know just proving the null hypothesis um although when i thought about
+ this more and i thought there there is kind of an argument for why that might actually be the case
+ and and it would be that like what you wouldn't design a study if you didn't think like that um
+ that nothing was going on like you wouldn't be like i'm going to design a study to show that
+ there is no correlation or like between people's favorite color and their gender because there's
+ there isn't anything going on so it makes some sense that that you see that and and i guess what
+ aligns with that is that the value the like the what's the word like how the problem in medicine
+ it was was very similar like uh the occurrence of this problem was very similar in medicine to what
+ it is in sports medicine so it's it's not like it's if it is a problem it's not unique to sports
+ science oh definitely yeah well because the paper is let me check my notes here real quick
+ it is probably right down the title i swear i did oh the bias for statistical significance in sport
+ and exercise medicine um and i think and i read the paper and i one of the things that i thought
+ was interesting is that they note um registered papers i think is what they called it um so i
+ think um i didn't look this up because it is basically what they talked about what kind of i
+ kind of got the picture of like they have they register a method um methodology then they carry
+ it out and they report it regardless of what result they get and it's yes that it seems that
+ um registered reports wasn't it that's what they call it oh yeah yeah that's it um yeah it seems
+ like the actual um non-significant results they get are much more common when they actually do
+ yeah like that it gave the example of when they've done it in psychology they got uh half as many
+ positive results where a positive result would mean that there was something going on yeah and
+ they said that since they've been doing that in sports science they've suddenly got or sports
+ medicine they suddenly just got a lot less papers being published um so and i think but i think
+ that's that's a good a good thing like that because just loads of papers being published
+ that aren't like scientifically rigorous it just just making everything more confusing for anyone
+ everyone but then at the same time you want to encourage more research to being done and it's
+ similar to how like a lot of like a lot of there are a lot of like smaller universities from around
+ the world who are trying to publish research and we want to encourage that so that you're not,
+ so that they can like break their way in if you like and their research can be published but on
+ the other hand you want to be able to distinguish between like less rigorous research and more
+ rigorously controlled research that we're getting from universities like Loughborough.
+ and just just a really weird crazy idea i had was if you could if you could allow these sort
+ of studies to be published but almost have like i don't know if you have this in the us but in
+ the uk we have like food hygiene stickers in front of restaurants so you can have like it'll say like
+ this is you know zero to five food hygiene and so like five is like this place is really good
+ and any but anything like above a two is safe to be open so you could have like oh this from
+ mumbai university this study on um critical power is is a three out of five so like food hygiene
+ so you can look at it but just be aware that it might not be perfect it might be might might be
+ happen to be perfectly good but then it's not necessarily gold standard research interesting
+ because I think something like that, you know, has potential for fuckery, for lack of a better term.
+ Yeah, yeah, yeah.
+ Because, I mean, it's sort of like it has, you know, issues.
+ Like, peer review has issues, too, you know?
+ Yeah.
+ It's like, how many memes have we seen on Twitter and Instagram about Reviewer 3?
+ Yeah.
+ And I think, you know, so I think at some level that's, you know, that could potentially be really good.
+ But I think at some level that could potentially be terrible.
+ be really terrible especially if whoever is assigning because because you're not going to
+ have amazing criteria that is able to really capture everything i think for um you know for
+ study quality because um you know i could think of a couple studies that i bet would get a four
+ or five rating that i would think actually deserve like a two well this is where i think you'd have
+ have you know a centralized like governing body almost and the conditions are laid out and like
+ this is how it's done yeah it's flawless with the uci and the ioc isn't it yeah yeah exactly that
+ just that proves how it's it can never be perfect yeah yeah you always have to make up your own mind
+ ultimately yeah but i think um why don't we start with why do you describe that abnormal distribution
+ from the paper i think i believe it was figure three my my figure three my work laptop's closed
+ right now but um okay it's the one that has the uh it's like got the two camels humps in it
+ yes so if if any are you listening know what a normal distribution looks like it's about it's
+ sort of like it's about as a bell cake bell-shaped curve whereas and and so what is class is
+ statistically significant when you put in your you put in your so you put in your z values into this
+ distribution and a z value is like a way of kind of making what you've got fit onto this distribution
+ because like it could be making your mean all means fit onto one distribution to like sort of
+ scale it to that. And then if you've got, so if it is normally distributed, on average they should
+ all come out in this bell-shaped curve. Whereas what you find, and then things that are statistically...
+ Why don't we describe what the bell-shaped curve would look like or what it would signify before
+ we describe this one.
+ And I'm going to put this one up
+ in the show notes. I'll screen grab it
+ and put it up there. So I think, because
+ in the middle of the distribution
+ would be all of our
+ null values, like
+ we don't find a statistically significant
+ difference, and so therefore
+ we cannot reject our null hypothesis.
+ Is that right? Yeah, so
+ that should happen most of the time.
+ Because most of the time
+ there is nothing
+ going on. And then
+ And it should only be in 5% of cases where things fall outside the main bit of that bell distribution that's in the middle.
+ Yeah, so that's what should be the case.
+ Right, and so what we have in this is it looks like we scooped out the middle.
+ It literally looks like we took a hillside and we blasted out the middle to put a highway through it.
+ Yeah, and then right in the edges where it should just be really thin little tails, we've just got like spikes that are spiking really high suspiciously just outside of the arbitrary threshold, which has been drawn, which also happens to determine whether your study is going to get published or not, which seems very, very, very suspicious.
+ Yeah, so kind of what the paper talked about here is that they – I think primarily most people are going to jump to this is probably – people don't want to submit publishing insignificant results.
+ You want to look like you found something always, and that publications don't really want to submit insignificant results because who's going to reference an insignificant result?
+ very few people yeah right yeah although i mean i'd say there are situations where
+ it can actually like it is useful like for example in my um uh finally a project that i did it was on
+ whether using l-citrulline can improve your absorption of carbohydrate increase the oxidation
+ and we found oh and and then consequently improve pre-loaded time trial performance and we found
+ that it did absolutely nothing. And I don't think that's a useful result, a useless result. I think
+ that is a useful result because you can then discard it. You can think, actually, we won't
+ pursue this any further. So, I mean, I think just looking for things, always finding things that say
+ this does work, this does do something. Sometimes it's a useful result to rule something out, but
+ it's just not as exciting yeah no i i agree and actually speaking of l-citrulline um the first
+ study i i ever really read about citrulline experiments was in uh hans krebs discovery of
+ the uh urea cycle um okay and so i think there's it's there's been such a big shift from experiments
+ done then to experiments done now especially the way that the papers are written because i think
+ at least in the biochem stuff which is primarily what i read um well especially from that era um
+ you know they they do a lot of experiments and they'll actually uh they'll actually uh put in
+ a lot of the null result uh experiments but it's easy for them because they've they're just like
+ oh we're gonna take this tissue of kidney slice and we're gonna add this this and this yeah we're
+ going to see if it evolves CO2 and consumes oxygen or whatever. And metabolic blah, blah,
+ blah yields this. And therefore we've tried to find this. And it's not so easy anymore,
+ especially when we're talking about things that are not a small enclosed cycle like the urea cycle.
+ We're looking at high level whole body athlete performance. And so that adds an additional
+ piece of difficulty because we could we could put you know we could do that experiment again
+ with like you know 25 amino acids or something like that or more and amino acid derivatives you
+ know yeah whereas in and you can just yeah do that quite quickly in contrast like with a sport
+ science study like this each each person who's only one point has to go to the lab at least
+ four times to compare two things and each one of those sessions takes you know the researcher a
+ whole day so the how much time and money is invested to get a null result people don't
+ want to do that yeah so that is it is an issue um and i have one more question on this which is i
+ think um uh i think people who are in academia to some level or to pay attention to it are aware of
+ p-hacking um and so do you think that this counts as some evidence of p-hacking um
+ not i mean i think probably is happening in some cases um but like not necessarily and like what i
+ thought one interesting thing they said in the study was that it doesn't even it's not even
+ necessarily conscious the way that this the bias occurs and that and that yeah like you might even
+ just mean that you keep on doing more measurements because you think oh that doesn't quite look right
+ and you just carry on like recruiting the study longer or redoing things it's not necessarily even
+ even conscious.
+ It's hard to tell because there's so many variables involved.
+ Well, I think they also mention small test groups and statistical power.
+ You really don't have much until you start getting groups of like 30 or more.
+ And that's just your experimental population, let alone the control.
+ So you might be looking at 60 people,
+ which is basically impossible to recruit 60 people in an area for studies like this.
+ a lot of the time, especially in rural UK. Although I would expect there's a lot of cyclists
+ out there you can recruit, but a lot of them are like, no, I got my training schedule. I don't want
+ to do this. Which is probably what you heard a lot when you were recruiting people for your study,
+ right? Yeah. Yeah. This is exactly it. If you can get 10, 20 people to do a study, that's quite,
+ um it's very rare that's that's pretty good so to get 60 is some heard of yeah yeah um
+ what else about this paper jumped out at you any anything make you scratch your head
+ oh i mean the most shocking of all the the graphs definitely that bigger three but um what i also
+ thought was yeah a little strange is how the the peak is a lot higher for the z values above 1.96
+ than it is below minus 1.96 and i don't know if you got any better ideas but i'm trying to think
+ why that might be and why that because it's it's also different and the other way around
+ from what you see in medicine in sports medicine i wonder if you've got any ideas why why that might
+ because it's quite a significant difference, quite a big difference, yeah.
+ I have absolutely no idea.
+ I mean, the only thing that I thought is that...
+ My only thought about that is, like, if we're looking at, like, a P less than 0.05,
+ which is, like, basically there's less than 5% chance that this happened to a random chance.
+ But if we have so many studies where we get a P of 0.04 or something like that, or 0.049 or whatever it is, how many of those, like if we just take 1 20th of those, which 1 20th of those actually have that T-test by random chance, like where they find an effect?
+ That's where my brain goes.
+ Yeah, so wondering how many of them are genuine and how many of them are kind of magic smoothed over that line.
+ Yeah, I would also want to look at how many of these had untrained subjects or moderately trained or recreationally trained.
+ And I think also I kind of want to ask you about something else too, which is what about studies on highly trained individuals?
+ Because I'm sure you've read as many of these as I have, actually probably more.
+ And so what in those protocols stands out to you?
+ Because a lot of these are actually in favor of high-intensity interval training.
+ So what do you think about the methods there?
+ Well I'd say first of all it's defining like highly trained or elite is just like, you decide like how do you want to do it.
+ I've heard it defined so many different ways like sometimes people say it's VO2 max over 60, some people say it's over 55, right from that to over 70.
+ or sometimes even you have to have represented your country at international level and then even
+ that's a bit you know thin ice because sometimes it could be the like Djibouti bobsleigh team is
+ you know what the study is done on or sometimes it could literally be on US Olympic team and
+ and so there's I don't I don't even like you have to almost you pick your definition of highly
+ trained or elite depending on exactly what you're interested in and so like if you want you have to
+ just be that specific i want i want to know what this what is the case in world tour cyclists and
+ then do a study on world tour cyclists and i don't think you can like extract a study from just
+ saying something is highly trained therefore means it applies to all um elite it applies to your
+ population yeah so just yeah be careful with that yeah I remember reading a
+ breakdown many years ago of of a study that looked at I think it was altitude
+ and a particular altitude intervention or something like that and for a lot of
+ people the their performance level went down and they heard there was one person
+ like shot up um yeah and i remember the person breaking it down saying you need to find out if
+ the person you're training is the one whose performance improves by this um but then i was
+ also thinking what if there's something else there um where um you know this person's performance
+ would have been different if we knew xyz about their off-bike kind of stuff like yeah like like
+ there are so many things to to consider here and also like the motivation of the people in the
+ study can also be a big factor too because like if something's too exhausting like how do you tell
+ when somebody's exhausted like is it their pedal revs drop below 50 rpm because they can't pedal
+ like yeah is this okay is this right i don't know one one thing you just made me think of um
+ is because this l-citrulline study that i did it because i always used to i i quite like the i don't
+ know if you have had the beetroot shots and and buying it thinking i'd get a bit of a boost out
+ of that and then after doing my study and and my supervisor teaching me that it kind of works in a
+ similar mechanism to to like nitro supplementation l-citrulline could work on a similar mechanism
+ I looked more into the literature around nitrate supplementation on improving performance specifically in that they said that it generally doesn't work for more well-trained people.
+ But some people do respond particularly well amongst elite athletes.
+ So when I looked into this one study, the high responders were the people who actually had the lowest training volume.
+ And so that perhaps what's actually going on is that training makes you produce more nitric oxide and have higher resting levels.
+ So the reason these people that responded better was actually because they just hadn't done enough training to optimize their levels.
+ So that actually, it is more, when you say it's about training status, it literally is about training status, as in how much training you've done.
+ Whereas these two individuals have been classed as elite, because their genetics meant that they could reach 70 VO2 max without actually doing that much training.
+ Because there are people like that who can, yeah, their resting levels are just very high.
+ but yeah that just made me think of that yeah that's interesting um well actually i i remember
+ um i remember one of my athletes um was uh was getting piss tested and um and i remember
+ afterwards she remarked that the doping control person was like oh you're not on beaver juice
+ like she was the only person she was the only person yeah yeah wow that's amazing yeah i thought
+ that was that was really interesting because i mean on some level like it's not going to like
+ time your performance um no it's just going to make you think that you're bleeding out of your
+ urethra um the first time but that's that then you go then you go oh that's just that's just
+ that's that beat color yeah we know um yeah yeah i think that's interesting though um but um
+ you know i think um what yeah one of the one of the interesting things about just training volume
+ in general is that one of the adaptations that is expected that um that i think um we typically see
+ in a lot of studies that are done when people are coming off of their off season because they
+ they want to be a baseline for everybody they don't want uh or you know like it's like um it's
+ like one of those hit studies like the intermittent efforts versus the steady efforts uh typically
+ people are coming off of their off season or they've just done a couple weeks of easy riding
+ before they start doing the intervention and then it's like what increases vo2 max more the answer
+ is anything at that point absolutely anything yeah yeah um yeah because i want to see what
+ happens if we take somebody who's like really fit and then we give them a protocol see if we can get
+ them even more fit that's what i want to see you know yeah and that's what everyone wants to know
+ but in that case it's almost the opposite problem that whatever you give them you're never going to
+ get that much of a change and there's going to be so much noise in the data that maybe the
+ intervention that worked better didn't get the better result because actually their coffee was
+ a bit weaker the day before they did their performance test so like you can't you just can't
+ yeah yeah and i think i think that's actually um something to think about too is in the
+ interpretation of all this science um what's the target audience because like i just googled
+ HIT training and
+ benefits
+ or something like that and
+ there's like Vox articles
+ like the title is obviously clickbait shit
+ but how to get the most out of your exercise
+ time according to science
+ and then there's something from the Harvard School of Public Health
+ on high intensity
+ interval training and they
+ you know, HIIT
+ fat loss in mice or something
+ increase strength and endurance, improve health outcomes
+ but it's not necessarily better than
+ other exercise formats
+ etc etc um well it's nice they have that uh that little bit in there about but it you know but
+ that's the harvard school of public health it's not vox where you know it's a little more egregious
+ of like we found the silver bullet to health and exercise and fitness and so when it comes to the
+ target audience um you know do you think that some researchers have um just general health of
+ you know average the average person in mind and it gets misinterpreted by people who want to
+ improve high performance athletes or do you think that um do you think that these things
+ don't usually get too confused i think they definitely do by uh less um well-read coaches
+ um not to name names not to name names yeah uh but then at the same time there definitely is a
+ certain amount of crossover because i mean as you know from like biology you know in a sense
+ everyone's made of the same chemistry to some extent and i mean like i just i think it's quite
+ interesting what um you know san milan's says that you know he works on everything from you know
+ cancer patients to someone who's won the tour de france twice and he said in a way to him it's
+ it's it's physiology either way and it's but obviously he did dealing with very different
+ beasts there yeah um so there's there's definitely some stuff that can cross over but
+ you've just got to appreciate that yeah yeah well I think I think his approach
+ is really interesting because you know he's saying can we use the some of the
+ best endurance performances in the world people with you know humongous
+ mitochondrial density yeah oxidative potential and you know vo2 max and all
+ that kind of stuff can we use them to um fight cancer um yeah the answer is going to be maybe
+ obviously it needs some research about it's being done um but you know i think um at some level uh
+ one of the things that's going to be missing is just genetics um yeah just having that potential
+ and because you know in here's a preview of some of the the power values that uh power values
+ power files power values i've been looking at uh in world tour people is i'm astounded by
+ the level of risk of physiological response by some people uh on the training that they're doing
+ because there are people doing doing more training who are um you know who are you know
+ not as good um really and yeah and i'm like i'm looking at these going this is this is pure
+ genetics like there it's not it's not the fact that this training is better or worse it's just
+ that they respond so much faster and so much better to the same training that i might see
+ from a local cat too yeah yeah that's i mean it's it's it's about something that there's
+ so many variables with like elite performance that it's hard to see what's actually going on
+ but on the other hand like I think elite performance is kind of a good scientific
+ experiment in a way to inform what to do for general population health and that like
+ sort of way I think of it is I think like Formula One like pushing the boundaries of that
+ like you then realize how to make things as good as they possibly can be
+ and then that technology can kind of trickle down into your making your everyday cars more
+ aerodynamic so that you're also saving more fuel going at 70 miles an hour on a motorway
+ and yeah my car has a dual clutch and that's that comes it's direct trickle down from motorsport
+ yeah yeah so i mean i think this potential yeah um so i think this kind of gets to um
+ you know what do you think is the balance I mean maybe there's no answer
+ to this actually there's definitely no answer to this anyway it depends what is
+ the balance between peer-reviewed literature and real-world experience
+ especially for cyclists I think taking in as much of the peer-reviewed
+ literature you can is always a good starting point because like if you're
+ you're trying to you've got certain goals and you've only got but you don't
+ want to waste too much time trying every different training method that you
+ possibly can and to only find the thing that works for you when you're 70 and I finally found
+ my optimal training and I can maybe win the 75s in a few years like you want to try and make the
+ best most educated guess you can as soon as you can but then equally if you if you start something
+ and it's not working and it's clearly not working for you and and and but it's what the science sort
+ says should be working it doesn't really matter and if you can find something like we you know
+ i mean you still shouldn't be doing it and if you can find something say like tempo work that
+ a lot of literature might say really shouldn't work for you but you actually find oh i'm getting
+ one percent stronger every every week or ten percent stronger every month or whatever it is
+ then if it works it works so so do it like you don't have to like if yeah if you see there's
+ puddles you know that it's rained sort of thing you don't have to like collect it in a bucket
+ well maybe in the uk we know it's rained also the tour might have come through if there's puddles
+ yeah yeah yeah it's true um um i had i had two questions to ask which one i want to ask you first
+ um uh why don't we start with um why don't you talk about your own experience with training
+ um because in our first call i think you had uh you had a really interesting take on this because
+ you i think you had said you had been doing a lot of high intensity stuff a lot of very very
+ polarized stuff and then you started doing some threshold work and you felt like you were getting
+ faster did i remember that correctly yeah yeah that's that's that's pretty much it so i like
+ with with what i've been taught um and like almost all the people i yeah my lecturers and kind of
+ what we taught at loughborough was that everything had to be it has to be like your training has to
+ be really highly polarized and and that your endurance rides even have to be quite a lot below
+ lt1 and your high intensity intervals have to be like maximum eight minutes like that that's like
+ a magic number it can't be more uh longer than eight minutes because of that cycler study showing
+ that eight minutes had the best outcome or something like that right because yeah yeah yeah
+ but yeah exactly um and and i just but when i've started just doing you know super adventurous some
+ some 20 minute efforts and some 20 minute over-unders whereas i found that perhaps i did
+ improve um for a while doing the you know really polarized training it kind of came to a point
+ where like not either seeing no improvement or seeing quite slow improvements and and i just
+ sort of got used to i thought you know this is kind of the level i'm up but then when i do find
+ when I do the longer efforts like every time I go back and do them session by session I'm seeing
+ improvements and and so clearly that that is something that it does work for me but then on
+ the other hand like would it work if that's what I'd done from the start and if that's what all I
+ ever did and how much longer would I continue to improve by doing that kind of training I'm not
+ sure yeah no I think that's um I think it's really interesting because in my coaching experience now
+ what I find is pretty much what Dean Golick said a long time ago because I had suspicions then he
+ was like oh no this is it like he said that no there's no one intervention that's going to lead
+ to your best cycling performance because I think it's interesting cycling itself is interesting
+ in that we need such a wide spread of ability to win a bike race and so you know we're looking at
+ somebody's natural sprint ability, their anaerobic capacity, and muscle mass, and things like that,
+ RFD. Then we're also looking at VO2 max, and then we're looking at efficiency, capillary density,
+ fiber type, metabolic capacity, all that kind of stuff. So we're really looking at a giant spread
+ of abilities. And what Dean had said was that there's no one training type, it's endurance,
+ or VO2 max, or threshold, whatever it is, that's going to get you to your best performances that
+ you have to do everything and the longer I do this the more that that the more that that's true
+ you know yeah and on every and what's also really hard particularly bike racing more so than
+ athletics or you know road running triathlon is that it's really hard to know like what are you
+ even trying to achieve with your training because it's like what's actually gonna make me like more
+ likely to win that race and then what's even going to make you more likely to win that race
+ it's going to even depend on what the weather's like on the day of your goal race or how the
+ your goal race pans out you know you could like you could do a lot of work on your critical power
+ and oh and sorry threshold whatever it is we don't we know the same thing and you could get
+ that really good thinking that was going to be the critical determinant of your goal race
+ and then actually when it comes to your goal race the wind's blowing really strong it ends up being
+ really cagey and it comes down to like a burn up like in the last kilometer and actually you would
+ have been spent your time much better just really hammering your anaerobic capacity and that would
+ have made more of a difference to your race result or then yeah or then or like yeah i mean there's
+ it's just like this it's complete chaos in the bike race isn't it yeah there's aerodynamics
+ there's weather there's there's like there's the tactics there's nutrition and i think you get a
+ lot of people thinking like oh all that really matters is your tactics and all that really
+ matters is how airy you are or how light you are or what your threshold are and and they're all
+ wrong because it is everything and it's just thrown into this like bundle and you have no idea
+ yeah they're all wrong because they're all right what's actually most important yeah yeah exactly
+ yeah yeah um well uh i i think so uh one more question for now at least is um
+ um what do you see as um as happening in coaching that uh that coaches could learn from science
+ because the thing I've got penciled in here is because we just talked about training interventions
+ like you know what do you what do you feel like works for you kind of doing a bit of everything
+ or kind of doing whatever but and you know you you had said that you know if there's a puddle
+ on the ground you know it's rained or there's a peeve as less than 0.05 that it's rained I guess
+ um yeah and so what about like you know pre and post testing interventions because i think
+ a lot of the stuff that i see in coaching and like popular intervals as they come and go
+ over time a lot of it's based on theory but um i don't see enough people actually doing a post
+ test to see did this work because a lot of the time when it comes to things like oh we want to
+ shift fiber type to type one um we have no way to test that um per se like kind of we have no way to
+ test that we i'm sure we could come up with a couple um well muscle biopsy can get done but
+ it's uh and if you want one done that yeah well luffa is the place to get them done but um yeah
+ quite quite difficult and very invasive yeah and expensive so yeah so um so what are your thoughts
+ on um for people who are coaches or people who are coaching themselves which is probably the
+ majority of people listening to this podcast um what do you think people should think about doing
+ with trying to figure out if their training intervention actually works like um well i
+ I think one thing you can learn from science and that kind of lab-based approach is just like if you are say looking to test, routinely test what your VO2 max is or your FTP, that if you can control as many variables as possible around that test.
+ because if if you know one time you do your ftp test like on a turbo without a fan and you know
+ maybe not any not hydrating hydrated properly and the next time you do it and you're out you've got
+ a mate racing you up a climb like of course you're going to do like 30 watts more but does that mean
+ you know your training has worked or does that mean it's just because you did it out on the climb
+ and you have the motivation of your mate pushing you on yeah like it's i think just if you are
+ going to test like decide decide how you're going to do it and just keep as many variables
+ controlled so then you can like reduce the noise to actually find out if if something has changed
+ then it's just my it's just this training intervention or equally yeah like when looking
+ at your training as as your training volume also changed or is literally all you've changed this
+ one type of interval you've been doing but of course it's so hard in real life because
+ when are you ever going to have two whole month or you know six week or two month period where
+ everything is going to be controlled between between both of them and and equally like
+ that's not even really the case because if you do the second one you're building on that
+ foundation of fitness that you've done in the previous one yeah so you could almost only do it
+ like this year i'm going to try after my base season doing threshold work and next year i'm
+ going to try doing vo2 max work after my base season but even then you've got the previous year
+ of foundation so um control as many variables you can but then also appreciate that the variables
+ that you haven't been able to control and how that might influence that things yeah well what i what
+ i typically see with people and this is one of the things that a lot of people ask me about
+ is um they're they usually find that they get to a plateau and whether it's their you know the
+ training plan that they're using or whether it's a particular um training philosophy that they have
+ just there's there's something there that they have on good advice and good foundational principles
+ but at some level you know it's it's almost like the theory supersedes the realized results
+ if that makes any sense like they'll keep doing something that's that's that seems to be not
+ working despite the fact that like the theoretical it should but in reality it's not so i think a lot
+ of people have a hard time like breaking out of that rut and having a good pre-test post-test
+ routine might help quite a bit yeah yeah definitely yeah just just uh keeping and i mean there's
+ of course the testing uh as i've heard you speak about before there's there's a lot people can get
+ very nervous thing and there's a big psychological component and people can start to think maybe this
+ is all i can ever i can only ever do this power you know this my threshold can never get higher
+ and methods like you say of going off off field taping over your power meter and just things like
+ that can be can be useful because actually in in yeah in some sport science studies that's how they
+ they do their time trials is that you're told when you have to complete a certain amount of
+ kilojoules and you're taught all you're told is you've completed 25 and then 15 and 75 and that's
+ all the information you get and and that maybe that would be a good uh testing testing method
+ for people who are stuck in a bit of a rut yeah i think they can never raise their threshold higher
+ Well, that's an interesting one because I do something very similar with time trialists who need to work on pacing, which is some of them, not all of them.
+ But it's like we'll pick a distance.
+ I'll be like, go to your favorite 40K TT course near your house, and today's TT day.
+ Do a full dress rehearsal, get your race wheels out, get your race helmet out, and do your same warm-up and sit down for five, eight minutes before you actually get on your bike.
+ Do the same start.
+ And, you know, like dress rehearsal day.
+ And your only feedback should be your distance and how you're feeling.
+ And if you need anything else, like, you know, make it as much like race day as possible.
+ Some people like to have power, but some people it gets in their heads.
+ And I have definitely more than one client who every time it comes time to test day, no matter what the test is, they're way more nervous than they need to be by a lot.
+ And sometimes that really gets into their head and their legs.
+ it should get into your legs yeah well i mean your brain uses uh a lot of glucose doesn't it so
+ if you got to you know really overthinking it and really getting nervous that literally is
+ glucose going to your brain that you could spare a few legs so in fact i don't know if you heard
+ it's quite a popular podcast uh you know go sam milan did and he never heard anyone say this
+ before but actually part of the reason mental stress can deplete you is because not only the
+ liver can supply blood glucose but you can actually, your muscles can release glycogen
+ I'm not that can then be used by your brain if you're particularly stressed so you can think that you're doing all your carb loading, right?
+ Whereas actually which which yeah, you could be but you can actually deplete muscle glycogen by being stressed
+ Mentally, I assume that's through lactate efflux
+ Because you cannot like a glycogen molecule itself is way too big to send to the bloodstream
+ There's no transporters that would handle anything like that size.
+ But I am assuming it's from, you know, lactate.
+ Because when we are stressed, the hormonal cascade, you know, switches us from rest and digest to fight or flight.
+ And so now not only are you no longer building glycogen when you could be, like, because if you spend, you know, if you spend like days and weeks stress,
+ You know, like my recent move, I was extremely stressed for like three weeks straight.
+ And by the time I got here and settled in, I was like four or five pounds light compared to what I was before all that stress happened.
+ Because I lost so much water weight and I wasn't doing anything to really like replenish it.
+ Not that I really even could.
+ I mean, I could have eaten more.
+ I could have drank more and had more salts, but it's seriously taken me like a week to get past that.
+ But the stress is very real in that respect, and that definitely has a physiological effect.
+ And I forget exactly what the hormonal cascades are, but I'm assuming that's glycogen-related and increased carbohydrate utilization-related.
+ But it could also be one of those things where – because one of the things about stress is that some of the hormones that do the same things there would also release fatty acids.
+ And so we could be burning more fatty acids as well.
+ But I think it's mostly just the fact that we're not building glycogen and potentially we're not in that like rest and digest, which also includes build and recover kind of phase.
+ I need to do a lot more research on something like that.
+ So that's just me spitballing.
+ Yeah.
+ No, I'll go back into that because it was, yeah, I'll go back into it.
+ Yeah.
+ Yeah, well, because I think, you know, because I, well,
+ and Yugo San Milan is from the Brooks School of Thought on lactate shuttling.
+ Yeah.
+ So, and I have some thoughts on lactate shuttling.
+ I want to ask him directly about it.
+ Maybe I'll ask him to be on the podcast someday.
+ I feel like I'm not smart enough to have him on the podcast
+ because I'm going to ask him a question and he's going to walk all over me
+ and I'm going to be like, oh, that's interesting.
+ Yeah, you might have an interesting opinion on,
+ we talked about the pros and mostly cons of inside methods.
+ But I suppose other coaches using the idea of that when you,
+ So say for like doing under-overs, you do your overs at like maximum lactate shuttling rate.
+ So like when they say that around your maximum fat oxidation rate, you're clearing lactate fastest.
+ And does that mean it's the best way to train your ability to clear lactate?
+ Because Inigo San Milan would say that it's all just about having a stronger aerobic capacity so you can do it more.
+ Whereas actually clearing lactate is not something that you need to train as an ability of itself.
+ Do you understand me?
+ Yeah, I think...
+ It's not something you have to practice deliberately.
+ I think it might be something that needs some practice because I've never looked into this.
+ This is just me theorizing.
+ So the first thing is I agree with Sam Milan that aerobic base is paramount with that.
+ Because doing a lot of riding, doing a lot of quality intervals like threshold and subthreshold intervals,
+ that is going to greatly increase mitochondrial density.
+ And the number one thing that we have to clear lactate is muscle mitochondria in our working muscles.
+ And not only that, but the working muscles that clear the mitochondria that they themselves make are the same muscles that are at very high exercise intensities, the same muscles that clear a lot of the lactate from the blood too.
+ So a muscle that is effluxing lactate can also be the same influxing lactate and oxidizing both pools from the blood and also the stuff in the cell.
+ And so that's also the thing that allows us to oxidize fats is having high mitochondrial density.
+ And I think that on some level, if we are going to do over-unders or quote-unquote lactate shuttling kind of stuff, I am guessing that it will to some degree increase MCT4 transporters into the mitochondria and possibly on the cell surface to transport more lactate.
+ MCT standing for monocarboxylate and lactate, of course, having one carboxyl group.
+ And so that's just in theory.
+ I have not read any papers on it.
+ I don't know.
+ But, you know, it seems like both would be the right way to do it.
+ Although, would you say it's not pretty clear that one is clearly a lot more important than the other?
+ Volume. Yeah, volume.
+ Yeah, like just having the more mitochondria, regardless of what specific training you've done to achieve it,
+ is clearly much more important than training a specific ability to clear lactate with lactate clearance workouts.
+ Yeah, well, because the thing is, like, the real question is, why do we want to clear lactate?
+ Right?
+ Yeah, I mean, that's another thing, because it's sort of advertised this lactate clearance is the ideal thing to do in the recovery between your intervals.
+ You know, say you're doing...
+ Okay.
+ Exactly.
+ Yeah.
+ Because then you clear the lactate faster, it's going to make your next, well, exactly, this is how genuine inside spiel, because you want to clear lactate as fast as you can so that you're fresher for your next interval.
+ But it doesn't add to fatigue, so if it's there or not, it doesn't matter.
+ - No, exactly, in fact, it's a fuel, so.
+ - Yeah.
+ - So like, why would you want to drive it down
+ as low as you can before you start your next effort?
+ And in fact, even like with, you know, primers
+ and optimization, like, you know, warm up,
+ like part of the idea of that is to get your lactate level,
+ you know, a certain amount above baseline before you start,
+ so you're not starting with no lactate in your system.
+ Well, I think, well, that's one of those things that sounds like it's literally false metaphorically true.
+ Like, having high lactate is irrelevant.
+ We can give you an IV drip of lactate, like, who cares?
+ But what I think that's doing is making you work hard enough that you actually start to open local capillary beds.
+ You actually start to increase epinephrine production.
+ actually start to increase breathing rate you actually start to um you know prime your sweat
+ response so you can cool yourself for the hard work you're about to do um you know there's um
+ and a million other things i'll i probably am not remembering or i'm not aware of at this point so
+ um so it's like it's like you can make your entire worldview based around lactate but there's so much
+ else with regards to
+ performance. So much else going on, yeah.
+ I think in some ways
+ if it leads to good performances
+ or leads to improved performances, that's fine.
+ But that doesn't
+ always make it true.
+ And I think
+ it's sort of interesting
+ that with the lactate
+ stuff is that when we think
+ about
+ very basic, like how many
+ people listening have done
+ like cell bio um and you take a bacterium and you you infuse a plasmid in it and then you expose it
+ to a certain like sugar like arabinose or something and then that yields expression of
+ blah blah blah and therefore the bacteria grows under black light or glows under black light so
+ um it's it's one of those things where the presence of a certain thing can yield um can
+ yield a a response because the cell goes oh we've got this thing we might as well use it we should
+ make some transporters so we can actually utilize whatever so that might be kind of where the
+ lactate clearance thing comes from um and that that's also kind of where the if you eat more fats
+ and reduce your carbohydrates you're gonna be able to yeah this is gonna say yeah because it does
+ improve fat transporters but that's only because you're eating so much but you know with regards
+ to lactate, I think one of the things that a lot of people, you know, maybe don't think
+ about when they think about lactate and all this stuff is that, you know, Sam Alon, you
+ know, has talked about how Pogacar has lower lactate values at higher power levels than
+ just about anybody else, but, and it's almost like, you know, well, anybody else has tested,
+ I guess, but I think a lot of that comes from just the fact that he's a genetic freak and
+ He's got more mitochondrial density than just about anybody.
+ And so he can use more lactate and fat at higher power values than anybody else.
+ So he can better aerobically utilize all those fuels, whereas a lot of other people probably can't.
+ But it really still comes down to, well, that's part of it.
+ And I think the other part of it is just, you know, what's your VO2 max and what's your threshold?
+ And so it's complicated, you know.
+ there's no one thing that's going to lead to better performance where were we going with this
+ i forgot because i'm yeah yeah i'm not sure um yeah oh you were you were talking about like
+ inside and lactate clearance and uh lactate philosophy and stuff like that yeah like why
+ why you you don't need to do the recoveries between your intervals at your fat max zone
+ oh god that would be terrible um because one of the things that i saw doing research for the
+ phosphocreatine episode uh that i think we all know kind of experientially is if you and that
+ actually we know from the the critical power w prime model is that if you are doing more work
+ between efforts you are reducing your recovery rate yeah yeah and yes actually i'm like good
+ good friends at university was doing uh his phd which i think he's still just finishing
+ this summer is about um reconstitution of w prime and and so i know from him that there's still so
+ much we don't understand about that um and like what can help speed that up and you know both
+ with like acutely and with different training interventions because clearly some people like
+ like because you can have models now can't you to to model like like on on cycling analytics i know
+ that i use you can have you know like a graph of what your w prime balance is but of course it's
+ it's kind of yes it's not greatly accurate because everyone will reconstitute w prime
+ in different at different speeds and and there's yeah there's so much and not understood about
+ about what affects that and what type of training if at all can can make it can improve that yeah
+ um well you know experientially i find that my athletes who just ride more
+ just blanket just ride more have way better repeatability um and they have way better depth
+ even if all the other metrics stay the same um or even if some metrics drop like i have a couple
+ clients who compared like who before they were working with me were doing a lot of polarized
+ stuff and so in wko5 the mftp is like yeah x right and with me um you know i'm i'm a little
+ more focused on you know endurance and repeatability and things that i am sure are going to get them
+ better race results and so not only do they actually have better race results um in some
+ instances their ftp is a little higher uh but in some instances their ftp is actually like you know
+ five or ten watts lower and as much as they don't like that um they have better race results and
+ they have better fatigue resistance and better repeatability because we're focused on you know
+ we're not focused on that one number we're focused on kind of a holistic view of performance and
+ while I always say you know yeah the threshold is better like you know five or ten watts you know I
+ think that's a good trade-off for better performances and better endurance well if you just
+ tuck your elbows in a bit more and kind of get your head down that makes in most flat races that
+ you get in the UK that's gonna make more difference anyway or get some aero socks yeah new skin suit
+ yeah yeah um i was actually going to say something proper then i can't remember now
+ oh yeah i was saying so yeah generally more volume being more aerobically fit
+ is is going to be the main thing that improves your repeatability and and but equally i'd say
+ quite often still if you give an athlete say you're trying to improve their repeated sprint
+ ability that will still improve after a block of doing repeated sprints oh yeah i mean because
+ there it's like you know like i said before you kind of have to do everything um yeah and so
+ because i remember um the first year i actually coached myself i did i um i had done a ton of
+ just volume and part of it was just meditative i was you know thinking about my life and everything
+ and i take his time off of work um and i also when it came time to well i was i was getting
+ closer to racing and i i was i was whether i thought i was doing it on purpose or not i don't
+ think i was i was doing a lot of i was basically doing polarized training um yeah and i i'd done
+ very little threshold work i was and i one day i kind of woke up and i was like oh my god i've
+ got a race coming up in like you know six weeks um i should probably start getting ready for race
+ efforts. And so I started doing, um, you know, just hill reps and, you know, repeated sprints
+ and, um, that kind of stuff, anaerobic capacity type things. Um, and I got to the race and I, I,
+ I was on great, great, great form. Um, I did, I think I did like two crits in a row and like an
+ elimination race in the crit course. Um, and I got better as I went on and everybody else got more
+ tired. So, um, but I was definitely missing some threshold work and I was like, oh man,
+ I got to work on this before the road races I've got coming up in the summer. Um, and so I think
+ if I hadn't done those hard efforts, cause it was like, you know, stuff like one minute, all out,
+ five minute rest, one minute, all out, five minute rest, like 10 times absolute death for somebody
+ like me. Um, I was also doing like five seconds sprint, 25 seconds, 10 seconds sprint, 50 second
+ rest um i did not i did i probably did like five middle intensity efforts between like january and
+ march in the first race um so you know and so you know race specific efforts plus volume
+ helped a lot and i think if i had done threshold and volume it would have helped some but not as
+ much um because that's just what the criterion was but i knew for road races later i was going
+ to have to really work the threshold stuff because otherwise i was going to get shot out the back
+ after um you know whatever but it's it's sort of like you need you need everything like i said um
+ yeah so yeah you need everything on the physiological side you need you need to be
+ like yeah it's like also powerful aerodynamic and potentially if it goes uphill you have to
+ not be too heavy so it's like yeah it's just you have to be everything really to be fast yeah yeah
+ so even with repeatability there's not like one answer um you know you have to know oh yeah that's
+ that's where we were yeah yeah yeah yeah there's the same the same ability even something as niche
+ as that can be has so many like different ways you can achieve it and equally to get it super
+ up that is optimized as it can be you can't just attack it from one angle it's like you've got a
+ yeah add each layer of the cake if you like yeah definitely um yeah so um
+ yeah is there anything else in your mind before we uh before we wrap this up
+ i think uh i mean maybe you could edit edit this out but i just just thought i want one point that
+ might have been worth making more back towards when we're talking about critical power yeah
+ is that um one yeah and in that that lecture where we're talking about the the zones is it
+ it was mentioned that you potentially could have another zone which was above MAP. MAP
+ is something that sits even less well with me than critical power does because it is
+ just complete-- All it means is something above critical power. That's all I could say
+ that MAP is. It means it's something above that because literally you can be at VO2 max
+ and doing absolutely anything as long as it's above critical power.
+ And you could probably even be at VO2 max and below critical power
+ if you'd gone enough above it and not had enough recovery.
+ So, yeah, I just thought that was another example of how you can be in.
+ I think that gets to exercise intensity domains
+ because one of the definitions of going from the heavy to severe domain
+ is that when you're in the severe domain, you have to hit VO2 max at some point.
+ Yeah.
+ So if you've got a 60-minute TTE, let's just call it FTP just to make it simple,
+ and if you go up 10 watts, you're now over the threshold.
+ But if you don't hit VO2 max, suddenly you're not in the severe zone,
+ even though metabolically I would argue that you are past that transition point.
+ because I think critical power is looking for that transition point too.
+ But I think that we cannot really use it like that for everybody,
+ just as a blanket statement,
+ especially if we do like a three-minute, 15-minute kind of two-test critical power calculation.
+ Although, I was just thinking back to that again, the one other way you could kind of have, rigorously define a zone above, like, a zone above that zone 3 in the 3-zone model would be that a power output that is so high that if you are, that you can't keep it up for long enough to reach VO2 max.
+ I think that's called the extreme domain, if I'm not mistaken.
+ and which would be like extreme domain extreme domain yeah but then how to actually test for that
+ because i can imagine depending on the type of athlete that could be in some people like
+ it's something they can sustain for one minute whereas it could be something that
+ or 30 seconds even a pure pure sprinter whereas it could be like three minute power and and then
+ in someone who's got smaller anaerobic capacity. And I guess then you could then call MAP the top
+ end of that zone, but then that's not what MAP is defined as. So I just think the only real use of
+ MAP would be if you keep it, if you're doing a VO2 max test with, you know, measured properly in a
+ lab with uh you know measuring gas exchange it can have like internal validity if like everything
+ is kept constant around it which would have to be your cadence your bike position the test protocol
+ but otherwise and and then you could even have like an efficiency of of what your you know how
+ the ratio of your power to your oxygen cost at your vo2 max but if everything isn't kept
+ perfectly consistent then it's meaningless because if you just if you change your cadence when you're
+ at vo2 max or you change your bike position or you change the test protocol then that's all going to
+ completely change what your map is and your even your efficiency at vo2 max so yeah or if you
+ exercise mode and um and muscle yeah yeah muscle recruitment like if you suddenly go from um you
+ know cycling to assault biking which i think is the one with the where you push the arms to
+ now you have muscle mass so that's going to effectively increase your vo2 max even though
+ your legs are consuming probably the same if not a little bit less um yeah so it's so the question
+ is like you know is it peripheral is it central um but also you know with uh with like a ramp test
+ you know if we keep it in the right range to find um you know vo2 max um you know this this comes
+ from Hill in like what the 1920s
+ 27 or something like that
+ where the definition
+ is that you have to have a sufficiently large
+ amount of muscle mass used and you also
+ have to find
+ a plateau in the O2 uptake for an increase
+ in work but the question
+ is does that
+ O2 uptake yield
+ what is
+ effectively the same power
+ for everybody and the answer is no because now we're
+ over threshold so now we have anaerobic capacity
+ to contend with as well and so
+ we cannot say that maximum aerobic power you know even from a ramp test is the same for everybody
+ it's not even going to be the same for the person because there's um the uh an adami study that i've
+ referenced like eight times in this in the podcast so far it's like that shows that um depending on
+ that you can actually use the critical power model in w prime to figure out exactly how long
+ somebody's going to last at a ramp test and actually predict their uh their you know finishing
+ value um yeah basically capacity yeah yeah and so um so uh there's to me at least there's really
+ no such thing as vo2 max power because we can get somebody to vo2 i can get to vo2 max power
+ at zero watts if i do a 30 second sprint and then i rest like i'm sure i get to vo2 max for a little
+ but right after that, I'm breathing so hard.
+ And that's probably not going to be the case for you.
+ So I think this is one of the things,
+ one of the disservices that strict definitions give us
+ with all this kind of stuff.
+ Because we all kind of know what we're looking for,
+ but it needs to be individualized to such a degree
+ that no matter what definition we have,
+ it's like we can make it pretty broad,
+ and it's probably not going to capture everybody.
+ Yeah, yeah, I mean, yeah, that's, I mean, even true with, like, yeah, LT1, isn't it?
+ That it's probably not going to get the right, the definition for an elite athlete
+ is not going to be appropriate for someone who's untrained.
+ and yeah yeah and that because they'll it's not a real that there isn't that there almost
+ isn't anything true as a true steady state that you can because like you're gonna even below lt1
+ you'll eventually start decoupling and eventually start fatiguing and producing lactate at something
+ that was below your lt1 eight hours ago well you know what's funny is i have um i have a young
+ athlete in, he's in Belgium. And he, for a long time, he was actually riding over LT1 on his
+ endurance rides. And we're talking like five, six, seven hour rides. No decoupling. And it wasn't
+ much. It was just a little bit. But then one day he was like, oh my God, I rode a little easier
+ today. And I think I figured it out. I was riding a little too hard. And suddenly we're like, he's
+ actually recovering a lot faster now from his efforts and like we're seeing improvements where
+ previously I was like what is going on here and so we're trying a lot of different things trying
+ to figure it out and that was it because like you know he wasn't decoupling at all and this is
+ actually something that I see a lot in in high performance athletes is you know if we look for
+ decoupling and somebody like me we're going to be able to find it pretty easily at just about any
+ exercise intensity somebody like him it's gonna be really difficult to see so again like and um
+ and also i think it's funny like my level of untrainedness is uh it's really interesting
+ because i was doing another um investigation on myself for lt1 and i actually found that uh my rpe
+ and hrv not not the hrv everybody's thinking of it wasn't the what is it it wasn't the 0.5 or 0.75
+ or whichever one it is, my HRV picked it up with my RPE, my LT1, better than lactate did.
+ Lactate testing actually put me at like 15, 20 watts higher than I actually felt it.
+ So I thought that was really, really fascinating.
+ So again, even with lactate testing, somebody as untrained as me can pretty much violate the expectations.
+ And I was still below 2 millimole, which is usually, I think, the population average for untrained people at LT1.
+ Yeah.
+ And then even when you know, if you think you know what your LT1 is, you still often find that riding 50 watts below it and to do the same kilojoules is a lot less depleting than riding 20 watts below it.
+ So, and then you almost start to think, well, why is knowing my LT1 so much more useful than figuring out what, just what type of intensity leaves me the most fresh and still gives me adaptations?
+ Yeah.
+ And so, yeah.
+ Well, I think it's, I think that's part of, part of the demand, because if we find a threshold, people want to ride at that threshold.
+ And one of the things that I find and my athletes find as well who are tracking this kind of stuff is that LTE1 actually changes with fatigue.
+ It effectively drops as you get more tired.
+ And as you freshen up, it goes up.
+ And so I think, and my athletes who ride the most, they'll like report LTE1 to me just by RPE.
+ They're like, oh, I felt it was here today.
+ Like one of my guys was like, I feel like it's 300 watts now.
+ and I'm like that's really good but if you look at his endurance rise he's riding you know six
+ seven eight hours um it's not even close to 300 watts average for the whole thing because
+ it's one of those things like he knows how to pace it um he knows how to how to get all the
+ adaptations without so much fatigue and um you know it's one of those things where um I think
+ having that experience versus having expectation um based on you know whatever scientific literature
+ I think is super, super critical to having a lot of success.
+ And I think that's part of where experience in training and racing
+ is just as valuable as having a good scientific education.
+ Yeah, I mean, I feel like having the education can help
+ and possibly shortcut and or inform that.
+ And I feel like now I've got this education that it really does help inform both my own training process and my coaching.
+ But like you said, that in isolation is nowhere near sufficient.
+ Like most of the other people on my course, I would say that would be no, without cycling experience,
+ would be no better able to be a coach than some people who've not had any education in sports
+ science so like you say yeah i think i think having both is is the ideal scenario yeah i mean i i agree
+ but that's because i'm biased um yeah more more confirmation bias um but and you know it's funny
+ Because my education is in, my degree is biology, and I had a focus in biochem and evolution.
+ And so my perspective on all this stuff is very different from yours.
+ But I think we get to the same point.
+ And I think that's really, really cool is that, you know, it's kind of convergent evolution, if you will.
+ Yeah, yeah.
+ Oh, I have one more question for you.
+ I'm sure, because it looks like you're in a cafe.
+ I'm in a restaurant, cafe, hotel.
+ So I don't want you to overstay your welcome there.
+ But I'm sure our listeners are getting a little tired.
+ But I think the last thing is one of the two things that I was going to ask you earlier.
+ And it's, you know, do you have an opinion or a take or any thoughts at all on people who overemphasize what has been scientifically validated versus what we have experientially in the real world as coaches?
+ Yes, definitely. And I could, yeah, sort of speak and, like, yeah, mention certain people, yeah, coaches I know that...
+ No names, no names.
+ Yeah, who only do something if they see it scientifically proven.
+ But I'd say, like, if you wait for, like, something to be properly scientifically proven,
+ waiting for a meta-analysis to be published really of like many years of research amalgamated
+ and but you know if you're waiting that long you know that's that's that's 20 years and you then
+ you're behind the curve and your career is already over so like you kind of you have to just kind of
+ if something works you have to get on it get on it and start doing it quickly um because like you
+ You know, say you wait, good example, one of my, yeah, my supervisor gave was, I don't know, when did creatine come out as a supplement and some athletes were using it at the Olympics?
+ And say something, I'm probably getting this fact really wrong, but in the 100 metre final one year, like seven out of the eight athletes were on creatine and the one who wasn't was last.
+ but yeah and so it was like you had to be on it then to be able to compete but if you'd have
+ waited you know till creatine was uh you know a well-evidenced supplement with you know that it
+ is now with all the um you know with an analysis done about it you'd be 50 and you'd be retired
+ and you can't be an elite sprinter anymore so i think that's kind of like yeah you can't you
+ can't wait till something's rigorously scientifically validated because it's too late.
+ Yeah. I'm actually doing an experiment on creatine myself right now, which is I'm not
+ supplementing with it, despite the fact that I am indeed a training sprinter. And now that
+ I actually live close to the track, I'm actually looking forward to actually competing like
+ regularly for the first time since like, I don't know, 2015 or something like that.
+ Oh, fantastic.
+ Yeah. And managing my injuries well. So, you know, so what's one of the things that I'm
+ What I'm actually going to do is I'm going to wait for my performances on the track.
+ I'm going to get a couple of times and wait for them to kind of level out a little bit.
+ And then I'm going to supplement my pre-team.
+ And after like four weeks, I'll just keep doing the same training and see if that actually helps or if it hinders.
+ Because I'm going to gain probably five pounds, maybe six from it.
+ And so I think I want to see if, you know, because acceleration is a huge thing in track sprinting.
+ I want to see if that extra weight to accelerate is outweighed so to speak by by being able to push
+ the pedals a little longer and a little harder because the answer is I don't know yeah I expect
+ it will be but I want to do this experiment for myself just because I don't know I just
+ it should it should be fine but it's one of those things where you need to gut check yourself you
+ know that yeah like it'd be interesting to see how you get on with that because
+ yeah sort of uh it's not been it's not been well uh investigated really whether
+ in in yeah in different events whether the trade-off between the extra power and
+ increase in weight well like yeah whether it's worth it yeah well i would expect in
+ running 100 meter dash it would easily be worth it because you spend less time accelerating and
+ more time at top speed than you know for you know for on the track like if we're going to do a
+ standing start for 250 meters or 125 or if we're going to do a flying 200 i expect those are going
+ to be um you know have slightly different outcomes but uh and it's just going to be n of one but
+ you know i'll know i'll know something and i'll probably know at the end that um i just didn't
+ want to supplement creatine because i didn't want that number on the scale to be above 200 anymore
+ yeah but anyway yeah um all right um all right so we should wrap this up um i actually have to
+ go do a couple things but um where can people find you where can people get in touch with uh
+ marinus peterson and kilowatt coaching okay so i've i've got um yeah an instant personal instagram
+ account um for marinus peterson and my coaching page which is yeah i'm just starting to build up
+ some posts on there is a yeah kilowatt coaching just again on instagram so i'm uh trying to keep
+ the simple on on the one platform at the moment um in well in 2020 i did make some youtube videos
+ which are sort of some of them perhaps so bad you could almost find them funny um i haven't made
+ any since or recently but i'm hoping now that i'm fully focusing on my my racing and my coaching
+ that i'm going to try and make some some proper content and take that all a bit more seriously
+ alongside the social media so but as of now i'm i'm i'm coaching i'm taking on new people
+ and uh yeah i'd be interested to yeah to hear from you and um i think i think for a future
+ youtube video an idea would be to open it with you trying to do was it was it a kickflip on the
+ scooter i i was i wasn't even trying to do anything this is how tragic it was i was just trying to go
+ down a ramp oh without falling off oh well being taught being forced to go down a ramp and ended
+ up falling off and and breaking your ankle and then the next then it should cut to you on a podium
+ yeah yeah yeah nothing in between nothing in between yeah how it started how it's going
+ um yeah that would be good yeah uh well i i wish you a speedy recovery and um i am really excited
+ to actually start working with you uh once you are out of your past and ride a bike again
+ hopefully four weeks time yeah awesome can't wait all right then oh uh cheers cody oh so
+ people will get in touch with you uh just dm on instagram would be oh so yeah yeah if you just
+ yeah d dm me on instagram um yeah that's that's the best way i should should be able to get back
+ to you pretty quick at the moment yeah all right fantastic um thanks for coming on brilliant thanks
+ so much enjoyed that yeah all right so that was my interview with marinus peterson and um obviously i
+ I think people are going to want to follow him on Instagram at kilowattcoaching and also Marinus Peterson.
+ So reach out to him if you want to get in touch with him.
+ And, of course, reach out to us if you want to get in touch with us, Empirical Cycling, on Instagram.
+ And, of course, EmpiricalCycling at gmail.com for just the old-fashioned email.
+ So if you have any coaching consultation inquiries for us, please let us know.
+ We are always taking on new athletes, of course.
+ And if you want to consult, our time is your time.
+ Please reach out for one of those.
+ Those are actually a lot of fun for us and a lot of fun for a lot of people.
+ And all the feedback I've gotten so far from people who've had a consult with us has been incredibly positive.
+ So thank you all for all of those over the years, of course.
+ And now, of course, the usual stuff.
+ If you want to donate to the show, empiricalcyclingpodcast.com slash donate.
+ We have show notes up on the website under the podcast episodes.
+ And, of course, I have tag Marinus on Instagram.
+ So if you want to go follow him, that's an easy way to do it.
+ And of course, we have Weekend AMAs up on the Instagram.
+ And with that, we'll be back next week, hopefully with a Wattstock, if I can finish it in time, once Kyle is actually back from his conference.
+ So thanks, everybody, for listening, as always.
+ And we'll see you next time.

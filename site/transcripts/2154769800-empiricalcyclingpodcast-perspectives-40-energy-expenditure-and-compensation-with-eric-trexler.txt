@@ -1,0 +1,1238 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Thank you everybody for listening as always. If you are new here, of course, please consider subscribing if you like what you're hearing. And the rest of you who are returning, thank you so much for coming back. And you know the drill. If you want to reach out for coaching, it's early fall-ish, late summer, and this is a big time of year for coaching inquiries. So if you want to beat the rush, please shoot me an email at empiricalcycling at gmail.com. Or if you would like to consult with us, kind of plan for next year, review this year, et cetera, et cetera. If you want to keep coaching yourself especially, please do so.
+ Please feel free to reach out. If you would like to support the show otherwise, that's probably the best way to do it. But otherwise, we are ad-free. So if you'd like to donate, empiricalcycling.com slash donate. And always a five-star review wherever you listen to podcasts. And a glowing review always goes a long way. Thanks for all of those. And if you would like to ask a question for the podcast, well, you can always do so on Instagram. Follow me at empiricalcycling and check out the stories. I also do a weekend AMA up there. So every weekend, you can go check those out.
+ And if you would like to ask a question for the podcast or for me, mostly for the podcast, head over to the empiricalcycling.com podcast page and go check up at the top of all the listings. And you will see a question box. And that is for kind of off-hours questions. If you've got something on your mind, you want to type it in. Before you forget, head over there and go ahead and ask. And we'll kind of tackle those as the podcast goes on over the next couple months.
+ And today, we have a really, really fun interview. And I'm very much looking forward to – well, it's already done for me. But if everybody is listening, then it's about to come up for you.
+ And I've been reading up on this topic for a long time, energy. And it's way beyond carbs and fats and all that kind of stuff. And today's guest is a – he's a very special guest because he's an expert on this topic.
+ He's – you know, he has done –
+ He's done a lot of the research. He works in a lab that's done a lot of the research on energy and energetics that I've been reading lately.
+ And today, we're going to be talking about a lot of concepts that I find are largely unknown in the cycling world.
+ I mean they're kind of – they're out there to some degree, of course.
+ But it seems to be a lot more crossover with the general fitness community, more with like strength and physique sports, which is also kind of where our guest comes from today.
+ Those are –
+ And we're also going to talk about how these concepts apply to the endurance training world because one of the things that the lab he works in is working on, as you'll hear, is a bunch of really highly energetically taxing things like, you know, what happens if you run a marathon every day?
+ What happens if you run – like physically run across the country with your own two feet?
+ What happens if you are a pregnant marathon runner?
+ Because these things are all highly demanding.
+ And how does it apply to cycling is a very, very big question and a big topic.
+ And we are going to – in future episodes, we're going to be breaking down a bunch of the big papers on this kind of thing, including one of the ones that we talked about in a little bit of detail today.
+ But to introduce this topic, I really wanted to have an expert on, and I'm so happy that I finally got Eric Schrexler onto the podcast.
+ And he – you probably have heard the name if you are kind of in the fitness.
+ You probably have heard the name if you are kind of in the fitness side of the world rather than just the pure cycling side of the kind of media and stuff.
+ He's a postdoc at Herman Ponser's Lab, and he is a – formerly of Stronger by Science.
+ He writes for the Mass Research Review.
+ I am a lifetime subscriber to Mass.
+ He's also the host of the Iron Culture presented by Mass Podcast and Front Page Fitness, and he has an absolute wealth of information on this topic and a bunch of other topics.
+ And we probably could have spent five hours talking about stuff, and we wouldn't have even scratched really the surface.
+ And so if you would like to check out any of the papers that we touch on in this episode, head over to empiricalcycling.com and check out the podcast notes for this episode.
+ And one of the things that we talk about today really is the – what's known as the constraint energy expenditure model and some of the ways that it gets misinterpreted, kind of the general application of it, kind of where do you expect this.
+ We also talk about WLF.
+ We talk about how to measure energy expenditure and how – and some practical ways to think about energy expenditure and some of the edge cases that may or may not happen in endurance cycling and also with general weight loss.
+ And we also dip into body weight and stuff like that in this episode.
+ And I got to tell you, having come from just listening back to this interview, we did not –
+ We didn't really approach it with much nuance, I think, in part because in the world where he's from, in the general fitness world and also in terms of strength and physique sports, body weight manipulation is actually very normal.
+ And in the cycling world, it's a problem, really.
+ So we didn't really get into much nuance when we touch on it.
+ We kind of approach it from professional coach to professional coach.
+ Our kind of attitudes towards it is.
+ Is reflected in this way, and it really is – I think I tried to get across that this is probably – some of the considerations that we're discussing in the cycling world is not for amateurs, like not even by a long shot.
+ And we also didn't really touch on things like health risks and really didn't dig that deep into differences between endurance sports and strength and physique-oriented sports like wrestling, bodybuilding, powerlifting, that kind of stuff, field sports.
+ A lot of the time.
+ And just general kind of fitness.
+ So those are some of the caveats.
+ And so we will, on the podcast, be approaching a lot of those topics from very nuanced angles in the future.
+ So please don't get at your pitchforks yet.
+ We've got a lot more guests and experts lined up to discuss this kind of stuff.
+ So I think that's enough of a preamble.
+ And with all that in mind, here's my interview with Eric Trexler.
+ I really wanted to –
+ I wanted to talk to you specifically, not only because you work in the Ponser Lab, but also because of your background in coaching and the crossover between actual scientific training –
+ I come from the biochemistry world myself – and the rubber meets the road in coaching is actually somewhat rare.
+ I know not for you and the folks at Mass, but it's a little more rare in the cycling world.
+ And I think especially one of the things that I wanted to bring you in for was that the cycling world is –
+ The understanding of dieting and especially energetics is actually not very nuanced.
+ And I think a lot of people in the cycling world focus more on carbs and fats and things like lactate, but not enough about energy.
+ And I couldn't think of a better way to start making content on this kind of stuff than to be talking to you.
+ So my first question really is what exactly does the Ponser Lab study and what's your role there?
+ Yeah, so my role has kind of shifted recently.
+ So I started out as a postdoc there and really as a unique postdoc there because the Ponser Lab is housed within the Department of Evolutionary Anthropology.
+ So most people that come through Herman's Lab as a doc student or as a postdoc are coming at it from biology or evolutionary biology, evolutionary anthropology.
+ And that department largely focuses on primate evolution.
+ And if you look at Herman's research over the years from his PhD to what he's doing now, it really has kind of drifted into a much more applied and kind of human-focused kind of direction.
+ Not to say he doesn't continue doing animal work, but it has shifted kind of over the years.
+ So it's really hard to imagine me working so closely with Herman 12, 15 years ago.
+ But as his research –
+ As his research has kind of drifted into this space, there's now room for someone like me to kind of join in on the fun, me being an exercise physiologist and sports nutritionist by training.
+ So I joined in as a postdoc, recently accepted a faculty position here at Duke, moving up the ladder, so to speak.
+ But I still – I do my teaching at a different department that's more exercise-focused, but I still am doing my research out of Herman's Lab there.
+ And essentially, what we study is energy expenditure.
+ And so, you know, if you look at it from an evolutionary perspective, the human body is a really fascinating machine that it really burns a lot of calories.
+ And throughout our entire evolutionary history, we've had some really interesting tradeoffs to consider.
+ You know, when you look at us compared to our closest relatives from an evolutionary perspective, you look at how different our GI tract is, you look at how different our –
+ Your brain is and the energy need that goes with that brain.
+ And you start to see that how we use energy throughout our lifespan is not a – it's certainly not an inconsequential consideration in terms of the viability of our species.
+ So there's this whole life history theory that focuses on how humans allocate energy in order of priority or preference throughout the lifespan.
+ And so in our lab, we, of course –
+ We do study energy expenditure across many species to get a better understanding of how different species utilize this critically important resource.
+ I mean, there's essentially very little more important than determining how your energy is going to be allocated toward doing the things that keep us alive.
+ But we've branched out lately into studying some extremes, you know.
+ So, you know, looking at how do we manage energy budgets under conditions that would –
+ Really kind of push us to our limits.
+ So looking at ultra-endurance athletes, we've got a project that a PhD student did a dissertation on recently on, you know, heavy endurance training in the context of pregnancy where we have this kind of double whammy of massive energy requirements.
+ And, you know, so yeah, so we do a lot of energetics looking at a variety of different questions related to either, you know, the extremes that we see.
+ Right.
+ Or questions that, of course, have some relevance to public health as well.
+ So that's kind of our sweet spot these days.
+ Yeah.
+ And, you know, you mentioned our kind of closest evolutionary relatives.
+ And I think it might be interesting to talk about, like, the difference between us and gorillas.
+ Like, why are they so jacked and lean and why are we so kind of fat and skinny comparatively?
+ Yeah.
+ I mean, and this is one of the areas where I have to be careful because I still am very much an exercise physiologist who shows up to an evolution department.
+ And I'm like, what am I doing here?
+ So I'm probably not the best at, you know, laying out the entire theoretical foundation.
+ But it is true.
+ Like, when you look at a gorilla and you look at us, the differences are astounding in terms of, of course, just the sheer mass and muscularity is an obvious one.
+ The brain size relative to body size, just the depth of cognitive capacity that we have relative to a gorilla.
+ And then the diet and the gastrointestinal.
+ And the gastrointestinal tract are so tremendously different.
+ I mean, gorillas eat just kilogram upon kilogram upon kilogram of plant material all throughout the day, just kind of chewing on this rough, you know, you know, really fibrous plant material.
+ And the reason they're able to do that is because their GI tract is so fundamentally distinct from ours in terms of how they're able to extract protein from the diet, extract and extract energy from the diet.
+ And so what you see, broadly speaking,
+ is that in our human evolutionary history, we kind of gravitated toward a strategy that really prioritized, you know, making sure we have this really high capacity brain, high capacity in terms of both cognitive, you know, computational power, and also just energy requirement.
+ You know, it takes a lot to keep a brain going.
+ I think the brain burns approximately, I think it's about 200 calories per kilogram of tissue every day.
+ So we're talking about.
+ It's about a very energy intensive organ.
+ And one of the ways that we've kind of made that work is by over time, you know, our GI tract is much shorter than that of other primates.
+ And what we do is we kind of gravitate toward a diet with very high energy density.
+ So we don't need to have this really extreme level of, you know, when you look at a gorilla, they're just constantly doing this fermentation of these just massive amounts of plant material.
+ And we've kind of shifted.
+ We've shifted to a more streamlined GI system, where we are seeking out energy dense foods and nutrient dense foods, so that we can kind of get away with having this much more concise GI tract in terms of its architecture and function.
+ So very, very different strategies.
+ And I wouldn't really want to go head to head with a gorilla in any physical capacity.
+ But when it comes to building the internet, we're beating them by a mile.
+ Remember that gorilla Coco?
+ Who could, you know, communicate in sign language.
+ I always wondered, did somebody ever ask her how much can you bench?
+ That's a good, you know, I actually have met somebody and chatted with them who was at the place briefly where Coco was.
+ But I think they actually got there after she had passed.
+ So she had heard all the kind of stories, but didn't get to interact with Coco.
+ But yeah, certainly a fascinating tale, for sure.
+ Definitely.
+ Okay, so back on topic.
+ So with measuring energy expenditure, there's a couple ways to do it.
+ But if you could dive into the more quantitative ways to do it, because I think a lot of people at this point have probably heard of doubly labeled water.
+ But people may not have heard of things like the Weir equation.
+ And people may not have heard of like a metabolic chamber.
+ So what is doubly labeled water?
+ How does it work?
+ And how does it actually end up measuring energy expenditure?
+ And like, what's the approximate error on it compared to something?
+ A little more rigorous, like a metabolic chamber?
+ Yeah, so, you know, when we look at energy expenditure, you know, coming from an exercise physiology lab, I was used to a fairly, a fairly crude way of doing it.
+ So in exercise physiology, you know, for resting metabolic rate, we'll pretty much get you in there and do indirect calorimetry.
+ And, you know, folks who are really into cycling.
+ Very well may have have engaged in some indirect calorimetry in the past, right?
+ So if you've ever done like a VO2 max test where they had you wearing a mask, you were doing indirect calorimetry on a metabolic cart.
+ We used to do a lot of, you know, exercise testing with indirect calorimetry where people are wearing the mask.
+ We're measuring the air going in, air coming out.
+ We also would do resting metabolic rate with indirect calorimetry via metabolic cart.
+ And basically the metabolic cart, what we're really looking at is.
+ You know, air is coming into your body, air is going out of your body.
+ It's coming from the ambient room, going into your lungs, you know, you're doing gas exchange and then you're expiring the residual, what's left.
+ So we're looking at a combination of comparing the air going into the air, going out, how much oxygen seems to be getting consumed by your body and how much carbon dioxide is being put out by your body.
+ And so we'll end up putting that into the Weir equation, like you mentioned, and kind of figure out, OK.
+ Based on, you know, the exchange of gas, we can kind of work backwards with all these physiological and biochemical calculations and work our way toward how much energy, how many calories are you actually burning either at rest or during some kind of exercise activity?
+ Like if we're doing a VO2 max test now, indirect calorimetry, like with a metabolic cart like that is it's really great for certain things.
+ It's great for measuring expenditure and, you know, gases during exercise, for example.
+ But.
+ It's pretty limited when we want to start extrapolating out to to things like total daily energy expenditure, because basically, unless we're going to have you just stand next to that cart all day and just breathe into it, tethered by, you know, a three to six foot tube.
+ You put the Cosmet thing on your back.
+ Yeah.
+ Yeah, I mean, and yeah, there are portable, portable indirect calorimeters that have become a little bit more accessible these days, but it's still a very unusual way to go about life.
+ And so the question is, how do we actually measure total daily energy expenditure in a way that's more reminiscent of day to day life and the life that you are living?
+ You know, because ultimately, that's what we're trying to get at is on your normal day.
+ How many calories are you burning?
+ So, like I said, a lot of times with with indirect calorimetry, people are stuck in the situation where they basically do a resting test, do like a 30 to 60 minute resting metabolic rate.
+ And then they'll just kind of figure out how active are you?
+ Generally, and just multiply that resting metabolic rate by something and say, OK, we think your total expenditure is probably around here.
+ And that's obviously subject to considerable error just because of the massive assumptions that we're making, particularly with that multiplication process.
+ So you could do a little better than that and use a metabolic chamber.
+ And we have one of those in the Ponser lab here at Duke.
+ And about metabolic chambers, really simple.
+ It's using this.
+ Same premise of indirect calorimetry.
+ We're still measuring the gas going into the room and out of the room.
+ But instead of tethering you to the metabolic cart by a little tube and wearing a mask, you know, we're basically creating a little dorm room for you where you have your little sink and your toilet and a bed and a desk and a television.
+ You know, we can bring in, you know, a walking pad or a state stationary bicycle.
+ So we basically my office.
+ Yeah, exactly.
+ We create this kind of little self-contained room where we can say, hey.
+ Stay in there for 24 or, you know, people can vary how long they want to keep you in there, but it's usually about a day and basically say, yeah, we're going to get you when you're sleeping.
+ We're going to get you hanging out at the desk.
+ Maybe we allow you to do some exercise on a walking pad or a bike, like I said.
+ And we are going to at the room level kind of make those those estimates based on the gases going in and out and kind of determine how many calories you're burning from that perspective.
+ And that's better than just kind of getting this little snooze.
+ That's better than just kind of getting this little snapshot of 30 minutes and trying to do a bunch of multiplication.
+ But there's still shortcomings with that, because obviously, I would imagine most people where we're interested in measuring their energy expenditure, they don't actually live their whole day in a tiny room.
+ They go out and do things.
+ And so we can try to say, hey, get on the walking pad and do some of this, do some of that.
+ But we're really not replicating their day to day life.
+ Right.
+ And so that's in my view, where doubly labeled water really comes.
+ Comes into play as a major, major upgrade.
+ So doubly labeled water, pretty much anyone you ask is going to say it's the gold standard for measuring total daily energy expenditure.
+ And what we're doing is we're giving you water and it's labeled doubly.
+ There are two ways that we've labeled it.
+ Right.
+ So if you think back to high school chemistry, you've got your periodic table of elements and each of the elements has its own atomic mass.
+ And so water is H2O.
+ We've got the hydrogen.
+ We've got the hydrogen part and the oxygen part.
+ Hydrogen usually has an atomic mass of one.
+ Oxygen has an atomic mass of 16 typically.
+ So we can give you a labeled version of hydrogen that is actually H2 instead of H1.
+ It's labeled because it has an extra neutron giving it more atomic mass.
+ And when we put that under a, if we have two samples of water, one with normal hydrogen, one with the heavier hydrogen, when we put that in our laser analyzer,
+ we can tell the difference between the two and calculate.
+ The concentration, so we can label that hydrogen, turn it from hydrogen to one to hydrogen to we can also label the oxygen, turn it from oxygen 16 to oxygen 18 by having a couple extra neutrons in there.
+ And so basically what we'll do is we'll, we'll bring people in, get a baseline urine sample to figure out these different versions of hydrogen and oxygen.
+ We call them isotopes and these are stable isotopes.
+ They're, they're non-radioactive, but we basically get a baseline sample to figure out how much.
+ Okay.
+ Of these isotopes are in your system just from background exposure because, because the, these are naturally occurring isotopes in very, very small concentrations.
+ So we want to figure out what your background level is.
+ Then we give you a carefully measured dose of this doubly labeled water, which is scaled to your body mass.
+ And five or six hours later, we'll get a second sample where the little dose of water we gave you, it's usually like a hundred grams or a hundred milliliters worth of water, give or take.
+ We give that a few hours to kind of.
+ Basically distribute all throughout your total body water pool.
+ We want to completely dilute it throughout your entire system.
+ So then we'll get another urine sample at that kind of peak enrichment is what we call it, where, where your total body water pool is maximally enriched with this labeled water.
+ And then we'll just collect a few more samples over the course of the next week or so, and kind of see how quickly the labeled oxygen is leaving your body system and how quickly the labeled hydrogen is, is exiting your body.
+ So you can think about it.
+ Like.
+ Imagine your body's like a big fish tank and we put a drop of blue dye in it.
+ So immediately it's going to dissipate throughout the entire tank.
+ And then every day, we're going to take a liter out of the tank and we're going to put a liter of normal water back in.
+ So over time, as you're using water and water's exiting your body, we're diluting that initial sample of the doubly labeled water.
+ So what we're trying to do is kind of look at the rate at which your body's eliminating this, this labeled hydrogen and oxygen.
+ From the system.
+ And so basically then we do a bunch of math and we figure out based on the slope of elimination for hydrogen and oxygen, we can work backwards and figure out, um, the, the two things we're most, we're typically most interested in the three things that you really get from doubly labeled water.
+ Number one, we can get a decent estimate of your body fat percentage.
+ Number two, uh, we can get a really good estimate of your, uh, water turnover on a day-to-day basis.
+ So we get a better.
+ And then of course, what everybody's interested in is we can get your total daily energy expenditure specifically by comparing, by looking at the difference in the elimination rates for oxygen and hydrogen.
+ So that is the method in a nutshell, I'd have to double check the literature on the kind of most up-to-date estimate of, you know, exactly what percent of, you know, what validity we have.
+ Um, cause obviously the method is always getting tweaked and changed and updated and improved.
+ You can always update the equations we're using things of that nature, but without question, you know, the, the number that you get from this, you can really take to the bank and you can really utilize in terms of assessing your daily energy needs.
+ Uh, and it is certainly considered the gold standard and the best we got at this point.
+ Right.
+ So it's not going to tell you that your energy needs are like 2,500 when they're really 3,500, it'll be like it's 2,500 and it might actually be like 26 or 24 kind of.
+ Yeah.
+ Yeah.
+ We, we can really take this.
+ Like I said, I'd have to double, I don't want to be wrong.
+ That's the, when I took my comprehensive exams.
+ My listeners are used to me hedging all the time.
+ So when I took my comprehensive exams as a master's student, one of the smart ass doc students told me he had, he told me he had some advice and I said, Oh, this will be good.
+ He said, don't be wrong.
+ Um, it actually was good advice.
+ Cause it's okay to say, you know, I'm not, I can't give you the exact number with a high level of confidence at this time because it's always getting updated and changed.
+ Um, so, but, but I, I can tell you that this is the type of thing that you, you can actually realistically make individualized nutrition changes based on this number.
+ We are, we are going to be within a margin of error that frankly is smaller than the margin of error that's allowed on your food labels.
+ So it's, it's, you know, like, um, cause you know, food labels are allowed to have up to like a 20% variance in terms of their caloric accuracy.
+ So, um, so yeah, we, we absolutely.
+ From this are getting an individualized, highly tailored and precise estimate that you can actually act upon in terms of setting your targets for, for nutritional needs.
+ Yeah.
+ And that, uh, that nutritional, uh, error is why I always have a couple extra chocolate chips.
+ Yeah.
+ Why not?
+ It's a, it's, yeah, it's my perfect excuse.
+ Uh, so how did the, uh, well, what is the constrained energy model and how did this come about?
+ Yeah.
+ So the constrained energy model.
+ Um,
+ you know, Herman is a Herman Ponser's a pioneer in that area.
+ And, uh, it's been about 10 years since he published the, the first like big paper that, that you could kind of view as like the constrained model manifesto of like, Hey, I've been chipping away at this idea for a while.
+ And enough evidence is mounted here that I'm ready to kind of put a name on it and present it all as kind of a tidy bundle of information.
+ So the constrained model, you know, one of the things that I think really, I don't want to speak for him.
+ But it seems to me, the, the story goes that, you know, what really caught Herman's eye is doing research, um, using doubly labeled water, getting, like I said, this very precise estimate of daily energy expenditure across very different populations.
+ Uh, so of course, you know, we're based out of North Carolina.
+ We're going to be doing research at the time Herman wasn't in North Carolina, but you know, in America, we're going to have some research we're doing on sedentary populations, likely who have, you know, overweight or obesity.
+ In terms of their BMI category.
+ Um, so, so we see the energy expenditure that we anticipate with a cohort of people that is overweight or obese and highly inactive.
+ But, you know, we also, we have this great, uh, collaboration.
+ It's a big acronym called pecan.
+ It's population ecology, something, something aging network.
+ Um, but a big collaboration where we work with people all over the place who are doing research and all these diverse populations all over the planet.
+ So, uh,
+ You know, um, talking about like hunter gatherer communities, talking about very small scale pastoralist communities, um, you know, communities that are, um, not industrialized economies where, where they do either subsistence farming or hunting, get hunter hunting and gathering or small scale herding to kind of meet their needs.
+ You know, they're not doing, um, crop production for, uh, commerce reasons.
+ It's just, they grow what they need and they eat it.
+ Um, or they hunt what they need.
+ Um, and so these are, are just fundamentally very different lifestyles.
+ These are populations where in many cases, it's not unusual to see individuals averaging 30, 35,000 steps a day compared to the tiny fraction of that, that we see in industrialized economies.
+ Um, so, you know, we, within our pecan network, we've got folks who have done studies in Siberia, South America, Africa, Southeast Asia.
+ I mean, just all over the world, uh, different climates, different, uh, latitudes.
+ You name it.
+ And time and time again, you know, Herman was kind of realizing that you look at these two cohorts with, uh, you know, dramatically different activity levels.
+ And they were generally converging within a fairly tight range for total daily energy expenditure on average, uh, once you correct for body mass.
+ And so to him, that was a very, uh, eyeopening, if not jarring observation, which is, you know, coming from the exercise science world, we always tell people, if you want to burn more calories, move more.
+ Uh, and to an extent that is true.
+ But what was really catching Herman's eye was like, well, I'm doing this study on sedentary folks who work a desk job in, in Philadelphia.
+ But then I'm also doing these studies on people who are, you know, hunters in the Hadza community in Tanzania, and they take 33,000 steps a day.
+ And once I correct for their body size, the total daily energy expenditures are not all that different.
+ And that really gave rise to the constrained energy expenditure model, which basically suggests that, yes, generally speaking.
+ If you do more activity, you'll burn more calories than if you did very little activity, but the relationship is not linear.
+ So it's very natural for us to assume if I, let's say I'm doing my cycling training, I'll try to stay on brand here and I'm going to add enough work to my daily workout.
+ Let's say I work out seven days a week just to make things easy.
+ It's pretty average.
+ Yeah.
+ I'm going to add an extra hundred calories worth of effort.
+ And so reasonably one would expect, okay, I'm bumping my training load by a hundred calories a day.
+ I'm doing it seven days a week.
+ My total daily energy expenditure will increase by 100 calories per day.
+ But what we tend to find is that's usually not how it works.
+ The number, your total daily energy expenditure typically will go up when you increase your training load.
+ But if you increase your training by a hundred calories a day, on average, it may only go up by maybe 70 calories instead of a hundred calories.
+ The other 30, it seems that our body has numerous potential.
+ Mechanisms by which it can strain less essential elements or components of total daily energy expenditure so that we're essentially conserving energy.
+ And what's interesting is that it's not just kind of a flat tax off the top where it's like, okay, every time you try to increase by a hundred calories, the tax is 30% and you're only really getting 70% of what you put into it.
+ It's very nonlinear in the sense that, you know, when folks are, let's say you are extremely,
+ sedentary and you eat more calories than you need on a daily basis, if you increase your, your activity from virtually nothing to a hundred calories higher than nothing, you're probably going to be getting the lion's share of that increase in total daily energy expenditure, because there's, there's no reason for there to be a massive constraint there.
+ You know, you're, you're in positive energy balance.
+ There's all these calories to be had.
+ Your body's not going to really be getting any signal or any indication that we need to start being very conservative about energy use on the flip side.
+ You could imagine that.
+ You are, um, in a community where caloric resources are relatively scarce.
+ You already are averaging 27,000 steps a day.
+ Uh, you're, you know, you've basically lost five pounds from your top body weight and now you're kind of at a plateau at your current body weight, which is quite lean.
+ If you increase a hundred calories worth of exercise daily from there, now you can start to see a scenario where your body's like, okay.
+ And, and of course I'm assigning a level of like cognitive.
+ Uh, thought here.
+ That's obviously not real.
+ Right.
+ But, but you could understand why we would evolve with mechanisms that say like, Hey, listen, you're not eating very much.
+ You're doing tremendous amounts of physical activity.
+ We probably need to have some level of constraint on total daily energy expenditure to prevent careening rapidly into a starvation threatening kind of situation.
+ So, so that's the idea with the, the constraint energy expenditure model is that, um, our body has mechanisms where if we really push.
+ Our, our physical activity or exercise level super high, and especially if we're under fueling in that context, we have the ability to, let's say reduce some of our non-exercise physical activity expenditure, or let's say reduce some elements of our basal energy expenditure in order to soften the blow and give us a little bit of cushion between us and basically a fast track to starvation.
+ Yeah, actually one of my favorite bits of trivia that really.
+ Illustrates this is, um, you know, the average, what is the average weight gain in America is like about a pound a year, which, you know, roughly is like 10 calories a day.
+ And I heard this on a podcast, like, I don't know, five or 10 years ago.
+ And my first thought was, are we all really overeating by just one fork full?
+ You've got to be kidding me.
+ Like that's, that's impossible.
+ And then I heard this and I went, Oh, now it makes perfect sense because I think that, um, I think that a lot of people, when they hear this, it's cause it's typically, it's been studied.
+ In constrained, like you don't have enough energy, your body needs to compensate somehow, but it goes the other way too, doesn't it?
+ Yeah, absolutely.
+ For sure.
+ And yeah, it's, it's, it is very fascinating when you start looking into the, the research on kind of like what magnitude of overeating would it really take to develop obesity over a lifespan?
+ And yeah, it could be as simple as a mismatch of 1% where you're overeating by 1% in perpetuity.
+ Um, and if you're not kind of reaching up.
+ A plateau and every time, you know, your, your body gets larger and your expenditure goes up a little bit, you maintain that 1% overeating.
+ You can kind of explain the gradual weight gain into, you know, the obese categorization that, that we observe over the lifespan.
+ And one of the things that's really cool is, uh, you know, Herman was, uh, he wrote a paper in this really cool special issue, um, uh, for, for a journal, uh, like a year or two ago.
+ And the, it was a special issue where they got together, like really legit.
+ Experts with very different views.
+ And they said, uh, basically write, write a, write an article about how we got here with the obesity epidemic.
+ Like, what is it that's driving obesity in humans?
+ And so they, they have representation of people talking about, you know, uh, you know, theories that, you know, as our protein or as our diets get low, relatively lower in protein, we kind of over consume to meet that gap and keep eating until we meet our protein demand.
+ And now our calories.
+ Drift higher and people writing about the effects of insulin, you know, the carbohydrate insulin, like all these different models that people have kind of, you know, thrown spaghetti at the wall to see what sticks metaphorically.
+ And Herman's paper was like, Hey, could it be as simple as that?
+ We're primates.
+ Um, and, and so he looked at, um, he, he looked at, I think like a couple dozen species of primate and basically compared the good life to the hard life, the hard life being, you know, when you want to eat, you got to go out and hunt it or gather it, you know, versus the good life, meaning you're good.
+ You're not really being, uh, you're not getting chased away by predators every day.
+ You don't have to go out and hunt.
+ Um, so with all these different primates, he basically compared a wild, uh, group of the primates.
+ To a primate who lives in like a cushy zoo or sanctuary where there's no predators, the food gets delivered to them on a regular schedule.
+ It's delicious fruit.
+ They don't have to go out and eat all the fibrous roots to try to get some calories.
+ And so basically, um, and then for the human comparison, uh, he compared kind of like hunter gatherer societies to industrialized economies where people have easy access to abundant caloric resources.
+ And basically it seems to be, um, kind of a part of being a primate.
+ Living the good life.
+ We, we tend to overeat just a little bit, uh, essentially in perpetuity, uh, and that's how we, we kind of get where we get.
+ But to your point, um, the, the relationship, like I was saying, it, it very much differs depending on context and the two big elements, um, dependent that, that seem to be dictating, uh, the magnitude of compensation as we currently understand it.
+ Number one is how much are you eating?
+ You know, if you are, uh, severely under eating relative to your diet.
+ To your expenditure, we can expect, uh, a higher level of compensation, which is very intuitive.
+ And number two, how active are you?
+ Um, you know, we tend to find the most compensation in people who are doing very extremely high levels of physical activity, not in totally set in sedentary people who decide they're going to start, you know, walking a couple miles a day.
+ Yeah.
+ And, um, so I think maybe, uh, um, kind of the, the.
+ The thing I was maybe trying to get across is to, to have a, a more, a more intuitive understanding to not quite get into the, um, to the, you know, dual intervention point model, but to just to think about the, uh, constrained, um, energy expenditure model as more like the body trying to match output to input.
+ Right.
+ Yeah, exactly.
+ Yeah.
+ And, and, and you can, uh, yeah, I think that's a good way of putting it.
+ And, and I also just like to, I think it's very intuitive to just focus on, uh.
+ What would be the reasoning for this, you know?
+ So, so for example, um, you know, why would we need to pump on the brakes?
+ If a person who is totally outmatching their, their intake relative to expenditure, they're, they're eating 300 calories per day more than they actually need.
+ What would be the, the need and what would be the evolutionary pressure to say, well, if you increase your calories by a hundred in that context, you're still in a caloric surplus.
+ Why would we need to?
+ Apply any breaks to energy expenditure in that context versus if you think of a very, very lean individual who is already under eating relative to their energy demands or their energy expenditure.
+ Um, it is a very threatening thing for them to continue bumping that expenditure up and up and up and growing that whole cycling world.
+ Why don't you?
+ Yeah, but it's, it's a very threatening thing.
+ And, and, um, you know, what, what's really interesting, you know, I came into this not from a endurance perspective, but from a bodybuilding perspective.
+ Which is a really unique kind of case study in the body adapting to these very unique, uh, constraints.
+ And, um, you know, what's really interesting is you talk to body, I'm sure it's somewhat similar in cycling, but you talk to bodybuilders, you know, what, what's your least favorite thing about the sport?
+ And they'll start talking about all these things that happen late in what we call contest prep as a, you know, bodybuilders when they're not about to compete, they may, they may be 30 pounds heavier than they will be by the time they actually get on stage and compete.
+ So the process of getting lean and getting down to that, you know, 30 pound weight loss.
+ So they're really ready to go on stage with virtually no body fat.
+ They call that contest prep and people always talk about what's the worst part.
+ And they're like, oh, contest prep.
+ I'm cold all the time.
+ I have no libido.
+ I can feel the symptoms of low testosterone.
+ And literally what they're doing is pointing at the body essentially saying, well, if you're going to be doing this much exercise, and if you're going to be under fueling this much.
+ I'm going to start cutting into some basal processes to save some energy, which means I'm not going to keep cranking out all this thyroid hormone that you're used to.
+ And that's why your energy expenditure drops and you feel freezing cold all the time.
+ And you have no business engaging in any reproductive activities when you, when you are this in such a dire situation energetically.
+ And so that's where we start to see drops in testosterone.
+ Your body's not going to waste the energy to make it.
+ And it's not going to put you in a situation where you're, you know.
+ You know, utilizing your reproductive system to, to create more offspring, because that's not a good look for you right now when you're, you barely have enough calories to go around to make, make ends meet for yourself.
+ And so we start to see these energy requiring processes related to these hypothalamic hormone cascades are all getting turned down, likely as an energy conservation response.
+ Yeah.
+ So what are the more nuanced categories of the energy constraint that?
+ So you mentioned, you mentioned the metabolic adaptation.
+ I know you did a lot of research on that before you joined Ponser's lab.
+ So why don't you talk about that a little bit?
+ And also the other categories of, you know, exercise, energy compensation, and also efficiency of movement.
+ Yeah.
+ So, you know, when we are breaking down total daily energy expenditure, there's a million different ways that you could categorize it, depending on the context.
+ But the way I look at it is, you know, I'm not going to talk about it.
+ I like to think of it as it is basically four separate compartments or four different components, you could say.
+ So we've got our, our kind of resting or basal metabolic rate, which is just the calories we need to get by just existing as a human.
+ So when you're sleeping, this would be your sleeping metabolic rate, which is exactly what it sounds like.
+ And then when you're awake, we call it your basal metabolic rate.
+ And you could think of that as, you know, if for whatever reason, you're going to have a day where,
+ you woke up, but never got out of bed, never ate, you just laid there and looked at the ceiling for a while.
+ The calories you burned on that day would be your basal metabolic rate.
+ But on top of that, there are other things that require some energy in our typical day-to-day life.
+ One of the simple ones is the thermic effect of feeding.
+ And that's just the calories that it takes to ingest, digest, and metabolize food.
+ So all the calorie expenditure associated with the process of eating things and then getting,
+ those nutrients where they're going basically is the thermic effect of food or the thermic effect
+ of feeding. Then we've got our exercise activity thermogenesis, which is our structured intentional
+ training dose in the context of cycling. So that, that is your mileage that you're putting in,
+ whether you're on the bike or maybe you're mixing in some resistance training,
+ maybe you're mixing in some cross training, you're in the pool, you're doing some running.
+ This is your structured exercise training calories. And then everything,
+ everything else kind of falls into this bucket that we call non-exercise activity thermogenesis.
+ And this is everything that exists. You know, I kind of painted that picture of you just laying
+ in bed all day and doing literally nothing. So that's one end of the spectrum. The other end
+ of the spectrum is when you are actively engaging in intentional structured exercise training
+ sessions, all activity that falls in the middle kind of gets caught in this bucket that we call
+ non-exercise activity thermogenesis. So, um,
+ a simple example would be you go, uh, walk from your front door to the mailbox to get your mail.
+ That's clearly activity. You're not resting, you know, you're not purely at rest. Uh, and, but
+ you're not going to count that in, in your training log, right. It went and got the mail today.
+ So cyclists do, I see those little three minute walks logs, but so, so that'd be non-exercise
+ activity thermogenesis. And it even goes to simpler things, you know, uh,
+ sitting up in a chair and maintaining your posture, fidgeting while you're in a chair.
+ These are,
+ at the end of the day, muscular actions that require more energy than simply laying in your
+ bed and kind of not moving at all. Um, and so this all falls in a non-exercise activity
+ thermogenesis. And so to answer your question, uh, as concisely as possible, when we're talking
+ about, um, this constrained model, or we're talking about metabolic adaptation, we're talking about a
+ situation where your body is burning fewer calories than we could realistically predict based on all
+ of our, you know,
+ theoretical calculations. We're wondering where is your body cutting corners to make this deficit
+ happen or to, I guess, shrink this deficit. You know, clearly your body's taken some,
+ some shortcuts to conserve energy. Where are these shortcuts occurring so far? The two main
+ culprits. Um, and it's very, there's a lot of debate over exactly, uh, you know, where these
+ calories are coming from, but right now the leading theories with the most, uh, the most
+ evidence behind them have really been, uh, zoning in and kind of focusing on these basal processes
+ and non-exercise activity thermogenesis. Uh, those are the two areas where we seem to be seeing,
+ uh, the most happening in terms of potential constraint of energy expenditure. So like I said,
+ uh, bodybuilders know this at a very visceral level, especially on the basal side. Uh, you're
+ in this big caloric deficit. You're in this big caloric deficit. You're in this big caloric
+ deficit. You have almost no body fat left. You're still losing weight, but very slowly,
+ uh, you'll notice things like, like I mentioned, thyroid hormone and testosterone
+ will fall out of the reference range. Almost always. Um, you'll notice things like your
+ fingernails and your hair are growing more slowly. Uh, so really interesting things where you can
+ tell like, yeah, my body is just, instead of spending the energy required to grow my fingernails
+ at the normal rate, which requires assembling all those proteins, all the energy that goes into that,
+ process your body saying, no, we're going to slow that down and save the calories while we can.
+ Um, and then on, on the non-exercise activity side, you know, some of this is kind of a
+ subconscious response that impacts volitional activity. Uh, meaning when you're really feeling
+ fatigued in this state and you realize you didn't get the mail this morning, are you really going
+ to go out your door and get it in the evening? Are you going to say, eh, why not pick them both
+ up tomorrow morning? Right. So it's pretty full sometimes and it gets pretty full. Yeah. So it's
+ the skipping out on things. Cause you're like, I just can't be bothered. I remember I was prepping
+ for a bodybuilding show, uh, when I was, uh, working on my PhD and people came into my lab
+ and they point, I wouldn't have ever noticed this on my own, but they pointed out to me
+ when I was really pushing hard, they were like, bro, you're like melting onto your desk right now.
+ And I was like, what do you mean? Like, and I just, I didn't even realize it, but even just the
+ straight, it was, it was gone. And I was, I was changing my postural, um, you know, characteristics
+ of how I would, uh, sit or stand throughout the day to conserve energy. I fidgeted less,
+ things like that. So, so some of this stuff impacts volitional non-exercise activity,
+ and some of it's purely non-volitional and you wouldn't even notice it until somebody pointed
+ it out. Um, but, but these are the areas where we see the most. Now there have been some studies,
+ you mentioned like mechanical efficiency and things like that. Um, and you can look at mechanical
+ efficiency from different levels. Um, uh, you know, depending on, I'm not like a biomechanist,
+ so anyone who is, that's listening might cringe as I kind of, you know, conflate different concepts.
+ I'll send them to your DMs.
+ Yeah, perfect. Um, but, but basically, you know, it is true that, you know, over the course,
+ you know, if you are kind of in a deficit, a caloric deficit, uh, burning more calories,
+ uh, than, than you are consuming and you're kind of in, as you're losing weight, you're
+ constraint kind of setting in most likely. Um, you know, it is true that as you're losing weight,
+ that is going to impact the energy cost of your exercise bouts. If that's the only thing that
+ changes, right? You doing that exercise bout at 181 pounds energetically looks different than you
+ doing that same exercise bout at 168 pounds, for example. So, um, so there's that component,
+ but there's also, there's been studies where they look at people before and after weight loss and
+ the efficiency of cycling. Um, and they actually use little weights to replace the leg mass that
+ was lost. And so they're saying, well, I want you to do the exact same workout on like a, um, uh,
+ electronically break ergometer. So we can control the wattage and the cadence and everything,
+ you know, really highly controlled cycling workout, but we're going to have you lose some
+ weight experience all these endocrine changes I talked about, but then we'll, we'll make sure
+ that the actual legs that are pedaling weigh the same weight. So, um, so that's, that's, that's
+ same as they used to. Uh, and even with that weight replacement, there have been some, there
+ have been a couple small studies indicating that even just the mechanical efficiency of cycling
+ can change and you can become a little bit more energy efficient after that weight loss has
+ occurred as some of these compensatory, uh, neuro endocrine changes kind of start setting in here.
+ Uh, now it is true. I should caution that when it comes to like a competitive cyclist,
+ I think a lot of people overstate the impact of
+ that mechanical efficiency, because if you dig into those papers, it seems to be most prominent
+ at super, super, super low power outputs, like power outputs in a cycling workout that are more,
+ more compatible with like you walking to get your mail than you doing your training about that day.
+ And the higher the, the, um, the intensity goes, we start to see that potential change
+ in efficiency going away. Uh, so, so I, I try to really reiterate that.
+ To me, it looks like changes in resting or basal processes play a role. It looks like changes in
+ some of these non-exercise processes play a role. Um, thermic effective feeding and the actual
+ energy cost of your training session, aside from changes in body weight impacting it,
+ those seem to be less, um, less likely to be the culprits when we're trying to figure out
+ where this energy is going. Yeah. And, um, you know, you, you mentioned a bunch of stuff that
+ people can,
+ can kind of consider qualitatively, um, because cycling is an incredibly quantitative sport
+ because almost everything we do goes through a power meter. So we could be fairly precise about
+ what we're spending, how much, I mean, you know, efficiency calories, like it's kind of plus or
+ minus a few percent here and there. Uh, but we can make some rough estimations and, um,
+ and I think a lot of people are experiencing in my experience anyway, cause I, I coach a lot
+ of people. We, uh, I've got a bunch of other coaches and we coach a lot of people and I do
+ a bunch of consultations every year with people who want to keep coaching themselves. And one of
+ the most common things I hear is like, well, um, you know, I'm, I'm really lazy. I don't have the
+ energy to play with my kids. My libido is pretty low or like I'm cold all the time. My sleep is
+ really disturbed. And, but you know, my calories are, I'm, I'm eating enough. I'm like, are you
+ hungry? They're like, yeah, but I'm eating enough. It's like, okay, let's, let's back up a step here.
+ Uh, and so my fascination with bodybuilders, cause I'm, I'm injured. And so I've been doing
+ more strength training than cycling myself. And so, um, my fascination with bodybuilders
+ in the strength training world has led me down to all this stuff. And, and, you know, I, I found
+ the, the mass podcast like a couple months ago. And, and then, then you guys merged with iron
+ culture and I was like, Oh my God, I've got 300 more episodes to listen to in the back.
+ Are you kidding me? I mean, if we caught up with the ones that you guys did recently.
+ Um, so, uh, so this kind of stuff has been incredibly,
+ helpful to me as a coach and I'm hoping it's helpful to, to people out there listening.
+ And so, um, I wanted to get into a little more on some of the finer details on this kind of stuff.
+ And also some of the misinterpretations that can happen. Yeah. And I think, uh, one of the ones
+ I've seen, which always made me laugh really hard, which is that, uh, they've, they've seen the,
+ that big Ponser paper and they're looking at the average expenditures, like 2,600 K Cal a day. Um,
+ and there's the, the,
+ the number one misinterpretation I always see is I guess this means nobody can burn more than 2,600
+ K Cal a day. And I'm like, there's some pretty big error bars on that number.
+ Yeah. Yeah. So that is definitely a huge misconception. Um, and, and, uh, yeah,
+ when you look at some of the work we've done on, uh, on athletes out of the Ponser lab,
+ you see that that's, that's clearly not a claim that we would ever make. Um, there,
+ there's two distinctions to be made here. One is, you know, athletes who are eating a bunch of
+ calories, like you said, you know, there, there's this kind of intuitive level of kind of
+ approximately matching expenditure to intake. And so if you are in a situation where you can
+ fuel really intensive training and put in, you know, this, this training day after day,
+ obviously you're going to be burning more than 2,600 calories. So there's a paper from 2019,
+ the lead author was Thurber, uh, and they were looking at folks who were doing a race across
+ the USA and the average energy expenditure in that group when they were,
+ you know, in the thick of it, doing their training was about 6,000 calories per day.
+ Um, so yeah, you absolutely can burn a heck of a lot more than 2,600 calories. Um, when you,
+ when you look at, um, research on rugby players, basketball players, other team sport athletes,
+ endurance athletes, it's not at all unusual to see daily energy expenditures, you know, in the
+ four or five, even 6,000 calorie range. And you can find case studies even going North of 7,000
+ calories per day.
+ Which does bring me to the other thing, which is the duration of activity. Um, and so that Thurber
+ paper, what I really like about it is it kind of plots out a bunch of different, um, a bunch of
+ different things or events that involve high energy demand. So for example, uh, race across
+ the USA, the tour to France, um, being pregnant, uh, you know, just a variety of different things
+ that, that elevate our expenditure beyond the, the kind of normal resting level.
+ And what they plot out is the relationship between how high we can sustain our daily energy
+ expenditure regularly. That's on the Y axis. And on the X axis is how long is this event? Uh, so in
+ the case of pregnancy, that's a nine month event. Um, in the case of, you know, uh, race across the
+ USA, I think it ends up being about 140 days, if I'm not mistaken.
+ Yeah. That's the running race. Yeah. There's a cycling race too, which takes a lot less time.
+ Okay. Yeah. Well, that, that makes sense. Uh, but yeah, the running race, I think takes about 140
+ days, give or take something in that ballpark. But, you know, basically we can look at all these
+ different events, some of which are one day long, some of which are two weeks long, some are
+ 10 weeks long and all down the line. And we find that there's a massive, it's a very non-linear
+ effect where if you want to just make your expenditure as high as you can possibly make
+ it for one day, it really just comes down to how, how much pain you're willing to experience.
+ So like the way that we like to quantify it is multiples of your basal metabolic rate. So if
+ your basal metabolic rate is 1500 and you burn 4,500 calories per day, that we'd put you as a
+ three, three times your basal metabolic rate is your, you know, current total daily energy
+ expenditure. So, so that the multiples of BMR, that metric we can call metabolic scope. So
+ metabolic scope of three is three times your basal metabolic rate. When we look at
+ these like ultra short-term events that are like a day long, we're looking at metabolic scopes
+ sometimes, you know, in the like 13 range, but we find that it quickly drops off when you're looking
+ at events that are like 15 days, it's going to be really tough to find a metabolic or I'm sorry,
+ about 50 days, five, zero. It's going to be pretty tough to find a metabolic scopes that are much
+ above like six or seven. And what we tend to find is that over very long timescales, if you were
+ of 10 and do that for the next 400 days, um, we, I'm not saying you can't, but I'm saying we've
+ never observed that. That's something that we just don't have in the literature. What we tend to find
+ is that the longer this goes, your maximum sustainable metabolic scope seems to drop off
+ pretty substantially. And when we're talking about long timescales, nine, 10, 11, 12 months,
+ or you could think of it as just like, if you wanted to maintain high expenditure,
+ for the rest of your life, what's like a realistic upper limit that we tend to observe,
+ it tends to be about two and a half times basal metabolic rate. Um, and so there's always going
+ to be like, you're going to find a zillion papers where you're, where this is another
+ misconception that I'll get ahead of, but people will say, well, you said that the, you know,
+ the human maximum limit or upper limit or practical upper limit, however you want to put it
+ is 2.5 times basal metabolic rate. But I just looked at this study where someone was doing six
+ and a half times their basal metabolic rate. And so far a hundred percent of the time, the response
+ to that as well, you're showing me their energy expenditure during an 11 day event. And if they
+ try to maintain that workload for the next, uh, 700 days, we're going to see that number dropping
+ off, you know? So, so that, that's another area of confusion is, you know, when we talk about how
+ high it can get, absolutely. It can get higher than 2,600 for short-term events. It can get a
+ little bit higher than a hundred percent. So it's, it's, it's, it's, it's, it's, it's, it's, it's, it's,
+ it's correlated with just how much you essentially hate yourself and are willing to punish yourself.
+ And, uh, I guess I just want to get to Paris. Yeah, I guess I could be more positive and say
+ your level of ambition, uh, at the expense of your own acute comfort. Um, but, but at the end
+ of the day, you know, when we're talking about longer term stuff, that was one of the reasons
+ why, um, one of our doc students kind of undertook a project of saying, well, if we know that
+ pregnancy alone puts you up to like 2.2 times your basal metabolic rate, that's going to be
+ at the peak energy expenditure when there's a lot of fetal growth happening. If we know that,
+ uh, what would happen if we layered on top of that, like a fairly substantial exercise workload?
+ Uh, and I don't think I'm allowed to give away too much about that study, but, um, the, the short
+ version is, you know, this, this upper limit of two and a half seems fairly robust, broadly speaking.
+ Um, and, and like I said, in shorter, you know, short-term fluctuations where you have a massive
+ training load, of course you can exceed that. But when we just kind of grab random athletes
+ that are engaged in their normal day-to-day stuff that they've been doing for the last three years,
+ uh, yeah, generally speaking, we, we, we tend to find, you know, the daily energy expenditure of,
+ you know, there, there's one paper that looked at, uh, I think it was, um,
+ if memory serves, it was like rugby, basketball, and maybe soccer players. And they kind of did
+ doubly labeled water. It was like a systematic review. And yeah, basically these are all highly
+ active folks who are running up and down the field all day. And the main thing that seemed
+ to really dictate whose was higher was basically how big is your body, which correlates with your
+ basal expenditure, right? So basically all three of those sports fell really well in line with them
+ all being between two and two and two and a half of their, their metabolic scope. Um, and just
+ scaling up based on body size, which is exactly what basal metabolic rate does. Yeah. And one of
+ the things that I tell our clients who are like ultra racers is that, um, you know, you're going to
+ go way beyond like the amount of food you can absorb in this time. Like I, I was doing some
+ consulting for people doing like multi-day ultra events. And, uh, I remember one of them said to me,
+ like, everybody loses weight. There's no way not to, uh, like you cannot eat this much. You could
+ stuff your face all day. You could have grape soda from the time you get up to the time you go to
+ sleep and nothing's going to happen to you. That's going to like make you maintain your body weight.
+ And so I tell people you're really borrowing against your future energy stores. Yep.
+ A hundred percent. Yeah. And that, that's one of the things, uh, in that Thurber paper,
+ I keep mentioning, um, you know, that we'll look at it in the show notes.
+ Yeah. So they basically say like, well, what's going on here. Um, and it gets back to what,
+ what we were talking about earlier, which is, you know, this kind of attempt to match expenditure
+ to intake to some extent. And what we tend to find is if you are really trying to maximally fuel,
+ um, which is not the case of like hunter gatherers, where we're finding that, you know,
+ surprising low, like 24, 2,600 calorie per day expenditure, they're not eating 6,000 calories a
+ day. Um, they just aren't at least not on a, on a regular basis. But when you look at an endurance
+ athlete, who's like, Oh yeah, I'm going to force feed and do as much as I can with gels and powders
+ and potions and you name it, I'm going to get as many calories in as I possibly can. It seems like
+ they mostly tend to max out at a calorie intake level. That is about two and a half times basal
+ metabolic rate. Now, what is setting
+ that limit? Is it physiological or is it more just, this is kind of the inflection point where
+ people just start to feel icky and they say, I just can't do it anymore. Um, who knows? Um, but,
+ but that, that probably has a lot to do with why we're finding that essentially, you know,
+ it let's imagine, let's go with that idea that two and a half times basal metabolic rate is a
+ caloric intake that essentially maxes you out in terms of how many calories you're absorbing from
+ the diet every day. And let's say you're trying to maintain a metabolic scope of
+ five over time and you try to keep doing it day in and day out. Basically, what seems to be
+ happening is you're going to be losing weight throughout that entire process until you get
+ smaller and smaller and smaller. And what seems to be happening is reaching a kind of body weight
+ equilibrium and exercise expenditure equilibrium, where basically you lose weight until that 2.5
+ times basal metabolic rate intake is functionally matched to your 2.5 times basal metabolic
+ rate output in terms of expenditure. So it does seem like there's this kind of long-term equilibrium.
+ And one of the big constraints on it is just how many calories can you get in? Uh, and that seems
+ to be a pretty big factor here. Yeah. And I would imagine that there's some distribution around that
+ 2.5, like maybe some people are more like 2.2. Some people are closer to three. And I would
+ imagine that in the cycling world, um, you know, especially tour de France, you could probably
+ find people in the three ish range. Uh, it would be my guess. I actually,
+ I have a model based on all of the calculations that have been in these papers. And, um, and I've,
+ I've got a 2.5 and a three X BMR, uh, over the longterm kind of looking at like body weight,
+ you know, what's the approximate energy deficit. And like, and you know, for some people,
+ the 2.5 model works better for some people, the three model works better, usually more on the pro
+ side, but it seems like, um, yeah, it's, it seems like that, that is in my experience anyway, like
+ pretty robust. Yeah. And I mean, the thing is I've been,
+ doing stuff related to human physiology for way too long to ever pretend that there's a single
+ number, like you can only be a glutton for punishment and be wrong enough times for you to,
+ to start saying, you know what, let's assume that there is biological variation that exists because
+ so far that is virtually always the case. So yeah, when, when we say, you know, it looks like very
+ few people are really, you know, at least in the aggregate kind of average level, looking at this
+ group and that group and the other group, you know, it,
+ it does seem like it's very, uh, a minority of folks who are really pushing well above this 2.5
+ kind of soft limit or soft ceiling. But at the end of the day, I mean, especially, I think you
+ mentioned kind of your, your higher level people maybe are, are kind of pushing into that three
+ range or the model that assumes three is working better for them. I wouldn't at all consider it
+ implausible to say like, Hey, one of the things that helps them be very high level may be the
+ fact that they're not going to be able to be as high as they used to be. So, um, so yeah, I wouldn't
+ at all be, you know, especially when you start getting into this, this is such a big distinction.
+ One of the reasons I like kind of drifting from a background in sport and then drifting into these
+ other kinds of concepts is like, I feel more and more that I'm the person that's going to be the
+ person in the room almost always who has to remind everyone, you know, that elite athletes
+ are, these are not normal people. Um, because like the whole purpose of being elite is to be
+ different than normal. Right. So like, for example, like, you know, what you, you can give
+ me a, you know, a pub med link that tells me how, how many calories the typical basketball
+ player should burn. But you know, if I'm here at Duke university, we don't have the typical
+ basketball player. You can see behind me, there's a, Oh no, there's no video on this. There's
+ a banner with our five national championships. Duke, the whole point of Duke basketball is to
+ not be the typical basketball player. You know, we, we want you to be, you know, between six,
+ six and seven, three and moving up and down the court like crazy. And so like, yeah, we,
+ we don't expect our numbers to be average because that's the point. So, so it doesn't surprise me
+ at all. Like I would imagine if we expand out and focus more on individual rather than group level,
+ uh, findings, and we kind of get into more of these pockets of extremely elite athletes,
+ um, wouldn't surprise me at all. If we see that there is some kind of biological variation with
+ regards to the soft ceiling and that perhaps being able to push beyond 2.5 is, is ultimately an
+ advantageous thing. Um, and that, that brings me to one other tangent that I really have to get in
+ before we, it's like one of those things. It's like, if I accidentally don't slip this in,
+ I'll be kicking myself the rest of the day. So I hope I'm not going too far out of order here,
+ um, based on your plan. But one thing I really want to talk about is the, the, the, the, the,
+ really want to get across. And this, uh, is on, it's fresh on my mind. Cause I've been going back
+ and forth a little bit with, uh, Jose Areta who, who publishes in this, um, in this area quite a
+ bit. Um, if I'm not too careful, I tend to talk about this topic again, you know, the best thing
+ we can do with our biases is be aware of them. You know, we, we can't shed them. We just have
+ to try to call them out and see them and keep them in our mind. You know, I often think of
+ these topics of metabolic adaptation and exercise energy,
+ compensation from the viewpoint of a frustrated bodybuilder who's saying, why am I not burning
+ more calories than I want to? And why do I feel like crap when I'm prepping for a show?
+ And if I'm not careful, I'll sometimes catch myself kind of pathologizing, uh, these,
+ these adaptations or these effects. And so it's very important for me to catch that bias and make
+ it very clear, especially in, in the endurance world to say, when we say that your body is kind
+ of pushing back against some of this stuff and your body's trying to find some of the
+ shortcuts and, you know, you're going to, you're going to experience these drops in thyroid
+ hormones and on and on and on and on. We have to be very clear that it's not necessarily a problem
+ until it's a problem, you know? And so what I mean by that is, you know, Jose published a case study
+ recently where, you know, they found a person who's, it was a case report of a very, very high
+ level athlete and they were burning a tremendous number of calories per day. All indications
+ suggest that they were unable to fuel adequately.
+ To keep, to, to actually maintain that for a long-term kind of output, they were losing weight
+ over the course of this, of this race. Um, it was an eight day race in this case. So they were not
+ adequately refueling, but they were eating a lot. They had low thyroid hormone. They had oligomanorrhea,
+ I believe. Um, yeah, oligomanorrhea. Uh, so disruption of the menstrual cycle. Um, they had
+ all these things that would cause you to say, wow, their body's really, you know, kind of, you know,
+ like you said, they're kind of borrowing against their future energy. But at the end of the day,
+ they performed extremely well. And so at the end of the day, you know, if you're experiencing some
+ of these adaptations, but we say, okay, what was your goal? My goal was to perform extremely well
+ and to not have any clinically relevant symptoms that actually merit medical intervention, right?
+ So you can have low T3 and say, pack me an extra sweatshirt. And that could be the end of it.
+ Like, so, so it's, it's really important not to get too, um, too biased in the interpretation of
+ kind of treating this as a, a set of negative consequences or pathologizing it because it's
+ always an, uh, it's always a matter of magnitudes. Now I'll give you a different example. Um,
+ I, I know, I know of a person who treated this individual, uh, but they were a collegiate
+ endurance athlete and they presented with a stress fracture of the lower leg. Uh,
+ a tibia stress fracture. They were a runner, not a cycler, a cyclist, but, um, yeah, whatever.
+ So, um, but they presented with a stress fracture of the tibia and they said, ah, bad news, you know,
+ stress fracture, we're going to have to give you a walking boot. We'll check back in on a little bit.
+ Um, and you know, this person had all the indicators, you know, low T3 all ago, if not a
+ the whole deal, they were under fueling, putting in way too much mileage, developed a stress fracture.
+ Came back after a few weeks, you know, however many weeks and the walking boot was destroyed.
+ And they're like, what happened here? And they're like, oh, was I supposed to not do all my normal
+ mileage with the walking boot? And he was like, obviously not. So, so they were like, this is
+ insane. So, so they end up putting a hard cast on the lower leg and saying, well, we'll take
+ care of this. So they come back in for their next check, check up. The hard cast is mangled.
+ And they're like, are you, are you telling me that you were out there running on this
+ hard cast? That was like taking up your entire lower leg. And so then what they did was they,
+ they casted the leg into a 90 degree, uh, knee flexion. So basically a cast all the way from
+ the toes to the hip and said, here's your scooter. You cannot continue doing this. And so ultimately
+ that was one of those cases where it's like, it was really obvious. This person is chronically
+ under fueling excessively chronically overtraining excessively. It's manifesting as repeated stress
+ and a compulsion to exercise that is clearly pathological. And so that was kind of a cascade
+ of events that led to inpatient psychological intervention for a really severe compulsion
+ for both overtraining and under fueling. So the whole point is it's a matter of magnitudes. You
+ know, if you're kind of flirting this line of like, well, technically I'm under fueling because
+ no one can adequately fuel during the tour to France, then, you know, and then after the
+ course of the tour to France, you know, if you're eating enough, you're eating enough, you're eating
+ enough, like it's always an order of magnitude. And with clinical symptoms, we have to consider,
+ um, you know, what is the actual net impact here and what are the trade-offs we're willing to make
+ for competitive success? Yeah. And actually you bring up a good point because, um, the, uh, the
+ women's tour to France recently happened and the winner, um, there's a lot of talk about her having
+ lost weight into this and, um, and, you know, in a sport where weight is such a big component of
+ it's, it's actually very common in the cycling world for people to go way too low for way too
+ long. Um, the concept of like, of get in and get out, like, like in a bodybuilding prep is foreign,
+ completely foreign to the cycling world. It's like, you got to get to this low body weight and
+ you're going to stay there. Um, and one of the things that I've, um, I have advised, um, some
+ top level pros who, uh, I have to keep anonymous, but like, one of the things I tell them is like,
+ look, when you were in the, you know, when
+ you were doing well in this race, I don't want to give up too much identifying information.
+ Um, like, look, you had actually gained weight before that, uh, your team wants you at this
+ weight and you ended up at this weight. And then you, you like, I'm looking at your HRV right now.
+ Like you were, you were just fine. Then you lost weight into your big race and you were there for
+ briefly. And then you went right back up. And that get in, get out concept is like,
+ it doesn't exist in cycling. It's, it's, it's almost always a problem of,
+ you know, magnitude and duration and cycling. It's like, it's never brief.
+ Yeah. And that brings up, you know, a whole other application. I mean,
+ it's really fun. Like I got into all this stuff because I was a wrestler and I was like,
+ this stuff's too cool. Just exercise and nutrition and weight manipulation. It's very fascinating,
+ but wrestlers almost kind of have the opposite issue where they're so interested in the whole
+ get in, get out thing that they don't maintain an appropriate baseline weight,
+ prior to their, their water cuts. You know, so I had a wrestling partner back in the day who
+ wrestled at one 30 and it was not unusual. You know, we had a weekly competition schedule most
+ weeks where, you know, you, you weigh in on Saturday, you compete, you weigh in the next
+ Saturday, he'd come back in, in Monday and Tuesday. And he weighed in on Saturday at one 30
+ by Monday and Tuesday, he'd be back up at one 48. And it's like, dude, first of all, you don't do an
+ eight pound weekly water cut. And even if you do, you better tell me that your starting weight was
+ two 75, not one, not one 48, you know, like you're, you're losing like a sixth of your body weight
+ every week and then gaining it back in a day. So like with wrestlers, we, we always had the
+ different issue where we had to say, Hey, we're going to do a water cut. That's fine if you want
+ to, but it's going to be a few pounds here and there, but we need to actually get down to a
+ sustainable body weight where you can be your best. And so with wrestlers, we find both issues,
+ either people think they're going to look like a natural
+ bodybuilder and be 4% body fat and just maintain that all year and somehow maintain their performance
+ at a high level in a very strength and power oriented sport, not going to happen, right?
+ So you need to be lean, but not excessively lean. And then, you know, again, you have to make sure
+ that the water cut you're doing isn't just absolutely egregious. So anytime you're talking
+ about sport and weight manipulation, like you said, it's a matter of what is our ideal pre-cut
+ weight? What is a reasonable
+ duration for kind of getting down to competition weight and holding it? And then what is our plan
+ for rebounding under control back to a suitable kind of between competitions kind of weight?
+ And pretty much across the board, whatever sport you're in that involves weight manipulation,
+ the timelines vary, the short-term fluctuations and how you approach that are going to vary in
+ magnitude. But ultimately that's the sweet spot is you need to figure out where do we need to be
+ in time? And then when we're in, for how long do we actually have to get down to our kind of
+ optimized competition weight? And if we get there too quickly, too slow or hang around too long,
+ we can ultimately run into issues. Yeah. And actually that's, um, that's one of the things
+ where I actually separate, uh, amateur cyclists and professional cyclists because professional
+ cyclists, the fitness is pretty steady, uh, for the whole time. And, you know, you can, you can
+ do some amount of fairly intense training and actually you don't even have to do that much
+ intense training. You can do some amount of fairly intense training and actually you don't
+ maintain your form. Uh, and, and you can actually do some amount of weight loss into events, but like
+ for the amateur cyclist, I mean, people are more looking at like body composition for the long-term
+ and people are also looking more in terms of like, you know, I just want to stay healthy. I'm not
+ going to be a professional at this. And I want to make sure that I'm not, you know, I'm not screwing
+ myself in the longterm. And so, um, so yeah, this is where I save the, I save that get in, get out
+ like the top level pros for amateurs. I'm like, yeah, you better not get too lean and you better
+ not get through too quickly. And so we ended up actually doing a lot of like more dieting in the
+ off season and then, okay, we're going to build fitness. Cause like dieting, when you're training
+ hard two, three days a week, it's like, oh, it's rough. Yeah. Yeah. And that honestly, that, that
+ goes without saying, I mean, we see this in powerlifting a lot where people are like, yeah,
+ I'm going to do this water cut for my next competition. It's like, brother, you're about a
+ pound total away from like making noise in your weight class here. There's no reason for you to
+ be, you know, like, and that's not to dismiss. And obviously you frame it more delicately, uh,
+ with, with a client, but it's like, listen, man, like if, if you're telling me that you're going
+ to take third at nationals and you think if you drop a weight class, you can get from bronze to
+ gold, then we'll do a weight cut. Like we, that makes sense. But if you're telling me that right
+ now you're the ranked, you know, 3,058th in your state in this weight class and you want to drop
+ so you can get into the, the high 28 hundreds, like this makes no sense. Like you, what you need
+ to be focused on is how am I going to increase my bench squat and deadlift by a hundred pounds
+ each over the next two years? Not how am I going to lose seven pounds before this competition?
+ You know, it's, it's just, it just makes no sense to focus on those little tiny things that carve
+ out an advantage. And ultimately you run the risk of taking your eye off the really important thing
+ at that stage in your development, which, you know, for a power lifter is,
+ forget weight cuts. We need to get dramatically, substantially, massively stronger. Uh, and we
+ don't even want to think about other distractions until we get there. Uh, so yeah, it can definitely
+ backfire if you're trying to get too cute with weight, regular weight manipulations before you're
+ really ready for it for the prime time. Yeah, definitely. That is very common
+ conversation that we have with our clients. Uh, so, uh, I, I wanted to jump into, um,
+ something that I see alarmingly frequently in the cycling world, which is,
+ which is how easy is it to really calculate your total daily energy expenditure? Because one of the
+ things that I see in the cycling world happen frequently, I don't, yeah, you're rolling your
+ eyes. Yeah. So I have a very expressive face. I didn't even mean to like, uh, I, I have a hard
+ time not rolling my eyes at some of this stuff too. Uh, so one of the things that I see very
+ often is, uh, you know, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,
+ the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,
+ the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,
+ gender, uh, sex in, uh, uh, body fat approximately into a BMR calculator.
+ And they say, okay, great. I've got my BMR. This is how much energy it takes for me to be alive.
+ And then I'm going to look at the kilojoules I expend on the bike. And there's approximately
+ one-to-one calculation to, uh, to KCAL. And I'm going to add the two together and that's my
+ nutrition plan. Um, so my tongue in cheek question is how accurate is this method?
+ Man, it's just really tough. Uh, like one of the reasons that I consider total,
+ or I'm sorry that I consider, um, doubly labeled water to be such, such a huge deal. Like I was at
+ where I did not need to be going back and doing a postdoc, you know, in order to have opportunities
+ of, of kind of reentering the academic world. But the only reason I got back into, to the academic
+ world was because there was an opening in Herman Ponser's lab and Herman Ponser, you know, has
+ forgotten more about doubly labeled water than I'll ever learn. Um, and so I got back into it
+ cause I was like, having worked in this space, you know, doing research in the space and then
+ working as a practitioner.
+ It is just so hard to actually get decent approximations of total daily energy expenditure.
+ And I wanted to actually get into this doubly labeled water research, uh, once and for all,
+ I was like, I just need to, to get into this method in order to really get at some of the
+ questions I want to answer. So the short answer is it's extremely, extremely difficult to get a
+ decent approximation. Um, one of the things I've found to be reasonably helpful is if you're going
+ to have,
+ an extended period of time where you believe that your training load and just kind of overall daily
+ energy expenditure are going to be reasonable, reasonably stable, right? Where there's not going
+ to be a dramatic upward or downward trend over a given fixed period of time. So when I say fixed
+ period of time, let's call it somewhere between two and four weeks. For example, what's really
+ nice about that timeframe is it actually is feasible to keep things pretty consistent for
+ that period of time. So if you're going to have a fixed period of time, let's call it somewhere
+ It's also reasonable to assume that you're not going to have dramatic fluctuations in fat free
+ mass. You're not going to be gaining five pounds of muscle or losing five pounds of muscle fingers
+ crossed. Um, you know, that, that would not be a typical thing. So what I like to do with people
+ is like, if we really are just trying to figure out big picture, I want to get an idea of how
+ many calories my body is burning. I say, let's just commit. Let's do two really stable weeks
+ of good, high quality training, keep things relatively flat in terms of, you know,
+ how much we expect our expenditure would be from day to day. And let's before and after that,
+ uh, at the beginning and end or throughout that period, let's really diligently track our calorie
+ intake and let's really diligently track our, our morning weight. So our body weight every
+ morning and standardized clothes after we've used the restroom. And so what I'd like to do then is
+ just kind of crunch the math and say, okay, let's look at our weight trend. Let's make the reasonably
+ okay assumption that we're burning. And then we're going to do the same thing. We're going to do the
+ assumption that the, you know, the slope of that weight trend over this time period represents
+ gains or losses in fat mass, or, or if you want to tweak the ratio, you can do that mathematically.
+ Um, but let's look at, you know, okay. So if over, for example, let's make this super easy
+ because no one wants to do live math on a podcast with the cameras rolling. I've gotten it very
+ wrong on the podcast before. Live math is such a bad idea, but the general premise of this method
+ is let's say body weight. We got super lucky. It was completely flat over this two week period.
+ And you had pretty constant, pretty consistent habits and training loads, and you were able to
+ maintain your body weight at 4,400 calories a day. Then boom, we have a really good basic starting
+ point for you of saying, okay, you're, you're, you know, as you go up and down in terms of what
+ you're doing with training, at least your kind of home base based on what you were doing here was
+ about 4,400 calories a day. And so you're able to maintain your body weight at 4,400 calories a day.
+ Now where it gets a little slightly more computationally intensive is if you had
+ some gradual weight gain or weight loss during that period. And there's basically two different
+ ways you could approach it. One is to actually crunch the numbers using what we call the energy
+ balance method, um, where you say, okay, well, if my body weight increased by X pounds during that
+ time and Y percentage of that could be reasonably considered fat mass, you basically calculate
+ what was the total net energy gain of my body over this two weeks, divide it by 14. That's your net
+ body energy gain per day. Uh, and now you say, oh, well, every day I was in a deficit of 300
+ calories when I was eating 4,400 calories. So my, my, uh, my kind of, uh, total daily energy
+ expenditure estimate would be 4,400 minus 300 is 4,100. Like that, that's about where I would
+ maintain. Uh, so you could crunch the numbers that way, or
+ if you don't feel like doing the heavy math, you could basically try again and say, oh,
+ interesting at 4,400 calories, I had some gradual weight gain going on.
+ What if I replicated this? And instead of 4,400 calories, what if I tried to eat 4,000 calories a
+ day and see how that goes? And so you, you could kind of choose, you can pick your poison. Do you
+ want to do the math, which a lot of people would avoid like the plague, or do you want to say,
+ okay, let's, let's do a little guess and check and see what does it take for me to actually
+ maintain weight stability over this two week period, um, at a given caloric intake. Uh, and
+ the, the, the one thing I want to really highlight here is my preference is to do daily weight
+ measurements because if all you do is a single way into the beginning and a single one at the end,
+ now you've opened yourself up to considerable error from just like a random, you know,
+ I had a high sodium meal the night before and now my whole equation blew up.
+ So it's really good to measure that weight every single day and calculate your
+ slope so that you have a little bit more, um, a little bit more safety built in to prevent
+ massive impacts of a single day of, of water weight fluctuation.
+ Yeah. And this is exactly how I tell people to do it. And quite honestly, uh, I'd say 60% of the
+ time they hate it because they're like, I want to get on a diet in a diet right now. Why can't I
+ just run a couple of, uh, simple math equations and figure out what my energy needs are then
+ subtract 500 from that.
+ And you mean I've got to waste two to four weeks before I can actually start to like make my way
+ to my goal. Are you kidding me? Yeah. And it's tricky because there are so many, man, you know,
+ at the consumer level, there are so many gadgets that are begging you to believe that they can tell
+ you your, your energy expenditure, either during activity or throughout the day. And I can just
+ tell you right now, none of them are where they need to be in terms of the precision and accuracy
+ where, where we can feel good about that number. So that's like,
+ like I told you, doubly labeled water is valid enough that we can feel really good about acting
+ upon that. The only issue is it's very expensive and it's not very accessible. Um, so, so this
+ energy balance method of doing some quick calculations is kind of our next best option.
+ Um, and yeah, it does take a little time investment, but, um, it, it, it is worthwhile.
+ And what's really nice about it is if you bite the bullet and do it,
+ it also pays off for what do we do next? Right. So you talked about how the, the, the example you gave
+ someone who wants to jump on a diet. Well, I've spent the last decade writing about, uh, what
+ happens next, which is you, you jump on a diet, you start losing some weight and your energy
+ expenditure, expenditure changes in response to you being on a diet and losing weight. So even if
+ you say, no, I need to hurry and get this number right now, guess what? In four weeks, it's going
+ to be different. So we need to actually like invest in like saying, here's our starting point.
+ Here's what we're going to do as our first
+ adjustment to your caloric intake, but eventually weight loss is going to start slowing down. And
+ if, if we don't change anything, it'll eventually plateau. And what we learned from doing these
+ calculations allows us to make further adjustments, right? So if we're looking at these slopes and
+ body weight and doing these calculations of saying, well, if I know how many calories you
+ ate during that time period, and I see your slope and body weight, now we can start making inferences
+ about, Oh, okay. It looks like your total daily energy expenditure when we started was 4,300
+ calories a day, but right now it's looking more like 4,100 calories a day. So let's go ahead and
+ drop your calories by 200 and get things back on track. So it's, it's valuable to invest in learning
+ the procedure because it's the gift that keeps giving as, as things start to fluctuate. And
+ just like we said, you know, you can have this perfect baseline number, but guess what? You ramp
+ up your, your training. It changes. You drop your calorie intake. It changes. You increase your
+ body weight. It changes. It changes. It changes. It changes. It changes. It changes. It changes. It
+ very well might change because that's another ramification that people don't necessarily talk
+ about as much. So let's say, um, you know, you're coaching somebody, all this stuff is new to them.
+ It's, you know, they, they haven't really thought much about it, but you say, well, okay,
+ I've been doing my really high volume training for a long time. Now, this is my typical routine.
+ I eat 3,400 calories a day. My weight's pretty stable. So that means my total daily energy
+ expenditure is 3,400 calories a day. Well, it is possibly, we've talked about all these different
+ little adaptations and shortcuts of your body kind of constraining things, right? So maybe
+ they're doing that workload and they're maintaining on 3,400 calories per day, but they're also
+ amenorrheic, uh, super low T3. Um, you know, their, uh, sex hormones are super low.
+ And so maybe you find doing that same volume of activity, you start saying, well,
+ what if we bump you up to 3,600 calories and they aren't necessarily gaining weight,
+ but now all of a sudden their, their thyroid hormone is kind of rising back up and
+ that, you know, maybe they just had their first period that they've had in a while.
+ So you can start to see, um, uh, a potential for, as you start working calories back up,
+ you're unraveling some of these shortcuts that are in place and you find, well,
+ we thought that workload X meant that you will burn Y number of calories, but that's just kind
+ of where you stabilized after applying all these different adaptations and shortcuts,
+ you know, physiologically. And we may find that for you to actually, you know, feel and perform
+ your best.
+ At that workload, instead of being at 3,400, you should have been at 3,700 all along or 3,800 all
+ along. So yeah, it's, it's really important to, um, to take a holistic approach where you're
+ looking at body weight changes, looking at, um, symptom changes. You know, I hate to pathologize
+ it by saying symptoms, but I'm not sure what other word to put on it when you're talking about,
+ you know, hormones that are fluctuating in and out of the reference range. I think it's valuable
+ feedback to kind of contextualize it. And I think it's really important to, you know,
+ contextualize the number, the numbers that you're working with.
+ Yeah, for sure. And I think that, uh, you, you headed off my next question also, which was,
+ which was going to be like, you know, could you be weight stable and experiencing a lot of
+ compensation? Uh, because, you know, just, you know, from first principles, I would guess yes.
+ And it sounds like the answer is yes. And it's something I see all the time in cyclists. And,
+ uh, and one of the other things that I was thinking about asking, but I was like,
+ we kind of got other stuff to talk about, but I'll, I'll kind of glance on it, which is,
+ um, you know, when people have been under eating for a long time, one of the things I actually see
+ often is that they will, their body weight will start coming up gradually to kind of where they
+ were before they like, you know, kind of flew the coop on the diet, uh, as it were. And, uh,
+ and it's usually at that point that they actually like look and feel their healthiest again,
+ even if they're like, man, I feel fat. I was so skinny for so long.
+ Yeah. Yeah. There is some really interesting literature on weight regain. Um,
+ and you know, uh, a researcher of the last name Dulu, D U L L O O has done a lot of really cool
+ work here of trying to figure out like, what is the kind of order of operations here? So when you
+ take someone who is weight reduced and then you start refeeding them, what happens? Um, and,
+ and like you're alluding to it, it's usually not the case that like the first thing that happens
+ is their energy expenditure spikes. Cause that doesn't really make sense.
+ Right. Their, their body has kind of adapted to this underfed state. And in the process of doing
+ so, they probably lost a combination of fat mass and lean mass. And generally what we see is that
+ like early stage, uh, refeeding tends to kind of have this sequential process of like, first you
+ start regaining some of the fat a little more gradually. You start regaining some of the fat
+ free mass. Um, your ravenous appetite usually doesn't
+ chill out until you've regained all the fat free mass that you lost. And gradually throughout that
+ process, we start to see, you know, kind of the reversal of some of these energy constraint
+ mechanisms. Um, and so the exact timeline can be hard to draw out because it, it looks very
+ different for people of different circumstances. So for example, you, you would never, you would
+ never, I think, assume like two areas where weight gain is commonly discussed is one with like the
+ where people lost like 130 pounds. Um, and basically, you know, when, you know, went from a
+ extremely high BMI to a high BMI, for example. And then you look at the Minnesota starvation
+ experiment where people went from a normal BMI to like literally almost starved, you know,
+ like an average group level average of 5% body fat. You would have to assume that the
+ refeeding time course looks very, very different there. And the kind of sequence of events looks
+ very differently. Um, but yeah, all that is to say there's,
+ there's a lot going on in weight regain and refeeding. And I think a lot of it has to do
+ with exactly how extreme was the initial context. So there's no reason like Minnesota starvation
+ study, uh, or starvation experiment. It's exactly what it sounds like. Conscientious objectors. Um,
+ this is back like world war two era where basically they basically said, okay, you don't have to,
+ you know, go, uh, fight in the war, but you have to do this study. And they starved on like really,
+ they looked horrible. There's pictures of the subjects. You can look it up. They really
+ took it as far as you could reason. They took it farther than you could reasonably justify going
+ like it wouldn't happen today. Yeah. Yeah. You, you, you never do it today. It just couldn't
+ happen. But, um, in any case, you know, they got to the point where they were so lean and so,
+ so starved that there were, um, you know, some of the participants experienced psychosis. Some of
+ them harm themselves to, you know, either because of the psychosis or to get out of the study.
+ Um, but it was a really extreme,
+ extreme instance. And the physiological, uh, circumstances there are just so different
+ than, you know, going from a BMI of 47 to 33, where you can imagine, like if you were in that
+ semi-starved position and it's like, okay, we're going to reintroduce calories. There's no reason
+ to believe that the first thing your body would do is start wasting a bunch of energy and say,
+ oh, cool. We don't need any of those adaptations in place. Like you're going to have to regain
+ some weight before that happens. Yeah. Every time I, uh, I start discussing this with people, I'll,
+ I'll talk to them. Uh, they, uh, what was it? The title of it? Like they starved so others could
+ eat, uh, the, the review of the Minnesota. Cause the actual, the actual publication is like a book.
+ It's like a tome. It's a, it's a two volume, 600 page book. Yeah. Um, and I, or I sent them Eric
+ Helms's, can you stay shredded, which is thankfully available to the public. And I think both are
+ great resources for cyclists and, and half the cyclists I talked to who are like, like, especially
+ on the pro level who are kind of used to their body weight going up and down. They've already
+ like, they know about all this stuff already, which is really cool. Yeah. Um, but I wanted to,
+ uh, get to the, uh, the two papers that I sent to you and you already touched on one, the, um,
+ the, the Arata study, uh, on the, uh, on Georgie Howe, uh, racing the tour to France fam in 2023.
+ Um, but I, I also sent to you another paper from, I got, I think the lead author, the author was
+ I'll, I'll link them in the show notes, but, um, I, when I first saw these and I, I, and I thought
+ this is way, way, way more non cycling energy expenditure than I would ever expect.
+ Did it look the same to you? And just to, uh, just to give some numbers to the people listening,
+ um, the non-exercise energy expenditures were 1.5 to 2.5 BMR, uh, average,
+ 1.8. And the total was like 3.5 to 4.3. And so that was the, the Vuelta, which was the
+ Spanish tour to France, basically. So does, you know, 1.5 to 2.5 sound about right for like
+ non-exercise metabolic rate, uh, on, you know, for extreme energy expenditure?
+ You know, it does seem high. Um, I didn't do my homework to the extent I should have.
+ Sorry. That's what I'm here for. I, I, but here's one thing I would say is I believe if I'm not
+ mistaken that, um, this paper, and this is something you see a lot, um, non-exercise
+ activity expenditure, uh, whether you're looking at this paper or a variety of other papers,
+ it almost always serves as the like other question mark kind of category. And so what you have to
+ and this is kind of the extent to which I did my homework and then said, okay, I think I have the
+ answer I need here in terms of like facilitating the conversation is in this case, um, obviously
+ they did not measure non-exercise activity thermogenesis because it's exceedingly difficult
+ to do so. So usually what you do is you, you measure other stuff and then you say, well,
+ whatever is not the stuff I measured is non-exercise activity thermogenesis,
+ right? If you measure total daily energy expenditure, then you just do subtract.
+ So in this case, um, and correct me if I'm wrong here, it looks like they measured
+ basal metabolic rate. Um, well it says measured slash predictive equation. So I think maybe for
+ some of the people they were not able to directly measure it. Is that right?
+ Uh, I, I thought I had it up and I don't, I had the arena paper up. Um, but I think that sounds
+ about right. Yeah. So, so basically, you know, I'm looking at their figure one and says BMR
+ measured slash predictive equation. And if the predictive equation has some error,
+ now we've introduced error at the basal metabolic rate level, which if we're going to do this whole
+ process of subtraction also introduces error to the what's left over. Right. And then when we
+ look at the exercise energy expenditure, that was based on power output. Um, and one of the
+ things that, that we talk about all the time is, you know, we can try to do these kind of
+ crude extrapolations, but at the end of the day, exercise energy expenditure is a metabolic
+ process happening within the body. Right. And anytime that we're trying to use some kind of
+ external process or external proxy to kind of approximate calorie expenditure, there is going
+ to be error associated with that as well. Right. So like, for example, you'll, you'll hop on a
+ treadmill, for example, and based on the grade and speed you put in, it'll say, Oh yeah, we'll,
+ we'll keep track of how many calories you're burning. But like you, you don't know enough
+ about me to know what's going on as I'm actually, you know, walking or running the
+ miles. Right. And so we do find that, um, in the case of this study, you know, now we're looking
+ at error in the measurement of basal metabolic rate. We're looking at, um, certainly the
+ potential for error at the level of the exercise component of energy expenditure. Um, and so then
+ we are basically doing total daily energy expenditure minus those two things with
+ potential error gives us the resulting equation. So all that is to say, I usually in these papers
+ don't look too carefully at like, is this a legit non-exercise energy expenditure? Because at this
+ point we're like, what exactly are we looking at here? Right. We've got, we've got a number we feel
+ good about for total minus a number with considerable potential for error minus another
+ number with considerable potential for error. And so all that is to say, you know, would I,
+ you know, bank on this non-exercise energy expenditure number? Definitely not
+ for the reasons that I just mentioned. Um, but, but what's really interesting. So, you know,
+ I talked, uh, a lot earlier about that Thurber paper. One of the things that they found was,
+ you know, one, one, one thing we didn't even touch on in that kind of walkthrough was I don't even
+ know what they did for the thermic effect of feeding. Um, it's, it's not really listed. I'm
+ sure in the full text it's listed out, but in figure one, it doesn't really clarify which
+ bin this is going into. But like I can tell you with the Thurber paper, you know, they measured
+ basal metabolic rate. They estimated the thermic effect of feed. They estimated the
+ eating to be 10% of, of calories, which is a totally standard estimate. Although, you know,
+ there's error there too. Like it could be, could be seven, it could be 15%, but we kind of always
+ estimate 10. Um, and you know, then they looked at the, the calories burnt during the run. Um,
+ and, and basically, you know, in this particular, in the Thurber paper, their estimate was basically
+ that this non-exercise kind of other category essentially shrank, you know, they, they, they,
+ well, I shouldn't, I shouldn't say essentially it did shrink, but it essentially disappeared.
+ Um, like in the Thurber paper, they basically found BMR was reasonably unaffected thermic
+ effective feeding. We should not expect to be majorly affected, nor should we expect,
+ uh, the energy cost of the run to be dramatically affected, um, beyond the things that we can pretty
+ easily estimate. And yet what they found was that there was this like missing six,
+ hundred calories on average that seemed to largely just disappear from this neat or kind
+ of other category. So all that is to say, I want to reaffirm your, uh, bewilderment about what,
+ what is happening in this other category. And the answer is, as you go from paper to paper,
+ this is one of the reasons, um, you know, Herman and I recently drafted up a paper
+ about the constraint energy expenditure model. And one of the things we continue needing to
+ put in papers is that like, it's very difficult for us to tell you, is this impacting mostly
+ basal expenditure and mostly non-exercise activity expenditure that it's very difficult because
+ the non-exercise component is so difficult to measure. And based on a couple of little
+ decisions you make in its estimation, you can end up in a situation where it seems like it
+ disappeared entirely, or it seems to be unusually large from paper to paper.
+ And that's a major challenge that we see when we try to track down these missing calories. But
+ what's really fascinating is that it's not just the amount of energy that's missing. It's the
+ fascinating is based on the more robust measures that we have and feel confident with,
+ we know they're missing. We just don't know. It's hard to say exactly where they're coming from.
+ Yeah. Um, actually, uh, a paper came out like a week ago or something. It just popped up on
+ my Google scholar notifications where they, um, they looked at not only, uh, an ultra
+ endurance running race where two participants ran like 30 something hours. Uh, they also looked at
+ what was the, what was the energy expenditure the next day where these two people of course
+ reported that they were highly sedentary. Um, and the answer was three times BMR on that first rest
+ day was their energy expenditure. Um, and this is one of the things that's fascinated me is like
+ the cost of repairing yourself from all this stuff is like, I think most people underestimate it. And
+ so that's one of the reasons that, um, I think it's great that you headed this off with like the
+ qualitative accounting. Um, and I think it's great that you headed this off with like the
+ of your energy intake and, and, and everything like that, because, um, I think that's something
+ that a lot of people in the cycling world are, they're trying, they're trying to big brain it.
+ And I, I'm, I'm no different. I did this once way back in the day. I know exactly how this happens.
+ Yeah, no. Yeah. It's, it's, um, it's really interesting because this is something that
+ now I'm, I'm just like basically on the psychologist couch here talking about all
+ the problems that vexed me in my life. But, you know, I just talked through
+ all the problems with, I really want to know where these calories are coming from, both in
+ terms of exercise energy compensation and then metabolic adaptation, which is the same kind of
+ concept, but relates more to just the dietary restriction. So being on a diet and having your
+ expenditure drop more than we would predict. So I want to know where these calories are coming from.
+ I just laid out for you the myriad reasons why it's really hard to say, oh, we know non-exercise
+ activity thermogenesis dropped because it's just this catch-all thing that you can only estimate
+ by making a bunch of assumptions about all the other components. Basal metabolic rate, one of
+ the things that's really challenging is there is, in many studies, a lack of really good standardization
+ of what are we going to do about the fact that a really crazy endurance, a really crazy exercise
+ bout period is going to have residual impacts on your basal metabolic rate that can last into the
+ next day.
+ And so in many cases, you know, we may be, again, in a situation where we would say, no, we measured
+ BMR. We know we're not overestimating it. It's like, yeah, but you're measuring it when you know
+ it's inflated from what happened in the exercise bout that ended 11 hours before you measured basal
+ metabolic. It's probably an all-day activity. And so this is, again, we see these, a lot of people
+ are probably wondering, you know, you guys have been talking about this exercise energy compensation
+ constraint energy expenditure model for a decade.
+ Now, what do you mean you don't know exactly where the calories are coming from? Well,
+ you know, these studies are hard to do. It's not like they're, they're popping up, you know,
+ every couple of days, um, doubly labeled water is very expensive and very specialized. It's not
+ like any lab can do it. Um, and then you run into the situation where if we don't have
+ really uniform standardization of what are the pre-testing conditions for getting a good
+ estimate of resting or basal metabolic rate? What are the
+ we're going to make for the calculation or estimation of non-exercise activity thermogenesis?
+ If we don't have those completely hammered out and agreed upon, uh, as a scientific community,
+ we're going to end up in these situations where in this paper, it looks like BMR went up. And in
+ this paper, it looks like BMR went down. And in this paper, it looks like NEAT increased. And in
+ this paper, it looks like NEAT disappeared entirely. And we're going to run into the
+ situation where we say, listen, we measured total daily energy expenditure, and it was not as high
+ as it should have been. If we're going to run into this situation where we say, listen, we measured
+ all of our assumptions held, that much we know. But then when we start to drill down and say,
+ where did it all go? Uh, and then you also have to factor in an emerging concept, which is the
+ idea that you could argue that maybe sleeping metabolic rate needs to be handled distinctly
+ from basal metabolic rate. And that some of this could be happening during sleep. Um, but yeah,
+ there's all this uncertainty about exactly where the calories are going. Not because doubly labeled
+ water is the issue in terms of getting the total number,
+ we feel really good about the total number that we're getting, but it's when we try to break that
+ down into the four distinct components that it's just so prohibitively difficult to actually measure
+ them directly, which means you have to estimate them, which means you're making all these decisions
+ and assumptions. Uh, and from study to study, those decisions and assumptions vary.
+ So it's, it's the dark matter of energy expenditure. Like we can measure it, but what is it?
+ Yeah, pretty much that, that, that is very much how it feels. It's this, um,
+ it's the, the missing calories that it ends up being like a murder mystery. We're trying to
+ track down who did it and they covered up their tracks really well. There's there. It's very
+ difficult to find the signal among the noise. When you start breaking down component by component,
+ Eric Trexler, the Agatha Christie of energy expenditure. There you go. Yeah. Um, so we are,
+ uh, we're a little long on time. So, but I wanted to ask you if there was anything that we touched
+ on that you wanted to, uh, kind of expand on that you, that we kind of glossed over.
+ Um, not really. I think just kind of summarizing, you know, we, through the work that we and others
+ have done with, uh, with doubly labeled water, we feel very confident that human energy expenditure
+ is dynamic and adaptable, which means when you dramatically change your exercise habits,
+ when you dramatically change your nutrition habits, um, it's not, you're not in pure
+ control as you think there, there's going to be some adjustments that happen.
+ Some adaptations that happen and they really have to be considered when you're making
+ longitudinal plans for what you're going to do in terms of weight regulation, energy expenditure,
+ um, how your calorie targets are going to change. It's really important to consider. Um, so, so we
+ know that these things are changing. Our current big obstacle is figuring out exactly what components
+ seem to be changing or what multiple components seem to be changing. But the takeaway is, you
+ know, if you decide you want to lose weight and you cut your dietary calories dramatically,
+ there's going to be some adaptation that shrinks your caloric deficit. You're not going to lose
+ weight as quickly as you planned. Um, if you think you're going to dramatically lose weight by
+ increasing your exercise volume, same thing happens. That energy deficit will be shrunk
+ via adaptive mechanisms. Um, and the converse is true. Uh, you know, if you decide, Hey,
+ I'm going to gain a bunch of weight by increasing my caloric intake, there's a lot of
+ folks who tend to be pretty resistant to weight gain as well. Um, so half of the track sprinters
+ I know are like, man, I just can't eat enough. Yep. Yeah. And so there's, there's a really cool
+ controlled study, like very tightly controlled weight gain study over eight weeks. I think it was
+ where they basically fed, they overfed everybody the same amount. And they said like,
+ we're going to calculate your energy needs very, um, very, uh, precisely. We're going to literally
+ give you the food and watch you eat it for eight weeks. And what they found was some people gained
+ a kilogram or two. Some people gained like seven kilograms over that period. And what seemed to be
+ the biggest predictor was who had a, an adaptive increase in energy expenditure that ultimately
+ shrunk the caloric surplus that was being introduced. So the take-home point is energy
+ expenditure is malleable. And while that can seem frustrating when we're trying to plan out everything
+ and you know, we're all control freaks with our sport and diet stuff. We want to pretend that
+ we're fully in control. We want to pretend that we're fully in control. We want to pretend that
+ it can be frustrating, but from an evolutionary perspective, it probably saved our life more than
+ a few times. So we, we kind of have to take the good with the bad and we got to roll with the
+ punches and adapt with the adaptation. And I'm going to add in one more practical
+ takeaway, which is for cyclists. Um, especially on the lean mass aspect, when you are trying to
+ lose weight, please touch a barbell or a dumbbell, just, just do some weightlifting because, uh, I,
+ you can back me up on this, but, um, the loss of lean mass really predicts
+ the rebound. Yes, that is true. The best predictor we have of weight regain after a weight loss diet
+ is how much fat-free mass that you lost. And like you said, it doesn't have to be, um, you can,
+ you can pick what you want to do, touch a barbell, a dumbbell, a machine, a resistance band, but
+ any kind of resistance that you can apply is going to be a lot better than nothing.
+ Yeah, for sure. All right. Where can people find you? Well, um, besides in the lab, Henry and lemur P
+ yeah. So, uh, you can find me, uh, on Instagram, my handles at Trexler fitness. Uh, you can find
+ me at mass research review.com. And I currently host two podcasts. One is called iron culture.
+ The other one is called front page fitness. They're very different flavors, but, but all
+ focused on science and fitness and the intersection between them. So you can find those podcasts
+ pretty much anywhere that you get this one, I would imagine. And, uh, I am also a lifetime mass
+ and, uh, the only thing I'm trying to not read right now is the, uh, uh, the replication crisis
+ article, because I'm about to do a podcast on that one. I don't want to be influenced yet.
+ Okay. Yeah. Who are you doing it with? Uh, probably my usual co-host, uh, Rory, uh, who is a, he's a
+ PhD in, uh, evolutionary, uh, or like, uh, uh, evolution of life and, uh, and Kyle, who is a
+ NASA physicist and, uh, somebody I've coached on the bike for a long time. And he's, he kicked my
+ bike 2014 in a race and we've been friends ever since. All right. Well, good luck. I hope that,
+ uh, I hope you're able to keep it, uh, optimistic and joyful because
+ replication crises tend to, uh, to knock that out of you. All right, everyone. Thank you for
+ listening to the podcast. That was my interview with Eric Trexler. And, uh, I want to thank him
+ again for coming on. Uh, I know he's very, very busy. He's makes a ton of media. He writes a ton
+ of articles and, uh, very happy that he was able to come on and answer all of my questions because,
+ uh, frankly,
+ I probably could have done most of that episode, uh, by myself or, you know, talking to Kyle or
+ something like that, but I don't think I would have given it nearly the amount of nuance that,
+ uh, he's able to deliver. Uh, and he's also, of course, eyeballs deep in the research on this
+ stuff. And of course I am compared to him, uh, somewhat of a dilettante. And so I was very happy
+ to have him answer all of our questions and, uh, uh, really kind of go in depth with a lot of that
+ stuff. So, uh, thanks again to Eric Trexler and thank you for listening. If you would like to
+ empirical cycling coaches, empirical cycling at gmail.com or empirical cycling.com, head over to
+ the contact page or check out our services. You can check out the results that we've had, et cetera,
+ et cetera. Um, and if you want to, uh, consult with us, that's also a good place to reach out.
+ If you want to keep coaching yourself, we're here to give you the tools to plan and adjust
+ your own training. If you want to check us out on Instagram, uh, go ahead over there.
+ If you want to ask a question for the podcast, also up on the podcast page up on the top.
+ And I think that's it. Oh yeah. Give us a nice rating interview, wherever you're listening
+ to podcasts and, uh, yeah, we will see you all next time.

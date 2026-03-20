@@ -1,0 +1,363 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined by my co-host, Kyle Helson.
+ Today, we are going to be comparing critical power and FTP.
+ As always, thanks everyone for listening. Please subscribe to the podcast.
+ Give us a good iTunes rating if you'd be so kind.
+ Donations, we are an ad-free podcast, so donations can be made at the EmpiricalCycling.com page under Podcasts.
+ For any questions, comments, and coaching or consultation inquiries, please send an email to EmpiricalCycling at gmail.com.
+ Briefly, in comparison, FTP and critical power.
+ FTP, despite a lot of the misconceptions around FTP, is really just the power output that you can maintain at maximal lactate steady state.
+ Critical power is fitting a parameter from a physiological model.
+ Now, Kyle, you've seen a lot of the debates.
+ So, you know, how do you see this kind of thing playing out the way a lot of athletes use these two?
+ I think a lot of people end up using them interchangeably or especially if you're a user of Golden Cheetah because you don't want to pay for a different program, which is fine.
+ You know, I like to look at data in Golden Cheetah, too, but Golden Cheetah has the CP model built in.
+ And if you look at your mean max power curve, and if you look at the mean max power curve on the in the tab of the different screens, it's not even labeled mean max power curve.
+ It's labeled CP.
+ And so you can see that it fits your takes all of your ride data and it will fit your quote FTP, but it will also fit your CP.
+ And oftentimes they are similar.
+ And I think people then assume that similar means the same.
+ Or interchangeable.
+ Right.
+ Just because the numbers come out close for many people.
+ Yeah.
+ But how close is a good question.
+ I think depending on how close certainly depends on, you know, the rides that you've done, the type of rider you are, all these other things, just kind of like in the same way we were talking about how for a lot of people, the old sort of training zones of, you know, with FTP and certain.
+ Oh.
+ And over FTP efforts being a percentage of FTP.
+ It's that's designed around some sort of bell curve of your average middle 50% of the population.
+ And so there's also going to be some distribution of people for whom the CP model hits their FTP pretty closely.
+ And then there's going to be a bunch of people for whom the CP model does not come close to matching their FTP.
+ And if they use their CP in place of their FTP, they're going to have.
+ Yeah.
+ Have a bad time intervals.
+ And actually, one of the things that I've always been bothered about by the way Golden Cheetah uses the CP model is that it actually like a lights on top of your mean max power curve, like, like all those like little points of like, you know, your best, you know, 30 second interval, one minute, three minute, you know, five minute, whatever, 20 minute, like it sits right on top of those like, and in between, you've got to be on as good a distance as possible.
+ Yeah.
+ Day as you were on those other power outputs to really kind of match it.
+ And, you know, a lot of the time, like, it's not like you look at that curve and you go, oh, this is what I can do for, you know, however long, like, it's way more complicated than that.
+ You've got to have it, you know, kind of similar conditions day to day.
+ So, like, so on the surface, critical power and FTP are kind of trying to measure the same thing.
+ And this thing is the work rate.
+ And that's to say the power output that can be sustained steady state for a long time over this power fatigue occurs a lot faster.
+ And under this power fatigue occurs much, much more slowly.
+ So we've got a bunch of stuff on this in the show notes.
+ So head to empirical cycling.com under podcast episodes, and you'll be able to see a lot of the stuff.
+ This is going to be our most show notes.
+ Heavy episode yet.
+ So, so if you would like to see the things that we're talking about, I've made some charts and stuff a little later on.
+ We'll get to head over there and you can check that out.
+ All right.
+ So Kyle, so why does this matter?
+ Like in your experience, like your, your CP as, you know, gauged by golden cheetah, like what's your experience been trying to like hold that power?
+ Cause you're a, you know, you're a pretty good sprinter.
+ You've got a lot of anaerobic power.
+ So how do the two things compare in your personal experience?
+ My personal experience, the CP definitely comes out high, like much higher than is a reasonable number for like, say setting FTP based work.
+ So this is because the base, and I think this is because the basic CP model takes only two.
+ Or three or two or three measurements between like 30 seconds and 3000 seconds, and then fits a lot, a linear, I guess, like a, just a slope to those points.
+ And then extrapolates that out and calls that what you could hold for near infinite amounts of time.
+ Right.
+ And, um, and, and so just, just for, uh, for the record, 3000 seconds is 20 minutes.
+ So like, what, what would you say?
+ Is the average like difference between your actual FTP and what CP measured?
+ Like, like, was it like 20 Watts, 30 Watts, something like that?
+ Um, yeah, I would say it would bounce around.
+ So for 2016, when I was doing a lot of, a lot more road racing than I currently am doing, the basic two parameter CP model gave me a CP of 304 Watts for a time period where my FTP was probably like 285 to 90.
+ So this is, okay, so it's 15, maybe 20 Watts high, which maybe doesn't sound like a lot, but you know, you're, you're going to probably have a bad time if you were setting FTP and threshold work based on that number.
+ Like, you know, if you're down in zone two, you might not really notice it as much, but definitely if you're a sweet spot or higher, having that, you know, 7% difference is going to, is going to start to really add up, um, and make things really hard.
+ That's exactly the point of CP and FTP is that they're trying to find that point at which above that fatigue occurs more rapidly.
+ So if you try to do three by 20 or two by 30 at like 10 Watts under your FTP, you're probably going to be able to do it pretty well.
+ If you try to do that at 10 Watts over your FTP, um, you're gonna, yeah, you're going to have a bad time.
+ It's going to feel like a standard sort of.
+ Cut and dry 20 minute FTP test back to back.
+ Yeah, uh, pretty much.
+ Um, one of the important differences I feel between these two measurements, there's a physiological state that accompanies FTP.
+ Um, I've actually seen people who think that FTP is, you know, quote unquote, whatever Andy feels like it is.
+ And that's, that's really not the case.
+ Like, you know, a lot of us who have interacted with Andy and asked him this question very directly.
+ He said, yes, this is, uh, FTP was meant to be a stand in for work rate at maximum lactate steady state, which is a thing that you can find in a lot of the scientific literature.
+ And if anybody is, um, is skeptical, just go look it up.
+ Um, just, you know, go on Google scholar and, you know, type in MLSSW and you're going to get a lot of interesting papers.
+ FTP is actually the definition of it has kind of gotten, uh, bad press because of.
+ You know, cause it's got somewhat contradictory definitions in training and racing with a power meter and, you know, Hunter Allen's always talking about, you can just do a, do a 60 minute test.
+ He just figures a 60 minutes, whatever.
+ Um, you know, even though I know he knows better, I think he's trying to reach a less sophisticated audience with training than the people who are actually having these debates.
+ All right.
+ So FTP testing, you can test by a power test.
+ You can listen to our.
+ Episode one on that, uh, or you could just get it from the power duration model, which is, uh, I do a combination of the two.
+ Um, so Kyle describe how critical power, uh, how you find that.
+ So critical power, what they do is you need minimally two max power tests for something typically between 30 seconds.
+ And 20 minutes in the, and they, and they're a little flexible on that definition.
+ So obviously when you're fitting any kind of data, more data points are better, but because critical power is an inherently just linear model, you need only two data points to fit the model.
+ Okay.
+ So what do you mean linear model?
+ Cause I'm sure that's confusing to a lot of people who have looked at, um, you know, golden cheetah or, you know, the, um, just the regular, uh, hyperbola of critical power.
+ Without the logarithmic timescale.
+ Um, so how, so how do you mean it's linear?
+ It's linear because when they actually fit the model, they're not fitting that hyperbolic curve.
+ What they're doing is they're taking time on the X axis.
+ So time is the, uh, independent variable.
+ And then the dependent variable is not the amount of power that you did, but as the actually number of kilojoules of work that you did.
+ Over that period of time.
+ And so, because they're looking at total energy burned within a certain period of time, it turns that hyperbolic curve of power versus time into a linear curve of time and work done.
+ Right.
+ And so now that we see that we've just got a bunch of points, like for a one minute, you can do this many kilojoules for three minutes, you can do this many kilojoules, et cetera, et cetera, et cetera.
+ Um, now.
+ We can see that the more points we have, the more accurate a line we're going to get because we are actually just fitting a linear line.
+ And then the hyperbola comes directly from that.
+ Yes.
+ And so the other thing is that within critical power, if you just have two points, you know, the line is by definition going to go through both of those two data points that you fit.
+ But once you start adding in a third or a fourth or a fifth data point, now you're going to start seeing.
+ Some of the points maybe not exactly line up with the line.
+ And so in theory, if you are a more anaerobic rider, like, and you have actually, uh, maybe lower FTP than you would get if you just fit like a 30 second power test and like a 20 minute power test.
+ If you start to fill in more data points toward longer time, it should in theory kind of correct itself to represent what you could actually truly do aerobically.
+ Um, but.
+ If you're only testing over a very small range, then the, the amount of sort of in physics, we often refer to this as leverage, but the amount of leverage that you get over the bottle by going from 15 minutes to 20 minutes, isn't very high.
+ And so you'd really want something even longer to kind of greatly impact that, uh, slope.
+ Whereas if you just fill in a bunch of points all between a minute and 10 minutes, well, they're probably all going to be pretty.
+ And that's an interesting point that you bring up because of the way that you see the critical power model overlaid in golden cheetah, for instance, where it's on top of just the highest points.
+ So imagine if you've got, you know, a kilojoule burn curve, um, that's, you know, fairly linear and you just put your line up at the ones like the three or four points that are the absolute highest.
+ And then you're ignoring all the other data points.
+ Yes.
+ Well, so let's talk about the pros.
+ The pros and cons of both models, because I would actually argue that they're, uh, that critical power is very useful, but FTP to me is more useful.
+ Um, so, so first off, we've already mentioned this.
+ So dismiss your notions of what FTP is.
+ It's not 60 minute power.
+ If it matches your critical power, your model drive, critical power, that's incidental.
+ Um, because it's the highest.
+ It's exercise intensity that you can maintain with a constant and highest possible concentration of lactate in the blood, which reflects the cellular conditions.
+ So, um, so really to me, what it says is this is the highest level at which someone can work, you know, entirely aerobically, I should say the benefits to me of the FTP model is, you know, obviously, first of all, it reflects an actual physiologic state.
+ That's very important for a physiology nerd like me.
+ It's really good for assigning training.
+ Intensity at and below threshold, because let's say if critical power overestimates, um, what you can actually sustain for 30, 40, 50, 60 minutes, um, then assigning intervals at that power.
+ Like if critical power says you can do 300 Watts, you can really only do two 80, you know, three by 20 or 300 Watts is going to be a really hard, if not impossible day.
+ So.
+ In setting training targets, I find FTP to be much, much better.
+ So the length of time that you can hold FTP is also variable.
+ And this is why, uh, the 60 minute thing really bugs me because if you look at all of the, uh, scientific papers on work rate at maximum lactate steady state or FTP, it can be held for varying lengths of time.
+ And as people train, that time tends to go out and out and out.
+ Um, in addition to.
+ You know, the power output going up as well.
+ And so that the actual FTP model, it's kind of like a, you know, it's, it's a living model and it, you know, will update with regular testing and, uh, with somebody's fitness.
+ One of the drawbacks of FTP is that it doesn't reflect what's happening above FTP, which is very individual, which is why, uh, in WKO four, the new eye levels are great, uh, because they actually account for these individual differences.
+ Uh, and so this is one of the big problems in the first couple of editions of training and racing with a power meter, I haven't read the new definite, uh, I haven't read the new version yet, but, uh, I will soon.
+ Um, I'm sure the that's been updated to reflect the eye levels.
+ All right.
+ So critical power comes from the Monod power model.
+ Kyle, you did some, uh, some reading on this.
+ Uh, tell me about that power model.
+ The critical power model was much more focused or is much more focused on laboratory testing and testing athletes in labs.
+ Um, presumably takes a lot of time.
+ So they were probably looking at a way where they could test athletes for two durations.
+ Like I said, they're fitting just a linear model, so they only need two durations.
+ And so often it was a wind gate test or a sort of a 30 second all out, uh, effort.
+ And then some.
+ Sort of more aerobic tests, which was 20 minutes or shorter, sometimes eight minutes.
+ Um, but they minimally only need two and really commonly would only get three.
+ And then, like I said before, they would fit this sort of kilojoules burn versus duration in seconds.
+ And when you fit a line, you get two parameters out.
+ So you get a slope and you get an intercept and the slope of this line is what they termed.
+ Critical power.
+ And if you think about it, that slope, since it's time versus kilojoules burned, you could extrapolate that out to an infinite amount of time.
+ And it assumes that you could burn an infinite amount of kilojoules, even, even though they, the power output would be very low.
+ It would assume that your time to exhaustion is infinite, which, uh, coming from a physics background, anytime you see infinities, uh,
+ you know, there's a problem with the model, or at least that's an inappropriate area to apply that model.
+ Uh, the famous one in physics is the sort of ultraviolet catastrophe before they discovered quantum mechanics.
+ But yeah, infinities, anytime you see models, typically not a good sign.
+ Right.
+ Um, okay.
+ So briefly, um, the benefits of the critical power model is that it's actually much more common in the scientific literature, um, because it's very convenient for time constrained researchers.
+ So this actually doesn't mean that it's more valid than the FTP model, um, because, uh, maximal lactate, uh, steady state work rate, um, or FTP is also very common.
+ It's just not as common because it takes a lot more time to test.
+ And so you've actually got to, um, you know, be a lot more deliberate with that kind of thing.
+ Um, so my main point with the CP model here is that it's, uh, it is actually perfectly valid.
+ For the time durations at which it's valid.
+ In other words, you can use the model to interpolate, but you cannot use the model to extrapolate.
+ Um, and like we mentioned in the last podcast, um, when something is built on kind of an iffy foundation and you try to build on top of that, if you try to extrapolate from it, then you run into all sorts of problems.
+ And, uh, this is a really, really good example.
+ Uh, because.
+ Because, um, the kilojoule output for the entire, uh, uh, time range of an athlete is not linear.
+ It is, it has a bunch of linear sections, but overall it is not linear.
+ The CP model, if you're going to fit it over a relatively tight duration, sort of, you know, one minute to 20 minutes, something like that, and then plot it over your mean max power curve or your kilojoule burn curve.
+ From WKO four or training piece, you'll actually see it will highlight for you the range over which a linear model is correct.
+ If the, your, your whole mean max power curve is not a linear model, otherwise it would just look like a straight line.
+ And the CP model does highlight one of those sections.
+ And so over that duration, the CP model is likely a good fit to the data, but you just run into a lot of trouble once you start using it out.
+ And so over that duration, the CP model is likely a good fit to the data, but you just run into a lot of trouble once you start using it out.
+ And so over that duration, the CP model is likely a good fit to the data, but you just run into a lot of trouble once you start using it out.
+ Those much, much longer, you know, zone two type, uh, endurances when you're only putting in a 20 minute test or something into the model.
+ And, you know, as a coach, uh, like being able to tell someone that you can do this many Watts for this many minutes, um, I actually, honestly, I don't like doing this.
+ You know, a lot of people that go for a time trial, they say, you know, what can I hold for this long?
+ And the honest answer.
+ If I tell you, then you stick to that power and you, you know, you, you know, you accomplish your goal.
+ You do well in the time trial.
+ That's good.
+ But I also know that more often than not, when I've done that, someone who is stuck to that power has finished and said, I had a lot more to give, which means, um, because the model is descriptive because it's in the past and not prescriptive.
+ It's not going to predict the future.
+ Um, there are very, very.
+ Very few things actually, I would, I might say nothing.
+ There's nothing that can actually predict your performance accurately enough that I would feel comfortable saying you can do this many Watts for this long.
+ Like, let's say it's like a 20 minute uphill time trial.
+ You know, I might give you a starting point, but I'm not going to say you can do this many Watts for this long.
+ Um, and this is one of the reasons that I have a lot of my athletes do a lot of intervals entirely by feel.
+ Um, and.
+ And using just power as a feedback mechanism to, you know, gauge their effort.
+ Okay.
+ So the other thing that's really important, um, to know about the critical power model is that the other drawback, the other really big drawback is that it assumes that you can maintain your critical power for an infinite duration.
+ Now, um, this is one of the other things that I've got up on the show notes.
+ You know, we're used to looking at our mean max power curves with a logarithmic.
+ Time scale.
+ And I actually changed it from logarithmic to linear.
+ And so now your, uh, your power curve like this looks a lot like a hyperbola, except for one big difference.
+ The hyperbola that I fit to this curve does indeed go on.
+ Uh, it matches that person's FTP and it just goes on straight forever.
+ However, the power output from FTP actually goes down and down and down and down and down at a steady rate.
+ So, um, so physiologically we can actually not hold your model derived critical power forever.
+ You can't hold any power forever, except, you know, whatever watts it is to like keep you alive.
+ Actually, um, this is a good time to bring up, um, one of the most hilarious misapplications of critical power I've ever seen.
+ So I was reading in a paper on critical power, talking about the Roman legionaries.
+ And, you know, I'm a little bit of a history nerd and I'm fascinated by this stuff in this paper, uh, talking about critical power, um, they were talking about Roman legionaries and, um, I'm just going to read this statement straight from the paper quote as the penalty for failure to reach this objective was death.
+ The military step had to be set below the CP or CV critical velocity of most legionaries to avoid crippling the ranks and eroding morale.
+ The Roman military was arguably the finest mobile fighting force in the world for several centuries implies that the military step was not positioned too far below CP.
+ That is amazing.
+ And then saw that CP predicted an infinite duration for some power, or in this case, if you were walking, it'd be some velocity.
+ And then we're like, oh, great.
+ This is exactly what we want.
+ Yeah.
+ Exactly.
+ And like, let's say for instance, that, um, uh, like a Roman legionary, who's like a modestly aerobically fit individual has a critical power of about 150 Watts.
+ What they're saying here is that, um, that these guys were marching at 140 Watts for like seven hours a day and then stopping to actually build camp.
+ One of the funniest parts of this to me is that this paper is from 2010.
+ And it's not like.
+ It's not like a historian, you know, using an online calculator to figure out how much energy these guys burn.
+ Cause I've seen that paper too.
+ And, um, and let me tell you, those Romans, like, I didn't know they could hold 500 Watts for seven hours.
+ That's amazing.
+ Um, that's a real paper that exists.
+ So that's, uh, one of the ways that, you know, extrapolating from the, um, from the valid.
+ Uh, region of critical power can actually get you in a lot of trouble is if you take it too literally, like it's, it's a place, uh, critical power is a thing that you, where you interpolate it and you don't extrapolate it.
+ I think another thing here that you kind of point out is that early on, you kind of mentioned this, we mentioned this a little bit critical power.
+ It was not originally thought of as a tool with which you.
+ Would prescribe training or efforts.
+ It was designed to be a mathematical laboratory model from which you would make physiological conclusions, but it was not designed to be a field tool for athletes and coaches.
+ Whereas the FTP model is designed to be a field tool for athletes and coaches to do work and to prescribe workouts.
+ Right.
+ And that's because.
+ Uh, because Andy was very, very smart in the way that he determined physiologically, what is the most valid and useful reference point off which to base other training.
+ Um, and initially he went above and below FTP, um, as you know, 120% FTP for VO2 max, stuff like that.
+ That's, that's, you know, only valid, like, you know, 40, 50% of the time.
+ And, you know, we have.
+ Eye levels now it's progressed.
+ Um, but you know, below FTP, it's still quite valid, but with a critical power, um, you know, there's not like a person really responsible for it.
+ Um, it's just a mathematical model and it just sort of exists in a vacuum at this point.
+ Like you've got to know the tools that you're using in order to use them.
+ Well, like, you know, like I took a lot of science classes, Kyle, you've taken a million science classes too.
+ What, when you start going into advanced science.
+ And they start teaching you not only like, you know, just stick this thing into this machine and press this button and you get the information that you want.
+ It's not that simple.
+ They actually show you how the machine works.
+ They show you how your tools work because if they don't, then, um, then that could actually be horrible for you as a developing scientist.
+ I think the other thing is that with critical power, if you're the person putting together golden.
+ You kind of dig through the physiological literature and you see, oh, this critical power model.
+ It's very simple.
+ It's very simple to implement.
+ It's fitting a line to two, three, four, maybe five points.
+ That is really easy to program and include in free software.
+ You know, it's not easy to program and include in free software.
+ Something like eye levels like that.
+ Like I could program a critical power model fitting routine in an afternoon.
+ I could not program eye level fitting in an afternoon.
+ Right.
+ I'm not a good programmer.
+ Um, so I think it's sort of almost by accident that critical power, because of its inclusion in golden cheetah has, uh, found its way onto this sort of same stage as the idea of FTP and using FTP to define zones.
+ So there's actually been a lot of, um, scientific research comparing maximal lactate, steady state and critical power.
+ And, um, and I got to tell you, if you're only going to reference one paper on.
+ MLSSW versus CP, you're actually, you can actually find a paper that says whatever you want it to say, you can find it to say that they're the same.
+ You can find it to say that they're not the same.
+ You can find it to say that, um, you know, who cares?
+ So one of the best papers I've seen that was the most thorough and had, um, had a good distribution of subjects.
+ Um, it's called maximal lactate, steady state, respiratory compensation threshold, and critical power.
+ Now that.
+ This is a really good study that used trained subjects and actually found that on average, now, not individually on average, critical power was significantly higher than FTP.
+ Um, so on average, they found that critical power was 278 Watts and the, that FTP was 239 Watts.
+ So a 39 watt difference in CP versus FTP.
+ Um, now.
+ Like I said, there are other studies that don't find a significant difference between the two.
+ Um, but I personally have some issues with those methodologies in those papers that I've read.
+ Also, again, uh, in a lot of the population, you can be quite likely to find a CP and FTP that are statistically insignificant from each other.
+ And in a lot of studies with small sample size, like, you know, you might as well be rolling dice about the outcome too, and whether this matters or not from a training point of view.
+ Um, but in a lot of studies with small sample size, like, you know, you might as well be rolling dice about the outcome too, and whether this matters or not from a training point of view.
+ Also, again, in a lot of studies with small sample size, like, you know, you might as well be rolling dice about the outcome too, and whether this matters or not from a training point of view.
+ Also, again, in a lot of studies with small sample size, like, you know, you might as well be rolling dice about the outcome too, and whether this matters or not from a training point of view.
+ Actually depends on, you know, how big a difference is it?
+ Like if it's two Watts, that's great.
+ They're basically identical.
+ If it's like 15 Watts.
+ So in theory, one could have someone in a lab, you know, they do the critical power tests.
+ So they do a 30 second test and a longer aerobic test, and let's say they also do some sort of longer maximal lactate, steady, like steady state, like FTP test, and due to measurement error and uncertainty on the power meter and just, and just all these things, you find that the FTP is 290 Watts and the error on that is maybe five Watts, right?
+ Like, uh, that, that seems reasonable.
+ And then if you.
+ Find that your critical power comes out at 300 Watts plus or minus five Watts.
+ Well, those are statistically equivalent.
+ Like you got 290 for FTP, but maybe it's 295 and you got 300 for critical power, but maybe it's actually 295.
+ So if you're a scientist, you would say that those two things agree with each other.
+ However,
+ If you're in practice, if you're off by 10 Watts, you're actually going to maybe find that using that higher critical power number, even though it makes your ego feel much nicer, uh, is going to make your workouts much harder and maybe not completable like you would expect them to be.
+ Right.
+ So, um, so again, like knowing, um, you know, the scientific threshold for statistical significance versus the real world, actual practical application.
+ Um, now these are big differences.
+ Um, so really I like the take home is that, you know, one isn't really better than the other and they're not necessarily significantly different from each other.
+ Although in some cases they certainly are, um, are actually possibly in a lot of cases.
+ Um, the, the real point is that you need to understand, um, you know, what these two quantities represent, how the models find them.
+ And.
+ Um, and you know, how are they valid?
+ So you might even say that over FTP, CP is valid and under FTP, uh, FTP is valid.
+ And in between, if there's a really big gap between the two quantities, uh, you know, like 20, 30, 40 Watts, even, which is not uncommon, you know, you just connect the dots and, you know, call it a day.
+ And I'm not even someone who uses critical power.
+ Uh, you know, I use eye levels now and before I levels came about, uh, you know, I.
+ Uh, you know, I knew that people varied a lot in their ability over FTP.
+ So I just, you know, um, used people's personal numbers instead of, um, instead of critical power or anything like that.
+ Yeah.
+ And that's perfectly reasonable.
+ I think the other way you can look at it is that FTP and CP were, are two tools with very different applications.
+ Like, yes, you can, you know, use a hand drill to do a lot of things that you would prefer that you had, like, I dunno, uh, nice Bridgeport mill.
+ For, but they're definitely, they've got their own sort of realms in which they're the most useful.
+ And yes, you can use one in place of the other sometimes, but, and neither of them are necessarily bad, but they're not always interchangeable.
+ And, you know, like, let's say I don't have a hammer, but I do have my drill.
+ You know what?
+ In every person, there's some good.
+ And in every tool, there's a hammer.
+ If all you've got is a hammer, everything looks like a nail.
+ And if everything's a hammer, everything's a nail.
+ Now that, see that, that actually, I think that's, I might actually leave that in.
+ I think that's, uh, um, just a cute example of, um, of how extrapolating from a thing can actually get you into real trouble.
+ Um, cause I have hammered nails in with my drill, but not everything's a nail and not everything's actually a hammer.
+ All right.
+ So I want to thank everybody for listening.
+ Uh,
+ as always,
+ please subscribe to the podcast,
+ tell your friends,
+ um,
+ you know,
+ head into iTunes and give us a good rating because that bumps us up in the podcast feed.
+ And,
+ uh,
+ and that's really fantastic.
+ Um,
+ so please donate to the podcast.
+ If you've donated before,
+ we would love to have a couple more bucks from you because we are an advertising free model and think about all this excellent information that you're getting without ads.
+ And we're going to keep doing that for any questions,
+ comments,
+ coaching inquiries,
+ or consultation inquiries,
+ please send an email to empirical cycling at gmail.com.
+ The website is empirical cycling.
+ Uh,
+ we've got the podcast episodes and the notes up there.
+ Um,
+ so I want to thank everybody again,
+ as always for listening.
+ Thanks everyone.

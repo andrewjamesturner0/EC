@@ -1,0 +1,870 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Halson, and I want to thank everybody for listening as usual.
+ So, of course, subscribe to the podcast. I appreciate everybody who has subscribed.
+ And, of course, if you haven't yet done so, a good iTunes rating and a nice review goes a long way, so thank you all for those.
+ And, of course, sharing the podcast because, of course, getting more people to listen is one of the best ways to support us, if not the best way to support us.
+ But also, we are ad-free, and so we can say absolutely anything we want, and we do, which means that if you want to donate to the show and support us with a couple bucks, you can do so at empiricalcycling.com slash donate.
+ And, of course, our most expensive of all Patreons, which is going to be becoming an Empirical Cycling coaching client.
+ So we are taking on athletes. Shoot me an email at empiricalcycling at gmail.com.
+ And, of course, we also do consultations.
+ So shoot me an email again, and our time is your time.
+ We will answer your questions.
+ We can talk about training.
+ We can talk about deeper training philosophy stuff.
+ We can look at your files.
+ We can do our time is your time.
+ We will consult with you on anything you want.
+ So hit us up for that.
+ And, of course, we have questions on this episode from the Instagram at empiricalcycling.
+ So if you would like to ask a question on a future show, please give me a follow over there.
+ And, yeah, watch up on the stories.
+ So where are we at today?
+ So it's been a little bit.
+ Since we've done a podcast, Kyle.
+ So thank you for joining me again.
+ Got the old band back together.
+ Yeah.
+ I thought it would be fun.
+ I had originally decided that we were going to do some training myths.
+ But I couldn't really decide on a good, like, little constellation of a couple topics for training myths.
+ And I didn't quite have my head in the game for some of the more deep concepts to talk about.
+ So I thought today would be a fun one to talk about why you are not your CTL.
+ And, you know, from that, what was that fight club line?
+ Like, you are not your khakis.
+ Similar concept.
+ Yeah.
+ Hope just don't blow up any buildings.
+ So the idea of today is that we want to discuss kind of the ins and outs and the ups and downs of using external metrics to reflect training stress.
+ And how, while that they are good tools, they're not.
+ But amazing.
+ And, in fact, there are probably as many drawbacks as there are upsides.
+ So let's think about, you know, the performance management chart.
+ So, Kyle, what's some background on the performance management chart and how do people typically use it?
+ So there are typically three numbers, three lines, three traces, three plots, whatever you want to call it, on the performance management chart.
+ Usually it is.
+ Something called your CTL, your chronic training load.
+ Something called your ATL, your acute training load.
+ And then your freshness or your readiness or whatever.
+ It's the difference between the two.
+ Basically, it is trying to look at how much training you've done recently and then try to assess whether that means you're recovered.
+ And then you're able to assess whether you're recovered or not based on how much training you've done historically.
+ Because, as we sort of know, the more training you do historically, that enables you to do more training in the future.
+ Right.
+ Up to a point.
+ Up to a point.
+ Yes.
+ In which case, the wheels come off the wagon and you're going to be on your couch for a week.
+ But it's fun to get to that point.
+ More is more.
+ More is more until it is less.
+ Yeah.
+ So, you know, I think maybe we should start with what are the more common anecdotes?
+ That I've heard.
+ We've probably talked about it on the podcast before, but it goes like this.
+ Somebody has said, you know, I spend so long chasing CTL and my FTP is never going up and I feel like shit.
+ And I said, you know, fuck this at some point.
+ And I'm just going to go ride for fun.
+ I'm going to ride easy.
+ I'm going to take some time for myself.
+ And then they go race.
+ And they go, wow, I have amazing legs.
+ But my CTL, my fitness is lower.
+ Wow.
+ There's something wrong with this chart.
+ Common, perhaps?
+ Not that common, I think.
+ Yeah.
+ I think it, oh, God, I'm going to say it again.
+ It depends on how much an athlete is probably letting this chart govern their life or their training choices or things like that.
+ And so, for some people, I think.
+ If they use it as a second opinion, they say, how do I feel?
+ And then they, you know, oh, I feel kind of bad.
+ Like, oh, I wonder why.
+ And then they look at a chart.
+ Or the other, and that's probably the better way to use it.
+ The worst way to use it is to let the chart tell you how you should feel.
+ You know, oh, my chart says I should be pretty fresh today.
+ So, even though I'm tired and don't feel that great, I should be able to crush this workout.
+ You know, that's maybe not.
+ Yeah.
+ That's probably the best strategy all the time.
+ No.
+ And, I mean, using these kinds of external metrics to tell you how you feel, I think, I don't think everybody does this.
+ I think it's probably a minority of people who do this.
+ But I think the people who do do this, they want to be told what to do.
+ I mean, this is like, this is why, you know, online coaching apps and, like, apps in your pocket or whatever.
+ Like, you should go for a run today because your HRV is whatever.
+ You're recovered or you're not recovered.
+ But, you know, sometimes, you know, relying on this stuff, you forget to ask yourself, how do my legs feel?
+ And something that's actually common with people who start training with us a lot of the time is that we're asking them, how do your legs feel?
+ And they're like, I don't know.
+ They felt good on this ride, but was it too easy?
+ Usually the answer is no.
+ So getting in touch with your legs.
+ And then seeing how the CTL and TSB and ATL and all that, seeing how well that actually reflects how your legs feel is a better place to start than just blindly going, oh, my TSB is high.
+ I should rest.
+ Hmm.
+ Yes.
+ Yes.
+ Agreed.
+ Yeah.
+ And I think that's something where if you are an athlete with a longer training history, you have the time to build that up as opposed to a relatively new person who doesn't have this time.
+ Yeah.
+ And maybe doesn't realize that this isn't the number that you should let, you know, drive your life.
+ And so that is one instance where I think people pick up training and racing with a power meter.
+ They read a bunch of stuff online and they find out about this chart that is supposed to help them predict whether they're going to have a good race.
+ And it's not infallible.
+ So it's just a pitfall for new riders or less experienced riders.
+ No, I completely agree.
+ And I think so.
+ Let's take a deeper look at where do these metrics come from?
+ So TSS comes from normalized power.
+ Right.
+ So what is intensity factor squared is your TSS for the day, I believe.
+ Right.
+ It's a yeah, it's a TSS is a rolling.
+ It's the sum of a rolling 30 second average of a quarter.
+ Nordic.
+ It's yeah.
+ So basically, yeah, it takes your power, your average power in 30 second chunks, raises it to the fourth, sums it up and then takes the, you know, fourth root of it.
+ And so that that's how you get your normalized power.
+ And that's why normalized power is not always equal to average power when you have a really stochastic ride or you have a really, you know, intense sprint and then a fall off.
+ Because.
+ Because you're raising that number to the fourth power and then summing it up and then taking the square root.
+ Those two operations don't commute.
+ So it's it's actually give emphasizing those really big spikes.
+ And that's why it leads to fun workouts like TSS busters where I can crank out 200 TSS in like an hour and 15 minutes and then lie on the side of the road.
+ Yeah, I've done the same.
+ Like, yeah, like like 45 second efforts at about a thousand watts average for me.
+ If I do.
+ Three or four of those in about three to four hours, I have successfully generated a normalized power of about 400 watts.
+ And my threshold is actually about 200 watts when I'm not training.
+ When I am training moderately, it's like 250.
+ When I'm training hard, it's like 280.
+ So, yeah, not a great way to start.
+ But, you know, it's it's it's a tool in a toolbox because.
+ You know, if we're going to look at normalized power where all this start, all this stuff starts, we have to have some kind of assumption that normalized power somewhat reflects the metabolic strain of what is happening in your body.
+ And does it do that?
+ I would say it does it good enough.
+ Is it perfect?
+ Absolutely not.
+ Is any tool perfect?
+ Also, no.
+ So it's good enough to use.
+ I don't think it's good enough to predict.
+ I actually don't.
+ There's any external tools that are good enough to predict anything.
+ But, you know, that's kind of where we're going with all this.
+ So so thinking about TSS and normalized power, something that's kind of baked into the CTL and the TSS thing is that there's an approximate equivalence that's actually not real between volume and intensity.
+ Right.
+ So how many times have you talked to somebody who?
+ Who's you, Kyle, and also you, the listener?
+ How many times have you talked to somebody who said, well, it's time to start getting ready for racing now.
+ So I'm going to keep my same TSS, but I'm going to I'm going to get the same TSS with more intensity and less volume.
+ Yeah, yeah.
+ I think that's a common thing where you build up with volume, your base period, and then you get to some number of TSS.
+ Like a lot of times you go, I'm finally finally over 80 or I'm getting close to 100 or something.
+ And then, yeah, then they try to keep.
+ That number high because bigger is gooder.
+ And so they think that trying to maintain this number as as as high of a limit as humanly possible and sometimes too high is the strategy for crafting a season.
+ Yeah.
+ Yeah.
+ So so let's talk about volume and intensity equivalence in TSS.
+ So basically an hour at threshold is.
+ 100 TSS, right?
+ OK.
+ Yes.
+ You know, I've seen all the arguments on this.
+ We don't have to rehash it.
+ I'm sure everybody else listening has, too.
+ So so the question to really ask is, does this have any sort of physiologic basis?
+ So if I do, let's say, a hard a hard VO2 max session.
+ Right.
+ So if I do like four by five and I my intensity factor for the approximate hour that I do.
+ This workout is going to be let's just call it 100 TSS.
+ OK.
+ Now, if I also go out and do an endurance ride, let's say it's like two to three hours and I also generate 100 TSS.
+ The question is.
+ Are those equivalent?
+ Do they have.
+ So, well, here's the here's the first question.
+ Do they have the same fatigue on the other side of it?
+ I would say it depends.
+ It depends to know.
+ Yeah, I would say it's very leaning, very much leaning towards no, because after an endurance ride, you should get back feeling about the same as when you went out.
+ That's my general guide to endurance ride.
+ Was it that you don't have to be dead by the end of a three hour endurance ride?
+ Yeah, it should be.
+ It should not be grueling.
+ And especially this time of year.
+ Right.
+ Endurance rides, base rides with your friends like they should be fun is not maybe exactly the right word.
+ Because sometimes fun means like punching each other in the face and like trying to like hammer up hills all the time.
+ That's not.
+ That's not what you want to do.
+ Whoa, Justin Williams.
+ Sorry.
+ Best buddies.
+ Am I right?
+ Yeah.
+ Yeah.
+ Some buddies.
+ Actually, you know, what's funny is that like guys who do punch each other in the face typically do become best buddies afterwards.
+ How many friends have you have you made like after you get in a fight with?
+ Yeah.
+ You don't have anything to say after that.
+ You're fine.
+ You're fine.
+ You settled it.
+ You get it all out, then you hug it out.
+ It's fine.
+ Not to normalize that behavior, but.
+ So if you end up doing this right, like, yeah, like you said, it should be enjoyable and it should be perceived as work.
+ Like it shouldn't be a completely nose breathing, like, like spin to get ice cream.
+ And that's fun, too.
+ But it shouldn't.
+ Yeah, it.
+ It shouldn't be pushing you to the limit where you come back and go, oh, man.
+ I couldn't have done another half an hour on that endurance ride or I would have blown up and died.
+ But after an hour of VO2 max work, you you intrinsically feel a little bit different.
+ And sometimes you do four by five and you ask them, hey, what would you have said if I told you at a fifth one?
+ And they're like, fuck you.
+ I mean, I would have been like, I could try it, but it's not going to go well.
+ Yeah.
+ Yeah.
+ Yeah.
+ Yeah.
+ Well, so in terms of aerobic impact, do they have approximately the same impact?
+ I would say probably maybe, you know, it'll impact some aspects of physiology more than others.
+ But in terms of like muscular adaptation, they might be equivalent.
+ But also depends on your training history and all that.
+ So we're you know, we're finally hitting the next level.
+ It depends on the equivalence thing.
+ So we can't really, really know.
+ But except, you know, when it comes to, you know, volume intensity equivalence, you know, kind of like we said on our on the time crunched episode, you know, there is there is some equivalence.
+ If you are if you do have less time to train, you should ride harder, but you should still recover.
+ Right.
+ And so and so one of the things about using CTL and TSS is that if.
+ If they help you.
+ Then they're useful.
+ But if they don't help you, then ignore them.
+ Right.
+ Like.
+ Let's see.
+ What's a good way to put this?
+ So.
+ Let's think about CTL as.
+ Let's let's pretend that it does have some kind of reflection on aerobic fitness because, you know, it's called fitness.
+ So everybody wants it to be higher.
+ And if it's going lower, you're losing fitness.
+ But how many times have you.
+ You know, like we started this out with.
+ How many times have you rested and your CTL has gone down and then you then you felt better.
+ Right.
+ So I think marketing with CTL was rolled out badly.
+ Right.
+ Like, I don't think it should have been called fitness.
+ Anyway.
+ That's a good point.
+ I feel like it is tempting because it's a familiar word.
+ And it's not.
+ It's not totally wrong.
+ Right.
+ Like some match some measure of fitness.
+ Say for.
+ Functional fitness sports.
+ They view fitness as this general metric for how much work can you do?
+ Like, oh, I can do a lot of work.
+ I can work really hard.
+ And so in some ways, CTL is that right.
+ It is a measure of.
+ How much work.
+ It's a little bit more elegant.
+ Right.
+ Than just saying how many kilojoules have I burned the last 40 days or whatever it is on average.
+ But it's not so different from just looking at raw number of kilojoules burned.
+ Yeah.
+ I mean.
+ Well, and that that also gets to the question of like, you know, if you burn a kilojoule and by sprinting and also by doing an endurance ride, are they equivalent?
+ Yeah.
+ You know, it's like.
+ Yeah.
+ How many times have we seen a study on HIT that has a big impact on like, you know, moderately active people and it has no impact on trained individuals?
+ Same thing.
+ Right.
+ Right.
+ And so that's that's kind of the the deeper question.
+ The next part to ask about this that I think is probably way too in the it depends weeds to really get into for now.
+ So.
+ So I think.
+ I mean, because I think they did try to.
+ Make it better in that, you know, what's that equation that we've seen whenever we've looked at a PMC article?
+ It's like it's like fitness plus freshness equals.
+ I don't know something good likes or whatever.
+ Yeah.
+ Yeah.
+ And so the freshness is going to be, you know, your ATL, your acute training load.
+ And and so it's the difference between the acute training load and your CTL.
+ Right.
+ So, OK, now you've got to freshen up.
+ They've gained all this fitness and you've got to.
+ But, you know, there is something to that in that the basic principle of having a peak performance is that you have trained hard and you have gained a lot of fitness.
+ And now you need to find your best legs, which oftentimes requires some level of resting in order to get them there.
+ But as you rest, you know, you are freshening up.
+ You are having better legs.
+ But at the same time, you are beginning to slowly lose fitness and you get fresher faster than you lose fitness.
+ And then you've got a couple of good race days.
+ Sometimes you can have a couple of good weeks.
+ And then voila, you're all set.
+ Not hard.
+ But, you know, using using all this kind of stuff to rely on also has a downside in that it doesn't reflect additional stressors that you have in your life.
+ Right.
+ Like you didn't sleep well.
+ That's not reflected in your CTL or TSB or anything like that.
+ You know, it's a it's a hellish week at work.
+ You're highly stressed.
+ You got sick.
+ These things are not reflected.
+ And so and so having to step away from all of that and think, how do I actually feel today is a really, really good place to start.
+ Like having a critical eye on your CTL and your TSB and all that can, you know, you know, things like HRV, too.
+ Like, oh, well, my HRV says I should probably take a rest today, but I've got to go train and you go out and train and you feel fine and it goes fine.
+ Happens a lot.
+ Yeah.
+ So.
+ Well, I would say the one the one other thing a lot of times with the HRV stuff and this this is also kind of in the weeds, but.
+ There is the question of whether or not the skin based heart rate measurements are accurate enough to actually measure HRV.
+ Right.
+ Like if there's a there is a so HRV for those heart rate variability for the people who aren't aware is measuring that the very like subset.
+ Yeah.
+ Like the sub second timing differences between when your heart is beating.
+ So say you're you're averaging fifty seven beats per minute.
+ OK, well, that's just a counting exercise, right?
+ The device counts for 10 seconds or five seconds or a second or something and then just measures the number of peaks that you would get within that time frame.
+ Whereas with HRV, you actually have to have higher frequency sampling because you want to figure out exactly the timing in between.
+ And so you need.
+ Fairly precise information.
+ And there is some question on whether or not skin based heart rate measurements that's from a watch or a ring or even a chest strap, whether that alone is good enough to replace like a 12 lead EKG for measuring HRV.
+ I would say there are some devices that have high sampling rates that work pretty well.
+ But in my testing of this for trying to determine some things, a research project I'm working on that the skin based ones are probably not that good.
+ And it's one of those like garbage in garbage out kind of things.
+ Yeah.
+ It's like if you've got a power meter that's reading high, you know, it's like also check your heart rate trace in your in your workout files.
+ If it looks like it's a square wave, it's probably.
+ Not a good way.
+ And honestly, like the wrist based ones are probably the worst.
+ I don't know anybody who does it by their aura or a ring.
+ I said it.
+ They're not that good at tracking your heart rate.
+ And so being able to use it to track HRV is probably as good as it is bad.
+ Like 50 50, I would say.
+ Some days you'll get a really accurate reading.
+ Some days you won't.
+ But, you know, I think I think this is interesting.
+ I think about HRV is because I think we've said this on the podcast before, like tracking the long term trends is probably better than tracking the short term stuff.
+ Because like HRV seems to react better to off bike stressors than it does to improving fitness for trained endurance athletes.
+ But anyway, which what if you if you think about it, though, you spend you spend twenty one.
+ That's generously twenty one.
+ One hours of your day probably doing not bike stress.
+ And at most.
+ Three, four, maybe five hours doing on bike stress.
+ You have all this other time.
+ And granted, I know, yes, it's lower intensity, blah, blah, blah.
+ But you have all this other time to where your body, you mentally, physically can be experiencing more stress than when you just go for a two hour workout or something like that.
+ Anyway.
+ So, OK.
+ Yeah.
+ So kind of what we're getting at is that is that off bike stress is still stress and it's not.
+ It's not reflected in your metrics.
+ And, you know, even if we took a bunch of biopsies and we took a bunch of, you know, survey questions every single day, like the amount of information we would have to collect to really accurately reflect all this stuff is absolutely staggering.
+ Yeah.
+ I think the other thing, too, with the with that is probably attractive about having the.
+ HRV monitoring and the whoop or whatever the device is, is that it does try to, you know, PMC.
+ Your life and try to get that more holistic.
+ So it's a good it is a noble endeavor to try to capture this sort of whole holistic view of your stress and how you're feeling and things like that.
+ And now, obviously, people say that, yeah, if I drink, it's as it goes down.
+ If I am up late because I have work or have to study for something, it goes down.
+ OK, so generally that's good.
+ And like you said, you can learn just like you can learn with a PMC and ATL, CTL.
+ You can learn what numbers mean good things for you and what don't.
+ But it doesn't.
+ It doesn't necessarily mean that the straight out of the box plane numbers work for you.
+ Yeah.
+ Right.
+ Oh, Kyle, have I shown you my CTL party trick by any chance?
+ No.
+ You're having parties where you're discussing CTL.
+ Well, I don't.
+ What are these parties, you nerd?
+ I don't have any friends, so I don't.
+ There's no way I could have a party.
+ But but so here.
+ OK, here's the party trick.
+ And anybody listening, you can do this at your next party.
+ So ask somebody.
+ Well, tell somebody that you can predict their CTL.
+ And ask them, how many hours do you ride a week?
+ And they'll probably inflate it a little bit or maybe not.
+ So like if I said to you, Kyle, how many hours do you ride a week?
+ And you said about 12.
+ I would say your CTL is probably about 80.
+ Nice.
+ Now, yeah.
+ Why is this?
+ Because the average intensity factor of a ride.
+ Is probably about 0.7 to 0.75.
+ So about two thirds to three quarters.
+ Of your average hours per week is approximately your CTL.
+ Nice.
+ Unless you're doing your unless you're on the the VO two max everyday plan.
+ Not strongly recommended.
+ I seriously entertained doing that for a little bit.
+ I was like.
+ I don't want to write that hard.
+ It's a vlog.
+ You should vlog like a month of VO2 Max every day.
+ Oh, God.
+ I have a face for radio.
+ Thank you very much.
+ I'm good.
+ So that's the CCL party trick, or patty trick if you're from Boston.
+ So the reason that that works, again, is from the intensity factor thing.
+ So it actually shows something deeper, which is that your CTL mostly at some point will just reflect how many hours you're training per week.
+ And the real question is, can you get stronger and can you get faster, can you get fitter on that same CTL?
+ And if you take CTL to actually mean it is your fitness, then the answer is going to be no.
+ But if you train smart, the answer can be yes.
+ And you could probably go for a couple of years getting stronger every year if you train smart on the same kind of low training hours.
+ You don't need 20, 30 hours a week to get faster, but you do need some minimum.
+ And at some point when you plateau on that, you're going to have to get a couple more, obviously.
+ But if you train smart, you can do it for real.
+ Right.
+ And I think you brought up a good point there where CTL and TSS, TSB.
+ All of these things are, at the end of the day, a function of whatever you've set your FTP to in the software that you're using.
+ So as you get fitter, it is, like you said, it is a relative metric, not an absolute one.
+ So you could look at, for example, something like total kilojoules burned.
+ And when you're doing a CTL of 80 and you've got a 400-watt FTP, how many kilojoules a week is that person burning?
+ Versus if you are a 100.
+ If you're a 90-watt FTP person and you have an 80 CTL, how many kilojoules a week is that burning?
+ Or you just look at how much more work you're doing from when you first started to where you are now will also give you a sense that you are, even if you are hitting 80 and 80 and 80 over and over and over again, you are potentially still getting a lot fitter and faster, even though you think, oh, but this number is still 87.
+ I can't get over 90.
+ And you're like, well, yeah, because you've got other things to do in your life.
+ You're not a professional.
+ Fortunately, you can't just eat, sleep, and train.
+ True.
+ Well, you know, I think it's interesting, though, because I think a lot of people who are, you know, I don't know.
+ There's not a great way to – what would you call it?
+ Like a CTL whore, CTL pig, like a CTL junkie.
+ Exactly, yeah.
+ It's kind of like the fatigue security blanket.
+ It's like the digital version of your fatigue security blanket.
+ Yeah, the fatigue security blanket.
+ Well, because I think if you're going to go for looking at like kilojoules or something like that, riding harder and to the point of riding too hard and never recovering is something that is easy to do.
+ Totally, yeah, which is why just looking at raw kilojoules also isn't a perfect metric.
+ Right, and so the question is like how do you get faster?
+ Well, you have to do high-quality training and you have to do high-quality recovery, and so you've got to make –
+ Yeah, you've got to make sure that every time you get on the bike, it has a purpose, even if the purpose is like, yeah, screw it.
+ I'm just going to have some fun today.
+ That's okay too, but having a purpose, having a physiologic system to target, am I going to work VO2 max?
+ Am I going to work endurance?
+ Am I going to work threshold?
+ If you're going to work endurance, you don't have to go, oh, I'm going to ride at 10 watts higher than I did last time because I have to burn more energy.
+ That works to a point, but then it stops working, right?
+ So you've got to make sure that you have –
+ You've got to have structured your hard days and your easy days in your week appropriately.
+ That's why I'm saying train smart.
+ Like think about this critically.
+ Make sure your easy days are easy enough.
+ Make sure your hard days are hard enough, right?
+ Like if you – even if you're not training a ton because endurance certainly helps to do things like improve TTE, you can still improve TTE quite a bit by training smart.
+ So what are the other things I think that might be interesting?
+ One thing to think about with CTL is that if we do take CTL to be some measure of fitness and for my professional athletes who do have time to ride a lot, it certainly can be more riding, more fitness, right?
+ You have to do less intervals.
+ Cool.
+ That works too.
+ But your fitness is not always reflected by your FTP.
+ It can be.
+ I have clients where riding – bumping up from 20 hours a week to like 25 hours a week has a noticeable improvement on FTP.
+ But that's not the only metric of fitness that there is.
+ Your endurance, your fatigue resistance is also another reflection of your fitness that's not reflected in a number that well.
+ Yeah, that's a good point.
+ I don't –
+ I don't know if – aside from just that nice feeling when you're – oh, I was able to go a little bit longer.
+ Or oh, I didn't die off as hard in that tempo ride or something.
+ Is there a sort of standardized metric like that for fatigue resistance?
+ I don't think so.
+ Is there?
+ Not really.
+ I mean one of the things that we have in WKO5 that we had for a long time is looking at – I don't know.
+ I don't think so.
+ I think it's looking at percentage drop of your power curve based on how many kilojoules you've done previously.
+ Right.
+ Yes.
+ And of course that's also not perfect.
+ But it is a pretty good reflection of improving endurance just generally.
+ And for some riders, you need to have larger kilojoule counts.
+ For some riders, you need to have smaller.
+ It's like you said.
+ If you've got 190-watt FTP, you're going to need a smaller kilojoule count.
+ Then somebody with a 400-watt FTP.
+ That's just physics.
+ But that's a pretty good way to check.
+ Your TTE is another good way to check.
+ And also just how well are you recovering is a great way to check.
+ Like have you ever gone out and done a short test?
+ Well, not you and me, Kyle.
+ It doesn't work for spinners.
+ But if you've done a short test and you go, oh, man, I think I had a couple more watts in me.
+ After you've had like 440.
+ Five minutes to recover.
+ Because you know on the hard, hard, hard tests, you're like lying on the side of the road for like 10 minutes.
+ And you're going, oh, why did I pick this sport?
+ This is so dumb.
+ Yeah.
+ And then when you're in shape, you recover so fast.
+ Golf is right there.
+ Yeah.
+ So that kind of delta.
+ In people's feedback and people's comments on their files, that's the kind of thing I look for that also reflects good improving endurance.
+ And also just, you know, like feelings.
+ And then you're getting stronger later into a crit.
+ That's a good way to gauge it too.
+ I've had a couple clients where, you know, FTP is maybe five or 10 watts lower than the previous year.
+ But they're stronger.
+ They're faster.
+ They have better endurance.
+ And that's just kind of the kind of something that you can look for if you are, you know, using CTL to some degree to gauge your fitness is your endurance.
+ Because riding more is indeed very.
+ Good stimulus.
+ Yeah.
+ I think that, too, I've had that experience where, you know, you're feeling pretty good.
+ You're coming in to maybe a bigger race or whatever.
+ You try to hit a good test.
+ And maybe you don't say you're all-time best for a minute or five minutes or whatever it is.
+ But you come within, like, a few percent.
+ And also you're not completely wrecked afterward.
+ You know, like, right.
+ And you're like, oh, that's like a good consolation.
+ I didn't crush it and get one of those little medals on training peaks or whatever.
+ Even those are nice.
+ Those are nice.
+ Who doesn't like the little digital rewards there?
+ But you're like, oh, but I didn't fall over and die after.
+ Yeah.
+ Okay.
+ So we have one last thing to get to before we get to listener questions, which is should you track TSS for your CTL purposes of other types of training?
+ I remember.
+ I remember wanting to do this so badly when I was new.
+ And, like, you just got a power meter and you just read training and racing with a power meter.
+ And you're like, oh, man.
+ Like, I really just, I want to figure out how to figure out what the TSS for the snow shoveling I just did is.
+ Yes.
+ The lifting or the intramural, you know, basketball game or whatever.
+ And you're like, and.
+ And.
+ They trick you a little bit because if you wear a heart rate strap for it, it will give you a heart rate TSS.
+ And so it's right there.
+ And you're just like, oh, I just.
+ Look at it.
+ It's already given me the number.
+ It's basically telling me that this is what I should do.
+ Definitely.
+ So should you track it?
+ I would say, I would say it depends.
+ And here's what it depends on for everybody who's throwing things at their headphones right now.
+ Drink.
+ Drink.
+ So it depends on whether or not it has an aerobic impact.
+ So if we're going to take CTL to be a rough stand in for general training stress, then the question is, aerobic training stress.
+ The question is, does a set of heavy squats improve you aerobically?
+ The answer is.
+ I get really.
+ Winded afterward.
+ Yeah, me too.
+ But the answer is no.
+ So for strength training, I would say no TSS.
+ Because if you do a significant amount of strength training, you know, your CTL is going to be, you know, through the roof.
+ And it's.
+ And when you want to compare like this year to previous years, you've got a higher CTL, but your FTP is lower.
+ Because, you know, you're not recovering from your gym workouts, but you're training so much more like this.
+ This complicates your post hoc analysis.
+ But if you are a multi-sport athlete, like if you're a triathlete, if you're do athlete, if you do XTERRA or something like that, like if you do, I don't know, biathlon, why not?
+ I would say.
+ No, there's no aerobic component to shooting a rifle.
+ Get out of here.
+ Oh, that's a shooting one.
+ Yeah.
+ Whatever.
+ Aqua bike.
+ That's what I was thinking of.
+ Oh, okay.
+ You know.
+ So biathlon is cross country skiing and shooting.
+ I don't know if rifle shooting has a large aerobic component.
+ Yeah.
+ Yeah.
+ Oh, God.
+ Can you imagine trying to like carry a gun on your bike?
+ They did that.
+ No, no, no.
+ One of the biathlon clubs in Vermont, like a decade ago, ran a cyclocross biathlon.
+ Oh, God.
+ Oh, man.
+ Guns were provided, but, you know.
+ No, I'm good.
+ Thanks.
+ Okay.
+ So if you are going to be doing a sport that impacts you aerobically, you know, this is
+ something that's already kind of baked into how Training Peaks is set up, is that you
+ can have multi-sport PMCs, and then you can have single sport PMCs, and you can track
+ them both.
+ And so for a lot of triathletes, especially the more casual triathletes, you know, doing
+ this kind of more advanced analysis is probably a bit, you know.
+ The juice isn't worth the squeeze, really.
+ But if you're a coach doing this kind of stuff, this kind of tracking can be really invaluable
+ to separate out the TSS.
+ So I would say if you do want to do something like even strength training, you know, put
+ it into a different type of workout format, and then have two PMCs that you have like
+ with strength training and without strength training, and kind of compare and see if one
+ reflects what you're trying to find out from this data better than the other, and then
+ use whatever.
+ Whatever you feel is more appropriate.
+ Yeah.
+ And for some people, they just may need that little reminder of, oh, hey, it's base.
+ I'm doing long rides, and I'm only riding three times a week.
+ Oh, but I'm also doing these other two times I'm in the gym, so I need to remember that
+ I'm not as fresh as I think I am when I just look at my chart and go, oh, but I only rode
+ two other times this week.
+ Why did I – why was I so tired on Saturday?
+ Yeah.
+ Yeah.
+ Well, that's one of the –
+ That's one of the reasons that I think that typically in coaching, I usually don't look
+ at CTL that much.
+ I have – you know, I try to not increase volume too much too quickly for a lot of people
+ who aren't used to riding a lot.
+ Of course, for some people who are, I actually just pulled up Matthew Vanderpoel's data.
+ And, you know, how there's like rules on ramp rate.
+ Hold on.
+ I'm going to – I didn't pull this up.
+ I'm going to Google.
+ Yeah.
+ Yeah.
+ Yeah.
+ Let's see.
+ Ramp rate.
+ Give me an actual hard number.
+ Come on.
+ Nope.
+ Nope.
+ Nope.
+ Anyway.
+ Hold on.
+ I'm going to go into – okay.
+ Here we go.
+ What's my default of ramp rate constants in WKO5?
+ So ramp rate constant 21, alert if less than zero, warn if less than one, or alert if more
+ than five.
+ So increasing more than five CTL per day is a default worthy of alert in WKO5.
+ So Mr. Vanderpoel.
+ Mr. Vanderpoel.
+ Mr. Vanderpoel.
+ His highest ramp rate is about 19 TSS per day.
+ Christ.
+ Good Lord.
+ Because he started in February riding again, right?
+ And he's doing a whole bunch of rides.
+ And per week, he goes like eight hours, 16.
+ 27, 27, 18, 30, 19, 25, 15, 14, 21, 14.
+ Like, he's racing at this point.
+ Yeah.
+ And how many years of training does he have in his legs?
+ So many more than I do.
+ How many years of training do his genes have from all of us?
+ So many more than all of us.
+ Yeah.
+ And, you know, it's crazy to, like, look at his metrics because, you know, he was pretty,
+ pretty much off the bike entirely.
+ It's like, not everybody can do that, but people who have trained a lot, they can do that.
+ So following these kinds of rules, like, one of my clients, a very promising athlete,
+ and, you know, just look at, you know, the training, you know, just looking at training peaks makes them faster.
+ I'm jealous.
+ Yeah.
+ Yeah, me too.
+ So they had a coach who looked at the training hours that had been done the previous year and said,
+ okay, well, we don't, I don't want you to do more than 10%, something like that, more than this for this coming year.
+ Even though they were saying, I feel fine, I can ride more.
+ And I said, do you feel like you can ride more and not ride too hard?
+ And the answer was yes.
+ All right, great.
+ Go ride more.
+ This year's peak CTL is about 145.
+ Wow.
+ So.
+ That's a, that's a big old number.
+ That is a very large number.
+ Not, not there at the moment.
+ Plenty of, plenty of post-season rest.
+ But yeah, like the thing is, like, if you go by any kind of rules that emanate from the PMC, you could be under training yourself.
+ You could also be over training yourself.
+ But like, the rules of thumb are just rules of thumb.
+ You don't have to use them.
+ Like, they're a guideline.
+ And I would say for some folks, I would say, okay, maybe this is the approach that we should take.
+ And if we try to go a little bit more than that, okay, maybe it's too much.
+ Okay, cool.
+ Now we have an approximate, an approximation of how to increase training load.
+ But for other people, we can easily ignore those kinds of things.
+ So you want to get to some listener questions?
+ Yeah, sounds great.
+ Well, maybe we should probably put a summary on that.
+ You want to give it a little wrap up there?
+ Summary on listener questions?
+ We haven't done any.
+ Oh, no.
+ I mean like on a – well, we just – yeah.
+ Oh, yeah.
+ Excuse me.
+ Okay.
+ So our summary is basically use the PMC as a tool and realize its upsides and downsides.
+ And there's no right or wrong way to use it.
+ Use it in the way that you feel best serves your purposes.
+ I typically don't use it.
+ I do use it other times.
+ Mostly I don't.
+ And that seems to work best for me.
+ I know people who rely on it, and they're also very good coaches, some of them better than me.
+ And that's also okay.
+ Yeah.
+ And I think keep in mind too like it is –
+ It is a second – it is definitely a decent second opinion.
+ However, just don't put all of your eggs into the PMC basket like as a – as in it should not rule your life.
+ I agree.
+ But certainly if you're like, how do I feel?
+ I feel kind of bad.
+ Like is it this or is it that?
+ Is it this other thing?
+ And that is where I think it is pretty –
+ It's pretty useful to give you a deeper dive or a second opinion.
+ Yeah.
+ I agree.
+ All right.
+ So how's that for a wrap-up?
+ Is that all right?
+ Yeah.
+ I like that.
+ All right.
+ Let's open up the gram.
+ Okay.
+ How proprietary are these metrics?
+ Can I do all of this in Excel if I'm nerdy enough?
+ I would say if you're nerdy enough, you could probably do it in like Python.
+ Yeah.
+ You could definitely – I mean you could do it in Excel.
+ But there are – if you just pick up the training and racing of the power meter,
+ I almost said whatever that initialism you said or tarwap or whatever.
+ Tarwap them.
+ Tarwap them.
+ Yeah.
+ If you pick up training and racing of the power meter or honestly,
+ if you just type these – the names into your favorite search engine,
+ a lot of times the formulas come up.
+ So yeah, totally.
+ If you want to with Excel,
+ you could make your own.
+ You're just going to have to – the nice thing about your using of software and things like that is that
+ it does all the calculating for each of the individual rides for you.
+ Like once you have those numbers, it would be bog easy to plug it in.
+ But if you're going to do it all in Excel, you're going to have to load in fit files or whatever
+ and then you're going to have to parse all that power data and then crunch it all yourself.
+ So yeah, certainly possible in Excel.
+ Would I want to do it in Excel?
+ No.
+ Okay.
+ So are all TSS created equal under FTP?
+ No, they're not.
+ And I think especially this kind of thing happens – I think one of the pet peeves I have the most
+ when people are thinking about TSS and endurance riding especially is that a lot of people just ride too hard
+ and increase the intensity of the rides.
+ Kind of arbitrarily or based on what they hope their fitness improvements are rather than feeling it out
+ and letting your legs kind of decide the right amount of intensity.
+ It should never feel hard or grippy doing an endurance ride.
+ So if you gather a couple more TSS by like riding up into let's say 20 or 30 watts over your LT1 as opposed to 10 or 20 watts below it,
+ you can get to approximately the same TSS in nearly the same amount of time.
+ But you're going to have a lot more fatigue riding harder than easier.
+ And so if we're going to – like we said before, if we're going to use the PMC as some kind of actual reflection of our fitness and fatigue,
+ this is one of those drawbacks that really it doesn't get into is that not all TSS are created equal.
+ So if you're going to use it, you're going to have to have a lot of energy.
+ So if you're going to use it, you're going to have to have a lot of energy.
+ So if you're going to use it, you're going to have to have a lot of energy.
+ Yes.
+ Okay.
+ Is one metric more important than the other for recovery purposes?
+ I would say if you're going to use it, yeah, TSB for sure.
+ Yeah.
+ Or number of hours of sleep.
+ That's a good one for recovery.
+ Yeah.
+ If – track your sleep and training peaks, sleep hours and sleep quality and put that over your PMC,
+ which I don't know if you can do it in training peaks.
+ You definitely can in WKO5.
+ So yeah, I would say if you want like a recovery PMC,
+ put all your recovery metrics into one place and see if you can see any patterns.
+ Are there any metrics to use to determine when to switch from base threshold VO2 to race, et cetera?
+ The answer is no.
+ I just do it based on regular old periodization.
+ Yeah.
+ I was going to say you should – first step is to look at when your first race is
+ and then second step is to look at when now is and then start counting.
+ Yeah.
+ The most important metric, if you could pick only one,
+ I would actually say of the ones that we've discussed today, I would say CTL.
+ Oh, how far can your true CTL be if FTP is set incorrectly and what's the worst you've ever seen?
+ In WKO5, CTL is based on set FTP, not measured FTP.
+ So if you have somebody – so like when I load up somebody's data and they have a very high FTP,
+ the default setting is 250.
+ So I can – I've seen CTLs as high as like over 200.
+ Yeah.
+ But that's not real, right?
+ Like there's no way.
+ Yeah.
+ How can we quantify TSS when training off the bike or doing strength work and does it matter?
+ Now, this is actually a good one.
+ This is our last question.
+ So –
+ I would say if you do want to track it,
+ this is something that Annie and I talked about on one of our recent podcasts,
+ which is the very, very basic way of doing tracking training load,
+ which is multiplying your approximate RPE by the duration of the session.
+ So if you go to the gym and you spend an hour and you work really hard and it's like an 8 to a 9 RPE,
+ you now have, let's say, a 9.
+ And now you can track this gym load.
+ And you can add this by – to your PMC by just saying, okay, I'm just going to call this a 90 TSS, something like that.
+ And that's that.
+ You can track it that way.
+ But there's – if you just want to track it alone without the bike stuff, that's another good – that's a good way to do it.
+ You can also track it by total load, by kilojoule.
+ So you can have your pounds or pounds or kilograms lifted.
+ But also you could multiply that by your approximate intensity as well.
+ There is a lot of ways to do it.
+ And actually, people doing CrossFit have Olympic weightlifting and powerlifting.
+ They also do it kind of like this.
+ So yeah, I would say check into those kinds of things because I'm not an expert there.
+ But yeah.
+ Kyle?
+ Yeah.
+ I think there are a few.
+ I don't profess to be an expert on this at all.
+ But I remember a few years ago hearing about, yeah, like weightlifting – Olympic weightlifting and powerlifting coaches looking at coming up with an analog similar to TSS for a strength session and then also getting to use that and then developing something like the PMC and looking at that.
+ But that is a much more – they don't have garments and like head units and stuff.
+ So that is still –
+ Going to be closer to this magical Excel spreadsheet than it is to what we have in training peaks.
+ Yeah.
+ All right.
+ So if anybody has got any questions on all of that, feel free to shoot me an email or DM me on the gram.
+ Subscribe to the podcast.
+ Thanks, everybody.
+ Again, donations at empiricalcycling.com slash donate.
+ Coaching your consultation inquiries, empiricalcycling at gmail.com and, of course, empiricalcycling on Instagram.
+ Weekend Q&As, up in the stories, and also questions during the week when we record podcasts.
+ So give me a follow over there, and we'll see everybody next time.
+ Thanks.
+ Thanks.
+ Thanks.

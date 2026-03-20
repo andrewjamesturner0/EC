@@ -1,0 +1,861 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Cully Moore, and today we are joined by two of our Empirical Cycling coaches, James and Gediminas, and they're coming back on the podcast, and we love having them back, and hopefully you guys enjoy listening to them as I enjoy talking to them.
+ So anyway, before we get started with that, as usual, I want to thank everybody for listening to the podcast, and if you're new here, please consider subscribing, and if you are returning and you love coming back, we love having you back, and if you want to support the podcast, right now it's late summer, getting into early fall, and it's a great time to reach out for comments.
+ We love coaching, so if you're thinking about getting a coach for next year, shoot me an email, empiricalcycling at gmail.com, or head over to the website, and you can kind of read up more on all of that, and the contact link works very well, so you can send me an email there.
+ If you'd also like to support the podcast without signing up for coaching or a consultation, by the way, I forgot, we do those as well.
+ If you want to keep coaching yourself, happy to help you kind of steer the ship yourself, but yeah, if you would like to share the podcast and give us a nice rating or review wherever you listen to podcasts, those always go a long way.
+ And because we're ad-free donations.
+ Also goes a long way, but of course, if you'd rather enlist us for proper services, we would rather have you do that, so feel free to shoot me an email, and if you'd like to follow up on Instagram or ask questions for the podcast or participate in the weekend AMAs that I do over there, go hit me up on Instagram at empiricalcycling.
+ And new for the podcast, we have a submission form up on the website.
+ All the way up at the top of the podcast page, there's a submission form on Google Sheets for questions.
+ And a couple people have used those, and we will be doing entire episodes from those questions because we've got a couple of really good ones, or we'll just kind of roll them into one of our normal Q&A sessions.
+ So thanks, everybody, for all of that.
+ And today, to get right to it, I want to ask you both, why is FTP not great for setting your training zones?
+ There's a lot of history in training zones, right?
+ I mean, James, why don't you get started talking about prescriptive and descriptive?
+ Because we've talked about this a lot in the podcast before.
+ But if somebody's new, I'd like to make sure that we kind of covered some of the background on this.
+ Yeah, so I guess using zones in a prescriptive way would be to say, okay, you input your FTP into a zone calculator, and it gives you a certain range to ride off that number to elicit certain adaptations, or at least that's the sort of plan.
+ But yeah.
+ It doesn't necessarily take into account other aspects of your fitness that could influence those adaptations.
+ And yeah, that can be problematic.
+ And I would even say that your personal physiology has a very big influence on this, too, because as a sprinty boy myself, I broke every training zone the day I started training.
+ I was like, okay, if I'm going to do FTP efforts, or if I'm going to do VAT,
+ if I'm going to do max efforts at 120%, I'm doing these for five minutes, I'm nose-breathing through most of them.
+ And I'm like, I don't know if I'm getting anything out of this.
+ Is it supposed to be max?
+ Should I be breathing hard?
+ Isn't that the point?
+ And so it immediately set me on a path of questioning all of that stuff.
+ So why don't we even take a step back before that?
+ What is FTP really for?
+ What do we use it for?
+ What is its utility in both in terms of assessing fitness?
+ Yeah.
+ Also in terms of anything else?
+ Because I've got a laundry list of things that I like to use FTP for.
+ But get it, Minas.
+ Why don't we start with you on this one?
+ What's it for?
+ Yeah, that's a good question because thinking in terms of day-to-day training or week-to-week training,
+ I think primarily it's really, really good for doing your threshold workouts because,
+ I mean, by definition.
+ Exactly.
+ I was trying to think of a reason, but I mean, just because that's where it is.
+ Yeah, that's, that's by definition.
+ But in thinking about the longer term, it's a good fitness marker to track over time.
+ It's not the only fitness marker to track over time, but it's one of the good ones for sure.
+ I think it's important to remember, even though FTP isn't, there's many things that
+ contribute to your performance.
+ It's still a quite, quite good indicator of some level of success in, in racing.
+ Yeah.
+ I mean, it's, it's like there's nobody, nobody at the Tour de France has a 200 watt FTP.
+ That's probably a good way to think about it.
+ Yeah.
+ A hundred percent.
+ So I also have a couple other things like, so.
+ So doing, you know, setting it for like FTP, like efforts, no brainer.
+ Yeah.
+ Obviously you want to use it for that.
+ And for sweet spot efforts, just set and forget it.
+ 90%.
+ That's my approach works pretty well.
+ Um, other things I, I really like it for are checking your fitness maintenance.
+ Like if you are mid season, uh, like right now, a lot of people are kind of mid late
+ race season, especially here in the Northern hemisphere.
+ Um, you know, if you go out and you're like, Oh, I'm going to do this.
+ If you go out and you do a five minute FTP effort or 10 or 15 minute FTP effort, like
+ those first five minutes, they, they should feel pretty good.
+ Maybe it starts to get a little hard at the end, but it's really a reflection of your
+ fatigue levels that you're carrying from a long race season.
+ Uh, and so that kind of thing I think is super, super, super useful.
+ Yeah.
+ Likewise.
+ If you think you're not, not just the duration of how, how long that effort feels comfortable
+ for, but the, the actual, the number itself.
+ Yeah.
+ If it feels like it's, it's going up or it's, it was going down, that, that can definitely
+ tell you, uh, something about how your training is going or maybe how, how tired you are.
+ Yeah.
+ Like when I was coaching you, I mean, at a certain point, I didn't even give you a number
+ for FTP efforts.
+ I was like, go give me a two by 20 or four by 15 or something like that.
+ And you were like, cool.
+ I don't, I know the drill.
+ I know exactly where this is.
+ Yeah.
+ I think it's, it's a, it's a nice place to get to.
+ If you can just know how that.
+ That, that sensation feels, I think anyone who's been training for, with a power meter
+ and has kind of spent some longer time at that power duration, you get a pretty good,
+ good feel for, for, for where the limit is, what, what feels comfortable and, and what
+ is, what is going to become quite uncomfortable relatively quickly.
+ Uh, so I think, yeah, always being a little bit conservative.
+ Um, but yeah, learning, learning how to ride off feel is probably.
+ A good thing, not just for your training quality during those sessions, but, uh, kind of see
+ how your fitness is, is changing at least at that intensity, uh, over time, because
+ if you're a slave to a certain number, then, you know, you might not, you might not push
+ yourself hard enough sometimes.
+ Uh, and likewise, you could be going a bit too hard, uh, other times.
+ So yeah, it's, um.
+ That's worth thinking about.
+ And I think, uh, being able to ride, uh, at the threshold by feel is a very good goal
+ for pretty much everyone, well, everyone.
+ And it's not as hard as it sounds.
+ I mean, it might take a year, maybe less, but definitely a few months because you need
+ to get it wrong.
+ You need to underestimate it.
+ You need to overestimate it, calibrate over time, but it's a very valuable skill, not
+ only.
+ In training, but in racing, because I mean, if you are climbing, uh, uh, uh, you know,
+ um, in a breakaway, whatever, you're not going to be staring, uh, and at the garment and
+ pressing lap button, uh, you need to know what it feels like to ride a threshold.
+ Yeah.
+ Okay.
+ So we've got fitness assessment, freshness assessment, and pacing.
+ I think that that's a pretty solid laundry list.
+ And also like, you know.
+ threshold efforts and sweet spot. Like that's what FTP is for. And we could probably dig a lot more
+ into this. Um, but you know, I think one of the things, uh, for people listening, uh, one of the
+ reasons that this, uh, podcast is being done is because we had all kind of noticed that one of
+ the most common things that we see on a lot of forums and we hear people talking about is you
+ don't have to get a perfect FTP assessment because it's just used to set your training
+ zones. And as you go and train and things, you do some harder efforts, do some easier efforts,
+ and you can adjust your FTP based on those efforts. And I have a little problem with that,
+ just a small one. Um, and so I really wanted to dig into kind of maybe the origin of how that
+ started to, um, and then, you know, alternatives, like,
+ how do we actually approach this? Cause I don't want it. I want this to be constructive at the
+ end of the day, of course. Uh, so, um, so I think, you know, for setting training zones, like
+ in a way, I, I think I said this one or two episodes ago. I like, I very much sympathize
+ with Andy Coggan, uh, because when you put something out into the world and you expect
+ people to keep doing a certain thing instead of, you know, the new,
+ you know, the new kind of thing becoming the goal itself. So like, you know, like I was talking
+ about with VO2max intervals earlier, like when I'm doing five minute efforts at 120%, I'm like,
+ yeah, this ain't shit. Like I thought VO2max had hands like this, I could do this all day.
+ Um, and, and so like to, you know, to like Coggan zones and stuff like the, the art of like,
+ well, sorry, way to put this, the art of,
+ knowing what workout, the workout stimulus is like, and how to go about it is, is slash was not
+ sort of a lost art. Would you say? Um, it's like, uh, Rory and I did a podcast a couple of months
+ ago about practical proxies for stimulus. We're actually that like, this is basically the entire
+ episode was talking about that. Um, so when it comes to setting your training zones, like people
+ vary over threshold quite a lot, you know, like I started with a 200, I don't know,
+ 20 watt threshold, thousand watt sprint. And for a minute I could probably do
+ five 50, 600 Watts for VO twos. I was probably doing on a 200 something watt threshold. I was
+ probably doing, I don't know, 200 something watt threshold. I was probably doing, I don't know,
+ doing five minute efforts, like in the low mid three hundreds. And so I was like different than
+ what I expected based on the training zones. And I, it was confusing to me, like I said,
+ so other than my, you know, my, I guess that was my training puberty. We could call it.
+ Um, so that's one of the big reasons that I think that, you know, using,
+ you know, your FTP to set your training zones, like as a,
+ as a percentage is an issue. It's a bigger issue above threshold. It's a little issue
+ below threshold that we'll talk about, but I wanted to ask you guys about this, like
+ for over threshold stuff, what's been your experience with like talking to people and
+ coaching people, um, who will like, you know, go, Oh, should I just do this percentage of FTP
+ or whatnot? Like, isn't this just to set my training zones? Um, and I think even with FTP
+ itself, if you get your FTP wrong in the low side, that's really, that's not that bad. Like it, you
+ know, you'll go, this is too easy to bring it up a little bit, but if you get it wrong on the high
+ side, you're going to be like, man, my four minute FTP efforts like are hard and that should
+ absolutely not be the case. Right. Um, so, all right. Who wants to take a crack at this one
+ first? Yeah, I can do it. Uh, yeah, it happens a lot when, uh, onboarding new clients and I see
+ that quite a bit in the wild when just, you know, looking what friends and people I know are doing on
+ this travel, but so, uh, the workout, the workout title then, and the actual workout, they don't
+ match at all. Like four by four minute FTP intervals, uh, six by six minutes FTP intervals,
+ uh, uh, the FTP block and then get two by 20 minutes. Uh, I mean, that's the starting point.
+ That's not, that's not the goal. Uh, so.
+ It's, it's really annoying. And, uh, for the person, you know, on the other side for the
+ clients or for whoever, uh, uh, to have an real learn, like what does FTP actually mean? What
+ does doing FTP effort mean? And, uh, so on. So yeah, it happens a lot. And, uh, when I, uh,
+ onboard people who are coming from some, um, app, uh, training platform, uh,
+ so I often see the same pattern where they do, uh, they do very similar workouts to what you
+ call it just described like, uh, 30, 30 set fixed percentage and looking at the heart rate, the,
+ uh, the shape of the heart rate doesn't look that hard. And you're like, yeah, you like looking at
+ the heart rate, this should have been like 20 BPM higher than it is by the end of this set. Yeah.
+ Um, like somebody like me started to do that stuff. I'd be like,
+ I'd be falling asleep. Like, is this a workout yet?
+ Or even when you get like BOT max interval set off a certain percentage of your threshold,
+ I think like a good set of BOT max intervals, if you are close to BOT max in each one, you might
+ lose power over the, uh, over the workout, but that's not something that a prescriptive,
+ I've, I've, I've not, I've not seen, uh, workouts based off your FTP, which, which actually does
+ that sort of reduction is, is big brain in that stuff. Because also, because then it's predictive
+ too. Yeah. And also that's going to be, that's going to be too hard to predict that, you know,
+ the amount of drop off will depend on various factors, the amount of anaerobic capacity someone
+ has, maybe their, their glycogen stores, their fatigue. Yeah. Like is this the second workout
+ of a double? Yeah. Just the things that your FTP as a number,
+ even if it is accurate, let's assume that can't predict. So, um, yeah,
+ doing intervals over threshold off that number as a prescription has, has problems. Yeah.
+ Yeah. And I, I think that there are certainly different approaches where like, I've,
+ I've certainly got a lot of clients who want a target number to hit for, to, to shoot for,
+ to hit. And, and it's, it's a very different approach, you know, instead of me just saying,
+ five by five, uh, you know, at like a hundred to 110 RPM and just, you know, rest as needed,
+ send it, uh, which works well for, I'd say half ish of my roster. I like for another,
+ yeah, like 25, 30%, you know, a lot of people want like, okay, give me a target so I can hit
+ the target. And I, and I'm like, well, if you can go max, you go less intervals. If you go sub max,
+ I want you to do a couple more. And so, you know, we'll go for like six by five,
+ five at a more fixed target. And I'll even like have people go, all right, we're going to sneak
+ up. But at some point I want this to be about as hard as you feel like you can go. And so once we
+ go through one or two workouts like that, instead of basing it off a percentage of FTP, now we've
+ got like, here's your actual performance of what you can do for the specific workout. And now we
+ can start saying, I want you to do a little more time or a couple more Watts as you go. And that's
+ a perfectly valid way to do all of these efforts as well.
+ What I usually do for VO2max workouts, I give people a power target for the first one. Well,
+ when they are doing VO2max workouts for the first time ever, because it's useful to have something
+ to aim for. So for example, I say, do the first try to do the first interval at 300 to 320 Watts.
+ And for the remaining four, try to maintain as much as you can. And I base the target for the
+ first interval at 300 to 320 Watts. And for the remaining four, try to maintain as much as you
+ on the power curve, uh, assuming that they have some hard efforts in that range.
+ Um, so it's, it works for most people after a couple of workouts, most people get, you
+ know, where it should feel like, um, and a lot of it's like pacing related to, it's just
+ kind of getting the, getting the pacing down.
+ Like, um, and like, I've, I've recently started to do a couple harder workouts on the bike,
+ mostly just for health and cause I, they're fun and I, I feel better after I do them.
+ And like, it's, it's weird, like retraining yourself cause you, you know what it should
+ feel like, but your legs don't want to do it.
+ Like, um, like my first two minute efforts a couple of weeks ago, a couple of months
+ ago now, like if I like it, like I could barely crack out 250 Watts and now I'm doing
+ like five minutes at like well past 300.
+ Um, but at first I was like, I know I can push harder than that.
+ This, my legs aren't there.
+ This is not, I couldn't even get to VO two max, like physiologically, I could just feel
+ I was not even close.
+ Um, and so, yeah, like there's, and so especially when you are coming in from the off season
+ or you're super detrained like me, or you are not used to the pacing and you're just
+ used to erg mode, especially, uh, there's an episode a couple of years ago about how
+ erg mode irks me.
+ Um, uh, you know what we should have, I should just go back and retell that erk mode.
+ Sorry.
+ Uh, James, go ahead.
+ Yeah.
+ I mean, something else you mentioned there, like not just your changing fitness, but other
+ variables that are changing, like environmental conditions, heat, altitude, things like that.
+ If you're doing VO two max intervals off, uh, a certain power range, um, I mean, to
+ a certain extent, even, even your, your, your threshold then, uh, might be me be changing.
+ So you need to adapt according to that, but it basically, those things can affect the
+ power prescriptions for certain workouts.
+ Um, that's something that basing your, your intervals off, uh, just a percentage, straight
+ percentage of your sea level, ambient temperature, uh, FTP won't, won't account for.
+ And yeah, kind of good.
+ Often it's kind of good luck being able to be that precise to adjust for those things.
+ So knowing how a workout should feel and understanding, um, yeah, kind of the goal of the workout a
+ bit more, uh, can help.
+ You adapt a lot better to, um, getting the adaptations you want from that rather than
+ just trying to hold a certain, you know, just turn the, turn your brain off and just hold
+ a certain number on the, on the head unit.
+ Yeah, no, yeah, you're, you're absolutely right.
+ And I think that, especially for folks who live at altitude, like, I think we all coach
+ people who live at like, you know, you know, 1500, 2000 meters and can ride up very infrequently.
+ Can they ride down easily, but usually they can ride up a lot.
+ And, you know, when you give somebody,
+ like a, uh, like a sweet spot effort, okay, we're going to go two by X, your favorite
+ mountain, uh, right up and down twice.
+ And, you know, we'll do some over-unders, you know, as you go up, the air gets thinner,
+ the pressure gradient gets, you know, the, uh, the pressure outside the O2 pressure drops
+ and your muscles get less oxygen.
+ Your threshold is effectively dropping as you go up and people who live at altitude,
+ like, I think in a lot of ways.
+ Um, no instinctively to kind of go by feel or like heart rate even is probably a better
+ indicator than anything else as you're going up.
+ Well, I, I still just keep it to RPE and I've got a couple of folks who live at altitude
+ I've been coaching for years and you know, they, they know if I'm going to go do this
+ mountain, I'm going to start at this power and I know where to start and it's going to
+ feel different as I go up and I'm going to have to just obey that feel.
+ Um, and so, yeah, like that's a big environmental condition, like heat, heat's a huge one.
+ It's going to follow up on heat training these days and for good reason, because it mitigates
+ the influence of that environmental condition, not entirely, obviously, uh, it can still
+ definitely affect you, but it can make it much more tolerable for sure.
+ So another thing to consider also with training zones and adaptation is your other threshold,
+ the lower threshold, the lesser threshold, uh, so, um.
+ James, I see you've got some big thoughts on this, why don't you go ahead and rip into
+ it?
+ Yeah, I guess it's, um, something that's a little bit less talked about because it's
+ not so easy to, to calculate or work out, um, certainly from a, a welfare power curve
+ model.
+ It's relatively easy to, uh, uh, and, uh, your, your own sensations, as we discussed,
+ it's easy to, um, work out what is a fairly accurate FTP.
+ Uh, for you, uh, but your first, uh, kind of threshold, your first lactate or ventrogyny
+ threshold, um, is a lot less, um, easy to work out, uh, and to a certain extent, I wouldn't
+ ever want someone to do, uh, a sort of lactate, yeah, to see how long they could, they could
+ ride there.
+ Although I know ultra, ultra riders, um, do go in for that sort of thing sometimes.
+ Um, but really, yeah, it's, um, yeah.
+ Yeah.
+ So, um, it's kind of the top, uh, of your endurance pace really.
+ Uh, yeah, it, it like the, the basic kind of three zone model, you usually see this
+ overlaid with like a lactate curve, uh, which is not my favorite way to do it.
+ And we can maybe talk about that, but, um, yeah, it's like kind of the zone one, like
+ that zone one zone two transition, or if you're going to talk about exercise intensity domains,
+ uh, which I've got minor quibbles with the definitional stuff there, but they're pretty
+ good generally speaking.
+ But the, the moderate to heavy.
+ Uh, uh, uh, threshold is what we're talking about.
+ Yeah.
+ And it's the sort of pace where you're a sort of threshold you go when you, when you go
+ over your, you'll start producing a lot more lactate and you'll, you'll know as well.
+ Yeah.
+ A little more lactate.
+ RPE definitely decouples.
+ I think that's the biggest one that I noticed.
+ Yeah.
+ You notice that it starts getting harder and you might have to concentrate a bit more to
+ hold that pace.
+ Um, and yeah.
+ You, you, you might be breathing a little harder.
+ Yeah.
+ Yeah.
+ You might be breathing a little bit harder as well.
+ Yeah.
+ Let's talk about range here because, um, I, with some genetic freak type exceptions, the
+ range of where your first threshold is relative to your FTP is quite large.
+ Uh, I've seen it as low as like 45, 50%.
+ And I've seen it as high as like 85%.
+ Uh, and so get to me, this is laughing right now.
+ It's like, that's ridiculous.
+ It is ridiculous.
+ James.
+ I don't know how ridiculous it is to have your first threshold that high.
+ Yeah.
+ I, I, I don't know about, I don't know about that, but I think, um, it's worth bearing
+ in mind that your first threshold, if, if your FTP goes up, uh, and it goes up considerably,
+ there's a good chance your first threshold may go up as well, but cause it is, it always
+ caps by that second threshold.
+ Um, but the first threshold, uh, can go up or down without the, the second threshold,
+ without your FTP changing.
+ So it's, um, yeah, not something that's totally captured just by your FTP.
+ Um,
+ Yeah.
+ And there's very little data on this, but, but in our, my, in my coaching experience
+ anyway, I, I, then, you know, you are one of those data points, James is that, um, volume
+ seems a very large contributor to having this threshold go up.
+ Yeah.
+ But volume training, status, training age, uh, things like that, uh, play and play a
+ role in, in developing someone's first threshold.
+ So yeah, it's, it's something that you should be looking to grow over time and, um, yeah,
+ it's, it's actually a, a pretty massive, uh, I don't know about predictor, but it's, yeah,
+ it plays a massive role in, in endurance race performance.
+ Yeah.
+ I think, I think one of the things a lot of people think about is, okay, if my FTP goes
+ up, then let's say my FTP.
+ My FTP is 300 Watts, but I'm spending a lot of time at 330.
+ And now if I get my FTP up to 330, like that's going to be a threshold and that's, you know,
+ I can do way more time at threshold than above it, you know, in total during a race.
+ That's great.
+ But I think folks forget about the other side, like for a two hour race, it's not a, you
+ know, it'll be a big predictor, but it's not like a massive one.
+ Um, but you know, as the races get longer, definitely like definitely get longer than
+ a crit, it starts to become a bigger factor in your performance.
+ Yeah.
+ So I think that's a, a, an underappreciated aspect of, of endurance performance.
+ And that change in your first threshold won't be a big one.
+ It goes from legitimately easy to like easy it enough, you know?
+ So I think that's a, uh, an underappreciated aspect of, uh, of endurance performance.
+ And that change in your first threshold won't be reflected in the change in that won't be
+ reflected by a change in your training zones, unless you physically go in and alter those.
+ So I think it's, yeah, it's, although you might be spending, if your first threshold
+ goes up, you might be spending more time in a zone in, in, as in the 30s.
+ Uh, in the, in a zone three and like a six or seven zone model.
+ Uh, but does that mean that you're actually over your first lactate threshold?
+ Uh, maybe not.
+ Does it mean that you are expending a lot more, burning more matches say in a race,
+ um, or, or in a, in a training ride?
+ Not necessarily.
+ Uh, so yeah, it's something that can be a little more complicated with, with training
+ zones.
+ that number changes. Yeah. And I think, I think the biggest pain in the ass with this really is
+ that there's no, um, there's no real easy way to pick out your first threshold on a power curve.
+ It all looks the same. Um, you know, once we get to like fresh, like FTP and above, it's super easy
+ to pinpoint, you know, inflections in that power curve. But otherwise, you know, if we're looking
+ below it, you know, people vary less below threshold than above for sure. Um, but it's not
+ like they don't vary at all. Uh, so, you know, so like riding at 70% of FTP for me is way different
+ than riding at 70% FTP for these other two dudes here who ride a lot more than I do. Uh, to get
+ to meet us, uh, how's your experience on this? Uh, yeah. Uh, I looked into Zwift for the first
+ time in years and, uh, I saw the workouts I built for myself and I was just brand new and I had
+ two intervals, like 10 by five minutes at 75% because I wanted to maximize my gains by staying
+ at 75%, but I couldn't try for more than like an hour. So yeah, that, yeah, I have personal
+ experience with that. It was really funny to look back, uh, after many years of the kind of
+ stupid stuff I was doing. Um, but yeah, I totally agree. Um, I, it's much harder to pick,
+ I was looking at the power curve and one interesting thing that I tried with a few
+ clients and I tried with myself is to a Ram test, uh, like 10 minutes, uh, 10 minute stages,
+ increasing power by 10 watts. Uh, and yeah, I would call that as a step test, a step test,
+ but yeah, yeah, I get the point. Yeah. Uh, and if you have reasons,
+ you can definitely feel that decoupling effect where, uh, what I tell people is put on a more
+ technical empirical cycling episode and try to follow along until you can't, but like,
+ don't take it too technical one, because for some episodes, I just can't, I don't have the
+ background to follow them along when resting. So, but you get the idea. I can't tell if I
+ should be flattered or insulted. Uh, flattered. You're smarter than me. I don't know about that.
+ Uh, James, go ahead. But yeah, kind of going, touching on the point about doing
+ zone two work, something that I see a lot more common these days after, um, sort of, I guess
+ explosion. Yeah. The zone. Yeah. The zone two explosion we might call it, uh, is people
+ calculating the getting as a zone to offer, offer FTP model, and then just trying to set
+ rate like I see in running and other sports. Yeah. And just trying to spend as much time in
+ there as they can during a ride. And people are afraid to, you know, if any time is spent in zone
+ one, it's going to be, uh, you know, that that's not doing, but that's not a good endurance ride
+ or any time spent in zone three is the, is the devil as well. And I don't think, uh, especially
+ depending on where someone's, um, first threshold is, that is a particularly useful way to go
+ about endurance riding or, um, yeah, but basically you're training off that, that zone,
+ especially if you haven't had, um, a good way to, to verify where that, that first threshold is.
+ I guess there's one other thing to touch on, which is like anaerobic capacity and sprint
+ efforts and stuff like that. Cause I think, um, I think in some ways just like smashing yourself
+ silly is, is more relegated to group rides and like less in my understanding from what I see folks
+ doing. Cause you know, most of the interactions I have are with the people we coach and people
+ like insult with and, uh, uh, and some forum time and whatnot, and just like hanging out with people
+ at bike races. Um, but it, it seems like not everybody wants to just go out and smash a bunch
+ of Hills. Uh, you know, one minute smash Hill do six times, vomit in a bush. Um, try another one
+ and realize your legs are toast, then go home. And, um, I think that's, I think that's, I think
+ it's, I think it's, I think it's a, it's a, it's a, it's a, it's a, it's a, it's a, it's a, it's a,
+ you know, a typical training day for a sprinter. Uh, so I mean, this is where like the numbers get
+ ridiculous in terms of training zones. Um, because you know, at my, at my sprintiest and my,
+ at my peak sprint form, I was cracking out over 2,100 Watts for, for peak regularly. And my,
+ uh, 30 second power or something like, I don't know, like 1,200 Watts. I didn't test it that
+ often, but it was around there. Um, I think 15 seconds was 1750 ish. Um, yeah, James was like,
+ yeah, not bad. That's all right. Um, acceptable, especially at like a hundred kilos or something
+ like that. Like I was, um, but, um, but like as a percentage of FTP, like my realistic FTP at those
+ at that time was like 200 Watts.
+ And, you know, if I can do like eight, 900 Watts for a minute, like regularly, like, like, you know,
+ four, okay, now go do a one minute for a 400% FTP. I mean, like this, this is where it really
+ gets ridiculous. Um, and, and the other thing is that like, if you go listen to that, uh, practical
+ proxies for stimulus episode, um, you know, as you, as we get to things like anaerobic capacity, even
+ like the, one of the things that I use as a guide for anaerobic capacity is just like, can your legs
+ move if they can't, they can, if you feel like you're pressing a hundred percent on the pedals
+ and the power meter is like telling you that you, you are not pressing a hundred percent on the
+ pedals, but it feels like it, like that's where you, the magic happens for like anaerobic capacity
+ and a power meters, not really going to tell you that in a lot of ways, it's the horrible feeling
+ your legs is going to tell you better.
+ And so like, you know, if I go out and do a five minute set of 30 thirties,
+ if I do that at a fixed percentage of FTP, um, it's, what's the right way to say this? Um, it's,
+ it's hard to predict where at the end of five minutes of that five reps of 30 seconds with 30
+ second rest, it's hard to predict where I'm going to get the optimal. My legs are dying right at the
+ end. And another question is like, how far into this efforts, like these efforts, should they be
+ dying? Like, is it a little better stimulus if they're kind of dying on rep three, really dying
+ on rep four. And I barely squeak out rep five, you know, if we think of the like kind of, you know,
+ empty legs, pushing rope kind of thing. If you're at, if you start at like the last five seconds of
+ third rep last 10 seconds of the fourth rep, and then the last like 15 seconds of the fifth rep,
+ is that better? I don't know.
+ But is it effective? Hell yeah, it's effective.
+ And yeah, especially when you start getting into those short duration efforts.
+ Do you have the headspace and time even to, to look at your, your power meter? It's probably
+ more, it's a lot, it's a lot more useful as a analytical tool afterwards to see,
+ Oh, actually did I do big numbers or was I just chewing the stem for, for, for no PBs? Um, and
+ yeah, trying to ride those sort of efforts to a sort of power target. Uh, yeah, most of the time,
+ not necessarily all the time, but I would say you're, you're probably not going hard enough.
+ Yeah, I agree. Um, so let's see. Um, yeah, I think that that's where, even though the advent
+ of the eye levels with WKO four seemed to be a, a big step up. And I, and I genuinely think that
+ they were, uh, I think that they were a big step up. I think that they were a big step up. I think
+ that they were a big step up. I think that they were a big step up. I think that they were a big step
+ up. I think that they were a big step up. I think that they were a big step up. I think that they were a big step up.
+ I actually did a WKO five webinar, uh, cause I used to be on the development team and, uh, Tim
+ Cusick, the product leader had me do a bunch of webinars and, and, you know, yada, yada and things
+ behind the scenes. And that was all awesome. I, I miss, I miss that working environment. That was
+ really fun. Um, and I think we did a lot of really good work. Um, and if you go back to that webinar,
+ maybe I'll link it in the show notes, uh, or if you just go on YouTube and search WKO five, uh,
+ C, I think it'll probably come up. Um, one of the things that I did in that, uh, uh, webinars,
+ if I recall correctly, it's been a long time since I've seen it. I think other people have
+ seen it more times recently than I have. Um, I put up the eye levels, uh, um, and there's,
+ oh, there's an optimized intervals chart in there. Uh, I was not involved in that chart,
+ but I thought it was useful in one way, which is, it was like looking at sprints and,
+ and like anaerobic efforts, like short ones and long ones and things like that.
+ I remember in that webinar, I crossed out the Watts because if you're sprinting and your target
+ is like 750 to 910 Watts, could you realistically look down at your power meter when you're doing
+ that and go, okay, I'm in the right range. So I crossed it out and I said, look at the time ranges.
+ These are better for time ranges and just go max. Uh, and so it's, it's pretty basic for sprints. I
+ don't know if people get that intuitively, but if you were wondering, I feel like this is a much
+ better approach. Um, so how, how do you, how do you guys approach this kind of stuff?
+ Look where you're going when you're sprinting kids.
+ Also that. Okay. So I think James thinks I nailed it. All right. Get a meanest. What do you got?
+ Yeah, totally agree. And I think the only time I see people trying to do these short efforts
+ at fixed power targets is, uh, and doing them indoors in Eric mode.
+ So first don't do 30 second effort in Eric mode because your trainer will take like 15 seconds
+ to change the resistance level. Uh, but yeah, totally agree.
+ Yeah. Okay. So we've kind of touched on the alternatives a little bit here and there. Um,
+ you know, we talked about VO two max efforts. I talked about kind of going max and,
+ you know, picking a power target and kind of having a, uh, like an iterative
+ way to set targets, uh, for those folks who want that kind of stuff. Um,
+ but like in general, you know, the alternative, I think, I think there's upsides and actually
+ there are genuine downsides. Um, I think the upsides, the big upside is that the quality
+ of training gets a lot better. Like when you set out to do a type of effort, you can be fairly
+ certain you're going to get the right stimulus. And again, go check out that practical proxies
+ for stimulus episode. Uh, I never thought I'd reference it so much, but, uh, here we are. Um,
+ I think there's the, the, the real big downside is that it takes time and it takes effort and
+ you can certainly be wrong. Like if you think, you know, where that first threshold is,
+ maybe you don't, it's, it's really, it can be really hard for a lot of people to pick that out,
+ even experienced people. And, and something else is that if you're just training off zones and
+ off, off, off an FTP value, even if you are adjusting that FTP value in order with your FTP
+ changes, basing these work, basing your workouts off, um, other factors will mean that it's not
+ just your FTP changes that you need to take into account when looking at power targets for certain
+ intervals, you know, other, how your first threshold changes, how your, um, yeah, how your P max
+ and your, your FRC change that they, and maybe your endurance as well. All these things can
+ influence how you might pace a certain set of intervals or a ride. So yeah, it's not so neat
+ and easy as just plugging in a number and one single number and playing with some zones that
+ you get out, but the quality of training that you can get is a lot higher.
+ Yeah. And I think that, um, that for all the folks in the forums who say that that kind of
+ stuff works well for them, I don't think that they're, I don't think that they're like,
+ I don't think they're lying about that. I think they're being really genuine. Um, but anecdotes
+ hold a lot more weight for a lot of people for a lot from almost everybody. Well, okay. Everybody
+ we're human, right? And we want stories. We want structures. Like it's, they, they, they sink in
+ our brains better than data. Um, and you know, retraining yourself to think more about data is
+ very difficult. And, and, you know, for people who look at a lot of data like me, like it's,
+ it is genuinely still very difficult. So I think that it can,
+ it can be, um, it could be a little tantalizing, like, oh man, if I just do what that guy does,
+ I'm going to get as fast as him or, uh, or, oh, she's got a great approach. Like,
+ okay, cool. I'm just going to copy what she's doing and I'm going to be as fast as her.
+ And like, theoretically, if, if, if everyone trained off training zones, um, and the,
+ the people who got the fittest would have come from confirmation bias, they'd say, oh,
+ yeah, training off these zones. So good. Like it really worked for me. And for some people,
+ um, those zones might be Bob on for certain kinds of intervals, but what we're trying to say is
+ individualization is key. So I do think actually that's one of the advantages of working with
+ coaches like us is that we have a lot of back and forth with our athletes. Uh, you know,
+ a lot of comments, a lot of individualization and like, and you know,
+ individualization goes more beyond just, okay, we know that we can't really use like certain
+ percentages of FTP to assign intervals. Uh, but you know, it goes way beyond that. But
+ you know, if you are wondering what is, what are the values of a coach? Like this is a really good
+ value of a coach to help you kind of dial in how does via to max feel? How does interoperability
+ feel like, and when to do these kinds of things and when it all makes sense and like how to get
+ to a race feeling pretty fit.
+ Um, and it makes, yeah, as coaches, we're, we, we want you to know how to execute a workout. Well,
+ we want you to know, um, how to touch, create a stimulus that will help you make you make you
+ fitter. Um, yeah, make most of your time. And, and, and not only that, but like, how do you,
+ how do you exceed your workout expectations? Should you do more? Should you do more power?
+ And I was gonna say, it does make our life
+ a lot easier to want someone kind of gets that point. And like Cody was saying, um, some of the
+ training he set me in the past is just, yeah, really like, you know, I get like a line, a couple
+ words, uh, on a page because yeah, or just hour or yeah, it's sometimes it would just be FTP stuff
+ or like, you know, it gets to a point where we both knew we're, we're in communication
+ outside of training peaks as well. We both know kind of what I'm looking for in this
+ kind of phase of training and what the stimulus should look like. He doesn't need to spell it out
+ or make it too prescriptive. If anything, he knows that me having some freedom to
+ execute that workout with the roads and the, the riding I have planned or, or maybe not planned,
+ uh, is it's going to be great. So yeah, we, we are, I think what I'm trying to say is that
+ we're keen to help our athletes get to a point where training is very simple, a lot more simple
+ than yeah. Percentages and zones. Yeah. And then I think that gets to, for me, what is like
+ one of the best parts about coaching is not just like making sure that the workouts are going well
+ and somebody is getting more fit as we go. It also becomes more about the decisions that you
+ make, like the big picture decisions of like, how do we structure this year? Uh, what's the best way
+ to change the training plan for the new goals that we have? Um, you know,
+ like what's the best way to approach this phase? If somebody like wants to lose a little weight,
+ uh, how do we approach that? Or, um, you know, how do we incorporate strength training? If
+ somebody needs strength training or if somebody is injured, but how do we bring them back from
+ that based on their kind of stuff? Like, like, you know, like the steering the ship kind of stuff
+ is, you know, I think some of the best value of coaches and I, I, sorry, I'm sounding too salesy
+ again, but I think, um, I think that this is kind of beyond the point of what we were talking about.
+ You know, if somebody was wondering like, Oh, a coach is really just to individualize your,
+ your power targets. Like I'm just saying that it's way beyond that.
+ Yeah. Once you, once you let someone, once you've taught someone how to train or maybe they've got
+ themselves, you can focus on the real stuff that's holding them back, not how to execute a ride per
+ se. It just, you know, like, okay, why am I feeling unusually tired at this point in the year? Or
+ how am I better? Yeah.
+ Maybe it's more tactical things or there's, there's way more stuff that our brains as coaches
+ can be used for, uh, better than, than trying to explain certain workouts. Although of course,
+ for some, for everyone at some point, you know, those things are all necessary, but
+ yeah, I think, I think in a lot of ways I think about it, uh, like, um, reducing variables,
+ like if somebody's having trouble getting more fit, uh, but they're having trouble executing
+ workouts. Well, you know,
+ we're going to dive right into that. That's going to be priority number one. Um, or if somebody's
+ like not sleeping well, okay, we're going to give you a bunch of strategies to try for that. Or if,
+ you know, we need to tweak the nutrition, we know who to talk to for that. Uh, like there's a long
+ laundry list of things that we can approach, but like, you know, as we nail each one, it's like,
+ okay, now we are really getting into the weeds of, of like minor differences. And, and usually at
+ that point, people are, have gotten much, much more fit. Uh, so then we're just looking at like
+ martial arts. Uh, and then we're just looking at like, you know, like, you know, like, you know,
+ stuff and long-term kind of considerations. But anyway, um, so yeah, FTP, not just for setting
+ training zones. Uh, in fact, training zones, um, can be useful, but they can also, I think in some
+ ways I, this is an uncharitable way to phrase this. And I, but I mean this with good intentions,
+ like it can hold you back to like, not everybody, obviously, but if it were somebody like me, um,
+ I remember,
+ I had gotten a set of like VO twos from, uh, from one of my early coaches and he was like, yeah,
+ go do these at your like 20 minute power. I'm like, uh, okay. And then I had two minute efforts
+ and he was like, do these at your five minute power. And I'm like, why? I thought I was trying
+ to get better. He's like, well, if you don't smash yourself silly, you've got all of your
+ watts available for race day. You'll be more fresh. And I'm like, I don't want to be fresh
+ right now. I want to get more fit. Like if I don't,
+ push myself, how am I supposed to get more fit? And there's like, you know, a handful of people
+ out there who can get more fit by not smashing themselves. And they're usually the exception
+ rather than the rule. I coach a handful of those people and they are, we are all jealous that we
+ are not them. Let's put it that way. Um, but there's a difference between working with them
+ and working with somebody perfectly average like me. Um, so, all right. Listener question. Number
+ three, what is an effective dose when starting with intervals or as higher better? Uh, I want to kick
+ this to you guys first because I love having a couple of coaches on the podcast because we all
+ interpret a question a little bit differently. So I've already got my answer in my head, but, um,
+ which one of you guys wants to take a crack at this first?
+ I'm going to say most of the time, I'm an effective dose is good. Uh, I think it depends a bit on
+ the, yeah, what you've got coming up, maybe the bit, the bigger picture stuff. Um, if you're,
+ for example, if someone's well-trained and they're on a get fit quick plan,
+ they've got a race coming up. Maybe you don't want to go for the bare minimum. Maybe you want
+ to push them a little bit more, um, but without going overboard too. Yeah. Delicate balance.
+ Yeah. But like there's, I'd say if you were on a slower build of training and for most,
+ most people, most of the time, if you've, yeah, minimum effective dose is probably a good place
+ to be or not too much further over that. But there's a time when you might want to be a bit
+ more aggressive with your, um, kind of loading. Yeah. Yeah, I totally agree. I think it all
+ depends on the context, um, because there is time and you want to do the minimum effective dose and
+ there's time and you can just go overboard, possibly overboard. Uh,
+ my favorite example of minimum effective dose is when I started working with a new client.
+ Um, he reached out to us about eight weeks before his A-race and things were going.
+ That's a tough timeline.
+ That's tough timeline. Yeah. Things were going not terrible, but not great. And that was real
+ example of doing the real minimum effective dose because based on the training history, it was
+ very clear that there are easier gains available because they did VO2 max efforts at fixed
+ percentage. That's, that's, that's real example. I'm not making this up. So, um, yeah, we did very
+ little, but we didn't do any extensive works as a little bit of VO2 max work, a bit of threshold
+ work and they saw the gains, uh, and worked out. Okay. Um, so that was,
+ that was pretty good example of minimum effective dose when you have such a tight timeline.
+ I guess at the other end of the scale, you've got kind of like your maximum
+ recoverable volume and yeah. Where you want to.
+ Yeah. More volume or like volume of intervals, like dose we can call it.
+ Yeah. Maximum, maximum dose, I guess that you can.
+ Yeah. Like how many VO2 max intervals can you recover from in a week? Realistically? It's like,
+ uh, but also when it comes to,
+ to your minimum effective dose, that is quite a hard thing. Is that an effective dose to maintain
+ or is it an effective dose to build fitness? And those things are going to be impossible to
+ quantify exactly. So sometimes you might want to go, if you've got the fatigue budget and the
+ timeline, you might think actually, yeah, we could do a little bit less, but I think it's fine to do,
+ you know, a couple more intervals or do another day this week of a certain thing. Um, I don't think
+ it's, yeah, I guess that's just going back to the question. Do you always need to be an effective
+ dose? Uh, no. And sometimes like, how do you quantify that? And sometimes it's okay to do
+ more. Sorry. Does it depend? Is that the answer? Um, which was going to be my answer, of course,
+ but of course, because we want to dig into what, what it depends on and why, um, I'd say the,
+ yeah, the first thing,
+ like you said, uh, actually for me, it was going to be the second thing was going to be,
+ what is your goal here? Like what time of year are you building? Are you maintaining,
+ uh, are you just getting started again? Are we on a short build? Like,
+ do we have not much timeline to get fit? Um, or is it like, uh, um,
+ well, well, my first point to, before I forget it was what kind of intervals are we talking about?
+ And if we're talking about like threshold intervals, um, yeah, like if we're starting
+ a pretty typical build, uh, you know, like we're starting really focused intervals starting in like
+ maybe November, December ish, depending on when somebody's a races, um, you know, I don't want
+ them hitting the maximum. And a lot of ways starting at the minimum is pretty reasonable.
+ So like, but how, here's the thing, what's your minimum?
+ How do you, how many FTP intervals do I know I can do and how I can, how many I can recover from?
+ So what I usually do is I give people a range and I give them an RPE. So it'll be like, give me
+ three to six by 10 minute FTP efforts. If we know the FTP, cool. If not, well, maybe this is a good
+ time to start poking around. I'll be like, start it not on a two 50 and see if you got more Watts
+ and stop when it hurts. Tell me when it hurts.
+ We can, we find your FTP nice and easy. Um, and based on how many they do to like seven or eight,
+ like out of 10 or something like that, that's a pretty reasonable dose. And the thing is like,
+ um, you know, somebody asked us on a previous podcast, what are things that people usually
+ under optimize? And I think people often under optimize what a reasonable dose is. People will
+ often over optimize it. No questions asked, but, um, under optimizing, it's like finding a perfectly
+ reasonable dose. That'll get you the stimulus you want. And at a certain point, you know,
+ the stimulus is going to stop providing such robust improvements once you get a couple of
+ weeks or months into training. And so you're going to get to the same point almost regardless.
+ Uh, the real exception is just what's our timeline. So the timeline is short. Then,
+ it makes a difference. If the timeline is long, it makes a less big of a difference. So, um, that's
+ not a real answer to the question of what should I use the minimum effective dose, but it is my
+ actual answer is like, let's find out what you can do that doesn't hurt too much. And we're going to
+ call that a good middle ground and we'll work from there. And at some points I want you to push
+ harder. And at some points I don't, and we'll talk about that. All right. Second question is
+ how to break out of a rut when you've gotten used to a certain level of effort,
+ comfort, or discomfort. So I, I, this isn't, this is like tangential to our question centrally,
+ but I think in a lot of ways, if somebody is comfort, let's, let's frame it in our
+ topic here. If somebody is comfortable doing via to max efforts at like 110% of FTP,
+ but we think they can do more, how would you guide somebody gently to the promised land of
+ comfort, or do you just take everything out of your eyeballs?
+ Just take the power meter off your screen. Like just the most underrated workout tool ever is
+ in the modern day is not looking at your power. So yeah, just, um, hide your power meter or on
+ your bike computer, or if you're indoors, just put some YouTube on or something and do, do some
+ efforts, just vibing. And then you might be surprised at what the power meter does.
+ The results look like gold star answer. Uh, I really appreciate that. Um, get a meanest your
+ thoughts. Yeah, I totally agree. I think that's especially true for, well, I think most people
+ get that VO two max efforts should feel max, but I think this is very relevant for the easy rides
+ because a lot of people are used to endurance rides feeling not that easy. And it takes, uh,
+ a lot of trust from their side, you know, to believe us that, you know, what, just trust me,
+ it will take some time, but once you start doing easy rides easier, you'll be able to do hard rides
+ harder. Uh, so it definitely takes, it definitely requires, uh, trust in the process. And I think
+ that sometimes is the answer. Trust the process, give it enough time.
+ Yeah. I think especially with, uh, with an experienced coach, you know, trusting the process is a lot easier
+ but like if, you know, if you've got like a canned plan or something like that, trusting that process
+ can be harder cause you don't have any mechanism for feedback. And I think that that's, you know,
+ you know, one of the reasons that we eventually, you know, well, way back in the day got to kind
+ of coaching the way that we do James. And if people are using these zones as a sort of safety
+ net, um, yeah, hopefully this podcast has roasted them enough that they feel comfortable to light
+ roast kind of, yeah, just a, just a light Amber, not able to take them with a pinch of salt and
+ try and focus on different things during the workouts. Yeah. And I would say if you don't
+ have the budget, uh, for a coach or anything like that, uh, which I understand in the current
+ climate, especially in the U S is, uh, understandable. Um, Tim Q6 plans are great. If, especially if you
+ have a Q5, his pre-made plans, um, already have options for eye levels and stuff like that. So
+ like that individualization, uh, for power targets anyway, is built into those things.
+ Um, we don't do any pre-made plans. We only do individualized coaching. Otherwise that is how I
+ would do those plans. Um, but I don't feel like we could stand behind the results from the,
+ from a canned plan. So we don't do them. Uh, getting me to, so I want to start with you on
+ this one, how to assess what realistic targets are when one trains purely for
+ the fun of seeing numbers go up. Well, if your goal is to see the number go up, I think a realistic
+ target is to have fun. And if you're not meeting that target, you need to re re-evaluate what's
+ going wrong. Oh, sorry. Collecting your thoughts. Yeah. James, go ahead. Yeah. Well,
+ I guess I want to know what exactly, what number are we looking at?
+ Yeah. Again, it's, it's that context question of, um, like, are we looking at endurance pace
+ numbers? Are we looking at VO twos? Are we looking at threshold? Um, or like Swift,
+ you get the pizza slices you did. You burned. Oh, I, I, I, I don't write on Swift, but I,
+ that would be motivating for me. Uh, I'd, I'd like to slice at the end of every workout.
+ It tells you how many pizza slices you burned. Uh,
+ assuming all pizza slices have the same calorie content. Yeah. I was going to say the pizza I eat,
+ uh, maybe I'll earn a half a slice. Um, I, I actually think that, um, that this starts to lean
+ into, um, a thing that I've seen folks do every once in a while. And it used to be more prevalent.
+ I think before there was a lot more training media happening, um, where people would just
+ add a couple of Watts because they've just been training for a couple of weeks. And I think
+ like, Oh, I've been doing FTP efforts for three months. So I'm just going to add five or 10 Watts
+ because my FTP must've gone up a little bit. And if it hasn't, I mean, now your FTP intervals are
+ going to hurt. Uh, and you know, at some point I would worry about some of these motivation,
+ you know, for sticking with a plan at all, or even sticking with cycling. So, um,
+ so dialing in your RPE. And also I think over the, the,
+ very, very, very long time, uh, in terms of like months or years of training,
+ you just have to accept that at some point, the improvements are going to slow down.
+ Like in a lot of people at some point, they're going to stop. Well, and everybody they're,
+ they're realistically going to stop at some point for everybody. Uh, whether you're kind of a weekend
+ warrior or you are riding the Tour de France, it doesn't matter. They're going to stop. Uh,
+ there's only so much we can do with human physiology, right? Um,
+ I think
+ accepting that is, uh, uh, one of the harder parts about always wanting the numbers to go up.
+ Uh, they can, but they might be very small year to year. Like we may get like five or 10 Watts
+ on threshold year to year for somebody who's been training for like five or 10 years, you know?
+ Uh, I would say my, my threshold hasn't gone up in the past few years, but my race results
+ have improved. Uh, and a lot of those things, yeah. Aren't necessarily obvious in the numbers.
+ Uh, if I can see them at all, really. Uh, and I'm sure some of that is race craft, but a lot of it
+ will be things like repeatability and, um, durability, which rule it's all very trendy
+ at the moment. Um, so it's the same name for endurance. We all, we all know what we're
+ talking about. Yeah. When, you know, you, you might improve your endurance. Um, and
+ that isn't a number. Yeah. So it's a lot hard to quantify and it's, isn't a number that
+ will just grow in the same way as when you're just getting started with training,
+ you can just chuck Watson FTP every, every six months or so. And it's all sunshine and rainbows.
+ Yeah. Um, yeah. And I think that especially in this sport, that's probably an underappreciated
+ view. And I, I appreciate that you have it too, uh, because, um, you know, I, I forget about it
+ and that's, that's a me problem, obviously. Well, I think we all do at some point because,
+ you know, the numbers going up is one thing numbers going out. I mean, I think I said this
+ on a podcast once before, if somebody came to me and they were like, well, I want 20 more watts of
+ FTP before my next race in a couple of months and be like, well, okay, you've been training hard for
+ the last couple of months. So that's a tall ask. However, what I know we can do is we can get you
+ way more endurance and that's going to happen faster than improving your robot capacity. Like
+ for robot capacity, uh, that take a lot longer, uh, and you know, oftentimes years to, to build on.
+ Um, I'd say personally when my FTP has stagnated or sometimes it's, it's gone down even, uh, over
+ the past few years and, and come back up, but you know, it's, I've had to kind of get over a bit of
+ a, yeah, maybe an insecurity around that number. It's like, okay, I'm going in with a 20 watts
+ threshold than this time last year to a certain race. Uh, and maybe it's, it's, it's, it's, it's
+ maybe I'm not as confident, but I can still, I, you know, I come away with a better result. So
+ actually you need to realize that fitness is multifactorial and, uh, also how you race the
+ race, um, is, is a massive thing. Uh, so for this guy, he's asking the question,
+ who's just training to make numbers go up, I would say, try and find a goal, uh, an event,
+ something that you can, yeah, tackle with a, with a, with a bit more than just,
+ just training to, to see a certain number change, because at some point, yeah, you will hit a
+ genetic ceiling or there'll be, or the ceiling of times when that number goes down. Yeah. And also
+ you get tired, like you shouldn't expect, or, you know, you can't expect your say, say it's the FTP
+ is the number. You can't expect that to be the same for years on end. Like take a break, man.
+ Yeah. Um, I'm also,
+ I'm also in a similar station where I'm a fit. Well, the numbers aren't going up that much anymore
+ and it's kind of hard to accept. I, if you, if your only goal is to see the number go up
+ and for me personally, and for my more casual race, uh, clients that race, I, um, I, I tried
+ to match them in direction. I think him off experiences of having fun, cool,
+ cool experiences to do on the bike. Then, uh, seeing the number go up. So it could be
+ doing a cool grand phone, doing an epic ride that requires a lot of fitness,
+ uh, thinking along these lines, because these experiences will be way more memorable than the
+ day you got 400 watts FTP. Winning, winning a race is a lot better than, than seeing a
+ different, a certain number on your power meter, but also, you know, someone might,
+ someone's threshold might stagnate at a certain point, but that doesn't mean
+ they can't work on increasing their capacity massively or working their endurance or these
+ other things like race craft. Um, yeah, it can, it can be, you can go to a race with,
+ uh, the same FTP say, uh, or, or, or an event and your performance and how you feel that
+ can be massively different. So don't discount those things where, yeah, your FTP is,
+ is only a piece of the puzzle. All right. What were you able
+ to dig into this question? But I got one more, uh, one more thought on this, which is that
+ if, if you are in a state where you kind of expect like, okay, I haven't been training that long,
+ or I haven't been training that far into the season. Like the numbers should be going up
+ and they're not, this is where I start to look at recovery factors.
+ Like if you're training to see the number go up and you know, it's, it's, you're at a point
+ where it should, and it's not, let's start to tease apart what's going on. Are you sleeping
+ enough? I got crap sleep last couple of nights. I've, I've got some moderate stress in my life
+ right now. And Holy crap. I was lucky to like, do my leg workout today. I like got under the bar
+ for single leg squats. And I was like, if this first ref doesn't go well, I am just not even
+ going to finish this. I'm good. I'm done right here. I'd rep one.
+ Um, it went okay, but I was ready to bail. Um, or like nutrition, if you're not eating enough
+ or, you know, you are, you know, barely getting in enough protein. Like if you're, if you are
+ getting like 30 grams of protein a day, like something like that's probably a potential
+ factor in holding you back. You know, like if you're getting in 10 grams of fat in your diet
+ and you're just like 99% carbs, okay, we got, we got some things to work on. Or if you're just not
+ getting enough or if you are too active, um, like I would say, you know, if you're not getting enough
+ if you've got like a really busy job, like I used to, uh, have my day job was, uh, uh, I was a
+ carpenter in Boston and I did a lot of remodeling and I, I racked up the steps every day. I didn't
+ have a step counter, but like it was walking and up and down all day. And I had to eat more than I
+ was comfortable with it. Like it like physically in my gut in order to have a good workout after
+ I got home from work. Uh, and I didn't always have a good workout cause I was too active.
+ So if like, if that's another factor,
+ too. Um, so looking at the recovery factors because recovery, as we've always said,
+ is permissive to your improvements. Like you've got a potential amount of, of gains that you can
+ make from a given amount of workouts. And if you don't have everything else dialed in,
+ they're not going to happen. Well, I'm hearing is quit your job, do squats and eat protein.
+ It does sound like a good life to me. I, I, I don't want to quit this job. This is too good. Um,
+ all right. Next question is doing FTP intervals and the RPE is high. Should I reduce the target
+ duration or target Watts? So here's an adjustment question, which I think is a good, actually a good
+ way to, to think about this in terms of all workouts. If you have a target and you can't hit
+ the target, should you, should you, should you reduce the target duration or target Watts?
+ So, or, or it's feeling harder than usual. Should you keep going or should you bail?
+ Uh, maybe we should start with defining what not hitting a target means because
+ sometimes I see people think that they are not hitting the target because
+ the average lap powers to what's less. So that's definitely not, not in your power meter error.
+ Yeah, exactly. The same. Yeah. Uh, for FTP intervals,
+ I think, uh, if you get with vent and Watts or serve your target power, especially if doing
+ them outdoors, because you know, you need, you need to coast, you need, you know, terrain lights,
+ traffic, exactly. Dogs. Yeah. So turn Watts sometimes even wife, it was particularly bad
+ stretch of the road is totally fine and acceptable. And, um, and if you're not meeting the
+ target and thinking about threshold interval, threshold, what's the best way to do that?
+ I think the best way to do that is if you're not meeting the target and you're not hitting the target.
+ I think the best way to do that is if you're not meeting the target and you're not hitting the target.
+ And I was doing threshold workout here because I was doing threshold workout today and I was not
+ meeting the target. So I was, uh, asking myself that question, uh, very recently, a few, just a
+ few hours ago. And I think it really depends on how far off you are. Like if, if you're, if you're
+ aiming to do two 80 to 90 Watts and you're struggling to hit two 70, something's way
+ off. Uh, and you should, yeah. I mean, it's clear that you have not recovered from your previous
+ workout. So doubling down on that and adding more training load is not going to help a lot.
+ Yeah, a hundred percent. And I would say that the additional framing I would use in this context is
+ are we building fitness? Is that, is that our goal right now? Or are we trying to maintain fitness?
+ And so if we're looking at a maintenance work,
+ and, you know, realistically FTP doesn't change that much in a race season, uh, just plenty of
+ intensity and plenty of plenty of volume and stuff. Usually it's, it's like people aren't
+ fresh enough to really do like a three by 20. Like they might have kind of peaked at in their build.
+ Um, but you know, if you can squeak out a couple 10 minute efforts, it's usually plenty. And this
+ is where another reason, another place where I'll give a range for people. So that way it's,
+ you can't really screw it up. You know, it's like if you do two efforts,
+ great. If you do four efforts, great. As long as you get to this kind of RPE target, great.
+ But if you can't hit the target, like you said, better to not double down. Um, and oftentimes I
+ find that there's a difference between people who can do FTP in season when they're tired versus
+ not. And so I kind of make a mental note of which I think somebody is, or maybe they've got a race
+ specific thing. Like if somebody is like a gravel racer, I'm going to do more tempo and sweet spot
+ than FTP. Well, depending on the time available, but a lot of times I'll just say like, give me two
+ by 20 FTP.
+ Or a sweet spot. Sorry. Um, and that's plenty for maintenance instead of like doing a proper FTP
+ effort. And so which, you know, which feels good depends. And like, if you're late in a training
+ block, you're building and you hit that last 50 minute FTP effort and it's like four by 15 and it
+ feels hard. Yeah, of course it should feel hard. Like you're building, like you're trying to push
+ beyond where you had been before and it's going to get uncomfortable at some point. And so I'd say
+ that would be like the one context.
+ Where it's like, yeah, if it's, if you're basically pushing beyond where you were before,
+ it's fine. But if it's like, you're struggling to match what you had previously done, uh, and
+ there's nothing really obvious about what's off then. Yeah. I'd say that's a concern and you
+ should probably, probably bail out, um, and not double down on adding fatigue.
+ Is the question just on threshold and tools? This question was, but I was trying to, to
+ expand its scope a little bit. No, no, that makes sense. Yeah. Yeah. So I think, um, I think beyond
+ FTP efforts, even, um, you know, it's, it's hard to say exactly for, I immediately go to the stuff
+ I would do is like sprints and anaerobic efforts and things like that. Uh, cause you don't know
+ how many watts you did until you hit the lap button. And even then, if you're a couple seconds
+ off, you're like, oh man, that my 30 second effort was, you know, 20 watts lower than
+ last week. And then you actually go look at what you did for 30 seconds and oh yeah, that was a PR
+ great. Um, so that kind of stuff can make it a little weird, but like with VO twos, I, I S I do
+ think that watching power is still really useful so that if your power is improving session to
+ session, you know, the two things are happening. Number one, you're getting more fit. And number
+ two, that your recovery is appropriate. And if it's going down session to session in very,
+ very few circumstances, what I say, keep going very few. Uh, I have told a couple of people like,
+ all right, let's, let's push on like these last couple of workouts. But most of the time I'm like,
+ we got to start spacing these out more, or we're going to look at your recovery.
+ Yeah. And I think that's worth saying, assuming that things like your cadence, uh, are the same
+ that maybe if you're doing something a little bit higher cadence, you could expect to drop and
+ it might even be a bit better interval. Yeah. Yeah. For, for eliciting a stimulus for sure.
+ Um, so yeah, all, all those contextual factors, put it up contextual factors, uh, make a difference.
+ Okay. We're not going to do that one straight after the last race of the season. Is it a good
+ time to drop structure and go for KLMs? Fuck. Yeah, it is actually, you know what? We're going
+ to leave that in. I appreciate it. Uh, yeah. Good time to just go out and have fun for sure.
+ All right. I think that's going to be all for today. I want to thank everybody for listening.
+ Again, if you would like to reach out for coaching empirical cycling,
+ that's gmail.com or head over to the website and check out the website, uh, contact info. And if
+ there's a lot more information on, uh, on our coaching, there's testimonials, those results
+ and all that kind of good stuff. Uh, if you'd also like to reach out for consultation, if you
+ want to keep coaching yourself, we are happy to do that. Great time of year to do that. Uh, also
+ great time of year to get started with a coach. So email me empirical cycling at gmail.com, or
+ if you would like to ask a question for the podcast, go follow me on Instagram at empirical
+ cycling or head over to the website, uh, the podcast notes or sorry, podcast episodes page
+ all the way up at the top. Uh, there's a new form to drop.
+ Question off hours, uh, when there's an Instagram thing up. And if you would like to, uh, uh, give
+ the podcast a five-star review and, uh, type a nice review, wherever you listen to podcasts
+ that goes a long way when you're ad free as always. So if you want to donate empirical
+ cycling.com slash donates, we will catch you next time.

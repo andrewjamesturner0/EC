@@ -1,0 +1,686 @@
+ Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson.
+ And I want to thank everybody for listening, so please subscribe to the podcast if you have not yet done so already.
+ And please consider telling a friend and sharing the podcast. That really helps us out and gets the word out,
+ especially if you like the kind of stuff that we're doing.
+ If you'd like to give us an iTunes rating, that would be really fantastic, and a review possibly.
+ And remember that we're an ad-free podcast, so if you'd like to donate and support the show, you can do so at empiricalcycling.com.
+ We also have the show notes on the website, and if you have any coaching and consultation inquiries, questions, or comments,
+ you can please send an email to empiricalcycling at gmail.com.
+ We also have merch at empiricalcyclingpodcast.threadless.com.
+ So last episode, we started taking apart the Fick equation, and we discussed arterial venous O2 difference.
+ So if you missed that podcast on AVO2 difference, I actually strongly suggest you check that out.
+ If for no other reason, then we're going to be talking about diffusion a little bit.
+ And we're going to be seeing some of those concepts come up in this episode again.
+ So if you're okay with diffusion already, that's cool.
+ So my goal for this episode is to get ready to prepare to talk about the heart,
+ which is going to be the second half of the Fick equation.
+ So there's a lot in here that's crucial to understand about the dynamics of blood in order to understand the dynamics of the heart.
+ And so this is all going to tie together at some point.
+ And then we're going to see...
+ Everything is a whole picture, and that's going to really let us know how should we best train VO2 max.
+ So this week, we're going to take a look at how oxygen is transported to tissues.
+ And we're going to talk about the roles played by hemoglobin and the blood and how training can affect these kinds of things.
+ So, Kyle, what do we know generally about breathing and blood and hemoglobin,
+ the three things that we're going to take a close look at today?
+ I think a lot of people know that, well, breathing.
+ They think of your lungs, your nose, mouth.
+ Air goes in, air goes out.
+ You breathe in oxygen, you exhale CO2.
+ People know that your blood is what transports the oxygen, moves the oxygen around to your muscles, other tissues,
+ and then also carries away, wastes CO2.
+ And then, of course, like we talked about last episode, hemoglobin is what binds oxygen
+ and carries around and transports it from your lungs.
+ lungs to your your tissues your muscles um and then commonly i think people talk about how oh
+ like oh yeah your lungs they know something oh something about your lungs is where your your
+ blood is actually able to pick up that new oxygen or dump that waste co2 right yeah yeah yeah and
+ the lungs are the primary organ for gas exchange so o2 enters and co2 leaves um it's really that
+ simple um but the thing is like it's also not that simple uh because um you know a lot of the
+ structure of the lungs don't actually do anything because it starts with your trachea and becomes
+ more and more branched until it reaches the tiniest little pockets of your lungs called the
+ alveoli now the
+ alveoli are the
+ upper respiratory tract has important functions for like filtration humidification and usually
+ warming but sometimes even cooling especially if you're in really hot temperatures um but the
+ alveoli are the business end of the lungs for gas exchange so they're really small sacks and
+ we have them because of uh well kind of like a shoreline or like a fractal problem um so you
+ know kyle you're smarter than me so why don't you
+ talk about this and surface area and stuff like that because we're going to get into the lungs
+ specifically in a second so the the idea behind a shoreline or this like fractal problem is that
+ okay if you have the length see simple examples of beach so if you're going to try to measure how
+ long a beach is you can say okay if i've got a ruler that's a foot long and i measure the length
+ of the shoreline i'm going to get some length but then if i have a ruler that's only an inch long
+ i can now contour the measurement and i can measure the length of the shoreline and i can measure the
+ measurement to more of the little nooks and crannies along this beach and i'm going to get a
+ number that that can be much much longer um and then you can keep asking this question down to
+ like okay so if i have a ruler that's a width of a grain of sand long how long am i going to measure
+ the length of this beach and that number can get really really big like many many many times tens
+ of times orders of magnitude larger um and so if you actually ask the question well what's the
+ length of the beach it turns out that number is this
+ fractal problem where it's a number that sort of depends on the size of the ruler that you have
+ and a fractal is also famous where it's self-similar so if you have a beach
+ and then you you know that's kind of got this random sort of jaggedy pattern if you zoom in
+ to a smaller scale it has a similar sort of random jaggedy pattern you could theoretically zoom in
+ infinitely and keep seeing that pattern repeat over and over and over again right and so we can
+ actually see kind of the same thing in the same way that we're seeing the same thing in the same
+ way that we're seeing the same thing in structures like tree branches and lungs right broccoli so
+ broccoli is also a good example you have the little florets maybe that you eat but if you've
+ seen a big whole bunch of it it looks basically the same just bigger when you buy it in the grocery
+ store as a big whole chunk and then you know if you compare that to the structure of trees or
+ whatever like you said um it's a pretty similar sort of self-repeating pattern and so so when we
+ want to apply this fractal
+ thought pattern to the lungs and surface area because uh spoiler alert it's the surface area
+ of our lungs that lets us um that lets us uh exchange gas very very very quickly let's say
+ at max exercise you're inhaling four liters per breath if your lungs were like one single sphere
+ they would have a surface area of about um about uh 1200 square centimeters or like
+ 0.1 square meters and note that for spheres in this example especially a sphere is the object
+ that minimizes the surface area for a given volume right and this uh this actually presents us a
+ problem in the lungs because if we want to maximize surface area how do we do it because
+ spheres have little surface area for the volume um you know we could make it like tubes we could
+ have really really thin long tubes in our lungs instead of alveoli little little spheres
+ but then we run into the problem of like we need like surfactant we need to like make sure that it
+ doesn't collapse especially um and so the lungs have special structures that we're not going to
+ talk about that helps them not collapse but at the same time maximizes their surface area so now if
+ we had like two spheres of two liters each instead of one sphere of four liters now we have a surface
+ area of about 767 square centimeters uh per sphere which means that we have a surface area of about
+ 1500 square centimeters as opposed to the one spheres 1200 square centimeters so now if we start
+ dividing it up we're going to get more and more and more surface area yeah and note that also
+ spheres pack really nicely so uh you can famously fill in a three-dimensional or a two-dimensional
+ uh area or volume with spheres when they touch they can
+ actually pack the most in that's the the shape that packs the most efficiently right um and so
+ now that our lungs are so good at this fractal sphere thing that the approximate um surface area
+ of the average human's lungs is 50 square meters and we were just talking about crazy yeah yeah we
+ were just talking about 1200 square centimeters like 0.1 square meters for like a single sphere
+ but we have about 50 square meters surface area in our lungs and the reason that this is critical
+ um is that alveoli are lined with they're very very very thin and they're lined with capillaries
+ the whole way around meaning that we now have drastically i don't think i'm i think i'm under
+ using that word uh now we've drastically increased the amount of blood that can exchange gas with the
+ air um in our lungs
+ but our lungs are actually so good at the surface area thing um and also at being thin and um and
+ presenting a lot of capillary surface to the inside of the alveoli that for this 50 square
+ meters of surface area we only have to put in about 200 milliliters or maybe three to four
+ percent of our total blood volume at once in the pulmonary system that's really impressive for
+ just as a reference you have somewhere between five to seven liters ish of blood seven liters for a
+ very large person yeah depending how big you are yeah typically we're like in this episode we're
+ actually going to look at total blood volume and we're going to see numbers in the four to like
+ five and a half liter range um andre the giants come on yes andre the giant has seven to eight
+ liters of blood um but now we need to think about the nature of the exchange because um we're going to
+ read articles and stuff like that in the popular press and seeing people uh explaining this on the
+ internet um you know that quote unquote on the internet thing um i get the impression that people
+ don't really understand what's happening in the alveoli for gas exchange so i think the biggest
+ misconception is that when we exhale oxygen um people think that it's from our blood that quote
+ unquote doesn't get used um and we're going to talk about hemoglobin in a little bit and that's
+ this is going to make a lot more sense but when we think about this hemoglobin's purpose the purpose
+ of the blood is to move o2 oxygen from the lungs to tissue and give it safe harbor so it doesn't
+ wreak free radical havoc on our vasculature and other places because if you uh if you remember um
+ what's so radical about oxygen
+ episode that goes into uh free radical damage and stuff like that um there's there's actually uh
+ we're going to do a follow-up episode on that at some point in the near future because there's a
+ lot of really cool stuff uh in redox biology coming out um and i'm excited to get to that but
+ um but go listen to that episode if you haven't yet uh it's very interesting
+ in terms of um potential damage of just oxygen wandering around so there's two reasons that
+ we breathe out oxygen the first is that a lot of the air we breathe out is actually
+ in dead space and not the lvli proper so that o2 is not going to go anywhere the second is that not
+ all the capillaries of the lvli are totally full of blood especially when we're standing up um and
+ near the top of the lungs since gravity tends to pull blood to the bottom of the lungs which is
+ obviously not the case with like swimming stuff like that or possibly recumbent cycling
+ um so it depends on your posture so what about leaning over on a bike right you're not exactly
+ sitting up right yeah i guess i guess if you're in a really aggressive TT position that would help as
+ well um so hemoglobin is actually going to take up what it needs very very very quickly so when
+ it leaves the lungs it's basically 100 saturated like 98 99 something like that helped in no small
+ part by hemoglobin's cooperativity where the more o2 binds the more o2 it wants to bind and the faster
+ it will bind um and we're going to get into that in great detail in a little bit um but if we imagine
+ that we actually breathed out o2 from our blood um this means that we would be losing o2 saturation
+ from our blood whenever we exhale or half the time that we're breathing and if we just make a rough
+ assumption that the heart pumps about um you know twice as many times per second as we breathe um
+ and yet o2 saturation remains very high consistently we can pretty well see that no we're not actually
+ breathing out any oxygen from our blood yeah and we kind of talked about this last episode too where
+ your blood is actually not able to deliver all the oxygen that your muscles will be willing to use so
+ if your blood was still maintaining some of that oxygen that completely contradicts what we talked
+ about last episode yeah completely um and and also like if we think about what what would happen if
+ we did breathe out oxygen um we would always be wanting to take very short and forceful exhales
+ and long slow inhales otherwise if we just breathe normally and our hearts pump normally
+ we would actually get a sinusoidal uh saturation of oxygen in the blood uh yeah and that would probably
+ be not good for exercise I'm going to assume hemoglobin is able to become fully saturated very
+ quickly like I said um so the o2 pressure in the lungs is about 160 tor or 160 um milligrams of
+ mercury but venus o2 pressure is a 40 tor or possibly even less
+ um so the diffusion happens very quickly um into the lung capillaries in the alveoli
+ um but I think we had mentioned actually that air pressure in one of the last episodes or possibly
+ several of the last episodes air pressure is about 760 tor um but uh we didn't note and we're going
+ to note now that this is all of the gases combined um right yeah atmospheric pressure of nitrogen is
+ like 570 tor um so oxygen so oxygen pressure is actually quite a bit lower itself but uh it's just
+ a general idea of um you know the that it's all partial pressure um what's really happening with
+ the gas in the lungs themselves like the what's actually happening so the o2 was diffusing into
+ the blood like a normal diffusion like we talked about in the last episode of o2 diffusing from the
+ blood into tissue the regular thick diffusion equation that we talked about last episode applies
+ directly right here so where gases are going to move from a higher to a lower pressure passively
+ thanks to entropy and the attempt to equilibrate um the gas pressures of uh well gas literally
+ everywhere um so you can imagine if you hold your breath long enough the partial o2 pressure in your
+ lungs is actually going to drop more and more and more because you're going to it's going to be like
+ mixing in your lungs and so everything that's up in your upper trachea um you know that's that dead
+ space is going to be mixing like down that oxygen is going to be diffusing down into your lungs into
+ your into your alveoli uh when you're holding your breath so if you hold it until you're just about
+ to pass out you should exhale significantly less o2 in that breath than you would if you didn't hold
+ it um interesting note it's actually the the buildup of um
+ carbon dioxide that gives you that sort of like tight feeling of wanting to exhale so if you do actually
+ uh exhale a little bit you can actually hold your breath significantly longer because you prevent the
+ buildup of that excess co2 and that's one of the reasons why nitrogen is if you breathe in heavy
+ concentrated nitrogen with low concentrations of oxygen you can't actually tell that you're not
+ getting enough oxygen and you can pass out really easily yeah and that's actually why uh carbon
+ monoxide is so deadly because yeah it'll bind to hemoglobin and displace o2 and it binds more
+ preferentially um and we don't the thing is we don't actually have o2 sensing uh apparatus you
+ know in our regular vasculature we have co2 sensing apparatus we have chemo sensors and that's what
+ it detects co2 but it's not like because in in evolutionary terms we never came across carbon
+ monoxide or huge pockets of nitrogen that much and so it really didn't matter it mattered you know if
+ you hold your breath and you've got co2 there because of course if you breathe there's going
+ to be oxygen right um but now we can also understand why altitude would make it harder to
+ breathe um and can lower hemoglobin saturation because the partial pressure of o2 at altitude
+ drops the higher you go and this means that the pressure gradient in the alveoli versus the blood
+ gets smaller and diffusion slows because of course the space is the same but of course if we want to
+ look at pathologic conditions where there's like scar tissue in the lungs or there's liquid in the
+ lungs like um like you've got uh like schmutz in your lungs from um from like uh uh like bronchitis or
+ something like that yeah like that liquid is actually going to give the o2 a longer path to
+ travel or the scar tissue is going to give the o2 a longer path to travel and that's what slows
+ diffusion and affects lung capacity with those kinds of conditions um so don't smoke kids please don't smoke
+ um
+ so now let's take a look at what makes hemoglobin so awesome at not only taking up oxygen very
+ quickly in the alveoli but let's also um but also let it go so when it gets to working muscles or
+ tissues in need that makes sense because if it was too good at binding it would just hold on to
+ the oxygen and not actually serve its function of delivering the oxygen anywhere it would just bind
+ and then sit there indefinitely it's my oxygen you can't have it yeah hemoglobin doesn't do that
+ um and so before we get really started on hemoglobin I want to congratulate everybody
+ listening to this uh because you all have the most interesting protein in the world and a lot of it
+ um so we talked about myoglobin in the last episode and we mentioned the heme ring so just a
+ refresher the heme has an iron in the center of it bonded to five nitrogens which makes it stable
+ enough to reversibly bind oxygen reversibly is the big key here because as we talked about last
+ episode again um as opposed to when oxygen normally binds iron and creates rust so we're not rusting
+ where internal rust yeah so myoglobin is a protein that has one heme group on it and this
+ type of this protein is in the muscles hemoglobin has four heme groups which is pretty cool in itself
+ um but these four O2 binding sites have a distinct uh interactive ability on the protein that we're
+ going to talk about in a second so uh so hemoglobin itself it has four what are called subunits
+ and it's two of each subunit and we we just call them Alpha and Beta subunits Alpha one Alpha two
+ beta one beta two how creative yes uh so so it means it has like rotational symmetry so it like
+ alternates Alpha Beta Alpha Beta in a circle and each subunit has one heme group and each one
+ combined one O2 molecule so all the four subunits together make a hemoglobin all right so hemoglobin
+ displays what are called cooperative kinetics Kyle have you heard of cooperative enzyme kinetics before
+ I have not all right
+ so this is going to be fun I'm really excited now so the O2 binding curve of myoglobin is what's called
+ a rectangular hyperbola so imagine if you took the the CP the critical power curve and you flipped it
+ upside down so it looks kind of like that except it approaches the ceiling and it's a very basic
+ enzyme curve and a lot of enzymes have this same curve hemoglobin it has a sigmoidal oxygen binding
+ curve that means it's s-shaped so the graph of um
+ uh hemoglobin binding to O2 uh this curve we have it in the show notes so go check that out but to to
+ shortly describe it what happens is starting at zero if we're going to take the inverted CP curve
+ basically we would shoot straight up for a little while then we're going to like level off a little
+ bit and then we hit our ceiling the hemoglobin oxygen binding curve starts at zero and then it's
+ going to go to the right and then it's going to slowly come up and then it's going to shoot up at
+ some point and then it's going to slowly level off again and then it's going to gradually approach a
+ maximum so that is a sigmoidal or s-shaped curve and this curve means it displays what are called
+ cooperative kinetics so hemoglobin binding to oxygen changes the shape of the hemoglobin molecule
+ itself and this is where cooperative enzyme kinetics come from so what does the cooperative
+ kinetics mean in terms of hemoglobin and oxygen binding it means as O2 binds hemoglobin the shape
+ changes a little bit in order to allow hemoglobin to bind more oxygen or vice versa so as less oxygen
+ is bound to it it actually makes it easier to unbind O2 near tissue that needs it this is
+ awesome right yeah that's really cool right not know that yeah now all right four of the five
+ Nitrogens that bind hemoglobin iron are on a big ring that's actually called porphyrin uh it's porphyrin
+ without the iron in the middle of it it's heme with the iron in the middle uh we mentioned this last
+ episode so the iron in this ring is kind of like a beach ball getting bisected by a trampoline uh
+ with the fifth nitrogen binding from underneath it's got four around it otherwise um from the
+ porphyrin ring so the shape of the heme group it actually changes shape um does physically change
+ when O2 binds so what's happening is without O2 the trampoline this is where the trampoline analogy
+ actually runs into a problem because it's it you know it looks a little droopy like imagine uh
+ pushing the trampoline down in the middle a little bit um this isn't actually what's happening so
+ what's happening is the beach ball in the middle actually has to be a certain length from the uh
+ from the corners of the trampoline if we imagine it as a square um
+ which means in order to make the lengths right we actually have to move it out of the plane a little
+ bit um so the ring cannot expand because of all the other bonds that have to happen so so what's
+ actually happening is um it almost looks like the beach ball is kind of getting held up by roof
+ rafters you know so this quote-unquote trampoline takes on what's usually called a domed shape but
+ binding O2 changes the electronic state enough
+ that it turns it into what's called the relaxed formation like and now the bond length actually
+ changes a little bit so now it becomes a flat trampoline um and the iron porphyrin nitrogen bonds
+ actually get shorter by 0.1 angstroms and the doming subsides so the shape change of the heme
+ group means that the protein attached to the heme group literally moves in space
+ and that moves the uh the fifth protein that's actually attached to the iron underneath and it's
+ this and this this movement it's it's like 0.1 angstroms or something like that it's tiny uh an
+ angstrom is uh one to the minus 10 meters by the way it's roughly the size of a hydrogen atom yes
+ now we're moving one-tenth the the amount of the size of a hydrogen atom
+ and this can entirely change the structure of the whole hemoglobin molecule the hemoglobin structure
+ is so tightly coupled between the heme groups and the entire structure based on like the the grabbing
+ of the heme group around it and that one nitrogen group from underneath um that the whole structure
+ changes based on a based on O2 binding the heme and this takes microseconds it is almost instantaneous
+ and for all purposes it practically is instantaneous um and roughly speaking binding two O2 molecules to
+ a hemoglobin is enough binding energy to change the entire shape of the whole hemoglobin molecule
+ from what's called T to R so there's taut and relaxed um original again yes very descriptive yeah so the
+ T shape is deoxyhemoglobin and it has low O2 affinity um meaning if there's somewhere better
+ for O2 to be it's already got his bags packed up and it's ready to go but the binding of 202 changes
+ to R shape so now if we have two oxygens on hemoglobin it's going to um now we talked about
+ the the T and the R uh the taut and the relaxed for heme it is very much the same for the entire
+ molecule so they just took the same name and renamed the two uh forms of the entire hemoglobin
+ molecule T and R to reflect what's actually happening but just because the entire hemoglobin
+ is in the taut or the relaxed state
+ does not mean all of the hemes are so the hemes will still change shape individually based on O2
+ binding or not so what's happening is the uh the individual subunits actually do change shape a
+ little bit but 202's binding is enough to change the entire shape so the shape of the curve this
+ S shape what it means is that the more O2 is bound the more hemoglobin a quote-unquote wants to bind
+ O2 the less O2 is bound the less hemoglobin quote-unquote wants to bind O2 so we can see this
+ would be a huge advantage in tissue that requires a lot of oxygen but we can also see that in the
+ presence of a ton of oxygen it would be easy to stick 202 onto the t-state hem uh t-state uh sorry
+ deoxyhemoglobin and snap it into the R oxyhemoglobin shape and it's going to be even more ready to
+ accept more oxygen uh yeah
+ and that makes it useful because in those two different locations that we talked about last
+ time your lungs or your muscles you have those you have the exact opposite states that you would want
+ yours you have the states that you would want because the oxygen concentrations are the opposite
+ from your muscles to your lungs right yeah yeah and and let's look at the O2 binding curve in the
+ show notes so somewhere between like 20 and 50 Tor or millimeters of mercury the curve
+ drops off or if you want to go the other direction it goes up really fast and kind of levels off a
+ little bit after these little curves um so at about 60 Tor hemoglobin is about 85 saturated at 20 Tor
+ it's about 20 saturated now at 50 percent now uh we usually look at 50 saturation for enzymes because
+ it's a nice middle point uh kind of gives us a good idea once we know the shape of the curve and
+ things so 50 saturation happens around 30 Tor and so this is a good middle point because above this
+ you know we're going to see a hundred and something in the lungs and we're going to see like you know
+ in cells that are exercising at Max capacity at like they're like one to three or four Tor something
+ like that yeah um so we can so we now we have a protein that's going to do its job perfectly at
+ either end of the spectrum
+ um as opposed to myoglobin which stays uh with really high saturation until very low pressure so
+ at 60 Tor um myoglobin is 98 saturated at 20 Tor myoglobin is about 90 saturated and the 50 saturation
+ for myoglobin is about three Tor oh so yeah so it it is better designed to work in places that don't
+ see very much oxygen compared to hemoglobin which is designed to be exposed to environments with
+ lots more oxygen I need your lungs yeah lots more oxygen and a little less oxygen because
+ uh remember that in terms of diffusion hemoglobin's concentration and distance Delta is you know really
+ only on the cellular surface um even though cellular surface is of course driven by mitochondrial
+ disappearance in the creation of zero pressure zone listen to the last episode for that um so
+ hemoglobin may never effectively quote unquote see a zero pressure zone the way that myoglobin will
+ which can explain why they've each evolved for the task that um that they've evolved for and
+ they do they each do their job extremely well but we're not done with why hemoglobin is so cool not
+ by a long shot so the shift of hemoglobin shape due to O2 binding actually changes its responsiveness
+ to acidity acidic environments shift the entire O2 binding curve to the right literally this is known
+ as a right shift meaning it's more likely to release O2 at higher O2 partial pressures so this means
+ it's going to give away oxygen more quickly at higher O2 pressure environments so these environments
+ are very much like you would probably find around rapidly respiring muscles churning through ATP and
+ spitting out uh protons and acid and so what this shape change that happens between the T and the R
+ transformations um when O2 binds to hemoglobin it means that protons are likely to bind in certain
+ spots on hemoglobin to help with the shape change even more all right so we don't have to go far to
+ see this phenomenon so if our normal pH is about 7.4 if we make it a little more acidic to 7.2 it
+ changes the saturation point uh the 50 saturation point of the hemoglobin binding curve to the right
+ from 28 tour to almost 40 tour depending on how much acidity there is um pretty big change yeah on
+ the other hand for more basic environments now if we shift this uh pH from 7.4 to 7.6 the shift will
+ actually go to the left so it's harder for O2 to be released but it's easier for it to bind
+ so that's so think about exercising muscle versus the
+ lungs oh yeah where you have yeah and so no acid yeah so so it moves the 50 saturation point down
+ to almost 20 tour so we actually have a pretty big ability to shift how hemoglobin binds now
+ this is pretty great but it gets crazier in red blood cells there's an enzyme called carbonic
+ anhydrase it is one of the perfect enzymes in the world um yeah because it there's
+ not really any training benefit from knowing about this but it biologically it's amazing
+ um so carbonic anhydrase takes the CO2 exhaled from muscle and it combines it with water to
+ form bicarbonate because if CO2 were left as a gas it would actually make bubbles in your blood
+ most CO2 actually is transported in our blood as bicarbonate
+ that's cool also bicarbonate is a convenient buffer it is a buffer however making bicarbonate
+ from water and CO2 also does something else like it releases a proton it increases the acidity inside
+ cells which further helps hemoglobin unload O2 to respiring tissues cool and uh in the lungs on the
+ other hand O2 is so abundant
+ that it sticks itself to hemoglobin whether it likes it or not and it disrupts this it snaps
+ this whole shift backwards so it changes the state of the hemoglobin and it unbinds this uh these
+ hydrogen ions that had bound to the hemoglobin and carbonic anhydrase is going to extremely quickly
+ going to take that um going to take that proton and the bicarbonate
+ and make CO2 again and water like almost instantaneously carbonic anhydrase is one of the
+ fastest enzymes known on the planet it's it's what's called catalytically perfect in other words
+ it can do its reaction faster than anything can diffuse into it oh okay so uh so if we imagine in
+ you know in the brownian soup of stuff bumping around in cells the carbonic anhydrase finds uh
+ finds a bicarbonate and it can rip it apart and um and you know grab a proton and make water and CO2
+ faster than um then it'll take for another bicarbonate to bump into it yeah there's no
+ backlog of of bicarbonate or something like building up it's always ready to to uh right
+ well actually there there is a point at which um well we're going to talk about this obviously
+ another time because this is really getting into the weeds but um but actually over 1.0 this is why
+ we cannot trust RER values to tell us how many um how much carbohydrate and how much fat that
+ we're burning because of this kind of thing um but regardless um so anyway it's so fast because when
+ blood goes through our lungs it doesn't spend a lot of time there so carbonic anhydrase needs to be
+ really fast in in the tissues to make sure that hemoglobin unloads more oxygen and in the lungs is
+ able to unload CO2 as quickly as possible so that's why and it's that that's why it's one of the
+ interesting reactions and and the most efficient things in all of biology
+ but note note here some people may be under the misconception that the hemoglobin is what is
+ transporting the CO2 back out um actually I'm glad you brought this up because this is yet another
+ misconception that's out there um so it's actually heme well you're right in that heme itself does not
+ bind CO2 but hemoglobin the protein does bind CO2 one hemoglobin is actually capable of binding for
+ CO2 what happens is in the four subunits of hemoglobin the two alphas and the two betas there's
+ what's called an N terminal domain and this is just one end of the long protein chain that gets folded
+ up and this end the um nitrogen actually binds CO2 which turns it into what's called carbamino
+ hemoglobin and this is just another way of further shifting the curve to the right for more O2 um uh
+ unbinding ability
+ but it decreases the affinity so it it right shifts everything and about 10 of our total CO2 gets
+ transported this way but for the most part yes it is uh moved in um as uh bicarbonate and of course
+ this process is very easily reversible so when the carbamino hemoglobin gets to the lungs uh this
+ process quickly reverses and then CO2 just heads off into the atmosphere um we're not actually done
+ yet we're almost done but we're not
+ really done yet there are other things that can cause this shift as well so we've seen CO2 and
+ acidity but a product of glycolysis called 2-3 bisphosphoglycerate and shifting temperature can
+ also shift the curve so if we see more um two three uh bisphosphoglycerate or diphosphoglycerate we are
+ actually going to shift the curve to the right and if we see an increase in temperature you know
+ exercising muscles create a lot of heat we're going to shift the curve to the right so it's
+ easier to unload O2 now I will we'll circle back for a second because can you possibly imagine a
+ protein like this like hemoglobin getting to the lungs and releasing oxygen right yeah that doesn't
+ make any sense there's like firstly you're it's going to be very difficult just based off of um
+ diffusion and and gradients like if there's already a bunch of oxygen there it's not going to
+ want to be like oh yeah let me do work and push more oxygen like it that's actually like that
+ would require energy in in all likelihood yes and possibly most importantly like we mentioned before
+ hemoglobin and myoglobin give oxygen a hiding spot from the rest of the cells in your body because
+ without it uh you know free radicals are going to be a big problem um and so you know so if hemoglobin
+ is going to like unload oxygen on its way back to the lungs at some point you know because if it's
+ going to unload it in the lungs it'll unload it before the lungs this is going to create problems
+ also oh yeah yeah yeah because you just be randomly spitting out oxygen in like in a non maybe not
+ predictable way yeah or no kind of like stochastic like random way yeah and only like one to two
+ percent of um of all the oxygen dissolved in your blood is actually just like in plasma most of it's
+ in like in your hemoglobin so I hope I've made my case for why hemoglobin is the most interesting
+ protein in the world nerd all right um all right so so now we've laid bare the mechanism of O2
+ transport one hemoglobin 402. that's that's it's it's very simple equation one hemoglobin transports
+ 402. hemoglobin is in red blood cells so if we have more hemoglobin we can transport more oxygen
+ so is it really that easy well it depends ask the festina team ask the Discovery team yeah
+ let's have David Miller on yeah so we mentioned last episode that the heart is probably the
+ biggest long-term limiter of vo2 Max but the blood is part of that thinking about the big components
+ of blood with respect to vo2 Max we're going to take that first before we talk about its
+ relationship to the heart so well-trained endurance athletes usually have more red blood cell volume
+ than untrained people like a lot more the number I see in textbooks and papers
+ quoted everywhere is 40 percent um I mean I have no reason to doubt this I didn't find a reference
+ for it and literally anywhere um and I'm sure that there are some uh high level endurance athletes
+ with more I'm sure there are some high level endurance athletes with less I'm sure it is a
+ very nicely shaped Gaussian distribution um but why would an athlete need so much blood like we
+ just talked about its primary function um is the transport well not as primary function one of the
+ transport well not as primary function one of its main functions is to transport oxygen and CO2 but
+ it also transports other molecules to meet metabolic needs so we transport fatty acids we
+ transport vitamins we transport glucose we remove waste products uh you know trash removal that's a
+ metabolic need too well the only thing I was thinking is that also well-trained athletes have
+ higher dense capillary density so like more places for the blood to go whereas like if you're like
+ sedentary and maybe a little bit fat like your fat cells don't require the high density of capillaries
+ that muscles do well you're you're actually a little ahead of us that's a that's a really good
+ thought um and probably some of our listeners from last episode are thinking that too um but
+ let's think about hemoglobin mass
+ for a little bit so total hemoglobin mass and red blood cell volume absolute volume plasma absolute
+ volume and absolute blood volume total blood volume correlate all with vo2 Max R is about
+ 0.75 so it's not a perfect predictor but it's a very good predictor pretty good yeah yeah um so
+ we can actually see how important it is in any number of experiments where removing red cells
+ removes vo2 Max improvements from a training intervention may have been made over a couple
+ weeks like four weeks six weeks eight weeks 12 weeks something like that who volunteered for
+ that study come on right yeah yeah I mean these are these are phlebotomy studies you manipulate
+ blood values and and you see what happens and it's it's a pretty classic thing you know and one of
+ the things that we usually think about with you know red cell volume is hematocrit that's looking at
+ a concentration that's looking at what percentage of our total blood is our red cell volume you know
+ let's think about having more red cells for a second because on paper having more hemoglobin
+ per unit of blood is good right so having higher hematocrit what should increase o2 carrying capacity
+ but it turns out um you know there's not a good correlation between concentration measurements
+ of of red cells and hemoglobin so if we graph concentration in like grams of hemoglobin per
+ liter or something like that with vo2 Max um R is like 0.1 or something like that we've got a
+ reference in the show notes it's got a bunch of a bunch of graphs on it um that we're pulling from
+ here um but they don't even actually report the R value it's so low it literally looks like a random
+ cloud yeah your point one is did not is yeah no correlation at all yeah they're I'm just like well
+ they didn't even report it it's not on the graph because it just you look at it and you go oh
+ there's no way yeah so even if you like took a linear regression of it and you could try to find
+ something from it I don't know why you would try you you shouldn't um despite some of the studies
+ that I've seen recently oh my God um it would be no better than a random number tenor yes um but
+ concentration is an important factor because uh if there's um if we look at red blood cells as a
+ percentage of total volume but you know of course we're looking at hematocrit but there is such thing
+ as too little or too much hematocrit so over about 50 percent hematocrit oxygen delivery ability
+ um I know sorry to use delivery but we know it's a bad analogy but I'm going to disclaim that every
+ time I use this term um the capability of oxygen delivery drops drastically over 50 because the
+ blood actually becomes too viscous to move easily oh that makes sense yeah yeah but if we have someone
+ um but well but of course if we have too little then we can transport a lot of plasma and there's
+ not going to be much blood in it not many red cells in it um that's going to be a problem as well
+ because our blood vessels and our capillaries can only fit so much blood at a time um and as we
+ mentioned last episode capillaries are really small like a lot of uh a lot of blood cells red
+ blood cells erythrocytes actually need to fold to go through capillaries so they're it's pretty tight
+ in there they go one by one it's single file um now if we have someone who's sedentary
+ start an endurance exercise training program plasma volume increases much more rapidly than
+ red cell volume especially early on and this is what's called exercise induced anemia interesting
+ yeah so I'm sure a lot of athletes out there have gone to get their um kind of get a blood test I
+ remember a friend of mine once the first time I heard of this he goes he was like he's literally
+ the fittest dude I knew at the time and he comes back and he's like yeah my hematocrit's 38. I'm like
+ wow yeah I was like what and it's I think it was like early summer or something like that um and
+ so he's he was actually building plasma volume he might not have been that fit or at the time or
+ like something like that um but yeah he like he had exercise induced anemia but it's actually
+ temporary because after a few weeks red cell volume is going to come up and plasma volume is
+ going to come back down a little bit so they're going to like kind of meet in the middle like
+ plasma volume like overshoots and then like is like okay I gotta chill out for a minute and red
+ cell volumes like trying to catch up slowly because we build red cells pretty slowly yeah and red cells
+ do get constantly renewed by our body but they have a a long-ish but not infinite lifetime so
+ why can we still deliver again disclaimer on that analogy I'm sorry
+ the same amount of oxygen to tissue when the concentration of the red cells drop for red cell
+ volume remains the same it sounds like you're actually like quote-unquote delivering more blood
+ oh because I forgot to mention earlier that when um when this plasma volume really increases a lot
+ and red cell volumes coming up slowly it doesn't affect the it doesn't affect the vo2 Max so why
+ does this happen um my bet is that it's an evolutionary adaptation to be able to account
+ for not only different hydration States because you don't see your view to Max drop as you lose a
+ couple pounds of body water through a workout because you're sweating and you're breathing hard
+ and you lose a lot of water through your breath um and it's to account for blood volume expansion
+ with endurance training and um and heat adaptation yeah and that would be interesting too because
+ I figure prehistoric people wouldn't necessarily have consistent sources of good water that they
+ would be they're not going to the faucet every hour or whatever and drinking a glass of water
+ they're not able to be as consistently hydrated as as a modern humanist right and you can imagine
+ how terrible it would be if you were like you know you can't find any water you can and you've got to
+ like like go run are you gonna hunt yeah you've got to gather you've got to do all you've got to
+ do that you've got to work you got to do stuff and if your VO2 Max is coming down because you've lost a
+ couple pounds of blood of uh blood volume and body water like this is going to be horrible you have a
+ bad it's like a that's a negative feedback group because like oh you wouldn't be able to go get
+ those resources that you need you'd be digging even deeper hole yeah so how does this happen like
+ I personally have a couple theories on all of this I haven't seen any myself so this is just me spitballing
+ um
+ so I think blood regulation might be a big part of this because exercising muscles send more signals
+ um you know back into the uh into the incoming blood vessels to open more capillary beds based
+ on need but this is obviously not infinite since without some regulation you could probably easily
+ pull enough blood away to suffocate some of your organs every night that would not be good if you
+ exercise too hard just black out I mean some of us do but yes that's not that's not the point
+ um and there might be a couple reasons that we pass out anyway um and we talked about this last
+ episode too um because when we saw the two legs versus the one leg experiment um we saw the we saw
+ that the blood volume that was going to a single exercising like quad uh was like three liters
+ maximally but at vo2 Max with both legs exercising 100 it only got up to like four liters a minute
+ obviously having more blood than that you know would probably be detrimental elsewhere so your
+ body has to regulate this extremely carefully um now my other theories on why this happens
+ um so plasma lubes the blood right so it's less viscous that may help it move faster through
+ capillary beds so that way um you know you're getting a um you know the increased rate is
+ making up for the fact that it's a little more dilute so you would get the same number you would
+ still get the same number of red cells passing through a surface per unit time for time yeah my
+ last thought is that red cells go through capillaries um capillaries are really small and
+ so with red cells going through one at a time blood pressure might actually be such that like you know
+ the plasma gets squeezed out of the capillaries I don't know this is probably the weakest of my of my
+ ideas I don't know I'm not I don't study fluid Dynamics all right so anyway so I don't think
+ plasma actually gets the credit that usually deserves um in terms of exercise ability and
+ exercise improvements because in sedentary individuals plasma volume expansion can already
+ be seen a couple of hours after finishing their first bout of endurance training
+ interesting yeah that's really
+ fast like I I know that plasma volume goes up from endurance training I've never looked into seeing
+ how quickly it is though yeah and it's it's not like huge but it's noticeable it's measurable and
+ it's significant so um so the fact that you know plasma volume increases first is a big step in
+ terms of uh you know increasing Fitness but when you detrain plasma volume can be one of the first
+ things to go and of course there's plenty of evidence on both sides of this actually so in
+ the published literature there's a lot of evidence that blood volumes do drop plasma volume especially
+ with detraining and there's a lot of literature that says it does not so it's probably a lot of
+ individual variation here but now we're going to get to a study um and we're a long way into
+ this episodes but don't worry this is not going to take that long to get through and we're only going
+ to cover half of it uh because we're going to cover the other half in the next episode since
+ this study so nicely straddles both episodes um and this is one of my favorite studies I've
+ referenced this a lot so if you've liked on a consult call with me if you're one of my athletes
+ I have almost definitely referenced this paper to you this is once again by Ed Coyle I told you
+ a long time ago we'd see a lot of him um Mary Hemmert and Andy Coggan are the co-authors it's
+ called effects of detraining on cardiovascular responses to exercise role of blood volume
+ so what they did was they took eight endurance trained cyclists average six years training history
+ um I think it was plus or minus one uh the average training that they were doing seemed to be about
+ four threshold workouts a week 70 to 80 percent VO2 max and one VO2 max workout five by five minutes
+ at 90 to 100 VO2 max um testing was done over two days while training and then again after two to four
+ weeks of total cessation of activity so just done stopped on the couch two to four weeks so this is
+ a detraining study and the authors based this study on observations that plasma volume quote unquote
+ detrains quickly after stopping activity so the experimental section of this study so they tested
+ the athletes twice while training and twice while detraining uh the first day they did it normally
+ and then um then they tested the next day with their experimental procedure on day two there was
+ a plasma volume expansion done both in the trained and untrained States um and what they did was they
+ seemed to increase blood volume by about eight percent or 700 to 800 milliliters and this would
+ bring after detraining plasma volume back up to normal but it was also done in the trained subjects
+ as well to see if extra plasma volume might have additional effect over the already expanded with
+ training plasma volume does that kind of make sense yeah it's interesting it's a so they're
+ they did it in the trained subjects as a control basically yeah and so so that was their training
+ um on average for a bunch of weeks before they got to the study they tested them during their
+ training period then they tested them after two to four weeks off again so what happened
+ detraining resulted in an average nine percent decrease in blood volume average 5.2 to 4.7 liters
+ um and of the loss the average was 350 milliliters was plasma volume
+ and 130 milliliters was red cell volume interesting yeah so it is mostly plasma yes so 2.27 liters of
+ red cells detrained to 2.14 liters a nearly six percent loss this meant detrained uh the vo2 Max
+ went down on average 4.42 to 4.16 liters a minute or about the same six percent loss which makes
+ sense we said before this kind of r of 0.75 correlation great yeah cool yes um and then when
+ they did the plasma reinfusion in the detrained subjects this brought their view to Max back up to
+ 4.28 liters a minute on average um not quite back to normal um and halfway yeah and I remind you
+ there was no red cell reinfusion that stayed six percent low only plasma volume was replaced
+ interesting yeah so now we mentioned hematocrit and you know lubing the blood with plasma um so their
+ normal hematocrit when trained was 43.8 on average of course but when it detrained it went up to 45.7
+ re-infusion in the detrained subjects of plasma volume to bring their normal blood values up dropped
+ the hematocrit to 39.6 percent which remember yeah when we mentioned earlier that concentration is not
+ that correlated with vo2 Max this shows us exactly that um and also via 2 Max went up when the
+ concentration went down um so okay last thing of course I'm sure some of you are like what happened
+ with the train people so the train people um did the plasma expansion help bring up vo2 Max no
+ vo2 Max stayed the same it actually uh was within measurement error so it actually dropped 0.05 liters
+ a minute 4.42 to 4.37 liters a minute so it's within the margin of measurement error it's
+ basically the same um now my theory is that had they replaced the red cells in the detrained
+ subjects they would have seen a total reconstitution of vo2 Max so but they didn't do that so yeah yeah
+ I'm sure those people were competing and they didn't want to get them doping even though it was
+ banned yeah yeah late 80s or early 90s or whenever the study was out 86 86 thank you six um so what
+ we're leaving out in this study um we're actually going to deal with in the next episode on the Fick
+ equation when we talk about heart and heart stroke volume um but we're not done yet so I I hope this
+ so far illustrates all of the constituent components of vo2 Max especially those that can
+ come and go in the short term uh especially with training studies four to five weeks or less um
+ relative contribution of each uh you know in terms of plasma volume and hematocrit and heart stroke
+ volume and stuff like that um because you know this when people start training and their vo2 Max
+ starts to go up um did their heart stroke volume actually increase um you know it turns out that
+ there's a there's an interplay between this and blood volume and if you take away the blood volume
+ you're gonna go back to normal is what most studies will show um and the blood volume expansion though
+ it's not exactly temporary either in the long term but it's not also permanent because you know as
+ we've seen plasma volume responds to training quickly and red cell volume responds slowly so the
+ other component to this with respect to uh is with respect to blood pressure and what might be
+ actually too much blood volume
+ um because if we have too much volume and we don't have enough places to put it we become hypertensive
+ six liters of blood in a sedentary person is a recipe for a heart attack it's not like that's
+ they're not fit cut back on the salt yeah and so um so you're lacking uh so a sedentary person would
+ be lacking what's called vascular capacitance um somewhere to put the blood which is another benefit
+ of endurance training when we build capillaries and blood vessels um
+ and they presumably become a little more supple you know there's there are things called elastance
+ or compliance um in arteries and having the ability for the artery to you know expand and contract a
+ little bit um is a good thing if otherwise we have atherosclerosis and that's a bad thing um too much
+ plaque built up on the inside too much plaques your stiffened arteries um and so arterial stiffness is
+ related to hypertension of course but it's also related to aging so it's just something that
+ happens as we get older and does this have an effect on our aerobic ability probably how much
+ I am not sure I'm not a doctor I haven't studied this specifically um but the kidneys are incredibly
+ important um they regulate plasma volume and red cell volume and we're going to talk about them
+ specifically in a future episode because a study actually came out about eight people have sent it
+ away and I've already read it and I've read it like six of those eight times again now um on uh on the
+ crit meter um potentially in the kidneys so it's still theoretical at the moment there's not uh
+ ironclad um experimental proof and we'll get to that in the future but uh before you send that to
+ me again uh I'm aware of that study thank you so when we consider things like blood volume and
+ vascular capacitance blood flow regulation of muscles mitochondrial density um anything that
+ has to do with long-term improvements uh just remember that adaptations are not symmetrical
+ some are faster some are slower plasma volume like we said several times is a fast responder
+ muscle capillaries hematocrit these are slow responders but something else to note increasing
+ plasma volume like this can make
+ concentration measurements look like they're getting worse or better like hematocrit um you
+ know if you exercise induced anemia right there it looks like something bad is happening because
+ your hematocrit is going down but you actually haven't lost any red cell volume all right so
+ if plasma volume expands this can also have another effect on things like lactate so if we make the
+ same amount of lactate and we have more blood volume to put it in the concentration goes lower
+ and how do we always report lactate values in the blood millimoles per liter which which uh you know
+ is just millimolar but you know it's easier to see it in millimoles per liter because of course in the
+ medical field everybody always wants to see that um that uh whatever it is per liter per deciliter
+ or however they measure it these days um so if this study had only looked at hematocrit we might
+ actually have a different interpretation
+ um you know point because there's a paradoxical nature of how hematocrit goes up with D training
+ and then drops with early training plasma expansion um and so you know your hat drops your hemoglobin
+ is actually fine your red cell volume is fine via to Max is going up what is going on yeah
+ so we're working towards the bottom line here uh which is that blood uh which is blood volume in
+ general um more blood volume has a lot of benefits and generally speaking if we have more plasma volume
+ then we can have more things like albumin which is the most abundant protein in plasma and it's
+ involved in transporting stuff like hormones and you know fatty acids um you know something you
+ might want to use more of at sometimes rather than others and it's found in eggs it's found in eggs
+ um and more plasma might mean more red blood cells for more oxygen transport theoretical but looking
+ promising possibly but especially with the heart more blood volume means we're actually going to
+ get more heart stroke volume based on one of the two main contraction strategies quote-unquote
+ contraction strategies of the heart and you've probably heard of the Frank Starling law which is
+ that when the heart gets filled more it's going to contract harder to get that blood out because
+ otherwise you've got extra blood sitting in there and then you can't fill as much and if you can't
+ pump it out then you know your chart's just going to explode eventually it's like a bad day it sounds
+ like a very bad day I not recommended for athletes especially or anybody who's alive oh yeah likes
+ likes living um and so that's where we're going to start um for the next episode
+ um because heart stroke volume is really as we've mentioned before uh the biggest long-term limiter
+ of vo2max but of course it's hard to pump more blood if you don't have enough blood so these
+ things are interlinked um so we're going to get into the hard stuff next episode uh and we're
+ going to see a lot more about this interlinking between blood volume and heart stroke volume
+ um and we're going to look at some of the very few papers out there that are brave enough to actually
+ try to tackle the mechanism of increased uh heart stroke volume do you have any final thoughts Kyle
+ yeah I think this is kind of cool because I think a lot of people especially in cycling have heard
+ of hematocrit and think you know generally if you you hear hermatic written in the doping context
+ but you're like oh higher hematocrit must be better and this must be the case especially because like
+ the UCI had that rule that you weren't allowed to race if your hematocrit got tested over 50 or
+ whatever so people would you know ride that line really close and that kind of implies that just
+ always more hematocrit is better it does it does imply that and actually we remember hearing stories
+ about people having to get up in the middle of the night and spin or their blood was going to
+ coagulate and congeal because they had too many red cells right right and so it's a health and
+ safety thing you know just despite the doping thing right exactly and and this kind of goes to show
+ that it's not a universal truth that higher hematocrit means that you're fitter or faster or or
+ whatever um and then it again looking at this concentration is like an oversimplification of
+ the things that go into making you actually fit right and that that paper that came out recently
+ that um that's been sent to me eight times um one of the things that happened is they actually
+ managed to increase the athletes um red cell volume um
+ and actually we didn't we didn't mention the um the the blood volume thing um how do we measure
+ blood volume um let's get that out of the way real quick um because one of the reasons one of
+ the things you might think is like i want to measure my blood volume it's hard because what
+ we have to do is we have to um take a known quantity of something uh in the coil study
+ they used a blue dye and um it's not it's not weird it's not like you're actually like tie
+ dyeing your blood it's not like you're actually like tie dyeing your blood it's not like you're
+ blood or anything like that. Blue dyes are actually very common in the sciences. There's
+ a lot of different molecules that can reflect blue light. So what you do is you put a known
+ quantity into the blood and you let it dilute. It takes a while. And then you draw out a known
+ quantity and you measure how much of your tracer is in it. And then you can just reverse calculate
+ how much blood there is. That makes sense. Yeah. So that's why we don't see this kind of thing
+ more often because it's time consuming and you've got to like, I don't know, it's a measurement that
+ a lot of people don't actually take that into consideration that much. And autopsy is also
+ another very accurate way to measure blood volume, but typically people aren't itching to volunteer
+ for that either. Yeah, just drain it out. So what were we talking about right before that?
+ Oh, just that, you know, more hematocrit is not necessarily better.
+ Oh yeah. Okay. So I'm sorry. So in that study, they actually managed to increase the athlete's
+ hematocrit with a certain method of training. And most of us coaches who've looked into this
+ kind of thing, like we've known that this is probably maybe a thing for a while. However,
+ what happened is despite the increase in hematocrit, they did not increase their VO2 max.
+ Oh, interesting. Yeah. Yeah. That's a,
+ that's maybe a surprise to everyone involved. Yeah. But see, the thing is like, uh, this is,
+ we're going to get a little into the weeds now, but, uh, I remember reading, uh, secret race,
+ um, and that was Tyler Hamilton, right? Yeah. Yeah. So, yeah. So in secret race,
+ Tyler Hamilton says that, you know, you cannot just dope and make more red cells with artificial
+ erythroperitin, um, and then be faster suddenly. He says, you still have to do the training.
+ So the question is like in the longer term in this study where they added more red cells,
+ very legally, they were not doping. Um, you know, if they trained with this over the next couple
+ weeks after this, uh, after this red cell volume increase, would they have gotten fitter
+ than the group that didn't actually add this, uh, extra, um, hemoglobin? I think it's interesting.
+ It's a good, uh, it's still a good, I mean, blood doping is like the elephant in the room with all
+ of cycling and a lot of other sports too, but like it, it, it's hard not to talk about it.
+ If you're going to talk about human body performance and physiology, because it's
+ something that is a, it's a common touchstone point for almost everyone in the sport who's been
+ in heard of cycling, even people who have not participated. Um, and so it's also a good way to,
+ you know,
+ increase sort of understanding if people have better, better, uh, familiarity with
+ words like hematocrit. No, that's true. That's very true. Um, yeah. And I think,
+ I think the other thing is that looking at, um, doping in some lights, uh, is instructive. Um,
+ you know, like, like you just said, but, um, cause normally when we want to look at how
+ things function, um, we look at the absence of them. We look at, you know, uh,
+ we look at accident victims. We look at, um, you know, people who have, uh, unfortunate genetic,
+ um, mutations when they're born. We look at, um, you know, we look at diseases and how they affect
+ certain, uh, molecules, certain systems in the body, certain proteins. We look at mice,
+ we look at pigs. Um, we look at all kinds of model animals that are, you know, would be typically
+ lacking a gene and, and lacking this function. Um, and so it's interesting to see what happens
+ when we add function.
+ If we, um, if we improve something, what happens? Usually we're looking at, um, people who are,
+ and animals that are not having a good life. Let's put it that way.
+ All right. So, um, so as always, I want to thank everybody for listening. Um, you know, I want to,
+ of course, thank everybody who's written to me. Uh, I'm sorry. I couldn't get back to everybody.
+ Um, written to me saying, uh, you know, thank you for the content. Thank you for the episodes. And,
+ um, thank you for helping me get a lot faster and fitter.
+ Um, that's why we're doing this. And I love hearing that. So even if I don't respond,
+ I'm really sorry about that. Please, please keep writing. Uh, if you have any, um, questions or
+ comments, you've got any coaching and consultation inquiries, you can just shoot me an email,
+ empiricalcyclingatgmail.com. Uh, if you have any, um, if you have any merch needs,
+ if you want to get an empirical cycling podcast bottle or shower curtain, I don't know. I gotta
+ get a shower curtain. Um, uh, that's at empiricalcyclingpodcast.threadless.com. Um, and,
+ uh, an iTunes rating would not go amiss as well. If you are enjoying the content and especially
+ sharing the podcast with, uh, with your friends and loved ones. And I hope everybody's staying
+ safe out there. Yeah. Thanks everyone.
+ Bye.
