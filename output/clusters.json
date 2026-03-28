@@ -1796,7 +1796,7 @@
     ]
   },
   "cluster_13": {
-    "count": 17,
+    "count": 18,
     "top_terms": [
       {
         "term": "recovery",
@@ -1960,6 +1960,12 @@
         "filename": "2265497594-empiricalcyclingpodcast-ten-minute-tips-72-the-roles.txt",
         "numeric_id": 2265497594,
         "word_count": 8701,
+        "series": "Ten Minute Tips"
+      },
+      {
+        "filename": "2291300408-ten-minute-tips-75-the-art-of.txt",
+        "numeric_id": 2291300408,
+        "word_count": 12122,
         "series": "Ten Minute Tips"
       }
     ]

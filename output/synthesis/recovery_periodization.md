@@ -6,11 +6,11 @@ Recovery is where adaptation actually occurs. The training stimulus breaks the b
 
 **Recommendations:**
 - Treat rest weeks as planned training investments, not emergency responses to breakdown
-- Default to rest when uncertain whether to train or rest; this is rarely the wrong choice for recreational athletes
+- Default to rest when uncertain whether to train or rest — "when in doubt, sit it out"; this is rarely the wrong choice for recreational athletes
 - Accept that feeling worse early in a rest week is normal and expected
 - Do not restrict calories during rest weeks — energy restriction impairs the recovery processes rest is designed to support
 
-**Sources:** Episodes `1244788597-empiricalcyclingpodcast-perspectives-11-the-best-workout-is-not-working-out-with-adam-pulford.txt`, `1594046289-empiricalcyclingpodcast-perspectives-27-common-reasons-for-fitness-plateaus-and-their-fixes-with-rory-porteous.txt`, `2114034129-empiricalcyclingpodcast-ten-minute-tips-58-why-rest-can-be-so-scary.txt`, `2265497594-empiricalcyclingpodcast-ten-minute-tips-72-the-roles.txt`
+**Sources:** Episodes `1244788597-empiricalcyclingpodcast-perspectives-11-the-best-workout-is-not-working-out-with-adam-pulford.txt`, `1594046289-empiricalcyclingpodcast-perspectives-27-common-reasons-for-fitness-plateaus-and-their-fixes-with-rory-porteous.txt`, `2114034129-empiricalcyclingpodcast-ten-minute-tips-58-why-rest-can-be-so-scary.txt`, `2265497594-empiricalcyclingpodcast-ten-minute-tips-72-the-roles.txt`, `2291300408-ten-minute-tips-75-the-art-of.txt`
 
 ---
 
@@ -55,7 +55,7 @@ Work deadlines, poor sleep, family conflict, and psychological exhaustion are ph
 - Use subjective metrics (RPE, mood, motivation) alongside objective data for load decisions
 - When life stress spikes, reduce training load proactively rather than waiting for performance to decline
 
-**Sources:** Episodes `1675129809-empiricalcyclingpodcast-ten-minute-tips-31-how-to-take-a-rest-day-and-how-to-avoid-screwing-it-up.txt`, `1775663571-empiricalcyclingpodcast-ten-minute-tips-36-how-to-leave-your-coach-or-yourself-workout-feedback.txt`, `1594046289-empiricalcyclingpodcast-perspectives-27-common-reasons-for-fitness-plateaus-and-their-fixes-with-rory-porteous.txt`
+**Sources:** Episodes `1675129809-empiricalcyclingpodcast-ten-minute-tips-31-how-to-take-a-rest-day-and-how-to-avoid-screwing-it-up.txt`, `1775663571-empiricalcyclingpodcast-ten-minute-tips-36-how-to-leave-your-coach-or-yourself-workout-feedback.txt`, `1594046289-empiricalcyclingpodcast-perspectives-27-common-reasons-for-fitness-plateaus-and-their-fixes-with-rory-porteous.txt`, `2291300408-ten-minute-tips-75-the-art-of.txt`
 
 ---
 
@@ -149,6 +149,23 @@ Cyclists with 2-5 years of structured training who gain 10-30W per year in FTP p
 
 ---
 
+## Auto-Regulation Is a Skill That Complements Structure, Not a Replacement for It
+
+Training by "vibes" — auto-regulation — is most effective when layered onto a foundation of structured training principles, not used as an excuse to abandon structure entirely. Kolie Moore frames this as a spectrum: most athletes should operate somewhere between 25% and 75% vibes-based, depending on experience, schedule predictability, and self-awareness. The key is maintaining a prioritized list of training goals for each week or block, so that when a good-legs day arrives, you know exactly which workout to deploy — primary goal first, secondary if time allows, tertiary optional. Athletes with unpredictable schedules (medical professionals, shift workers, new parents) and those with multi-sport interests benefit most from auto-regulation, but also need the most discipline around recovery. Short FTP efforts (3–5 minutes) on days 3–5 after a hard block serve as an objective readiness check: if threshold power comes easily and you feel you could sustain it for 30+ minutes, you're recovered; if you're counting down seconds, rest more. Short sprints provide a complementary neuromuscular readiness signal. When doing less-structured workouts, still target a specific energy system per session — the "least structured viable workout" concept means giving athletes a time-at-intensity target (e.g., "60 minutes at FTP, 10-minute minimum intervals") rather than rigid interval prescriptions, while avoiding the trap of defaulting to kitchen-sink efforts that train everything shallowly. Importantly, undercooking intensity by 5–20% is far preferable to overcooking by 10% — the recovery hole from excess is disproportionately deep. Tim Cusick's suggestion of hiring a coach for 1–3 years specifically to learn the training rhythm before self-coaching is now endorsed by Kolie as the most effective path for athletes who ultimately want to self-coach.
+
+**Recommendations:**
+- Maintain a prioritized list of weekly training goals; on good-legs days, execute the highest-priority session first
+- Use 3–5 minute FTP efforts and short sprints as low-cost readiness checks before committing to a hard session
+- When auto-regulating workouts, still target a specific energy system — avoid defaulting to unstructured "bit of everything" rides
+- Accept ±5–10W of target power outdoors as close enough; do not expect erg-mode precision
+- Track mood and motivation as early-warning metrics for overreaching or under-fueling
+- When life stress is high, you likely have only one day of truly good legs — deploy them on the highest-priority session
+- Consider working with a coach for 1–3 years to learn the rhythm of push-and-pull before self-coaching
+
+**Sources:** Episodes `2291300408-ten-minute-tips-75-the-art-of.txt`, `2090477523-empiricalcyclingpodcast-ten-minute-tips-55-when-to-take-a-rest-week-trusting-subjective-metrics.txt`, `2265497594-empiricalcyclingpodcast-ten-minute-tips-72-the-roles.txt`
+
+---
+
 ## Evolution of Views
 
 The podcast's treatment of recovery and periodization shows a clear trajectory from conventional periodization toward increasingly aggressive rest advocacy and nuanced fatigue management. Early episodes like the Watts Doc criterium episode (599421588) present aerobic base as primarily a performance tool — recovery is discussed mechanistically (creatine phosphate regeneration) rather than as a training philosophy, and in-season training adjustments are framed without a broader periodization framework. By the middle episodes, the framing shifts: Adam Pulford's appearance (1244788597) introduces "the best workout is not working out" as a deliberate provocation, and Rory Porteous (1594046289) begins systematically cataloguing recovery failures as the primary cause of plateaus.
@@ -162,3 +179,5 @@ The in-season training philosophy shows the clearest periodization arc. The earl
 Rest week scheduling evolves from general advice ("take rest weeks regularly") toward specific diagnostic tools. Sprint power as a fatigue canary (2090477523) and TTE tracking alongside FTP (2129494140) represent concrete readiness-assessment methods that replace the earlier reliance on subjective feel alone. Rory Porteous (2129494140) describes auto-regulation by time rather than watt targets as a recent change in his own coaching, marking a shift from prescriptive to adaptive periodization. The endurance pacing guidance similarly tightens: the 60-80% of LT1 target and the LT1 drift correction (1799552662) provide more precise anchoring than the earlier general advice to "ride easy."
 
 Throughout the later Ten Minute Tips series (episodes 55-72), there is an increasing emphasis on the psychological barriers to rest — fear of fitness loss, social media comparison, CTL anxiety — suggesting the hosts recognized that the physiological case for recovery had been made but athletes were still failing to implement it for psychological reasons. James McKay (2265497594) frames diagnosing recovery limitation in low-volume athletes as "a relatively recent conceptual development in the coaching community," marking a departure from the traditional assumption that low-volume athletes simply needed more volume.
+
+The most recent episode on auto-regulation (2291300408) represents a synthesis of the podcast's evolving periodization philosophy. Where earlier episodes prescribed specific rest week schedules and readiness tests, this episode advocates teaching athletes to internalize those principles through a blend of structure and flexibility. Kolie explicitly notes he changed his mind on recommending coaches for self-coaching development — previously he did not suggest it, but after Tim Cusick's appearance he now actively recommends 1–3 years with a coach as an investment in learning training rhythm. The episode also crystallizes a principle that emerged gradually across earlier episodes: undercooking training by a small margin is always preferable to overcooking, because the recovery cost of excess is non-linear. This marks the podcast's clearest statement yet that auto-regulation, properly calibrated, is not a concession to laziness but a sophisticated training skill — one that the hosts now consider essential for long-term athletic development.

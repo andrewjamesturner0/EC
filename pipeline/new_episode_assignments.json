@@ -1,23 +1,23 @@
 [
   {
-    "filename": "2286114404_empirical_cycling_po_perspectives_41_macr.txt",
-    "numeric_id": 2286114404,
-    "word_count": 15543,
-    "assigned_cluster": "cluster_6",
-    "cluster_id": 6,
-    "similarity_score": 0.4724,
+    "filename": "2291300408-ten-minute-tips-75-the-art-of.txt",
+    "numeric_id": 2291300408,
+    "word_count": 12122,
+    "assigned_cluster": "cluster_13",
+    "cluster_id": 13,
+    "similarity_score": 0.5749,
     "top_3": [
       {
-        "cluster": "cluster_6",
-        "score": 0.4724
+        "cluster": "cluster_13",
+        "score": 0.5749
       },
       {
-        "cluster": "cluster_1",
-        "score": 0.3619
+        "cluster": "cluster_17",
+        "score": 0.5453
       },
       {
-        "cluster": "cluster_3",
-        "score": 0.3597
+        "cluster": "cluster_16",
+        "score": 0.5161
       }
     ]
   }

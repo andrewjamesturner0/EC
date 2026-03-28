@@ -555,5 +555,50 @@
 
 ---
 
-*End of Cluster 13 extractions — 17 episodes total*
+### Episode 18 of 18
+
+**File:** `2291300408-ten-minute-tips-75-the-art-of.txt`
+**Numeric ID:** 2291300408
+**Word count:** ~13,264
+**Series:** Ten Minute Tips
+
+**Core Message:** Auto-regulation ("vibes training") is a valuable skill that complements structured training, not a replacement for it. The best results come from blending structure with flexibility — knowing your priorities, using objective metrics to gauge readiness, and adjusting effort based on recovery status, life stress, and motivation. Most athletes benefit from 25–75% auto-regulated training depending on experience, schedule predictability, and self-awareness.
+
+**Key Training Recommendations:**
+- Maintain a prioritized list of training goals for the week/block (e.g., primary: FTP/TTE, secondary: sprint, tertiary: optional) so that when you auto-regulate, you know what to do first on good-legs days
+- Use short FTP efforts (3–5 minutes) on days 3–5 after a hard block to objectively gauge recovery — if it feels easy and numbers are normal, you're ready; if you're counting down the seconds, rest more
+- Use short sprints as a low-fatigue-cost readiness check — monitor peak power and how "snappy" the neural drive feels; a foreign-feeling motor pattern signals you need more rest
+- When doing less structured workouts, still target a specific energy system per session — avoid defaulting to "kitchen sink" group-ride-style efforts that train everything shallowly
+- For threshold work outdoors, aim for total time at FTP (e.g., "60 minutes at FTP, 10-minute minimum intervals") rather than rigid interval prescriptions — the physiological stimulus is effectively equivalent
+- Accept ±5–10 watts of target power outdoors as "close enough"; don't expect erg-mode precision
+- When RPE creeps up during threshold intervals, maintain power and set an absolute RPE ceiling (e.g., 8/10) rather than chasing a heart rate zone
+- For VO2max efforts, breathing and perceived effort are the primary regulators; expect power to drop slightly across reps but keep pushing hard
+- For anaerobic/sprint efforts, stop the session when you can no longer push hard — quality of effort matters more than completing all prescribed reps
+- If in doubt about whether to train, swing a leg over the bike and assess during warm-up — but distinguish rest inertia from genuine fatigue
+- When life stress is high, you likely have only one day of truly good legs — deploy them strategically (e.g., save for a key Saturday session rather than burning them mid-week)
+- Undercooking training intensity by 5–20% is far better than overcooking by 10%; the recovery hole from overcooking is disproportionately deep
+- When coming back from illness, set the bar low and rack up a string of small successes rather than ramping aggressively
+- Track mood and motivation as key metrics — declining motivation often signals overreaching or under-fueling before performance metrics show it
+
+**Caveats & Qualifications:**
+- Auto-regulation works best for athletes with deep training history who have calibrated their sense of effort; inexperienced athletes may misjudge recovery needs
+- Highly motivated athletes risk doing too much on vibes; low-motivation athletes risk doing too little — both extremes need guardrails
+- People with highly unpredictable schedules (medical professionals, shift workers, new parents) may benefit most from vibes-based training, but also need the most discipline around recovery
+- Training camp vibes (e.g., riding hard in Spain for a week) are fine, but athletes with upcoming races need guardrails on intensity, duration, and altitude to control fatigue
+- The "ride easy a lot, sometimes hard" heuristic is too vague to evaluate without knowing what "a lot" and "sometimes" mean for that individual
+
+**Contrarian/Non-Obvious Claims:**
+- Structured plan adherence of 100% is often suboptimal — some degree of auto-regulation typically produces better outcomes than rigid compliance
+- Many athletes are shocked at how little structured training is needed for meaningful long-term progress; the minimum effective dose is lower than most expect
+- The closer you are to race day, the more seriously you should take signs of fatigue (needing to drop power 5–10%) — the same signal in base phase barely matters
+- Fitness gained months ago persists surprisingly well through high-stress periods as long as you maintain some riding; people rarely lose as much as they fear
+- Tim Cusick's suggestion (referenced from earlier podcast): getting a coach for 1–3 years to learn the training rhythm before self-coaching is more effective than starting solo
+- Skipping a hard workout almost never costs meaningful fitness, but forcing one when under-recovered frequently does — "when in doubt, sit it out"
+
+**Evolving Views:**
+- Kolie notes he "used to not suggest" hiring a coach for 1–3 years as a learning investment, but changed his mind after Tim Cusick's podcast appearance — now actively recommends it for self-coached athletes learning auto-regulation
+
+---
+
+*End of Cluster 13 extractions — 18 episodes total*
 *Corrupted transcripts flagged: 1775663571 (severe Whisper glitch, lines 25–63), 1843418724 (partial Whisper glitch, ~line 420 onward)*
